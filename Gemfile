@@ -6,5 +6,6 @@ gem "kramdown-parser-gfm"
 gem "webrick", "~> 1.7"
 
 gem 'logger'
+gem "ed."
 #added
 #gem "github-pages", "~> 232", group: :jekyll_plugins
