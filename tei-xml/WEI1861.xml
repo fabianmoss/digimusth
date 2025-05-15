@@ -1,0 +1,1736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Weitzmann1861</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>tranScriptorium</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <publisher>TRP document creator: maikkoester@hotmail.de</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+	<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="2479" lry="3508">
+			<graphic url="Weitzmann1861-0001.jpg" width="2479px" height="3508px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="5000" lry="7487">
+			<graphic url="Weitzmann1861-0002.jpg" width="5000px" height="7487px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_3">
+		<surface ulx="0" uly="0" lrx="5000" lry="7337">
+			<graphic url="Weitzmann1861-0003.jpg" width="5000px" height="7337px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_4">
+		<surface ulx="0" uly="0" lrx="5000" lry="7374">
+			<graphic url="Weitzmann1861-0004.jpg" width="5000px" height="7374px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_5">
+		<surface ulx="0" uly="0" lrx="5000" lry="7541">
+			<graphic url="Weitzmann1861-0005.jpg" width="5000px" height="7541px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_6">
+		<surface ulx="0" uly="0" lrx="5000" lry="7383">
+			<graphic url="Weitzmann1861-0006.jpg" width="5000px" height="7383px"/>
+			<zone points="714,940 714,7108 4290,7108 4290,940" rendition="TextRegion" subtype="other" xml:id="facs_6_r1"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_7">
+		<surface ulx="0" uly="0" lrx="5000" lry="7437">
+			<graphic url="Weitzmann1861-0007.jpg" width="5000px" height="7437px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_8">
+		<surface ulx="0" uly="0" lrx="5000" lry="7437">
+			<graphic url="Weitzmann1861-0008.jpg" width="5000px" height="7437px"/>
+			<zone points="572,2292 4216,2292 4216,6285 572,6285" rendition="TextRegion" subtype="paragraph" xml:id="facs_8_TextRegion_1614194998460_110"/>
+			<zone points="572,6285 4216,6285 4216,6753 572,6753" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_8_TextRegion_1614194998440_109"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_9">
+		<surface ulx="0" uly="0" lrx="5000" lry="7479">
+			<graphic url="Weitzmann1861-0009.jpg" width="5000px" height="7479px"/>
+			<zone points="862,562 4534,562 4534,721 862,721" rendition="TextRegion" subtype="page-number" xml:id="facs_9_TextRegion_1614195217548_289"/>
+			<zone points="862,721 4534,721 4534,2231 862,2231" rendition="TextRegion" subtype="paragraph" xml:id="facs_9_TextRegion_1614195217548_288"/>
+			<zone points="862,2231 4534,2231 4534,4104 862,4104" rendition="TextRegion" subtype="paragraph" xml:id="facs_9_TextRegion_1614195214840_284"/>
+			<zone points="862,4104 4534,4104 4534,6766 862,6766" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_9_TextRegion_1614195202862_280"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_10">
+		<surface ulx="0" uly="0" lrx="5000" lry="7416">
+			<graphic url="Weitzmann1861-0010.jpg" width="5000px" height="7416px"/>
+			<zone points="2366,645 2366,695 2450,695 2450,645" rendition="TextRegion" subtype="page-number" xml:id="facs_10_region_1614195377662_378"/>
+			<zone points="562,923 4212,923 4212,2736 562,2736" rendition="TextRegion" subtype="paragraph" xml:id="facs_10_TextRegion_1614195417635_396"/>
+			<zone points="562,2736 4212,2736 4212,4278 562,4278" rendition="TextRegion" subtype="paragraph" xml:id="facs_10_TextRegion_1614195417635_395"/>
+			<zone points="562,4278 4212,4278 4212,6767 562,6767" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_10_TextRegion_1614195405978_389"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_11">
+		<surface ulx="0" uly="0" lrx="5000" lry="7499">
+			<graphic url="Weitzmann1861-0011.jpg" width="5000px" height="7499px"/>
+			<zone points="2672,641 2672,691 2745,691 2745,641" rendition="TextRegion" subtype="page-number" xml:id="facs_11_region_1614195691443_515"/>
+			<zone points="858,918 4544,918 4544,1361 858,1361" rendition="TextRegion" subtype="paragraph" xml:id="facs_11_TextRegion_1614195681991_512"/>
+			<zone points="858,1361 4544,1361 4544,3851 858,3851" rendition="TextRegion" subtype="paragraph" xml:id="facs_11_TextRegion_1614195681991_511"/>
+			<zone points="858,3851 4544,3851 4544,5567 858,5567" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_11_TextRegion_1614195672769_507"/>
+			<zone points="858,5567 4544,5567 4544,6165 858,6165" rendition="Music" subtype="floating" xml:id="facs_11_Music_1614195740605_532"/>
+			<zone points="858,6165 4544,6165 4544,6825 858,6825" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_11_TextRegion_1614195657771_497"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_12">
+		<surface ulx="0" uly="0" lrx="5000" lry="7508">
+			<graphic url="Weitzmann1861-0012.jpg" width="5000px" height="7508px"/>
+			<zone points="2430,575 2430,629 2521,629 2521,575" rendition="TextRegion" subtype="page-number" xml:id="facs_12_region_1614195887683_665"/>
+			<zone points="658,853 4360,853 4360,1924 658,1924" rendition="TextRegion" subtype="paragraph" xml:id="facs_12_TextRegion_1614195881349_660"/>
+			<zone points="658,1924 4360,1924 4360,2718 658,2718" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_12_TextRegion_1614195881349_659"/>
+			<zone points="658,2718 4360,2718 4360,4270 658,4270" rendition="Music" subtype="floating" xml:id="facs_12_Music_1614195939387_682"/>
+			<zone points="658,4270 4360,4270 4360,5702 658,5702" rendition="TextRegion" subtype="paragraph" xml:id="facs_12_TextRegion_1614195865265_649"/>
+			<zone points="658,5702 4360,5702 4360,6783 658,6783" rendition="Music" subtype="floating" xml:id="facs_12_Music_1614195955477_689"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_13">
+		<surface ulx="0" uly="0" lrx="5000" lry="7437">
+			<graphic url="Weitzmann1861-0013.jpg" width="5000px" height="7437px"/>
+			<zone points="2600,580 2600,636 2696,636 2696,580" rendition="TextRegion" subtype="page-number" xml:id="facs_13_region_1614196119915_779"/>
+			<zone points="800,864 4440,864 4433,1744 793,1744" rendition="TextRegion" subtype="paragraph" xml:id="facs_13_TextRegion_1614196104800_773"/>
+			<zone points="793,1744 4433,1744 4431,2064 791,2064" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_13_TextRegion_1614196104800_772"/>
+			<zone points="791,2064 4431,2064 4415,4581 775,4581" rendition="Music" subtype="floating" xml:id="facs_13_Music_1614196200357_801"/>
+			<zone points="775,4581 4415,4581 4409,5547 769,5547" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_13_TextRegion_1614196091575_764"/>
+			<zone points="769,5547 4409,5547 4401,6877 761,6877" rendition="Music" subtype="floating" xml:id="facs_13_Music_1614196153856_791"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_14">
+		<surface ulx="0" uly="0" lrx="5000" lry="7437">
+			<graphic url="Weitzmann1861-0014.jpg" width="5000px" height="7437px"/>
+			<zone points="604,581 4268,581 4268,705 604,705" rendition="TextRegion" subtype="page-number" xml:id="facs_14_TextRegion_1614199124258_928"/>
+			<zone points="604,705 4268,705 4268,1166 604,1166" rendition="TextRegion" subtype="paragraph" xml:id="facs_14_TextRegion_1614199124257_927"/>
+			<zone points="604,1166 4268,1166 4268,2245 604,2245" rendition="TextRegion" subtype="paragraph" xml:id="facs_14_TextRegion_1614199121819_921"/>
+			<zone points="604,2245 4268,2245 4268,4563 604,4563" rendition="TextRegion" subtype="paragraph" xml:id="facs_14_TextRegion_1614199110741_917"/>
+			<zone points="604,4563 4268,4563 4268,5789 604,5789" rendition="TextRegion" subtype="paragraph" xml:id="facs_14_TextRegion_1614199102187_911"/>
+			<zone points="604,5789 4268,5789 4268,6741 604,6741" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_14_TextRegion_1614199090945_905"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_15">
+		<surface ulx="0" uly="0" lrx="5000" lry="7437">
+			<graphic url="Weitzmann1861-0015.jpg" width="5000px" height="7437px"/>
+			<zone points="772,557 4444,557 4444,725 772,725" rendition="TextRegion" subtype="page-number" xml:id="facs_15_TextRegion_1614199248758_1030"/>
+			<zone points="772,725 4444,725 4444,3930 772,3930" rendition="TextRegion" subtype="paragraph" xml:id="facs_15_TextRegion_1614199248758_1029"/>
+			<zone points="772,3930 4444,3930 4444,6717 772,6717" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_15_TextRegion_1614199242638_1023"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_16">
+		<surface ulx="0" uly="0" lrx="5000" lry="7483">
+			<graphic url="Weitzmann1861-0016.jpg" width="5000px" height="7483px"/>
+			<zone points="658,600 4342,600 4342,795 658,795" rendition="TextRegion" subtype="page-number" xml:id="facs_16_TextRegion_1614199466084_1272"/>
+			<zone points="658,795 4342,795 4342,1186 658,1186" rendition="TextRegion" subtype="paragraph" xml:id="facs_16_TextRegion_1614199466084_1271"/>
+			<zone points="658,1186 4342,1186 4342,3214 658,3214" rendition="TextRegion" subtype="paragraph" xml:id="facs_16_TextRegion_1614199464297_1265"/>
+			<zone points="658,3214 4342,3214 4342,5748 658,5748" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_16_TextRegion_1614199459565_1261"/>
+			<zone points="658,5748 4342,5748 4342,6807 658,6807" rendition="TextRegion" subtype="footnote" xml:id="facs_16_TextRegion_1614199449774_1257"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_17">
+		<surface ulx="0" uly="0" lrx="5000" lry="7454">
+			<graphic url="Weitzmann1861-0017.jpg" width="5000px" height="7454px"/>
+			<zone points="698,568 4372,568 4372,718 698,718" rendition="TextRegion" subtype="page-number" xml:id="facs_17_TextRegion_1614199628298_1376"/>
+			<zone points="698,718 4372,718 4372,2117 698,2117" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_17_TextRegion_1614199628298_1375"/>
+			<zone points="698,2117 4372,2117 4372,3294 698,3294" rendition="Music" subtype="floating" xml:id="facs_17_Music_1614199657077_1382"/>
+			<zone points="698,3294 4372,3294 4372,6755 698,6755" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_17_TextRegion_1614199620060_1367"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_18">
+		<surface ulx="0" uly="0" lrx="5000" lry="7566">
+			<graphic url="Weitzmann1861-0018.jpg" width="5000px" height="7566px"/>
+			<zone points="682,605 4396,605 4396,739 682,739" rendition="TextRegion" subtype="page-number" xml:id="facs_18_TextRegion_1614199769814_1470"/>
+			<zone points="682,739 4396,739 4396,1988 682,1988" rendition="TextRegion" subtype="paragraph" xml:id="facs_18_TextRegion_1614199769813_1469"/>
+			<zone points="682,1988 4396,1988 4396,3866 682,3866" rendition="TextRegion" subtype="paragraph" xml:id="facs_18_TextRegion_1614199764516_1465"/>
+			<zone points="682,3866 4396,3866 4396,5284 682,5284" rendition="TextRegion" subtype="paragraph" xml:id="facs_18_TextRegion_1614199759356_1461"/>
+			<zone points="682,5284 4396,5284 4396,5612 682,5612" rendition="TextRegion" subtype="paragraph" xml:id="facs_18_TextRegion_1614199745984_1457"/>
+			<zone points="682,5612 4396,5612 4396,5979 682,5979" rendition="Graphic" subtype="floating" xml:id="facs_18_Graphic_1614199808793_1477"/>
+			<zone points="682,5979 4396,5979 4396,6351 682,6351" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_18_TextRegion_1614199739894_1449"/>
+			<zone points="682,6351 4396,6351 4396,6668 682,6668" rendition="Graphic" subtype="floating" xml:id="facs_18_Graphic_1614199819681_1484"/>
+			<zone points="682,6668 4396,6668 4396,6870 682,6870" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_18_TextRegion_1614199732730_1441"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_19">
+		<surface ulx="0" uly="0" lrx="5000" lry="7420">
+			<graphic url="Weitzmann1861-0019.jpg" width="5000px" height="7420px"/>
+			<zone points="746,574 4404,574 4404,735 746,735" rendition="TextRegion" subtype="page-number" xml:id="facs_19_TextRegion_1614199979112_1572"/>
+			<zone points="746,735 4404,735 4404,1801 746,1801" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_19_TextRegion_1614199979112_1571"/>
+			<zone points="746,1801 4404,1801 4404,2380 746,2380" rendition="Graphic" subtype="floating" xml:id="facs_19_Graphic_1614200006569_1578"/>
+			<zone points="746,2380 4404,2380 4406,5795 748,5795" rendition="TextRegion" subtype="paragraph" xml:id="facs_19_TextRegion_1614199965354_1563"/>
+			<zone points="748,5795 4406,5795 4407,5953 749,5953" rendition="TextRegion" subtype="paragraph" xml:id="facs_19_TextRegion_1614199952641_1559"/>
+			<zone points="749,5953 4407,5953 4408,6799 750,6799" rendition="Music" subtype="floating" xml:id="facs_19_Music_1614200041173_1587"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_20">
+		<surface ulx="0" uly="0" lrx="5000" lry="7462">
+			<graphic url="Weitzmann1861-0020.jpg" width="5000px" height="7462px"/>
+			<zone points="566,558 4248,558 4248,722 566,722" rendition="TextRegion" subtype="page-number" xml:id="facs_20_TextRegion_1614200209790_1666"/>
+			<zone points="566,722 4248,722 4248,1938 566,1938" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_20_TextRegion_1614200209789_1665"/>
+			<zone points="566,1938 4248,1938 4248,2366 566,2366" rendition="Graphic" subtype="floating" xml:id="facs_20_Graphic_1614200237443_1672"/>
+			<zone points="566,2366 4248,2366 4248,5181 566,5181" rendition="TextRegion" subtype="paragraph" xml:id="facs_20_TextRegion_1614200202444_1657"/>
+			<zone points="566,5181 4248,5181 4248,6738 566,6738" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_20_TextRegion_1614200197154_1653"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_21">
+		<surface ulx="0" uly="0" lrx="5000" lry="7566">
+			<graphic url="Weitzmann1861-0021.jpg" width="5000px" height="7566px"/>
+			<zone points="874,562 4594,562 4594,700 874,700" rendition="TextRegion" subtype="page-number" xml:id="facs_21_TextRegion_1614200393308_1779"/>
+			<zone points="874,700 4594,700 4594,1290 874,1290" rendition="Music" subtype="floating" xml:id="facs_21_Music_1614200405728_1783"/>
+			<zone points="874,1290 4594,1290 4594,1794 874,1794" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_21_TextRegion_1614200391352_1774"/>
+			<zone points="874,1794 4594,1794 4594,2397 874,2397" rendition="Music" subtype="floating" xml:id="facs_21_Music_1614200420377_1790"/>
+			<zone points="874,2397 4594,2397 4594,3343 874,3343" rendition="TextRegion" subtype="paragraph" xml:id="facs_21_TextRegion_1614200379440_1766"/>
+			<zone points="874,3343 4594,3343 4594,4312 874,4312" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_21_TextRegion_1614200374976_1762"/>
+			<zone points="874,4312 4594,4312 4594,5208 874,5208" rendition="Music" subtype="floating" xml:id="facs_21_Music_1614200447058_1800"/>
+			<zone points="874,5208 4594,5208 4594,5644 874,5644" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_21_TextRegion_1614200363555_1754"/>
+			<zone points="874,5644 4594,5644 4594,6297 874,6297" rendition="TextRegion" subtype="footnote" xml:id="facs_21_TextRegion_1614200360265_1750"/>
+			<zone points="874,6297 4594,6297 4594,6811 874,6811" rendition="TextRegion" subtype="footnote" xml:id="facs_21_TextRegion_1614200356475_1744"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_22">
+		<surface ulx="0" uly="0" lrx="5000" lry="7616">
+			<graphic url="Weitzmann1861-0022.jpg" width="5000px" height="7616px"/>
+			<zone points="526,519 4330,519 4330,695 526,695" rendition="TextRegion" subtype="page-number" xml:id="facs_22_TextRegion_1614200621576_1900"/>
+			<zone points="526,695 4330,695 4330,3969 526,3969" rendition="TextRegion" subtype="paragraph" xml:id="facs_22_TextRegion_1614200621576_1899"/>
+			<zone points="526,3969 4330,3969 4330,6988 526,6988" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_22_TextRegion_1614200619638_1895"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_23">
+		<surface ulx="0" uly="0" lrx="5000" lry="7512">
+			<graphic url="Weitzmann1861-0023.jpg" width="5000px" height="7512px"/>
+			<zone points="802,516 4546,516 4546,697 802,697" rendition="TextRegion" subtype="page-number" xml:id="facs_23_TextRegion_1614200767353_2035"/>
+			<zone points="802,697 4546,697 4546,3423 802,3423" rendition="TextRegion" subtype="paragraph" xml:id="facs_23_TextRegion_1614200767352_2034"/>
+			<zone points="802,3423 4546,3423 4546,5328 802,5328" rendition="TextRegion" subtype="paragraph" xml:id="facs_23_TextRegion_1614200803884_2042"/>
+			<zone points="802,5328 4546,5328 4546,6386 802,6386" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_23_TextRegion_1614200803883_2041"/>
+			<zone points="802,6386 4546,6386 4546,6726 802,6726" rendition="TextRegion" subtype="footnote" xml:id="facs_23_TextRegion_1614200754908_2024"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_24">
+		<surface ulx="0" uly="0" lrx="5000" lry="7416">
+			<graphic url="Weitzmann1861-0024.jpg" width="5000px" height="7416px"/>
+			<zone points="578,535 4266,535 4266,717 578,717" rendition="TextRegion" subtype="page-number" xml:id="facs_24_TextRegion_1614201056188_2298"/>
+			<zone points="578,717 4266,717 4266,1104 578,1104" rendition="TextRegion" subtype="paragraph" xml:id="facs_24_TextRegion_1614201056188_2297"/>
+			<zone points="578,1104 4266,1104 4266,2954 578,2954" rendition="TextRegion" subtype="paragraph" xml:id="facs_24_TextRegion_1614201053290_2291"/>
+			<zone points="578,2954 4266,2954 4266,3590 578,3590" rendition="TextRegion" subtype="paragraph" xml:id="facs_24_TextRegion_1614201048014_2285"/>
+			<zone points="578,3590 4266,3590 4266,6817 578,6817" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_24_TextRegion_1614201034866_2281"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_25">
+		<surface ulx="0" uly="0" lrx="5000" lry="7437">
+			<graphic url="Weitzmann1861-0025.jpg" width="5000px" height="7437px"/>
+			<zone points="802,535 4478,535 4478,707 802,707" rendition="TextRegion" subtype="page-number" xml:id="facs_25_TextRegion_1614201206070_2376"/>
+			<zone points="802,707 4478,707 4478,2966 802,2966" rendition="TextRegion" subtype="paragraph" xml:id="facs_25_TextRegion_1614201206070_2375"/>
+			<zone points="802,2966 4478,2966 4478,5620 802,5620" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_25_TextRegion_1614201202661_2371"/>
+			<zone points="802,5620 4478,5620 4478,6577 802,6577" rendition="Music" subtype="floating" xml:id="facs_25_Music_1614201226789_2383"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_26">
+		<surface ulx="0" uly="0" lrx="5000" lry="7391">
+			<graphic url="Weitzmann1861-0026.jpg" width="5000px" height="7391px"/>
+			<zone points="642,508 4334,508 4334,632 642,632" rendition="TextRegion" subtype="page-number" xml:id="facs_26_TextRegion_1614201390260_2460"/>
+			<zone points="642,632 4334,632 4334,1519 642,1519" rendition="Music" subtype="floating" xml:id="facs_26_Music_1614201403739_2465"/>
+			<zone points="642,1519 4334,1519 4334,2768 642,2768" rendition="TextRegion" subtype="paragraph" xml:id="facs_26_TextRegion_1614201385606_2455"/>
+			<zone points="642,2768 4334,2768 4334,4931 642,4931" rendition="TextRegion" subtype="paragraph" xml:id="facs_26_TextRegion_1614201380759_2449"/>
+			<zone points="642,4931 4334,4931 4334,6622 642,6622" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_26_TextRegion_1614201369769_2443"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_27">
+		<surface ulx="0" uly="0" lrx="5000" lry="7420">
+			<graphic url="Weitzmann1861-0027.jpg" width="5000px" height="7420px"/>
+			<zone points="698,504 4408,504 4408,649 698,649" rendition="TextRegion" subtype="page-number" xml:id="facs_27_TextRegion_1614201588655_2632"/>
+			<zone points="698,649 4408,649 4408,1384 698,1384" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_27_TextRegion_1614201588655_2631"/>
+			<zone points="698,1384 4408,1384 4408,2743 698,2743" rendition="Music" subtype="floating" xml:id="facs_27_Music_1614201615988_2638"/>
+			<zone points="698,2743 4408,2743 4408,4454 698,4454" rendition="TextRegion" subtype="paragraph" xml:id="facs_27_TextRegion_1614201581452_2623"/>
+			<zone points="698,4454 4408,4454 4408,6631 698,6631" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_27_TextRegion_1614201574376_2615"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_28">
+		<surface ulx="0" uly="0" lrx="5000" lry="7495">
+			<graphic url="Weitzmann1861-0028.jpg" width="5000px" height="7495px"/>
+			<zone points="594,582 4280,582 4280,767 594,767" rendition="TextRegion" subtype="page-number" xml:id="facs_28_TextRegion_1614202021187_2768"/>
+			<zone points="594,767 4280,767 4280,2268 594,2268" rendition="TextRegion" subtype="paragraph" xml:id="facs_28_TextRegion_1614202021187_2767"/>
+			<zone points="594,2268 4280,2268 4280,2733 594,2733" rendition="TextRegion" subtype="paragraph" xml:id="facs_28_TextRegion_1614202002126_2753"/>
+			<zone points="594,2733 4280,2733 4280,4005 594,4005" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_28_TextRegion_1614201994724_2749"/>
+			<zone points="594,4005 4280,4005 4280,6144 594,6144" rendition="Music" subtype="floating" xml:id="facs_28_Music_1614202062054_2778"/>
+			<zone points="594,6144 4280,6144 4280,6770 594,6770" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_28_TextRegion_1614201985633_2741"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_29">
+		<surface ulx="0" uly="0" lrx="5000" lry="7649">
+			<graphic url="Weitzmann1861-0029.jpg" width="5000px" height="7649px"/>
+			<zone points="742,554 4520,554 4520,706 742,706" rendition="TextRegion" subtype="page-number" xml:id="facs_29_TextRegion_1614202146535_2830"/>
+			<zone points="742,706 4520,706 4520,2488 742,2488" rendition="Music" subtype="floating" xml:id="facs_29_Music_1614202162547_2834"/>
+			<zone points="742,2488 4520,2488 4520,4119 742,4119" rendition="TextRegion" subtype="paragraph" xml:id="facs_29_TextRegion_1614202141688_2825"/>
+			<zone points="742,4119 4520,4119 4520,6810 742,6810" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_29_TextRegion_1614202138085_2821"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_30">
+		<surface ulx="0" uly="0" lrx="5000" lry="7341">
+			<graphic url="Weitzmann1861-0030.jpg" width="5000px" height="7341px"/>
+			<zone points="732,428 4358,428 4358,585 732,585" rendition="TextRegion" subtype="page-number" xml:id="facs_30_TextRegion_1614202268074_2907"/>
+			<zone points="732,585 4358,585 4358,1003 732,1003" rendition="TextRegion" subtype="paragraph" xml:id="facs_30_TextRegion_1614202268074_2906"/>
+			<zone points="732,1003 4358,1003 4358,4505 732,4505" rendition="TextRegion" subtype="paragraph" xml:id="facs_30_TextRegion_1614202265481_2900"/>
+			<zone points="732,4505 4358,4505 4358,6487 732,6487" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_30_TextRegion_1614202259032_2896"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_31">
+		<surface ulx="0" uly="0" lrx="5000" lry="7508">
+			<graphic url="Weitzmann1861-0031.jpg" width="5000px" height="7508px"/>
+			<zone points="670,405 4410,405 4410,537 670,537" rendition="TextRegion" subtype="page-number" xml:id="facs_31_TextRegion_1614202411553_3021"/>
+			<zone points="670,537 4410,537 4410,995 670,995" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_31_TextRegion_1614202411553_3020"/>
+			<zone points="670,995 4410,995 4410,2353 670,2353" rendition="Music" subtype="floating" xml:id="facs_31_Music_1614202436997_3027"/>
+			<zone points="670,2353 4410,2353 4410,3617 670,3617" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_31_TextRegion_1614202403021_3012"/>
+			<zone points="670,3617 4410,3617 4410,5460 670,5460" rendition="Music" subtype="floating" xml:id="facs_31_Music_1614202446603_3034"/>
+			<zone points="670,5460 4410,5460 4410,6434 670,6434" rendition="TextRegion" subtype="paragraph" xml:id="facs_31_TextRegion_1614202387089_3004"/>
+			<zone points="670,6434 4410,6434 4410,6595 670,6595" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_31_TextRegion_1614202384076_3000"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_32">
+		<surface ulx="0" uly="0" lrx="5000" lry="7429">
+			<graphic url="Weitzmann1861-0032.jpg" width="5000px" height="7429px"/>
+			<zone points="618,425 4316,425 4316,596 618,596" rendition="TextRegion" subtype="page-number" xml:id="facs_32_TextRegion_1614202578811_3124"/>
+			<zone points="618,596 4316,596 4316,2078 618,2078" rendition="TextRegion" subtype="paragraph" xml:id="facs_32_TextRegion_1614202578811_3123"/>
+			<zone points="618,2078 4316,2078 4316,6555 618,6555" rendition="TextRegion" subtype="paragraph-continued" xml:id="facs_32_TextRegion_1614202576328_3117"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_33">
+		<surface ulx="0" uly="0" lrx="5000" lry="7470">
+			<graphic url="Weitzmann1861-0033.jpg" width="5000px" height="7470px"/>
+			<zone points="732,412 4448,412 4448,585 732,585" rendition="TextRegion" subtype="page-number" xml:id="facs_33_TextRegion_1614202745402_3229"/>
+			<zone points="732,585 4448,585 4448,1775 732,1775" rendition="TextRegion" subtype="paragraph" xml:id="facs_33_TextRegion_1614202745402_3228"/>
+			<zone points="732,1775 4448,1775 4448,3331 732,3331" rendition="TextRegion" subtype="paragraph" xml:id="facs_33_TextRegion_1614202741777_3224"/>
+			<zone points="732,3331 4448,3331 4448,4876 732,4876" rendition="TextRegion" subtype="paragraph" xml:id="facs_33_TextRegion_1614202736341_3220"/>
+			<zone points="732,4876 4448,4876 4448,5755 732,5755" rendition="TextRegion" subtype="paragraph" xml:id="facs_33_TextRegion_1614202726127_3214"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_34">
+		<surface ulx="0" uly="0" lrx="15220" lry="11625">
+			<graphic url="Weitzmann1861-0034.jpg" width="15220px" height="11625px"/>
+			<zone points="13916,10277 563,10277 748,790 14100,760" rendition="Music" xml:id="facs_34_Music_1614203244218_3287"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_35">
+		<surface ulx="0" uly="0" lrx="14774" lry="11845">
+			<graphic url="Weitzmann1861-0035.jpg" width="14774px" height="11845px"/>
+			<zone points="14393,10046 1102,10046 1102,729 14393,729" rendition="Music" subtype="floating" xml:id="facs_35_Music_1614203535333_3300"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_36">
+		<surface ulx="0" uly="0" lrx="5000" lry="7508">
+			<graphic url="Weitzmann1861-0036.jpg" width="5000px" height="7508px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_37">
+		<surface ulx="0" uly="0" lrx="5000" lry="7391">
+			<graphic url="Weitzmann1861-0037.jpg" width="5000px" height="7391px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_38">
+		<surface ulx="0" uly="0" lrx="5000" lry="7683">
+			<graphic url="Weitzmann1861-0038.jpg" width="5000px" height="7683px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_39">
+		<surface ulx="0" uly="0" lrx="5000" lry="7408">
+			<graphic url="Weitzmann1861-0039.jpg" width="5000px" height="7408px"/>
+		</surface>
+	</facsimile>
+   <text xml:space="preserve">
+      <body>
+         <pb facs="#facs_1" n="1"/>
+         <pb facs="#facs_2" n="2"/>
+         <pb facs="#facs_3" n="3"/>
+         <pb facs="#facs_4" n="4"/>
+         <pb facs="#facs_5" n="5"/>
+         <pb facs="#facs_6" n="6"/>
+         <div rend="TEI" facs="#facs_6_r1">
+            <p facs="#facs_6_r1">
+				<lb facs="#facs_6_r1l1" n="N001"/><title ana="#text" ref="W0037">Die</title>
+				<lb facs="#facs_6_r1l2" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;"> <title ana="#text" ref="W0037">Neue <rs ana="#concept_mus">Harmonielehre</rs></title></hi>
+				<lb facs="#facs_6_r1l4" n="N003"/><title ana="#text" ref="W0037">im</title>
+				<lb facs="#facs_6_r1l5" n="N004"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <title ana="#text" ref="W0037">Streit mit der alten</title></hi>
+				<lb facs="#facs_6_r1l6" n="N005"/>von
+				<lb facs="#facs_6_r1l7" n="N006"/><hi rend="fontSize:0.0; kerning:0; bold:true;"> <persName role="author" ref="P0041">C. F. Weitzmann</persName>.</hi>
+				<lb facs="#facs_6_r1l8" n="N007"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Mit einer musikalischen Beilage:</hi>
+				<lb facs="#facs_6_r1l9" n="N008"/><hi rend="fontSize:0.0; kerning:0; bold:true;"> <rs ana="#concept_mus">Albumblätter</rs> zur Emancipation der <rs ana="#concept_mus">Quinten</rs>,</hi>
+				<lb facs="#facs_6_line_1614194878355_84" n="N009"/>und
+				<lb facs="#facs_6_r1l10" n="N010"/><hi rend="fontSize:0.0; kerning:0; bold:true;">Anthologie klassischer <rs ana="#concept_mus">Quintenparallelen</rs>.</hi>
+				<lb facs="#facs_6_r1l11" n="N011"/><placeName>Leipzig</placeName>,
+				<lb facs="#facs_6_r1l12" n="N012"/>Verlag von C. F. Kahnt.
+			</p>
+         </div>
+         <pb facs="#facs_7" n="7"/>
+         <pb facs="#facs_8" n="8"/>
+         <div rend="TEI" facs="#facs_8_TextRegion_1614194998460_110">
+            <p facs="#facs_8_TextRegion_1614194998460_110">
+				<lb facs="#facs_8_r2l1" n="N001"/>In einer bei der <rs ana="#concept_mus">Tonkünstler</rs>-Versammlung zu <placeName>Leipzig</placeName> am
+				<lb facs="#facs_8_r2l2" n="N002"/><date>3. Juni 1859</date> gehaltenen <title ana="#text" ref="W0038">Vorlesung</title> über die <rs ana="#concept_mus">Geschichte der</rs>
+				<lb facs="#facs_8_r2l3" n="N003"/><rs ana="#concept_mus">Harmonie</rs> und ihrer Lehre, welche in den vier ersten Nummern
+				<lb facs="#facs_8_r2l4" n="N004"/>des 51. Bandes der „<title ana="#text" ref="W0010">Neuen Zeitschrift für Musik</title>” (<placeName>Leipzig</placeName>
+				<lb facs="#facs_8_r2l5" n="N005"/>bei Kahnt) nachzusehen ist, und welcher die Ehre zu Theil ward,
+				<lb facs="#facs_8_r2l6" n="N006"/>in einer <placeName>Wiener</placeName> <rs ana="#concept_mus">Musik-Zeitung</rs> nachgedruckt zu werden, er<pc>¬</pc>
+				<lb facs="#facs_8_r2l7" n="N007"/>wähnte ich des von Herrn Dr. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0042">Brendel</persName></hi> ausgesetzten Preises
+				<lb facs="#facs_8_r2l8" n="N008"/>für eine <rs ana="#concept_mus">theoretische Schrift</rs>, in welcher die <rs ana="#concept_mus">harmonischen Frei<pc>¬</pc>
+				<lb facs="#facs_8_r2l9" n="N009"/>heiten</rs>, die anerkannte <rs ana="#concept_mus">Tonmeister</rs>, wie <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0016">Beethoven</persName></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0043">Schu<pc>¬</pc></persName></hi>
+				<lb facs="#facs_8_r2l10" n="N010"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0043">mann</persName></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0044">Berlioz</persName></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0045">Wagner</persName></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0046">Liszt</persName></hi> u. A. bereits erkämpft
+				<lb facs="#facs_8_r2l11" n="N011"/>haben, nun auch als rechtlich begründet dargestellt werden soll<pc>¬</pc>
+				<lb facs="#facs_8_r2l12" n="N012"/>ten. Zugleich deutete ich an, auf welche Weise eine solche
+				<lb facs="#facs_8_r2l13" n="N013"/>Schrift aufgefaßt werden könnte. Viele der damals dort an<pc>¬</pc>
+				<lb facs="#facs_8_r2l14" n="N014"/>wesenden <rs ana="#concept_mus">Musiker</rs> drückten hierauf den Wunsch aus, daß ich
+				<lb facs="#facs_8_r2l15" n="N015"/>selbst mich bei der deshalb eröffneten Concurrenz betheiligen
+				<lb facs="#facs_8_line_1614195040680_142" n="N016"/>möchte. Auf meine Erwiederung, daß ich schon als Preisrichter
+				<lb facs="#facs_8_line_1614195057058_164" n="N017"/>bei dieser Angelegenheit bethätigt sei, wurde mir nachgewiesen,
+				<lb facs="#facs_8_r2l20" n="N018"/>daß in der Einladung zu dieser Concurrenz etwaige Arbeiten
+				<lb facs="#facs_8_r2l21" n="N019"/>der drei Preisrichter nicht ausgeschlossen seien, da, wenn auch
+				<lb facs="#facs_8_r2l22" n="N020"/>einer derselben die Beurtheilung eines bestimmten Werkes ab<pc>¬</pc>
+				<lb facs="#facs_8_r2l23" n="N021"/>lehnen sollte, den beiden andern Richtern immer dennoch das
+				<lb facs="#facs_8_r2l24" n="N022"/>Auszeichnen oder das Verwerfen desselben frei stehe. Hierdurch
+				<lb facs="#facs_8_r2l25" n="N023"/>ermuthigt, unternahm ich die Ausarbeitung meines <rs ana="#concept_mus">Harmonie<pc>¬</pc>
+				<lb facs="#facs_8_r2l26" n="N024"/>systemes</rs>, welche das Glück hatte, von den beiden anderen
+				<lb facs="#facs_8_r2l27" n="N025"/>Herren Preisrichtern als die Beste erkannt und mit dem Preise
+				<lb facs="#facs_8_line_1614194998553_113" n="N026"/>gekrönt zu werden.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_8_TextRegion_1614194998440_109">
+            <p facs="#facs_8_TextRegion_1614194998440_109">
+				<lb facs="#facs_8_r2l29" n="N001"/>Eine erste wissenschaftliche <rs ana="#concept_mus">Grammatik</rs> der <rs ana="#concept_mus">Tonsprache</rs> hat
+				<lb facs="#facs_8_r2l30" n="N002"/>uns mein hochverehrter Lehrer <persName role="author" ref="P0007">M. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Hauptmann</hi></persName> gegeben,
+				<lb facs="#facs_8_r2l31" n="N003"/>wie ich schon in der oben erwähnten <title ana="#text" ref="W0038">Vorlesung</title> öffentlich und
+			</p>
+         </div>
+         <pb facs="#facs_9" n="9"/>
+         <div rend="TEI" facs="#facs_9_TextRegion_1614195217548_289">
+            <p facs="#facs_9_TextRegion_1614195217548_289">
+				<lb facs="#facs_9_r2l1" n="N001"/>4
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_9_TextRegion_1614195217548_288">
+            <p facs="#facs_9_TextRegion_1614195217548_288">
+				<lb facs="#facs_9_r2l2" n="N001"/>nachdrücklich ausgesprochen habe. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Diese</hi> aber ist nur <rs ana="#concept_mus">theore<pc>¬</pc>
+				<lb facs="#facs_9_r2l3" n="N002"/>tisch</rs>, also ganz abstrakt, auf ein ideales, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">reines <rs ana="#concept_mus">Tonsystem</rs></hi>
+				<lb facs="#facs_9_r2l4" n="N003"/>gebaut, und stellte es sich zur Aufgabe, die allgemeinen Natur<pc>¬</pc>
+				<lb facs="#facs_9_r2l5" n="N004"/>gesetze der <rs ana="#concept_mus">Harmonik</rs> und der <rs ana="#concept_mus">Metrik</rs> zu ergründen, nicht aber eine
+				<lb facs="#facs_9_r2l6" n="N005"/><rs ana="#concept_mus">praktische Harmonielehre</rs> darzubieten. Diese Grundgesetze nun
+				<lb facs="#facs_9_r2l7" n="N006"/>werden freilich in jeder guten <rs ana="#concept_mus">Theorie</rs> dieselben sein, denn sie
+				<lb facs="#facs_9_r2l8" n="N007"/>sind nicht von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0007">Hauptmann</persName> erfunden</hi>, wie einer meiner
+				<lb facs="#facs_9_r2l9" n="N008"/>Kritiker behauptete, sondern von ihm zum ersten Male wissen<pc>¬</pc>
+				<lb facs="#facs_9_r2l10" n="N009"/>schaftlich festgestellt worden.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_9_TextRegion_1614195214840_284">
+            <p facs="#facs_9_TextRegion_1614195214840_284">
+				<lb facs="#facs_9_r2l11" n="N001"/>Meine Aufgabe dagegen war es, nicht allein jene allge<pc>¬</pc>
+				<lb facs="#facs_9_r2l12" n="N002"/>meinen Gesetze und deren <rs ana="#concept_mus">praktische Anwendung</rs> gedrängt und
+				<lb facs="#facs_9_r2l13" n="N003"/>präcis gefaßt <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">vollständig</hi> mitzutheilen, — und daß ich hier<pc>¬</pc>
+				<lb facs="#facs_9_r2l14" n="N004"/>bei das so eben erwähnte beste der darüber vorhandenen <title ana="#text" ref="W0004">Werke</title>
+				<lb facs="#facs_9_r2l15" n="N005"/>benutzte, wird mir gewiß Niemand zum Vorwurf machen, dem
+				<lb facs="#facs_9_r2l16" n="N006"/>es wie mir darum zu thun ist, Alles wohl zu prüfen und so<pc>¬</pc>
+				<lb facs="#facs_9_r2l17" n="N007"/>dann das Rechte zu bewahren, — sondern auch, und das ist
+				<lb facs="#facs_9_r2l18" n="N008"/><title ana="#text" ref="W0039"> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">meine eigene</hi> und die mit dem Preise gekrönte Arbeit</title>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">alle</hi>
+				<lb facs="#facs_9_r2l19" n="N009"/>in der heutigen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">gebildeten <rs ana="#concept_mus">Tonsprache</rs></hi> gebräuchlichen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Aus<pc>¬</pc></hi>
+				<lb facs="#facs_9_r2l20" n="N010"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">nahmen</hi> von den allgemeinen Regeln zu sammeln, zu sichten,
+				<lb facs="#facs_9_r2l21" n="N011"/>systematisch zu ordnen und ihre theoretische Berechtigung und
+				<lb facs="#facs_9_r2l22" n="N012"/>praktische Verwendbarkeit nachzuweisen.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_9_TextRegion_1614195202862_280">
+            <p facs="#facs_9_TextRegion_1614195202862_280">
+				<lb facs="#facs_9_r2l23" n="N001"/><title ana="#text" ref="W0039">Mein <rs ana="#concept_mus">Harmoniesystem</rs></title> wurde zuerst in der oben erwähnten
+				<lb facs="#facs_9_r2l24" n="N002"/><title ana="#text" ref="W0010">Zeitschrift</title>, und sodann noch besonders bei dem Verleger der<pc>¬</pc>
+				<lb facs="#facs_9_r2l25" n="N003"/>selben abgedruckt. Der Zweck der vorliegenden Blätter aber
+				<lb facs="#facs_9_r2l26" n="N004"/>ist es, mehrere der dort aufgestellten und von der Kritik ange<pc>¬</pc>
+				<lb facs="#facs_9_r2l27" n="N005"/>griffenen Sätze zu vertheidigen, Manches dort zu sehr Ge<pc>¬</pc>
+				<lb facs="#facs_9_r2l28" n="N006"/>drängte oder Mißverstandene zu erweitern und klarer darzu<pc>¬</pc>
+				<lb facs="#facs_9_r2l29" n="N007"/>stellen, und endlich auch dahin zu wirken, eine <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Gleichheit in</hi>
+				<lb facs="#facs_9_r2l30" n="N008"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">der <rs ana="#concept_mus">musikalischen Terminologie</rs></hi> zu erzielen, da fast eine
+				<lb facs="#facs_9_r2l31" n="N009"/>jede <rs ana="#concept_mus">Tonlehre</rs> für gewisse <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">bestimmte Begriffe</hi> ganz <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">ver<pc>¬</pc></hi>
+				<lb facs="#facs_9_r2l32" n="N010"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">schiedene</hi> Namen aufstellt, so daß die Schüler verschiedener
+				<lb facs="#facs_9_r2l33" n="N011"/>Lehrer sich über dergleichen Gegenstände niemals verständigen
+				<lb facs="#facs_9_r2l34" n="N012"/>oder vereinigen können. Diejenige <rs ana="#concept_mus">Grammatik</rs> aber scheint mir
+				<lb facs="#facs_9_r2l35" n="N013"/>den Vorzug zu verdienen, welche bei größter Klarheit und Ver<pc>¬</pc>
+				<lb facs="#facs_9_r2l36" n="N014"/>ständlichkeit ihre Regeln so bestimmt und zugleich so umfassend
+				<lb facs="#facs_9_r2l37" n="N015"/>aufstellt, daß sie die früher als Ausnahmen erklärten einzelnen
+				<lb facs="#facs_9_r2l38" n="N016"/>Fälle zugleich mit in sich begreift, und auch über deren richtige
+				<lb facs="#facs_9_r2l39" n="N017"/>Anwendung keinen Zweifel übrig läßt. Ob nun mein <rs ana="#concept_mus">Harmo<pc>¬</pc></rs>
+            </p>
+         </div>
+         <pb facs="#facs_10" n="10"/>
+         <div rend="TEI" facs="#facs_10_region_1614195377662_378">
+            <p facs="#facs_10_region_1614195377662_378">
+				<lb facs="#facs_10_line_1614195377993_381" n="N001"/>5
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_10_TextRegion_1614195417635_396">
+            <p facs="#facs_10_TextRegion_1614195417635_396">
+				<lb facs="#facs_10_r2l1" n="N001"/><rs ana="#concept_mus">niesystem</rs> die Grundzüge einer solchen <rs ana="#concept_mus">Grammatik</rs> der <rs ana="#concept_mus">Ton<pc>¬</pc>
+				<lb facs="#facs_10_r2l2" n="N002"/>sprache</rs> enthalte, und deshalb wohl geeignet wäre, die frühere
+				<lb facs="#facs_10_r2l3" n="N003"/><rs ana="#concept_mus">Lehre der Harmonie</rs> nicht allein zu vereinfachen und klarer zu
+				<lb facs="#facs_10_r2l4" n="N004"/>gestalten, sondern auch die bei den besten unserer <rs ana="#concept_mus">Tonmeister</rs>
+				<lb facs="#facs_10_r2l5" n="N005"/>vorkommenden, früher aber als Ausnahmen dargestellten Fälle
+				<lb facs="#facs_10_r2l6" n="N006"/>zu erklären, auf Grund derselben ähnliche, bisher noch nicht
+				<lb facs="#facs_10_r2l7" n="N007"/>gewagte, neue <rs ana="#concept_mus">harmonische Bildungen</rs> und <rs ana="#concept_mus">Folgen</rs> als anwend<pc>¬</pc>
+				<lb facs="#facs_10_r2l8" n="N008"/>bar zu rechtfertigen, und zugleich eine allgemein verständliche
+				<lb facs="#facs_10_r2l9" n="N009"/>und präcise <rs ana="#concept_mus">musikalische Terminologie</rs> festzustellen, das unbe<pc>¬</pc>
+				<lb facs="#facs_10_r2l10" n="N010"/>fangen und vorurtheilsfrei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">recht streng und gewissenhaft</hi>
+				<lb facs="#facs_10_r2l11" n="N011"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">selbst zu untersuchen</hi>, lege ich allen deutschen <rs ana="#concept_mus">Tonlehrern</rs>
+				<lb facs="#facs_10_line_1614195417670_399" n="N012"/>dringend an's Herz.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_10_TextRegion_1614195417635_395">
+            <p facs="#facs_10_TextRegion_1614195417635_395">
+				<lb facs="#facs_10_r2l13" n="N001"/>Wenn ich in dem Folgenden vorzugsweise den Angriffen
+				<lb facs="#facs_10_r2l14" n="N002"/>des Herrn <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0047">Selmar Bagge</persName></hi> (in der <title ana="#text" ref="W0040">Deutschen Musikzeitung</title>
+				<lb facs="#facs_10_r2l15" n="N003"/><title ana="#text" ref="W0040">No. 30 und 31</title>) begegne, so geschieht es deshalb, weil dieser
+				<lb facs="#facs_10_r2l16" n="N004"/>mehr wort- als gedankenscharfe <persName role="author" ref="P0047">Kritiker</persName> sich zuerst der, wie er
+				<lb facs="#facs_10_r2l17" n="N005"/>behauptet, „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">der Natur der Sache nach</hi> etwas trockenen
+				<lb facs="#facs_10_r2l18" n="N006"/>Aufgabe” unterzogen hat, <title ana="#text" ref="W0039">meine Schrift</title> einer näheren Prüfung
+				<lb facs="#facs_10_r2l19" n="N007"/>zu unterwerfen, während andere Zeitschriften sich damit be<pc>¬</pc>
+				<lb facs="#facs_10_r2l20" n="N008"/>gnügten, zusammenhanglose Auszüge aus jener <title ana="#text" ref="W0040">Recension</title> zu
+				<lb facs="#facs_10_r2l21" n="N009"/>geben, oder sich „im Ganzen ganz einverstanden mit den An<pc>¬</pc>
+				<lb facs="#facs_10_line_1614195406016_393" n="N010"/>sichten des <persName role="author" ref="P0047">Herrn S. B.</persName>” erklärten.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_10_TextRegion_1614195405978_389">
+            <p facs="#facs_10_TextRegion_1614195405978_389">
+				<lb facs="#facs_10_r2l23" n="N001"/>Zunächst findet es <persName role="author" ref="P0047">der genannte Kritiker</persName> „sonderbar”, daß
+				<lb facs="#facs_10_r2l24" n="N002"/>ich gleich im ersten Satze <title ana="#text" ref="W0039">meiner Schrift</title> gesagt habe: es handle
+				<lb facs="#facs_10_r2l25" n="N003"/>sich um Errungenschaften, die man in „neueren” <rs ana="#concept_mus">Werken</rs> „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">an<pc>¬</pc></hi>
+				<lb facs="#facs_10_r2l26" n="N004"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">erkannter <rs ana="#concept_mus">praktischer Meister</rs></hi>” finde, da doch, was
+				<lb facs="#facs_10_line_1614195456999_442" n="N005"/>„anerkannt” sei, nicht erst einer erläuternden Rechtfertigung
+				<lb facs="#facs_10_r2l29" n="N006"/>bedürfe. Ich erwiedere hierauf, daß neue <rs ana="#concept_mus">harmonische Wag<pc>¬</pc>
+				<lb facs="#facs_10_r2l30" n="N007"/>nisse</rs>, wie wir sie selbst in „älteren” <rs ana="#concept_mus">Werken</rs> anerkannter <rs ana="#concept_mus">prak<pc>¬</pc>
+				<lb facs="#facs_10_r2l31" n="N008"/>tischer Meister</rs> finden, allerdings so lange einer erläuternden
+				<lb facs="#facs_10_r2l32" n="N009"/>Rechtfertigung bedürfen, als die <rs ana="#concept_mus">Theorie</rs> nicht den vernünftigen
+				<lb facs="#facs_10_r2l33" n="N010"/>Grund derselben erkannt dergleichen Ausnahmen zu neuen
+				<lb facs="#facs_10_r2l34" n="N011"/>Regeln erhoben, und solche Errungenschaften sodann als ge<pc>¬</pc>
+				<lb facs="#facs_10_r2l35" n="N012"/>setzlich giltig dargestellt hat. Ich erinnere hier nur an die
+				<lb facs="#facs_10_r2l36" n="N013"/>vielen Auslegungen und Erläuterungen der Einleitung des
+				<lb facs="#facs_10_r2l37" n="N014"/><title ana="#music" ref="W0041">C dur-Quartetts</title> von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0015">Mozart</persName></hi> (S. z. B. <persName role="author" ref="P0014">G. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Weber</hi></persName>, <title ana="#text" ref="W0042">Theorie</title>
+				<lb facs="#facs_10_r2l38" n="N015"/><title ana="#text" ref="W0042">der Tonsetzkunst</title>, 3. Aufl., 3. B. Seite 196—266), deren <rs ana="#concept_mus">Har<pc>¬</pc>
+				<lb facs="#facs_10_r2l39" n="N016"/>monien</rs> allen <rs ana="#concept_mus">Musikern</rs> verständlich erscheinen werden, welche
+			</p>
+         </div>
+         <pb facs="#facs_11" n="11"/>
+         <div rend="TEI" facs="#facs_11_region_1614195691443_515">
+            <p facs="#facs_11_region_1614195691443_515">
+				<lb facs="#facs_11_line_1614195691524_518" n="N001"/>6
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_11_TextRegion_1614195681991_512">
+            <p facs="#facs_11_TextRegion_1614195681991_512">
+				<lb facs="#facs_11_r4l1" n="N001"/>zu deren Erklärung meine <rs ana="#concept_mus">Theorie</rs> der regelmäßigen <rs ana="#concept_mus">diatoni<pc>¬</pc>
+				<lb facs="#facs_11_r4l2" n="N002"/>schen</rs> und <rs ana="#concept_mus">chromatischen Verzögerungen</rs> der <rs ana="#m_note">Töne</rs> eines <rs ana="#m_chord">Accor<pc>¬</pc>
+				<lb facs="#facs_11_r4l3" n="N003"/>des</rs> zu Grunde legen, wie ich weiter unten zu beweisen gedenke.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_11_TextRegion_1614195681991_511">
+            <p facs="#facs_11_TextRegion_1614195681991_511">
+				<lb facs="#facs_11_r4l4" n="N001"/>Herr <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0047">Bagge</persName></hi> hält es für „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">wenig wissenschaftlich</hi>”
+				<lb facs="#facs_11_r4l5" n="N002"/>daß ich mich in <title ana="#text" ref="W0039">meiner Schrift</title> ganz auf <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">allgemeinem</hi> Bo<pc>¬</pc>
+				<lb facs="#facs_11_r4l6" n="N003"/>den gehalten und vermieden hätte, bestimmte angefochtene oder
+				<lb facs="#facs_11_r4l7" n="N004"/>anfechtbare Stellen in den „neuesten Kunstschöpfungen” zu zer<pc>¬</pc>
+				<lb facs="#facs_11_r4l8" n="N005"/>gliedern und ihre Correctheit zu beweisen. Dieser Vorwurf
+				<lb facs="#facs_11_line_1614195777832_573" n="N006"/>aber ist ganz ungerechtfertigt. Das Zusammenstellen und Er<pc>¬</pc>
+				<lb facs="#facs_11_r4l11" n="N007"/>klären einer gewissen Anzahl von Beispielen ist noch keine
+				<lb facs="#facs_11_r4l12" n="N008"/>Wissenschaft, denn diese soll ja eben alle jene Einzelfälle
+				<lb facs="#facs_11_r4l13" n="N009"/>zurückführen auf ihre <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Principien</hi>, um aus diesen sodann
+				<lb facs="#facs_11_r4l14" n="N010"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Lehrsätze</hi> herzuleiten, welche nicht allein auf jene besonderen
+				<lb facs="#facs_11_r4l15" n="N011"/>Fälle anzuwenden sind, sondern eine <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">allgemeine</hi> Giltigkeit
+				<lb facs="#facs_11_r4l16" n="N012"/>haben. In meinem nach solchen Principien geordneten Systeme
+				<lb facs="#facs_11_r4l17" n="N013"/>aber habe ich Lehrsätze aufgestellt, nach denen ein jeder <rs ana="#concept_mus">Musiker</rs>
+				<lb facs="#facs_11_r4l18" n="N014"/>auch die combinirtesten <rs ana="#concept_mus">harmonischen Gebilde</rs> und <rs ana="#concept_mus">Wendungen</rs>
+				<lb facs="#facs_11_r4l19" n="N015"/>in den <rs ana="#concept_mus">Werken</rs> älterer und neuerer <rs ana="#concept_mus">Tonmeister</rs> zu erklären
+				<lb facs="#facs_11_r4l20" n="N016"/>wissen wird.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_11_TextRegion_1614195672769_507">
+            <p facs="#facs_11_TextRegion_1614195672769_507">
+				<lb facs="#facs_11_r4l21" n="N001"/>Herr <persName role="author" ref="P0047">S. B.</persName> führt weiterhin nur eine, ihm selbst nach
+				<lb facs="#facs_11_r4l22" n="N002"/><title ana="#text" ref="W0039">meiner umfassenden <rs ana="#concept_mus">Theorie</rs></title> unerklärbar gebliebene <rs ana="#concept_mus">Stelle</rs> an,
+				<lb facs="#facs_11_r4l23" n="N003"/>nämlich den Anfang der <title ana="#music" ref="W0043">Prometheus-Ouverture</title> von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0046">Liszt</persName></hi>.
+				<lb facs="#facs_11_r4l24" n="N004"/>Abstrahiren wir von der daselbst der Bequemlichkeit der <rs ana="#concept_mus">Spieler</rs>
+				<lb facs="#facs_11_r4l25" n="N005"/>wegen gewählten <rs ana="#concept_mus">Schreibweise</rs>, und führen die <rs ana="#concept_mus">contrapunktische</rs>
+				<lb facs="#facs_11_r4l26" n="N006"/>auf die <rs ana="#concept_mus">harmonische</rs> <rs ana="#concept_mus">Stimmenführung</rs> zurück, so erscheinen die
+				<lb facs="#facs_11_r4l27" n="N007"/>drei ersten <rs ana="#m_chord">Zusammenklänge</rs> als <rs ana="#concept_mus">Verzögerungen</rs> der <rs ana="#m_note">Töne</rs> des
+				<lb facs="#facs_11_r4l28" n="N008"/><rs ana="#m_chord">gis moll-Dreiklanges</rs> (in der <rs ana="#concept_mus">Terzsextlage</rs>), und der diesem
+				<lb facs="#facs_11_r4l29" n="N009"/>folgende <rs ana="#m_chord">übermäßige Dreiklang</rs> (<rs ana="#m_chord">c e gis</rs>) als ähnliche regel<pc>¬</pc>
+				<lb facs="#facs_11_line_1614195798046_611" n="N010"/>mäßige <rs ana="#concept_mus">Verzögerung</rs> des <rs ana="#m_chord">cis moll-Dreiklanges</rs> in der <rs ana="#concept_mus">Grund<pc>¬</pc>
+				<lb facs="#facs_11_line_1614195665274_505" n="N011"/>lage</rs>):
+			</p>
+         </div>
+         <div rend="MEI" facs="#facs_11_Music_1614195740605_532" source="facs_11_Music_1614195740605_532.mei"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_11_TextRegion_1614195657771_497">
+            <p facs="#facs_11_TextRegion_1614195657771_497">
+				<lb facs="#facs_11_r4l39" n="N001"/>Schreiben und hören wir aber auch den dritten <rs ana="#m_chord">Zusammenklang</rs>
+				<lb facs="#facs_11_line_1614195808651_629" n="N002"/>als den <rs ana="#m_chord">c moll-Accord</rs> (in der <rs ana="#concept_mus">Quartsextlage</rs>), so verwechselt
+				<lb facs="#facs_11_r4l42" n="N003"/>Herr <persName role="author" ref="P0047">B.</persName> dennoch hier, wie an andern Stellen, die Begriffe
+				<lb facs="#facs_11_r4l43" n="N004"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">Accord</rs></hi> und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_tonality">Tonart</rs></hi>, wenn er „den schreiendsten <rs ana="#concept_mus">Querstand</rs>
+            </p>
+         </div>
+         <pb facs="#facs_12" n="12"/>
+         <div rend="TEI" facs="#facs_12_region_1614195887683_665">
+            <p facs="#facs_12_region_1614195887683_665">
+				<lb facs="#facs_12_line_1614195887768_668" n="N001"/>7
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_12_TextRegion_1614195881349_660">
+            <p facs="#facs_12_TextRegion_1614195881349_660">
+				<lb facs="#facs_12_r2l1" n="N001"/>des vorhergehenden <rs ana="#m_note">e</rs> und <rs ana="#m_note">a</rs> zu dem <rs ana="#m_note">es</rs> und <rs ana="#m_note">as</rs> der <rs ana="#m_tonality">c moll-</rs>
+				<lb facs="#facs_12_r2l2" n="N002"/><rs ana="#m_tonality">Tonart</rs> zu vernehmen meint, denn nicht ein <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">einzelner</hi> <rs ana="#m_chord">Accord</rs>,
+				<lb facs="#facs_12_r2l3" n="N003"/>sondern erst eine gewisse <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Folge</rs> von <rs ana="#m_chord">Accorden</rs></hi> vermag uns
+				<lb facs="#facs_12_r2l4" n="N004"/>den Begriff einer <rs ana="#concept_mus">bestimmten</rs> <rs ana="#m_tonality">Tonart</rs> zu geben. Wie <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0015">Mozart</persName></hi>
+				<lb facs="#facs_12_r2l5" n="N005"/>in der oben erwähnten <rs ana="#concept_mus">Einleitung</rs> seines <title ana="#music" ref="W0041">C dur-Quartetts</title>, so
+				<lb facs="#facs_12_r2l6" n="N006"/>läßt auch <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0046">Liszt</persName></hi> den <rs ana="#concept_mus">Zuhörer</rs> längere Zeit in Ungewißheit
+				<lb facs="#facs_12_line_1614195881374_663" n="N007"/>über die <rs ana="#m_tonality">Tonart</rs> seiner <rs ana="#concept_mus"> <title ana="#music" ref="W0043">sinfonischen Dichtung</title></rs>.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_12_TextRegion_1614195881349_659">
+            <p facs="#facs_12_TextRegion_1614195881349_659">
+				<lb facs="#facs_12_r2l8" n="N001"/>Zum Beweise aber, daß auch der feinfühlende <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0015">Mozart</persName></hi>
+				<lb facs="#facs_12_r2l9" n="N002"/>motivirte <rs ana="#concept_mus">Querstände</rs> und andere <rs ana="#concept_mus">harmonische Härten</rs> gehörigen
+				<lb facs="#facs_12_r2l10" n="N003"/>Ortes nicht unschön gefunden hat, möge der vielbesprochene
+				<lb facs="#facs_12_r2l11" n="N004"/>Anfang jener <rs ana="#concept_mus">Einleitung</rs> auch hier eine <rs ana="#concept_mus">Stelle</rs> und zugleich
+				<lb facs="#facs_12_line_1614195870564_657" n="N005"/>seine nach <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">meiner</hi> <rs ana="#concept_mus">Theorie</rs> sehr einfache Erklärung finden:
+			</p>
+         </div>
+         <div rend="MEI" facs="#facs_12_Music_1614195939387_682" source="facs_12_Music_1614195939387_682.mei"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_12_TextRegion_1614195865265_649">
+            <p facs="#facs_12_TextRegion_1614195865265_649">
+				<lb facs="#facs_12_r2l24" n="N001"/><persName role="composer" ref="P0015">Mozart</persName> beginnt mit dem <rs ana="#m_chord">As dur-Dreiklange</rs> (in der <rs ana="#concept_mus">Terz<pc>¬</pc>
+				<lb facs="#facs_12_r2l25" n="N002"/>sextlage</rs>), diesem folgt der $$MATH-<rs ana="#m_chord">Accord</rs> <rs ana="#m_chord">c es g a</rs>, der eine regel<pc>¬</pc>
+				<lb facs="#facs_12_r2l26" n="N003"/>mäßige <rs ana="#concept_mus">Trugfortschreitung</rs> in den <rs ana="#m_chord">Secundaccord</rs> <rs ana="#m_chord">c d fis a</rs>
+				<lb facs="#facs_12_r2l27" n="N004"/>nimmt und dieser löst sich sodann in den durch zwei <rs ana="#concept_mus">Vorhalte</rs>
+				<lb facs="#facs_12_r2l28" n="N005"/>verzögerten <rs ana="#m_chord">G dur-Dreiklang</rs> (in der $$MATH-<rs ana="#concept_mus">Lage</rs>) auf. Das <rs ana="#m_note">h</rs> des
+				<lb facs="#facs_12_r2l29" n="N006"/><rs ana="#concept_mus">Basses</rs> bleibt nun als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_note">Halteton</rs></hi> liegen, über welchem der
+				<lb facs="#facs_12_r2l30" n="N007"/><rs ana="#m_chord">h moll-Dreiklang</rs> und sodann der <rs ana="#m_chord">verminderte Dreiklang</rs> <rs ana="#m_chord">fis a c</rs>
+				<lb facs="#facs_12_r2l31" n="N008"/>erscheint, der endlich regelmäßig in den <rs ana="#m_chord">G dur-Dreiklang</rs> über<pc>¬</pc>
+				<lb facs="#facs_12_line_1614195858390_647" n="N009"/>geht:
+			</p>
+         </div>
+         <div rend="MEI" facs="#facs_12_Music_1614195955477_689" source="facs_12_Music_1614195955477_689.mei"><p>MUSIK</p></div>
+         <pb facs="#facs_13" n="13"/>
+         <div rend="TEI" facs="#facs_13_region_1614196119915_779">
+            <p facs="#facs_13_region_1614196119915_779">
+				<lb facs="#facs_13_line_1614196119988_782" n="N001"/>8
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_13_TextRegion_1614196104800_773">
+            <p facs="#facs_13_TextRegion_1614196104800_773">
+				<lb facs="#facs_13_r2l1" n="N001"/>Die hierauf folgende <rs ana="#concept_mus">Phrase</rs> ist eine <rs ana="#concept_mus">Sequenz</rs> der vor<pc>¬</pc>
+				<lb facs="#facs_13_r2l2" n="N002"/>stehenden. <rs ana="#concept_mus">Quarten-Parallelen</rs> aber, welche Herr <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0047">Bagge</persName></hi>
+				<lb facs="#facs_13_r2l3" n="N003"/>oben bei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0046">Liszt</persName></hi> in einem diesem Meister gegenüber keineswegs
+				<lb facs="#facs_13_r2l4" n="N004"/>geziemenden Tone rügt, kann derselbe z. B. zu je zweien und
+				<lb facs="#facs_13_r2l5" n="N005"/>dreien und zwar ganz leer auftretend, in dem <rs ana="#concept_mus">Finale</rs> der
+				<lb facs="#facs_13_line_1614196104820_776" n="N006"/><persName role="composer" ref="P0015"> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Mozart</hi>'schen</persName> <title ana="#music" ref="W0044">Jupiter-Sinfonie</title> nachsehen.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_13_TextRegion_1614196104800_772">
+            <p facs="#facs_13_TextRegion_1614196104800_772">
+				<lb facs="#facs_13_r2l7" n="N001"/>Die ebenfalls oft besprochene Stelle in <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0016">Beethovens</persName></hi>
+				<lb facs="#facs_13_r2l8" n="N002"/><title ana="#music" ref="W0045">Eroica</title>:
+			</p>
+         </div>
+         <div rend="MEI" facs="#facs_13_Music_1614196200357_801" source="facs_13_Music_1614196200357_801.mei"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_13_TextRegion_1614196091575_764">
+            <p facs="#facs_13_TextRegion_1614196091575_764">
+				<lb facs="#facs_13_r2l26" n="N001"/>hat bisher nur bei den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Aesthetikern</hi> eine „Entschuldigung”
+				<lb facs="#facs_13_r2l27" n="N002"/>finden können. Nach meinem <rs ana="#concept_mus">System</rs> findet sie eine natürliche
+				<lb facs="#facs_13_r2l28" n="N003"/><rs ana="#concept_mus"> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">theoretische</hi> Erklärung</rs>, wenn man die <rs ana="#m_note">Töne</rs> <rs ana="#m_note">es</rs> und <rs ana="#m_note">g</rs> des
+				<lb facs="#facs_13_r2l29" n="N004"/><rs ana="#concept_mus">Hornes</rs> als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">regelmäßige</hi>, aber <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">frei auftretende</hi> <rs ana="#concept_mus">Ver<pc>¬</pc>
+				<lb facs="#facs_13_r2l30" n="N005"/>zögerungen</rs> der <rs ana="#m_note">Töne</rs> <rs ana="#m_note">d</rs> und <rs ana="#m_note">f</rs> des vom ganzen <rs ana="#concept_mus">Orchester</rs> an<pc>¬</pc>
+				<lb facs="#facs_13_r2l31" n="N006"/>gegebenen, folgenden <rs ana="#m_chord">Dominantseptimenaccordes</rs> betrachtet:
+			</p>
+         </div>
+         <div rend="MEI" facs="#facs_13_Music_1614196153856_791" source="facs_13_Music_1614196153856_791.mei"><p>MUSIK</p></div>
+         <pb facs="#facs_14" n="14"/>
+         <div rend="TEI" facs="#facs_14_TextRegion_1614199124258_928">
+            <p facs="#facs_14_TextRegion_1614199124258_928">
+				<lb facs="#facs_14_r2l1" n="N001"/>9
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_14_TextRegion_1614199124257_927">
+            <p facs="#facs_14_TextRegion_1614199124257_927">
+				<lb facs="#facs_14_r2l2" n="N001"/>In die oberen <rs ana="#concept_mus">Stimmen</rs> gelegt, wie hier im zweiten Beispiele,
+				<lb facs="#facs_14_line_1614199121842_925" n="N002"/>sind diese <rs ana="#concept_mus">Verzögerungen</rs> heut sogar kaum noch auffallend.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_14_TextRegion_1614199121819_921">
+            <p facs="#facs_14_TextRegion_1614199121819_921">
+				<lb facs="#facs_14_r2l4" n="N001"/>Mein <title ana="#text" ref="W0039"> <rs ana="#concept_mus">Harmoniesystem</rs></title> verdankt überhaupt seine Entstehung
+				<lb facs="#facs_14_r2l5" n="N002"/>nur der Ueberzeugung, daß <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">geweihte Künstler</hi>, wie
+				<lb facs="#facs_14_r2l6" n="N003"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0015">Mozart</persName></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0016">Beethoven</persName></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0043">Schumann</persName></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0046">Liszt</persName></hi> und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0045">Wag<pc>¬</pc></persName></hi>
+				<lb facs="#facs_14_r2l7" n="N004"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0045">ner</persName></hi>, nicht <rs ana="#concept_mus">unlogisch</rs> schreiben können, wenn auch der Sinn des
+				<lb facs="#facs_14_r2l8" n="N005"/>nur ihnen eigenthümlichen <rs ana="#concept_mus">Styles</rs> nicht Allen, und besonders,
+				<lb facs="#facs_14_r2l9" n="N006"/>bei dem bisherigen Stande der <rs ana="#concept_mus">Theorie</rs>, nicht ohne erläuternde
+				<lb facs="#facs_14_r2l10" n="N007"/>Erklärung, sogleich verständlich erscheint.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_14_TextRegion_1614199110741_917">
+            <p facs="#facs_14_TextRegion_1614199110741_917">
+				<lb facs="#facs_14_r2l11" n="N001"/><persName role="author" ref="P0047">Der genannte Kritiker</persName> scheint übrigens in <title ana="#text" ref="W0039">meiner Schrift</title>
+				<lb facs="#facs_14_r2l12" n="N002"/>nur anzugreifende Sätze aufgesucht, dieselbe außerdem aber
+				<lb facs="#facs_14_r2l13" n="N003"/>ganz oberflächlich durchgesehen zu haben, so daß sein Ausspruch:
+				<lb facs="#facs_14_r2l14" n="N004"/>Alles aus Opposition! wohl mehr auf <title ana="#text" ref="W0040">seine Recension</title>, als auf
+				<lb facs="#facs_14_r2l15" n="N005"/><title ana="#text" ref="W0039">meine Schrift</title> anzuwenden ist. Er behauptet z. B.: „Auch der
+				<lb facs="#facs_14_r2l16" n="N006"/>Name <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0043">Schumann</persName></hi>, an den sich viele interessante Bemerkungen
+				<lb facs="#facs_14_r2l17" n="N007"/>hätten anknüpfen lassen” — — „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">kommt in der <title ana="#text" ref="W0039">Schrift</title></hi>
+				<lb facs="#facs_14_r2l18" n="N008"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">nicht vor; ebensowenig irgend einer der neueren</hi>
+				<lb facs="#facs_14_r2l19" n="N009"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Tonsetzer</rs></hi>, von welchem eine bemerkenswerthe Erweiterung
+				<lb facs="#facs_14_r2l20" n="N010"/>und Bereicherung der <rs ana="#concept_mus">Harmonik</rs> hergeleitet werden kann.”
+				<lb facs="#facs_14_r2l21" n="N011"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0043">Schumann</persName></hi> aber wird Seite 23, und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0016">Beethoven</persName></hi> Seite 3,
+				<lb facs="#facs_14_r2l22" n="N012"/>5 (zwei Mal), 21, 50, 55 und 60 citirt. Dem <persName role="composer" ref="P0016">letzteren</persName>
+				<lb facs="#facs_14_r2l23" n="N013"/><persName role="composer" ref="P0016">Meister</persName> aber wird hoffentlich selbst Herr <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0047">Bagge</persName></hi> nicht das
+				<lb facs="#facs_14_r2l24" n="N014"/>Verdienst nehmen wollen, Schöpfer der Periode der „<rs ana="#concept_mus">neueren</rs>
+				<lb facs="#facs_14_line_1614199102432_915" n="N015"/><rs ana="#concept_mus">Tonkunst</rs>” zu sein!
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_14_TextRegion_1614199102187_911">
+            <p facs="#facs_14_TextRegion_1614199102187_911">
+				<lb facs="#facs_14_r2l26" n="N001"/>Unser heutiges, von mir vorangestelltes <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Zwölfton<pc>¬</pc></rs></hi>
+				<lb facs="#facs_14_r2l27" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">system</rs></hi>, auf dem die ganze folgende Lehre gebaut ist, wird
+				<lb facs="#facs_14_r2l28" n="N003"/>nun von Herrn <persName role="author" ref="P0047">B.</persName> ein <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">irriges</hi>, ein für die Stumpfheit des
+				<lb facs="#facs_14_r2l29" n="N004"/><rs ana="#concept_phy">menschlichen Gehörsinnes</rs> erdachter Nothbehelf genannt, da doch
+				<lb facs="#facs_14_r2l30" n="N005"/>die wahre und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">ideale</hi> Beschaffenheit der <rs ana="#concept_mus">Musik</rs> keine <rs ana="#concept_mus">Tempe<pc>¬</pc>
+				<lb facs="#facs_14_r2l31" n="N006"/>ratur</rs> kenne; <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Unreinheit</rs></hi> sei nur dort giltig, wo sie hinge<pc>¬</pc>
+				<lb facs="#facs_14_r2l32" n="N007"/>höre, wo die <rs ana="#concept_phy">Natur</rs> sie hinstelle (?), nicht wo der Mensch sie
+				<lb facs="#facs_14_line_1614199090980_909" n="N008"/>mache. —
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_14_TextRegion_1614199090945_905">
+            <p facs="#facs_14_TextRegion_1614199090945_905">
+				<lb facs="#facs_14_r2l34" n="N001"/>Einer <rs ana="#concept_mus">theoretisch <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">idealen</hi></rs>, nicht aber der <rs ana="#concept_mus"> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">praktisch</hi> rea<pc>¬</pc>
+				<lb facs="#facs_14_r2l35" n="N002"/>len</rs> <rs ana="#concept_mus">Musik</rs> kann ein <rs ana="#concept_mus"> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">reines</hi> Tonsystem</rs> zu Grunde gelegt
+				<lb facs="#facs_14_r2l36" n="N003"/>werden. Denn wie wir das natürliche, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">reine</hi> Gold erst mit
+				<lb facs="#facs_14_r2l37" n="N004"/>Kupfer versetzen, um es für die Kunst brauchbar herzustellen,
+				<lb facs="#facs_14_r2l38" n="N005"/>und wie es darum doch seinen Werth und seine Schönheit
+				<lb facs="#facs_14_r2l39" n="N006"/>nicht einbüßt, so verliert auch die <rs ana="#concept_mus">Musik</rs> weder ihre Macht,
+			</p>
+         </div>
+         <pb facs="#facs_15" n="15"/>
+         <div rend="TEI" facs="#facs_15_TextRegion_1614199248758_1030">
+            <p facs="#facs_15_TextRegion_1614199248758_1030">
+				<lb facs="#facs_15_r3l1" n="N001"/>10
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_15_TextRegion_1614199248758_1029">
+            <p facs="#facs_15_TextRegion_1614199248758_1029">
+				<lb facs="#facs_15_r3l2" n="N001"/>noch ihre Würde, wenn sie durch ein abgegrenztes, <rs ana="#concept_mus">gleichschwe<pc>¬</pc>
+				<lb facs="#facs_15_r3l3" n="N002"/>bend temperirtes System</rs> aus ihrem <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_phy">Naturzustande</rs></hi> in die
+				<lb facs="#facs_15_r3l4" n="N003"/>Region der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Kunst</hi> emporgehoben wird. Unser <rs ana="#concept_phy">Ohr</rs> aber ist
+				<lb facs="#facs_15_r3l5" n="N004"/>heute schon dergestalt an diese kunstvolle (nicht künstliche) <rs ana="#concept_mus"> <rs ana="#concept_phy">Tem<pc>¬</pc>
+				<lb facs="#facs_15_r3l6" n="N005"/>peratur</rs></rs> gewöhnt, daß selbst der <rs ana="#concept_mus">Hornist</rs> die <rs ana="#concept_mus">Naturtöne</rs> seines
+				<lb facs="#facs_15_r3l7" n="N006"/><rs ana="#concept_mus">Instrumentes</rs> <rs ana="#concept_mus">temperiren</rs> muß, und wir schwerlich drei oder vier
+				<lb facs="#facs_15_r3l8" n="N007"/><rs ana="#concept_mus">Sänger</rs> auffinden möchten, die im Stande wären, den in der
+				<lb facs="#facs_15_r3l9" n="N008"/><rs ana="#m_tonality">Tonart</rs> <rs ana="#m_tonality">C dur</rs> auftretenden <rs ana="#m_chord">Accord</rs> <rs ana="#m_chord">D | F a</rs> als einen „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">ver<pc>¬</pc></rs></hi>
+				<lb facs="#facs_15_r3l10" n="N009"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">minderten Dreiklang</rs></hi>” hören zu lassen, wie es doch die
+				<lb facs="#facs_15_r3l11" n="N010"/><rs ana="#concept_mus">Theorie</rs> des <rs ana="#concept_mus"> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">reinen</hi> Tonsystemes</rs>, in welchem letzeren die
+				<lb facs="#facs_15_r3l12" n="N011"/><rs ana="#m_note">Töne</rs> <rs ana="#m_interval">D — a</rs> keine <rs ana="#concept_mus">reine</rs>, sondern eine <rs ana="#m_interval">verminderte Quinte</rs> bil<pc>¬</pc>
+				<lb facs="#facs_15_r3l13" n="N012"/>den, verlangt. Der gebildete <rs ana="#concept_mus">Sänger</rs> singt nicht, wie Herr <persName role="author" ref="P0047">B.</persName>
+				<lb facs="#facs_15_r3l14" n="N013"/>meint, nach einer <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">ungleich schwebenden Temperatur</rs></hi>,
+				<lb facs="#facs_15_r3l15" n="N014"/>auch nicht <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_phy">natur</rs></hi>- sondern <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">kunstrein</hi>, denn er hat bei
+				<lb facs="#facs_15_r3l16" n="N015"/>einem „<rs ana="#concept_mus">reingestimmten</rs>”, d. h. <rs ana="#concept_mus">gleichschwebend temperirten</rs> <rs ana="#concept_mus">Cla<pc>¬</pc>
+				<lb facs="#facs_15_r3l17" n="N016"/>viere</rs> seine jahrelangen Studien gemacht, sein <rs ana="#concept_mus">Gehör</rs> und seine
+				<lb facs="#facs_15_line_1614199302390_1070" n="N017"/><rs ana="#concept_mus">Intonation</rs> gebildet. Eine neuere gründliche Abhandlung über
+				<lb facs="#facs_15_r3l20" n="N018"/>diesen Gegenstand: „<title ana="#text" ref="W0046">Die temperirte Stimmung und die chro<pc>¬</pc></title>
+				<lb facs="#facs_15_r3l21" n="N019"/><title ana="#text" ref="W0046">matische Tonleiter</title>” von <persName role="author" ref="P0048">C. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Kretschmann</hi></persName>, enthält die <placeName>Leip<pc>¬</pc></placeName>
+				<lb facs="#facs_15_line_1614199243639_1027" n="N020"/><placeName>ziger</placeName> <title ana="#text" ref="W0010">Neue Zeitschrift für Musik</title>, Band 53, No. 7, 8, 9.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_15_TextRegion_1614199242638_1023">
+            <p facs="#facs_15_TextRegion_1614199242638_1023">
+				<lb facs="#facs_15_r3l23" n="N001"/>Den von mir aufgestellten Lehrsatz von der Selbständigkeit
+				<lb facs="#facs_15_r3l24" n="N002"/>der <rs ana="#concept_mus"> <rs ana="#concept_phy">Consonanzen</rs></rs> hat Herr <persName role="author" ref="P0047">B.</persName> weder richtig aufgefaßt, noch
+				<lb facs="#facs_15_r3l25" n="N003"/>dessen consequente Durchführung verfolgt. Nicht die „schlechten
+				<lb facs="#facs_15_r3l26" n="N004"/><rs ana="#m_interval">Octaven</rs> und <rs ana="#m_interval">Quinten</rs>”, wie er sie bezeichnet, habe ich in
+				<lb facs="#facs_15_r3l27" n="N005"/>Schutz genommen, sondern nur die „guten”, und ebenso beim
+				<lb facs="#facs_15_r3l28" n="N006"/>Besprechen der verschiedenen <rs ana="#concept_mus">Accordfolgen</rs> stets gelehrt: ent<pc>¬</pc>
+				<lb facs="#facs_15_r3l29" n="N007"/>weder den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">inneren</hi> oder den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">äußeren</hi> Zusammenhang auf<pc>¬</pc>
+				<lb facs="#facs_15_r3l30" n="N008"/>einander folgender <rs ana="#concept_mus">Harmonien</rs> erkennen zu lassen. Aber der
+				<lb facs="#facs_15_r3l31" n="N009"/><rs ana="#concept_mus">Contrapunkt</rs>, welcher hauptsächlich die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Selbständigkeit</hi> verschie<pc>¬</pc>
+				<lb facs="#facs_15_r3l32" n="N010"/>dener <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">gleichzeitig</hi> auftretender <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Melodien</rs></hi> bewahrt wissen
+				<lb facs="#facs_15_r3l33" n="N011"/>will, nimmt beim Uebergange aus dem einen in den anderen
+				<lb facs="#facs_15_r3l34" n="N012"/><rs ana="#m_chord">Accord</rs> eine <rs ana="#concept_mus">freiere Stimmenführung</rs> an, als die <rs ana="#concept_mus">Harmonik</rs>,
+				<lb facs="#facs_15_r3l35" n="N013"/>welche die natürlichste Verbindung der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">nach einander</hi> auf<pc>¬</pc>
+				<lb facs="#facs_15_r3l36" n="N014"/>tretenden <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Harmonien</rs></hi> als Hauptsache betrachtet. Daß ich
+				<lb facs="#facs_15_r3l37" n="N015"/>aber in meinem <rs ana="#concept_mus">Systeme</rs> jederzeit beide Arten der <rs ana="#concept_mus">Stimmen<pc>¬</pc>
+				<lb facs="#facs_15_r3l38" n="N016"/>führung</rs> berücksichtigt und besprochen habe, wird mir kein Un<pc>¬</pc>
+				<lb facs="#facs_15_r3l39" n="N017"/>befangener als Inconsequenz auslegen, denn die <rs ana="#concept_mus">musikalische</rs>
+				<lb facs="#facs_15_r3l40" n="N018"/><rs ana="#concept_mus">Logik</rs> muß sowohl in dem einen, wie in dem anderen Falle be<pc>¬</pc>
+			</p>
+         </div>
+         <pb facs="#facs_16" n="16"/>
+         <div rend="TEI" facs="#facs_16_TextRegion_1614199466084_1272">
+            <p facs="#facs_16_TextRegion_1614199466084_1272">
+				<lb facs="#facs_16_r3l1" n="N001"/>11
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_16_TextRegion_1614199466084_1271">
+            <p facs="#facs_16_TextRegion_1614199466084_1271">
+				<lb facs="#facs_16_r3l2" n="N001"/>wahrt bleiben, wie ich mehrere Male nachdrücklich betont habe,
+				<lb facs="#facs_16_line_1614199464320_1269" n="N002"/>und alle die von mir aufgestellten Beispiele beweisen.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_16_TextRegion_1614199464297_1265">
+            <p facs="#facs_16_TextRegion_1614199464297_1265">
+				<lb facs="#facs_16_r3l4" n="N001"/>Kluger Weise läßt sich mein <persName role="author" ref="P0047">Kritiker</persName> nicht darauf ein, den
+				<lb facs="#facs_16_r3l5" n="N002"/>feinen Unterschied, welchen er in der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">harmonischen Be<pc>¬</pc></rs></hi>
+				<lb facs="#facs_16_r3l6" n="N003"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">deutung</rs> der <rs ana="#m_interval">Quinte</rs></hi> und deren <rs ana="#concept_mus">Umkehrung</rs>, der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_interval">Quarte</rs></hi>,
+				<lb facs="#facs_16_r3l7" n="N004"/>findet, anzugeben, rügt es aber, daß ich bald <rs ana="#concept_mus">wohlklingende</rs>
+				<lb facs="#facs_16_line_1614199386183_1147" n="N005"/><rs ana="#concept_mus">parallele</rs> <rs ana="#m_interval">Quinten</rs> freigebe, bald auf den <rs ana="#concept_mus">Mißklang</rs> selbst <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">ver<pc>¬</pc></rs></hi>
+				<lb facs="#facs_16_r3l10" n="N006"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">deckter</rs></hi> <rs ana="#m_interval">Quinten</rs> und <rs ana="#m_interval">Octaven</rs> aufmerksam mache. Gerade
+				<lb facs="#facs_16_r3l11" n="N007"/>diese Bemerkung aber hätte ihn auf die Consequenz meiner
+				<lb facs="#facs_16_r3l12" n="N008"/>Lehre aufmerksam machen können, nämlich: Bei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">unverbunde<pc>¬</pc></rs></hi>
+				<lb facs="#facs_16_r3l13" n="N009"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">nen Harmonien</rs></hi> und <rs ana="#m_chord">Accorden</rs> <rs ana="#concept_mus"> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">entfernter</hi> Verwandtschaft</rs>
+				<lb facs="#facs_16_r3l14" n="N010"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">parallele</rs></hi>; ja selbst <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">verdeckte</rs></hi> <rs ana="#m_interval">Quinten</rs> und <rs ana="#m_interval">Octaven</rs> und
+				<lb facs="#facs_16_r3l15" n="N011"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Querstände</rs></hi> jeder Art zu vermeiden, um ihnen dadurch statt
+				<lb facs="#facs_16_r3l16" n="N012"/>des fehlenden <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">inneren</hi> einen <rs ana="#concept_mus"> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">äußeren</hi> Zusammenhang</rs> zu
+				<lb facs="#facs_16_r3l17" n="N013"/>verschaffen.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_16_TextRegion_1614199459565_1261">
+            <p facs="#facs_16_TextRegion_1614199459565_1261">
+				<lb facs="#facs_16_r3l18" n="N001"/>Da nun selbst <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0007">Hauptmann</persName></hi>, die allgemein anerkannte
+				<lb facs="#facs_16_r3l19" n="N002"/><rs ana="#concept_mus">theoretische</rs> Autorität der <rs ana="#concept_mus">klassischen Musik</rs>, nur die „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">unmittel<pc>¬</pc></hi>
+				<lb facs="#facs_16_r3l20" n="N003"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">bare <rs ana="#concept_mus">Folge</rs> <rs ana="#m_interval">reiner Quinten</rs> in der <rs ana="#concept_mus">Secundfort<pc>¬</pc></rs></hi>
+				<lb facs="#facs_16_line_1614199410767_1202" n="N004"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">schreitung</rs>, und wo die <rs ana="#m_note">Töne</rs> <rs ana="#m_chord">Accordbedeutung</rs> ha<pc>¬</pc></hi>
+				<lb facs="#facs_16_line_1614199420850_1216" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">ben</hi>”, unbedingt verwirft (s. die untenstehenden Beispiele), nach
+				<lb facs="#facs_16_r3l25" n="N006"/>meiner Meinung aber selbst in diesem <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">einen</hi> Falle jene
+				<lb facs="#facs_16_r3l26" n="N007"/><rs ana="#m_interval">Quinten</rs> noch wohlklingend sein können, so schien es mir an<pc>¬</pc>
+				<lb facs="#facs_16_r3l27" n="N008"/>gemessener, jenes allgemeine <rs ana="#concept_mus">Quintenverbot</rs> aufzuheben, als
+				<lb facs="#facs_16_r3l28" n="N009"/>einen einzelnen Ausnahmefall zum Grunde eines Verbotes zu
+				<lb facs="#facs_16_r3l29" n="N010"/>machen, welches so unzählige Ausnahmen zuläßt. So wenig
+				<lb facs="#facs_16_r3l30" n="N011"/>aber von der Aufhebung des Preßzwanges irgendwo Anarchie,
+				<lb facs="#facs_16_r3l31" n="N012"/>eben so wenig ist auch von der allgemeinen <rs ana="#concept_mus">Quintenfreiheit</rs>
+				<lb facs="#facs_16_r3l32" n="N013"/>irgend welches Unheil zu befürchten *). Herr <persName role="author" ref="P0047">B.</persName> aber hält
+				<lb facs="#facs_16_r3l33" n="N014"/>eine strenge Strafpredigt über meinen kühnen Staatsstreich,
+				<lb facs="#facs_16_r3l34" n="N015"/>giebt jedoch sonderbarer Weise gleich darauf selbst sieben Pröb<pc>¬</pc>
+				<lb facs="#facs_16_r3l35" n="N016"/>chen <rs ana="#concept_mus">paralleler</rs> <rs ana="#m_interval">Quinten</rs>, in denen er „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">aufrichtig gesagt</hi>”,
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_16_TextRegion_1614199449774_1257">
+            <p facs="#facs_16_TextRegion_1614199449774_1257">
+				<lb facs="#facs_16_r3l36" n="N001"/>*) Nochmals wiederhole ich hier, was ich schon in <title ana="#text" ref="W0039">meiner Schrift</title>
+				<lb facs="#facs_16_r3l37" n="N002"/>gesagt habe: daß der verständige Lehrer dem <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Schüler</hi> eine <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">unschöne</hi>
+				<lb facs="#facs_16_r3l38" n="N003"/><rs ana="#concept_mus">Quintenfolge</rs> ebensowohl wie eine geschmacklose <rs ana="#concept_mus">Terzen-</rs> oder <rs ana="#concept_mus">Sexten<pc>¬</pc>
+				<lb facs="#facs_16_r3l39" n="N004"/>folge</rs> verbessern wird, obschon Herr <persName role="author" ref="P0047">B.</persName> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">ästhetische</hi> Gründe, die er
+				<lb facs="#facs_16_r3l40" n="N005"/>gleichwohl im Anfange seiner <title ana="#text" ref="W0040">Recension</title> sehr geltend macht, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">hier</hi> un<pc>¬</pc>
+				<lb facs="#facs_16_r3l41" n="N006"/>statthaft findet, weil er damit „keinen Hund aus dem Ofen locken
+				<lb facs="#facs_16_r3l42" n="N007"/>könne”!
+			</p>
+         </div>
+         <pb facs="#facs_17" n="17"/>
+         <div rend="TEI" facs="#facs_17_TextRegion_1614199628298_1376">
+            <p facs="#facs_17_TextRegion_1614199628298_1376">
+				<lb facs="#facs_17_r2l1" n="N001"/>12
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_17_TextRegion_1614199628298_1375">
+            <p facs="#facs_17_TextRegion_1614199628298_1375">
+				<lb facs="#facs_17_r2l2" n="N001"/>keinen <rs ana="#concept_mus">Uebelklang</rs> entdecken kann. Gänzlich mißverstanden aber
+				<lb facs="#facs_17_r2l3" n="N002"/>hat er <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0007">Hauptmann's</persName></hi> Worte über diesen Gegenstand, wenn
+				<lb facs="#facs_17_r2l4" n="N003"/>er in dem <title ana="#text" ref="W0004">angeführten Werke</title> desselben eine Entschuldigung
+				<lb facs="#facs_17_r2l5" n="N004"/>seiner unten folgenden Beispiele zu finden glaubt; es ist ihm
+				<lb facs="#facs_17_r2l6" n="N005"/>vielmehr gelungen, gerade den einzigen, oben angegebenen, von
+				<lb facs="#facs_17_r2l7" n="N006"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0007">Hauptmann</persName></hi> verworfenen Fall zu treffen, so daß er sich da<pc>¬</pc>
+				<lb facs="#facs_17_r2l8" n="N007"/>mit wider Willen mit der Proclamation einer unbegrenzten
+				<lb facs="#facs_17_r2l9" n="N008"/><rs ana="#concept_mus">Quintenfreiheit</rs> einverstanden erklärt. Es lebe die Aufrichtigkeit!
+			</p>
+         </div>
+         <div rend="MEI" facs="#facs_17_Music_1614199657077_1382" source="facs_17_Music_1614199657077_1382.mei"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_17_TextRegion_1614199620060_1367">
+            <p facs="#facs_17_TextRegion_1614199620060_1367">
+				<lb facs="#facs_17_r2l14" n="N001"/>Das zweite dieser von Herrn <persName role="author" ref="P0047">B.</persName> erfundenen Beispiele ist
+				<lb facs="#facs_17_r2l15" n="N002"/>übrigens nicht nur nach <persName role="author" ref="P0007"> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Hauptmann</hi>'schen</persName>, sondern nach
+				<lb facs="#facs_17_r2l16" n="N003"/>allen vernünftigen Grundsätzen über <rs ana="#concept_mus">gebundene Dissonanzen</rs>
+				<lb facs="#facs_17_r2l17" n="N004"/>überhaupt, auch <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">metrisch</rs></hi> falsch, obgleich mein <persName role="author" ref="P0047">Kritiker</persName> dabei
+				<lb facs="#facs_17_r2l18" n="N005"/>„keine Ohrfeige gefühlt hat” und soll wohl heißen wie bei 3,
+				<lb facs="#facs_17_r2l19" n="N006"/>wo sodann „der Keulenschlag” der <rs ana="#m_interval">reinen Quinten</rs> in der <rs ana="#concept_mus">Se<pc>¬</pc>
+				<lb facs="#facs_17_r2l20" n="N007"/>cundfortschreitung</rs> noch kräftiger ausfällt. Sehr wenig conse<pc>¬</pc>
+				<lb facs="#facs_17_r2l21" n="N008"/>quent macht sich Dem gegenüber der später folgende Vorwurf:
+				<lb facs="#facs_17_r2l22" n="N009"/>ich hätte in einem Beispiele von <rs ana="#m_chord">Dominantseptimaccordfolgen</rs>
+				<lb facs="#facs_17_r2l23" n="N010"/><rs ana="#concept_mus">parallele</rs> <rs ana="#m_interval">Quinten</rs> angebracht, da doch in dem von ihm abge<pc>¬</pc>
+				<lb facs="#facs_17_r2l24" n="N011"/>druckten <rs ana="#concept_mus">Gange</rs> nur die sehr unschuldige <rs ana="#concept_mus">Folge</rs> einer großen
+				<lb facs="#facs_17_r2l25" n="N012"/>nach einer <rs ana="#m_interval">verminderten Quinte</rs> zu ersehen ist. Mit Recht
+				<lb facs="#facs_17_r2l26" n="N013"/>tadelt dagegen <persName role="author" ref="P0047">mein Kritiker</persName> das von mir S. 5 gegebene, zu
+				<lb facs="#facs_17_r2l27" n="N014"/>wenig antastbare Beispiel solcher <rs ana="#concept_mus">Parallelen</rs> von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0016">Beethoven</persName></hi>;
+				<lb facs="#facs_17_r2l28" n="N015"/>ich wählte es aus, um eben alle Opposition dagegen zu ver<pc>¬</pc>
+				<lb facs="#facs_17_r2l29" n="N016"/>meiden, und habe mich geirrt. Um demselben jedoch den Zweifel
+				<lb facs="#facs_17_r2l30" n="N017"/>an „viele andere solcher Beispiele” anerkannter <rs ana="#concept_mus">praktischer</rs>
+				<lb facs="#facs_17_r2l31" n="N018"/><rs ana="#concept_mus">Meister</rs> zu benehmen, lasse ich in der Beilage eine Anthologie
+				<lb facs="#facs_17_r2l32" n="N019"/>klassischer <rs ana="#concept_mus">melodischer</rs> und <rs ana="#concept_mus">harmonischer</rs> <rs ana="#concept_mus">Quintenparallelen</rs> von
+				<lb facs="#facs_17_r2l33" n="N020"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0049">Gluck</persName></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0015">Mozart</persName></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0050">Weber</persName></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0016">Beethoven</persName></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0043">Schumann</persName></hi>,
+				<lb facs="#facs_17_r2l34" n="N021"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0035">Hiller</persName></hi> und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0007">Hauptmann</persName></hi> folgen, empfehle geübten <rs ana="#concept_mus">Quin<pc>¬</pc>
+				<lb facs="#facs_17_r2l35" n="N022"/>tenjägern</rs> noch die <rs ana="#concept_mus">Parallelen</rs> in <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0015">Mozart's</persName></hi> <title ana="#music" ref="W0047">Figaro</title> bei der
+			</p>
+         </div>
+         <pb facs="#facs_18" n="18"/>
+         <div rend="TEI" facs="#facs_18_TextRegion_1614199769814_1470">
+            <p facs="#facs_18_TextRegion_1614199769814_1470">
+				<lb facs="#facs_18_r2l1" n="N001"/>13
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_18_TextRegion_1614199769813_1469">
+            <p facs="#facs_18_TextRegion_1614199769813_1469">
+				<lb facs="#facs_18_r2l2" n="N001"/>Stelle: <title ana="#music" ref="W0047">le donne ficcan gli aghi 2c.</title> und im <rs ana="#concept_mus">Masken-Terzett</rs>
+				<lb facs="#facs_18_r2l3" n="N002"/>des <title ana="#music" ref="W0048">Don Juan</title> an zwei verschiedenen Stellen und gebe außer<pc>¬</pc>
+				<lb facs="#facs_18_r2l4" n="N003"/>dem noch einige <title ana="#music" ref="W0049">Albumblätter zur Emancipation der Quinten</title>,
+				<lb facs="#facs_18_r2l5" n="N004"/>in welchen <rs ana="#concept_mus">verbundene</rs> und <rs ana="#concept_mus">unverbundene</rs>, ja sogar doppelte
+				<lb facs="#facs_18_r2l6" n="N005"/><rs ana="#concept_mus">Quintenparallelen</rs> in gerader und in der <rs ana="#concept_mus">Gegenbewegung</rs> vor<pc>¬</pc>
+				<lb facs="#facs_18_r2l7" n="N006"/>kommen und welche bereits die „aufrichtige” Zustimmung
+				<lb facs="#facs_18_r2l8" n="N007"/>namhafter <rs ana="#concept_mus">Musiker</rs> gewonnen haben.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_18_TextRegion_1614199764516_1465">
+            <p facs="#facs_18_TextRegion_1614199764516_1465">
+				<lb facs="#facs_18_r2l9" n="N001"/><persName role="author" ref="P0047">Der gelehrte Kritiker</persName> bespricht weiterhin <title ana="#text" ref="W0039">meine Capitel</title> von
+				<lb facs="#facs_18_r2l10" n="N002"/>den <rs ana="#m_tonality">Tonarten</rs> und behauptet mehrere Male, ich hätte die Vor<pc>¬</pc>
+				<lb facs="#facs_18_r2l11" n="N003"/>stellung derselben „ganz nach der <persName role="author" ref="P0007"> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Hauptmann</hi>'schen</persName> Weise
+				<lb facs="#facs_18_r2l12" n="N004"/>gegeben.” Das Verdienst aber, den Begriff der <rs ana="#m_tonality">Tonart</rs> zuerst
+				<lb facs="#facs_18_r2l13" n="N005"/>festgestellt zu haben, gebührt dem berühmten <rs ana="#concept_mus">Theoretiker</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0005">Ra<pc>¬</pc></persName></hi>
+				<lb facs="#facs_18_r2l14" n="N006"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0005">meau</persName></hi>, der schon <date>vor mehr als hundert Jahren</date> geschrieben hat.
+				<lb facs="#facs_18_r2l15" n="N007"/>Das Werk seines Interpreten, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0011">d'Alembert</persName></hi>, wurde unter
+				<lb facs="#facs_18_r2l16" n="N008"/>dem Titel: „<title ana="#text" ref="W0050">Systematische Einleitung in die <rs ana="#concept_mus">musikalische Setz<pc>¬</pc></rs></title>
+				<lb facs="#facs_18_r2l17" n="N009"/><title ana="#text" ref="W0050"> <rs ana="#concept_mus">kunst</rs> nach den Lehrsätzen des Herrn <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0005">Rameau</persName></hi></title>” von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0051">Mar<pc>¬</pc></persName></hi>
+				<lb facs="#facs_18_r2l18" n="N010"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0051">purg</persName></hi> ins Deutsche übersetzt (<placeName>Leipzig</placeName>, <date when="1757">1757</date> bei Breitkopf) und
+				<lb facs="#facs_18_r2l19" n="N011"/>das 4. Cap. des ersten Buches „<title ana="#text" ref="W0050">Von der <rs ana="#m_tonality">Tonart</rs> überhaupt</title>”
+				<lb facs="#facs_18_r2l20" n="N012"/>beginnt folgendermaßen:
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_18_TextRegion_1614199759356_1461">
+            <p facs="#facs_18_TextRegion_1614199759356_1461">
+				<lb facs="#facs_18_r2l21" n="N001"/>„Durch <rs ana="#m_tonality">Tonart</rs> (<rs ana="#m_tonality">Modus)</rs> versteht man nichts anders, als
+				<lb facs="#facs_18_r2l22" n="N002"/>eine gewisse, vermittelst der Progression der <rs ana="#m_interval">Quinten</rs>, sowohl
+				<lb facs="#facs_18_r2l23" n="N003"/>in der <rs ana="#concept_mus">Harmonie</rs> als <rs ana="#concept_mus">Melodie</rs>, unter den <rs ana="#m_note">Tönen</rs> festgestellte
+				<lb facs="#facs_18_r2l24" n="N004"/>Ordnung. Also machen die drei <rs ana="#m_note">Töne</rs>: <rs ana="#m_note">F</rs>—<rs ana="#m_note">C</rs>—<rs ana="#m_note">G</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">und die</hi>
+				<lb facs="#facs_18_r2l25" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">harmonischen</rs> <rs ana="#m_note">Töne</rs> derselben, d. i. ihre <rs ana="#m_interval">großen</rs></hi>
+				<lb facs="#facs_18_r2l26" n="N006"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_interval">Terzen</rs> und <rs ana="#m_interval">Quinten</rs> die ganze <rs ana="#m_tonality">Tonart</rs> <rs ana="#m_tonality">C</rs> aus</hi>. Es
+				<lb facs="#facs_18_r2l27" n="N007"/>kann also durch den <rs ana="#concept_mus">Grundbaß</rs> oder die <rs ana="#concept_mus">Fortschreitung</rs> <rs ana="#m_chord">F</rs>—<rs ana="#m_chord">C</rs>—<rs ana="#m_chord">G</rs>,
+				<lb facs="#facs_18_r2l28" n="N008"/>worinnen das <rs ana="#m_note">C</rs> in der Mitte steht, die <rs ana="#m_tonality">Tonart</rs> <rs ana="#m_tonality">C</rs> gleichsam
+				<lb facs="#facs_18_r2l29" n="N009"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">abgebildet</hi> werden.”
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_18_TextRegion_1614199745984_1457">
+            <p facs="#facs_18_TextRegion_1614199745984_1457">
+				<lb facs="#facs_18_r2l30" n="N001"/>Diese deutlich beschriebene Abbildung der <rs ana="#m_tonality">Durtonart</rs> ist
+				<lb facs="#facs_18_r2l31" n="N002"/>demnach die folgende:
+			</p>
+         </div>
+         <div rend="GRAPHIC" facs="#facs_18_Graphic_1614199808793_1477">
+            <figure>
+               <graphic url="graphic/facs_18_Graphic_1614199808793_1477.png"/>
+            </figure>
+         </div>
+         <div rend="TEI" facs="#facs_18_TextRegion_1614199739894_1449">
+            <p facs="#facs_18_TextRegion_1614199739894_1449">
+				<lb facs="#facs_18_r2l33" n="N001"/>Das <rs ana="#concept_mus">System</rs> der <rs ana="#m_tonality">Molltonart</rs> aber gebe ich abweichend von
+				<lb facs="#facs_18_r2l34" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author">Rameau</persName></hi> und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author">Hauptmann</persName></hi> wie folgt:
+			</p>
+         </div>
+         <div rend="GRAPHIC" facs="#facs_18_Graphic_1614199819681_1484">
+            <figure>
+               <graphic url="graphic/facs_18_Graphic_1614199819681_1484.png"/>
+            </figure>
+         </div>
+         <div rend="TEI" facs="#facs_18_TextRegion_1614199732730_1441">
+            <p facs="#facs_18_TextRegion_1614199732730_1441">
+				<lb facs="#facs_18_r2l36" n="N001"/>indem ich den <rs ana="#concept_mus">weichen</rs> <rs ana="#m_chord">Hauptdreiklang</rs> <rs ana="#m_chord">A c E</rs> in Verbindung
+			</p>
+         </div>
+         <pb facs="#facs_19" n="19"/>
+         <div rend="TEI" facs="#facs_19_TextRegion_1614199979112_1572">
+            <p facs="#facs_19_TextRegion_1614199979112_1572">
+				<lb facs="#facs_19_r2l1" n="N001"/>14
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_19_TextRegion_1614199979112_1571">
+            <p facs="#facs_19_TextRegion_1614199979112_1571">
+				<lb facs="#facs_19_r2l2" n="N001"/>setze mit seinen beiden <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">weichen</rs></hi> <rs ana="#m_chord">Dominantaccorden</rs> <rs ana="#m_chord">D f A</rs> und
+				<lb facs="#facs_19_r2l3" n="N002"/><rs ana="#m_chord">E g H</rs>. — Die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_tonality">Tonleiter</rs></hi> bezeichne ich als „die <rs ana="#concept_mus">melodische</rs>
+				<lb facs="#facs_19_r2l4" n="N003"/><rs ana="#concept_mus">Folge</rs> aller <rs ana="#m_note">Töne</rs> der <rs ana="#m_tonality">Tonart</rs>” und beginne die <rs ana="#concept_mus">aufsteigende</rs>
+				<lb facs="#facs_19_r2l5" n="N004"/><rs ana="#m_tonality">Durtonleiter</rs> mit dem <rs ana="#m_note">Haupttone</rs>, die <rs ana="#concept_mus">absteigende</rs> <rs ana="#m_tonality">Molltonleiter</rs>
+				<lb facs="#facs_19_r2l6" n="N005"/>mit der <rs ana="#m_interval">Quinte</rs> des <rs ana="#m_chord">Hauptdreiklanges</rs> derselben, aus den in
+				<lb facs="#facs_19_r2l7" n="N006"/><title ana="#text" ref="W0039">meiner Schrift</title> angegebenen Ursachen.
+			</p>
+         </div>
+         <div rend="GRAPHIC" facs="#facs_19_Graphic_1614200006569_1578">
+            <figure>
+               <graphic url="graphic/facs_19_Graphic_1614200006569_1578.png"/>
+            </figure>
+         </div>
+         <div rend="TEI" facs="#facs_19_TextRegion_1614199965354_1563">
+            <p facs="#facs_19_TextRegion_1614199965354_1563">
+				<lb facs="#facs_19_r2l10" n="N001"/>Wir sehen hier die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_note">Stammtöne</rs></hi> der <rs ana="#m_tonality">Dur-</rs> und der <rs ana="#m_tonality">Moll<pc>¬</pc>
+				<lb facs="#facs_19_r2l11" n="N002"/>tonart</rs> vor uns, und nennen solche aus <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">gleichen <rs ana="#m_note">Stamm<pc>¬</pc></rs></hi>
+				<lb facs="#facs_19_r2l12" n="N003"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_note">tönen</rs></hi> bestehenden <rs ana="#m_tonality">Tonarten</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">parallele</rs></hi>. Dabei bemerke ich
+				<lb facs="#facs_19_r2l13" n="N004"/>in <title ana="#text" ref="W0039">meiner Schrift</title>: Die gegenseitigen <rs ana="#concept_mus">Tonverhältnisse</rs> der
+				<lb facs="#facs_19_r2l14" n="N005"/><rs ana="#m_note">Stammtöne</rs> einer jeden <rs ana="#m_tonality">Dur-</rs> oder <rs ana="#m_tonality">Molltonart</rs> zeigen jederzeit
+				<lb facs="#facs_19_r2l15" n="N006"/>nur „<rs ana="#m_interval">große</rs> oder <rs ana="#m_interval">kleine</rs>” <rs ana="#m_interval">Intervalle</rs> auf, und erst mit Be<pc>¬</pc>
+				<lb facs="#facs_19_r2l16" n="N007"/>nutzung von <rs ana="#concept_mus">chromatischen</rs> <rs ana="#m_note">Tönen</rs> können „<rs ana="#m_interval">übermäßige</rs> oder
+				<lb facs="#facs_19_r2l17" n="N008"/><rs ana="#m_interval">verminderte</rs>” <rs ana="#m_interval">Intervalle</rs> gebildet werden. So ist z. B. <rs ana="#m_interval">f — g</rs>
+				<lb facs="#facs_19_r2l18" n="N009"/>eine <rs ana="#m_interval">große Secunde</rs>, <rs ana="#m_interval">f — a</rs> eine <rs ana="#m_interval">große Terze</rs>, <rs ana="#m_interval">f — h</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">eine</hi>
+				<lb facs="#facs_19_r2l19" n="N010"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_interval">große Quarte</rs></hi>, <rs ana="#m_interval">f — c</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">eine <rs ana="#m_interval">große Quinte</rs></hi> u. s. f. Ab<pc>¬</pc>
+				<lb facs="#facs_19_r2l20" n="N011"/>sichtlich habe ich hier die alte, richtigere Benennung für den
+				<lb facs="#facs_19_r2l21" n="N012"/><rs ana="#m_interval">Tritonus</rs> oder die aus <rs ana="#m_interval">drei Ganztönen</rs> bestehende <rs ana="#m_interval">Quarte</rs> wie<pc>¬</pc>
+				<lb facs="#facs_19_r2l22" n="N013"/>der aufgenommen, weil nun consequenter Weise fortgefahren
+				<lb facs="#facs_19_r2l23" n="N014"/>werden kann: Die <rs ana="#concept_mus">Umkehrung</rs> dieser <rs ana="#concept_mus">Tonverhältnisse</rs> ergiebt
+				<lb facs="#facs_19_r2l24" n="N015"/><rs ana="#m_interval">„kleine” Intervalle</rs>: <rs ana="#m_interval">g — f</rs> eine <rs ana="#m_interval">kleine Septime</rs>, <rs ana="#m_interval">a — f</rs> eine
+				<lb facs="#facs_19_r2l25" n="N016"/><rs ana="#m_interval">kleine Sexte</rs>, <rs ana="#m_interval">h — f</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">eine <rs ana="#m_interval">kleine Quinte</rs></hi>, <rs ana="#m_interval">c — f</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">eine <rs ana="#m_interval">kleine</rs></hi>
+				<lb facs="#facs_19_r2l26" n="N017"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_interval">Quarte</rs></hi> u. s. f., denn aus der <rs ana="#concept_mus">Umkehrung</rs> eines jeden <rs ana="#m_interval">großen</rs>
+				<lb facs="#facs_19_r2l27" n="N018"/><rs ana="#m_interval">Intervalles</rs> entsteht ein <rs ana="#m_interval">kleines</rs>, aus der <rs ana="#concept_mus">Umkehrung</rs> eines jeden
+				<lb facs="#facs_19_r2l28" n="N019"/><rs ana="#m_interval">übermäßigen</rs> ein <rs ana="#m_interval">vermindertes Intervall</rs> und ebenso umgekehrt.
+				<lb facs="#facs_19_r2l29" n="N020"/>Eine andere, heut gebräuchliche, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">unrichtige</hi> Benennung der
+				<lb facs="#facs_19_r2l30" n="N021"/>oben genannten <rs ana="#m_interval">Quarten</rs> und <rs ana="#m_interval">Quinten</rs> aber hebt diese ganze
+				<lb facs="#facs_19_r2l31" n="N022"/>so einfache Regel auf.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_19_TextRegion_1614199952641_1559">
+            <p facs="#facs_19_TextRegion_1614199952641_1559">
+				<lb facs="#facs_19_r2l32" n="N001"/>Beispiel von den verschiedenen Gattungen der <rs ana="#m_interval">Quarte</rs>;
+			</p>
+         </div>
+         <div rend="MEI" facs="#facs_19_Music_1614200041173_1587" source="facs_19_Music_1614200041173_1587.mei"><p>MUSIK</p></div>
+         <pb facs="#facs_20" n="20"/>
+         <div rend="TEI" facs="#facs_20_TextRegion_1614200209790_1666">
+            <p facs="#facs_20_TextRegion_1614200209790_1666">
+				<lb facs="#facs_20_r2l1" n="N001"/>15
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_20_TextRegion_1614200209789_1665">
+            <p facs="#facs_20_TextRegion_1614200209789_1665">
+				<lb facs="#facs_20_r2l2" n="N001"/>Im Fortgange <title ana="#text" ref="W0039">meiner Schrift</title> bemerke ich ferner: um die
+				<lb facs="#facs_20_r2l3" n="N002"/><rs ana="#m_tonality">Durtonart</rs> weicher zu <rs ana="#concept_mus">stimmen</rs>, wird häufig statt des großen
+				<lb facs="#facs_20_r2l4" n="N003"/><rs ana="#m_chord">Unterdominant-Dreiklanges</rs> der kleine, und zu dessen Bildung
+				<lb facs="#facs_20_r2l5" n="N004"/>sodann ein <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">chromatischer</rs></hi> <rs ana="#m_note">Ton</rs> (<rs ana="#m_note">as</rs>) benutzt. Da wir aber
+				<lb facs="#facs_20_r2l6" n="N005"/>nur die <rs ana="#concept_mus">Schritte</rs> eines <rs ana="#m_interval">Ganz-</rs> oder <rs ana="#m_interval">Halbtones</rs> als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">melodische</rs></hi>,
+				<lb facs="#facs_20_r2l7" n="N006"/>alle übrigen aber als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">harmonische</rs></hi> <rs ana="#concept_mus">Schritte</rs> erkennen, so
+				<lb facs="#facs_20_r2l8" n="N007"/>bildet die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_tonality">Tonleiter</rs></hi> dieser „<rs ana="#m_tonality">weicheren Durtonart</rs>”
+			</p>
+         </div>
+         <div rend="GRAPHIC" facs="#facs_20_Graphic_1614200237443_1672">
+            <figure>
+               <graphic url="graphic/facs_20_Graphic_1614200237443_1672.png"/>
+            </figure>
+         </div>
+         <div rend="TEI" facs="#facs_20_TextRegion_1614200202444_1657">
+            <p facs="#facs_20_TextRegion_1614200202444_1657">
+				<lb facs="#facs_20_r2l10" n="N001"/>des <rs ana="#concept_mus">Sprunges</rs> von <rs ana="#m_note">as</rs> zu <rs ana="#m_note">h</rs> wegen, keine zusammenhängende
+				<lb facs="#facs_20_r2l11" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">melodische</rs></hi> <rs ana="#concept_mus">Folge</rs>. Daß und wie sie aber zu gebrauchen,
+				<lb facs="#facs_20_r2l12" n="N003"/>und <rs ana="#concept_mus">harmonisch</rs> zu begleiten ist, lehre ich durch mehrere Bei<pc>¬</pc>
+				<lb facs="#facs_20_r2l13" n="N004"/>spiele S. 8. — Bei der <rs ana="#m_tonality">Molltonart</rs> bemerke ich ebenso: Wie
+				<lb facs="#facs_20_r2l14" n="N005"/>die <rs ana="#m_tonality">Durtonart</rs> zuweilen durch den <rs ana="#m_chord">weichen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Unterdominant-</hi></rs>
+				<lb facs="#facs_20_r2l15" n="N006"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">Dreiklang</rs></hi> weicher gestimmt wird, so wird noch häufiger die
+				<lb facs="#facs_20_r2l16" n="N007"/><rs ana="#m_tonality">Molltonart</rs> kräftiger durch einen <rs ana="#m_chord">harten <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oberdominant-</hi></rs>
+				<lb facs="#facs_20_r2l17" n="N008"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">Dreiklang</rs></hi> (<rs ana="#m_chord">e gis h</rs>) gestaltet, und die <rs ana="#concept_mus">harmonische Beglei<pc>¬</pc>
+				<lb facs="#facs_20_r2l18" n="N009"/>tung</rs> der <rs ana="#m_tonality">Tonleiter</rs> dieser „<rs ana="#m_tonality">härteren Molltonart</rs>” ist wegen des
+				<lb facs="#facs_20_r2l19" n="N010"/>darin erscheinenden <rs ana="#concept_mus">unmelodischen Schrittes</rs>, welcher durch den
+				<lb facs="#facs_20_r2l20" n="N011"/><rs ana="#m_note">Ton</rs> <rs ana="#m_note">gis</rs> herbeigeführt wurde, denselben Bedingungen unterwor<pc>¬</pc>
+				<lb facs="#facs_20_r2l21" n="N012"/>fen, wie die der <rs ana="#m_tonality">Tonleiter</rs> der „<rs ana="#m_tonality">weicheren Durtonart</rs>”. Es ist
+				<lb facs="#facs_20_r2l22" n="N013"/>demnach ein etwas starker Irrthum, wenn Herr <persName role="author" ref="P0047">B.</persName> behauptet,
+				<lb facs="#facs_20_r2l23" n="N014"/>ich hätte die so eben besprochenen <rs ana="#m_tonality">Tonleitern</rs> anfangs aufgestellt,
+				<lb facs="#facs_20_r2l24" n="N015"/>später aber wieder verworfen! Schließlich erwähne ich noch, daß
+				<lb facs="#facs_20_r2l25" n="N016"/>beide <rs ana="#m_tonality">Tonarten</rs> außer den hier genannten <rs ana="#concept_mus">chromatischen</rs> <rs ana="#m_note">Tönen</rs>,
+				<lb facs="#facs_20_r2l26" n="N017"/>noch die sämmtlichen anderen <rs ana="#m_note">Töne</rs> unseres <rs ana="#m_tonality">Tonsystemes</rs> als
+				<lb facs="#facs_20_r2l27" n="N018"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">chromatische</rs> <rs ana="#m_note">Nebentöne</rs></hi> benutzen können (s. S. 10).
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_20_TextRegion_1614200197154_1653">
+            <p facs="#facs_20_TextRegion_1614200197154_1653">
+				<lb facs="#facs_20_r2l28" n="N001"/>Diese doch gewiß sehr klare Darlegung der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_tonality">Tonart</rs></hi>, der
+				<lb facs="#facs_20_r2l29" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_tonality">Tonleiter</rs></hi>, der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_note">Stammtöne</rs></hi> und der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">chromatischen</rs></hi>
+				<lb facs="#facs_20_r2l30" n="N003"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_note">Nebentöne</rs></hi> bezeichnet mein, wie es scheint nicht allezeit auf<pc>¬</pc>
+				<lb facs="#facs_20_r2l31" n="N004"/>richtiger <persName role="author" ref="P0047">Kritiker</persName> als „eine Verwirrung” und „verwunderliche
+				<lb facs="#facs_20_r2l32" n="N005"/>Vermengung der Begriffe <rs ana="#m_tonality">Tonart</rs> und <rs ana="#m_tonality">Tonleiter</rs>” und fabelt
+				<lb facs="#facs_20_r2l33" n="N006"/>weiter ich hätte den eben erst ausgewiesenen (?? er meint
+				<lb facs="#facs_20_r2l34" n="N007"/>wohl den von mir gar nicht als <rs ana="#m_note">Stammton</rs> angenommenen)
+				<lb facs="#facs_20_r2l35" n="N008"/><rs ana="#m_note">Ton</rs> <rs ana="#m_note">gis</rs> später als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">chromatische</rs></hi> Contrebande wieder einge<pc>¬</pc>
+				<lb facs="#facs_20_r2l36" n="N009"/>schmuggelt. Herr <persName role="author" ref="P0047">B.</persName> vergißt, daß er in einen zweiten Theil
+				<lb facs="#facs_20_r2l37" n="N010"/>seiner „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">alle <rs ana="#m_note">Töne</rs> der <rs ana="#m_tonality">Tonart</rs></hi> enthaltenden <rs ana="#concept_mus">Melodie</rs>”:
+			</p>
+         </div>
+         <pb facs="#facs_21" n="21"/>
+         <div rend="TEI" facs="#facs_21_TextRegion_1614200393308_1779">
+            <p facs="#facs_21_TextRegion_1614200393308_1779">
+				<lb facs="#facs_21_r1l1" n="N001"/>16
+			</p>
+         </div>
+         <div rend="MEI" facs="#facs_21_Music_1614200405728_1783" source="facs_21_Music_1614200405728_1783.mei"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_21_TextRegion_1614200391352_1774">
+            <p facs="#facs_21_TextRegion_1614200391352_1774">
+				<lb facs="#facs_21_r1l4" n="N001"/>höchst wahrscheinlich, in einem ganzen <rs ana="#concept_mus">Tonstücke</rs> aus <rs ana="#m_tonality">A moll</rs>
+				<lb facs="#facs_21_r1l5" n="N002"/>aber ganz sicher den dieser <rs ana="#m_tonality">Tonart</rs> sehr nothwendigen <rs ana="#m_note">Ton</rs> <rs ana="#m_note">g</rs>
+				<lb facs="#facs_21_r1l6" n="N003"/>als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">chromatischen</rs></hi> „einschmuggeln” müßte:
+			</p>
+         </div>
+         <div rend="MEI" facs="#facs_21_Music_1614200420377_1790" source="facs_21_Music_1614200420377_1790.mei"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_21_TextRegion_1614200379440_1766">
+            <p facs="#facs_21_TextRegion_1614200379440_1766">
+				<lb facs="#facs_21_r1l8" n="N001"/>daß ferner in seiner <rs ana="#m_tonality">Tonart</rs>, die doch nothwendigerweise den
+				<lb facs="#facs_21_r1l9" n="N002"/><rs ana="#m_note">Ton</rs> <rs ana="#m_note">gis</rs> als <rs ana="#concept_mus">Vorzeichnung</rs> bekäme, da er diesen zu deren
+				<lb facs="#facs_21_r1l10" n="N003"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_note">Stammtönen</rs></hi> rechnet, der <rs ana="#m_chord">C durdreiklang</rs> ein <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">chromatischer</rs></hi>
+				<lb facs="#facs_21_r1l11" n="N004"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">Accord</rs></hi> wäre, und daß endlich die <rs ana="#m_tonality">Tonarten</rs> <rs ana="#m_tonality">C dur</rs> und <rs ana="#m_tonality">A moll</rs>
+				<lb facs="#facs_21_r1l12" n="N005"/>keine <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_tonality">Paralleltonarten</rs></hi> sein könnten, wenn sie aus <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">ver<pc>¬</pc></hi>
+				<lb facs="#facs_21_r1l13" n="N006"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">schiedenen</hi> <rs ana="#m_note">Stammtönen</rs> beständen.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_21_TextRegion_1614200374976_1762">
+            <p facs="#facs_21_TextRegion_1614200374976_1762">
+				<lb facs="#facs_21_r1l14" n="N001"/>Wenn <persName role="author" ref="P0047">mein Kritiker</persName> aber wähnt: ich sei der erste <rs ana="#concept_mus">Theore<pc>¬</pc>
+				<lb facs="#facs_21_r1l15" n="N002"/>tiker</rs>, welcher dem <rs ana="#m_chord">verminderten Dreiklange</rs> (den er, wo es ihm
+				<lb facs="#facs_21_r1l16" n="N003"/>paßt, als $$MATH eines <rs ana="#m_chord">Dominantseptimaccordes</rs> oder als $$MATH eines
+				<lb facs="#facs_21_r1l17" n="N004"/>sogenannten <rs ana="#m_chord">Nonenaccordes</rs> betrachtet) die Freiheit einräumt,
+				<lb facs="#facs_21_r1l18" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">jederzeit</hi> <rs ana="#concept_mus">ungebunden</rs> auftreten zu dürfen, und aus Beispielen
+				<lb facs="#facs_21_r1l19" n="N006"/>wie die folgenden:
+			</p>
+         </div>
+         <div rend="MEI" facs="#facs_21_Music_1614200447058_1800" source="facs_21_Music_1614200447058_1800.mei"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_21_TextRegion_1614200363555_1754">
+            <p facs="#facs_21_TextRegion_1614200363555_1754">
+				<lb facs="#facs_21_r1l21" n="N001"/>die seit Anerkennung der Fortschritte des <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0052">Monteverde</persName></hi> um
+				<lb facs="#facs_21_line_1614200552530_1866" n="N002"/><date when="1600">1600</date> *) bis auf den heutigen Tag als correct gegolten haben **),
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_21_TextRegion_1614200360265_1750">
+            <p facs="#facs_21_TextRegion_1614200360265_1750">
+				<lb facs="#facs_21_r1l24" n="N001"/>*) Im 5. Buche der <title ana="#music" ref="W0051">fünfstimmigen Madrigale</title> (<date when="1604">1604</date>) gebraucht
+				<lb facs="#facs_21_r1l25" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0052">Monteverde</persName> ohne <rs ana="#concept_mus">Vorbereitung</rs></hi> die <rs ana="#m_interval">Septime</rs> und <rs ana="#m_interval">None</rs> der
+				<lb facs="#facs_21_r1l26" n="N003"/><rs ana="#m_chord">Dominante</rs>, den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_interval">Tritonus</rs></hi>, die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_interval">kleine Quinte</rs></hi> und <rs ana="#m_interval">Sexte</rs>, und die
+				<lb facs="#facs_21_r1l27" n="N004"/><rs ana="#m_interval">verminderte Septime</rs> — — er schuf damit ein neues (unser heutiges)
+				<lb facs="#facs_21_line_1614200356500_1748" n="N005"/><rs ana="#concept_mus">Harmoniesystem</rs>. <persName role="author" ref="P0053">S. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Fétis</hi></persName>, <title ana="#text" ref="W0052">Biogr. des Musiciens</title>, Art. <persName role="composer" ref="P0052">Monteverde</persName>.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_21_TextRegion_1614200356475_1744">
+            <p facs="#facs_21_TextRegion_1614200356475_1744">
+				<lb facs="#facs_21_r1l29" n="N001"/>**) In dem <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">so eben</hi> erschienenen Werke: <title ana="#text" ref="W0053">Uebungen zum Studium</title>
+				<lb facs="#facs_21_r1l30" n="N002"/><title ana="#text" ref="W0053">der Harmonie</title> von <persName role="author" ref="P0035">F. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Hiller</hi></persName>, <placeName>Köln</placeName>, <date when="1860">1860</date>, pag. 7, kann Herr <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0047">Bagge</persName></hi>
+				<lb facs="#facs_21_r1l31" n="N003"/>z. B. die von ihm so gründlich angefochtene „fundamentlose” <rs ana="#m_chord">Accordfolge</rs>
+				<lb facs="#facs_21_r1l32" n="N004"/>ebenfalls vorfinden.
+			</p>
+         </div>
+         <pb facs="#facs_22" n="22"/>
+         <div rend="TEI" facs="#facs_22_TextRegion_1614200621576_1900">
+            <p facs="#facs_22_TextRegion_1614200621576_1900">
+				<lb facs="#facs_22_r2l1" n="N001"/>17
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_22_TextRegion_1614200621576_1899">
+            <p facs="#facs_22_TextRegion_1614200621576_1899">
+				<lb facs="#facs_22_r2l2" n="N001"/>den Beweis ziehen will, daß meinem Gebäude das „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Funda<pc>¬</pc></hi>
+				<lb facs="#facs_22_r2l3" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">ment</hi>” (?!) fehle, so kann ich Herrn <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0047">Bagge</persName></hi> nur rathen,
+				<lb facs="#facs_22_r2l4" n="N003"/>recht bald einen Blick in solche <rs ana="#concept_mus">historische</rs> und <rs ana="#concept_mus">theoretische</rs> <rs ana="#concept_mus">musi<pc>¬</pc>
+				<lb facs="#facs_22_r2l5" n="N004"/>kalische Werke</rs> zu werfen, die er nicht gerade aus Princip ge<pc>¬</pc>
+				<lb facs="#facs_22_r2l6" n="N005"/>ringzuschätzen Willens ist, um nicht noch ein Mal in derglei<pc>¬</pc>
+				<lb facs="#facs_22_r2l7" n="N006"/>chen Absurditäten zu verfallen. Mein unparteiischer <persName role="author" ref="P0047">Kritiker</persName>
+				<lb facs="#facs_22_r2l8" n="N007"/>scheint ferner übersehen zu haben, daß ich S. 30 <title ana="#text" ref="W0039">meiner</title>
+				<lb facs="#facs_22_r2l9" n="N008"/><title ana="#text" ref="W0039">Schrift</title> die <rs ana="#concept_mus">regelmäßigen Auflösungen</rs> jenes <rs ana="#m_chord">Accordes</rs> bespro<pc>¬</pc>
+				<lb facs="#facs_22_r2l10" n="N009"/>chen, und S. 31 auch jenes sogenannten „Fundamentes” fol<pc>¬</pc>
+				<lb facs="#facs_22_r2l11" n="N010"/>gendermaßen erwähnt habe: „Der <rs ana="#m_chord">verminderte Dreiklang</rs> kann
+				<lb facs="#facs_22_r2l12" n="N011"/>selbstverständlich nicht allein frei, sondern auch gebunden, auf
+				<lb facs="#facs_22_r2l13" n="N012"/><rs ana="#concept_mus">leichtem</rs> oder <rs ana="#concept_mus">schwerem</rs> <rs ana="#concept_mus">Takttheile</rs> auftreten, doch wird er
+				<lb facs="#facs_22_r2l14" n="N013"/>sowohl wie seine <rs ana="#concept_mus">Auflösungen</rs> wohlklingender, wenn er mit
+				<lb facs="#facs_22_r2l15" n="N014"/>einem ihm <rs ana="#concept_mus">terzverwandten</rs> <rs ana="#m_chord">Dreiklange</rs> in Verbindung tritt,
+				<lb facs="#facs_22_r2l16" n="N015"/>und damit zum <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">Septimenaccorde</rs></hi> auf <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">dem <rs ana="#m_note">Leitetone</rs></hi>
+				<lb facs="#facs_22_r2l17" n="N016"/>einer <rs ana="#m_tonality">Dur-</rs> oder <rs ana="#m_tonality">Moll-Tonart</rs>, oder zu deren <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">Dominant<pc>¬</pc></rs></hi>
+				<lb facs="#facs_22_r2l18" n="N017"/><rs ana="#m_chord"> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">septimen</hi>-Accord</rs> wird. In einer <rs ana="#concept_mus">Folge</rs> von <rs ana="#m_chord">Dreiklängen</rs>
+				<lb facs="#facs_22_r2l19" n="N018"/>wird er deshalb nur als eben <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">unvermeidlich</hi>, außerdem
+				<lb facs="#facs_22_r2l20" n="N019"/>aber auch in seiner wohlklingendsten, der <rs ana="#concept_mus">Terzsext-Lage</rs>, ge<pc>¬</pc>
+				<lb facs="#facs_22_r2l21" n="N020"/>braucht.”
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_22_TextRegion_1614200619638_1895">
+            <p facs="#facs_22_TextRegion_1614200619638_1895">
+				<lb facs="#facs_22_r2l22" n="N001"/>Mein geneigter <persName role="author" ref="P0047">Kritiker</persName> fährt fort: „In einem weiteren
+				<lb facs="#facs_22_r2l23" n="N002"/>Kapitel, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Verwandtschaft der <rs ana="#m_chord">Accorde</rs> und <rs ana="#m_tonality">Ton<pc>¬</pc></rs></hi>
+				<lb facs="#facs_22_r2l24" n="N003"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_tonality">arten</rs></hi>, bringt der <persName role="author" ref="P0041">Verfasser</persName> längst bekannte Dinge, die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">in</hi>
+				<lb facs="#facs_22_r2l25" n="N004"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">jeder</hi> vernünftigen <rs ana="#concept_mus">Harmonielehre</rs> stehen.” Diese Behauptung
+				<lb facs="#facs_22_r2l26" n="N005"/>muß ich so lange in Zweifel stellen, bis <persName role="author" ref="P0047">derselbe</persName> mir wenigstens
+				<lb facs="#facs_22_r2l27" n="N006"/>eine <rs ana="#concept_mus">Harmonielehre</rs> näher bezeichnet, in welcher jener Gegen<pc>¬</pc>
+				<lb facs="#facs_22_r2l28" n="N007"/>stand sowohl wie die mit demselben zusammenhängende <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Mo<pc>¬</pc></rs></hi>
+				<lb facs="#facs_22_r2l29" n="N008"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">dulation</rs></hi> eben so erschöpfend als in <title ana="#text" ref="W0039">meiner Schrift</title> besprochen
+				<lb facs="#facs_22_r2l30" n="N009"/>worden ist. — Er bemerkt ferner: „<persName role="author" ref="P0041">Der Verfasser</persName> fabelt von
+				<lb facs="#facs_22_line_1614200680131_1951" n="N010"/>einem „mystischen” Zusammenhang der „<rs ana="#m_tonality">Tonart</rs>” <rs ana="#m_tonality">C dur</rs> mit
+				<lb facs="#facs_22_line_1614200696865_1973" n="N011"/><rs ana="#m_tonality">Fis-</rs> oder gar <rs ana="#m_tonality">Ges dur</rs> und vergißt hierüber die in <title ana="#text" ref="W0039">seiner</title>
+				<lb facs="#facs_22_r2l35" n="N012"/><title ana="#text" ref="W0039">Schrift</title> zu suchende Aufklärung zu geben.” — Der Entdecker
+				<lb facs="#facs_22_r2l36" n="N013"/>dieser der <rs ana="#concept_mus">musikalischen Welt</rs> schon längst nicht mehr als
+				<lb facs="#facs_22_r2l37" n="N014"/>„Fabel” erscheinenden Verwandtschaft ist, soviel ich weiß,
+				<lb facs="#facs_22_r2l38" n="N015"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="Beethoven">Beethoven</persName></hi>. In seinem so großartig angelegten <title ana="#music" ref="W0054">dreizehnten</title>
+				<lb facs="#facs_22_r2l39" n="N016"/><title ana="#music" ref="W0054">Quartette in B dur</title>, dessen verschiedene <rs ana="#concept_mus">Theile</rs> im innigsten
+				<lb facs="#facs_22_r2l40" n="N017"/>verwandtschaftlichen Zusammenhange miteinander stehen, schließt
+				<lb facs="#facs_22_r2l41" n="N018"/>z. B. das <rs ana="#concept_mus">Andante con moto</rs> in <rs ana="#m_tonality"> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Des</hi> dur</rs>, und der folgende
+			</p>
+         </div>
+         <pb facs="#facs_23" n="23"/>
+         <div rend="TEI" facs="#facs_23_TextRegion_1614200767353_2035">
+            <p facs="#facs_23_TextRegion_1614200767353_2035">
+				<lb facs="#facs_23_r2l1" n="N001"/>18
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_23_TextRegion_1614200767352_2034">
+            <p facs="#facs_23_TextRegion_1614200767352_2034">
+				<lb facs="#facs_23_r2l2" n="N001"/><rs ana="#concept_mus">Satz</rs> beginnt unmittelbar nach demselben in <rs ana="#m_tonality">G dur</rs>. Schwer<pc>¬</pc>
+				<lb facs="#facs_23_r2l3" n="N002"/>lich aber würde dieser feinfühlende <rs ana="#concept_mus">Tonmeister</rs> nach jenem An<pc>¬</pc>
+				<lb facs="#facs_23_r2l4" n="N003"/>dante in <rs ana="#m_tonality">Des dur</rs> ein <rs ana="#concept_mus">Tonstück</rs> in einer dieser fast gar nicht
+				<lb facs="#facs_23_r2l5" n="N004"/>mehr verwandten <rs ana="#concept_mus">Tonart</rs>, wie <rs ana="#m_tonality">H dur</rs> oder <rs ana="#m_tonality">Es dur</rs> haben folgen
+				<lb facs="#facs_23_r2l6" n="N005"/>lassen, während er hier die „<rs ana="#m_tonality">Tonart</rs> der Mitte” mit Be<pc>¬</pc>
+				<lb facs="#facs_23_r2l7" n="N006"/>stimmtheit als <rs ana="#concept_mus">Verwandte</rs> der ersteren bezeichnet. — Von einer
+				<lb facs="#facs_23_line_1614200850934_2080" n="N007"/>solchen, absichtlich von mir als „mystisch” bezeichneten <rs ana="#concept_mus">Ver<pc>¬</pc>
+				<lb facs="#facs_23_line_1614200856296_2088" n="N008"/>wandtschaft</rs> ist eigentlich Niemand berechtigt, eine nähere „Auf<pc>¬</pc>
+				<lb facs="#facs_23_line_1614200861334_2096" n="N009"/>klärung” zu verlangen, doch aber ergiebt sich diese durch die
+				<lb facs="#facs_23_r2l14" n="N010"/>Betrachtung der vom Verstande leicht zu fassenden „<rs ana="#concept_mus">geometri<pc>¬</pc>
+				<lb facs="#facs_23_line_1614200881679_2121" n="N011"/>schen Theilung</rs> der <rs ana="#m_interval">Octave</rs>”: $$GRAPHIC. Die <rs ana="#m_note">Töne</rs>
+				<lb facs="#facs_23_r2l19" n="N012"/>dieses <rs ana="#concept_mus">Verhältnisses</rs> haben nämlich gewiß ein eben so gutes
+				<lb facs="#facs_23_r2l20" n="N013"/>Recht zur <rs ana="#concept_mus">Tonica</rs> erhoben und sodann zu <rs ana="#concept_mus">modulatorischen</rs>
+				<lb facs="#facs_23_r2l21" n="N014"/><rs ana="#concept_mus">Gegensätzen</rs> benutzt zu werden, als die der „<rs ana="#concept_mus">harmonischen</rs>”:
+				<lb facs="#facs_23_r2l22" n="N015"/><rs ana="#m_note">C</rs> — <rs ana="#m_note">G</rs> — <rs ana="#m_note">C</rs> und der „<rs ana="#concept_mus">arithmetischen Theilung</rs> der <rs ana="#m_interval">Octave</rs>”:
+				<lb facs="#facs_23_line_1614200761851_2032" n="N016"/><rs ana="#m_note">C</rs> — <rs ana="#m_note">F</rs> — <rs ana="#m_note">C</rs>.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_23_TextRegion_1614200803884_2042">
+            <p facs="#facs_23_TextRegion_1614200803884_2042">
+				<lb facs="#facs_23_r2l24" n="N001"/>Weiterhin belehrt mich <persName role="author" ref="P0047">mein Kritiker</persName>, daß <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0016">Beethoven</persName></hi> im
+				<lb facs="#facs_23_r2l25" n="N002"/><title ana="#music" ref="W0045">Finale seiner Eroica</title> die <rs ana="#m_tonality">Tonarten</rs> <rs ana="#m_tonality">G moll</rs> und <rs ana="#m_tonality">C dur</rs> auf ein<pc>¬</pc>
+				<lb facs="#facs_23_r2l26" n="N003"/>ander folgen lasse, „freilich in künstlerischer Weise durch einen
+				<lb facs="#facs_23_r2l27" n="N004"/>einzelnen <rs ana="#m_note">Halteton</rs> vermittelt”; er vergißt aber dabei, daß die
+				<lb facs="#facs_23_r2l28" n="N005"/><rs ana="#m_tonality">Haupttonart</rs> dieses <rs ana="#concept_mus">Musikstückes</rs> <rs ana="#m_tonality">Es dur</rs> ist, mit welcher sowohl
+				<lb facs="#facs_23_r2l29" n="N006"/><rs ana="#m_tonality">G moll</rs> wie <rs ana="#m_tonality">C dur</rs> <rs ana="#concept_mus">terzverwandt</rs> sind *), während <title ana="#text" ref="W0039">ich (S. 17)</title>
+				<lb facs="#facs_23_r2l30" n="N007"/>nur die Bemerkung gemacht habe, daß man in einem <rs ana="#concept_mus">Tonstücke</rs>
+				<lb facs="#facs_23_r2l31" n="N008"/>aus <rs ana="#m_tonality">C dur</rs> nicht die <rs ana="#m_tonality">Tonart</rs> <rs ana="#m_tonality">G moll</rs> als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">modulatorischen</rs></hi>
+				<lb facs="#facs_23_r2l32" n="N009"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Gegensatz</rs></hi> (also für das <rs ana="#concept_mus">zweite Thema</rs> desselben) wählen
+				<lb facs="#facs_23_r2l33" n="N010"/>würde, da die <rs ana="#m_tonality">Durtonart</rs> jederzeit einen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">harten Ober<pc>¬</pc></rs></hi>
+				<lb facs="#facs_23_r2l34" n="N011"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">dominantdreiklang</rs></hi>, wie die <rs ana="#m_tonality">Molltonart</rs> stets einen
+				<lb facs="#facs_23_line_1614200803908_2045" n="N012"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">weichen Unterdominantdreiklang</rs></hi> bewahren müsse.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_23_TextRegion_1614200803883_2041">
+            <p facs="#facs_23_TextRegion_1614200803883_2041">
+				<lb facs="#facs_23_r2l36" n="N001"/>Herr <persName role="author" ref="P0047">B.</persName> macht ferner eine ironische Bemerkung über die
+				<lb facs="#facs_23_r2l37" n="N002"/><title ana="#text" ref="W0039">S. 18</title> befindlichen <rs ana="#concept_mus">Accordfolgen</rs>: „<rs ana="#m_chord">C</rs>, <rs ana="#m_chord">Des</rs>, <rs ana="#m_chord">Ges</rs>, <rs ana="#m_chord">Ces</rs>”, vergißt
+				<lb facs="#facs_23_r2l38" n="N003"/>aber den Zweck derselben und den dazu gehörenden <rs ana="#m_chord">Schluß<pc>¬</pc>
+				<lb facs="#facs_23_r2l39" n="N004"/>accord</rs> „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">Ges</rs></hi>” anzugeben, was fast den Anschein einer —
+				<lb facs="#facs_23_r2l40" n="N005"/>Nachlässigkeit hat. Der Zweck dieses sowie der <title ana="#text" ref="W0039">S. 18 u. 19</title>
+				<lb facs="#facs_23_r2l41" n="N006"/>gegebenen 23 Beispiele ist es nämlich, auf die <rs ana="#concept_mus">harmonische</rs>
+            </p>
+         </div>
+         <div rend="TEI" facs="#facs_23_TextRegion_1614200754908_2024">
+            <p facs="#facs_23_TextRegion_1614200754908_2024">
+				<lb facs="#facs_23_r2l42" n="N001"/>*) S. in <title ana="#text" ref="W0039">meiner Schrift</title> S. 17 und vergleiche das Beispiel No. 19,
+				<lb facs="#facs_23_r2l43" n="N002"/>S. 19.
+			</p>
+         </div>
+         <pb facs="#facs_24" n="24"/>
+         <div rend="TEI" facs="#facs_24_TextRegion_1614201056188_2298">
+            <p facs="#facs_24_TextRegion_1614201056188_2298">
+				<lb facs="#facs_24_r2l1" n="N001"/>19
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_24_TextRegion_1614201056188_2297">
+            <p facs="#facs_24_TextRegion_1614201056188_2297">
+				<lb facs="#facs_24_r2l2" n="N001"/><rs ana="#concept_mus">Mehrdeutigkeit</rs> der <rs ana="#m_chord">Accorde</rs> aufmerksam zu machen, aus welcher
+				<lb facs="#facs_24_line_1614201053312_2295" n="N002"/>Betrachtung ich sodann den Schluß ziehe:
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_24_TextRegion_1614201053290_2291">
+            <p facs="#facs_24_TextRegion_1614201053290_2291">
+				<lb facs="#facs_24_r2l4" n="N001"/>„<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Einem <rs ana="#concept_mus"> <rs ana="#concept_phy">consonirenden</rs></rs> <rs ana="#m_chord">Accorde</rs> kann jeder an<pc>¬</pc></hi>
+				<lb facs="#facs_24_r2l5" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">dere <rs ana="#concept_mus"> <rs ana="#concept_phy">consonirende</rs></rs> <rs ana="#m_chord">Accord</rs> folgen</hi>. Selbstverständlich
+				<lb facs="#facs_24_r2l6" n="N003"/>giebt die oben (in den Beispielen) angewandte natürlichste
+				<lb facs="#facs_24_r2l7" n="N004"/><rs ana="#concept_mus">Stimmenführung</rs> und das Vermeiden der <rs ana="#concept_mus">melodisch</rs> auftreten<pc>¬</pc>
+				<lb facs="#facs_24_r2l8" n="N005"/>den <rs ana="#m_interval">übermäßigen</rs> und <rs ana="#m_interval">verminderten Intervalle</rs>, der offenbaren
+				<lb facs="#facs_24_r2l9" n="N006"/>und <rs ana="#concept_mus">verdeckten</rs> <rs ana="#concept_mus">Quinten-</rs> und <rs ana="#concept_mus">Octavenparallelen</rs>, sowie der <rs ana="#concept_mus">un<pc>¬</pc>
+				<lb facs="#facs_24_r2l10" n="N007"/>harmonischen Querstände</rs> einer jeden <rs ana="#concept_mus">Accordfolge</rs> den meisten
+				<lb facs="#facs_24_r2l11" n="N008"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">äußeren Zusammenhang</rs></hi>, wie denn endlich auch wohl zu
+				<lb facs="#facs_24_r2l12" n="N009"/>beachten ist, <rs ana="#m_chord">Accorde</rs> von <rs ana="#concept_mus">entfernter Verwandtschaft</rs> nicht in zu
+				<lb facs="#facs_24_r2l13" n="N010"/>rascher Bewegung unmittelbar auf einander folgen zu lassen,
+				<lb facs="#facs_24_r2l14" n="N011"/>um dem <rs ana="#concept_phy">Ohre</rs> Zeit zu gönnen, auch den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">inneren Zusam<pc>¬</pc></rs></hi>
+				<lb facs="#facs_24_line_1614201048038_2289" n="N012"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">menhang</rs></hi> der <rs ana="#concept_mus">Harmonien</rs> zu erfassen.”
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_24_TextRegion_1614201048014_2285">
+            <p facs="#facs_24_TextRegion_1614201048014_2285">
+				<lb facs="#facs_24_r2l16" n="N001"/>Hierüber nun äußert sich <persName role="author" ref="P0047">Herr B.</persName> folgendermaßen:
+				<lb facs="#facs_24_r2l17" n="N002"/>„Das <persName role="author" ref="P0041">Weitzmann'sche</persName> Grundgesetz ist ein wahrhaft auf<pc>¬</pc>
+				<lb facs="#facs_24_r2l18" n="N003"/>lösendes, vernichtet die Bande der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_tonality">Tonart</rs></hi>, hebt allen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Zu<pc>¬</pc></rs></hi>
+				<lb facs="#facs_24_r2l19" n="N004"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">sammenhang</rs></hi> auf und ist ein ächtes Kind <date>unserer Zeit</date>“ 2c.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_24_TextRegion_1614201034866_2281">
+            <p facs="#facs_24_TextRegion_1614201034866_2281">
+				<lb facs="#facs_24_r2l20" n="N001"/>Den logischen <rs ana="#concept_mus">Zusammenhang</rs> aufeinander folgender <rs ana="#concept_mus">Har<pc>¬</pc>
+				<lb facs="#facs_24_r2l21" n="N002"/>monien</rs> zu bewahren, habe ich nicht allein in dem hier ange<pc>¬</pc>
+				<lb facs="#facs_24_r2l22" n="N003"/>fochtenen Satze selbst, sondern gehörigen Ortes stets in <title ana="#text" ref="W0039">meiner</title>
+				<lb facs="#facs_24_r2l23" n="N004"/><title ana="#text" ref="W0039">Schrift</title> gelehrt; die Behauptung, daß obiges „Grundgesetz”
+				<lb facs="#facs_24_r2l24" n="N005"/>allen <rs ana="#concept_mus">Zusammenhang</rs> aufhebe, ist also völlig grundlos. Ebenso
+				<lb facs="#facs_24_r2l25" n="N006"/>unbegründet aber ist auch die Befürchtung, daß dasselbe die
+				<lb facs="#facs_24_r2l26" n="N007"/>Bande der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_tonality">Tonart</rs></hi> vernichte. Nur von aufeinander folgenden
+				<lb facs="#facs_24_r2l27" n="N008"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">Accorden</rs></hi> spricht der von mir aufgestellte Lehrsatz und Herr
+				<lb facs="#facs_24_r2l28" n="N009"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0047">Bagge</persName></hi> verwechselt hier augenscheinlich wiederum die Begriffe
+				<lb facs="#facs_24_r2l29" n="N010"/>„<rs ana="#m_chord">Accord</rs>” und „<rs ana="#m_tonality">Tonart</rs>”. Ueber die Nothwendigkeit des Fest<pc>¬</pc>
+				<lb facs="#facs_24_r2l30" n="N011"/>haltens einer Einheit der <rs ana="#m_tonality">Tonart</rs> spricht sich die Einleitung zu
+				<lb facs="#facs_24_r2l31" n="N012"/><title ana="#text" ref="W0039">meiner Modulationslehre (S. 55)</title> folgendermaßen aus: Ein
+				<lb facs="#facs_24_r2l32" n="N013"/>jedes <rs ana="#concept_mus">Tonstück</rs>, welches einen nachhaltigen Eindruck hinterlassen
+				<lb facs="#facs_24_r2l33" n="N014"/>soll, wird bei der nothwendigen Einheit in <rs ana="#concept_mus">Färbung</rs> und <rs ana="#concept_mus">Cha<pc>¬</pc>
+				<lb facs="#facs_24_r2l34" n="N015"/>rakter</rs> auch die Einheit einer bestimmten <rs ana="#concept_mus">Tonart</rs> bewahren
+				<lb facs="#facs_24_r2l35" n="N016"/>müssen. Herr <persName role="author" ref="P0047">B.</persName> mag aus diesem „Glaubensbekenntniß”, wie
+				<lb facs="#facs_24_r2l36" n="N017"/>aus jedem Lehrsatze <title ana="#text" ref="W0039">meiner Schrift</title>, den er nicht mit den „neue<pc>¬</pc>
+				<lb facs="#facs_24_r2l37" n="N018"/>sten Kunstschöpfungen” in Einklang zu bringen vermag, ersehen,
+				<lb facs="#facs_24_r2l38" n="N019"/>daß ich in meinem <rs ana="#concept_mus">Systeme</rs> zwar die äußersten Grenzen einer
+				<lb facs="#facs_24_r2l39" n="N020"/>zulässigen, vernünftigen Freiheit in der <rs ana="#concept_mus">Harmonielehre</rs> ange<pc>¬</pc>
+			</p>
+         </div>
+         <pb facs="#facs_25" n="25"/>
+         <div rend="TEI" facs="#facs_25_TextRegion_1614201206070_2376">
+            <p facs="#facs_25_TextRegion_1614201206070_2376">
+				<lb facs="#facs_25_r2l1" n="N001"/>20
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_25_TextRegion_1614201206070_2375">
+            <p facs="#facs_25_TextRegion_1614201206070_2375">
+				<lb facs="#facs_25_r2l2" n="N001"/>geben, damit aber zugleich auch der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Willkür Schranken</hi>
+				<lb facs="#facs_25_r2l3" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">gesetzt</hi> und ihr keineswegs das Wort geredet habe. Wenn sich
+				<lb facs="#facs_25_r2l4" n="N003"/>derselbe also „fuchswild” gebärdet über meine Worte: „Der
+				<lb facs="#facs_25_r2l5" n="N004"/>feinfühlende Künstler wird — selbst der Wahrheit und Be<pc>¬</pc>
+				<lb facs="#facs_25_r2l6" n="N005"/>stimmtheit des Ausdrucks zu Liebe — niemals die Anmuth und
+				<lb facs="#facs_25_r2l7" n="N006"/>Schönheit zum Opfer bringen, aber nicht der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">einseitig be<pc>¬</pc></hi>
+				<lb facs="#facs_25_r2l8" n="N007"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">fangene Kritiker</hi>, sondern eben nur <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">der Geweihte</hi>, dessen
+				<lb facs="#facs_25_r2l9" n="N008"/>Brust von dem göttlichen Funken der Kunst erglüht, ist dazu
+				<lb facs="#facs_25_r2l10" n="N009"/>berufen, die Grenzen des Schönen zu bestimmen” — so kann
+				<lb facs="#facs_25_r2l11" n="N010"/>ich die Ursache davon nur darin finden, daß er dem grübelnden
+				<lb facs="#facs_25_r2l12" n="N011"/>Kritiker das Richteramt über den schaffenden Künstler unter
+				<lb facs="#facs_25_r2l13" n="N012"/>jeder Bedingung zuerkannt wissen möchte — eine Meinung, die
+				<lb facs="#facs_25_r2l14" n="N013"/>gewiß nicht einmal seine gläubigsten Anhänger mit ihm theilen
+				<lb facs="#facs_25_r2l15" n="N014"/>werden.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_25_TextRegion_1614201202661_2371">
+            <p facs="#facs_25_TextRegion_1614201202661_2371">
+				<lb facs="#facs_25_r2l16" n="N001"/>In dem Capitel von den <rs ana="#concept_mus"> <rs ana="#concept_phy">Dissonanzen</rs></rs> findet Herr <persName role="author" ref="P0047">B.</persName> „im
+				<lb facs="#facs_25_r2l17" n="N002"/>Interesse einer gleichmäßigen Theorie” nur <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">einen</hi> Irrthum
+				<lb facs="#facs_25_r2l18" n="N003"/>zu berichtigen. Er behauptet nämlich, daß die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Vorschläge</rs></hi>
+				<lb facs="#facs_25_r2l19" n="N004"/>nicht den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">unaccentuirten</rs></hi>, sondern den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">accentuirten</rs></hi>
+				<lb facs="#facs_25_r2l20" n="N005"/><rs ana="#concept_mus">Takttheilen</rs> angehörten, weil der Unterschied zwischen <rs ana="#concept_mus">Vorhalt</rs>
+				<lb facs="#facs_25_r2l21" n="N006"/>und <rs ana="#concept_mus">Vorschlag</rs> nur darin bestehe, daß der erstere <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">vorbereitet</hi>
+				<lb facs="#facs_25_r2l22" n="N007"/>sei, der zweite aber nicht. Meiner Meinung nach aber können
+				<lb facs="#facs_25_r2l23" n="N008"/>die <rs ana="#concept_mus">Vorschläge</rs> wohl mit den <rs ana="#concept_mus">Durchgangstönen</rs>, niemals aber
+				<lb facs="#facs_25_r2l24" n="N009"/>mit den <rs ana="#concept_mus">gebundenen Vorhalten</rs> in eine Klasse gestellt werden.
+				<lb facs="#facs_25_r2l25" n="N010"/>Denn <rs ana="#concept_mus">Vorschläge</rs> sowohl wie <rs ana="#concept_mus">Durchgangstöne</rs> dürfen jederzeit
+				<lb facs="#facs_25_r2l26" n="N011"/><rs ana="#concept_mus">Dissonanzen</rs> bilden, deren <rs ana="#concept_mus">Auflösung</rs> in einer anderen <rs ana="#concept_mus">Stimme</rs>
+				<lb facs="#facs_25_r2l27" n="N012"/>gleichzeitig schon vorhanden ist, bei den <rs ana="#concept_mus">Vorhalten</rs> jedoch ge<pc>¬</pc>
+				<lb facs="#facs_25_r2l28" n="N013"/>nießt nur die <rs ana="#m_chord">None</rs> das Recht, einem im <rs ana="#concept_mus">Basse</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">schon vor<pc>¬</pc></hi>
+				<lb facs="#facs_25_r2l29" n="N014"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">handenen</hi> <rs ana="#m_note">Tone</rs> gleichzeitig als <rs ana="#concept_mus">Verzögerung</rs> zu dienen.
+				<lb facs="#facs_25_r2l30" n="N015"/>Das folgende Beispiel bei 1 enthält nach Herrn <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0047">Bagge's</persName></hi>
+				<lb facs="#facs_25_r2l31" n="N016"/><rs ana="#concept_mus">Theorie</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">regelmäßige</hi>, nach der meinen jedoch <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">unrichtige</hi>
+				<lb facs="#facs_25_r2l32" n="N017"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Vorhalte</rs></hi>:
+			</p>
+         </div>
+         <div rend="MEI" facs="#facs_25_Music_1614201226789_2383" source="facs_25_Music_1614201226789_2383.mei"><p>MUSIK</p></div>
+         <pb facs="#facs_26" n="26"/>
+         <div rend="TEI" facs="#facs_26_TextRegion_1614201390260_2460">
+            <p facs="#facs_26_TextRegion_1614201390260_2460">
+				<lb facs="#facs_26_r2l1" n="N001"/>21
+			</p>
+         </div>
+         <div rend="MEI" facs="#facs_26_Music_1614201403739_2465" source="facs_26_Music_1614201403739_2465.mei"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_26_TextRegion_1614201385606_2455">
+            <p facs="#facs_26_TextRegion_1614201385606_2455">
+				<lb facs="#facs_26_r2l9" n="N001"/>Das zweite Beispiel bietet dagegen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">regelmäßige</hi>, d. h. auf
+				<lb facs="#facs_26_r2l10" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">unaccentuirten</rs></hi> <rs ana="#concept_mus">Takttheilen</rs> erscheinende <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Vorschläge</rs></hi>
+				<lb facs="#facs_26_r2l11" n="N003"/>dar. <rs ana="#concept_mus">Durchgangstöne</rs> und <rs ana="#concept_mus">Vorschläge</rs> aber, welche ihrer eigent<pc>¬</pc>
+				<lb facs="#facs_26_r2l12" n="N004"/>lichen Natur zuwider, auf <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">accentuirten</rs></hi> <rs ana="#concept_mus">Tacttheilen</rs> auf<pc>¬</pc>
+				<lb facs="#facs_26_r2l13" n="N005"/>treten, bilden sodann auch schärfere <rs ana="#concept_mus"> <rs ana="#concept_phy">Dissonanzen</rs></rs>, ohne jedoch
+				<lb facs="#facs_26_r2l14" n="N006"/>die Kraft und Reinheit der <rs ana="#concept_mus">gebundenen</rs> <rs ana="#concept_mus">Vorhaltsdissonanzen</rs>,
+				<lb facs="#facs_26_r2l15" n="N007"/>welche eben diesen <rs ana="#concept_mus">accentuirten</rs> <rs ana="#concept_mus">Takttheilen</rs> angehören, auf<pc>¬</pc>
+				<lb facs="#facs_26_line_1614201380786_2453" n="N008"/>zuzeigen.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_26_TextRegion_1614201380759_2449">
+            <p facs="#facs_26_TextRegion_1614201380759_2449">
+				<lb facs="#facs_26_r2l17" n="N001"/>Hätte weiterhin mein wohlmeinender <persName role="author" ref="P0047">Kritiker</persName> den von ihm
+				<lb facs="#facs_26_r2l18" n="N002"/>mitgetheilten Beispielen von „<rs ana="#concept_mus">Accordbildungen</rs> durch <rs ana="#concept_mus">Vorhalte</rs>”
+				<lb facs="#facs_26_r2l19" n="N003"/>meine denselben unmittelbar folgende Erklärung <title ana="#text" ref="W0039">(S. 29)</title> bei<pc>¬</pc>
+				<lb facs="#facs_26_r2l20" n="N004"/>gegeben, so würde deren Bedeutung jedem unbefangenen Leser
+				<lb facs="#facs_26_r2l21" n="N005"/>klarer geworden sein, als durch die dafür von ihm hingestellten
+				<lb facs="#facs_26_r2l22" n="N006"/>Bemerkungen, welche sich auf die alte, wirre <rs ana="#concept_mus">Lehre</rs> von unsicht<pc>¬</pc>
+				<lb facs="#facs_26_r2l23" n="N007"/>baren und unhörbaren <rs ana="#m_note">Grundbässen</rs> stützen. Solche „<rs ana="#m_note">Grund<pc>¬</pc>
+				<lb facs="#facs_26_r2l24" n="N008"/>bässe</rs>” haben nicht einmal bei der früher allein als regelmäßig
+				<lb facs="#facs_26_r2l25" n="N009"/>geltenden <rs ana="#concept_mus">Auflösung</rs> eines <rs ana="#m_chord">Septimenaccordes</rs> eine sinnvolle Be<pc>¬</pc>
+				<lb facs="#facs_26_r2l26" n="N010"/>deutung, denn selbst in diesem Falle machen sie einen natürli<pc>¬</pc>
+				<lb facs="#facs_26_r2l27" n="N011"/>chen <rs ana="#m_chord">Septimenaccord</rs> zum <rs ana="#m_chord">Scheinaccord</rs> (zum sogenannten
+				<lb facs="#facs_26_r2l28" n="N012"/><rs ana="#m_chord">Nonenaccord</rs>); in den von mir mitgetheilten mannigfaltigen
+				<lb facs="#facs_26_r2l29" n="N013"/>Fortschreitungen eines <rs ana="#m_chord">Septimenaccordes</rs> aber erscheinen die<pc>¬</pc>
+				<lb facs="#facs_26_line_1614201370682_2446" n="N014"/>selben als völlig sinnlose Anhängsel.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_26_TextRegion_1614201369769_2443">
+            <p facs="#facs_26_TextRegion_1614201369769_2443">
+				<lb facs="#facs_26_r2l31" n="N001"/>Der <rs ana="#concept_mus">alten Lehre</rs> nach hat z. B. der <rs ana="#m_chord">Accord</rs> <rs ana="#m_chord">h — d — f — a</rs>
+				<lb facs="#facs_26_r2l32" n="N002"/>den <rs ana="#m_note">Ton</rs> <rs ana="#m_note">G</rs> als hinzu zu denkenden <rs ana="#m_note">Grundbaß</rs>, dieser paßt ihm
+				<lb facs="#facs_26_r2l33" n="N003"/>aber so wenig, daß er entsetzliche <rs ana="#concept_mus">Harmonien</rs> wie z. B. <rs ana="#m_chord">f — </rs>
+				<lb facs="#facs_26_line_1614201490526_2555" n="N004"/><rs ana="#m_chord">g — a — h — d</rs> hervorrufen würde, wenn er sich bei einer
+				<lb facs="#facs_26_r2l36" n="N005"/><rs ana="#concept_mus">Umkehrung</rs> des genannten <rs ana="#m_chord">Accordes</rs> betheiligen wollte. Jener
+				<lb facs="#facs_26_r2l37" n="N006"/>sogenannte <rs ana="#m_note">Grundbaß</rs> muß vielmehr, wenn er hörbar gemacht
+				<lb facs="#facs_26_r2l38" n="N007"/>wird, jederzeit <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">tiefste</hi> <rs ana="#concept_mus">Stimme</rs> bleiben und erzeigt sich eben
+				<lb facs="#facs_26_r2l39" n="N008"/>dadurch als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_note">Halteton</rs></hi>, welcher nur in seltenen Ausnahme<pc>¬</pc>
+				<lb facs="#facs_26_r2l40" n="N009"/>fällen auch einmal einer <rs ana="#concept_mus">Mittel-</rs> oder <rs ana="#concept_mus">Oberstimme</rs> zuertheilt
+				<lb facs="#facs_26_r2l41" n="N010"/>wird. Wollten wir aber auch annehmen, daß der dem <rs ana="#m_chord">Accorde</rs>
+				<lb facs="#facs_26_r2l42" n="N011"/><rs ana="#m_chord">h — d — f — a</rs> hinzugefügte „<rs ana="#m_note">Grundbaß</rs>” <rs ana="#m_note">G</rs> eine <rs ana="#concept_mus">Auflösung</rs>
+            </p>
+         </div>
+         <pb facs="#facs_27" n="27"/>
+         <div rend="TEI" facs="#facs_27_TextRegion_1614201588655_2632">
+            <p facs="#facs_27_TextRegion_1614201588655_2632">
+				<lb facs="#facs_27_r2l1" n="N001"/>22
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_27_TextRegion_1614201588655_2631">
+            <p facs="#facs_27_TextRegion_1614201588655_2631">
+				<lb facs="#facs_27_r2l2" n="N001"/>in den <rs ana="#m_chord">C durdreiklang</rs> andeuten könnte, so wird dessen Bedeu<pc>¬</pc>
+				<lb facs="#facs_27_r2l3" n="N002"/>tung doch völlig unverständlich in allen anderen <rs ana="#concept_mus">Auflösungen</rs>
+				<lb facs="#facs_27_r2l4" n="N003"/>oder <rs ana="#concept_mus">Trugfortschreitungen</rs> des genannten <rs ana="#m_chord">Accordes</rs>; wie z. B.
+				<lb facs="#facs_27_r2l5" n="N004"/>in den folgenden:
+			</p>
+         </div>
+         <div rend="MEI" facs="#facs_27_Music_1614201615988_2638" source="facs_27_Music_1614201615988_2638.mei"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_27_TextRegion_1614201581452_2623">
+            <p facs="#facs_27_TextRegion_1614201581452_2623">
+				<lb facs="#facs_27_r2l30" n="N001"/>Bleibt nun der <rs ana="#concept_mus">alten Lehre</rs> nach in allen diesen Fällen der
+				<lb facs="#facs_27_line_1614201671753_2671" n="N002"/><rs ana="#m_note">Grundbaß</rs> des <rs ana="#m_chord">Accordes</rs> <rs ana="#m_chord">h —d — f — a</rs> ein und derselbe,
+				<lb facs="#facs_27_r2l33" n="N003"/>nämlich <rs ana="#m_note">G</rs>? Oder muß dieser hier bald als <rs ana="#m_note">C</rs>, <rs ana="#m_note">E</rs>, <rs ana="#m_note">H</rs>, <rs ana="#m_note">Gis</rs> u. s. f.
+				<lb facs="#facs_27_r2l34" n="N004"/>gedacht werden? In keinem Falle kann eine auf so unsicherer
+				<lb facs="#facs_27_r2l35" n="N005"/>Basis beruhende <rs ana="#concept_mus">Lehre</rs> dem Schüler oder dem <rs ana="#concept_mus">Musiker</rs> über<pc>¬</pc>
+				<lb facs="#facs_27_r2l36" n="N006"/>haupt irgendwie zum Nutzen gereichen. Der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_note">Grundbaß</rs></hi>
+				<lb facs="#facs_27_r2l37" n="N007"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">eines jeden <rs ana="#m_chord">Accordes</rs></hi> ist vielmehr stets der seiner
+				<lb facs="#facs_27_r2l38" n="N008"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Grundlage</rs></hi>; der des <rs ana="#m_chord">Septimenaccordes</rs> <rs ana="#m_chord">h — d — f — a</rs>
+				<lb facs="#facs_27_r2l39" n="N009"/>ist demnach <rs ana="#m_note">h</rs>, gleich dem der <rs ana="#m_chord">Accorde</rs> <rs ana="#m_chord">h — dis — fis — a</rs>,
+				<lb facs="#facs_27_r2l40" n="N010"/><rs ana="#m_chord">h — d — f — as</rs>, <rs ana="#m_chord">h — dis — fis</rs>, <rs ana="#m_chord">h — d — fis</rs>, <rs ana="#m_chord">h — d</rs>
+				<lb facs="#facs_27_line_1614201682609_2687" n="N011"/><rs ana="#m_chord">— f</rs>, <rs ana="#m_chord">h — dis — fisis</rs> 2c.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_27_TextRegion_1614201574376_2615">
+            <p facs="#facs_27_TextRegion_1614201574376_2615">
+				<lb facs="#facs_27_r2l43" n="N001"/><persName role="author" ref="P0047">Mein Kritiker</persName> fährt in seinen Ausstellungen fort: „Ueber
+				<lb facs="#facs_27_r2l44" n="N002"/><rs ana="#concept_mus">Orgelpunkt</rs> wird sehr wenig und nur Bekanntes gesagt. Ein<pc>¬</pc>
+				<lb facs="#facs_27_r2l45" n="N003"/>zelner liegenden <rs ana="#m_note">Töne</rs>, die nicht grade 1. oder 5. <rs ana="#concept_mus">Stufe</rs> zu sein
+				<lb facs="#facs_27_r2l46" n="N004"/>brauchen, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">wird nicht gedacht</hi>.” — Auch diese Beschuldi<pc>¬</pc>
+				<lb facs="#facs_27_r2l47" n="N005"/>gungen sind völlig grundlos. Denn wenn ich mit <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">wenigen</hi>
+				<lb facs="#facs_27_r2l48" n="N006"/>Worten die Bedingungen des Anfanges, des Fortganges und
+				<lb facs="#facs_27_r2l49" n="N007"/>des Ausganges eines <rs ana="#concept_mus">Orgelpunkts</rs> gegeben habe, so ist das
+				<lb facs="#facs_27_r2l50" n="N008"/>gerade ein Beweis, daß ich zum ersten Male die eigentliche
+				<lb facs="#facs_27_r2l51" n="N009"/>Bedeutung desselben richtig erfaßt habe. Herrn <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0047">Bagge's</persName></hi>
+				<lb facs="#facs_27_r2l52" n="N010"/>zweiter Satz aber enthält wiederum eine — Ungenauigkeit,
+				<lb facs="#facs_27_r2l53" n="N011"/>denn S. 49 <title ana="#text" ref="W0039">meiner Schrift</title> sage ich nach Erwähnung der Be<pc>¬</pc>
+				<lb facs="#facs_27_r2l54" n="N012"/>deutung eines <rs ana="#concept_mus">Orgelpunktes</rs> auf der <rs ana="#concept_mus">Oberdominante</rs> und der
+				<lb facs="#facs_27_r2l55" n="N013"/><rs ana="#concept_mus">Tonica</rs> gegen das Ende eines <rs ana="#concept_mus">Tonstückes</rs>: „Der <rs ana="#concept_mus">Orgelpunkt</rs>
+				<lb facs="#facs_27_r2l56" n="N014"/>kann auch über diesen beiden gleichzeitig ausgehaltenen <rs ana="#m_note">Tönen</rs>
+            </p>
+         </div>
+         <pb facs="#facs_28" n="28"/>
+         <div rend="TEI" facs="#facs_28_TextRegion_1614202021187_2768">
+            <p facs="#facs_28_TextRegion_1614202021187_2768">
+				<lb facs="#facs_28_r3l1" n="N001"/>23
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_28_TextRegion_1614202021187_2767">
+            <p facs="#facs_28_TextRegion_1614202021187_2767">
+				<lb facs="#facs_28_r3l2" n="N001"/>(s. Beisp. 3), <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">über jedem anderen <rs ana="#m_note">Tone</rs>, dem eine</hi>
+				<lb facs="#facs_28_r3l3" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">solche hervortretende Tragkraft zugetheilt wer<pc>¬</pc></hi>
+				<lb facs="#facs_28_r3l4" n="N003"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">den soll,</hi> zu Anfang oder in der Mitte eines <rs ana="#concept_mus">Tonstückes</rs>
+				<lb facs="#facs_28_r3l5" n="N004"/>seine Anwendung finden.” <title ana="#text" ref="W0039">S. 50</title> werden ferner Beispiele
+				<lb facs="#facs_28_r3l6" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">dreier gleichzeitigen <rs ana="#m_note">Haltetöne</rs></hi> von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0054">Bach</persName></hi> und
+				<lb facs="#facs_28_r3l7" n="N006"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0016">Beethoven</persName></hi> angegeben, und <title ana="#text" ref="W0039">S. 63</title> steht die Bemerkung:
+				<lb facs="#facs_28_r3l8" n="N007"/>„daß die oben besprochenen <rs ana="#m_note">Haltetöne</rs> unter den erwähnten Be<pc>¬</pc>
+				<lb facs="#facs_28_r3l9" n="N008"/>dingungen auch zuweilen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">in der <rs ana="#concept_mus">Ober-</rs> oder in einer</hi>
+				<lb facs="#facs_28_r3l10" n="N009"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Mittelstimme</rs></hi> wirkungsvoll angewendet werden können.”
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_28_TextRegion_1614202002126_2753">
+            <p facs="#facs_28_TextRegion_1614202002126_2753">
+				<lb facs="#facs_28_r3l11" n="N001"/>Dies zur ferneren Andeutung, mit welcher Redlichkeit und
+				<lb facs="#facs_28_r3l12" n="N002"/>Aufrichtigkeit Herr <persName role="author" ref="P0047">B.</persName> und seine Partei an die Beurtheilung
+				<lb facs="#facs_28_r3l13" n="N003"/>der Werke ihrer vermeintlichen Gegner gehen.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_28_TextRegion_1614201994724_2749">
+            <p facs="#facs_28_TextRegion_1614201994724_2749">
+				<lb facs="#facs_28_r3l14" n="N001"/><persName role="author" ref="P0047">Mein Kritiker</persName> belehrt mich weiterhin, daß man „in der
+				<lb facs="#facs_28_r3l15" n="N002"/>ganzen Welt unter <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Halbcadenz</rs></hi> einen <rs ana="#concept_mus">Schluß</rs> auf der
+				<lb facs="#facs_28_r3l16" n="N003"/><rs ana="#concept_mus">Oberdominante</rs> verstehe”. Wie nennt denn in diesem Falle die
+				<lb facs="#facs_28_r3l17" n="N004"/>ganze Welt des Herrn <persName role="author" ref="P0047">B.</persName> die <rs ana="#concept_mus">Schlüsse</rs> auf der <rs ana="#concept_mus">Unterdominante</rs>,
+				<lb facs="#facs_28_r3l18" n="N005"/>der <rs ana="#concept_mus">Unterterz</rs>, der <rs ana="#concept_mus">Oberterz</rs> u. s. f., die doch nicht minder häufig
+				<lb facs="#facs_28_r3l19" n="N006"/>vorkommen? Nach meiner Meinung geben die folgenden Bei<pc>¬</pc>
+				<lb facs="#facs_28_r3l20" n="N007"/>spiele <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Ganzschlüsse</rs></hi> in <rs ana="#m_tonality">G dur</rs>, <rs ana="#m_tonality">F dur</rs>, <rs ana="#m_tonality">A moll</rs> und <rs ana="#m_tonality">E moll</rs>, weil
+				<lb facs="#facs_28_r3l21" n="N008"/>sie die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">Oberdominantaccorde</rs></hi> dieser <rs ana="#m_tonality">Tonarten</rs> benutzen:
+			</p>
+         </div>
+         <div rend="MEI" facs="#facs_28_Music_1614202062054_2778" source="facs_28_Music_1614202062054_2778.mei"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_28_TextRegion_1614201985633_2741">
+            <p facs="#facs_28_TextRegion_1614201985633_2741">
+				<lb facs="#facs_28_r3l29" n="N001"/>während die nachstehenden <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Halbschlüsse</rs></hi> in den genannten
+				<lb facs="#facs_28_r3l30" n="N002"/><rs ana="#m_tonality">Tonarten</rs> bilden, weil sie die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">Unterdominantaccorde</rs></hi> der<pc>¬</pc>
+				<lb facs="#facs_28_r3l31" n="N003"/>selben dazu in Anspruch nehmen:
+			</p>
+         </div>
+         <pb facs="#facs_29" n="29"/>
+         <div rend="TEI" facs="#facs_29_TextRegion_1614202146535_2830">
+            <p facs="#facs_29_TextRegion_1614202146535_2830">
+				<lb facs="#facs_29_r2l1" n="N001"/>24
+			</p>
+         </div>
+         <div rend="MEI" facs="#facs_29_Music_1614202162547_2834" source="facs_29_Music_1614202162547_2834.mei"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_29_TextRegion_1614202141688_2825">
+            <p facs="#facs_29_TextRegion_1614202141688_2825">
+				<lb facs="#facs_29_r2l11" n="N001"/>Wie hier in der angenommenen <rs ana="#m_tonality">Haupttonart</rs> <rs ana="#m_tonality">C dur</rs>, so würden
+				<lb facs="#facs_29_r2l12" n="N002"/>diese <rs ana="#m_chord">Accordfolgen</rs>, auch wenn sie in jeder anderen <rs ana="#m_tonality">Tonart</rs>
+				<lb facs="#facs_29_r2l13" n="N003"/>aufträten, dennoch ganz dieselbe Bedeutung und Benennung
+				<lb facs="#facs_29_r2l14" n="N004"/>behalten. Wenn Herr <persName role="author" ref="P0047">B.</persName> in den so ganz verschiedenen Bei<pc>¬</pc>
+				<lb facs="#facs_29_r2l15" n="N005"/>spielen 1 und 5, seiner obigen Aussage nach <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Halbcadenzen</rs></hi>
+				<lb facs="#facs_29_r2l16" n="N006"/>sieht, so müßte er die übrigen consequenter Weise <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Viertel-</rs>,</hi>
+				<lb facs="#facs_29_r2l17" n="N007"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Achtel-</rs>, <rs ana="#concept_mus">Sechszehntelcadenzen</rs></hi> u. s. f., deren Auftreten
+				<lb facs="#facs_29_r2l18" n="N008"/>in anderen <rs ana="#m_tonality">Tonarten</rs> aber wieder anders benennen, eine Lehre,
+				<lb facs="#facs_29_r2l19" n="N009"/>die unter den denkenden <rs ana="#concept_mus">Musikern</rs> <date>heutigen Tages</date> sicher keine
+				<lb facs="#facs_29_r2l20" n="N010"/>Anhänger mehr finden wird.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_29_TextRegion_1614202138085_2821">
+            <p facs="#facs_29_TextRegion_1614202138085_2821">
+				<lb facs="#facs_29_r2l21" n="N001"/>Bei Besprechung der <rs ana="#concept_mus">Schlußbildung</rs> stelle ich den Satz
+				<lb facs="#facs_29_r2l22" n="N002"/>auf: Hat sich eine <rs ana="#m_tonality">Tonart</rs> in ihren <rs ana="#concept_mus">Hauptmomenten</rs> bereits
+				<lb facs="#facs_29_r2l23" n="N003"/>kundgegeben, so genügt zum Abschlusse in derselben auch eine
+				<lb facs="#facs_29_r2l24" n="N004"/><rs ana="#m_chord">Accordfolge</rs>, über deren <rs ana="#concept_mus">harmonische Bedeutung</rs> wir außerdem
+				<lb facs="#facs_29_r2l25" n="N005"/>in Zweifel bleiben würden. Und weiterhin bemerke ich: wie
+				<lb facs="#facs_29_r2l26" n="N006"/>schon die <rs ana="#concept_mus">ältere Tonkunst</rs> zur Aufhaltung des <rs ana="#concept_mus">Schlusses</rs> eines
+				<lb facs="#facs_29_r2l27" n="N007"/><rs ana="#concept_mus">Tonstücks</rs> die <rs ana="#concept_mus"> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">vermiedene</hi> Cadenz</rs> (s. die Beisp.) anwandte,
+				<lb facs="#facs_29_r2l28" n="N008"/>so läßt auch die neuere oft hart vor dem <rs ana="#concept_mus">Schlusse</rs> noch einen
+				<lb facs="#facs_29_r2l29" n="N009"/>oder mehrere, <rs ana="#concept_mus">chromatische</rs> <rs ana="#m_note">Töne</rs> benutzende <rs ana="#m_chord">Accorde</rs> auftreten,
+				<lb facs="#facs_29_r2l30" n="N010"/>um den <rs ana="#m_chord">Schlußaccord</rs> durch eine solche <rs ana="#concept_mus">Spannung</rs> desto befrie<pc>¬</pc>
+				<lb facs="#facs_29_r2l31" n="N011"/>digender wirken zu lassen (Beisp. folgen i. m. S.). Herr <persName role="author" ref="P0047">B.</persName>
+				<lb facs="#facs_29_r2l32" n="N012"/>bemerkt dabei, daß andere Menschen wohl statt der Befriedi<pc>¬</pc>
+				<lb facs="#facs_29_r2l33" n="N013"/>gung Ueberdruß und Grauen empfinden würden, wenn ihnen
+				<lb facs="#facs_29_r2l34" n="N014"/>dergleichen oft aufgetischt würde. Daß eine fortgesetzte <rs ana="#concept_mus">Span<pc>¬</pc>
+				<lb facs="#facs_29_r2l35" n="N015"/>nung</rs> endlich Ueberdruß und <rs ana="#concept_mus">Abspannung</rs> erzeugt, ist eine be<pc>¬</pc>
+				<lb facs="#facs_29_r2l36" n="N016"/>kannte Thatsache, hier aber ist ja eben nur von einer schnell
+				<lb facs="#facs_29_r2l37" n="N017"/>vorübergehenden die Rede; denn wie es Herr <persName role="author" ref="P0047">B.</persName> anfangen
+			</p>
+         </div>
+         <pb facs="#facs_30" n="30"/>
+         <div rend="TEI" facs="#facs_30_TextRegion_1614202268074_2907">
+            <p facs="#facs_30_TextRegion_1614202268074_2907">
+				<lb facs="#facs_30_r3l1" n="N001"/>25
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_30_TextRegion_1614202268074_2906">
+            <p facs="#facs_30_TextRegion_1614202268074_2906">
+				<lb facs="#facs_30_r3l2" n="N001"/>will, ein <rs ana="#concept_mus">Tonstück</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">oft</hi> zu schließen, das ist mir aus seinen
+				<lb facs="#facs_30_line_1614202265503_2904" n="N002"/>Worten nicht klar geworden.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_30_TextRegion_1614202265481_2900">
+            <p facs="#facs_30_TextRegion_1614202265481_2900">
+				<lb facs="#facs_30_r3l4" n="N001"/>Herrn <persName role="author" ref="P0047">B.</persName> ist es unverstandlich geblieben, wenn ich im letz<pc>¬</pc>
+				<lb facs="#facs_30_r3l5" n="N002"/>ten Abschnitte <title ana="#text" ref="W0039">meiner Schrift</title> behaupte, daß die <rs ana="#concept_mus">neuere Ton<pc>¬</pc>
+				<lb facs="#facs_30_r3l6" n="N003"/>kunst</rs> die <rs ana="#concept_mus">chromatischen</rs> und <rs ana="#concept_mus">enharmonischen</rs> <rs ana="#m_note">Töne</rs> anders auf<pc>¬</pc>
+				<lb facs="#facs_30_r3l7" n="N004"/>fasse als die ältere. Er bekennt nicht zu wissen, daß die
+				<lb facs="#facs_30_r3l8" n="N005"/>ältere jeden <rs ana="#concept_mus">chromatischen</rs> <rs ana="#m_note">Ton</rs> als Bestandtheil einer <rs ana="#concept_mus">Harmonie</rs>
+				<lb facs="#facs_30_r3l9" n="N006"/>derjenigen <rs ana="#m_tonality">Tonart</rs> betrachte, in welcher er eben keinen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">chro<pc>¬</pc></rs></hi>
+				<lb facs="#facs_30_r3l10" n="N007"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">matischen</rs></hi>, sondern einen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_note">Stammton</rs></hi> bilde. Da ihm
+				<lb facs="#facs_30_r3l11" n="N008"/>nun <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0007">Hauptmann</persName></hi> in dieser Angelegenheit doch gewiß als
+				<lb facs="#facs_30_r3l12" n="N009"/>Autorität gelten wird, so führe ich dessen meinen oben aufge<pc>¬</pc>
+				<lb facs="#facs_30_r3l13" n="N010"/>stellten Satz beweisende Worte aus <title ana="#text" ref="W0006">seiner Harmonik</title> (S. 164)
+				<lb facs="#facs_30_r3l14" n="N011"/>hier an: „— es kann eben kein <rs ana="#concept_mus">melodischer</rs> <rs ana="#m_note">Ton</rs> anders eine
+				<lb facs="#facs_30_r3l15" n="N012"/>Bestimmtheit erhalten haben, als daß er als <rs ana="#m_note">Grundton</rs>, <rs ana="#m_interval">Terz</rs>
+				<lb facs="#facs_30_r3l16" n="N013"/>oder <rs ana="#m_interval">Quint</rs> eines <rs ana="#m_chord">Dreiklanges</rs> gefaßt wurde. Ebenso wird die
+				<lb facs="#facs_30_r3l17" n="N014"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">chromatische</rs></hi> über dem liegenden <rs ana="#m_chord">Dreiklange</rs> sich bewegende
+				<lb facs="#facs_30_r3l18" n="N015"/><rs ana="#m_tonality">Tonleiter</rs> sich nur durch eine von diesem <rs ana="#m_chord">Accorde</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">unab<pc>¬</pc></hi>
+				<lb facs="#facs_30_r3l19" n="N016"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">hängige</hi> <rs ana="#concept_mus">Verbindung</rs> construiren können, in welcher die
+				<lb facs="#facs_30_r3l20" n="N017"/><rs ana="#concept_mus">chromatischen</rs> <rs ana="#m_note">Töne</rs> ihre zusammenhängende <rs ana="#concept_mus">Fortschreitung</rs> fin<pc>¬</pc>
+				<lb facs="#facs_30_r3l21" n="N018"/>den, und zwar in einer Weise, daß auch die mit den <rs ana="#concept_mus">Stufen</rs>
+				<lb facs="#facs_30_r3l22" n="N019"/>des liegenden <rs ana="#m_chord">Dreiklanges</rs> zusammentreffenden <rs ana="#m_note">Töne</rs> ihre Be<pc>¬</pc>
+				<lb facs="#facs_30_r3l23" n="N020"/>deutung <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">nicht aus diesem <rs ana="#m_chord">Accorde</rs></hi> erhalten, sondern die,
+				<lb facs="#facs_30_r3l24" n="N021"/>welche ihnen durch die <rs ana="#m_chord">Accorde</rs> des verbundenen <rs ana="#concept_mus">Fortganges</rs>
+				<lb facs="#facs_30_r3l25" n="N022"/>zukommt, die mit jener zusammenfallen, aber auch verschieden
+				<lb facs="#facs_30_r3l26" n="N023"/>sein kann.”
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_30_TextRegion_1614202259032_2896">
+            <p facs="#facs_30_TextRegion_1614202259032_2896">
+				<lb facs="#facs_30_r3l27" n="N001"/>Mein dem oben erwähnten folgender Satz sagt nun, daß
+				<lb facs="#facs_30_r3l28" n="N002"/>die <rs ana="#concept_mus"> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">neuere</hi> Harmonielehre</rs>, im Gegensatze zur <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">älteren</hi>, die
+				<lb facs="#facs_30_r3l29" n="N003"/><rs ana="#concept_mus">chromatischen</rs> <rs ana="#m_note">Töne</rs> so lange als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_note">Nebentöne</rs></hi> einer bestimm<pc>¬</pc>
+				<lb facs="#facs_30_r3l30" n="N004"/>ten <rs ana="#m_tonality">Tonart</rs> auffasse, bis sich dieselben durch eine <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Auswei<pc>¬</pc></rs></hi>
+				<lb facs="#facs_30_r3l31" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">chung</rs></hi> zu <rs ana="#m_note">Stammtönen</rs> einer von dieser verschiedenen <rs ana="#m_tonality">Tonart</rs>
+				<lb facs="#facs_30_r3l32" n="N006"/>erheben. Nur nach dieser Lehre sind die von mir mitgetheilten
+				<lb facs="#facs_30_r3l33" n="N007"/>Beispiele von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0016">Beethoven</persName></hi> und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0007">Hauptmann</persName></hi> zu erklären,
+				<lb facs="#facs_30_r3l34" n="N008"/>und dieselbe liegt auch den weiterhin von mir gegebenen <rs ana="#concept_mus">Zu<pc>¬</pc>
+				<lb facs="#facs_30_r3l35" n="N009"/>sammenklängen</rs> zu Grunde. Diese letzteren haben jedoch nur
+				<lb facs="#facs_30_r3l36" n="N010"/>den Zweck, dergleichen von anerkannten <rs ana="#concept_mus">Tonmeistern</rs> absichtlich
+				<lb facs="#facs_30_r3l37" n="N011"/>aufgesuchte <rs ana="#concept_mus">Härten</rs> zu erklären und zu rechtfertigen, und erhal<pc>¬</pc>
+				<lb facs="#facs_30_r3l38" n="N012"/>ten eine verständliche Bedeutung erst, wenn sie als organische
+				<lb facs="#facs_30_r3l39" n="N013"/>Glieder einer <rs ana="#concept_mus">musikalischen Phrase</rs> auftreten. So z. B. der
+			</p>
+         </div>
+         <pb facs="#facs_31" n="31"/>
+         <div rend="TEI" facs="#facs_31_TextRegion_1614202411553_3021">
+            <p facs="#facs_31_TextRegion_1614202411553_3021">
+				<lb facs="#facs_31_r3l1" n="N001"/>26
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_31_TextRegion_1614202411553_3020">
+            <p facs="#facs_31_TextRegion_1614202411553_3020">
+				<lb facs="#facs_31_r3l2" n="N001"/>letzte der von Herrn <persName role="author" ref="P0047">B.</persName> als <rs ana="#concept_mus">überhart</rs> ausgesuchten <rs ana="#concept_mus">Zusam<pc>¬</pc>
+				<lb facs="#facs_31_r3l3" n="N002"/>menklänge</rs>:
+			</p>
+         </div>
+         <div rend="MEI" facs="#facs_31_Music_1614202436997_3027" source="facs_31_Music_1614202436997_3027.mei"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_31_TextRegion_1614202403021_3012">
+            <p facs="#facs_31_TextRegion_1614202403021_3012">
+				<lb facs="#facs_31_r3l15" n="N001"/>Der unten folgende <rs ana="#concept_mus">Zusammenklang</rs> der <rs ana="#m_note">Töne</rs> <rs ana="#m_chord">g — h — gis</rs>
+				<lb facs="#facs_31_r3l16" n="N002"/><rs ana="#m_chord">— es</rs>, welchen der stets von richtigem Gefühl geleitete <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0015">Mo<pc>¬</pc></persName></hi>
+				<lb facs="#facs_31_r3l17" n="N003"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0015">zart</persName></hi> in seiner <title ana="#music" ref="W0055">G moll-Sinfonie</title> gebraucht, wirkt vielleicht noch
+				<lb facs="#facs_31_line_1614202510813_3069" n="N004"/>schärfer als die von mir gegebenen Beispiele; er tritt <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">ganz</hi>
+				<lb facs="#facs_31_r3l20" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">frei</hi> auf, und findet nach meiner <rs ana="#concept_mus">Theorie</rs> seine einfache Erklä<pc>¬</pc>
+				<lb facs="#facs_31_line_1614202522710_3087" n="N006"/>rung in der <rs ana="#concept_mus">Verzögerung</rs> des <rs ana="#m_chord">Accordes</rs> <rs ana="#m_chord">D — fis — a — c</rs>
+				<lb facs="#facs_31_r3l24" n="N007"/>durch <rs ana="#concept_mus">chromatische</rs> <rs ana="#m_note">Töne</rs>, welche regelmäßig <rs ana="#concept_mus">stufenweise</rs> in diesen
+				<lb facs="#facs_31_r3l25" n="N008"/><rs ana="#concept_mus">fortschreiten</rs>:
+			</p>
+         </div>
+         <div rend="MEI" facs="#facs_31_Music_1614202446603_3034" source="facs_31_Music_1614202446603_3034.mei"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_31_TextRegion_1614202387089_3004">
+            <p facs="#facs_31_TextRegion_1614202387089_3004">
+				<lb facs="#facs_31_r3l45" n="N001"/>Herr <persName role="author" ref="P0047">B.</persName> mag aus diesem Beispiele wiederum ersehen, daß
+				<lb facs="#facs_31_r3l46" n="N002"/>nicht allein die „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">neuesten</hi>”, sondern auch die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">älteren</hi> „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">an<pc>¬</pc></hi>
+				<lb facs="#facs_31_r3l47" n="N003"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">erkannten</hi>” <rs ana="#concept_mus">Tonmeister</rs> zuweilen eines „advocatus diaboli”
+				<lb facs="#facs_31_r3l48" n="N004"/>bedürfen, um solche von ihnen gewagte, bisher aber noch in
+				<lb facs="#facs_31_r3l49" n="N005"/>keiner <rs ana="#concept_mus">Harmonielehre</rs> besprochene <rs ana="#concept_mus">Zusammenklänge</rs> zu <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">recht<pc>¬</pc></hi>
+				<lb facs="#facs_31_r3l50" n="N006"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">fertigen</hi>.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_31_TextRegion_1614202384076_3000">
+            <p facs="#facs_31_TextRegion_1614202384076_3000">
+				<lb facs="#facs_31_r3l51" n="N001"/>Herr <persName role="author" ref="P0047">B.</persName> theilt übrigens meine Meinung, daß es zwar
+			</p>
+         </div>
+         <pb facs="#facs_32" n="32"/>
+         <div rend="TEI" facs="#facs_32_TextRegion_1614202578811_3124">
+            <p facs="#facs_32_TextRegion_1614202578811_3124">
+				<lb facs="#facs_32_r2l1" n="N001"/>27
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_32_TextRegion_1614202578811_3123">
+            <p facs="#facs_32_TextRegion_1614202578811_3123">
+				<lb facs="#facs_32_r2l2" n="N001"/>nicht gerathen wäre, ein <rs ana="#concept_mus">Tonstück</rs> mit vielen solchen harten
+				<lb facs="#facs_32_r2l3" n="N002"/><rs ana="#concept_mus"> <rs ana="#concept_phy">Dissonanzen</rs></rs> anzufüllen, daß aber dem <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Meister</hi> kein seinem
+				<lb facs="#facs_32_r2l4" n="N003"/>Zwecke entsprechendes Mittel einer befangenen <rs ana="#concept_mus">Theorie</rs> wegen
+				<lb facs="#facs_32_r2l5" n="N004"/>entzogen werden dürfe; nur fügt er hinzu: den „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">falschen</hi>
+				<lb facs="#facs_32_r2l6" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Propheten</hi>” gegenüber müsse man „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">jedes Stückelchen</hi>
+				<lb facs="#facs_32_r2l7" n="N006"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">des Gesetzes</hi>” aufrecht erhalten. Auch hierin stimmen wir
+				<lb facs="#facs_32_r2l8" n="N007"/>beide vollkommen überein, sofern Herr <persName role="author" ref="P0047">B.</persName> nur nicht alle <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">le<pc>¬</pc></hi>
+				<lb facs="#facs_32_r2l9" n="N008"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">benden</hi> Meister als falsche Propheten, und das <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">alte Testa<pc>¬</pc></hi>
+				<lb facs="#facs_32_line_1614202576492_3121" n="N009"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">ment</hi> als das allein giltige Gesetz betrachtet.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_32_TextRegion_1614202576328_3117">
+            <p facs="#facs_32_TextRegion_1614202576328_3117">
+				<lb facs="#facs_32_r2l11" n="N001"/>Wenn endlich mein aufrichtiger <persName role="author" ref="P0047">Kritiker</persName> behauptet, daß er
+				<lb facs="#facs_32_line_1614202619581_3147" n="N002"/>von dem wirklich der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">neuesten</hi> Schule Angehörigen (aus
+				<lb facs="#facs_32_r2l14" n="N003"/>Grundsatz!) herzlich wenig behalten möchte (denn diese muß
+				<lb facs="#facs_32_r2l15" n="N004"/>unter jeder Bedingung stets Unrecht haben!), so stimmt er doch
+				<lb facs="#facs_32_r2l16" n="N005"/>schließlich wider Willen in den Hauptsachen mit den von mir
+				<lb facs="#facs_32_r2l17" n="N006"/>vertretenen Lehrsätzen überein, und so scharf er anfangs auch
+				<lb facs="#facs_32_r2l18" n="N007"/><title ana="#text" ref="W0039">meine <rs ana="#concept_mus">Harmonielehre</rs></title> anzugreifen versuchte, weil sie auf ein
+				<lb facs="#facs_32_r2l19" n="N008"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">temperirtes Tonsystem</rs></hi> gebaut sei, so sagt er wiederum
+				<lb facs="#facs_32_r2l20" n="N009"/>doch am Schlusse seiner Recension, daß man eigentlich „kein
+				<lb facs="#facs_32_r2l21" n="N010"/>unbedingter Gegner der <rs ana="#concept_mus">Enharmonik</rs> sein könne, weil die Mei<pc>¬</pc>
+				<lb facs="#facs_32_r2l22" n="N011"/>ster auf Grundlage des <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">im Gebrauch</hi> (warum also nicht auch
+				<lb facs="#facs_32_r2l23" n="N012"/>von der <rs ana="#concept_mus">Theorie</rs>) festgestellten <rs ana="#concept_mus">temperirten Systemes</rs> sehr viel
+				<lb facs="#facs_32_r2l24" n="N013"/>Geistreiches aus ihr herausgebildet hätten, und nur ihr <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Miß<pc>¬</pc></hi>
+				<lb facs="#facs_32_r2l25" n="N014"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">brauch</hi> sei verwerflich.” Vor dem Mißbrauch aller starken
+				<lb facs="#facs_32_r2l26" n="N015"/>Ausdrucksmittel habe ich ebenfalls an verschiedenen Stellen
+				<lb facs="#facs_32_r2l27" n="N016"/><title ana="#text" ref="W0039">meiner Schrift</title> gewarnt; wenn aber Herr <persName role="author" ref="P0047">B.</persName> weiterhin meint,
+				<lb facs="#facs_32_r2l28" n="N017"/>„alle neueren <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">guten</hi> <rs ana="#concept_mus">Componisten</rs> bis zu <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0043">Schumann</persName></hi>
+				<lb facs="#facs_32_r2l29" n="N018"/>(NB. bis zu dem letzten <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Todten</hi>) hätten die <rs ana="#concept_mus">Enharmonik</rs> nur
+				<lb facs="#facs_32_r2l30" n="N019"/>in witziger Weise benutzt”, so ist dies wiederum ein auf<pc>¬</pc>
+				<lb facs="#facs_32_r2l31" n="N020"/>fallender Irrthum, und es klingt komisch, wenn er einen dem
+				<lb facs="#facs_32_r2l32" n="N021"/>Zuhörer ganz unmerklichen <rs ana="#concept_mus">enharmonischen Uebergang</rs> mit dem
+				<lb facs="#facs_32_r2l33" n="N022"/>sehr bemerklichen <rs ana="#concept_mus">Blech</rs> und der <rs ana="#concept_mus">großen Trommel</rs> des <rs ana="#concept_mus">Orche<pc>¬</pc>
+				<lb facs="#facs_32_r2l34" n="N023"/>sters</rs> vergleicht. Der <rs ana="#concept_mus">Trauermarsch</rs> <title ana="#music" ref="W0056">„sulla morte d’un Eroe”</title>
+				<lb facs="#facs_32_r2l35" n="N024"/>von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0016">Beethoven</persName></hi> (in <title ana="#music" ref="W0056">Op. 26</title>) enthält <rs ana="#concept_mus">Takt</rs> 9 einen <rs ana="#concept_mus">enharmo<pc>¬</pc>
+				<lb facs="#facs_32_r2l36" n="N025"/>nischen Uebergang</rs>, indem der <rs ana="#concept_mus">Tonsetzer</rs> den hier natürlich fol<pc>¬</pc>
+				<lb facs="#facs_32_r2l37" n="N026"/>genden <rs ana="#m_chord">Ces molldreiklang</rs> in den <rs ana="#m_chord">H molldreiklang</rs> umwandelt.
+				<lb facs="#facs_32_r2l38" n="N027"/>Kein <rs ana="#concept_mus">Musiker</rs> aber wird darin einen „Witz” erkennen oder
+				<lb facs="#facs_32_r2l39" n="N028"/>denselben gar mit <rs ana="#concept_mus">Pauken</rs> und <rs ana="#concept_mus">Trompeten</rs> vergleichen wollen.
+				<lb facs="#facs_32_r2l40" n="N029"/>Der <rs ana="#concept_mus">Zuhörer</rs> vernimmt vielmehr gar nicht den <rs ana="#m_chord">H moll-</rs>, son<pc>¬</pc>
+			</p>
+         </div>
+         <pb facs="#facs_33" n="33"/>
+         <div rend="TEI" facs="#facs_33_TextRegion_1614202745402_3229">
+            <p facs="#facs_33_TextRegion_1614202745402_3229">
+				<lb facs="#facs_33_r2l1" n="N001"/>28
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_33_TextRegion_1614202745402_3228">
+            <p facs="#facs_33_TextRegion_1614202745402_3228">
+				<lb facs="#facs_33_r2l2" n="N001"/>dern den gleichklingenden <rs ana="#m_chord">Ces molldreiklang</rs>. Verfolgt er von
+				<lb facs="#facs_33_r2l3" n="N002"/>diesem letzteren aus die ferneren <rs ana="#concept_mus">Harmonien</rs>, so vernimmt er
+				<lb facs="#facs_33_r2l4" n="N003"/>beim <rs ana="#concept_mus">Schlusse</rs> nicht den <rs ana="#m_chord">As moll-</rs>, sondern den <rs ana="#concept_mus">gleichklingenden</rs>
+				<lb facs="#facs_33_r2l5" n="N004"/><rs ana="#m_chord">bbb moll-Dreiklang</rs>. Der kühne <rs ana="#concept_mus">Enharmoniker</rs> beginnt dem<pc>¬</pc>
+				<lb facs="#facs_33_r2l6" n="N005"/>nach seinen <title ana="#music" ref="W0056">Trauermarsch</title> in <rs ana="#m_tonality">As moll</rs> und schließt ihn in <rs ana="#m_tonality">bbb moll</rs>,
+				<lb facs="#facs_33_r2l7" n="N006"/>indem er beide <rs ana="#m_tonality">Tonarten</rs> als völlig identisch, und nur der
+				<lb facs="#facs_33_r2l8" n="N007"/><rs ana="#concept_mus">Schreibart</rs> nach verschieden betrachtet.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_33_TextRegion_1614202741777_3224">
+            <p facs="#facs_33_TextRegion_1614202741777_3224">
+				<lb facs="#facs_33_r2l9" n="N001"/>In meinem <rs ana="#concept_mus"> <title ana="#text" ref="W0039">Harmoniesysteme</title></rs> habe ich jederzeit die Bedeu<pc>¬</pc>
+				<lb facs="#facs_33_r2l10" n="N002"/>tung des <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">alten Gesetzes</hi> seinem ganzen Umfange nach ange<pc>¬</pc>
+				<lb facs="#facs_33_r2l11" n="N003"/>geben und die auf Naturnothwendigkeit gegründeten Gebote
+				<lb facs="#facs_33_r2l12" n="N004"/>desselben gehörigen Ortes ihrer ganzen Strenge nach festgehal<pc>¬</pc>
+				<lb facs="#facs_33_r2l13" n="N005"/>ten. Aber auch die Erweiterungen desselben, welche die größten
+				<lb facs="#facs_33_r2l14" n="N006"/>unserer dahingeschiedenen und noch lebenden <rs ana="#concept_mus">Tonmeister</rs> als
+				<lb facs="#facs_33_r2l15" n="N007"/>vernünftige und zweckentsprechende anerkannt und in Ausübung
+				<lb facs="#facs_33_r2l16" n="N008"/>gebracht haben, habe ich, ebenfalls ihrem ganzen Umfange nach,
+				<lb facs="#facs_33_r2l17" n="N009"/>gesammelt, geordnet, begründet und als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">neue Gesetze</hi> den
+				<lb facs="#facs_33_r2l18" n="N010"/>älteren zur Ergänzung beigegeben.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_33_TextRegion_1614202736341_3220">
+            <p facs="#facs_33_TextRegion_1614202736341_3220">
+				<lb facs="#facs_33_r2l19" n="N001"/>Die vorliegenden Blätter haben den Zweck, einige in <title ana="#text" ref="W0039">mei<pc>¬</pc></title>
+				<lb facs="#facs_33_r2l20" n="N002"/><title ana="#text" ref="W0039">ner Schrift</title> nur gedrängt gegebene Sätze weiter auszuführen
+				<lb facs="#facs_33_r2l21" n="N003"/>und eine gerechte Entscheidung über die Zulässigkeit oder Un<pc>¬</pc>
+				<lb facs="#facs_33_r2l22" n="N004"/>zulässigkeit einiger neuerer Lehrsätze herbeizuführen, die den
+				<lb facs="#facs_33_r2l23" n="N005"/>älteren, welche bisher als unfehlbar gegolten hatten, zu wider<pc>¬</pc>
+				<lb facs="#facs_33_r2l24" n="N006"/>sprechen scheinen. Also nicht gegen einen <persName role="author" ref="P0047">einzelnen Kritiker</persName>,
+				<lb facs="#facs_33_r2l25" n="N007"/>sondern gegen die von ihm vertheidigten Sätze der <rs ana="#concept_mus">alten Lehre</rs>
+				<lb facs="#facs_33_r2l26" n="N008"/>habe ich gekämpft, und nicht ohne Widerwillen habe ich zuwei<pc>¬</pc>
+				<lb facs="#facs_33_r2l27" n="N009"/>len die mir gebotenen, dem Ernste der Sache aber eigentlich
+				<lb facs="#facs_33_line_1614202726152_3218" n="N010"/>nicht entsprechenden Waffen dabei gebraucht.
+			</p>
+         </div>
+         <div rend="TEI" facs="#facs_33_TextRegion_1614202726127_3214">
+            <p facs="#facs_33_TextRegion_1614202726127_3214">
+				<lb facs="#facs_33_r2l29" n="N001"/>Gegen fernere oberflächliche und grundlose Angriffe aufzu<pc>¬</pc>
+				<lb facs="#facs_33_r2l30" n="N002"/>treten halte ich mich nicht für verpflichtet, da ich die Entschei<pc>¬</pc>
+				<lb facs="#facs_33_r2l31" n="N003"/>dung der hier angeregten Streitfragen nicht dem „einseitig be<pc>¬</pc>
+				<lb facs="#facs_33_r2l32" n="N004"/>fangenen Kritiker”, sondern dem unbefangenen und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">selbst</hi>
+				<lb facs="#facs_33_r2l33" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">prüfenden</hi> <rs ana="#concept_mus">praktischen Musiker</rs> anheimstelle.
+			</p>
+         </div>
+         <pb facs="#facs_34" n="34"/>
+         <div rend="MEI" facs="#facs_34_Music_1614203244218_3287" source="facs_34_Music_1614203244218_3287.mei"><p>MUSIK</p></div>
+         <pb facs="#facs_35" n="35"/>
+         <div rend="MEI" facs="#facs_35_Music_1614203535333_3300" source="facs_35_Music_1614203535333_3300.mei"><p>MUSIK</p></div>
+         <pb facs="#facs_36" n="36"/>
+         <pb facs="#facs_37" n="37"/>
+         <pb facs="#facs_38" n="38"/>
+         <pb facs="#facs_39" n="39"/>
+      </body>
+   </text>
+</TEI>
