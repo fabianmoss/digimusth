@@ -1,0 +1,58 @@
+---
+layout: music_base
+---
+
+<head>
+    <title>My project</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="../test/CETEIcean.css" media="all" />
+    <link rel="stylesheet" href="../test/style.css" media="all" />
+	<link rel="stylesheet" href="../test/project_css.css" media="all" />
+    <script src="../test/CETEI.js"></script>
+    <script src="../test/verovio.js"></script>
+  </head>
+
+  <body>
+    <div>this is a test</div>
+  	<!-- container for TEI document -->
+    <div id="TEI"></div>
+  	<!-- rendition -->
+  	<script>
+  		/* CETEIcean */
+		var CETEIcean = new CETEI()
+			CETEIcean.getHTML5("../xslt_ausgabe.xml", function(data) {
+			document.getElementById("TEI").appendChild(data)
+		})
+		/* Verovio */
+		var vrvToolkit = new verovio.toolkit()
+			vrvToolkit.setOptions(options = {
+				pageHeight: 500,
+				pageWidth: 1000,
+				ignoreLayout: 1,
+				border: 20,
+				scale: 50,
+				adjustPageHeight: true
+		})
+		/* DOM-Prüfer */
+		function checkDOMAndProcess() {
+		    const musicElements = document.querySelectorAll('tei-div[rend="MEI"]');
+		    musicElements.forEach(node => {
+		        if (node.id && !node.dataset.processed) {
+		            node.dataset.processed = 'true'; // Verhindert doppelte Verarbeitung
+		            const fileName = `${node.id}`; // Dynamischer Dateiname basierend auf der ID
+		            fetch(`../testdata/${fileName}`)
+		                .then(response => response.text())
+		                .then(data => {
+		                    const svg = vrvToolkit.renderData(data, {});
+		                    node.innerHTML = svg;
+		                })
+		                .catch(error => console.error('Error fetching MEI file:', error));
+		        }
+		    });
+		    // Fordere den nächsten Frame an, um fortzufahren
+		    requestAnimationFrame(checkDOMAndProcess);
+		}
+		// Starte die Überprüfung, sobald die DOM-Inhalte verfügbar sind
+		document.addEventListener('DOMContentLoaded', checkDOMAndProcess);
+    </script>
+  </body>

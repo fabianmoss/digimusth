@@ -1,0 +1,84 @@
+
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/presentation_css.css" />
+
+<script>
+    function myFunction() {
+       var element = document.getElementById("name");
+       element.classList.toggle("mystyle");
+    }
+    function stylepeople() {
+       var elements = document.querySelectorAll("tei-person_author, tei-person_composer");
+       for (let item of elements) {
+        item.classList.toggle("peoplestyle");
+    }}
+    
+    function styleworks() {
+       var elements = document.querySelectorAll("tei-work_text, tei-work_music");
+       for (let item of elements) {
+        item.classList.toggle("workstyle");
+    }}
+    
+    function styleconcepts() {
+       var elements = document.querySelectorAll("tei-concept_mus, tei-concept_phy");
+       for (let item of elements) {
+        item.classList.toggle("conceptstyle");
+    }}
+    
+    function stylelocations() {
+       var elements = document.querySelectorAll("tei-location");
+       for (let item of elements) {
+        item.classList.toggle("locationsstyle");
+    }}
+    function styletime() {
+       var elements = document.querySelectorAll("tei-time");
+       for (let item of elements) {
+        item.classList.toggle("timestyle");
+    }}
+    
+    function stylemusic() {
+       var elements = document.querySelectorAll("tei-m_note, tei-m_chord, tei-m_interval, tei-m_tonality");
+       for (let item of elements) {
+        item.classList.toggle("musicstyle");
+    }}
+    
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+      document.body.scrollTop = 0; // For Safari
+      document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+    } 
+    </script>
+<div class="stickyfoot"><p>
+	Change the presentation of annotated items: 
+	
+			Authors and works
+			<label class="switch">
+			  <input type="checkbox" onclick="stylepeople(); styleworks()">
+			  <span class="slider round"></span>
+			</label>
+			
+			Concepts
+			<label class="switch">
+			  <input type="checkbox" onclick="styleconcepts()">
+			  <span class="slider round"></span>
+			</label>
+			
+			Music
+			<label class="switch">
+			  <input type="checkbox" onclick="stylemusic()">
+			  <span class="slider round"></span>
+			</label>
+			
+			Locations and time 
+			<label class="switch">
+			  <input type="checkbox" onclick="stylelocations(); styletime()">
+			  <span class="slider round"></span>
+			</label></span>
+			
+			Check all
+			<label class="switch"> 
+		  <input type="checkbox" onclick="stylepeople(); styleworks(); styleconcepts(); stylemusic(); stylelocations(); styletime()">
+		  <span class="slider round"></span>
+		</label>
+		 <button onclick="topFunction()" id="topbutton" title="Go to top">Top</button> 
+		</p>
+	</div>
