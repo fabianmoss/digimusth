@@ -5,7 +5,7 @@ title:               DigiMusTh
 tagline:             'Project page for DigiMusTh'
 description:         'DigiMusTh: A collection of historical music theory texts'
 url:                 'https://fabianmoss.github.io'
-baseurl:             ''
+baseurl:             '/digimusth'
 
 # About/contact
 author:
