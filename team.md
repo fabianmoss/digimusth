@@ -31,7 +31,7 @@ Torsten Roeder is a Digital Humanities researcher and lecturer at the JMU.
 </tr>
 
 <tr>
-<td colspan="1"><img src="../assets/team/jklinger.jpg" alt="jana" style="margin: 0 0 0"/></td>
+<td colspan="1"><img src="../assets/team/JKlinger.jpg" alt="jana" style="margin: 0 0 0"/></td>
 <td colspan="2"><h2>
 <a href="https://www.uni-wuerzburg.de/zpd/forschungsstelle-dachs/team/klinger-jana/">Jana Klinger, M.A., M.Ed.</a> | Digital Humanities </h2>
 <div class="team_description">
