@@ -35,7 +35,7 @@ Torsten Roeder is a Digital Humanities researcher and lecturer at the JMU.
 <td colspan="2"><h2>
 <a href="https://www.uni-wuerzburg.de/zpd/forschungsstelle-dachs/team/klinger-jana/">Jana Klinger, M.A., M.Ed.</a> | Digital Humanities </h2>
 <div class="team_description">
-Jana Klinger is a research associate at the zpd Würzburg. 
+Jana Klinger is a research associate at the Research Center for Digital Applications in Humanities Studies (DACHS) at JMU. She is responsible for project management and technical realisation of digital scholarly editions and digital text collections, such as the DigiMusTh project.
 </div>
 </td>
 </tr>
@@ -50,13 +50,26 @@ Corinna Keupp is a research associate at the zpd Würzburg.
 </td>
 <td colspan="1"><img src="../assets/team/ckeupp.jpg" alt="corinna" style="margin: 0 0 0"/></td>
 </tr>
+
+<tr>
+<td colspan="1"><img src="../assets/team/jroth.jpg" alt="jana" style="margin: 0 0 0"/></td>
+<td colspan="2"><h2>
+<a href="https://www.uni-wuerzburg.de/zpd/forschungsstelle-dachs/team/">Janina Marie Roth</a> | Digital Humanities </h2>
+<div class="team_description">
+Janina Marie Roth is a student of Digital Humanities and English Studies at the University of Würzburg. 
+</div>
+</td>
+</tr>
+
+
+
 </table>
 
 
 
 <h2>Acknowledgments</h2>
 <div>
-We thank Felicitas Stickler for her preliminary work studies that have majorly helped the implementation of this project.</div>
+We thank Felicitas Stickler for her preliminary work studies that have majorly helped the implementation of this project. Additionally, we are grateful to Janina Marie Roth. She supported us by transcribing complex data. </div>
 
 
 <h2>Credits</h2>
