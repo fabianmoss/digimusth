@@ -52,11 +52,11 @@ Corinna Keupp is a research associate at the zpd Würzburg.
 </tr>
 
 <tr>
-<td colspan="1"><img src="../assets/team/jroth.jpg" alt="jana" style="margin: 0 0 0"/></td>
+<td colspan="1"><img src="../assets/team/jroth.jpg" alt="janina" style="margin: 0 0 0"/></td>
 <td colspan="2"><h2>
 <a href="https://www.uni-wuerzburg.de/zpd/forschungsstelle-dachs/team/">Janina Marie Roth</a> | Digital Humanities </h2>
 <div class="team_description">
-Janina Marie Roth is a student of Digital Humanities and English Studies at the University of Würzburg. 
+Janina Marie Roth is a student of Digital Humanities and English Studies at the University of Würzburg. She supported us by transcribing complex data.
 </div>
 </td>
 </tr>
@@ -69,7 +69,7 @@ Janina Marie Roth is a student of Digital Humanities and English Studies at the 
 
 <h2>Acknowledgments</h2>
 <div>
-We thank Felicitas Stickler for her preliminary work studies that have majorly helped the implementation of this project. Additionally, we are grateful to Janina Marie Roth. She supported us by transcribing complex data. </div>
+We thank Felicitas Stickler for her preliminary work studies that have majorly helped the implementation of this project.</div>
 
 
 <h2>Credits</h2>
