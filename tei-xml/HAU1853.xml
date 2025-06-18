@@ -21351,8 +21351,8 @@
          </div>
          <div rend="TEI" facs="#facs_315_TextRegion_1612900858188_1940">
             <p facs="#facs_315_TextRegion_1612900858188_1940">
-				<lb facs="#facs_315_r1l2" n="N001"/>wonach in der Octav $$MATH, in der Quint $$MATH, in der
-				<lb facs="#facs_315_r1l3" n="N002"/>Terz $$MATH, der tiefere Ton als Bestimmung aus der
+				<lb facs="#facs_315_r1l2" n="N001"/>wonach in der Octav <formula notation="tex">$\frac{2}{1}:1$</formula>, in der Quint <formula notation="tex">$\frac{3}{2}:1$</formula>, in der
+				<lb facs="#facs_315_r1l3" n="N002"/>Terz <formula notation="tex">$\frac{5}{4}:1$</formula>, der tiefere Ton als Bestimmung aus der
 				<lb facs="#facs_315_r1l4" n="N003"/>Einheit des höheren erscheint; so wird also auch in die
 				<lb facs="#facs_315_r1l5" n="N004"/>metrischen Verhältnisse der Sinn treten, dass wir Be<pc>¬</pc>
 				<lb facs="#facs_315_r1l6" n="N005"/>stimmtes an der Stelle des Bestimmenden erhalten, wenn
@@ -21387,7 +21387,7 @@
 				<lb facs="#facs_315_r1l30" n="N002"/>zukommen sein, das bei den bisherigen Vergleichun<pc>¬</pc>
 				<lb facs="#facs_315_r1l31" n="N003"/>gen der metrischen mit den musikalischen Verhältnissbe<pc>¬</pc>
 				<lb facs="#facs_315_r1l32" n="N004"/>stimmungen entstehen konnte, indem die musikalischen
-				<lb facs="#facs_315_r1l33" n="N005"/>in den drei Intervallen $$MATH, $$MATH, $$MATH, ein <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Einfaches</hi>,
+				<lb facs="#facs_315_r1l33" n="N005"/>in den drei Intervallen <formula notation="tex">$\frac{1}{2}$</formula>, <formula notation="tex">$\frac{2}{3}$</formula>, <formula notation="tex">$\frac{4}{5}$</formula>, ein <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Einfaches</hi>,
 				<lb facs="#facs_315_r1l34" n="N006"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Zweifaches</hi> und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Vierfaches</hi> in der uns schon bekann<pc>¬</pc>
 				<lb facs="#facs_315_r1l35" n="N007"/>ten Bedeutung zu einander setzen, die metrischen aber
 				<lb facs="#facs_315_r1l36" n="N008"/>ein <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Zweifaches</hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Dreifaches</hi> und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Vierfaches</hi>; so
@@ -21429,7 +21429,7 @@
 				<lb facs="#facs_316_r1l19" n="N003"/>ist das doppelt Gespannte des Grundtones: die doppelte
 				<lb facs="#facs_316_r1l20" n="N004"/>Kraft in derselben Last oder Schwere; der Grundton gegen
 				<lb facs="#facs_316_r1l21" n="N005"/>die Octav die doppelte Last für dieselbe Kraft. In der
-				<lb facs="#facs_316_r1l22" n="N006"/>Quint sind $$MATH derselben Last; in der Terz $$MATH derselben
+				<lb facs="#facs_316_r1l22" n="N006"/>Quint sind <formula notation="tex">$\frac{2}{3}$</formula> derselben Last; in der Terz <formula notation="tex">$\frac{4}{5}$</formula> derselben
 				<lb facs="#facs_316_r1l23" n="N007"/>Last von gleicher Kraft zu überwinden: es ist, von der
 				<lb facs="#facs_316_r1l24" n="N008"/>Bedeutung der Verhältnisse noch abgesehen, im höheren
 				<lb facs="#facs_316_r1l25" n="N009"/>Tone weniger Schwere, er ist leichter, lichter; den tieferen
@@ -21492,13 +21492,13 @@
 				<lb facs="#facs_317_r1l26" n="N005"/>mehr zu metrischer Einheit gefasst werden kann, so ist
 				<lb facs="#facs_317_r1l27" n="N006"/>auch das akustisch über das Vierfache Hinausgehende nicht
 				<lb facs="#facs_317_r1l28" n="N007"/>mehr direct und unmittelbar als Intervallbestimmung
-				<lb facs="#facs_317_r1l29" n="N008"/>verständlich. In dem Verhältnisse 4:5, oder $$MATH, dem der
-				<lb facs="#facs_317_r1l30" n="N009"/>Terz; hat der ergänzende Theil, $$MATH, keine Bedeutung in
+				<lb facs="#facs_317_r1l29" n="N008"/>verständlich. In dem Verhältnisse 4:5, oder <formula notation="tex">$\frac{4}{5}$</formula>, dem der
+				<lb facs="#facs_317_r1l30" n="N009"/>Terz; hat der ergänzende Theil, <formula notation="tex">$\frac{1}{5}$</formula>, keine Bedeutung in
 				<lb facs="#facs_317_r1l31" n="N010"/>Bezug auf die Fünfzahl, er hat dieselbe nur als Einheit, an
-				<lb facs="#facs_317_r1l32" n="N011"/>welcher das Terzquantum, $$MATH, sich als ein Vierfaches, d. i.
+				<lb facs="#facs_317_r1l32" n="N011"/>welcher das Terzquantum, <formula notation="tex">$\frac{4}{5}$</formula>, sich als ein Vierfaches, d. i.
 				<lb facs="#facs_317_r1l33" n="N012"/>Doppelzweifaches des hier allein bestimmenden Zählers
-				<lb facs="#facs_317_r1l34" n="N013"/>aussagt. Ebenso wie das ergänzende $$MATH, am Quintverhält<pc>¬</pc>
-				<lb facs="#facs_317_r1l35" n="N014"/>nisse, $$MATH, das Quantum zu einem zweifachen bestimmt, und
+				<lb facs="#facs_317_r1l34" n="N013"/>aussagt. Ebenso wie das ergänzende <formula notation="tex">$\frac{1}{3}$</formula>, am Quintverhält<pc>¬</pc>
+				<lb facs="#facs_317_r1l35" n="N014"/>nisse, <formula notation="tex">$\frac{2}{3}$</formula>, das Quantum zu einem zweifachen bestimmt, und
 			</p>
          </div>
          <pb facs="#facs_318" n="318"/>
@@ -21509,27 +21509,27 @@
          </div>
          <div rend="TEI" facs="#facs_318_TextRegion_1612901303860_2424">
             <p facs="#facs_318_TextRegion_1612901303860_2424">
-				<lb facs="#facs_318_r1l2" n="N001"/>das ergänzende $$MATH, am Octavverhältnisse $$MATH, das Quantum
+				<lb facs="#facs_318_r1l2" n="N001"/>das ergänzende <formula notation="tex">$\frac{1}{2}$</formula>, am Octavverhältnisse <formula notation="tex">$\frac{1}{2}$</formula>, das Quantum
 				<lb facs="#facs_318_r1l3" n="N002"/>als ein Einfaches seines Maasses erscheinen lässt.
 			</p>
          </div>
          <div rend="TEI" facs="#facs_318_TextRegion_1612901301198_2420">
             <p facs="#facs_318_TextRegion_1612901301198_2420">
-				<lb facs="#facs_318_r1l4" n="N001"/>In dem Verhältnisse $$MATH würde das Quantum an dem
-				<lb facs="#facs_318_r1l5" n="N002"/>ergänzenden Theile, $$MATH, als ein dreifaches, also über die
+				<lb facs="#facs_318_r1l4" n="N001"/>In dem Verhältnisse <formula notation="tex">$\frac{3}{4}$</formula> würde das Quantum an dem
+				<lb facs="#facs_318_r1l5" n="N002"/>ergänzenden Theile, <formula notation="tex">$\frac{1}{4}$</formula>, als ein dreifaches, also über die
 				<lb facs="#facs_318_r1l6" n="N003"/>Verständlichkeit des Gegensatzes der Zweiheit hinausgehend
-				<lb facs="#facs_318_r1l7" n="N004"/>erscheinen. Ebenso in dem Verhältnisse $$MATH, welches an
-				<lb facs="#facs_318_r1l8" n="N005"/>dem ergänzenden Theile, $$MATH, ein fünffaches, über das
+				<lb facs="#facs_318_r1l7" n="N004"/>erscheinen. Ebenso in dem Verhältnisse <formula notation="tex">$\frac{5}{6}$</formula>, welches an
+				<lb facs="#facs_318_r1l8" n="N005"/>dem ergänzenden Theile, <formula notation="tex">$\frac{1}{6}$</formula>, ein fünffaches, über das
 				<lb facs="#facs_318_r1l9" n="N006"/>doppel-zweifache reichendes Quantum wird.
 			</p>
          </div>
          <div rend="TEI" facs="#facs_318_TextRegion_1612901295229_2416">
             <p facs="#facs_318_TextRegion_1612901295229_2416">
 				<lb facs="#facs_318_r1l10" n="N001"/>99. Solche Verhältnisse, welche in ihren Gliedern um
-				<lb facs="#facs_318_r1l11" n="N002"/>mehr als eine Einheit differiren, wie $$MATH, $$MATH, können darum
+				<lb facs="#facs_318_r1l11" n="N002"/>mehr als eine Einheit differiren, wie <formula notation="tex">$\frac{1}{3}$</formula>, <formula notation="tex">$\frac{3}{5}$</formula>, können darum
 				<lb facs="#facs_318_r1l12" n="N003"/>keine direct verständliche Bestimmung gewähren, weil hier
 				<lb facs="#facs_318_r1l13" n="N004"/>das vergleichende Moment zwischen dem Ganzen und dem
-				<lb facs="#facs_318_r1l14" n="N005"/>Verglichenen, $$MATH, $$MATH, selbst keine Einheit, kein Maass,
+				<lb facs="#facs_318_r1l14" n="N005"/>Verglichenen, <formula notation="tex">$\frac{2}{3}$</formula>, <formula notation="tex">$\frac{2}{5}$</formula>, selbst keine Einheit, kein Maass,
 				<lb facs="#facs_318_r1l15" n="N006"/>sondern selbst schon ein Gemessenes, nicht ein Bestim<pc>¬</pc>
 				<lb facs="#facs_318_r1l16" n="N007"/>mendes, sondern ein Bestimmtes sein würde.
 			</p>
@@ -21537,7 +21537,7 @@
          <div rend="TEI" facs="#facs_318_TextRegion_1612901291417_2412">
             <p facs="#facs_318_TextRegion_1612901291417_2412">
 				<lb facs="#facs_318_r1l17" n="N001"/>100. Es bleiben daher für die musikalischen direct
-				<lb facs="#facs_318_r1l18" n="N002"/>verständlichen Bestimmungen die Verhältnisse: $$MATH, $$MATH, $$MATH
+				<lb facs="#facs_318_r1l18" n="N002"/>verständlichen Bestimmungen die Verhältnisse: <formula notation="tex">$\frac{1}{2}$</formula>, <formula notation="tex">$\frac{2}{3}$</formula>, <formula notation="tex">$\frac{4}{5}$</formula>;
 				<lb facs="#facs_318_r1l19" n="N003"/>für die metrischen das Zwei- Drei- und Vierfache, ihrer
 				<lb facs="#facs_318_r1l20" n="N004"/>metrischen Bedeutung nach mit jenen übereinstimmend,
 				<lb facs="#facs_318_r1l21" n="N005"/>als die zu einem gegliedert-Ganzen zusammenzufassenden,
@@ -22549,7 +22549,7 @@
 				<lb facs="#facs_336_r1l3" n="N002"/>auch ein verhältnissmässiger Grad von Accent ertheilt,
 				<lb facs="#facs_336_r1l4" n="N003"/>sofern es gegen das unmittelbar vorangegangene Glied
 				<lb facs="#facs_336_r1l5" n="N004"/>ein <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Doppeltes</hi> desselben, wie es gegen das erste ein
-				<lb facs="#facs_336_r1l6" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Halbes</hi>, und damit eben Entgegengesetztes, $$MATH und $$MATH,
+				<lb facs="#facs_336_r1l6" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Halbes</hi>, und damit eben Entgegengesetztes, <formula notation="tex">$\frac{1}{2}$</formula> und <formula notation="tex">$\frac{2}{1}$</formula>,
 				<lb facs="#facs_336_line_1612903748457_4335" n="N006"/>in sich ist.
 			</p>
          </div>
@@ -23140,14 +23140,14 @@
          </div>
          <div rend="TEI" facs="#facs_346_TextRegion_1612905692340_5604">
             <p facs="#facs_346_TextRegion_1612905692340_5604">
-				<lb facs="#facs_346_r2l27" n="N001"/>I. <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>) $$MATH. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Dipodischer Dimeter</hi>.
-				<lb facs="#facs_346_line_1612905811594_5684" n="N002"/><hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>) $$MATH. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Tripodischer Dimeter</hi>.
-				<lb facs="#facs_346_r2l30" n="N003"/><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>) $$MATH. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Tetrapodischer Dimeter</hi>.
-				<lb facs="#facs_346_r2l31" n="N004"/>II. <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>) $$MATH. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Dipodischer Trimeter</hi>.
-				<lb facs="#facs_346_r2l32" n="N005"/><hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>) $$MATH. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Tripodischer Trimeter</hi>.
-				<lb facs="#facs_346_r2l33" n="N006"/><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>) $$MATH. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Tetrapodischer Trimeter</hi>.
-				<lb facs="#facs_346_line_1612905828232_5700" n="N007"/>III. <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>) $$MATH. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Dipodischer Tetrameter</hi>.
-				<lb facs="#facs_346_r2l36" n="N008"/><hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>) $$MATH. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Tripodischer Tetrameter</hi>.
+				<lb facs="#facs_346_r2l27" n="N001"/>I. <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>) <formula notation="tex">$2 \times 2$</formula>. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Dipodischer Dimeter</hi>.
+				<lb facs="#facs_346_line_1612905811594_5684" n="N002"/><hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>) <formula notation="tex">$2 \times 3$</formula>. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Tripodischer Dimeter</hi>.
+				<lb facs="#facs_346_r2l30" n="N003"/><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>) <formula notation="tex">$2 \times 4$</formula>. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Tetrapodischer Dimeter</hi>.
+				<lb facs="#facs_346_r2l31" n="N004"/>II. <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>) <formula notation="tex">$3 \times 2$</formula>. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Dipodischer Trimeter</hi>.
+				<lb facs="#facs_346_r2l32" n="N005"/><hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>) <formula notation="tex">$3 \times 3$</formula>. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Tripodischer Trimeter</hi>.
+				<lb facs="#facs_346_r2l33" n="N006"/><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>) <formula notation="tex">$3 \times 4$</formula>. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Tetrapodischer Trimeter</hi>.
+				<lb facs="#facs_346_line_1612905828232_5700" n="N007"/>III. <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>) <formula notation="tex">$4 \times 2$</formula>. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Dipodischer Tetrameter</hi>.
+				<lb facs="#facs_346_r2l36" n="N008"/><hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>) <formula notation="tex">$4 \times 3$</formula> . <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Tripodischer Tetrameter</hi>.
 				<lb facs="#facs_346_r2l37" n="N009"/><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>) <formula notation="tex">$4 \times 4$</formula>. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Tetrapodischer Tetrameter</hi>.
 			</p>
          </div>
