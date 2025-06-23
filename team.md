@@ -45,7 +45,7 @@ Jana Klinger is a research associate at the Research Center for Digital Applicat
 <td colspan="2">
 <h2><a href="https://www.uni-wuerzburg.de/zpd/forschungsstelle-dachs/team/corinna-keupp/">Corinna Keupp, M.A.</a> | Digital Humanities </h2>
 <div class="team_description">
-Corinna Keupp is a research associate at the zpd Würzburg. 
+Corinna Keupp is a research associate at the Research Center for Digital Applications in Humanities Studies (DACHS) at JMU. She generally focuses on NLP of textual data. In the present project she is responsible for the online presentation of the data collection.
 </div>
 </td>
 <td colspan="1"><img src="../assets/team/ckeupp.jpg" alt="corinna" style="margin: 0 0 0"/></td>

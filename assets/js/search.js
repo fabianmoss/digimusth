@@ -3,12 +3,15 @@
 ---
 // Based on a script by Kathie Decora : katydecorah.com/code/lunr-and-jekyll/
 
+
 // Create the lunr index for the search
 var index = elasticlunr(function () {
+  this.use(elasticlunr.de);
   this.addField('title')
   this.addField('author')
   this.addField('layout')
   this.addField('content')
+  this.addField('search')
   this.setRef('id')
 });
 
@@ -18,10 +21,12 @@ index.addDoc({
   title: {{text.title | jsonify}},
   author: {{text.author | jsonify}},
   layout: {{text.layout | jsonify}},
+  search: {{text.search | jsonify}},
   content: {{text.content | jsonify | strip_html}},
   id: {{count}}
 });{% assign count = count | plus: 1 %}{% endfor %}
 console.log( jQuery.type(index) );
+console.log( index );
 
 // Builds reference data (maybe not necessary for us, to check)
 var store = [{% for text in site.texts %}{
@@ -46,7 +51,7 @@ function doSearch() {
   var query = $('input#search').val();
 
   // The search is then launched on the index built with Lunr
-  var result = index.search(query);
+  var result = index.search(query, {expand: true});
   resultdiv.empty();
   if (result.length == 0) {
     resultdiv.append('<p class="">No results found.</p>');
