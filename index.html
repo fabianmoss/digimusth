@@ -27,6 +27,23 @@ title: "Welcome"
 </p>
 </div>
 
+<hr>
+
+<div class="toc">
+  <h2>Current Corpus</h2>
+  <ul class="texts">
+  {% for item in site.texts %}
+
+    <li class="text-title">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
+
+
 <div class="alert" style="padding: 20px;  background-color: #75b5aa;  color: white;">
 This is a work in progress. Latest update: 23.06.2025
 </div>

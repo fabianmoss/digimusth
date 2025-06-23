@@ -2,12 +2,10 @@
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/presentation_css.css" />
 
 <script>
-    function myFunction() {
-       var element = document.getElementById("name");
-       element.classList.toggle("mystyle");
-    }
+
+
     function stylepeople() {
-       var elements = document.querySelectorAll("tei-person_author, tei-person_composer");
+       var elements = document.querySelectorAll("tei-persname[role='author'], tei-persname[role='composer']");
        for (let item of elements) {
         item.classList.toggle("peoplestyle");
     }}
@@ -19,24 +17,24 @@
     }}
     
     function styleconcepts() {
-       var elements = document.querySelectorAll("tei-concept_mus, tei-concept_phy");
+       var elements = document.querySelectorAll("tei-rs[ana='#concept_phy'], tei-rs[ana='#concept_mus']");
        for (let item of elements) {
         item.classList.toggle("conceptstyle");
     }}
     
     function stylelocations() {
-       var elements = document.querySelectorAll("tei-location");
+       var elements = document.querySelectorAll("tei-placename");
        for (let item of elements) {
         item.classList.toggle("locationsstyle");
     }}
     function styletime() {
-       var elements = document.querySelectorAll("tei-time");
+       var elements = document.querySelectorAll("tei-date");
        for (let item of elements) {
         item.classList.toggle("timestyle");
     }}
     
     function stylemusic() {
-       var elements = document.querySelectorAll("tei-m_note, tei-m_chord, tei-m_interval, tei-m_tonality");
+       var elements = document.querySelectorAll("tei-rs[ana='#m_note'], tei-rs[ana='#m_chord'], tei-rs[ana='#m_interval'], tei-rs[ana='#m_tonality']");
        for (let item of elements) {
         item.classList.toggle("musicstyle");
     }}
@@ -46,6 +44,8 @@
       document.body.scrollTop = 0; // For Safari
       document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
     } 
+    
+    
     </script>
 <div class="stickyfoot"><p>
 	Change the presentation of annotated items: 
