@@ -3,7 +3,7 @@ layout: page
 title: Research Engagement
 ---
 
-### MEI conference | Felicitas Stickler and Torsten Roeder
+### MEC conference | Felicitas Stickler and Torsten Roeder
 
 During the Music Encoding Conference 2025 in London (from June 3rd to June 6th) the preliminary studies and the current status of the project have been presented.
 
