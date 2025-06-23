@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title />
+         </titleStmt>
+         <pubStmt>
+            <unpub>This MEI file was created by Verovio's Humdrum converter. When published, this unpub element should be removed, and the enclosing pubStmt element should be properly filled out.</unpub>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application isodate="2025-02-02T22:19:03" version="4.5.1[undefined]">
+               <name>Verovio</name>
+               <p>Transcoded from Humdrum</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <extMeta>
+         <frames xmlns="http://www.humdrum.org/ns/humxml">
+            <metaFrame n="67" token="!!!system-decoration: {(s1,s2)}" xml:id="L68">
+               <frameInfo>
+                  <startTime float="-1" />
+                  <frameType>reference</frameType>
+                  <referenceKey>system-decoration</referenceKey>
+                  <referenceValue>{(s1,s2)}</referenceValue>
+               </frameInfo>
+            </metaFrame>
+         </frames>
+      </extMeta>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m1ysikoj">
+            <score xml:id="s8xl8rp">
+               <scoreDef xml:id="s9y67c4" tempo.dist="3.0000vu">
+                  <staffGrp xml:id="s1fz8c7r" bar.thru="true" symbol="brace">
+                     <label xml:id="lz2m9hk">Piano</label>
+                     <labelAbbr xml:id="lmuym51">Pno.</labelAbbr>
+                     <staffDef xml:id="staffdef-L1F2" n="1" lines="5">
+                        <clef xml:id="clef-L6F2" shape="G" line="2" />
+                        <keySig xml:id="keysig-L7F2" sig="3f" />
+                        <meterSig xml:id="metersig-L8F2" count="2" unit="4" />
+                     </staffDef>
+                     <staffDef xml:id="staffdef-L1F1" n="2" lines="5">
+                        <clef xml:id="clef-L6F1" shape="F" line="4" />
+                        <keySig xml:id="keysig-L7F1" sig="3f" />
+                        <meterSig xml:id="metersig-L8F1" count="2" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="section-L1F1">
+                  <pb xml:id="p7jyvww" />
+                  <measure xml:id="measure-L1" n="1">
+                     <staff xml:id="staff-L1F2" n="1">
+                        <layer xml:id="layer-L1F2N1" n="1">
+                           <space xml:id="st8jf90" type="straddle" dur="4" />
+                           <chord xml:id="chord-L10F2" dur="2">
+                              <note xml:id="note-L10F2S1" oct="5" pname="e" accid.ges="f" />
+                              <note xml:id="note-L10F2S2" oct="5" pname="g" accid.ges="n" />
+                              <note xml:id="note-L10F2S3" oct="6" pname="c" accid.ges="n" />
+                           </chord>
+                        </layer>
+                        <layer xml:id="layer-L1F2N2" n="2">
+                           <space xml:id="s1jl4bkp" type="straddle" dur="2" />
+                           <note xml:id="note-L12F3" dur="4" oct="4" pname="a" accid.ges="f" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-L1F1" n="2">
+                        <layer xml:id="layer-L1F1N1" n="1">
+                           <space xml:id="sgc7bac" type="straddle" dur="4" />
+                           <rest xml:id="rest-L10F1" dur="4" />
+                           <chord xml:id="chord-L12F1" dur="4">
+                              <note xml:id="note-L12F1S1" oct="3" pname="e" accid.ges="f" />
+                              <note xml:id="note-L12F1S2" oct="4" pname="c" accid.ges="n" />
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-L14" n="2">
+                     <staff xml:id="staff-L14F2N1" n="1">
+                        <layer xml:id="layer-L14F2N1" n="1">
+                           <space xml:id="spwu2hw" type="straddle" dots="1" dur="2" />
+                           <chord xml:id="chord-L15F2" dur="2">
+                              <note xml:id="note-L15F2S1" oct="5" pname="c" accid.ges="n" />
+                              <note xml:id="note-L15F2S2" oct="5" pname="e" accid.ges="f" />
+                              <note xml:id="note-L15F2S3" oct="5" pname="g" accid.ges="n" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-L14F1N1" n="2">
+                        <layer xml:id="layer-L14F1N1" n="1">
+                           <space xml:id="s1q8u44l" type="straddle" dots="1" dur="2" />
+                           <rest xml:id="rest-L15F1" dur="4" />
+                           <chord xml:id="chord-L16F1" dur="4">
+                              <note xml:id="note-L16F1S1" oct="2" pname="a" accid.ges="f" />
+                              <note xml:id="note-L16F1S2" oct="3" pname="e" accid.ges="f" />
+                              <note xml:id="note-L16F1S3" oct="4" pname="c" accid.ges="n" />
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-L17" n="3">
+                     <staff xml:id="staff-L17F2N1" n="1">
+                        <layer xml:id="layer-L17F2N1" n="1">
+                           <space xml:id="s4ftv06" type="straddle" dur="1" />
+                           <space xml:id="s14uf70x" type="straddle" dur="4" />
+                           <chord xml:id="chord-L18F2" dur="2">
+                              <note xml:id="note-L18F2S1" oct="4" pname="c" accid.ges="n" />
+                              <note xml:id="note-L18F2S2" oct="5" pname="e" accid.ges="f" />
+                              <note xml:id="note-L18F2S3" oct="5" pname="g" accid.ges="n" />
+                           </chord>
+                        </layer>
+                        <layer xml:id="layer-L17F3N2" n="2">
+                           <space xml:id="s1rpbsd9" type="straddle" dur="1" />
+                           <space xml:id="sx4opps" type="straddle" dur="2" />
+                           <chord xml:id="chord-L20F3" dur="4">
+                              <note xml:id="note-L20F3S1" oct="3" pname="e" accid.ges="f" />
+                              <note xml:id="note-L20F3S2" oct="4" pname="g" accid="f" />
+                              <note xml:id="note-L20F3S3" oct="5" pname="c" accid.ges="n" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-L17F1N1" n="2">
+                        <layer xml:id="layer-L17F1N1" n="1">
+                           <space xml:id="sz4p3pj" type="straddle" dur="1" />
+                           <space xml:id="smvmz6k" type="straddle" dur="4" />
+                           <rest xml:id="rest-L18F1" dur="4" />
+                           <rest xml:id="rest-L20F1" dur="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-L22" n="4">
+                     <staff xml:id="staff-L22F2N1" n="1">
+                        <layer xml:id="layer-L22F2N1" n="1">
+                           <space xml:id="s1rm1ox2" type="straddle" dur="1" />
+                           <space xml:id="siiosh0" type="straddle" dots="1" dur="2" />
+                           <chord xml:id="chord-L23F2" dur="2">
+                              <note xml:id="note-L23F2S1" oct="4" pname="e" accid.ges="f" />
+                              <note xml:id="note-L23F2S2" oct="4" pname="g" accid.ges="n" />
+                              <note xml:id="note-L23F2S3" oct="6" pname="c" accid.ges="n" />
+                           </chord>
+                        </layer>
+                        <layer xml:id="layer-L22F3N2" n="2">
+                           <space xml:id="socrh02" type="straddle" dur="breve" />
+                           <chord xml:id="chord-L25F3" dur="4">
+                              <note xml:id="note-L25F3S1" oct="5" pname="e" accid="n" />
+                              <note xml:id="note-L25F3S2" oct="5" pname="g" accid="f" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-L22F1N1" n="2">
+                        <layer xml:id="layer-L22F1N1" n="1">
+                           <space xml:id="s1ivikbu" type="straddle" dur="1" />
+                           <space xml:id="s1dc4d0z" type="straddle" dots="1" dur="2" />
+                           <rest xml:id="rest-L23F1" dur="4" />
+                           <note xml:id="note-L25F1" dur="4" oct="2" pname="e" accid.ges="f" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-L27" n="5">
+                     <staff xml:id="staff-L27F2N1" n="1">
+                        <layer xml:id="layer-L27F2N1" n="1">
+                           <space xml:id="s5v2hjk" type="straddle" dur="breve" />
+                           <space xml:id="s1kh24yg" type="straddle" dur="4" />
+                           <chord xml:id="chord-L28F2" dur="2">
+                              <note xml:id="note-L28F2S1" oct="4" pname="e" accid.ges="f" />
+                              <note xml:id="note-L28F2S2" oct="5" pname="g">
+                                 <accid xml:id="accid-L28F2S2" type="caution" accid="n" func="caution" />
+                              </note>
+                              <note xml:id="note-L28F2S3" oct="6" pname="c" accid.ges="n" />
+                           </chord>
+                        </layer>
+                        <layer xml:id="layer-L27F3N2" n="2">
+                           <space xml:id="saiaeii" type="straddle" dur="breve" />
+                           <space xml:id="s1i9i2de" type="straddle" dur="2" />
+                           <chord xml:id="chord-L30F3" dur="4">
+                              <note xml:id="note-L30F3S1" oct="4" pname="c" accid.ges="n" />
+                              <note xml:id="note-L30F3S2" oct="4" pname="b" accid.ges="f" />
+                              <note xml:id="note-L30F3S3" oct="5" pname="g" accid="f" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-L27F1N1" n="2">
+                        <layer xml:id="layer-L27F1N1" n="1">
+                           <space xml:id="s9931xl" type="straddle" dur="breve" />
+                           <space xml:id="sb42yx9" type="straddle" dur="4" />
+                           <rest xml:id="rest-L28F1" dur="4" />
+                           <rest xml:id="rest-L30F1" dur="4" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-L32" n="6">
+                     <staff xml:id="staff-L32F2N1" n="1">
+                        <layer xml:id="layer-L32F2N1" n="1">
+                           <space xml:id="s113bs9t" type="straddle" dur="breve" />
+                           <space xml:id="ska3yeh" type="straddle" dots="1" dur="2" />
+                           <chord xml:id="chord-L33F2" dur="2">
+                              <note xml:id="note-L33F2S1" oct="4" pname="g" accid.ges="n" />
+                              <note xml:id="note-L33F2S2" oct="5" pname="c" accid.ges="n" />
+                              <note xml:id="note-L33F2S3" oct="5" pname="e">
+                                 <accid xml:id="accid-L33F2S3" type="caution" accid="f" func="caution" />
+                              </note>
+                           </chord>
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-L32F1N1" n="2">
+                        <layer xml:id="layer-L32F1N1" n="1">
+                           <space xml:id="sxulmvv" type="straddle" dur="breve" />
+                           <space xml:id="smgx0mn" type="straddle" dots="1" dur="2" />
+                           <rest xml:id="rest-L33F1" dur="4" />
+                           <chord xml:id="chord-L34F1" dur="4">
+                              <note xml:id="note-L34F1S1" oct="2" pname="a" accid.ges="f" />
+                              <note xml:id="note-L34F1S2" oct="3" pname="c" accid.ges="n" />
+                              <note xml:id="note-L34F1S3" oct="3" pname="b" accid.ges="f" />
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-L35" n="7">
+                     <staff xml:id="staff-L35F2N1" n="1">
+                        <layer xml:id="layer-L35F2N1" n="1">
+                           <space xml:id="sx6r3gn" type="straddle" dur="breve" />
+                           <space xml:id="sxfmg65" type="straddle" dur="1" />
+                           <space xml:id="szdiafv" type="straddle" dur="4" />
+                           <chord xml:id="chord-L36F2" dur="2">
+                              <note xml:id="note-L36F2S1" oct="4" pname="e" accid.ges="f" />
+                              <note xml:id="note-L36F2S2" oct="5" pname="c" accid.ges="n" />
+                              <note xml:id="note-L36F2S3" oct="5" pname="g">
+                                 <accid xml:id="accid-L36F2S3" type="caution" accid="n" func="caution" />
+                              </note>
+                           </chord>
+                        </layer>
+                        <layer xml:id="layer-L35F3N2" n="2">
+                           <space xml:id="sbhbri1" type="straddle" dur="breve" />
+                           <space xml:id="spdtwz7" type="straddle" dur="1" />
+                           <space xml:id="szghjho" type="straddle" dur="2" />
+                           <chord xml:id="chord-L38F3" dur="4">
+                              <note xml:id="note-L38F3S1" oct="4" pname="c" accid.ges="n" />
+                              <note xml:id="note-L38F3S2" oct="4" pname="b" accid.ges="f" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-L35F1N1" n="2">
+                        <layer xml:id="layer-L35F1N1" n="1">
+                           <space xml:id="s242h8j" type="straddle" dur="breve" />
+                           <space xml:id="sl47v2g" type="straddle" dur="1" />
+                           <space xml:id="s143qxli" type="straddle" dur="4" />
+                           <rest xml:id="rest-L36F1" dur="4" />
+                           <note xml:id="note-L38F1" dur="4" oct="3" pname="a" accid.ges="f" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-L40" n="8">
+                     <staff xml:id="staff-L40F2N1" n="1">
+                        <layer xml:id="layer-L40F2N1" n="1">
+                           <space xml:id="sfw8dns" type="straddle" dur="breve" />
+                           <space xml:id="s1ayolp2" type="straddle" dur="1" />
+                           <space xml:id="s1j1pauv" type="straddle" dots="1" dur="2" />
+                           <chord xml:id="chord-L41F2" dur="2">
+                              <note xml:id="note-L41F2S1" oct="4" pname="c" accid.ges="n" />
+                              <note xml:id="note-L41F2S2" oct="4" pname="g" accid.ges="n" />
+                              <note xml:id="note-L41F2S3" oct="5" pname="e" accid.ges="f" />
+                           </chord>
+                        </layer>
+                        <layer xml:id="layer-L40F3N2" n="2">
+                           <space xml:id="shmw97n" type="straddle" dur="long" />
+                           <note xml:id="note-L43F3" dur="4" oct="4" pname="g" accid="f" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-L40F1N1" n="2">
+                        <layer xml:id="layer-L40F1N1" n="1">
+                           <space xml:id="sf4z56o" type="straddle" dur="breve" />
+                           <space xml:id="sn5kkxc" type="straddle" dur="1" />
+                           <space xml:id="ssekm9d" type="straddle" dots="1" dur="2" />
+                           <rest xml:id="rest-L41F1" dur="4" />
+                           <chord xml:id="chord-L43F1" dur="4">
+                              <note xml:id="note-L43F1S1" oct="3" pname="c" accid.ges="n" />
+                              <note xml:id="note-L43F1S2" oct="3" pname="b" accid.ges="f" />
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-L45" n="9">
+                     <staff xml:id="staff-L45F2N1" n="1">
+                        <layer xml:id="layer-L45F2N1" n="1">
+                           <space xml:id="s1i72jcb" type="straddle" dur="long" />
+                           <space xml:id="s1u2u119" type="straddle" dur="4" />
+                           <chord xml:id="chord-L46F2" dur="2">
+                              <note xml:id="note-L46F2S1" oct="4" pname="c" accid.ges="n" />
+                              <note xml:id="note-L46F2S2" oct="4" pname="e" accid.ges="f" />
+                              <note xml:id="note-L46F2S3" oct="5" pname="g" accid.ges="n" />
+                           </chord>
+                        </layer>
+                        <layer xml:id="layer-L45F3N2" n="2">
+                           <space xml:id="s13p057t" type="straddle" dur="long" />
+                           <space xml:id="s4h75vs" type="straddle" dur="2" />
+                           <chord xml:id="chord-L48F3" dur="4">
+                              <note xml:id="note-L48F3S1" oct="4" pname="b" accid.ges="f" />
+                              <note xml:id="note-L48F3S2" oct="5" pname="c" accid.ges="n" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-L45F1N1" n="2">
+                        <layer xml:id="layer-L45F1N1" n="1">
+                           <space xml:id="s9o9kw8" type="straddle" dur="long" />
+                           <space xml:id="s1221qmc" type="straddle" dur="4" />
+                           <rest xml:id="rest-L46F1" dur="4" />
+                           <note xml:id="note-L48F1" dur="4" oct="1" pname="a" accid.ges="f" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-L50" n="10">
+                     <staff xml:id="staff-L50F2N1" n="1">
+                        <layer xml:id="layer-L50F2N1" n="1">
+                           <space xml:id="s1cfgdb4" type="straddle" dur="long" />
+                           <space xml:id="syy6tjv" type="straddle" dots="1" dur="2" />
+                           <chord xml:id="chord-L51F2" dur="2">
+                              <note xml:id="note-L51F2S1" oct="3" pname="g" accid.ges="n" />
+                              <note xml:id="note-L51F2S2" oct="4" pname="c" accid.ges="n" />
+                              <note xml:id="note-L51F2S3" oct="5" pname="e" accid.ges="f" />
+                           </chord>
+                        </layer>
+                        <layer xml:id="layer-L50F3N2" n="2">
+                           <space xml:id="s1l3o5mi" type="straddle" dur="long" />
+                           <space xml:id="s12avhde" type="straddle" dur="1" />
+                           <chord xml:id="chord-L53F3" dur="4">
+                              <note xml:id="note-L53F3S1" oct="4" pname="g" accid="f" />
+                              <note xml:id="note-L53F3S2" oct="4" pname="a" accid="n" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-L50F1N1" n="2">
+                        <layer xml:id="layer-L50F1N1" n="1">
+                           <space xml:id="s26km96" type="straddle" dur="long" />
+                           <space xml:id="s1o3l3hm" type="straddle" dots="1" dur="2" />
+                           <rest xml:id="rest-L51F1" dur="4" />
+                           <note xml:id="note-L53F1" dur="4" oct="2" pname="c" accid.ges="n" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <sb xml:id="sb-L55F1" type="original" />
+                  <measure xml:id="measure-L56" n="11">
+                     <staff xml:id="staff-L56F2N1" n="1">
+                        <layer xml:id="layer-L56F2N1" n="1">
+                           <space xml:id="s1pi2jhs" type="straddle" dur="long" />
+                           <space xml:id="s1b30f0m" type="straddle" dur="1" />
+                           <space xml:id="srcz80n" type="straddle" dur="4" />
+                           <chord xml:id="chord-L57F2" dur="2">
+                              <note xml:id="note-L57F2S1" oct="3" pname="g" accid.ges="n" />
+                              <note xml:id="note-L57F2S2" oct="5" pname="c" accid.ges="n" />
+                              <note xml:id="note-L57F2S3" oct="5" pname="e" accid.ges="f" />
+                           </chord>
+                        </layer>
+                        <layer xml:id="layer-L56F3N2" n="2">
+                           <space xml:id="s1kxxywk" type="straddle" dur="long" />
+                           <space xml:id="susabhc" type="straddle" dur="1" />
+                           <space xml:id="s74yo8q" type="straddle" dur="2" />
+                           <chord xml:id="chord-L59F3" dur="4">
+                              <note xml:id="note-L59F3S1" oct="4" pname="e" accid="n" />
+                              <note xml:id="note-L59F3S2" oct="4" pname="a" accid="n" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-L56F1N1" n="2">
+                        <layer xml:id="layer-L56F1N1" n="1">
+                           <space xml:id="sq3aeyh" type="straddle" dur="long" />
+                           <space xml:id="s1a9u2c3" type="straddle" dur="1" />
+                           <space xml:id="s3g5n56" type="straddle" dur="4" />
+                           <rest xml:id="rest-L57F1" dur="4" />
+                           <note xml:id="note-L59F1" dur="4" oct="2" pname="a">
+                              <accid xml:id="accid-L59F1" type="caution" accid="f" func="caution" />
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-L61" right="end" n="12">
+                     <staff xml:id="staff-L61F2N1" n="1">
+                        <layer xml:id="layer-L61F2N1" n="1">
+                           <space xml:id="sgsyory" type="straddle" dur="long" />
+                           <space xml:id="silokqi" type="straddle" dur="1" />
+                           <space xml:id="s1xladnz" type="straddle" dots="1" dur="2" />
+                           <chord xml:id="chord-L62F2" dur="2">
+                              <note xml:id="note-L62F2S1" oct="3" pname="g" accid.ges="n" />
+                              <note xml:id="note-L62F2S2" oct="4" pname="e">
+                                 <accid xml:id="accid-L62F2S2" type="caution" accid="f" func="caution" />
+                              </note>
+                              <note xml:id="note-L62F2S3" oct="5" pname="c" accid.ges="n" />
+                           </chord>
+                        </layer>
+                        <layer xml:id="layer-L61F3N2" n="2">
+                           <space xml:id="so4uyeu" type="straddle" dur="long" />
+                           <space xml:id="s17ymsab" type="straddle" dur="breve" />
+                           <note xml:id="note-L64F3" dur="4" oct="4" pname="e" accid="n" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-L61F1N1" n="2">
+                        <layer xml:id="layer-L61F1N1" n="1">
+                           <space xml:id="sbzkjr8" type="straddle" dur="long" />
+                           <space xml:id="s9ujuzl" type="straddle" dur="1" />
+                           <space xml:id="s376tty" type="straddle" dots="1" dur="2" />
+                           <rest xml:id="rest-L62F1" dur="4" />
+                           <chord xml:id="chord-L64F1" dur="4">
+                              <note xml:id="note-L64F1S1" oct="2" pname="b" accid.ges="f" />
+                              <note xml:id="note-L64F1S2" oct="3" pname="a" accid.ges="f" />
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+ <meiHead>
+  <fileDesc>
+   <titleStmt>
+    <title />
+   </titleStmt>
+   <pubStmt>
+    <unpub>This MEI file was created by Verovio's Humdrum converter. When published, this unpub element should be removed, and the enclosing pubStmt element should be properly filled out.</unpub>
+   </pubStmt>
+  </fileDesc>
+  <encodingDesc>
+   <appInfo>
+    <application isodate="2025-01-20T17:33:40" version="4.4.0-dev-f84695b-dirty">
+     <name>Verovio</name>
+     <p>Transcoded from Humdrum</p>
+    </application>
+   </appInfo>
+  </encodingDesc>
+  <extMeta>
+   <frames xmlns="http://www.humdrum.org/ns/humxml">
+    <metaFrame n="15" token="!!!system-decoration: [(s1" xml:id="L16">
+     <frameInfo>
+      <startTime float="6" />
+      <frameType>reference</frameType>
+      <referenceKey>system-decoration</referenceKey>
+      <referenceValue>[(s1</referenceValue>
+     </frameInfo>
+    </metaFrame>
+   </frames>
+  </extMeta>
+ </meiHead>
+ <music decls="#work1_encoded">
+  <body>
+   <mdiv xml:id="m1gcekou">
+    <score xml:id="s1hoonwp">
+     <scoreDef xml:id="s1ompvpy" tempo.dist="3.0000vu">
+      <staffGrp xml:id="s7wzyma" bar.thru="false">
+       <staffDef xml:id="staffdef-L1F1" n="1" lines="5">
+        <clef xml:id="clef-L2F1" shape="G" line="2" />
+        <keySig xml:id="keysig-L3F1" sig="0" />
+        <meterSig xml:id="metersig-L4F1" count="4" unit="4" />
+       </staffDef>
+      </staffGrp>
+     </scoreDef>
+     <section xml:id="section-L1F1">
+      <measure xml:id="measure-L1" right="end">
+       <staff xml:id="staff-L1F1" n="1">
+        <layer xml:id="layer-L1F1N1" n="1">
+         <beam xml:id="beam-L5F1-L8F1">
+          <note xml:id="note-L5F1" dur="8" oct="5" pname="a" accid.ges="n" />
+          <note xml:id="note-L6F1" dur="8" oct="5" pname="g">
+           <accid xml:id="accid-L6F1" type="caution" accid="n" func="caution" />
+          </note>
+          <note xml:id="note-L7F1" dur="8" oct="5" pname="f" accid.ges="n" />
+          <note xml:id="note-L8F1" dur="8" oct="5" pname="e" accid.ges="n" />
+         </beam>
+         <beam xml:id="beam-L9F1-L12F1">
+          <note xml:id="note-L9F1" dur="8" oct="5" pname="d" accid.ges="n" />
+          <note xml:id="note-L10F1" dur="8" oct="5" pname="c" accid.ges="n" />
+          <note xml:id="note-L11F1" dur="8" oct="5" pname="d" accid.ges="n" />
+          <note xml:id="note-L12F1" dur="8" oct="4" pname="b" accid.ges="n" />
+         </beam>
+         <note xml:id="note-L13F1" dur="2" oct="4" pname="a" accid.ges="n" />
+        </layer>
+       </staff>
+      </measure>
+     </section>
+    </score>
+   </mdiv>
+  </body>
+ </music>
+</mei>

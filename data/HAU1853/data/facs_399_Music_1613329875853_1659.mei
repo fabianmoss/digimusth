@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title />
+         </titleStmt>
+         <pubStmt>
+            <unpub>This MEI file was created by Verovio's Humdrum converter. When published, this unpub element should be removed, and the enclosing pubStmt element should be properly filled out.</unpub>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application isodate="2025-02-02T22:19:03" version="4.5.1[undefined]">
+               <name>Verovio</name>
+               <p>Transcoded from Humdrum</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <extMeta>
+         <frames xmlns="http://www.humdrum.org/ns/humxml" />
+      </extMeta>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m1umu1l8">
+            <score xml:id="s1io3u9g">
+               <scoreDef xml:id="s9svlc9" tempo.dist="3.0000vu">
+                  <staffGrp xml:id="s18ijq6e">
+                     <staffDef xml:id="staffdef-L1F1" n="1" lines="1">
+                        <label xml:id="label-L2F1">Concert Bass Drum</label>
+                        <clef xml:id="clef-L5F1" shape="perc" />
+                        <keySig xml:id="keysig-L6F1" sig="0" />
+                        <meterSig xml:id="metersig-L7F1" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="section-L1F1">
+                  <measure xml:id="measure-L1" n="1">
+                     <staff xml:id="staff-L1F1" n="1">
+                        <layer xml:id="layer-L1F1N1" n="1">
+                           <note xml:id="note-L9F1" type="placed" dur="4" loc="0" stem.dir="down" />
+                           <note xml:id="note-L10F1" type="placed" dur="4" loc="0" stem.dir="down" />
+                           <note xml:id="note-L11F1" type="placed" dur="4" loc="0" stem.dir="down" />
+                           <note xml:id="note-L12F1" type="placed" dur="4" loc="0" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <tie xml:id="tie-L10F1-L11F1" startid="#note-L10F1" endid="#note-L11F1" />
+                     <tie xml:id="tie-L12F1-L14F1" startid="#note-L12F1" endid="#note-L14F1" />
+                  </measure>
+                  <measure xml:id="measure-L13" n="2">
+                     <staff xml:id="staff-L13F1N1" n="1">
+                        <layer xml:id="layer-L13F1N1" n="1">
+                           <note xml:id="note-L14F1" type="placed" dur="4" loc="0" stem.dir="down" />
+                           <note xml:id="note-L15F1" type="placed" dur="4" loc="0" stem.dir="down" />
+                           <note xml:id="note-L16F1" type="placed" dur="4" loc="0" stem.dir="down" />
+                           <note xml:id="note-L17F1" type="placed" dur="4" loc="0" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <tie xml:id="tie-L15F1-L16F1" startid="#note-L15F1" endid="#note-L16F1" />
+                  </measure>
+                  <measure xml:id="measure-L18" n="3">
+                     <staff xml:id="staff-L18F1N1" n="1">
+                        <layer xml:id="layer-L18F1N1" n="1">
+                           <note xml:id="note-L19F1" type="placed" dur="4" loc="0" stem.dir="down" />
+                           <note xml:id="note-L20F1" type="placed" dur="2" loc="0" stem.dir="down" />
+                           <note xml:id="note-L21F1" type="placed" dur="4" loc="0" stem.dir="down" />
+                        </layer>
+                     </staff>
+                     <tie xml:id="tie-L21F1-L23F1" startid="#note-L21F1" endid="#note-L23F1" />
+                  </measure>
+                  <measure xml:id="measure-L22" right="end" n="4">
+                     <staff xml:id="staff-L22F1N1" n="1">
+                        <layer xml:id="layer-L22F1N1" n="1">
+                           <note xml:id="note-L23F1" type="placed" dur="4" loc="0" stem.dir="down" />
+                           <note xml:id="note-L24F1" type="placed" dur="2" loc="0" stem.dir="down" />
+                           <note xml:id="note-L25F1" type="placed" dur="4" loc="0" stem.dir="down" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

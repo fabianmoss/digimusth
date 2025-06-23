@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title />
+         </titleStmt>
+         <pubStmt>
+            <unpub>This MEI file was created by Verovio's Humdrum converter. When published, this unpub element should be removed, and the enclosing pubStmt element should be properly filled out.</unpub>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application isodate="2025-02-02T22:19:05" version="4.5.1[undefined]">
+               <name>Verovio</name>
+               <p>Transcoded from Humdrum</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <extMeta>
+         <frames xmlns="http://www.humdrum.org/ns/humxml">
+            <metaFrame n="24" token="!!!system-decoration: [(s1" xml:id="L25">
+               <frameInfo>
+                  <startTime float="64" />
+                  <frameType>reference</frameType>
+                  <referenceKey>system-decoration</referenceKey>
+                  <referenceValue>[(s1</referenceValue>
+               </frameInfo>
+            </metaFrame>
+         </frames>
+      </extMeta>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m1wvb7zq">
+            <score xml:id="scljxmv">
+               <scoreDef xml:id="s1ap1d1f" midi.bpm="400" tempo.dist="3.0000vu">
+                  <staffGrp xml:id="s1wlx9j0" bar.thru="false">
+                     <staffDef xml:id="staffdef-L1F1" n="1" lines="5">
+                        <clef xml:id="clef-L2F1" shape="F" line="4" />
+                        <keySig xml:id="keysig-L3F1" sig="0" />
+                        <meterSig xml:id="metersig-L4F1" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="section-L1F1">
+                  <pb xml:id="p1vvs5" />
+                  <measure xml:id="measure-L1">
+                     <staff xml:id="staff-L1F1" n="1">
+                        <layer xml:id="layer-L1F1N1" n="1">
+                           <note xml:id="note-L5F1" dur="1" oct="3" pname="d" accid.ges="n" />
+                           <note xml:id="note-L6F1" dur="1" oct="3" pname="e" accid="f" />
+                           <note xml:id="note-L7F1" dur="1" oct="3" pname="f" accid="s" />
+                           <note xml:id="note-L8F1" dur="1" oct="3" pname="g" accid.ges="n" />
+                           <note xml:id="note-L9F1" dur="1" oct="3" pname="a" accid.ges="n" />
+                           <note xml:id="note-L10F1" dur="1" oct="3" pname="b">
+                              <accid xml:id="accid-L10F1" type="caution" accid="n" func="caution" />
+                           </note>
+                           <note xml:id="note-L11F1" dur="1" oct="4" pname="c" accid="s" />
+                           <note xml:id="note-L12F1" dur="1" oct="4" pname="d" accid.ges="n" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <sb xml:id="sb-L13F1" type="original" />
+                  <measure xml:id="measure-L14" right="end" n="1">
+                     <staff xml:id="staff-L14F1N1" n="1">
+                        <layer xml:id="layer-L14F1N1" n="1">
+                           <note xml:id="note-L15F1" dur="1" oct="3" pname="d" accid.ges="n" />
+                           <note xml:id="note-L16F1" dur="1" oct="3" pname="c" accid="s" />
+                           <note xml:id="note-L17F1" dur="1" oct="2" pname="b" accid="f" />
+                           <note xml:id="note-L18F1" dur="1" oct="2" pname="a" accid.ges="n" />
+                           <note xml:id="note-L19F1" dur="1" oct="2" pname="g" accid.ges="n" />
+                           <note xml:id="note-L20F1" dur="1" oct="2" pname="f">
+                              <accid xml:id="accid-L20F1" type="caution" accid="n" func="caution" />
+                           </note>
+                           <note xml:id="note-L21F1" dur="1" oct="2" pname="e" accid="f" />
+                           <note xml:id="note-L22F1" dur="1" oct="2" pname="d" accid.ges="n" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

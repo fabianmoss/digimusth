@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title />
+         </titleStmt>
+         <pubStmt>
+            <unpub>This MEI file was created by Verovio's Humdrum converter. When published, this unpub element should be removed, and the enclosing pubStmt element should be properly filled out.</unpub>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application isodate="2025-02-02T22:19:06" version="4.5.1[undefined]">
+               <name>Verovio</name>
+               <p>Transcoded from Humdrum</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <extMeta>
+         <frames xmlns="http://www.humdrum.org/ns/humxml">
+            <metaFrame n="26" token="!!!system-decoration: {(s1,s2)}" xml:id="L27">
+               <frameInfo>
+                  <startTime float="48" />
+                  <frameType>reference</frameType>
+                  <referenceKey>system-decoration</referenceKey>
+                  <referenceValue>{(s1,s2)}</referenceValue>
+               </frameInfo>
+            </metaFrame>
+         </frames>
+      </extMeta>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m16oh0sk">
+            <score xml:id="svmvyh6">
+               <scoreDef xml:id="s1p71x0c" midi.bpm="400" tempo.dist="3.0000vu">
+                  <staffGrp xml:id="sngq22l" bar.thru="true" symbol="brace">
+                     <label xml:id="lx5wkw9">Piano</label>
+                     <labelAbbr xml:id="l1l6fr5m">Pno.</labelAbbr>
+                     <staffDef xml:id="staffdef-L1F2" n="1" lines="5">
+                        <clef xml:id="clef-L6F2" shape="G" line="2" />
+                        <keySig xml:id="keysig-L7F2" sig="0" />
+                        <meterSig xml:id="metersig-L8F2" count="12" unit="4" />
+                     </staffDef>
+                     <staffDef xml:id="staffdef-L1F1" n="2" lines="5">
+                        <clef xml:id="clef-L6F1" shape="F" line="4" />
+                        <keySig xml:id="keysig-L7F1" sig="0" />
+                        <meterSig xml:id="metersig-L8F1" count="12" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="section-L1F1">
+                  <measure xml:id="measure-L1" n="1">
+                     <staff xml:id="staff-L1F2" n="1">
+                        <layer xml:id="layer-L1F2N1" n="1">
+                           <chord xml:id="chord-L10F2" dur="1">
+                              <note xml:id="note-L10F2S1" oct="4" pname="c" accid.ges="n" />
+                              <note xml:id="note-L10F2S2" oct="4" pname="e" accid.ges="n" />
+                              <note xml:id="note-L10F2S3" oct="4" pname="g" accid.ges="n" />
+                           </chord>
+                           <chord xml:id="chord-L11F2" dur="1">
+                              <note xml:id="note-L11F2S1" oct="4" pname="d" accid.ges="n" />
+                              <note xml:id="note-L11F2S2" oct="4" pname="f" accid.ges="n" />
+                           </chord>
+                           <note xml:id="note-L12F2" dur="1" oct="4" pname="e" accid.ges="n" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-L1F1" n="2">
+                        <layer xml:id="layer-L1F1N1" n="1">
+                           <note xml:id="note-L10F1" dur="1" oct="3" pname="c" accid.ges="n" />
+                           <chord xml:id="chord-L11F1" dur="1">
+                              <note xml:id="note-L11F1S1" oct="3" pname="d" accid.ges="n" />
+                              <note xml:id="note-L11F1S2" oct="3" pname="a" accid.ges="n" />
+                           </chord>
+                           <chord xml:id="chord-L12F1" dur="1">
+                              <note xml:id="note-L12F1S1" oct="3" pname="e" accid.ges="n" />
+                              <note xml:id="note-L12F1S2" oct="3" pname="g" accid="s" />
+                              <note xml:id="note-L12F1S3" oct="3" pname="b" accid.ges="n" />
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-L13" n="2">
+                     <staff xml:id="staff-L13F2N1" n="1">
+                        <layer xml:id="layer-L13F2N1" n="1">
+                           <chord xml:id="chord-L14F2" dur="1">
+                              <note xml:id="note-L14F2S1" oct="4" pname="c" accid.ges="n" />
+                              <note xml:id="note-L14F2S2" oct="4" pname="e" accid.ges="n" />
+                              <note xml:id="note-L14F2S3" oct="4" pname="g" accid.ges="n" />
+                           </chord>
+                           <chord xml:id="chord-L15F2" dur="1">
+                              <note xml:id="note-L15F2S1" oct="4" pname="d" accid.ges="n" />
+                              <note xml:id="note-L15F2S2" oct="4" pname="f" accid.ges="n" />
+                           </chord>
+                           <chord xml:id="chord-L16F2" dur="1">
+                              <note xml:id="note-L16F2S1" oct="4" pname="c" accid.ges="n" />
+                              <note xml:id="note-L16F2S2" oct="4" pname="e" accid.ges="n" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-L13F1N1" n="2">
+                        <layer xml:id="layer-L13F1N1" n="1">
+                           <note xml:id="note-L14F1" dur="1" oct="3" pname="c" accid.ges="n" />
+                           <chord xml:id="chord-L15F1" dur="1">
+                              <note xml:id="note-L15F1S1" oct="3" pname="d" accid.ges="n" />
+                              <note xml:id="note-L15F1S2" oct="3" pname="a" accid.ges="n" />
+                           </chord>
+                           <chord xml:id="chord-L16F1" dur="1">
+                              <note xml:id="note-L16F1S1" oct="2" pname="a" accid.ges="n" />
+                              <note xml:id="note-L16F1S2" oct="3" pname="a" accid.ges="n" />
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-L17" n="3">
+                     <staff xml:id="staff-L17F2N1" n="1">
+                        <layer xml:id="layer-L17F2N1" n="1">
+                           <chord xml:id="chord-L18F2" dur="1">
+                              <note xml:id="note-L18F2S1" oct="4" pname="c" accid.ges="n" />
+                              <note xml:id="note-L18F2S2" oct="4" pname="e" accid.ges="n" />
+                              <note xml:id="note-L18F2S3" oct="4" pname="g" accid.ges="n" />
+                           </chord>
+                           <chord xml:id="chord-L19F2" dur="1">
+                              <note xml:id="note-L19F2S1" oct="4" pname="d" accid.ges="n" />
+                              <note xml:id="note-L19F2S2" oct="4" pname="f" accid.ges="n" />
+                           </chord>
+                           <chord xml:id="chord-L20F2" dur="1">
+                              <note xml:id="note-L20F2S1" oct="4" pname="c" accid="s" />
+                              <note xml:id="note-L20F2S2" oct="4" pname="e" accid.ges="n" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-L17F1N1" n="2">
+                        <layer xml:id="layer-L17F1N1" n="1">
+                           <note xml:id="note-L18F1" dur="1" oct="3" pname="c" accid.ges="n" />
+                           <chord xml:id="chord-L19F1" dur="1">
+                              <note xml:id="note-L19F1S1" oct="3" pname="d" accid.ges="n" />
+                              <note xml:id="note-L19F1S2" oct="3" pname="a" accid.ges="n" />
+                           </chord>
+                           <chord xml:id="chord-L20F1" dur="1">
+                              <note xml:id="note-L20F1S1" oct="2" pname="a" accid.ges="n" />
+                              <note xml:id="note-L20F1S2" oct="3" pname="a" accid.ges="n" />
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-L21" right="end" n="4">
+                     <staff xml:id="staff-L21F2N1" n="1">
+                        <layer xml:id="layer-L21F2N1" n="1">
+                           <chord xml:id="chord-L22F2" dur="1">
+                              <note xml:id="note-L22F2S1" oct="4" pname="c" accid.ges="n" />
+                              <note xml:id="note-L22F2S2" oct="4" pname="e" accid.ges="n" />
+                              <note xml:id="note-L22F2S3" oct="4" pname="g" accid.ges="n" />
+                           </chord>
+                           <chord xml:id="chord-L23F2" dur="1">
+                              <note xml:id="note-L23F2S1" oct="4" pname="d" accid.ges="n" />
+                              <note xml:id="note-L23F2S2" oct="4" pname="f" accid.ges="n" />
+                           </chord>
+                           <note xml:id="note-L24F2" dur="1" oct="4" pname="e" accid.ges="n" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-L21F1N1" n="2">
+                        <layer xml:id="layer-L21F1N1" n="1">
+                           <note xml:id="note-L22F1" dur="1" oct="3" pname="c" accid.ges="n" />
+                           <chord xml:id="chord-L23F1" dur="1">
+                              <note xml:id="note-L23F1S1" oct="3" pname="g" accid.ges="n" />
+                              <note xml:id="note-L23F1S2" oct="3" pname="b" accid.ges="n" />
+                           </chord>
+                           <chord xml:id="chord-L24F1" dur="1">
+                              <note xml:id="note-L24F1S1" oct="3" pname="c" accid.ges="n" />
+                              <note xml:id="note-L24F1S2" oct="4" pname="c" accid.ges="n" />
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

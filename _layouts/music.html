@@ -5,22 +5,46 @@ layout: music_base
 <head>
     <title>My project</title>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="../test/CETEIcean.css" media="all" />
-    <link rel="stylesheet" href="../test/style.css" media="all" />
-	<link rel="stylesheet" href="../test/project_css.css" media="all" />
-    <script src="../test/CETEI.js"></script>
-    <script src="../test/verovio.js"></script>
+	<script src="{{site.baseurl}}/assets/js/CETEI.js"></script>
+	<script src="{{site.baseurl}}/assets/js/verovio.js"></script>
   </head>
 
   <body>
-    <div>this is a test</div>
+    <div>{{ page.title }}</div>
+	<div id="path">{{ page.name }}</div> <!-- hidden? -->
   	<!-- container for TEI document -->
     <div id="TEI"></div>
   	<!-- rendition -->
+	
   	<script>
+				
+		var path = document.getElementById("path")
   		/* CETEIcean */
 		var CETEIcean = new CETEI()
-			CETEIcean.getHTML5("../xslt_ausgabe.xml", function(data) {
+
+		/* deal with math elements*/
+		CETEIcean.addBehaviors({
+				
+			"tei": {
+				"formula": function(el) {
+				// Create a wrapper element to hold raw content
+				let wrapper = document.createElement("span");
+
+				let rawContent = "";
+				let serializer = new XMLSerializer();
+				el.childNodes.forEach(child => {
+				rawContent += serializer.serializeToString(child).replaceAll("ns1-", "");
+				/*rawContent = rawContent.replace("ns1-", "");*/
+					});
+					wrapper.innerHTML = rawContent.replace("ns1-", "");
+				return wrapper;
+				}
+			},
+			
+		}); 
+			CETEIcean.getHTML5("../../data/" + path.innerHTML + "/" + path.innerHTML + ".xml", function(data) {
+				/*CETEIcean.getHTML5("../../musicdata/tei/" + path.innerHTML, function(data) { */
+			/* funktioniert: CETEIcean.getHTML5("../../musicdata/tei/" + "CAP1905_tei.xml", function(data) { */
 			document.getElementById("TEI").appendChild(data)
 		})
 		/* Verovio */
@@ -37,10 +61,10 @@ layout: music_base
 		function checkDOMAndProcess() {
 		    const musicElements = document.querySelectorAll('tei-div[rend="MEI"]');
 		    musicElements.forEach(node => {
-		        if (node.id && !node.dataset.processed) {
+		        if (node.getAttribute("source") && !node.dataset.processed) { // source war id ware "node.id"
 		            node.dataset.processed = 'true'; // Verhindert doppelte Verarbeitung
-		            const fileName = `${node.id}`; // Dynamischer Dateiname basierend auf der ID
-		            fetch(`../testdata/${fileName}`)
+		            const fileName = `${node.getAttribute("source")}`; // Dynamischer Dateiname basierend auf der ID  --- source war node.id
+		            fetch("../../data/" + path.innerHTML + '/data' + `/${fileName}`) // path is here!
 		                .then(response => response.text())
 		                .then(data => {
 		                    const svg = vrvToolkit.renderData(data, {});
@@ -55,4 +79,5 @@ layout: music_base
 		// Starte die Überprüfung, sobald die DOM-Inhalte verfügbar sind
 		document.addEventListener('DOMContentLoaded', checkDOMAndProcess);
     </script>
+	 {% include footer.html %}
   </body>

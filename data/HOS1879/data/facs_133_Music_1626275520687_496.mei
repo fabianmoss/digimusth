@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title />
+         </titleStmt>
+         <pubStmt>
+            <unpub>This MEI file was created by Verovio's Humdrum converter. When published, this unpub element should be removed, and the enclosing pubStmt element should be properly filled out.</unpub>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application isodate="2025-02-02T22:19:03" version="4.5.1[undefined]">
+               <name>Verovio</name>
+               <p>Transcoded from Humdrum</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <extMeta>
+         <frames xmlns="http://www.humdrum.org/ns/humxml">
+            <metaFrame n="18" token="!!!system-decoration: {(s1,s2)}" xml:id="L19">
+               <frameInfo>
+                  <startTime float="8" />
+                  <frameType>reference</frameType>
+                  <referenceKey>system-decoration</referenceKey>
+                  <referenceValue>{(s1,s2)}</referenceValue>
+               </frameInfo>
+            </metaFrame>
+         </frames>
+      </extMeta>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mv0omld">
+            <score xml:id="sniz9zq">
+               <scoreDef xml:id="sx3bt01" tempo.dist="3.0000vu">
+                  <staffGrp xml:id="s1tx1em4" bar.thru="true" symbol="brace">
+                     <label xml:id="ls20vty">Piano</label>
+                     <labelAbbr xml:id="ln2eozj">Pno.</labelAbbr>
+                     <staffDef xml:id="staffdef-L1F2" n="1" lines="5">
+                        <clef xml:id="clef-L6F2" shape="G" line="2" />
+                        <keySig xml:id="keysig-L7F2" sig="0" />
+                        <meterSig xml:id="metersig-L8F2" count="4" unit="4" />
+                     </staffDef>
+                     <staffDef xml:id="staffdef-L1F1" n="2" lines="5">
+                        <clef xml:id="clef-L6F1" shape="F" line="4" />
+                        <keySig xml:id="keysig-L7F1" sig="0" />
+                        <meterSig xml:id="metersig-L8F1" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="section-L1F1">
+                  <measure xml:id="measure-L1" n="1">
+                     <staff xml:id="staff-L1F2" n="1">
+                        <layer xml:id="layer-L1F2N1" n="1">
+                           <note xml:id="note-L11F2" dots="1" dur="2" oct="4" pname="a" accid="f" />
+                           <note xml:id="note-L13F2" dur="4" oct="4" pname="a" accid="n" />
+                        </layer>
+                        <layer xml:id="layer-L1F2N2" n="2">
+                           <chord xml:id="chord-L11F3" dur="1">
+                              <note xml:id="note-L11F3S1" oct="4" pname="d" accid.ges="n" />
+                              <note xml:id="note-L11F3S2" oct="4" pname="f" accid.ges="n" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-L1F1" n="2">
+                        <layer xml:id="layer-L1F1N1" n="1">
+                           <chord xml:id="chord-L11F1" dur="2">
+                              <note xml:id="note-L11F1S1" oct="3" pname="d" accid="f" />
+                              <note xml:id="note-L11F1S2" oct="3" pname="a" accid="f" />
+                           </chord>
+                           <note xml:id="note-L12F1" dur="2" oct="3" pname="d" accid.ges="f" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="measure-L15" right="end" n="2">
+                     <staff xml:id="staff-L15F2N1" n="1">
+                        <layer xml:id="layer-L15F2N1" n="1">
+                           <chord xml:id="chord-L16F2" dur="1">
+                              <note xml:id="note-L16F2S1" oct="4" pname="d" accid="f" />
+                              <note xml:id="note-L16F2S2" oct="4" pname="g" accid="f" />
+                              <note xml:id="note-L16F2S3" oct="4" pname="b" accid="f" />
+                           </chord>
+                        </layer>
+                     </staff>
+                     <staff xml:id="staff-L15F1N1" n="2">
+                        <layer xml:id="layer-L15F1N1" n="1">
+                           <chord xml:id="chord-L16F1" dur="1">
+                              <note xml:id="note-L16F1S1" oct="2" pname="g" accid="f" />
+                              <note xml:id="note-L16F1S2" oct="3" pname="d" accid="f" />
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

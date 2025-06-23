@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+ <meiHead>
+  <fileDesc>
+   <titleStmt>
+    <title />
+   </titleStmt>
+   <pubStmt>
+    <unpub>This MEI file was created by Verovio's Humdrum converter. When published, this unpub element should be removed, and the enclosing pubStmt element should be properly filled out.</unpub>
+   </pubStmt>
+  </fileDesc>
+  <encodingDesc>
+   <appInfo>
+    <application isodate="2025-01-05T14:37:31" version="4.4.0-dev-f84695b-dirty">
+     <name>Verovio</name>
+     <p>Transcoded from Humdrum</p>
+    </application>
+   </appInfo>
+  </encodingDesc>
+  <extMeta>
+   <frames xmlns="http://www.humdrum.org/ns/humxml">
+    <metaFrame n="11" token="!!!RDF**kern: N = no stem" xml:id="L12">
+     <frameInfo>
+      <startTime float="10" />
+      <frameType>reference</frameType>
+      <referenceKey>RDF**kern</referenceKey>
+      <referenceValue>N = no stem</referenceValue>
+     </frameInfo>
+    </metaFrame>
+   </frames>
+  </extMeta>
+ </meiHead>
+ <music decls="#work1_encoded">
+  <body>
+   <mdiv xml:id="mnn7igb">
+    <score xml:id="s19oc6d4">
+     <scoreDef xml:id="s1ybcdk0" midi.bpm="400" tempo.dist="3.0000vu">
+      <staffGrp xml:id="ssy1fx2">
+       <staffDef xml:id="staffdef-L1F1" n="1" lines="5">
+        <clef xml:id="clef-L2F1" shape="G" line="2" />
+       </staffDef>
+      </staffGrp>
+     </scoreDef>
+     <section xml:id="section-L1F1">
+      <measure xml:id="measure-L1">
+       <staff xml:id="staff-L1F1" n="1">
+        <layer xml:id="layer-L1F1N1" n="1">
+         <chord xml:id="chord-L4F1" dur="2">
+          <note xml:id="note-L4F1S1" oct="5" pname="c" accid.ges="n" />
+          <note xml:id="note-L4F1S2" oct="5" pname="e" accid.ges="n" />
+          <note xml:id="note-L4F1S3" oct="5" pname="a" accid.ges="n" />
+         </chord>
+        </layer>
+        <layer xml:id="layer-L1F1N2" n="2">
+         <note xml:id="note-L4F2" dur="2" oct="3" pname="a" accid.ges="n" />
+        </layer>
+       </staff>
+      </measure>
+      <measure xml:id="measure-L5">
+       <staff xml:id="staff-L5F1N1" n="1">
+        <layer xml:id="layer-L5F1N1" n="1">
+         <chord xml:id="chord-L6F1" dur="2">
+          <note xml:id="note-L6F1S1" oct="4" pname="b" accid.ges="n" />
+          <note xml:id="note-L6F1S2" oct="5" pname="e" accid.ges="n" />
+          <note xml:id="note-L6F1S3" oct="5" pname="g" accid.ges="n" />
+         </chord>
+         <chord xml:id="chord-L7F1" dur="2">
+          <note xml:id="note-L7F1S1" oct="4" pname="b" accid.ges="n" />
+          <note xml:id="note-L7F1S2" oct="5" pname="d" accid="s" />
+          <note xml:id="note-L7F1S3" oct="5" pname="f" accid="s" />
+         </chord>
+        </layer>
+        <layer xml:id="layer-L5F2N2" n="2">
+         <note xml:id="note-L6F2" dur="2" oct="4" pname="e" accid.ges="n" />
+         <note xml:id="note-L7F2" dur="2" oct="3" pname="b" accid.ges="n" />
+        </layer>
+       </staff>
+      </measure>
+      <measure xml:id="measure-L8" right="dbl">
+       <staff xml:id="staff-L8F1N1" n="1">
+        <layer xml:id="layer-L8F1N1" n="1">
+         <chord xml:id="chord-L9F1" dur="1">
+          <note xml:id="note-L9F1S1" oct="4" pname="g" accid.ges="n" />
+          <note xml:id="note-L9F1S2" oct="4" pname="b" accid.ges="n" />
+          <note xml:id="note-L9F1S3" oct="5" pname="e" accid.ges="n" />
+         </chord>
+        </layer>
+        <layer xml:id="layer-L8F2N2" n="2">
+         <note xml:id="note-L9F2" dur="1" oct="4" pname="e" accid.ges="n" />
+        </layer>
+       </staff>
+      </measure>
+     </section>
+    </score>
+   </mdiv>
+  </body>
+ </music>
+</mei>
