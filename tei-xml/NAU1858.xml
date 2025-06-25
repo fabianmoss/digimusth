@@ -2865,10 +2865,10 @@
 				<lb facs="#facs_16_r2l9" n="N006"/>zen</rs></rs>, nämlich:
 			</p>
 			<p facs="#facs_16_TextRegion_1612026448364_48">
-				<lb facs="#facs_16_line_1611260139752_1221" n="N001"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">Quarte</rs></hi> (VIII : V = $$MATH) = 4:3,
-				<lb facs="#facs_16_r2l14" n="N002"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">kleine Terz</rs></hi> (V : gr. III = $$MATH) = 6:5,
-				<lb facs="#facs_16_r2l15" n="N003"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">kleine Sexte</rs></hi> (VIII : gr. III = $$MATH) = 8:5 und
-				<lb facs="#facs_16_r2l16" n="N004"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">grosse Sexte</rs></hi> (gr. III : $$MATH oder VIII : kl. III = $$MATH oder $$MATH) = 5:3,
+				<lb facs="#facs_16_line_1611260139752_1221" n="N001"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">Quarte</rs></hi> (VIII : V = <formula notation="tex">$\frac{2}{1} : \frac{3}{2}$</formula>) = 4:3,
+				<lb facs="#facs_16_r2l14" n="N002"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">kleine Terz</rs></hi> (V : gr. III = <formula notation="tex">$\frac{3}{2} : \frac{5}{4}$</formula>) = 6:5,
+				<lb facs="#facs_16_r2l15" n="N003"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">kleine Sexte</rs></hi> (VIII : gr. III = <formula notation="tex">$\frac{2}{1} : \frac{5}{4}$</formula>) = 8:5 und
+				<lb facs="#facs_16_r2l16" n="N004"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">grosse Sexte</rs></hi> (gr. III : <formula notation="tex">$\frac{V}{2}$</formula> oder VIII : kl. III = <formula notation="tex">$\frac{5}{4} : \frac{3}{4}$</formula> oder <formula notation="tex">$\frac{2}{1} : \frac{6}{5}$</formula>) = 5:3,
 			</p>
 			<p facs="#facs_16_TextRegion_1612026457511_54">
 				<lb facs="#facs_16_r2l17" n="N001"/>und indem man diese abgeleiteten <rs ana="#concept_phy">Verhältnisse</rs> sowohl mit den ursprünglichen, als unter einander
@@ -2876,14 +2876,14 @@
 				<lb facs="#facs_16_r2l19" n="N003"/>die nächsten sind:
 			</p>
 			<p facs="#facs_16_TextRegion_1612026457511_53">
-				<lb facs="#facs_16_line_1611260242133_1249" n="N001"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">grosse Secunde</rs></hi> (V : IV = $$MATH) = 9:8
-				<lb facs="#facs_16_line_1611260254806_1260" n="N002"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">kleine Secunde</rs></hi> (IV : gr. III = $$MATH) = 16:15
-				<lb facs="#facs_16_line_1611260270838_1279" n="N003"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">alterirte grosse Secunde</rs></hi> (gr. VI : V = $$MATH) = 10:9
-				<lb facs="#facs_16_r2l28" n="N004"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">kleine Septime</rs></hi> (VIII : gr. II = $$MATH) = 16:9
-				<lb facs="#facs_16_line_1611260282257_1290" n="N005"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">grosse Septime</rs></hi> (VIII : kl. II = $$MATH) = 15:8
-				<lb facs="#facs_16_line_1611260290120_1296" n="N006"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">alterirte kleine Septime</rs></hi> (VIII : alt. gr. II = $$MATH) = 9:5
-				<lb facs="#facs_16_r2l33" n="N007"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">übermässige Quarte</rs></hi> (V : kl. II = $$MATH) = 45:32
-				<lb facs="#facs_16_line_1611260300833_1308" n="N008"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">verminderte Quinte</rs></hi> (VIII : IV♯ = $$MATH) = 64:45 u. s. w.
+				<lb facs="#facs_16_line_1611260242133_1249" n="N001"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">grosse Secunde</rs></hi> (V : IV = <formula notation="tex">$\frac{3}{2} : \frac{4}{3}$</formula>) = 9:8
+				<lb facs="#facs_16_line_1611260254806_1260" n="N002"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">kleine Secunde</rs></hi> (IV : gr. III = <formula notation="tex">$\frac{4}{3} : \frac{5}{4}$</formula>) = 16:15
+				<lb facs="#facs_16_line_1611260270838_1279" n="N003"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">alterirte grosse Secunde</rs></hi> (gr. VI : V = <formula notation="tex">$\frac{5}{3} : \frac{3}{2}$</formula>) = 10:9
+				<lb facs="#facs_16_r2l28" n="N004"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">kleine Septime</rs></hi> (VIII : gr. II = <formula notation="tex">$\frac{2}{1} : \frac{9}{8}$</formula>) = 16:9
+				<lb facs="#facs_16_line_1611260282257_1290" n="N005"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">grosse Septime</rs></hi> (VIII : kl. II = <formula notation="tex">$\frac{2}{1} : \frac{16}{15}$</formula>) = 15:8
+				<lb facs="#facs_16_line_1611260290120_1296" n="N006"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">alterirte kleine Septime</rs></hi> (VIII : alt. gr. II = <formula notation="tex">$\frac{2}{1} : \frac{10}{9}$</formula>) = 9:5
+				<lb facs="#facs_16_r2l33" n="N007"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">übermässige Quarte</rs></hi> (V : kl. II = <formula notation="tex">$\frac{3}{2} : \frac{16}{15}$</formula>) = 45:32
+				<lb facs="#facs_16_line_1611260300833_1308" n="N008"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">verminderte Quinte</rs></hi> (VIII : IV♯ = <formula notation="tex">$\frac{2}{1} : \frac{45}{32}$</formula>) = 64:45 u. s. w.
 			</p>
 			<pb facs="#facs_17" n="17"/>
 			<p facs="#facs_17_TextRegion_1611262267950_1338">
@@ -2931,7 +2931,7 @@
 				<lb facs="#facs_17_r1l36" n="N006"/>nenen Werke: „<title ana="#text" ref="W0113">die Musik und die musikalischen Instrumente in ihrer Beziehung zu den Gesetzen der Akustik</title>”,
 				<lb facs="#facs_17_r1l37" n="N007"/>pag. 119) hält es wenigstens für wahrscheinlich, dass die grosse Bedeutung, welche die <rs ana="#m_interval">kl. VII</rs> in unseren <rs ana="#concept_mus">Harmo<pc>¬</pc>
 				<lb facs="#facs_17_r1l38" n="N008"/>niegeweben</rs> erlangt habe, sich auf die Annäherung ihres <rs ana="#concept_phy">Schwingungsverhältnisses</rs> an die noch ziemlich einfache
-				<lb facs="#facs_17_r1l39" n="N009"/><rs ana="#concept_phy">Combination</rs> $$MATH gründe. Man vergleiche auch <persName role="author" ref="P0092">F. W. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Opelt</hi>’s</persName> <title ana="#text" ref="W0112">allgemeine Theorie der Musik</title> (<placeName>Leipzig</placeName>, <date when="1852">1852</date>), § 48
+				<lb facs="#facs_17_r1l39" n="N009"/><rs ana="#concept_phy">Combination</rs> <formula notation="tex">$\frac{7}{4}$</formula> gründe. Man vergleiche auch <persName role="author" ref="P0092">F. W. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Opelt</hi>’s</persName> <title ana="#text" ref="W0112">allgemeine Theorie der Musik</title> (<placeName>Leipzig</placeName>, <date when="1852">1852</date>), § 48
 				<lb facs="#facs_17_r1l40" n="N010"/>und § 61.
 			</p>
 			<pb facs="#facs_18" n="18"/>
@@ -2999,7 +2999,7 @@
 				<lb facs="#facs_20_r1l2" n="N001"/>nämlich entweder vom <rs ana="#m_note">Grundton</rs> nach oben, oder von der <rs ana="#m_interval">Quinte</rs> nach unten; in beiden Fällen
 				<lb facs="#facs_20_r1l3" n="N002"/>ist die <rs ana="#m_interval">kl. III</rs> das als Rest (<rs ana="#m_interval">V — gr. III</rs>) sich zuletzt ergebende <rs ana="#m_interval">Intervall</rs>. Die erste Art der Thei<pc>¬</pc>
 				<lb facs="#facs_20_r1l4" n="N003"/>lung giebt bekanntlich den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_chord">Durdreiklang</rs></hi>, dessen <rs ana="#m_note">Töne</rs> in dem <rs ana="#concept_phy">einfachen Verhältniss</rs> <rs ana="#m_chord">4:5:6</rs>
-				<lb facs="#facs_20_line_1611266501656_1652" n="N004"/>stehen, die zweite den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_chord">Molldreiklang</rs></hi>, welcher durch das <rs ana="#concept_phy">Verhältniss</rs> <rs ana="#m_chord">10:12:15</rs> = $$MATH
+				<lb facs="#facs_20_line_1611266501656_1652" n="N004"/>stehen, die zweite den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_chord">Molldreiklang</rs></hi>, welcher durch das <rs ana="#concept_phy">Verhältniss</rs> <rs ana="#m_chord">10:12:15</rs> = <formula notation="tex">$\frac{1}{6}:\frac{1}{5}:\frac{1}{4}$</formula>
 				<lb facs="#facs_20_r1l8" n="N005"/>sich deutlich als nach entgegengesetzter Richtung gebildeter <rs ana="#m_chord">Durdreiklang</rs> zu erkennen giebt*).
 				<lb facs="#facs_20_r1l9" n="N006"/>Es scheint hier wiederum ganz in der Natur der Sache begründet, dass dem <rs ana="#m_chord">Molldreiklang</rs> ein
 				<lb facs="#facs_20_r1l10" n="N007"/>weniger einfaches <rs ana="#concept_phy">Zahlenverhältniss</rs> entspricht und derselbe in der oben (§ 1) aufgestellten Reihe
@@ -3078,8 +3078,8 @@
 				<lb facs="#facs_22_r2l36" n="N005"/>dominant-Dreiklanges</rs> ignorirt worden ist, beim Absteigen dasselbe mit der <rs ana="#m_interval">grossen Terz</rs> des
 				<lb facs="#facs_22_r2l37" n="N006"/><rs ana="#m_chord">Oberdominant-Dreiklanges</rs> geschieht. Beide für die <rs ana="#m_tonality">Molltonart</rs> wesentliche <rs ana="#m_interval">Intervalle</rs> sollen aber
 				<lb facs="#facs_22_r2l38" n="N007"/>dabei eben nur vorübergehend ignorirt, nicht negirt werden; deshalb kann im einen Falle statt
-				<lb facs="#facs_22_r2l39" n="N008"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">As</rs></hi> nicht <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">A</rs></hi>($$MATH), die <rs ana="#m_interval">grosse Terz</rs> von <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">F</rs></hi>, sondern nur <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">A</rs></hi>($$MATH), die <rs ana="#m_interval">Quint</rs> der <rs ana="#m_interval">Oberdominantquinte</rs>,
-				<lb facs="#facs_22_line_1611267905939_2043" n="N009"/>im andern statt <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">H</rs></hi> nicht <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">B</rs></hi>($$MATH), die <rs ana="#m_interval">kleine Terz</rs> von <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">G</rs></hi>, sondern nur <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">B</rs></hi>($$MATH), die <rs ana="#m_interval">untere Quint</rs>
+				<lb facs="#facs_22_r2l39" n="N008"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">As</rs></hi> nicht <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">A</rs></hi>(<formula notation="tex">$\frac{5}{3}$</formula>), die <rs ana="#m_interval">grosse Terz</rs> von <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">F</rs></hi>, sondern nur <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">A</rs></hi>(<formula notation="tex">$\frac{27}{16}$</formula>), die <rs ana="#m_interval">Quint</rs> der <rs ana="#m_interval">Oberdominantquinte</rs>,
+				<lb facs="#facs_22_line_1611267905939_2043" n="N009"/>im andern statt <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">H</rs></hi> nicht <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">B</rs></hi>(<formula notation="tex">$\frac{9}{5}$</formula>), die <rs ana="#m_interval">kleine Terz</rs> von <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">G</rs></hi>, sondern nur <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">B</rs></hi>(<formula notation="tex">$\frac{16}{9}$</formula>), die <rs ana="#m_interval">untere Quint</rs>
 				<lb facs="#facs_22_r2l44" n="N010"/>von <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">F</rs></hi> eintreten*). So herrscht also in der <rs ana="#m_tonality">Mollscala</rs> aufwärts von <rs ana="#m_interval">V — VIII</rs> der <rs ana="#concept_mus">Durcharakter</rs>
 				<lb facs="#facs_22_r2l45" n="N011"/>der <rs ana="#m_chord">Oberdominante</rs>, abwärts von <rs ana="#m_interval">VIII — V</rs> der <rs ana="#concept_mus">Mollcharakter</rs> der <rs ana="#m_chord">Unterdominante</rs>, während in
 				<lb facs="#facs_22_r2l46" n="N012"/>der streng <rs ana="#concept_mus">harmonischen Tonfolge</rs>:
@@ -3112,16 +3112,16 @@
 			</p>
 			<p facs="#facs_23_TextRegion_1613653148585_1209">
 				<lb facs="#facs_23_r2l9" n="N001"/>Die <rs ana="#concept_phy">Reihen</rs> solcher <rs ana="#concept_phy">Differenzen</rs> würden in den <rs ana="#m_tonality">Durscalen</rs> von <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">D</hi><hi rend="fontSize:0.0; kerning:0; subscript:true;">-3</hi></rs>, und <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">F</hi><hi rend="fontSize:0.0; kerning:0; subscript:true;">-3</hi></rs>, (mit den
-				<lb facs="#facs_23_r2l10" n="N002"/><rs ana="#concept_phy">absoluten Schwingungszahlen</rs> 9 und 10$$MATH) folgende sein:
+				<lb facs="#facs_23_r2l10" n="N002"/><rs ana="#concept_phy">absoluten Schwingungszahlen</rs> 9 und <formula notation="tex">$10 \frac{2}{3}$</formula>) folgende sein:
 			</p>
 			<p facs="#facs_23_TextRegion_1613653148585_1208">
-				<lb facs="#facs_23_line_1611336562666_2465" n="N001"/>(<rs ana="#m_tonality">Durscala</rs> von <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">D</hi><hi rend="fontSize:0.0; kerning:0; subscript:true;">-3</hi></rs>) $$MATH.
-				<lb facs="#facs_23_r2l13" n="N002"/>(<rs ana="#m_tonality">Durscala</rs> von <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">F</hi><hi rend="fontSize:0.0; kerning:0; subscript:true;">-3</hi></rs>) $$MATH.
+				<lb facs="#facs_23_line_1611336562666_2465" n="N001"/>(<rs ana="#m_tonality">Durscala</rs> von <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">D</hi><hi rend="fontSize:0.0; kerning:0; subscript:true;">-3</hi></rs>) <formula notation="tex">$3.\frac{3}{2^3}$</formula>, <formula notation="tex">$3.\frac{3}{2^3}$</formula>, <formula notation="tex">$2.\frac{3}{2^3}$</formula>, <formula notation="tex">$4.\frac{3}{2^3}$</formula>, <formula notation="tex">$4.\frac{3}{2^3}$</formula>, <formula notation="tex">$5.\frac{3}{2^3}$</formula>, <formula notation="tex">$3.\frac{3}{2^3}$</formula>.
+				<lb facs="#facs_23_r2l13" n="N002"/>(<rs ana="#m_tonality">Durscala</rs> von <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">F</hi><hi rend="fontSize:0.0; kerning:0; subscript:true;">-3</hi></rs>) <formula notation="tex">$3.\frac{2^2}{3^2}$</formula>, <formula notation="tex">$3.\frac{2^2}{3^2}$</formula>, <formula notation="tex">$2.\frac{2^2}{3^2}$</formula>, <formula notation="tex">$4.\frac{2^2}{3^2}$</formula>, <formula notation="tex">$4.\frac{2^2}{3^2}$</formula>, <formula notation="tex">$5.\frac{2^2}{3^2}$</formula>, <formula notation="tex">$3.\frac{2^2}{3^2}$</formula>.
 			</p>
 			<p facs="#facs_23_TextRegion_1611336303310_2320">
 				<lb facs="#facs_23_r2l14" n="N001"/>In den eine <rs ana="#m_interval">Octave</rs> höheren <rs ana="#m_tonality">Durscalen</rs> von <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi><hi rend="fontSize:0.0; kerning:0; subscript:true;">-2</hi></rs>, <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">D</hi><hi rend="fontSize:0.0; kerning:0; subscript:true;">-2</hi></rs>, und <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">F</hi><hi rend="fontSize:0.0; kerning:0; subscript:true;">-2</hi></rs>, verdoppeln sich natürlich
-				<lb facs="#facs_23_r2l15" n="N002"/>mit den <rs ana="#concept_phy">absoluten Schwingungszahlen</rs> auch die <rs ana="#concept_phy">Differenzen</rs> derselben ($$MATH etc., $$MATH etc. und
-				<lb facs="#facs_23_r2l16" n="N003"/>$$MATH etc.). Dies führt zunächst darauf, die <rs ana="#concept_phy">Differenzreihen</rs> für die <rs ana="#m_tonality">Durscalen</rs> aller <rs ana="#m_note">Töne</rs> unab<pc>¬</pc>
+				<lb facs="#facs_23_r2l15" n="N002"/>mit den <rs ana="#concept_phy">absoluten Schwingungszahlen</rs> auch die <rs ana="#concept_phy">Differenzen</rs> derselben (<formula notation="tex">$3.\frac{2}{3}$</formula> etc., <formula notation="tex">$3.\frac{3}{2^4}$</formula> etc. und
+				<lb facs="#facs_23_r2l16" n="N003"/><formula notation="tex">$3.\frac{2^3}{3^2}$</formula> etc.). Dies führt zunächst darauf, die <rs ana="#concept_phy">Differenzreihen</rs> für die <rs ana="#m_tonality">Durscalen</rs> aller <rs ana="#m_note">Töne</rs> unab<pc>¬</pc>
 				<lb facs="#facs_23_r2l17" n="N004"/>hängig von ihrer höheren oder tieferen <rs ana="#concept_phy">Lage</rs> zu bestimmen, was in folgender Tabelle für die ge<pc>¬</pc>
 				<lb facs="#facs_23_r2l18" n="N005"/>bräuchlichsten <rs ana="#m_tonality">Tonarten</rs> geschehen ist:
 			</p>
@@ -3138,8 +3138,8 @@
 				<lb facs="#facs_24_r1l2" n="N001"/>von jenen zu diesen (durch 2<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi>) tritt aber keineswegs für alle <rs ana="#m_tonality">Tonarten</rs> in derselben <rs ana="#concept_mus">Tonregion</rs>
 				<lb facs="#facs_24_r1l3" n="N002"/>ein, sondern <rs ana="#concept_mus">benachbarte</rs> <rs ana="#m_tonality">Scalen</rs> <rs ana="#concept_mus">harmonisch</rs> weit <rs ana="#concept_mus">entfernter</rs> <rs ana="#m_tonality">Tonarten</rs> haben auch in ihren <rs ana="#concept_phy">Diffe<pc>¬</pc>
 				<lb facs="#facs_24_r1l4" n="N003"/>renzreihen</rs> sehr verschiedene <rs ana="#concept_phy">Exponenten</rs> von 2. So beginnt z. B. diese <rs ana="#concept_phy">Reihe</rs> für die <rs ana="#m_tonality">Durscala</rs> von
-				<lb facs="#facs_24_line_1611336925680_2552" n="N004"/><rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">F</hi><hi rend="fontSize:0.0; kerning:0; subscript:true;">-2</hi></rs>, dessen <rs ana="#concept_phy">absolute Schwingungszahl</rs> = 21$$MATH, mit $$MATH, für die von <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">Fis</hi><hi rend="fontSize:0.0; kerning:0; subscript:true;">-2</hi></rs>. (= 22$$MATH) dagegen
-				<lb facs="#facs_24_line_1611336939906_2563" n="N005"/>mit $$MATH. —
+				<lb facs="#facs_24_line_1611336925680_2552" n="N004"/><rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">F</hi><hi rend="fontSize:0.0; kerning:0; subscript:true;">-2</hi></rs>, dessen <rs ana="#concept_phy">absolute Schwingungszahl</rs> <formula notation="tex">$21\frac{1}{3}$</formula>, mit <formula notation="tex">$3.\frac{2^3}{3^2}$</formula>, für die von <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">Fis</hi><hi rend="fontSize:0.0; kerning:0; subscript:true;">-2</hi></rs>. (<formula notation="tex">$22\frac{1}{2}$</formula>) dagegen
+				<lb facs="#facs_24_line_1611336939906_2563" n="N005"/>mit <formula notation="tex">$3.\frac{3^5}{2^8}$</formula>. —
 			</p>
 			<p facs="#facs_24_TextRegion_1613653299318_1259">
 				<lb facs="#facs_24_r1l9" n="N001"/>Allgemein ist nun nach der vorigen Tabelle die <rs ana="#concept_phy">Reihe</rs> der <rs ana="#concept_phy">absoluten Schwingungsdiffe<pc>¬</pc>
@@ -3149,11 +3149,11 @@
 				<lb facs="#facs_24_r1l13" n="N001"/>Jeder <rs ana="#m_tonality">Tonart</rs> entspricht eine bestimmte <rs ana="#concept_phy">Potenz</rs> von 3; der <rs ana="#concept_phy">Exponent</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;">n</hi> ist in <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">G</hi> dur</rs> = 0,
 				<lb facs="#facs_24_r1l14" n="N002"/>in allen weiteren <rs ana="#m_tonality">Kreuz-Tonarten</rs> <rs ana="#concept_phy">positiv</rs>, in <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi> dur</rs> und sämmtlichen <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">B</hi>-Tonarten</rs> <rs ana="#concept_phy">negativ</rs>.
 				<lb facs="#facs_24_r1l15" n="N003"/>3. 3<hi rend="fontSize:0.0; kerning:0; superscript:true;">n</hi>. 2<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi> etc. ist allgemeine Form der <rs ana="#concept_phy">Differenzreihe</rs> für eine bestimmte <rs ana="#concept_mus">Lage</rs> einer jeden <rs ana="#m_tonality">Durscala</rs>;
-				<lb facs="#facs_24_r1l16" n="N004"/>dagegen 3. 3<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi>. $$MATH etc. für alle <rs ana="#concept_mus">Lagen</rs> der <rs ana="#m_tonality">Durscala</rs> des bestimmten <rs ana="#m_note">Tones</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">G</rs></hi>. Die <rs ana="#concept_phy">Differenzen</rs> in
+				<lb facs="#facs_24_r1l16" n="N004"/>dagegen 3. 3<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi>. <formula notation="tex">$2^x$</formula> etc. für alle <rs ana="#concept_mus">Lagen</rs> der <rs ana="#m_tonality">Durscala</rs> des bestimmten <rs ana="#m_note">Tones</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">G</rs></hi>. Die <rs ana="#concept_phy">Differenzen</rs> in
 				<lb facs="#facs_24_r1l17" n="N005"/>den <rs ana="#m_tonality">Durscalen</rs> je zweier, um gleich viele <rs ana="#m_interval">reine Quinten</rs> nach entgegengesetzter Richtung von <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">G</rs></hi>
 				<lb facs="#facs_24_r1l18" n="N006"/>entfernter <rs ana="#m_note">Töne</rs> enthalten in den ihnen zukommenden <rs ana="#concept_phy">Potenzen</rs> von 3 und 2 durchaus <rs ana="#concept_phy">reciproke</rs>
 				<lb facs="#facs_24_r1l19" n="N007"/><rs ana="#concept_phy">Werthe</rs>, z. B. wenn man von der bestimmten <rs ana="#concept_mus">Lage</rs> der <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">G</hi> dur-Scala</rs>, für welche die <rs ana="#concept_phy">Differenzreihe</rs>
-				<lb facs="#facs_24_line_1611336979596_2591" n="N008"/>$$MATH etc. sein würde, ausgeht:
+				<lb facs="#facs_24_line_1611336979596_2591" n="N008"/><formula notation="tex">$3.\frac{3^0}{2^0}$</formula> etc. sein würde, ausgeht:
 			</p>
 			<p facs="#facs_24_TextRegion_1613653429995_1293">
 				<lb facs="#facs_24_r1l25" n="N001"/>oder auch allgemein:
@@ -3176,17 +3176,17 @@
 				<lb facs="#facs_25_r2l2" n="N001"/>woraus sich folgende <rs ana="#concept_phy">Reihe</rs> von <rs ana="#concept_phy">Differenzen</rs> ergiebt:
 			</p>
 			<p facs="#facs_25_TextRegion_1611337193584_2692">
-				<lb facs="#facs_25_line_1611337348791_2779" n="N001"/>Die <rs ana="#concept_phy">Summe</rs> derselben ($$MATH) ist = $$MATH, und die <rs ana="#concept_phy">Zahlenreihe</rs>: 3, 3, 2, 4,
+				<lb facs="#facs_25_line_1611337348791_2779" n="N001"/>Die <rs ana="#concept_phy">Summe</rs> derselben (<formula notation="tex">$24.\frac{{8}{24}$</formula>) ist <formila notation="tex">$=s$</formila>; <formula notation="tex">$\frac{8}{24}=3^n.2^x$</formula>, und die <rs ana="#concept_phy">Zahlenreihe</rs>: 3, 3, 2, 4,
 				<lb facs="#facs_25_r2l12" n="N002"/>4, 5, 3 stellt sich überhaupt als eine Charakteristische für die <rs ana="#concept_phy">absoluten Schwingungsdifferenzen</rs>
 				<lb facs="#facs_25_r2l13" n="N003"/>in der <rs ana="#m_tonality">Durscala</rs> heraus. —
 			</p>
 			<p facs="#facs_25_TextRegion_1611337190979_2688">
 				<lb facs="#facs_25_r2l14" n="N001"/>Man könnte auch die in den bisher betrachteten <rs ana="#m_tonality">Tonleitern</rs> nur als <rs ana="#m_interval">Terzen</rs>, <rs ana="#m_interval">Sexten</rs> und
 				<lb facs="#facs_25_r2l15" n="N002"/><rs ana="#m_interval">grosse Septimen</rs> vorkommenden <rs ana="#m_note">Töne</rs> zu <rs ana="#m_note">Grundtönen</rs> von <rs ana="#m_tonality">Durscalen</rs> erheben; die zuletzt gefun<pc>¬</pc>
-				<lb facs="#facs_25_r2l16" n="N003"/>dene allgemeine Form der <rs ana="#concept_phy">Differenzreihe</rs> der <rs ana="#concept_phy">absoluten Schwingungszahlen</rs> ($$MATH u. s. w.) gilt
-				<lb facs="#facs_25_line_1611337374417_2812" n="N004"/>dann zwar auch für diese neuen <rs ana="#m_tonality">Scalen</rs>, aber $$MATH ist nicht mehr = $$MATH, sondern = $$MATH,
-				<lb facs="#facs_25_line_1611337382108_2823" n="N005"/>oder (für <rs ana="#m_tonality">Durscalen</rs> der als <rs ana="#m_interval">kl. III</rs> und <rs ana="#m_interval">kl. VI</rs> in der <rs ana="#m_tonality">Molltonleiter</rs> vorkommenden <rs ana="#m_note">Töne</rs>) = $$MATH.
-				<lb facs="#facs_25_line_1611337392977_2837" n="N006"/>So ist z. B. $$MATH für:
+				<lb facs="#facs_25_r2l16" n="N003"/>dene allgemeine Form der <rs ana="#concept_phy">Differenzreihe</rs> der <rs ana="#concept_phy">absoluten Schwingungszahlen</rs> (<formula notation="tex">$3.\frac{8}{24}$</formula> u. s. w.) gilt
+				<lb facs="#facs_25_line_1611337374417_2812" n="N004"/>dann zwar auch für diese neuen <rs ana="#m_tonality">Scalen</rs>, aber <formula notation="tex">$\frac{8}{24}$</formula> ist nicht mehr <formula notation="tex">$=3^n.2^x$</formula>, sondern <formula notation="tex">$5.3^n.2^x$</formula>,
+				<lb facs="#facs_25_line_1611337382108_2823" n="N005"/>oder (für <rs ana="#m_tonality">Durscalen</rs> der als <rs ana="#m_interval">kl. III</rs> und <rs ana="#m_interval">kl. VI</rs> in der <rs ana="#m_tonality">Molltonleiter</rs> vorkommenden <rs ana="#m_note">Töne</rs>) <formula notation="tex">$=\frac{3^n.2^x}{5}$</formula>.
+				<lb facs="#facs_25_line_1611337392977_2837" n="N006"/>So ist z. B. <formula notation="tex">$3.\rac{8}{24}$</formula> für:
 			</p>
 			<p facs="#facs_25_TextRegion_1611337183863_2680">
 				<lb facs="#facs_25_r2l42" n="N001"/>Weniger einfach sind die allgemeinen Ausdrücke, welche sich für diese <rs ana="#concept_phy">Schwingungs<pc>¬</pc>
@@ -3206,10 +3206,10 @@
 			</p>
 			<p facs="#facs_27_TextRegion_1611339849536_3021">
 				<lb facs="#facs_27_r1l4" n="N001"/>Es gilt hier natürlich für die <rs ana="#concept_phy">Exponenten</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;">n</hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;">x</hi> und <hi rend="italic:true; fontSize:0.0; kerning:0;">y</hi> ganz dasselbe, wie vorher bei den
-				<lb facs="#facs_27_r1l5" n="N002"/><rs ana="#m_tonality">Durscalen</rs>. Die <rs ana="#concept_phy">Summe</rs> der <rs ana="#concept_phy">Zahlen</rs> 15, 9, 16, 20, 22$$MATH, 22$$MATH, 15 (oder . . . 12, 21$$MATH, 26$$MATH, oder
+				<lb facs="#facs_27_r1l5" n="N002"/><rs ana="#m_tonality">Durscalen</rs>. Die <rs ana="#concept_phy">Summe</rs> der <rs ana="#concept_phy">Zahlen</rs> 15, 9, 16, 20, <formula notation="tex">$22\frac{1}{2}$</formula>, <formula notation="tex">$22\frac{1}{2}$</formula>, 15 (oder . . . 12, <formula notation="tex">$21\frac{1}{3}$</formula>, <formula notation="tex">$22\frac{2}{3}$</formula>, oder
 				<lb facs="#facs_27_r1l6" n="N003"/>endlich . . . 12, 33, 15) ist = 120; da nun die <rs ana="#concept_phy">absolute Schwingungszahl</rs> des <rs ana="#m_note">Grundtones</rs> stets
 				<lb facs="#facs_27_r1l7" n="N004"/>der <rs ana="#concept_phy">Summe</rs> der <rs ana="#concept_phy">Schwingungsdifferenzen</rs> der <rs ana="#m_tonality">Scala</rs> gleich sein muss, so folgt nothwendig, dass
-				<lb facs="#facs_27_r1l8" n="N005"/>$$MATH sei, woraus sich eine noch einfachere allgemeine Form jener <rs ana="#concept_phy">Differenzreihen</rs>
+				<lb facs="#facs_27_r1l8" n="N005"/><formula notation="tex">$3^n.5^y.2^x = \frac{8}{120}$</formula> sei, woraus sich eine noch einfachere allgemeine Form jener <rs ana="#concept_phy">Differenzreihen</rs>
 				<lb facs="#facs_27_r1l9" n="N006"/>ergiebt:
 			</p>
 			<p facs="#facs_27_TextRegion_1611339824469_3013">
@@ -3237,19 +3237,19 @@
 				<lb facs="#facs_28_r1l1" n="N001"/>13
 			</p>
 			<p facs="#facs_28_TextRegion_1611340866638_3075">
-				<lb facs="#facs_28_line_1611341092957_3109" n="N001"/><rs ana="#concept_phy">zahlen</rs> zukommen, z. B. dem <rs ana="#m_note">Tone</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">D</rs></hi>: $$MATH und $$MATH, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">A</rs></hi>: $$MATH und $$MATH, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">E</rs></hi>: $$MATH und $$MATH, <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">B</hi></rs>: $$MATH und $$MATH,
-				<lb facs="#facs_28_r1l4" n="N002"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">Es</rs></hi>: $$MATH und $$MATH. Es ist nun offenbar, um eine klare Uebersicht über die verschiedenen <rs ana="#m_interval">Intervalle</rs>
+				<lb facs="#facs_28_line_1611341092957_3109" n="N001"/><rs ana="#concept_phy">zahlen</rs> zukommen, z. B. dem <rs ana="#m_note">Tone</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">D</rs></hi>: <formula notation="tex">$\frac{8}{9}$</formula> und <formula notation="tex">$\rac{10}{9}$</formula>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">A</rs></hi>: <formula notation="tex">$\frac{5}{3}$</formula> und <formula notation="tex">$\frac{27}{16}$</formula>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">E</rs></hi>: <formula notation="tex">$\frac{5}{4}$</formula> und <formula notation="tex">$\frac{81}{64}$</formula>, <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">B</hi></rs>: <formula notation="tex">$\frac{16}{9}$</formula> und <formula notation="tex">$\frac{9}{5}$</formula>,
+				<lb facs="#facs_28_r1l4" n="N002"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">Es</rs></hi>: <formula notation="tex">$\frac{6}{5}$</formula> und <formula notation="tex">$\frac{32}{27}$</formula>. Es ist nun offenbar, um eine klare Uebersicht über die verschiedenen <rs ana="#m_interval">Intervalle</rs>
 				<lb facs="#facs_28_r1l5" n="N003"/>zu gewinnen, das Zweckmässigste, diese an <rs ana="#concept_phy">Höhe</rs> wirklich ungleichen <rs ana="#concept_phy">akustischen Bestimmungen</rs>
 				<lb facs="#facs_28_r1l6" n="N004"/>desselben <rs ana="#m_note">Tones</rs> auch äusserlich durch eine passende Bezeichnung zu unterscheiden. Die <rs ana="#m_note">Grund<pc>¬</pc>
 				<lb facs="#facs_28_r1l7" n="N005"/>töne</rs>, <rs ana="#m_interval">Quinten</rs>, <rs ana="#m_interval">Quarten</rs>, <rs ana="#m_interval">grossen Secunden</rs>, <rs ana="#m_interval">kleinen Septimen</rs>, <rs ana="#m_interval">alterirten grossen Sexten</rs> und
 				<lb facs="#facs_28_r1l8" n="N006"/><rs ana="#m_interval">Octaven</rs> in obigen drei <rs ana="#concept_mus">Tonreihen</rs> enthalten in ihren <rs ana="#concept_phy">relativen Schwingungszahlen</rs>, neben den
-				<lb facs="#facs_28_r1l9" n="N007"/>nur die <rs ana="#concept_mus">Lage</rs> bezeichnenden <rs ana="#concept_phy">Potenzen</rs> von 2, nur <rs ana="#concept_phy">Potenzen</rs> des <rs ana="#m_interval">Quintverhältnisses</rs> $$MATH; (z. B.
-				<lb facs="#facs_28_line_1611341110258_3128" n="N008"/>$$MATH etc.); daher wir sie als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">einer</hi> <rs ana="#concept_mus">Classe</rs> von <rs ana="#m_note">Tönen</rs>
+				<lb facs="#facs_28_r1l9" n="N007"/>nur die <rs ana="#concept_mus">Lage</rs> bezeichnenden <rs ana="#concept_phy">Potenzen</rs> von 2, nur <rs ana="#concept_phy">Potenzen</rs> des <rs ana="#m_interval">Quintverhältnisses</rs> <formula notation="tex">$\frac{3}{2}$</formula>; (z. B.
+				<lb facs="#facs_28_line_1611341110258_3128" n="N008"/><formula notation="tex">$A=(\frac{3}{2})^3.2^{-1}$</formula>, <formula notation="tex">$B = 2^2.(\frac{3}{2})^{-2}$</formula>, <formula notation="tex">$C = 2^0.(\frac{3}{2})^0$</formula> etc.); daher wir sie als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">einer</hi> <rs ana="#concept_mus">Classe</rs> von <rs ana="#m_note">Tönen</rs>
 				<lb facs="#facs_28_r1l14" n="N009"/>angehörig betrachten und, wie bisher, mit <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">grossen</hi> Buchstaben bezeichnen wollen. Die <rs ana="#concept_phy">relativen</rs>
-				<lb facs="#facs_28_r1l15" n="N010"/><rs ana="#concept_phy">Schwingungszahlen</rs> der noch übrigen <rs ana="#m_note">Töne</rs> dagegen enthalten ausser <rs ana="#concept_phy">Potenzen</rs> von 2 und $$MATH das
-				<lb facs="#facs_28_r1l16" n="N011"/><rs ana="#concept_phy">Verhältniss</rs> der <rs ana="#m_interval">grossen Terz</rs>, $$MATH, und zwar die einen (nämlich die der <rs ana="#m_interval">grossen Terzen</rs>, <rs ana="#m_interval">grossen</rs>
-				<lb facs="#facs_28_line_1611341143435_3166" n="N012"/><rs ana="#m_interval">Sexten</rs> und <rs ana="#m_interval">grossen Septimen</rs>) als <rs ana="#concept_phy">Multiplicator</rs> (z. B. $$MATH und $$MATH), die an<pc>¬</pc>
-				<lb facs="#facs_28_line_1611341158143_3179" n="N013"/>dern (die der <rs ana="#m_interval">kleinen Terzen</rs> und <rs ana="#m_interval">kleinen Sexten</rs>) als <rs ana="#concept_phy">Divisor</rs> (z. B. $$MATH und $$MATH).
+				<lb facs="#facs_28_r1l15" n="N010"/><rs ana="#concept_phy">Schwingungszahlen</rs> der noch übrigen <rs ana="#m_note">Töne</rs> dagegen enthalten ausser <rs ana="#concept_phy">Potenzen</rs> von 2 und <formula notation="tex">$\frac{3}{2}$</formula> das
+				<lb facs="#facs_28_r1l16" n="N011"/><rs ana="#concept_phy">Verhältniss</rs> der <rs ana="#m_interval">grossen Terz</rs>, <formula notation="tex">$\frac{5}{4}$</formula>, und zwar die einen (nämlich die der <rs ana="#m_interval">grossen Terzen</rs>, <rs ana="#m_interval">grossen</rs>
+				<lb facs="#facs_28_line_1611341143435_3166" n="N012"/><rs ana="#m_interval">Sexten</rs> und <rs ana="#m_interval">grossen Septimen</rs>) als <rs ana="#concept_phy">Multiplicator</rs> (z. B. <formula notation="tex">$\frac{15}{8} = \frac{5}{4}.\frac{3}{2}$</formula> und <formula notation="tex">$\frac{5}{3} = \frac{5}{4}.(\frac{3}{2})^{-1}.2$</formula>), die an<pc>¬</pc>
+				<lb facs="#facs_28_line_1611341158143_3179" n="N013"/>dern (die der <rs ana="#m_interval">kleinen Terzen</rs> und <rs ana="#m_interval">kleinen Sexten</rs>) als <rs ana="#concept_phy">Divisor</rs> (z. B. <formula notation="tex">$\frac{6}{5} = \frac{3}{2}.$</formula> und <formula notation="tex">$\frac{8}{5} = 2.\ac{4}{5}.(\frac{3}{2})^0$</formula>).
 				<lb facs="#facs_28_r1l28" n="N014"/>was auf eine <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">zweite</hi> und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">dritte</hi> <rs ana="#concept_mus">Tonclasse</rs> schliessen lässt, welche wir von der ersten durch
 				<lb facs="#facs_28_r1l29" n="N015"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">kleine</hi> Buchstaben und unter sich dadurch unterscheiden wollen, dass wir die die <rs ana="#m_note">Töne</rs> der
 				<lb facs="#facs_28_r1l30" n="N016"/>dritten <rs ana="#concept_mus">Classe</rs> bezeichnenden Buchstaben mit einem <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Strich</hi> (<hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">b′</rs></hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">es′</rs></hi>) versehen. Die <rs ana="#m_tonality">Durscala</rs>
@@ -3270,9 +3270,9 @@
 				<lb facs="#facs_29_r2l142" n="N002"/>Aus vorstehender Tabelle geht nun ganz deutlich hervor, dass jede der von uns gesonderten
 				<lb facs="#facs_29_r2l143" n="N003"/>drei <rs ana="#concept_mus">Tonclassen</rs> ein <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Quintensystem</rs></hi> bildet, d. h. dass die <rs ana="#concept_phy">relativen Schwingungszahlen</rs> der
 				<lb facs="#facs_29_r2l144" n="N004"/>verschiedenen <rs ana="#m_note">Töne</rs> innerhalb einer jeden <rs ana="#concept_mus">Classe</rs> sich wesentlich nur durch die ihnen zukommen<pc>¬</pc>
-				<lb facs="#facs_29_r2l145" n="N005"/>den <rs ana="#concept_phy">Potenzen</rs> von $$MATH unterscheiden. Als <rs ana="#concept_mus"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">reines</hi> Quintensystem</rs> wird aber nur die erste dieser
+				<lb facs="#facs_29_r2l145" n="N005"/>den <rs ana="#concept_phy">Potenzen</rs> von <formula notation="tex">$\frac{3}{2}$</formula> unterscheiden. Als <rs ana="#concept_mus"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">reines</hi> Quintensystem</rs> wird aber nur die erste dieser
 				<lb facs="#facs_29_r2l146" n="N006"/><rs ana="#concept_mus">Classen</rs> gelten können, in welcher die <rs ana="#concept_mus">Tonverhältnisse</rs> neben den accessorischen <rs ana="#concept_phy">Potenzen</rs> von 2,
-				<lb facs="#facs_29_r2l147" n="N007"/>welche nur die <rs ana="#concept_mus">Lage</rs> der <rs ana="#m_note">Töne</rs> feststellen, lediglich <rs ana="#concept_phy">Potenzen</rs> von $$MATH enthalten. Bezeichnet man
+				<lb facs="#facs_29_r2l147" n="N007"/>welche nur die <rs ana="#concept_mus">Lage</rs> der <rs ana="#m_note">Töne</rs> feststellen, lediglich <rs ana="#concept_phy">Potenzen</rs> von <formula notation="tex">$\frac{3}{2}$</formula> enthalten. Bezeichnet man
 				<lb facs="#facs_29_r2l148" n="N008"/>die <rs ana="#concept_phy">relative Schwingungszahl</rs> der <rs ana="#m_interval">Quinte</rs> mit <hi rend="italic:true; fontSize:0.0; kerning:0;">Q</hi> und die der <rs ana="#m_interval">grossen Terz</rs> mit <hi rend="italic:true; fontSize:0.0; kerning:0;">T</hi>, so ist allgemeiner
 				<lb facs="#facs_29_r2l149" n="N009"/>Ausdruck für die <rs ana="#concept_phy">relative Schwingungszahl</rs> eines <rs ana="#m_note">Tones</rs>
 			</p>
