@@ -1086,7 +1086,7 @@
             <p facs="#facs_21_TextRegion_1614200374976_1762">
 				<lb facs="#facs_21_r1l14" n="N001"/>Wenn <persName role="author" ref="P0047">mein Kritiker</persName> aber wähnt: ich sei der erste <rs ana="#concept_mus">Theore<pc>¬</pc>
 				<lb facs="#facs_21_r1l15" n="N002"/>tiker</rs>, welcher dem <rs ana="#m_chord">verminderten Dreiklange</rs> (den er, wo es ihm
-				<lb facs="#facs_21_r1l16" n="N003"/>paßt, als $$MATH eines <rs ana="#m_chord">Dominantseptimaccordes</rs> oder als $$MATH eines
+				<lb facs="#facs_21_r1l16" n="N003"/>paßt, als <formula notation="tex">$\frac{3}{4}$</formula> eines <rs ana="#m_chord">Dominantseptimaccordes</rs> oder als <formula notation="tex">$\frac{3}{5}$</formula> eines
 				<lb facs="#facs_21_r1l17" n="N004"/>sogenannten <rs ana="#m_chord">Nonenaccordes</rs> betrachtet) die Freiheit einräumt,
 				<lb facs="#facs_21_r1l18" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">jederzeit</hi> <rs ana="#concept_mus">ungebunden</rs> auftreten zu dürfen, und aus Beispielen
 				<lb facs="#facs_21_r1l19" n="N006"/>wie die folgenden:
