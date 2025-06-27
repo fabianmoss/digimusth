@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -940,13 +941,14 @@
          <pb facs="#facs_5" n="5"/>
          <div rend="TEI" facs="#facs_5_r1" type="other">
             <p facs="#facs_5_r1">
-				<lb facs="#facs_5_r1l5" n="N001"/><title ana="#text" ref="W0069">Die</title>
-				<lb facs="#facs_5_r1l6" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><title ana="#text" ref="W0069">Zukunft der <rs ana="#concept_mus">Musiktheorie</rs></title></hi>
-				<lb facs="#facs_5_r1l7" n="N003"/><title ana="#text" ref="W0069">(<rs ana="#concept_mus">Dualismus</rs> oder „<rs ana="#concept_mus">Monismus</rs>”?)</title>
-				<lb facs="#facs_5_r1l8" n="N004"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><title ana="#text" ref="W0069">und ihre</title><lb facs="#facs_5_r1l9" n="N005"/><title ana="#text" ref="W0069">Einwirkung auf die <rs ana="#concept_mus">Praxis</rs></title>.</hi>
+				<lb facs="#facs_5_r1l5" n="N001"/><title ana="#text" ref="W0069">Die
+				<lb facs="#facs_5_r1l6" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;">Zukunft der <rs ana="#concept_mus">Musiktheorie</rs></hi>
+				<lb facs="#facs_5_r1l7" n="N003"/>(<rs ana="#concept_mus">Dualismus</rs> oder „<rs ana="#concept_mus">Monismus</rs>”?)
+				<lb facs="#facs_5_r1l8" n="N004"/><hi rend="fontSize:0.0; kerning:0; bold:true;">und ihre
+				<lb facs="#facs_5_r1l9" n="N005"/>Einwirkung auf die <rs ana="#concept_mus">Praxis</rs>.</hi></title>
 				<lb facs="#facs_5_r1l10" n="N006"/>An zahlreichen <rs ana="#concept_mus">Notenbeispielen</rs> erläutert
 				<lb facs="#facs_5_r1l11" n="N007"/>von
-				<lb facs="#facs_5_r1l12" n="N008"/><persName role="author" ref="P0006">Georg Capellen</persName>-<placeName>Osnabrück</placeName>
+				<lb facs="#facs_5_r1l12" n="N008"/><persName role="author" ref="P0006">Georg Capellen-Osnabrück</persName>
 				<lb facs="#facs_5_r1l13" n="N009"/>Eigentum des Verlegers für alle Länder.
 				<lb facs="#facs_5_r1l14" n="N010"/>Alle Rechte vorbehalten.
 				<lb facs="#facs_5_r1l15" n="N011"/>C. F. KAHNT NACHFOLGER, <placeName>LEIPZIG</placeName>.
