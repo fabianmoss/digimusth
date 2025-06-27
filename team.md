@@ -24,7 +24,7 @@ Fabian Moss is a tenure-track assistant professor for Digital Music Philology an
 <td colspan="2">
 <h2><a href="http://torstenroeder.de/">Dr. Torsten Roeder</a> | Digital Humanities </h2>
 <div class="team_description">
-Torsten Roeder is a Digital Humanities researcher and lecturer at the JMU.
+Torsten Roeder works at the Research Center for Digital Applications in Humanities Studies (DACHS) at JMU as consultant and lecturer for digital humanities, digital scholarly editions, data modeling, born-digital heritage and computing history.
 </div>
 </td>
 <td colspan="1"><img src="../assets/team/troeder.jpg" alt="roeder" style="margin: 0 0 0"/></td>
