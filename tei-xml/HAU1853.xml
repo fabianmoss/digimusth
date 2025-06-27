@@ -6404,7 +6404,7 @@
 				<lb facs="#facs_43_r1l25" n="N007"/>setzen; denn es verhält sich 5:6 wie <formula notation="tex">$\frac{1}{6}:\frac{1}{5}$</formula> und <formula notation="tex">$4:5$</formula> wie
 				<lb facs="#facs_43_line_1612370021975_4705" n="N008"/><formula notation="tex">$\frac{1}{5}:\frac{1}{4}$</formula>. Durch die letzte Bezeichnung ist aber für die
 				<lb facs="#facs_43_r1l28" n="N009"/><rs ana="#concept_phy">Proportion</rs> 10:12:15, in kleineren <rs ana="#concept_phy">Zahlen</rs> ausgedrückt,
-				<lb facs="#facs_43_line_1612370493002_4856" n="N010"/> $$MATH ein gemeinschaftliches Mittelglied gefunden und
+				<lb facs="#facs_43_line_1612370493002_4856" n="N010"/> <formula notation="tex">$\begin{align*}\frac{1}{6}:&amp;\frac{1}{5}\\&amp;\frac{1}{5}:\frac{1}{4}\end{align*}$</formula> ein gemeinschaftliches Mittelglied gefunden und
 				<lb facs="#facs_43_line_1612370374476_4821" n="N011"/>es wird nun für den <rs ana="#m_chord">Molldreiklang</rs> die <rs ana="#concept_phy">Proportion</rs> <formula notation="tex">$\frac{1}{6}:\frac{1}{5}:\frac{1}{4}$</formula>,
 			</p>
          </div>
