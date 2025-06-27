@@ -815,14 +815,14 @@
          <pb facs="#facs_6" n="6"/>
          <pb facs="#facs_7" n="7"/>
          <pb facs="#facs_8" n="8"/>
-         <div rend="TEI" facs="#facs_8_TextRegion_1614084450867_93">
+         <div rend="TEI" facs="#facs_8_TextRegion_1614084450867_93" type="other">
             <p facs="#facs_8_TextRegion_1614084450867_93">
 				<lb facs="#facs_8_line_1614086869287_111" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;"> <rs ana="#concept_mus">Harmoniesystem</rs>.</hi>
             </p>
          </div>
          <pb facs="#facs_9" n="9"/>
          <pb facs="#facs_10" n="10"/>
-         <div rend="TEI" facs="#facs_10_r1">
+         <div rend="TEI" facs="#facs_10_r1" type="other">
             <p facs="#facs_10_r1">
 				<lb facs="#facs_10_r1l1" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">Gekrönte Preisschrift.</hi>
 				<lb facs="#facs_10_line_1614086967544_152" n="N002"/><title ana="#text" ref="W0039">Harmoniesystem</title>
@@ -834,7 +834,7 @@
          </div>
          <pb facs="#facs_11" n="11"/>
          <pb facs="#facs_12" n="12"/>
-         <div rend="TEI" facs="#facs_12_TextRegion_1614087572792_238">
+         <div rend="TEI" facs="#facs_12_TextRegion_1614087572792_238" type="heading">
             <p facs="#facs_12_TextRegion_1614087572792_238">
 				<lb facs="#facs_12_r1l1" n="N001"/>Erklärende Erläuterung
 				<lb facs="#facs_12_r1l2" n="N002"/>und
@@ -844,7 +844,7 @@
 				<lb facs="#facs_12_r1l6" n="N006"/>Weiterbildung der <rs ana="#concept_mus">Harmonik</rs>.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_12_TextRegion_1614087572791_237">
+         <div rend="TEI" facs="#facs_12_TextRegion_1614087572791_237" type="paragraph">
             <p facs="#facs_12_TextRegion_1614087572791_237">
 				<lb facs="#facs_12_r1l7" n="N001"/>„Dicemo adunque, che quantunque la scienza
 				<lb facs="#facs_12_r1l8" n="N002"/>della <rs ana="#concept_mus">Musica</rs> habbia avuto origine dal senso
@@ -862,8 +862,8 @@
          <pb facs="#facs_14" n="14"/>
          <pb facs="#facs_15" n="15"/>
          <pb facs="#facs_16" n="16"/>
-         <div rend="TEI" facs="#facs_16_region_1617040786665_397"/>
-         <div rend="TEI" facs="#facs_16_TextRegion_1614087927830_548">
+         <div rend="TEI" facs="#facs_16_region_1617040786665_397" type="missing"/>
+         <div rend="TEI" facs="#facs_16_TextRegion_1614087927830_548" type="paragraph">
             <p facs="#facs_16_TextRegion_1614087927830_548">
 				<lb facs="#facs_16_r1l1" n="N001"/>Der <rs ana="#m_note">Ton</rs>, eine <rs ana="#concept_phy">bestimmte Klanghöhe</rs>, ist das Material
 				<lb facs="#facs_16_r1l2" n="N002"/>der <rs ana="#concept_mus">Musik</rs>. Er wird erzeugt durch einen <rs ana="#concept_phy">erzitternden Körper</rs>
@@ -890,24 +890,24 @@
 				<lb facs="#facs_16_r1l23" n="N023"/>in Berührung oder Verbindung treten.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_16_TextRegion_1614087927830_547">
+         <div rend="TEI" facs="#facs_16_TextRegion_1614087927830_547" type="heading">
             <p facs="#facs_16_TextRegion_1614087927830_547">
 				<lb facs="#facs_16_r1l24" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;"> <rs ana="#concept_mus">Tonsystem</rs>.</hi>
             </p>
          </div>
-         <div rend="TEI" facs="#facs_16_TextRegion_1614087924649_543">
+         <div rend="TEI" facs="#facs_16_TextRegion_1614087924649_543" type="paragraph-continued">
             <p facs="#facs_16_TextRegion_1614087924649_543">
 				<lb facs="#facs_16_r1l25" n="N001"/>Unsere erste Aufgabe wird es sein, aus der fast unzähl<pc>¬</pc>
 				<lb facs="#facs_16_r1l26" n="N002"/>baren Menge von möglichen <rs ana="#m_note">Tönen</rs> eine Reihe auszuwählen
 			</p>
          </div>
          <pb facs="#facs_17" n="17"/>
-         <div rend="TEI" facs="#facs_17_TextRegion_1614088024274_621">
+         <div rend="TEI" facs="#facs_17_TextRegion_1614088024274_621" type="page-number">
             <p facs="#facs_17_TextRegion_1614088024274_621">
 				<lb facs="#facs_17_r1l1" n="N001"/>2
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_17_TextRegion_1614088024274_620">
+         <div rend="TEI" facs="#facs_17_TextRegion_1614088024274_620" type="paragraph-continued">
             <p facs="#facs_17_TextRegion_1614088024274_620">
 				<lb facs="#facs_17_r1l2" n="N001"/>und festzustellen, welche geeignet wäre, den <rs ana="#concept_mus">Melodien</rs> und <rs ana="#concept_mus">Har<pc>¬</pc>
 				<lb facs="#facs_17_r1l3" n="N002"/>monien</rs> eines kunstgerechten <rs ana="#concept_mus">Musikstückes</rs> zu Grunde zu liegen.
@@ -920,12 +920,12 @@
 				<lb facs="#facs_17_r1l10" n="N009"/><rs ana="#concept_mus">Tonsystem</rs>:
 			</p>
          </div>
-         <div rend="GRAPHIC" facs="#facs_17_Graphic_1614088045851_626">
+         <div rend="GRAPHIC" facs="#facs_17_Graphic_1614088045851_626" type="floating">
             <figure>
                <graphic url="graphic/facs_17_Graphic_1614088045851_626.png"/>
             </figure>
          </div>
-         <div rend="TEI" facs="#facs_17_TextRegion_1614088009862_612">
+         <div rend="TEI" facs="#facs_17_TextRegion_1614088009862_612" type="paragraph">
             <p facs="#facs_17_TextRegion_1614088009862_612">
 				<lb facs="#facs_17_r1l14" n="N001"/>Bis ins Unendliche fortgesetzt, könnte diese Reihe von <rs ana="#m_interval">reinen</rs>
 				<lb facs="#facs_17_r1l15" n="N002"/><rs ana="#m_interval">Quinten</rs> (3:2) dennoch niemals einen <rs ana="#m_note">Ton</rs> erscheinen lassen,
@@ -948,18 +948,18 @@
 				<lb facs="#facs_17_r1l32" n="N019"/>temperirten</rs> <rs ana="#concept_mus">Claviere</rs> als <rs ana="#concept_mus">gleichklingend</rs> angenommen werden.
 			</p>
          </div>
-         <div rend="GRAPHIC" facs="#facs_17_Graphic_1614088063728_634">
+         <div rend="GRAPHIC" facs="#facs_17_Graphic_1614088063728_634" type="floating">
             <figure>
                <graphic url="graphic/facs_17_Graphic_1614088063728_634.png"/>
             </figure>
          </div>
          <pb facs="#facs_18" n="18"/>
-         <div rend="TEI" facs="#facs_18_region_1614088158318_696">
+         <div rend="TEI" facs="#facs_18_region_1614088158318_696" type="page-number">
             <p facs="#facs_18_region_1614088158318_696">
 				<lb facs="#facs_18_line_1614088158405_699" n="N001"/>3
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_18_TextRegion_1614088141605_693">
+         <div rend="TEI" facs="#facs_18_TextRegion_1614088141605_693" type="paragraph">
             <p facs="#facs_18_TextRegion_1614088141605_693">
 				<lb facs="#facs_18_r1l1" n="N001"/>Durch das Aufgeben jener <rs ana="#concept_phy">mathematischen Reinheit</rs> der
 				<lb facs="#facs_18_r1l2" n="N002"/><rs ana="#concept_mus">Tonverhältnisse</rs>, mit Ausnahme der <rs ana="#m_interval">Octaven</rs>, gewinnen wir
@@ -977,12 +977,12 @@
 				<lb facs="#facs_18_r1l14" n="N014"/>hör zu bringen.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_18_TextRegion_1614088141605_692">
+         <div rend="TEI" facs="#facs_18_TextRegion_1614088141605_692" type="heading">
             <p facs="#facs_18_TextRegion_1614088141605_692">
 				<lb facs="#facs_18_r1l15" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;"> <rs ana="#concept_mus"> <rs ana="#concept_phy">Consonanzen</rs></rs>.</hi>
             </p>
          </div>
-         <div rend="TEI" facs="#facs_18_TextRegion_1614088139290_688">
+         <div rend="TEI" facs="#facs_18_TextRegion_1614088139290_688" type="paragraph-continued">
             <p facs="#facs_18_TextRegion_1614088139290_688">
 				<lb facs="#facs_18_r1l16" n="N001"/><rs ana="#concept_mus"> <rs ana="#concept_phy">Consonanzen</rs></rs> nennen wir diejenigen <rs ana="#concept_mus">Zusammenklänge</rs>,
 				<lb facs="#facs_18_r1l17" n="N002"/>welche, wenn sie ohne Verbindung mit anderen <rs ana="#concept_mus">Harmonien</rs> er<pc>¬</pc>
@@ -1009,12 +1009,12 @@
 			</p>
          </div>
          <pb facs="#facs_19" n="19"/>
-         <div rend="TEI" facs="#facs_19_TextRegion_1614088267510_767">
+         <div rend="TEI" facs="#facs_19_TextRegion_1614088267510_767" type="page-number">
             <p facs="#facs_19_TextRegion_1614088267510_767">
 				<lb facs="#facs_19_r1l1" n="N001"/>4
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_19_TextRegion_1614088267510_766">
+         <div rend="TEI" facs="#facs_19_TextRegion_1614088267510_766" type="paragraph">
             <p facs="#facs_19_TextRegion_1614088267510_766">
 				<lb facs="#facs_19_r1l2" n="N001"/>und mehr vergrößert. Unsere weitere Aufgabe wird es also
 				<lb facs="#facs_19_r1l3" n="N002"/>vorzüglich sein, die Berechtigung der bisher noch nicht erklärten
@@ -1022,7 +1022,7 @@
 				<lb facs="#facs_19_r1l5" n="N004"/>stellen.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_19_TextRegion_1614088264199_762">
+         <div rend="TEI" facs="#facs_19_TextRegion_1614088264199_762" type="paragraph">
             <p facs="#facs_19_TextRegion_1614088264199_762">
 				<lb facs="#facs_19_r1l6" n="N001"/>Ueber die <rs ana="#concept_mus">praktische</rs> Anwendung der <rs ana="#concept_mus"> <rs ana="#concept_phy">Consonanzen</rs></rs> aber
 				<lb facs="#facs_19_r1l7" n="N002"/>haben wir vorher noch Folgendes zu bemerken. Da ein jeder
@@ -1041,7 +1041,7 @@
 				<lb facs="#facs_19_r1l20" n="N015"/>übergehen.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_19_TextRegion_1614088251848_758">
+         <div rend="TEI" facs="#facs_19_TextRegion_1614088251848_758" type="paragraph-continued">
             <p facs="#facs_19_TextRegion_1614088251848_758">
 				<lb facs="#facs_19_r1l21" n="N001"/>Wenn in einem <rs ana="#concept_mus">mehrstimmigen</rs> <rs ana="#concept_mus">Satze</rs> zwei oder mehr
 				<lb facs="#facs_19_r1l22" n="N002"/><rs ana="#concept_mus">Stimmen</rs> im <rs ana="#m_interval">Einklange</rs> oder in <rs ana="#m_interval">Octaven</rs> mit einander fort<pc>¬</pc>
@@ -1065,19 +1065,19 @@
 			</p>
          </div>
          <pb facs="#facs_20" n="20"/>
-         <div rend="TEI" facs="#facs_20_region_1614088419317_850">
+         <div rend="TEI" facs="#facs_20_region_1614088419317_850" type="page-number">
             <p facs="#facs_20_region_1614088419317_850">
 				<lb facs="#facs_20_line_1614088419384_853" n="N001"/>5
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_20_TextRegion_1614088381677_841">
+         <div rend="TEI" facs="#facs_20_TextRegion_1614088381677_841" type="paragraph">
             <p facs="#facs_20_TextRegion_1614088381677_841">
 				<lb facs="#facs_20_r1l1" n="N001"/><persName role="composer" ref="P0016"> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Beethoven</hi>'s</persName> „<title ana="#music" ref="W0103">Fidelio</title>” und an die <rs ana="#concept_mus">Verdopplungen</rs> einer da<pc>¬</pc>
 				<lb facs="#facs_20_r1l2" n="N002"/>durch mächtig hervortretenden <rs ana="#concept_mus">Melodie</rs> in <persName role="composer" ref="P0046"> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Liszt</hi>'schen</persName> <rs ana="#concept_mus">Com<pc>¬</pc>
 				<lb facs="#facs_20_r1l3" n="N003"/>positionen</rs>.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_20_TextRegion_1614088381676_840">
+         <div rend="TEI" facs="#facs_20_TextRegion_1614088381676_840" type="paragraph">
             <p facs="#facs_20_TextRegion_1614088381676_840">
 				<lb facs="#facs_20_r1l4" n="N001"/>Den <rs ana="#m_interval">Terzen</rs> und <rs ana="#m_interval">Sexten</rs> hat man von jeher ein freies
 				<lb facs="#facs_20_r1l5" n="N002"/>Auftreten und Fortschreiten gestattet, mit Ausnahme des zu<pc>¬</pc>
@@ -1086,7 +1086,7 @@
 				<lb facs="#facs_20_r1l8" n="N005"/><rs ana="#concept_mus">Meistern</rs> zu keiner Zeit streng beachtet worden ist.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_20_TextRegion_1614088375387_836">
+         <div rend="TEI" facs="#facs_20_TextRegion_1614088375387_836" type="paragraph">
             <p facs="#facs_20_TextRegion_1614088375387_836">
 				<lb facs="#facs_20_r1l9" n="N001"/>Nur den <rs ana="#concept_mus"> <rs ana="#concept_phy">consonirenden</rs></rs> <rs ana="#m_interval">Quinten</rs> verbietet man noch <date>heute</date>,
 				<lb facs="#facs_20_r1l10" n="N002"/>in denselben <rs ana="#concept_mus">Stimmen</rs> unmittelbar auf einander zu folgen, und
@@ -1105,8 +1105,8 @@
 				<lb facs="#facs_20_r1l23" n="N015"/><hi rend="italic:true; fontSize:0.0; kerning:0;"> <persName role="composer" ref="P0016">Beethoven</persName></hi>, <title ana="#music" ref="W0104">Son. Op. 53</title>.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_20_region_1617041071581_420"/>
-         <div rend="TEI" facs="#facs_20_TextRegion_1614088366227_832">
+         <div rend="TEI" facs="#facs_20_region_1617041071581_420" type="missing"/>
+         <div rend="TEI" facs="#facs_20_TextRegion_1614088366227_832" type="paragraph-continued">
             <p facs="#facs_20_TextRegion_1614088366227_832">
 				<lb facs="#facs_20_r1l24" n="N001"/>Die neuere <rs ana="#concept_mus">musikalische Grammatik</rs> kann also ohne Be<pc>¬</pc>
 				<lb facs="#facs_20_r1l25" n="N002"/>denken jenes Verbot <rs ana="#concept_mus">paralleler</rs> <rs ana="#m_interval">Quinten</rs> aufheben, umsomehr,
@@ -1116,23 +1116,23 @@
 			</p>
          </div>
          <pb facs="#facs_21" n="21"/>
-         <div rend="TEI" facs="#facs_21_TextRegion_1614088598979_958">
+         <div rend="TEI" facs="#facs_21_TextRegion_1614088598979_958" type="page-number">
             <p facs="#facs_21_TextRegion_1614088598979_958">
 				<lb facs="#facs_21_r1l1" n="N001"/>6
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_21_TextRegion_1614088598979_957">
+         <div rend="TEI" facs="#facs_21_TextRegion_1614088598979_957" type="paragraph">
             <p facs="#facs_21_TextRegion_1614088598979_957">
 				<lb facs="#facs_21_r1l2" n="N001"/>dige Lehrer eine <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">unschöne</hi> <rs ana="#concept_mus">Quintenfolge</rs> ebensowol wie eine
 				<lb facs="#facs_21_r1l3" n="N002"/>geschmacklose <rs ana="#concept_mus">Terzen-</rs> oder <rs ana="#concept_mus">Sextenfolge</rs> verbessern.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_21_TextRegion_1614088596275_953">
+         <div rend="TEI" facs="#facs_21_TextRegion_1614088596275_953" type="heading">
             <p facs="#facs_21_TextRegion_1614088596275_953">
 				<lb facs="#facs_21_r1l4" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;"> <rs ana="#m_tonality">Dur-Tonart</rs>.</hi>
             </p>
          </div>
-         <div rend="TEI" facs="#facs_21_TextRegion_1614088594138_949">
+         <div rend="TEI" facs="#facs_21_TextRegion_1614088594138_949" type="paragraph-continued">
             <p facs="#facs_21_TextRegion_1614088594138_949">
 				<lb facs="#facs_21_r1l5" n="N001"/>Die <rs ana="#m_note">Töne</rs> einer jeden verständlichen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Melodie</rs></hi> müssen
 				<lb facs="#facs_21_r1l6" n="N002"/><rs ana="#concept_mus">rhythmisch</rs> geordnet sein und sich um einen bestimmten Mittel<pc>¬</pc>
@@ -1145,24 +1145,24 @@
 				<lb facs="#facs_21_r1l13" n="N009"/><rs ana="#concept_mus">Verwandten</rs>, seine <rs ana="#concept_mus">Dominanten</rs> erkennen:
 			</p>
          </div>
-         <div rend="GRAPHIC" facs="#facs_21_Graphic_1614088669690_973">
+         <div rend="GRAPHIC" facs="#facs_21_Graphic_1614088669690_973" type="floating">
             <figure>
                <graphic url="graphic/facs_21_Graphic_1614088669690_973.png"/>
             </figure>
          </div>
-         <div rend="TEI" facs="#facs_21_TextRegion_1614088582936_941">
+         <div rend="TEI" facs="#facs_21_TextRegion_1614088582936_941" type="paragraph">
             <p facs="#facs_21_TextRegion_1614088582936_941">
 				<lb facs="#facs_21_r1l15" n="N001"/>und die auf diesen <rs ana="#m_note">Tönen</rs> ruhenden <rs ana="#m_chord">Dreiklänge</rs> werden ebenso
 				<lb facs="#facs_21_r1l16" n="N002"/>die natürlichsten <rs ana="#m_chord">Nebenaccorde</rs> des <rs ana="#concept_mus">tonischen</rs> oder <rs ana="#m_chord">Hauptaccor<pc>¬</pc>
 				<lb facs="#facs_21_line_1614088580361_939" n="N003"/>des</rs> bilden:
 			</p>
          </div>
-         <div rend="GRAPHIC" facs="#facs_21_Graphic_1614088678799_980">
+         <div rend="GRAPHIC" facs="#facs_21_Graphic_1614088678799_980" type="floating">
             <figure>
                <graphic url="graphic/facs_21_Graphic_1614088678799_980.png"/>
             </figure>
          </div>
-         <div rend="TEI" facs="#facs_21_TextRegion_1614088571839_931">
+         <div rend="TEI" facs="#facs_21_TextRegion_1614088571839_931" type="paragraph-continued">
             <p facs="#facs_21_TextRegion_1614088571839_931">
 				<lb facs="#facs_21_r1l19" n="N001"/>Ein auf solche Weise zum <rs ana="#m_chord">Hauptaccorde</rs> erhobener <rs ana="#m_chord">Drei<pc>¬</pc>
 				<lb facs="#facs_21_r1l20" n="N002"/>klang</rs> bildet nun mit seinen beiden <rs ana="#m_chord">Dominantaccorden</rs> das
@@ -1174,19 +1174,19 @@
 				<lb facs="#facs_21_r1l26" n="N008"/>uns die „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">diatonische</rs></hi>” <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_tonality">Durtonleiter</rs></hi>:
 			</p>
          </div>
-         <div rend="GRAPHIC" facs="#facs_21_Graphic_1614088687541_987">
+         <div rend="GRAPHIC" facs="#facs_21_Graphic_1614088687541_987" type="floating">
             <figure>
                <graphic url="graphic/facs_21_Graphic_1614088687541_987.png"/>
             </figure>
          </div>
-         <div rend="TEI" facs="#facs_21_TextRegion_1614088562636_923">
+         <div rend="TEI" facs="#facs_21_TextRegion_1614088562636_923" type="paragraph">
             <p facs="#facs_21_TextRegion_1614088562636_923">
 				<lb facs="#facs_21_r1l28" n="N001"/>Alle übrigen <rs ana="#m_note">Töne</rs> unseres <rs ana="#concept_mus">Tonsystemes</rs> sind in Beziehung auf
 				<lb facs="#facs_21_r1l29" n="N002"/>diese <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_note">Stammtöne</rs></hi> der <rs ana="#m_tonality">Tonart</rs> „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">chromatische</rs></hi>” oder
 				<lb facs="#facs_21_r1l30" n="N003"/><rs ana="#m_note">Nebentöne</rs>.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_21_TextRegion_1614088557141_919">
+         <div rend="TEI" facs="#facs_21_TextRegion_1614088557141_919" type="paragraph-continued">
             <p facs="#facs_21_TextRegion_1614088557141_919">
 				<lb facs="#facs_21_r1l31" n="N001"/>Die gegenseitigen <rs ana="#concept_mus">Tonverhältnisse</rs> der <rs ana="#m_note">Stammtöne</rs> einer
 				<lb facs="#facs_21_r1l32" n="N002"/>jeden <rs ana="#m_tonality">Dur-</rs> oder <rs ana="#m_tonality">Molltonart</rs> zeigen jederzeit nur „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">große</hi> oder
@@ -1197,12 +1197,12 @@
 			</p>
          </div>
          <pb facs="#facs_22" n="22"/>
-         <div rend="TEI" facs="#facs_22_TextRegion_1614088827822_1098">
+         <div rend="TEI" facs="#facs_22_TextRegion_1614088827822_1098" type="page-number">
             <p facs="#facs_22_TextRegion_1614088827822_1098">
 				<lb facs="#facs_22_r1l1" n="N001"/>7
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_22_TextRegion_1614088827822_1097">
+         <div rend="TEI" facs="#facs_22_TextRegion_1614088827822_1097" type="paragraph">
             <p facs="#facs_22_TextRegion_1614088827822_1097">
 				<lb facs="#facs_22_r1l2" n="N001"/><rs ana="#m_interval">f—c</rs> eine <rs ana="#m_interval">große Quinte</rs> u. s. f. Die <rs ana="#concept_mus">Umkehrung</rs> dieser <rs ana="#concept_mus">Ton<pc>¬</pc>
 				<lb facs="#facs_22_r1l3" n="N002"/>verhältnisse</rs> giebt kleine <rs ana="#m_interval">Intervalle</rs>: <rs ana="#m_interval">g—f</rs> eine <rs ana="#m_interval">kleine Septime</rs>,
@@ -1212,7 +1212,7 @@
 				<lb facs="#facs_22_r1l7" n="N006"/><rs ana="#concept_mus">übermäßigen</rs> ein <rs ana="#concept_mus">vermindertes</rs> <rs ana="#m_interval">Intervall</rs> und ebenso umgekehrt.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_22_TextRegion_1614088825224_1093">
+         <div rend="TEI" facs="#facs_22_TextRegion_1614088825224_1093" type="paragraph-continued">
             <p facs="#facs_22_TextRegion_1614088825224_1093">
 				<lb facs="#facs_22_r1l8" n="N001"/>Außer den beiden mit dem <rs ana="#m_chord">Hauptdreiklange</rs> durch je einen
 				<lb facs="#facs_22_r1l9" n="N002"/>gemeinschaftlichen <rs ana="#m_note">Ton</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">verbundenen</hi> <rs ana="#m_chord">Dominantaccorden</rs>
@@ -1223,12 +1223,12 @@
 				<lb facs="#facs_22_r1l14" n="N007"/><rs ana="#m_note">Grundtöne</rs> mit der <rs ana="#concept_mus">Tonica</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">terzverwandt</rs></hi> sind:
 			</p>
          </div>
-         <div rend="GRAPHIC" facs="#facs_22_Graphic_1614088842134_1102">
+         <div rend="GRAPHIC" facs="#facs_22_Graphic_1614088842134_1102" type="floating">
             <figure>
                <graphic url="graphic/facs_22_Graphic_1614088842134_1102.png"/>
             </figure>
          </div>
-         <div rend="TEI" facs="#facs_22_TextRegion_1614088813760_1085">
+         <div rend="TEI" facs="#facs_22_TextRegion_1614088813760_1085" type="paragraph">
             <p facs="#facs_22_TextRegion_1614088813760_1085">
 				<lb facs="#facs_22_r1l16" n="N001"/>Mit dem <rs ana="#m_chord">Hauptdreiklange</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">unverbunden</hi> finden sich noch vor
 				<lb facs="#facs_22_r1l17" n="N002"/>der „<rs ana="#m_chord">kleine Dreiklang</rs>”: <rs ana="#m_chord">D F a</rs> und der sogenannte „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">vermin<pc>¬</pc></rs></hi>
@@ -1242,19 +1242,19 @@
 				<lb facs="#facs_22_r1l25" n="N010"/>tung</rs> bedürfen.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_22_TextRegion_1614088809494_1081">
+         <div rend="TEI" facs="#facs_22_TextRegion_1614088809494_1081" type="paragraph-continued">
             <p facs="#facs_22_TextRegion_1614088809494_1081">
 				<lb facs="#facs_22_r1l26" n="N001"/>Um die <rs ana="#m_tonality">Durtonart</rs> weicher zu stimmen, wird häufig statt
 				<lb facs="#facs_22_r1l27" n="N002"/>des großen <rs ana="#m_chord">Unterdominantdreiklanges</rs> der kleine, und zu dessen
 				<lb facs="#facs_22_r1l28" n="N003"/>Bildung sodann ein <rs ana="#concept_mus">chromatischer</rs> <rs ana="#m_note">Ton</rs> (<rs ana="#m_note">as</rs>) benutzt:
 			</p>
          </div>
-         <div rend="GRAPHIC" facs="#facs_22_Graphic_1614088930925_1121">
+         <div rend="GRAPHIC" facs="#facs_22_Graphic_1614088930925_1121" type="floating">
             <figure>
                <graphic url="graphic/facs_22_Graphic_1614088930925_1121.png"/>
             </figure>
          </div>
-         <div rend="TEI" facs="#facs_22_TextRegion_1614088793332_1073">
+         <div rend="TEI" facs="#facs_22_TextRegion_1614088793332_1073" type="paragraph-continued">
             <p facs="#facs_22_TextRegion_1614088793332_1073">
 				<lb facs="#facs_22_r1l30" n="N001"/>Da wir aber nur die <rs ana="#concept_mus">Schritte</rs> eines <rs ana="#m_interval">Ganz-</rs> oder <rs ana="#m_interval">Halbtones</rs>
 				<lb facs="#facs_22_line_1614088985723_1184" n="N002"/>als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">melodische</rs></hi>, alle übrigen aber als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">harmonische</rs></hi>
@@ -1262,24 +1262,24 @@
 				<lb facs="#facs_22_r1l34" n="N004"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_tonality">Durtonart</rs></hi>”
 			</p>
          </div>
-         <div rend="GRAPHIC" facs="#facs_22_Graphic_1614088940530_1128">
+         <div rend="GRAPHIC" facs="#facs_22_Graphic_1614088940530_1128" type="floating">
             <figure>
                <graphic url="graphic/facs_22_Graphic_1614088940530_1128.png"/>
             </figure>
          </div>
-         <div rend="TEI" facs="#facs_22_TextRegion_1614088783279_1065">
+         <div rend="TEI" facs="#facs_22_TextRegion_1614088783279_1065" type="paragraph-continued">
             <p facs="#facs_22_TextRegion_1614088783279_1065">
 				<lb facs="#facs_22_r1l36" n="N001"/>des <rs ana="#concept_mus">Sprunges</rs> von <rs ana="#m_note">as</rs> zu <rs ana="#m_note">h</rs> wegen, keine zusammenhängende
 				<lb facs="#facs_22_r1l37" n="N002"/><rs ana="#concept_mus">melodische Folge</rs>, und während eine <rs ana="#concept_mus">diatonische</rs> <rs ana="#m_tonality">Tonleiter</rs> zu
 			</p>
          </div>
          <pb facs="#facs_23" n="23"/>
-         <div rend="TEI" facs="#facs_23_TextRegion_1614089037198_1216">
+         <div rend="TEI" facs="#facs_23_TextRegion_1614089037198_1216" type="page-number">
             <p facs="#facs_23_TextRegion_1614089037198_1216">
 				<lb facs="#facs_23_r1l1" n="N001"/>8
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_23_TextRegion_1614089037198_1215">
+         <div rend="TEI" facs="#facs_23_TextRegion_1614089037198_1215" type="paragraph-continued">
             <p facs="#facs_23_TextRegion_1614089037198_1215">
 				<lb facs="#facs_23_r1l2" n="N001"/>jeder <rs ana="#concept_mus">Harmonie</rs> der <rs ana="#m_tonality">Tonart</rs> auftreten kann, würden hier die
 				<lb facs="#facs_23_r1l3" n="N002"/><rs ana="#m_note">Töne</rs> <rs ana="#m_note">as</rs> und <rs ana="#m_note">h</rs> entweder zwei verschiedenen <rs ana="#concept_mus">Harmonien</rs> ange<pc>¬</pc>
@@ -1288,8 +1288,8 @@
 				<lb facs="#facs_23_r1l6" n="N005"/><rs ana="#m_note">Durchgangston</rs> aufgefaßt werden müssen (3); z. B.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_23_Music_1614089062057_1227" source="facs_23_Music_1614089062057_1227.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_23_TextRegion_1614089026678_1207">
+         <div rend="MEI" facs="#facs_23_Music_1614089062057_1227" source="facs_23_Music_1614089062057_1227.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_23_TextRegion_1614089026678_1207" type="paragraph">
             <p facs="#facs_23_TextRegion_1614089026678_1207">
 				<lb facs="#facs_23_r1l33" n="N001"/>Das Beispiel 4 aber ist unzulässig, weil die beiden <rs ana="#m_note">Durch<pc>¬</pc>
 				<lb facs="#facs_23_r1l34" n="N002"/>gangstöne</rs> <rs ana="#m_note">as</rs> und <rs ana="#m_note">h</rs> hier keinen <rs ana="#concept_mus">melodischen Zusammenhang</rs>
@@ -1298,7 +1298,7 @@
 				<lb facs="#facs_23_r1l37" n="N005"/>versehene hinauf- oder herabsteigende <rs ana="#m_tonality">Tonleiter</rs> unterworfen sein.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_23_TextRegion_1614089022486_1203">
+         <div rend="TEI" facs="#facs_23_TextRegion_1614089022486_1203" type="paragraph-continued">
             <p facs="#facs_23_TextRegion_1614089022486_1203">
 				<lb facs="#facs_23_r1l38" n="N001"/>Nur durch einen <rs ana="#concept_mus">chromatischen</rs> <rs ana="#m_note">Ton</rs> können in der <rs ana="#m_tonality">Ton<pc>¬</pc>
 				<lb facs="#facs_23_r1l39" n="N002"/>art</rs> <rs ana="#concept_mus">übermäßige</rs> und <rs ana="#concept_mus">verminderte</rs> <rs ana="#m_interval">Intervalle</rs> zur Erscheinung
@@ -1308,12 +1308,12 @@
 			</p>
          </div>
          <pb facs="#facs_24" n="24"/>
-         <div rend="TEI" facs="#facs_24_TextRegion_1614089186343_1304">
+         <div rend="TEI" facs="#facs_24_TextRegion_1614089186343_1304" type="page-number">
             <p facs="#facs_24_TextRegion_1614089186343_1304">
 				<lb facs="#facs_24_r2l1" n="N001"/>9
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_24_TextRegion_1614089186343_1303">
+         <div rend="TEI" facs="#facs_24_TextRegion_1614089186343_1303" type="paragraph">
             <p facs="#facs_24_TextRegion_1614089186343_1303">
 				<lb facs="#facs_24_r2l2" n="N001"/><rs ana="#m_interval">übermäßige Quinte</rs> <rs ana="#m_interval">as—e</rs> und deren <rs ana="#concept_mus">Umkehrung</rs>, die <rs ana="#m_interval">vermin<pc>¬</pc>
 				<lb facs="#facs_24_r2l3" n="N002"/>derte Quarte</rs> <rs ana="#m_interval">e—as</rs>. Endlich tritt hier auch neben dem <rs ana="#m_chord">ver<pc>¬</pc>
@@ -1323,7 +1323,7 @@
 				<lb facs="#facs_24_r2l7" n="N006"/><rs ana="#m_note">Tönen</rs> entstehen, später noch besonders in Betracht ziehen werden.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_24_TextRegion_1614089183508_1299">
+         <div rend="TEI" facs="#facs_24_TextRegion_1614089183508_1299" type="paragraph">
             <p facs="#facs_24_TextRegion_1614089183508_1299">
 				<lb facs="#facs_24_r2l8" n="N001"/>Wie aber die <rs ana="#m_tonality">weichere Durtonart</rs> hier den <rs ana="#concept_mus">chromatischen</rs>
 				<lb facs="#facs_24_r2l10" n="N002"/><rs ana="#m_note">Ton</rs> <rs ana="#m_note">as</rs> benutzte, so kann eine jede <rs ana="#m_tonality">Tonart</rs> außer ihren <rs ana="#m_note">Stamm<pc>¬</pc>
@@ -1333,13 +1333,13 @@
 				<lb facs="#facs_24_r2l14" n="N006"/>reicheres <rs ana="#concept_mus">Colorit</rs> zu geben; z. B.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_24_Music_1614089210006_1310" source="facs_24_Music_1614089210006_1310.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_24_TextRegion_1614089170889_1291">
+         <div rend="MEI" facs="#facs_24_Music_1614089210006_1310" source="facs_24_Music_1614089210006_1310.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_24_TextRegion_1614089170889_1291" type="heading">
             <p facs="#facs_24_TextRegion_1614089170889_1291">
 				<lb facs="#facs_24_r2l30" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;"> <rs ana="#m_tonality">Moll-Tonart</rs>.</hi>
             </p>
          </div>
-         <div rend="TEI" facs="#facs_24_TextRegion_1614089167541_1287">
+         <div rend="TEI" facs="#facs_24_TextRegion_1614089167541_1287" type="paragraph-continued">
             <p facs="#facs_24_TextRegion_1614089167541_1287">
 				<lb facs="#facs_24_line_1614089293169_1364" n="N001"/>Erheben wir einen <rs ana="#m_chord">Molldreiklang</rs> zum <rs ana="#m_chord">Hauptaccorde,</rs>
 				<lb facs="#facs_24_line_1614089305698_1374" n="N002"/>indem wir ihn mit den <rs ana="#m_chord">Molldreiklängen</rs> seiner <rs ana="#concept_mus">Unter-</rs> und
@@ -1347,12 +1347,12 @@
 				<lb facs="#facs_24_r2l37" n="N004"/><rs ana="#concept_mus">System</rs> der <rs ana="#m_tonality">Molltonart</rs>:
 			</p>
          </div>
-         <div rend="GRAPHIC" facs="#facs_24_Graphic_1614089238751_1321">
+         <div rend="GRAPHIC" facs="#facs_24_Graphic_1614089238751_1321" type="floating">
             <figure>
                <graphic url="graphic/facs_24_Graphic_1614089238751_1321.png"/>
             </figure>
          </div>
-         <div rend="TEI" facs="#facs_24_TextRegion_1614089159916_1279">
+         <div rend="TEI" facs="#facs_24_TextRegion_1614089159916_1279" type="paragraph-continued">
             <p facs="#facs_24_TextRegion_1614089159916_1279">
 				<lb facs="#facs_24_r2l39" n="N001"/>Diese, in ihren <rs ana="#concept_mus">Hauptmomenten</rs> in <rs ana="#m_chord">weichen Dreiklängen</rs> auf<pc>¬</pc>
 				<lb facs="#facs_24_r2l40" n="N002"/>tretende <rs ana="#m_tonality">Tonart</rs> ist trüben und schwermüthigen Charakters,
@@ -1369,23 +1369,23 @@
             </p>
          </div>
          <pb facs="#facs_25" n="25"/>
-         <div rend="TEI" facs="#facs_25_TextRegion_1614089420992_1472">
+         <div rend="TEI" facs="#facs_25_TextRegion_1614089420992_1472" type="page-number">
             <p facs="#facs_25_TextRegion_1614089420992_1472">
 				<lb facs="#facs_25_r2l1" n="N001"/>10
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_25_TextRegion_1614089420992_1471">
+         <div rend="TEI" facs="#facs_25_TextRegion_1614089420992_1471" type="paragraph-continued">
             <p facs="#facs_25_TextRegion_1614089420992_1471">
 				<lb facs="#facs_25_r2l2" n="N001"/>herab, ebenfalls mit einem <rs ana="#m_interval">Halbtone</rs> in die <rs ana="#m_interval">Octave</rs> ihres Aus<pc>¬</pc>
 				<lb facs="#facs_25_r2l3" n="N002"/>gangspunctes leitend:
 			</p>
          </div>
-         <div rend="GRAPHIC" facs="#facs_25_Graphic_1614089487429_1491">
+         <div rend="GRAPHIC" facs="#facs_25_Graphic_1614089487429_1491" type="floating">
             <figure>
                <graphic url="graphic/facs_25_Graphic_1614089487429_1491.png"/>
             </figure>
          </div>
-         <div rend="TEI" facs="#facs_25_TextRegion_1614089413767_1463">
+         <div rend="TEI" facs="#facs_25_TextRegion_1614089413767_1463" type="paragraph-continued">
             <p facs="#facs_25_TextRegion_1614089413767_1463">
 				<lb facs="#facs_25_r2l5" n="N001"/>Die <rs ana="#m_tonality">Durtonart</rs> zeigte zwei <rs ana="#concept_mus">quintverwandte</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">große</hi>, die <rs ana="#m_tonality">Moll<pc>¬</pc>
 				<lb facs="#facs_25_r2l6" n="N002"/>tonart</rs> zeigt ebenso zwei <rs ana="#concept_mus">quintverwandte</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">kleine</hi> <rs ana="#m_chord">Dreiklänge</rs>
@@ -1395,19 +1395,19 @@
 				<lb facs="#facs_25_r2l11" n="N006"/><rs ana="#m_chord">C e G</rs> vor:
 			</p>
          </div>
-         <div rend="GRAPHIC" facs="#facs_25_Graphic_1614089496104_1498">
+         <div rend="GRAPHIC" facs="#facs_25_Graphic_1614089496104_1498" type="floating">
             <figure>
                <graphic url="graphic/facs_25_Graphic_1614089496104_1498.png"/>
             </figure>
          </div>
-         <div rend="TEI" facs="#facs_25_TextRegion_1614089398580_1455">
+         <div rend="TEI" facs="#facs_25_TextRegion_1614089398580_1455" type="paragraph">
             <p facs="#facs_25_TextRegion_1614089398580_1455">
 				<lb facs="#facs_25_r2l13" n="N001"/>Endlich erscheinen in der <rs ana="#m_tonality">Molltonart</rs> noch, unverbunden mit
 				<lb facs="#facs_25_r2l14" n="N002"/>dem <rs ana="#concept_mus">tonischen</rs> <rs ana="#m_chord">Dreiklange</rs>, ein <rs ana="#m_chord">Durdreiklang</rs> <rs ana="#m_chord">g H D</rs> und ein
 				<lb facs="#facs_25_r2l15" n="N003"/><rs ana="#m_chord">verminderter Dreiklang</rs> <rs ana="#m_chord">H D f</rs>.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_25_TextRegion_1614089394818_1451">
+         <div rend="TEI" facs="#facs_25_TextRegion_1614089394818_1451" type="paragraph-continued">
             <p facs="#facs_25_TextRegion_1614089394818_1451">
 				<lb facs="#facs_25_r2l16" n="N001"/>Wenn, wie oben bemerkt, die <rs ana="#m_tonality">Durtonart</rs> zuweilen durch
 				<lb facs="#facs_25_r2l17" n="N002"/>den <rs ana="#concept_mus">weichen</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">Unterdominantdreiklang</rs></hi> milder gestimmt wird,
@@ -1415,23 +1415,23 @@
 				<lb facs="#facs_25_r2l19" n="N004"/>ten</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">Oberdominantdreiklang</rs></hi> gestaltet:
 			</p>
          </div>
-         <div rend="GRAPHIC" facs="#facs_25_Graphic_1614089504099_1505">
+         <div rend="GRAPHIC" facs="#facs_25_Graphic_1614089504099_1505" type="floating">
             <figure>
                <graphic url="graphic/facs_25_Graphic_1614089504099_1505.png"/>
             </figure>
          </div>
-         <div rend="TEI" facs="#facs_25_TextRegion_1614089386152_1443">
+         <div rend="TEI" facs="#facs_25_TextRegion_1614089386152_1443" type="paragraph-continued">
             <p facs="#facs_25_TextRegion_1614089386152_1443">
 				<lb facs="#facs_25_r2l21" n="N001"/>Die <rs ana="#m_tonality">melodische Tonleiter</rs> dieser „<rs ana="#m_tonality">härteren Molltonart</rs>” ist die
 				<lb facs="#facs_25_r2l22" n="N002"/>folgende:
 			</p>
          </div>
-         <div rend="GRAPHIC" facs="#facs_25_Graphic_1614089513268_1512">
+         <div rend="GRAPHIC" facs="#facs_25_Graphic_1614089513268_1512" type="floating">
             <figure>
                <graphic url="graphic/facs_25_Graphic_1614089513268_1512.png"/>
             </figure>
          </div>
-         <div rend="TEI" facs="#facs_25_TextRegion_1614089375776_1435">
+         <div rend="TEI" facs="#facs_25_TextRegion_1614089375776_1435" type="paragraph">
             <p facs="#facs_25_TextRegion_1614089375776_1435">
 				<lb facs="#facs_25_r2l24" n="N001"/>und ihre <rs ana="#concept_mus">harmonische Begleitung</rs> ist wegen des <rs ana="#concept_mus">unmelodischen</rs>
 				<lb facs="#facs_25_r2l25" n="N002"/><rs ana="#m_interval">übermäßigen Schrittes</rs> <rs ana="#m_interval">gis—f</rs>, welcher durch den <rs ana="#concept_mus">chromatischen</rs>
@@ -1445,29 +1445,29 @@
 				<lb facs="#facs_25_r2l33" n="N010"/>unseres <rs ana="#concept_mus">Tonsystemes</rs> als <rs ana="#concept_mus">chromatische</rs> <rs ana="#m_note">Nebentöne</rs> benutzen.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_25_TextRegion_1614089370548_1431">
+         <div rend="TEI" facs="#facs_25_TextRegion_1614089370548_1431" type="heading">
             <p facs="#facs_25_TextRegion_1614089370548_1431">
 				<lb facs="#facs_25_r2l34" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;"> <rs ana="#concept_mus">Dreiklangs-Folgen</rs>.</hi>
             </p>
          </div>
-         <div rend="TEI" facs="#facs_25_TextRegion_1614089367973_1427">
+         <div rend="TEI" facs="#facs_25_TextRegion_1614089367973_1427" type="paragraph-continued">
             <p facs="#facs_25_TextRegion_1614089367973_1427">
 				<lb facs="#facs_25_r2l35" n="N001"/>Zwei auf einander folgende <rs ana="#m_chord">Dreiklänge</rs> haben entweder
 			</p>
          </div>
          <pb facs="#facs_26" n="26"/>
-         <div rend="TEI" facs="#facs_26_TextRegion_1614089637996_1608">
+         <div rend="TEI" facs="#facs_26_TextRegion_1614089637996_1608" type="page-number">
             <p facs="#facs_26_TextRegion_1614089637996_1608">
 				<lb facs="#facs_26_r1l1" n="N001"/>11
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_26_TextRegion_1614089637996_1607">
+         <div rend="TEI" facs="#facs_26_TextRegion_1614089637996_1607" type="paragraph">
             <p facs="#facs_26_TextRegion_1614089637996_1607">
 				<lb facs="#facs_26_r1l2" n="N001"/>alle drei, zwei, einen oder keinen <rs ana="#m_note">Ton</rs> mit einander gemein<pc>¬</pc>
 				<lb facs="#facs_26_r1l3" n="N002"/>schaftlich.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_26_TextRegion_1614089635914_1603">
+         <div rend="TEI" facs="#facs_26_TextRegion_1614089635914_1603" type="paragraph-continued">
             <p facs="#facs_26_TextRegion_1614089635914_1603">
 				<lb facs="#facs_26_r1l4" n="N001"/>Im ersten Falle tritt derselbe <rs ana="#m_chord">Accord</rs> zweimal hinter
 				<lb facs="#facs_26_r1l5" n="N002"/>einander auf, und seine verschiedenen <rs ana="#concept_mus">Stimmen</rs> können dabei
@@ -1475,8 +1475,8 @@
 				<lb facs="#facs_26_r1l7" n="N004"/>oder fallend wechseln; z. B.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_26_Music_1614089695882_1622" source="facs_26_Music_1614089695882_1622.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_26_TextRegion_1614089626734_1595">
+         <div rend="MEI" facs="#facs_26_Music_1614089695882_1622" source="facs_26_Music_1614089695882_1622.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_26_TextRegion_1614089626734_1595" type="paragraph">
             <p facs="#facs_26_TextRegion_1614089626734_1595">
 				<lb facs="#facs_26_r1l22" n="N001"/>Hierbei ist zu bemerken, daß der <rs ana="#m_chord">Dreiklang</rs> in seiner <rs ana="#concept_mus">Grund<pc>¬</pc>
 				<lb facs="#facs_26_r1l23" n="N002"/>lage</rs> die meiste, in der <rs ana="#concept_mus">Terzsext-Lage</rs> weniger, und in der <rs ana="#concept_mus">Quart<pc>¬</pc>
@@ -1486,7 +1486,7 @@
 				<lb facs="#facs_26_r1l27" n="N006"/>gebildet werden können.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_26_TextRegion_1614089622751_1591">
+         <div rend="TEI" facs="#facs_26_TextRegion_1614089622751_1591" type="paragraph-continued">
             <p facs="#facs_26_TextRegion_1614089622751_1591">
 				<lb facs="#facs_26_r1l28" n="N001"/>Haben zwei auf einander folgende <rs ana="#m_chord">Dreiklänge</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">zwei</hi> <rs ana="#m_note">Töne</rs>
 				<lb facs="#facs_26_r1l29" n="N002"/>gemeinschaftlich, so werden eben diese die natürlichsten verbin<pc>¬</pc>
@@ -1495,8 +1495,8 @@
 				<lb facs="#facs_26_r1l32" n="N005"/>übergehen:
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_26_Music_1614089713242_1629" source="facs_26_Music_1614089713242_1629.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_26_TextRegion_1614089614216_1583">
+         <div rend="MEI" facs="#facs_26_Music_1614089713242_1629" source="facs_26_Music_1614089713242_1629.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_26_TextRegion_1614089614216_1583" type="paragraph-continued">
             <p facs="#facs_26_TextRegion_1614089614216_1583">
 				<lb facs="#facs_26_r1l69" n="N001"/>Schon bei einer solchen natürlichen <rs ana="#concept_mus">Folge</rs> von <rs ana="#m_chord">Dreiklängen</rs>
 				<lb facs="#facs_26_r1l70" n="N002"/>wird die Nothwendigkeit einer vierten <rs ana="#concept_mus">Stimme</rs> fühlbar, um den
@@ -1504,42 +1504,42 @@
             </p>
          </div>
          <pb facs="#facs_27" n="27"/>
-         <div rend="TEI" facs="#facs_27_TextRegion_1614089857798_1720">
+         <div rend="TEI" facs="#facs_27_TextRegion_1614089857798_1720" type="page-number">
             <p facs="#facs_27_TextRegion_1614089857798_1720">
 				<lb facs="#facs_27_r1l1" n="N001"/>12
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_27_TextRegion_1614089857798_1719">
+         <div rend="TEI" facs="#facs_27_TextRegion_1614089857798_1719" type="paragraph-continued">
             <p facs="#facs_27_TextRegion_1614089857798_1719">
 				<lb facs="#facs_27_r1l2" n="N001"/><rs ana="#concept_mus">lage</rs> nicht vermeiden können, eine festere Basis in dem <rs ana="#m_note">Grund<pc>¬</pc>
 				<lb facs="#facs_27_r1l3" n="N002"/>tone</rs> oder in der <rs ana="#m_interval">Terze</rs> zu geben; z. B.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_27_Music_1614089910097_1739" source="facs_27_Music_1614089910097_1739.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_27_TextRegion_1614089850893_1711">
+         <div rend="MEI" facs="#facs_27_Music_1614089910097_1739" source="facs_27_Music_1614089910097_1739.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_27_TextRegion_1614089850893_1711" type="paragraph-continued">
             <p facs="#facs_27_TextRegion_1614089850893_1711">
 				<lb facs="#facs_27_r1l11" n="N001"/>Wie hier durch den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_note">Grundton</rs></hi>, so können diese <rs ana="#m_chord">Dreiklänge</rs>
 				<lb facs="#facs_27_r1l12" n="N002"/>auch durch die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_interval">Terze</rs></hi>, oder durch beide <rs ana="#m_note">Töne</rs> abwechselnd basirt
 				<lb facs="#facs_27_r1l13" n="N003"/>werden; z. B.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_27_Music_1614089920603_1746" source="facs_27_Music_1614089920603_1746.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_27_TextRegion_1614089839268_1703">
+         <div rend="MEI" facs="#facs_27_Music_1614089920603_1746" source="facs_27_Music_1614089920603_1746.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_27_TextRegion_1614089839268_1703" type="paragraph">
             <p facs="#facs_27_TextRegion_1614089839268_1703">
 				<lb facs="#facs_27_r1l24" n="N001"/>Ein bestimmter <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Schlußfall</rs></hi> aber wird durch <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">terzverwandte</rs></hi>
 				<lb facs="#facs_27_r1l25" n="N002"/><rs ana="#m_chord">Dreiklänge</rs> nicht herbeigeführt, selbst wenn, wie hier, der <rs ana="#concept_mus">Baß</rs>
 				<lb facs="#facs_27_line_1614089834668_1701" n="N003"/>einen <rs ana="#m_interval">Quintenschritt</rs> nimmt.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_27_TextRegion_1614089834644_1697">
+         <div rend="TEI" facs="#facs_27_TextRegion_1614089834644_1697" type="paragraph-continued">
             <p facs="#facs_27_TextRegion_1614089834644_1697">
 				<lb facs="#facs_27_r1l27" n="N001"/>Bei einer <rs ana="#concept_mus">Folge</rs> von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus"> <rs ana="#concept_phy">consonirenden</rs></rs></hi> <rs ana="#m_chord">Accorden</rs> ist außer
 				<lb facs="#facs_27_r1l28" n="N002"/>der hier gegebenen natürlichsten <rs ana="#concept_mus">Stimmenführung</rs> eine jede
 				<lb facs="#facs_27_r1l29" n="N003"/>andere für zweckmäßig erachtete zulässig; z. B.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_27_Music_1614089929723_1753" source="facs_27_Music_1614089929723_1753.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_27_TextRegion_1614089826717_1689">
+         <div rend="MEI" facs="#facs_27_Music_1614089929723_1753" source="facs_27_Music_1614089929723_1753.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_27_TextRegion_1614089826717_1689" type="paragraph">
             <p facs="#facs_27_TextRegion_1614089826717_1689">
 				<lb facs="#facs_27_r1l36" n="N001"/>wobei noch zu bemerken ist, daß bei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">verbundenen</rs></hi> <rs ana="#m_chord">Dreiklängen</rs>
 				<lb facs="#facs_27_r1l37" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">verdeckte</rs></hi> <rs ana="#m_interval">Octaven</rs> und <rs ana="#m_interval">Quinten</rs> selbst im strengsten Style
@@ -1548,13 +1548,13 @@
 			</p>
          </div>
          <pb facs="#facs_28" n="28"/>
-         <div rend="TEI" facs="#facs_28_TextRegion_1614090049943_1835">
+         <div rend="TEI" facs="#facs_28_TextRegion_1614090049943_1835" type="page-number">
             <p facs="#facs_28_TextRegion_1614090049943_1835">
 				<lb facs="#facs_28_r1l1" n="N001"/>13
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_28_region_1617041265715_467"/>
-         <div rend="TEI" facs="#facs_28_TextRegion_1614090046808_1830">
+         <div rend="TEI" facs="#facs_28_region_1617041265715_467" type="missing"/>
+         <div rend="TEI" facs="#facs_28_TextRegion_1614090046808_1830" type="paragraph-continued">
             <p facs="#facs_28_TextRegion_1614090046808_1830">
 				<lb facs="#facs_28_r1l2" n="N001"/><rs ana="#concept_mus">Quintenverwandte</rs> <rs ana="#m_chord">Dreiklänge</rs> haben jederzeit <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">einen</hi> <rs ana="#m_note">Ton</rs>
 				<lb facs="#facs_28_r1l3" n="N002"/>mit einander gemeinschaftlich. Dieser bildet nun die natürlichste
@@ -1562,8 +1562,8 @@
 				<lb facs="#facs_28_r1l5" n="N004"/><rs ana="#concept_mus">melodisch</rs> fortschreitend in den folgenden <rs ana="#m_chord">Dreiklang</rs> übergehen:
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_28_Music_1614090092192_1851" source="facs_28_Music_1614090092192_1851.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_28_TextRegion_1614090036193_1822">
+         <div rend="MEI" facs="#facs_28_Music_1614090092192_1851" source="facs_28_Music_1614090092192_1851.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_28_TextRegion_1614090036193_1822" type="paragraph">
             <p facs="#facs_28_TextRegion_1614090036193_1822">
 				<lb facs="#facs_28_r1l46" n="N001"/>Auch diese <rs ana="#m_chord">Accorde</rs> bedürfen, der hier ebenfalls auftretenden
 				<lb facs="#facs_28_r1l47" n="N002"/><rs ana="#m_chord">Quartsextaccorde</rs> wegen, der <rs ana="#concept_mus">Basirung</rs> durch eine vierte <rs ana="#concept_mus">Stimme</rs>,
@@ -1571,8 +1571,8 @@
 				<lb facs="#facs_28_r1l49" n="N004"/><rs ana="#m_interval">Terze</rs> finden; z. B.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_28_Music_1614090114911_1858" source="facs_28_Music_1614090114911_1858.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_28_TextRegion_1614090026752_1814">
+         <div rend="MEI" facs="#facs_28_Music_1614090114911_1858" source="facs_28_Music_1614090114911_1858.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_28_TextRegion_1614090026752_1814" type="paragraph">
             <p facs="#facs_28_TextRegion_1614090026752_1814">
 				<lb facs="#facs_28_r1l68" n="N001"/>Die <rs ana="#concept_mus">verdeckten</rs> <rs ana="#m_interval">Octaven</rs> und <rs ana="#m_interval">Quinten</rs> sind auch hier, bei natür<pc>¬</pc>
 				<lb facs="#facs_28_r1l69" n="N002"/>lichster <rs ana="#concept_mus">Stimmenführung</rs>, sobald der <rs ana="#m_interval">Quintenschritt</rs> des <rs ana="#m_note">Grund<pc>¬</pc>
@@ -1582,21 +1582,21 @@
 			</p>
          </div>
          <pb facs="#facs_29" n="29"/>
-         <div rend="TEI" facs="#facs_29_TextRegion_1614090183179_1914">
+         <div rend="TEI" facs="#facs_29_TextRegion_1614090183179_1914" type="page-number">
             <p facs="#facs_29_TextRegion_1614090183179_1914">
 				<lb facs="#facs_29_r1l1" n="N001"/>14
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_29_Music_1614090198767_1918" source="facs_29_Music_1614090198767_1918.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_29_TextRegion_1614090180764_1909">
+         <div rend="MEI" facs="#facs_29_Music_1614090198767_1918" source="facs_29_Music_1614090198767_1918.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_29_TextRegion_1614090180764_1909" type="paragraph">
             <p facs="#facs_29_TextRegion_1614090180764_1909">
 				<lb facs="#facs_29_r1l11" n="N001"/>Alle diejenigen <rs ana="#m_chord">Dreiklänge</rs>, deren <rs ana="#m_note">Grundbässe</rs> im <rs ana="#concept_mus">Verhält<pc>¬</pc>
 				<lb facs="#facs_29_r1l12" n="N002"/>nisse</rs> einer <rs ana="#m_interval">Secunde</rs> zu einander stehen, sind, da sie <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">keinen</hi>
 				<lb facs="#facs_29_r1l13" n="N003"/><rs ana="#m_note">Ton</rs> mit einander gemeinschaftlich haben, <rs ana="#concept_mus">unverbunden</rs>:
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_29_Music_1614090213669_1926" source="facs_29_Music_1614090213669_1926.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_29_TextRegion_1614090175468_1901">
+         <div rend="MEI" facs="#facs_29_Music_1614090213669_1926" source="facs_29_Music_1614090213669_1926.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_29_TextRegion_1614090175468_1901" type="paragraph-continued">
             <p facs="#facs_29_TextRegion_1614090175468_1901">
 				<lb facs="#facs_29_r1l42" n="N001"/>Auch bei dieser <rs ana="#concept_mus">Accordfolge</rs> kann sowol der <rs ana="#m_note">Grundton</rs> als
 				<lb facs="#facs_29_r1l43" n="N002"/>die <rs ana="#m_interval">Terze</rs> zur <rs ana="#concept_mus">Basis</rs> benutzt werden, wobei jedoch zu bemerken
@@ -1606,15 +1606,15 @@
 				<lb facs="#facs_29_r1l47" n="N006"/>und deßhalb zu vermeiden sind.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_29_Music_1614090246230_1940" source="facs_29_Music_1614090246230_1940.mei"><p>MUSIK</p></div>
+         <div rend="MEI" facs="#facs_29_Music_1614090246230_1940" source="facs_29_Music_1614090246230_1940.mei" type="floating"><p>MUSIK</p></div>
          <pb facs="#facs_30" n="30"/>
-         <div rend="TEI" facs="#facs_30_TextRegion_1614090348389_2003">
+         <div rend="TEI" facs="#facs_30_TextRegion_1614090348389_2003" type="page-number">
             <p facs="#facs_30_TextRegion_1614090348389_2003">
 				<lb facs="#facs_30_r1l1" n="N001"/>15
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_30_Music_1614090405263_2014" source="facs_30_Music_1614090405263_2014.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_30_TextRegion_1614090344965_1998">
+         <div rend="MEI" facs="#facs_30_Music_1614090405263_2014" source="facs_30_Music_1614090405263_2014.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_30_TextRegion_1614090344965_1998" type="paragraph">
             <p facs="#facs_30_TextRegion_1614090344965_1998">
 				<lb facs="#facs_30_r1l12" n="N001"/>Ebenso klingt die <rs ana="#concept_mus">Verdopplung</rs> des <rs ana="#m_note">Grundtones</rs> des <rs ana="#m_chord">verminder<pc>¬</pc>
 				<lb facs="#facs_30_r1l13" n="N002"/>ten Dreiklanges</rs>, auch wenn er nicht als <rs ana="#concept_mus"> <rs ana="#m_note">Leiteton</rs></rs> erscheint, wie
@@ -1623,12 +1623,12 @@
 				<lb facs="#facs_30_r1l16" n="N005"/>am wohlklingendsten ist.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_30_TextRegion_1614090337914_1994">
+         <div rend="TEI" facs="#facs_30_TextRegion_1614090337914_1994" type="heading">
             <p facs="#facs_30_TextRegion_1614090337914_1994">
 				<lb facs="#facs_30_r1l17" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;"> <rs ana="#concept_mus">Verwandtschaft</rs> der <rs ana="#m_chord">Accorde</rs> und der <rs ana="#m_tonality">Tonarten</rs>.</hi>
             </p>
          </div>
-         <div rend="TEI" facs="#facs_30_TextRegion_1614090333721_1990">
+         <div rend="TEI" facs="#facs_30_TextRegion_1614090333721_1990" type="paragraph">
             <p facs="#facs_30_TextRegion_1614090333721_1990">
 				<lb facs="#facs_30_r1l18" n="N001"/>Die bisher betrachteten <rs ana="#concept_mus"> <rs ana="#concept_phy">consonirenden</rs></rs> <rs ana="#m_chord">Accorde</rs> und deren
 				<lb facs="#facs_30_r1l19" n="N002"/>natürlichste <rs ana="#concept_mus">Fortschreitungen</rs> gehören der classischen sowol wie
@@ -1647,7 +1647,7 @@
 				<lb facs="#facs_30_r1l32" n="N015"/><rs ana="#concept_mus">Verwandtschaft</rs> nachzuweisen sein wird.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_30_TextRegion_1614090326363_1986">
+         <div rend="TEI" facs="#facs_30_TextRegion_1614090326363_1986" type="paragraph-continued">
             <p facs="#facs_30_TextRegion_1614090326363_1986">
 				<lb facs="#facs_30_r1l33" n="N001"/>Die <rs ana="#concept_mus">Verwandtschaft</rs> der <rs ana="#m_tonality">Tonarten</rs> nach Graden ist die<pc>¬</pc>
 				<lb facs="#facs_30_r1l34" n="N002"/>jenige, wo die größte Aehnlichkeit derselben in ihren <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_note">Stamm<pc>¬</pc></rs></hi>
@@ -1661,12 +1661,12 @@
             </p>
          </div>
          <pb facs="#facs_31" n="31"/>
-         <div rend="TEI" facs="#facs_31_TextRegion_1614090487078_2087">
+         <div rend="TEI" facs="#facs_31_TextRegion_1614090487078_2087" type="page-number">
             <p facs="#facs_31_TextRegion_1614090487078_2087">
 				<lb facs="#facs_31_r1l1" n="N001"/>16
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_31_TextRegion_1614090487077_2086">
+         <div rend="TEI" facs="#facs_31_TextRegion_1614090487077_2086" type="paragraph">
             <p facs="#facs_31_TextRegion_1614090487077_2086">
 				<lb facs="#facs_31_r1l2" n="N001"/><rs ana="#concept_mus">wandtschaftsgrades</rs> angesehen werden. Lassen wir demnach den
 				<lb facs="#facs_31_r1l3" n="N002"/><rs ana="#m_note">Hauptton</rs> einer <rs ana="#m_tonality">Dur</rs>- oder einer <rs ana="#m_tonality">Molltonart</rs> um eine <rs ana="#m_interval">Quinte</rs>
@@ -1684,7 +1684,7 @@
 				<lb facs="#facs_31_r1l15" n="N014"/>als <rs ana="#concept_mus">verbundene</rs>, <rs ana="#concept_mus">terzverwandte</rs> <rs ana="#m_chord">Accorde</rs> erweisen.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_31_TextRegion_1614090483428_2082">
+         <div rend="TEI" facs="#facs_31_TextRegion_1614090483428_2082" type="paragraph">
             <p facs="#facs_31_TextRegion_1614090483428_2082">
 				<lb facs="#facs_31_r1l16" n="N001"/>Nicht die äußere Aehnlichkeit der <rs ana="#m_note">Stammtöne</rs>, sondern die
 				<lb facs="#facs_31_r1l17" n="N002"/><rs ana="#concept_mus">Verbindungen</rs> des <rs ana="#m_chord">Hauptaccordes</rs> werden uns also sichere An<pc>¬</pc>
@@ -1707,7 +1707,7 @@
 				<lb facs="#facs_31_r1l34" n="N019"/><rs ana="#m_chord">A dur</rs>-, <rs ana="#m_chord">E dur</rs>-, <rs ana="#m_chord">As dur</rs>- und <rs ana="#m_chord">Es dur-Dreiklang</rs>.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_31_TextRegion_1614090476323_2078">
+         <div rend="TEI" facs="#facs_31_TextRegion_1614090476323_2078" type="paragraph-continued">
             <p facs="#facs_31_TextRegion_1614090476323_2078">
 				<lb facs="#facs_31_r1l35" n="N001"/>Ebenso <rs ana="#concept_mus">verwandt</rs> wie die hier genannten <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_note">Accorde</rs></hi> werden
 				<lb facs="#facs_31_r1l36" n="N002"/>sich auch die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_tonality">Tonarten</rs></hi> erweisen, deren <rs ana="#concept_mus">harmonische Grund<pc>¬</pc>
@@ -1717,12 +1717,12 @@
             </p>
          </div>
          <pb facs="#facs_32" n="32"/>
-         <div rend="TEI" facs="#facs_32_TextRegion_1614092585270_2172">
+         <div rend="TEI" facs="#facs_32_TextRegion_1614092585270_2172" type="page-number">
             <p facs="#facs_32_TextRegion_1614092585270_2172">
 				<lb facs="#facs_32_r1l1" n="N001"/>17
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_32_TextRegion_1614092585076_2171">
+         <div rend="TEI" facs="#facs_32_TextRegion_1614092585076_2171" type="paragraph-continued">
             <p facs="#facs_32_TextRegion_1614092585076_2171">
 				<lb facs="#facs_32_line_1614092632542_2191" n="N001"/><rs ana="#m_note">töne</rs> im Verhältnisse einer <rs ana="#m_interval">kleinen Unter-</rs> oder <rs ana="#m_interval">Oberquinte</rs> zu
 				<lb facs="#facs_32_line_1614092639089_2199" n="N002"/>einander stehen, wie <rs ana="#m_tonality">C dur</rs> und <rs ana="#m_tonality">Fis dur</rs> oder <rs ana="#m_tonality">Ges dur</rs>. Zu
@@ -1746,12 +1746,12 @@
 				<lb facs="#facs_32_r1l23" n="N020"/>würden sich also die folgenden <rs ana="#concept_mus">Verwandten</rs> anschließen:
 			</p>
          </div>
-         <div rend="GRAPHIC" facs="#facs_32_Graphic_1614092615368_2181">
+         <div rend="GRAPHIC" facs="#facs_32_Graphic_1614092615368_2181" type="floating">
             <figure>
                <graphic url="graphic/facs_32_Graphic_1614092615368_2181.png"/>
             </figure>
          </div>
-         <div rend="TEI" facs="#facs_32_TextRegion_1614091160244_2163">
+         <div rend="TEI" facs="#facs_32_TextRegion_1614091160244_2163" type="paragraph-continued">
             <p facs="#facs_32_TextRegion_1614091160244_2163">
 				<lb facs="#facs_32_r1l41" n="N001"/>Der <rs ana="#m_chord">C dur-Dreiklang</rs> ist, wie bemerkt, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">verbunden</rs></hi> mit allen
 				<lb facs="#facs_32_r1l42" n="N002"/><rs ana="#m_chord">Hauptdreiklängen</rs> der hier angegebenen <rs ana="#concept_mus">Verwandten</rs> der <rs ana="#m_tonality">C dur-</rs>
@@ -1767,13 +1767,13 @@
 			</p>
          </div>
          <pb facs="#facs_33" n="33"/>
-         <div rend="TEI" facs="#facs_33_TextRegion_1614092743972_2275">
+         <div rend="TEI" facs="#facs_33_TextRegion_1614092743972_2275" type="page-number">
             <p facs="#facs_33_TextRegion_1614092743972_2275">
 				<lb facs="#facs_33_r1l1" n="N001"/>18
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_33_Music_1614092760184_2285" source="facs_33_Music_1614092760184_2285.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_33_TextRegion_1614092738148_2270">
+         <div rend="MEI" facs="#facs_33_Music_1614092760184_2285" source="facs_33_Music_1614092760184_2285.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_33_TextRegion_1614092738148_2270" type="paragraph-continued">
             <p facs="#facs_33_TextRegion_1614092738148_2270">
 				<lb facs="#facs_33_r1l16" n="N001"/>das Ohr nicht in die um fünf Grade entfernte <rs ana="#m_tonality">Des dur-</rs> oder
 				<lb facs="#facs_33_r1l17" n="N002"/><rs ana="#m_tonality">B moll-Tonart</rs> geführt zu werden vermeinen, sondern mit Auf<pc>¬</pc>
@@ -1787,23 +1787,23 @@
 				<lb facs="#facs_33_r1l25" n="N010"/>werden; z. B.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_33_Music_1614092786912_2297" source="facs_33_Music_1614092786912_2297.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_33_TextRegion_1614092730735_2262">
+         <div rend="MEI" facs="#facs_33_Music_1614092786912_2297" source="facs_33_Music_1614092786912_2297.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_33_TextRegion_1614092730735_2262" type="paragraph-continued">
             <p facs="#facs_33_TextRegion_1614092730735_2262">
 				<lb facs="#facs_33_r1l52" n="N001"/>Eine ähnliche Erklärung und Anwendung wird ebenso der
 				<lb facs="#facs_33_r1l53" n="N002"/>obenstehenden <rs ana="#concept_mus">Folge</rs> des <rs ana="#m_chord">C dur-</rs> und <rs ana="#m_chord">B moll-Dreiklanges</rs>, wie
 				<lb facs="#facs_33_r1l54" n="N003"/>auch den nachstehenden <rs ana="#concept_mus">Dreiklangsfolgen</rs> gegeben werden können.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_33_Music_1614092800874_2304" source="facs_33_Music_1614092800874_2304.mei"><p>MUSIK</p></div>
+         <div rend="MEI" facs="#facs_33_Music_1614092800874_2304" source="facs_33_Music_1614092800874_2304.mei" type="floating"><p>MUSIK</p></div>
          <pb facs="#facs_34" n="34"/>
-         <div rend="TEI" facs="#facs_34_TextRegion_1614092877140_2347">
+         <div rend="TEI" facs="#facs_34_TextRegion_1614092877140_2347" type="page-number">
             <p facs="#facs_34_TextRegion_1614092877140_2347">
 				<lb facs="#facs_34_r1l1" n="N001"/>19
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_34_Music_1614092892461_2351" source="facs_34_Music_1614092892461_2351.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_34_TextRegion_1614092871009_2342">
+         <div rend="MEI" facs="#facs_34_Music_1614092892461_2351" source="facs_34_Music_1614092892461_2351.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_34_TextRegion_1614092871009_2342" type="paragraph">
             <p facs="#facs_34_TextRegion_1614092871009_2342">
 				<lb facs="#facs_34_r1l69" n="N001"/>In welcher <rs ana="#m_tonality">Tonart</rs> diese <rs ana="#m_chord">Accorde</rs> nun auch auftreten mögen,
 				<lb facs="#facs_34_r1l70" n="N002"/>der <rs ana="#concept_mus">innere Zusammenhang</rs> derselben wird z. B. folgendermaßen
@@ -1820,7 +1820,7 @@
 				<lb facs="#facs_34_r1l81" n="N013"/>oder nachfolgende <rs ana="#concept_mus">Harmonien</rs> bedingte Erklärung zuläßt.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_34_TextRegion_1614092864226_2338">
+         <div rend="TEI" facs="#facs_34_TextRegion_1614092864226_2338" type="paragraph">
             <p facs="#facs_34_TextRegion_1614092864226_2338">
 				<lb facs="#facs_34_r1l82" n="N001"/>Die neuere <rs ana="#concept_mus">Harmonielehre</rs> kann demnach mit Recht den
 				<lb facs="#facs_34_r1l83" n="N002"/>Satz aufstellen: <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Einem <rs ana="#concept_mus"> <rs ana="#concept_phy">consonirenden</rs></rs> <rs ana="#m_chord">Accorde</rs> kann</hi>
@@ -1838,17 +1838,17 @@
 			</p>
          </div>
          <pb facs="#facs_35" n="35"/>
-         <div rend="TEI" facs="#facs_35_TextRegion_1614092967927_2398">
+         <div rend="TEI" facs="#facs_35_TextRegion_1614092967927_2398" type="page-number">
             <p facs="#facs_35_TextRegion_1614092967927_2398">
 				<lb facs="#facs_35_r1l1" n="N001"/>20
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_35_TextRegion_1614092992239_2419">
+         <div rend="TEI" facs="#facs_35_TextRegion_1614092992239_2419" type="heading">
             <p facs="#facs_35_TextRegion_1614092992239_2419">
 				<lb facs="#facs_35_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;"> <rs ana="#concept_mus"> <rs ana="#concept_phy">Dissonanzen</rs></rs>.</hi>
             </p>
          </div>
-         <div rend="TEI" facs="#facs_35_TextRegion_1614092992239_2418">
+         <div rend="TEI" facs="#facs_35_TextRegion_1614092992239_2418" type="paragraph">
             <p facs="#facs_35_TextRegion_1614092992239_2418">
 				<lb facs="#facs_35_r1l3" n="N001"/>Die <rs ana="#concept_mus"> <rs ana="#concept_phy">Dissonanz</rs></rs> ist die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">melodische</rs></hi> <rs ana="#concept_mus">Verzögerung</rs> einer
 				<lb facs="#facs_35_r1l4" n="N002"/><rs ana="#concept_mus"> <rs ana="#concept_phy">Consonanz</rs></rs> und muß als solche jederzeit <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">stufenweise</rs></hi> auf- oder
@@ -1863,12 +1863,12 @@
 				<lb facs="#facs_35_r1l14" n="N011"/>mehreren <rs ana="#m_note">Haltetönen</rs>.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_35_TextRegion_1614092986114_2414">
+         <div rend="TEI" facs="#facs_35_TextRegion_1614092986114_2414" type="heading">
             <p facs="#facs_35_TextRegion_1614092986114_2414">
 				<lb facs="#facs_35_r1l15" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;"> <rs ana="#concept_mus">Vorschläge</rs>.</hi>
             </p>
          </div>
-         <div rend="TEI" facs="#facs_35_TextRegion_1614092983394_2410">
+         <div rend="TEI" facs="#facs_35_TextRegion_1614092983394_2410" type="paragraph-continued">
             <p facs="#facs_35_TextRegion_1614092983394_2410">
 				<lb facs="#facs_35_r1l16" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Vorschläge</rs></hi> sind <rs ana="#concept_mus">melodische Verzierungen</rs> eines <rs ana="#m_note">Accord<pc>¬</pc>
 				<lb facs="#facs_35_r1l17" n="N002"/>tones</rs>; sie können diesem unten, oben, oder unten und oben bei<pc>¬</pc>
@@ -1886,15 +1886,15 @@
 				<lb facs="#facs_35_r1l29" n="N014"/>und vor mehreren <rs ana="#m_note">Accordtönen</rs> erscheinen, benutzt worden.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_35_Music_1614093025227_2426" source="facs_35_Music_1614093025227_2426.mei"><p>MUSIK</p></div>
+         <div rend="MEI" facs="#facs_35_Music_1614093025227_2426" source="facs_35_Music_1614093025227_2426.mei" type="floating-continued"><p>MUSIK</p></div>
          <pb facs="#facs_36" n="36"/>
-         <div rend="TEI" facs="#facs_36_TextRegion_1614093162612_2512">
+         <div rend="TEI" facs="#facs_36_TextRegion_1614093162612_2512" type="page-number">
             <p facs="#facs_36_TextRegion_1614093162612_2512">
 				<lb facs="#facs_36_r1l1" n="N001"/>21
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_36_Music_1614093179391_2516" source="facs_36_Music_1614093179391_2516.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_36_TextRegion_1614093158908_2507">
+         <div rend="MEI" facs="#facs_36_Music_1614093179391_2516" source="facs_36_Music_1614093179391_2516.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_36_TextRegion_1614093158908_2507" type="paragraph">
             <p facs="#facs_36_TextRegion_1614093158908_2507">
 				<lb facs="#facs_36_r1l34" n="N001"/>Das gleichzeitige Zusammentreffen eines <rs ana="#m_note">Tones</rs> mit seinem
 				<lb facs="#facs_36_r1l35" n="N002"/><rs ana="#concept_mus">chromatischen</rs> <rs ana="#m_note">Nebentone</rs>, wie hier im vorletzten <rs ana="#concept_mus">Tacte</rs> (<rs ana="#m_interval">a—ais</rs>),
@@ -1909,13 +1909,13 @@
 				<lb facs="#facs_36_r1l44" n="N011"/>folgende Beispiel Platz finden:
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_36_Music_1614093194166_2524" source="facs_36_Music_1614093194166_2524.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_36_TextRegion_1614093148827_2499">
+         <div rend="MEI" facs="#facs_36_Music_1614093194166_2524" source="facs_36_Music_1614093194166_2524.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_36_TextRegion_1614093148827_2499" type="heading">
             <p facs="#facs_36_TextRegion_1614093148827_2499">
 				<lb facs="#facs_36_r1l60" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;"> <rs ana="#m_note">Durchgangstöne</rs>.</hi>
             </p>
          </div>
-         <div rend="TEI" facs="#facs_36_TextRegion_1614093145479_2495">
+         <div rend="TEI" facs="#facs_36_TextRegion_1614093145479_2495" type="paragraph-continued">
             <p facs="#facs_36_TextRegion_1614093145479_2495">
 				<lb facs="#facs_36_r1l61" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_note">Durchgangstöne</rs></hi> bilden die <rs ana="#concept_mus">melodische Verbindung</rs>
 				<lb facs="#facs_36_r1l62" n="N002"/>zweier <rs ana="#m_note">Töne</rs> eines und desselben <rs ana="#m_chord">Accordes</rs> oder verschiedener
@@ -1924,12 +1924,12 @@
 			</p>
          </div>
          <pb facs="#facs_37" n="37"/>
-         <div rend="TEI" facs="#facs_37_TextRegion_1614093357988_2591">
+         <div rend="TEI" facs="#facs_37_TextRegion_1614093357988_2591" type="page-number">
             <p facs="#facs_37_TextRegion_1614093357988_2591">
 				<lb facs="#facs_37_r1l1" n="N001"/>22
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_37_TextRegion_1614093357988_2590">
+         <div rend="TEI" facs="#facs_37_TextRegion_1614093357988_2590" type="paragraph">
             <p facs="#facs_37_TextRegion_1614093357988_2590">
 				<lb facs="#facs_37_r1l2" n="N001"/>in der geraden oder der <rs ana="#concept_mus">Gegenbewegung</rs> benutzt werden: 7, 8,
 				<lb facs="#facs_37_r1l3" n="N002"/>9; <rs ana="#concept_mus">chromatische</rs> <rs ana="#m_note">Töne</rs> in Anwendung bringen: 5, und durch
@@ -1949,19 +1949,19 @@
 				<lb facs="#facs_37_r1l17" n="N016"/>wie bei 3 und 4.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_37_region_1617041438347_523"/>
+         <div rend="TEI" facs="#facs_37_region_1617041438347_523" type="missing"/>
          <pb facs="#facs_38" n="38"/>
-         <div rend="TEI" facs="#facs_38_TextRegion_1614093415327_2638">
+         <div rend="TEI" facs="#facs_38_TextRegion_1614093415327_2638" type="page-number">
             <p facs="#facs_38_TextRegion_1614093415327_2638">
 				<lb facs="#facs_38_r1l1" n="N001"/>23
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_38_TextRegion_1614093415327_2637">
+         <div rend="TEI" facs="#facs_38_TextRegion_1614093415327_2637" type="heading">
             <p facs="#facs_38_TextRegion_1614093415327_2637">
 				<lb facs="#facs_38_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;"> <rs ana="#concept_mus">Vorausnahmen</rs>.</hi>
             </p>
          </div>
-         <div rend="TEI" facs="#facs_38_TextRegion_1614093410244_2633">
+         <div rend="TEI" facs="#facs_38_TextRegion_1614093410244_2633" type="paragraph">
             <p facs="#facs_38_TextRegion_1614093410244_2633">
 				<lb facs="#facs_38_r1l3" n="N001"/>Zu einem <rs ana="#concept_mus"> <rs ana="#concept_phy">consonirenden</rs></rs> oder <rs ana="#concept_mus"> <rs ana="#concept_phy">dissonirenden</rs></rs> <rs ana="#m_chord">Accorde</rs> er<pc>¬</pc>
 				<lb facs="#facs_38_r1l4" n="N002"/>scheint zuweilen ein seiner <rs ana="#concept_mus">Harmonie</rs> fremder <rs ana="#m_note">Ton</rs>, der erst in
@@ -1977,19 +1977,19 @@
 				<lb facs="#facs_38_r1l14" n="N012"/>hierzu hat <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0043">Schumann</persName></hi> in seinen <title ana="#music" ref="W0105">Kreisleriana</title> geliefert.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_38_Music_1614093442362_2648" source="facs_38_Music_1614093442362_2648.mei"><p>MUSIK</p></div>
+         <div rend="MEI" facs="#facs_38_Music_1614093442362_2648" source="facs_38_Music_1614093442362_2648.mei" type="floating"><p>MUSIK</p></div>
          <pb facs="#facs_39" n="39"/>
-         <div rend="TEI" facs="#facs_39_TextRegion_1614093503211_2694">
+         <div rend="TEI" facs="#facs_39_TextRegion_1614093503211_2694" type="page-number">
             <p facs="#facs_39_TextRegion_1614093503211_2694">
 				<lb facs="#facs_39_r1l1" n="N001"/>24
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_39_TextRegion_1614093503210_2693">
+         <div rend="TEI" facs="#facs_39_TextRegion_1614093503210_2693" type="heading">
             <p facs="#facs_39_TextRegion_1614093503210_2693">
 				<lb facs="#facs_39_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;"> <rs ana="#concept_mus">Vorhaltsdissonanzen</rs>.</hi>
             </p>
          </div>
-         <div rend="TEI" facs="#facs_39_TextRegion_1614093501844_2689">
+         <div rend="TEI" facs="#facs_39_TextRegion_1614093501844_2689" type="paragraph-continued">
             <p facs="#facs_39_TextRegion_1614093501844_2689">
 				<lb facs="#facs_39_r1l3" n="N001"/>Wenn die <rs ana="#concept_mus">Vorschläge</rs> und <rs ana="#m_note">Durchgangstöne</rs> ihrer Natur
 				<lb facs="#facs_39_r1l4" n="N002"/>nach den minder hervortretenden, <rs ana="#concept_mus">unaccentuirten</rs> <rs ana="#concept_mus">Tacttheilen</rs>
@@ -2016,13 +2016,13 @@
 				<lb facs="#facs_39_r1l26" n="N023"/>eines schon vorhandenen <rs ana="#m_note">Tones</rs> erscheinen darf:
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_39_Music_1614093535719_2701" source="facs_39_Music_1614093535719_2701.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_39_TextRegion_1614093495577_2681">
+         <div rend="MEI" facs="#facs_39_Music_1614093535719_2701" source="facs_39_Music_1614093535719_2701.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_39_TextRegion_1614093495577_2681" type="paragraph-continued">
             <p facs="#facs_39_TextRegion_1614093495577_2681">
 				<lb facs="#facs_39_r1l30" n="N001"/>wohl aber kann der untere <rs ana="#m_note">Ton</rs> <rs ana="#concept_mus">melodisch</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">abwärts</hi> oder der
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_39_TextRegion_1614093546892_2709">
+         <div rend="TEI" facs="#facs_39_TextRegion_1614093546892_2709" type="footnote">
             <p facs="#facs_39_TextRegion_1614093546892_2709">
 				<lb facs="#facs_39_r1l31" n="N001"/>*) Hierbei ist zu bemerken, daß das <rs ana="#concept_mus">zweitheilige Metrum</rs> und
 				<lb facs="#facs_39_r1l32" n="N002"/><rs ana="#concept_mus">metrische Glied</rs> nur einen <rs ana="#concept_mus">Accent</rs>, das <rs ana="#concept_mus">dreitheilige</rs> aber deren zwei (einen
@@ -2031,34 +2031,34 @@
 			</p>
          </div>
          <pb facs="#facs_40" n="40"/>
-         <div rend="TEI" facs="#facs_40_TextRegion_1614093686638_2816">
+         <div rend="TEI" facs="#facs_40_TextRegion_1614093686638_2816" type="page-number">
             <p facs="#facs_40_TextRegion_1614093686638_2816">
 				<lb facs="#facs_40_r1l1" n="N001"/>25
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_40_TextRegion_1614093686638_2815">
+         <div rend="TEI" facs="#facs_40_TextRegion_1614093686638_2815" type="paragraph-continued">
             <p facs="#facs_40_TextRegion_1614093686638_2815">
 				<lb facs="#facs_40_r1l2" n="N001"/>obere ebenso <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">aufwärts</hi> schreitend in die <rs ana="#concept_mus"> <rs ana="#concept_phy">Consonanz</rs></rs> der <rs ana="#m_interval">Terze</rs>
 				<lb facs="#facs_40_r1l3" n="N002"/>übergehen:
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_40_Music_1614093732674_2830" source="facs_40_Music_1614093732674_2830.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_40_TextRegion_1614093675511_2801">
+         <div rend="MEI" facs="#facs_40_Music_1614093732674_2830" source="facs_40_Music_1614093732674_2830.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_40_TextRegion_1614093675511_2801" type="paragraph-continued">
             <p facs="#facs_40_TextRegion_1614093675511_2801">
 				<lb facs="#facs_40_line_1614093791999_2863" n="N001"/>Bei der <rs ana="#m_interval">Septime</rs> kann der obere <rs ana="#m_note">Ton</rs> aus dem angeführten
 				<lb facs="#facs_40_r1l18" n="N002"/>Grunde nicht <rs ana="#concept_mus">stufenweise</rs> steigen, der untere ebenso nicht fallen:
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_40_Music_1614093741213_2837" source="facs_40_Music_1614093741213_2837.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_40_TextRegion_1614093667310_2793">
+         <div rend="MEI" facs="#facs_40_Music_1614093741213_2837" source="facs_40_Music_1614093741213_2837.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_40_TextRegion_1614093667310_2793" type="paragraph-continued">
             <p facs="#facs_40_TextRegion_1614093667310_2793">
 				<lb facs="#facs_40_r1l25" n="N001"/>Aber die <rs ana="#concept_mus">Auflösung</rs> der <rs ana="#m_interval">Septime</rs> kann stattfinden, wenn sich der
 				<lb facs="#facs_40_r1l26" n="N002"/>obere <rs ana="#m_note">Ton</rs> <rs ana="#concept_mus">melodisch</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">abwärts</hi> oder der untere ebenso <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">auf<pc>¬</pc></hi>
 				<lb facs="#facs_40_r1l27" n="N003"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">wärts</hi> fortbewegt:
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_40_Music_1614093752508_2844" source="facs_40_Music_1614093752508_2844.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_40_TextRegion_1614093645212_2785">
+         <div rend="MEI" facs="#facs_40_Music_1614093752508_2844" source="facs_40_Music_1614093752508_2844.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_40_TextRegion_1614093645212_2785" type="paragraph">
             <p facs="#facs_40_TextRegion_1614093645212_2785">
 				<lb facs="#facs_40_r1l38" n="N001"/>Die Bemerkung aber, daß die <rs ana="#concept_mus"> <rs ana="#concept_phy">Dissonanz</rs></rs> williger herab- als
 				<lb facs="#facs_40_r1l39" n="N002"/>hinaufsteigt, veranlaßte die früheren <rs ana="#concept_mus">Theoretiker</rs>, ihr überhaupt
@@ -2069,7 +2069,7 @@
 				<lb facs="#facs_40_r1l44" n="N007"/>rung</rs> einer <rs ana="#concept_mus"> <rs ana="#concept_phy">Consonanz</rs></rs> erweist.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_40_TextRegion_1614093641423_2781">
+         <div rend="TEI" facs="#facs_40_TextRegion_1614093641423_2781" type="paragraph-continued">
             <p facs="#facs_40_TextRegion_1614093641423_2781">
 				<lb facs="#facs_40_r1l45" n="N001"/><rs ana="#concept_mus">Offenbare</rs> oder <rs ana="#concept_mus">verdeckte</rs> <rs ana="#concept_mus">Parallelgänge</rs> verlieren ihren
 				<lb facs="#facs_40_r1l46" n="N002"/>Charakter als solche nicht, auch wenn sie durch Vorhalte ver<pc>¬</pc>
@@ -2084,12 +2084,12 @@
 			</p>
          </div>
          <pb facs="#facs_41" n="41"/>
-         <div rend="TEI" facs="#facs_41_TextRegion_1614093856204_2931">
+         <div rend="TEI" facs="#facs_41_TextRegion_1614093856204_2931" type="page-number">
             <p facs="#facs_41_TextRegion_1614093856204_2931">
 				<lb facs="#facs_41_r1l1" n="N001"/>26
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_41_TextRegion_1614093856204_2930">
+         <div rend="TEI" facs="#facs_41_TextRegion_1614093856204_2930" type="paragraph">
             <p facs="#facs_41_TextRegion_1614093856204_2930">
 				<lb facs="#facs_41_r1l2" n="N001"/>hinaufsteigende <rs ana="#concept_mus">Septimenvorhalt</rs> (s. 7, 8), in welchen Fällen
 				<lb facs="#facs_41_r1l3" n="N002"/>die tiefste <rs ana="#concept_mus">Stimme</rs> eine genugsam feste <rs ana="#concept_mus">Basis</rs> bildet, um die
@@ -2097,8 +2097,8 @@
 				<lb facs="#facs_41_r1l5" n="N004"/><rs ana="#m_note">Tones</rs> ertragen zu können.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_41_Music_1614093876069_2936" source="facs_41_Music_1614093876069_2936.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_41_TextRegion_1614093850579_2922">
+         <div rend="MEI" facs="#facs_41_Music_1614093876069_2936" source="facs_41_Music_1614093876069_2936.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_41_TextRegion_1614093850579_2922" type="paragraph">
             <p facs="#facs_41_TextRegion_1614093850579_2922">
 				<lb facs="#facs_41_r1l50" n="N001"/>In den folgenden Beispielen ist nun bald der <rs ana="#m_note">Grundton</rs>,
 				<lb facs="#facs_41_r1l51" n="N002"/>bald die <rs ana="#m_interval">Terze</rs>, die <rs ana="#m_interval">Quinte</rs>, oder gleichzeitig mehrere dieser
@@ -2107,34 +2107,34 @@
 				<lb facs="#facs_41_r1l54" n="N005"/>verzögert worden.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_41_TextRegion_1614093847734_2918">
+         <div rend="TEI" facs="#facs_41_TextRegion_1614093847734_2918" type="caption">
             <p facs="#facs_41_TextRegion_1614093847734_2918">
 				<lb facs="#facs_41_r1l55" n="N001"/><rs ana="#concept_mus">Melodisch</rs> herabsteigende <rs ana="#concept_mus">Vorhalte</rs>.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_41_Music_1614093911714_2945" source="facs_41_Music_1614093911714_2945.mei"><p>MUSIK</p></div>
+         <div rend="MEI" facs="#facs_41_Music_1614093911714_2945" source="facs_41_Music_1614093911714_2945.mei" type="floating-continued"><p>MUSIK</p></div>
          <pb facs="#facs_42" n="42"/>
-         <div rend="TEI" facs="#facs_42_TextRegion_1614093971586_2988">
+         <div rend="TEI" facs="#facs_42_TextRegion_1614093971586_2988" type="page-number">
             <p facs="#facs_42_TextRegion_1614093971586_2988">
 				<lb facs="#facs_42_r1l1" n="N001"/>27
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_42_Music_1614093993466_3004" source="facs_42_Music_1614093993466_3004.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_42_TextRegion_1614093986649_3000">
+         <div rend="MEI" facs="#facs_42_Music_1614093993466_3004" source="facs_42_Music_1614093993466_3004.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_42_TextRegion_1614093986649_3000" type="caption">
             <p facs="#facs_42_TextRegion_1614093986649_3000">
 				<lb facs="#facs_42_r1l65" n="N001"/><rs ana="#concept_mus">Melodisch</rs> hinaufsteigende <rs ana="#concept_mus">Vorhalte</rs>.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_42_Music_1614094006491_3011" source="facs_42_Music_1614094006491_3011.mei"><p>MUSIK</p></div>
+         <div rend="MEI" facs="#facs_42_Music_1614094006491_3011" source="facs_42_Music_1614094006491_3011.mei" type="floating-continued"><p>MUSIK</p></div>
          <pb facs="#facs_43" n="43"/>
-         <div rend="TEI" facs="#facs_43_TextRegion_1614094086370_3054">
+         <div rend="TEI" facs="#facs_43_TextRegion_1614094086370_3054" type="page-number">
             <p facs="#facs_43_TextRegion_1614094086370_3054">
 				<lb facs="#facs_43_r1l1" n="N001"/>28
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_43_region_1617041642013_551"/>
-         <div rend="MEI" facs="#facs_43_Music_1614094139333_3074" source="facs_43_Music_1614094139333_3074.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_43_TextRegion_1614094108258_3059">
+         <div rend="TEI" facs="#facs_43_region_1617041642013_551" type="missing"/>
+         <div rend="MEI" facs="#facs_43_Music_1614094139333_3074" source="facs_43_Music_1614094139333_3074.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_43_TextRegion_1614094108258_3059" type="paragraph">
             <p facs="#facs_43_TextRegion_1614094108258_3059">
 				<lb facs="#facs_43_r1l9" n="N001"/>Durch die Aufnahme dieser letzteren <rs ana="#concept_mus">Vorhalte</rs> in die <rs ana="#concept_mus">prak<pc>¬</pc>
 				<lb facs="#facs_43_r1l10" n="N002"/>tische Harmonielehre</rs>, die unbedenklich geschehen kann, da auch
@@ -2150,7 +2150,7 @@
 				<lb facs="#facs_43_r1l20" n="N012"/>natürlichen Grenzen.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_43_TextRegion_1614094108258_3058">
+         <div rend="TEI" facs="#facs_43_TextRegion_1614094108258_3058" type="paragraph-continued">
             <p facs="#facs_43_TextRegion_1614094108258_3058">
 				<lb facs="#facs_43_r1l21" n="N001"/>Wie wir bisher nämlich die <rs ana="#m_note">Töne</rs> eines <rs ana="#m_chord">Dreiklanges</rs> durch
 				<lb facs="#facs_43_r1l22" n="N002"/><rs ana="#concept_mus">Vorhalte</rs> von unten <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">oder</hi> von oben <rs ana="#concept_mus">verzögerten</rs>, so können wir
@@ -2158,20 +2158,20 @@
 				<lb facs="#facs_43_r1l24" n="N004"/>unten <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">und</hi> von oben <rs ana="#concept_mus">verzögern</rs>:
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_43_TextRegion_1614094070464_3041">
+         <div rend="TEI" facs="#facs_43_TextRegion_1614094070464_3041" type="caption">
             <p facs="#facs_43_TextRegion_1614094070464_3041">
 				<lb facs="#facs_43_r1l25" n="N001"/>Gleichzeitig <rs ana="#concept_mus">melodisch</rs> auf- und abwärts schreitende <rs ana="#concept_mus">Vorhalte</rs>.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_43_Music_1614094127415_3064" source="facs_43_Music_1614094127415_3064.mei"><p>MUSIK</p></div>
+         <div rend="MEI" facs="#facs_43_Music_1614094127415_3064" source="facs_43_Music_1614094127415_3064.mei" type="floating-continued"><p>MUSIK</p></div>
          <pb facs="#facs_44" n="44"/>
-         <div rend="TEI" facs="#facs_44_TextRegion_1614094282224_3210">
+         <div rend="TEI" facs="#facs_44_TextRegion_1614094282224_3210" type="page-number">
             <p facs="#facs_44_TextRegion_1614094282224_3210">
 				<lb facs="#facs_44_r1l1" n="N001"/>29
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_44_Music_1614094300882_3214" source="facs_44_Music_1614094300882_3214.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_44_TextRegion_1614094279993_3205">
+         <div rend="MEI" facs="#facs_44_Music_1614094300882_3214" source="facs_44_Music_1614094300882_3214.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_44_TextRegion_1614094279993_3205" type="paragraph">
             <p facs="#facs_44_TextRegion_1614094279993_3205">
 				<lb facs="#facs_44_r1l9" n="N001"/>Hierdurch nun wird bei 1 ein vollständiger <rs ana="#m_chord">Terzquintseptimen-</rs>
 				<lb facs="#facs_44_r1l10" n="N002"/><rs ana="#m_chord">Accord</rs>, bei 2 derselbe in der <rs ana="#concept_mus">Terzquartsext-Lage</rs>, bei 4 ein
@@ -2181,7 +2181,7 @@
 				<lb facs="#facs_44_line_1614094277434_3203" n="N006"/>nirenden</rs></rs> <rs ana="#m_chord">Dreiklang</rs>.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_44_TextRegion_1614094277402_3199">
+         <div rend="TEI" facs="#facs_44_TextRegion_1614094277402_3199" type="paragraph-continued">
             <p facs="#facs_44_TextRegion_1614094277402_3199">
 				<lb facs="#facs_44_r1l15" n="N001"/>Haben wir in den vorhergehenden Beispielen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">einen</hi> der
 				<lb facs="#facs_44_r1l16" n="N002"/><rs ana="#m_note">Töne</rs> eines <rs ana="#m_chord">Dreiklanges</rs> durch zwei gleichzeitige <rs ana="#concept_mus">Vorhalte</rs> <rs ana="#concept_mus">ver<pc>¬</pc>
@@ -2194,13 +2194,13 @@
 				<lb facs="#facs_44_r1l23" n="N009"/>auch die folgenden <rs ana="#concept_mus">Vorhaltsbildungen</rs> ihre Entstehung finden:
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_44_TextRegion_1614094271783_3195">
+         <div rend="TEI" facs="#facs_44_TextRegion_1614094271783_3195" type="caption">
             <p facs="#facs_44_TextRegion_1614094271783_3195">
 				<lb facs="#facs_44_r1l24" n="N001"/><rs ana="#concept_mus">Accordbildungen</rs> durch <rs ana="#concept_mus">Vorhalte</rs>.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_44_Music_1614094326306_3224" source="facs_44_Music_1614094326306_3224.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_44_TextRegion_1614094264791_3187">
+         <div rend="MEI" facs="#facs_44_Music_1614094326306_3224" source="facs_44_Music_1614094326306_3224.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_44_TextRegion_1614094264791_3187" type="paragraph-continued">
             <p facs="#facs_44_TextRegion_1614094264791_3187">
 				<lb facs="#facs_44_r1l63" n="N001"/>Bei 1 erhält der <rs ana="#m_note">Grundton</rs> des <rs ana="#m_chord">C dur-Dreiklanges</rs> von oben
 				<lb facs="#facs_44_r1l64" n="N002"/>und unten, die <rs ana="#m_interval">Terze</rs> von oben und die <rs ana="#m_interval">Quinte</rs> von unten einen
@@ -2210,12 +2210,12 @@
 			</p>
          </div>
          <pb facs="#facs_45" n="45"/>
-         <div rend="TEI" facs="#facs_45_TextRegion_1614161645714_152">
+         <div rend="TEI" facs="#facs_45_TextRegion_1614161645714_152" type="page-number">
             <p facs="#facs_45_TextRegion_1614161645714_152">
 				<lb facs="#facs_45_r1l1" n="N001"/>30
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_45_TextRegion_1614161645713_151">
+         <div rend="TEI" facs="#facs_45_TextRegion_1614161645713_151" type="paragraph">
             <p facs="#facs_45_TextRegion_1614161645713_151">
 				<lb facs="#facs_45_r1l2" n="N001"/>der <rs ana="#m_note">Leiteton</rs> als <rs ana="#concept_mus">Vorhalt</rs> eines <rs ana="#m_chord">Moll-Dreiklanges</rs>, wodurch der
 				<lb facs="#facs_45_r1l3" n="N002"/><rs ana="#concept_mus"> <rs ana="#concept_phy">dissonirende</rs></rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">übermäßige Dreiklang</rs></hi> hervorgerufen wird:
@@ -2232,12 +2232,12 @@
 				<lb facs="#facs_45_r1l14" n="N013"/>seine natürliche Entstehung und Bedeutung.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_45_TextRegion_1614161643548_147">
+         <div rend="TEI" facs="#facs_45_TextRegion_1614161643548_147" type="heading">
             <p facs="#facs_45_TextRegion_1614161643548_147">
 				<lb facs="#facs_45_r1l15" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;"> <rs ana="#concept_mus"> <rs ana="#concept_phy">Dissonirende</rs></rs> <rs ana="#m_chord">Dreiklänge</rs>.</hi>
             </p>
          </div>
-         <div rend="TEI" facs="#facs_45_TextRegion_1614161640535_143">
+         <div rend="TEI" facs="#facs_45_TextRegion_1614161640535_143" type="paragraph-continued">
             <p facs="#facs_45_TextRegion_1614161640535_143">
 				<lb facs="#facs_45_r1l16" n="N001"/>Wir haben schon früher die Bemerkung gemacht, daß die
 				<lb facs="#facs_45_r1l17" n="N002"/>weiche <rs ana="#concept_mus"> <rs ana="#concept_phy">Dissonanz</rs></rs> des <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">verminderten Dreiklanges</rs></hi> keiner
@@ -2254,20 +2254,20 @@
 				<lb facs="#facs_45_r1l28" n="N013"/><rs ana="#concept_mus">auflösen</rs>:
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_45_TextRegion_1614161637310_139">
+         <div rend="TEI" facs="#facs_45_TextRegion_1614161637310_139" type="caption">
             <p facs="#facs_45_TextRegion_1614161637310_139">
 				<lb facs="#facs_45_r1l29" n="N001"/><rs ana="#concept_mus">Auflösungen</rs> des <rs ana="#m_chord">verminderten Dreiklanges</rs> in der <rs ana="#m_tonality">C dur-Tonart</rs>.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_45_Music_1614161731818_160" source="facs_45_Music_1614161731818_160.mei"><p>MUSIK</p></div>
+         <div rend="MEI" facs="#facs_45_Music_1614161731818_160" source="facs_45_Music_1614161731818_160.mei" type="floating-continued"><p>MUSIK</p></div>
          <pb facs="#facs_46" n="46"/>
-         <div rend="TEI" facs="#facs_46_TextRegion_1614161835701_253">
+         <div rend="TEI" facs="#facs_46_TextRegion_1614161835701_253" type="page-number">
             <p facs="#facs_46_TextRegion_1614161835701_253">
 				<lb facs="#facs_46_r1l1" n="N001"/>31
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_46_Music_1614161898592_257" source="facs_46_Music_1614161898592_257.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_46_TextRegion_1614161833430_248">
+         <div rend="MEI" facs="#facs_46_Music_1614161898592_257" source="facs_46_Music_1614161898592_257.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_46_TextRegion_1614161833430_248" type="paragraph">
             <p facs="#facs_46_TextRegion_1614161833430_248">
 				<lb facs="#facs_46_r1l14" n="N001"/>Der <rs ana="#m_chord">verminderte Dreiklang</rs> kann selbstverständlich nicht allein
 				<lb facs="#facs_46_r1l15" n="N002"/><rs ana="#concept_mus">frei</rs>, sondern auch <rs ana="#concept_mus">gebunden</rs>, auf <rs ana="#concept_mus">leichtem</rs> oder <rs ana="#concept_mus">schwerem</rs> <rs ana="#concept_mus">Tact<pc>¬</pc>
@@ -2281,7 +2281,7 @@
 				<lb facs="#facs_46_line_1614161829722_246" n="N010"/>gebraucht.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_46_TextRegion_1614161829686_242">
+         <div rend="TEI" facs="#facs_46_TextRegion_1614161829686_242" type="paragraph">
             <p facs="#facs_46_TextRegion_1614161829686_242">
 				<lb facs="#facs_46_r1l24" n="N001"/>Der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">übermäßige Dreiklang</rs></hi> kann, wie schon bemerkt,
 				<lb facs="#facs_46_r1l25" n="N002"/>nur durch den <rs ana="#concept_mus">chromatischen</rs> <rs ana="#m_note">Ton</rs> der <rs ana="#concept_mus">weicheren</rs> <rs ana="#m_tonality">Dur-</rs> oder der
@@ -2294,8 +2294,8 @@
 				<lb facs="#facs_46_r1l32" n="N009"/>seiner drei <rs ana="#m_note">Töne</rs> die <rs ana="#m_interval">übermäßige Quinte</rs> der <rs ana="#concept_mus">Grundlage</rs> bildet:
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_46_Music_1614161918927_266" source="facs_46_Music_1614161918927_266.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_46_TextRegion_1614161820561_234">
+         <div rend="MEI" facs="#facs_46_Music_1614161918927_266" source="facs_46_Music_1614161918927_266.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_46_TextRegion_1614161820561_234" type="paragraph-continued">
             <p facs="#facs_46_TextRegion_1614161820561_234">
 				<lb facs="#facs_46_r1l39" n="N001"/>Das Ohr wird also durch die <rs ana="#concept_mus">Bindung</rs> eines jeden dieser
 				<lb facs="#facs_46_r1l40" n="N002"/><rs ana="#m_note">Töne</rs> (s. u. 1, 2, 3) oder zweier derselben schon genugsam auf ihn
@@ -2308,19 +2308,19 @@
 			</p>
          </div>
          <pb facs="#facs_47" n="47"/>
-         <div rend="TEI" facs="#facs_47_TextRegion_1614162032235_359">
+         <div rend="TEI" facs="#facs_47_TextRegion_1614162032235_359" type="page-number">
             <p facs="#facs_47_TextRegion_1614162032235_359">
 				<lb facs="#facs_47_r1l1" n="N001"/>32
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_47_TextRegion_1614162032235_358">
+         <div rend="TEI" facs="#facs_47_TextRegion_1614162032235_358" type="paragraph-continued">
             <p facs="#facs_47_TextRegion_1614162032235_358">
 				<lb facs="#facs_47_r1l2" n="N001"/><rs ana="#m_chord">A moll-</rs>, <rs ana="#m_chord">D moll-</rs>, <rs ana="#m_chord">E moll-</rs>, <rs ana="#m_chord">Cis moll-</rs>, <rs ana="#m_chord">F dur-</rs>, <rs ana="#m_chord">A dur-</rs> und
 				<lb facs="#facs_47_r1l3" n="N002"/><rs ana="#m_chord">E dur-Dreiklang</rs>.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_47_Music_1614162078067_365" source="facs_47_Music_1614162078067_365.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_47_TextRegion_1614162025493_348">
+         <div rend="MEI" facs="#facs_47_Music_1614162078067_365" source="facs_47_Music_1614162078067_365.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_47_TextRegion_1614162025493_348" type="paragraph-continued">
             <p facs="#facs_47_TextRegion_1614162025493_348">
 				<lb facs="#facs_47_r1l54" n="N001"/>Ueberall aber wo der hier gewählte <rs ana="#m_chord">übermäßige Dreiklang</rs>
 				<lb facs="#facs_47_r1l55" n="N002"/><rs ana="#m_chord">c e gis</rs> auftreten konnte, wird auch der dem <rs ana="#concept_mus">Klange</rs> nach ihm
@@ -2331,14 +2331,14 @@
 				<lb facs="#facs_47_r1l60" n="N007"/><rs ana="#concept_mus">verdeckte</rs> übelklingende <rs ana="#concept_mus">Parallelgänge</rs> zu vermeiden sind.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_47_Music_1614162106730_372" source="facs_47_Music_1614162106730_372.mei"><p>MUSIK</p></div>
+         <div rend="MEI" facs="#facs_47_Music_1614162106730_372" source="facs_47_Music_1614162106730_372.mei" type="floating"><p>MUSIK</p></div>
          <pb facs="#facs_48" n="48"/>
-         <div rend="TEI" facs="#facs_48_TextRegion_1614164190888_451">
+         <div rend="TEI" facs="#facs_48_TextRegion_1614164190888_451" type="page-number">
             <p facs="#facs_48_TextRegion_1614164190888_451">
 				<lb facs="#facs_48_r1l1" n="N001"/>33
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_48_TextRegion_1614164190888_450">
+         <div rend="TEI" facs="#facs_48_TextRegion_1614164190888_450" type="paragraph">
             <p facs="#facs_48_TextRegion_1614164190888_450">
 				<lb facs="#facs_48_r1l2" n="N001"/>Auf ganz ähnliche Weise würde endlich der dritte der oben
 				<lb facs="#facs_48_r1l3" n="N002"/>neben einander gestellten <rs ana="#m_chord">übermäßigen Dreiklänge</rs> <rs ana="#m_chord">e gis his</rs>,
@@ -2350,7 +2350,7 @@
 				<lb facs="#facs_48_r1l9" n="N008"/><rs ana="#m_chord">Dreiklanges</rs> erschöpft zu haben.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_48_TextRegion_1614164188672_446">
+         <div rend="TEI" facs="#facs_48_TextRegion_1614164188672_446" type="paragraph">
             <p facs="#facs_48_TextRegion_1614164188672_446">
 				<lb facs="#facs_48_r1l10" n="N001"/>Bei Nr. 4 der obenstehenden Beispiele wird der <rs ana="#m_note">Grundton</rs>
 				<lb facs="#facs_48_r1l11" n="N002"/>des <rs ana="#m_chord">As dur-Dreiklanges</rs> zum <rs ana="#m_note">Grundton</rs> eines <rs ana="#m_chord">übermäßigen</rs>
@@ -2368,8 +2368,8 @@
 				<lb facs="#facs_48_r1l23" n="N014"/>wie bei 3.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_48_Music_1614164205812_455" source="facs_48_Music_1614164205812_455.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_48_TextRegion_1614164173489_438">
+         <div rend="MEI" facs="#facs_48_Music_1614164205812_455" source="facs_48_Music_1614164205812_455.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_48_TextRegion_1614164173489_438" type="paragraph-continued">
             <p facs="#facs_48_TextRegion_1614164173489_438">
 				<lb facs="#facs_48_r1l53" n="N001"/>Die neuere <rs ana="#concept_mus">Tonkunst</rs> gebraucht demnach <rs ana="#concept_mus">diatonische</rs> und
 				<lb facs="#facs_48_r1l54" n="N002"/><rs ana="#concept_mus">chromatische</rs> <rs ana="#concept_mus">Vorhalte</rs>, und es ergeben sich dadurch zuweilen
@@ -2382,12 +2382,12 @@
             </p>
          </div>
          <pb facs="#facs_49" n="49"/>
-         <div rend="TEI" facs="#facs_49_TextRegion_1614164288207_520">
+         <div rend="TEI" facs="#facs_49_TextRegion_1614164288207_520" type="page-number">
             <p facs="#facs_49_TextRegion_1614164288207_520">
 				<lb facs="#facs_49_r1l1" n="N001"/>34
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_49_TextRegion_1614164288207_519">
+         <div rend="TEI" facs="#facs_49_TextRegion_1614164288207_519" type="paragraph">
             <p facs="#facs_49_TextRegion_1614164288207_519">
 				<lb facs="#facs_49_r1l2" n="N001"/><rs ana="#concept_mus">Mehrdeutigkeit</rs> in <rs ana="#concept_mus">innerem Zusammenhange</rs> mit einander stehen.
 				<lb facs="#facs_49_r1l3" n="N002"/>Bei 1 haben die beiden ersten <rs ana="#m_chord">Accorde</rs>, der <rs ana="#concept_mus">tonische</rs> und der
@@ -2408,13 +2408,13 @@
 				<lb facs="#facs_49_r1l18" n="N017"/>klang</rs> bewirken können.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_49_Music_1614164308037_525" source="facs_49_Music_1614164308037_525.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_49_TextRegion_1614164275958_511">
+         <div rend="MEI" facs="#facs_49_Music_1614164308037_525" source="facs_49_Music_1614164308037_525.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_49_TextRegion_1614164275958_511" type="heading">
             <p facs="#facs_49_TextRegion_1614164275958_511">
 				<lb facs="#facs_49_r1l52" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;"> <rs ana="#m_chord">Septimenaccorde</rs>.</hi>
             </p>
          </div>
-         <div rend="TEI" facs="#facs_49_TextRegion_1614164271763_507">
+         <div rend="TEI" facs="#facs_49_TextRegion_1614164271763_507" type="paragraph-continued">
             <p facs="#facs_49_TextRegion_1614164271763_507">
 				<lb facs="#facs_49_r1l53" n="N001"/>Ein <rs ana="#m_chord">Septimenaccord</rs> entsteht, wenn zwei <rs ana="#concept_mus">nächst-</rs>, also
 				<lb facs="#facs_49_r1l54" n="N002"/><rs ana="#concept_mus">terzverwandte</rs> <rs ana="#m_chord">Dreiklänge</rs> statt nach einander zu erscheinen,
@@ -2426,12 +2426,12 @@
             </p>
          </div>
          <pb facs="#facs_50" n="50"/>
-         <div rend="TEI" facs="#facs_50_TextRegion_1614164417681_602">
+         <div rend="TEI" facs="#facs_50_TextRegion_1614164417681_602" type="page-number">
             <p facs="#facs_50_TextRegion_1614164417681_602">
 				<lb facs="#facs_50_r1l1" n="N001"/>35
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_50_TextRegion_1614164417681_601">
+         <div rend="TEI" facs="#facs_50_TextRegion_1614164417681_601" type="paragraph-continued">
             <p facs="#facs_50_TextRegion_1614164417681_601">
 				<lb facs="#facs_50_line_1614165447350_658" n="N001"/>erscheint am schwersten, den <rs ana="#concept_mus">gebundenen</rs> <rs ana="#concept_mus">Vorhalten</rs> gleich, mit
 				<lb facs="#facs_50_r1l4" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">vorbereiteter</rs> <rs ana="#concept_mus"> <rs ana="#concept_phy">Dissonanz</rs></rs></hi> und auf <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">accentuirtem</rs> <rs ana="#concept_mus">Tact<pc>¬</pc></rs></hi>
@@ -2440,8 +2440,8 @@
 				<lb facs="#facs_50_r1l7" n="N005"/><rs ana="#m_interval">Septime</rs>, auf <rs ana="#concept_mus">leichtem</rs> <rs ana="#concept_mus">Tacttheile</rs>:
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_50_Music_1614165389046_637" source="facs_50_Music_1614165389046_637.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_50_TextRegion_1614165353970_611">
+         <div rend="MEI" facs="#facs_50_Music_1614165389046_637" source="facs_50_Music_1614165389046_637.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_50_TextRegion_1614165353970_611" type="paragraph">
             <p facs="#facs_50_TextRegion_1614165353970_611">
 				<lb facs="#facs_50_r1l19" n="N001"/>Das Vorrecht, <rs ana="#concept_mus">frei</rs> und <rs ana="#concept_mus">ungebunden</rs> aufzutreten, räumte man
 				<lb facs="#facs_50_r1l20" n="N002"/>bisher nur denjenigen <rs ana="#m_chord">Septimenaccorden</rs> ein, in denen ein
@@ -2449,7 +2449,7 @@
 				<lb facs="#facs_50_r1l22" n="N004"/>$$GRAPHIC oder $$GRAPHIC.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_50_TextRegion_1614164392496_585">
+         <div rend="TEI" facs="#facs_50_TextRegion_1614164392496_585" type="paragraph">
             <p facs="#facs_50_TextRegion_1614164392496_585">
 				<lb facs="#facs_50_r1l23" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Die neuere <rs ana="#concept_mus">Tonkunst</rs> aber läßt auch die schärfste</hi>
 				<lb facs="#facs_50_r1l24" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus"> <rs ana="#concept_phy">Dissonanz</rs></rs> frei auftreten, wenn es durch den Cha<pc>¬</pc></hi>
@@ -2471,14 +2471,14 @@
 				<lb facs="#facs_50_r1l40" n="N018"/>tung der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">vorhergehenden</hi> klar gemacht wird?
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_50_Music_1614165412359_645" source="facs_50_Music_1614165412359_645.mei"><p>MUSIK</p></div>
+         <div rend="MEI" facs="#facs_50_Music_1614165412359_645" source="facs_50_Music_1614165412359_645.mei" type="floating"><p>MUSIK</p></div>
          <pb facs="#facs_51" n="51"/>
-         <div rend="TEI" facs="#facs_51_TextRegion_1614165615744_743">
+         <div rend="TEI" facs="#facs_51_TextRegion_1614165615744_743" type="page-number">
             <p facs="#facs_51_TextRegion_1614165615744_743">
 				<lb facs="#facs_51_r1l1" n="N001"/>36
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_51_TextRegion_1614165615744_742">
+         <div rend="TEI" facs="#facs_51_TextRegion_1614165615744_742" type="paragraph-continued">
             <p facs="#facs_51_TextRegion_1614165615744_742">
 				<lb facs="#facs_51_r1l2" n="N001"/>Ja, sollte die <rs ana="#concept_mus"> <rs ana="#concept_phy">Dissonanz</rs></rs> nicht zuweilen, gleich den soeben
 				<lb facs="#facs_51_r1l3" n="N002"/>aufgestellten Fragen, die Antwort schuldig bleiben können,
@@ -2487,8 +2487,8 @@
 				<lb facs="#facs_51_r1l6" n="N005"/><hi rend="italic:true; fontSize:0.0; kerning:0;"> <persName role="composer" ref="P0046">F. Liszt</persName></hi>, <title ana="#music" ref="W0106">Huldigungs-Marsch</title>.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_51_Music_1614165644332_749" source="facs_51_Music_1614165644332_749.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_51_TextRegion_1614165590721_734">
+         <div rend="MEI" facs="#facs_51_Music_1614165644332_749" source="facs_51_Music_1614165644332_749.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_51_TextRegion_1614165590721_734" type="paragraph">
             <p facs="#facs_51_TextRegion_1614165590721_734">
 				<lb facs="#facs_51_line_1614165708737_788" n="N001"/>wo dem <rs ana="#m_chord">Dominantseptimenaccorde</rs> <rs ana="#m_chord">c e g b</rs> die <rs ana="#concept_mus">Auflösung</rs> in
 				<lb facs="#facs_51_r1l21" n="N002"/>den <rs ana="#m_chord">F dur-Dreiklang</rs>, dem <rs ana="#m_chord">verminderten Septimenaccorde</rs> <rs ana="#m_chord">gis</rs>
@@ -2496,7 +2496,7 @@
 				<lb facs="#facs_51_r1l23" n="N004"/><rs ana="#concept_mus">Stimmenführung</rs> der <rs ana="#concept_mus"> <rs ana="#concept_phy">dissonirenden</rs></rs> <rs ana="#concept_mus">Harmonien</rs>, folgt?
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_51_TextRegion_1614165583471_730">
+         <div rend="TEI" facs="#facs_51_TextRegion_1614165583471_730" type="paragraph-continued">
             <p facs="#facs_51_TextRegion_1614165583471_730">
 				<lb facs="#facs_51_r1l24" n="N001"/>Ueber die <rs ana="#concept_mus">Auflösung</rs> des <rs ana="#m_chord">Septimenaccordes</rs> ist Folgendes
 				<lb facs="#facs_51_r1l25" n="N002"/>zu bemerken. In einer bestimmten <rs ana="#m_tonality">Tonart</rs> bleibend wird, wie
@@ -2515,15 +2515,15 @@
 				<lb facs="#facs_51_r1l38" n="N015"/>er also gleichzeitig nicht übernehmen könnte; z. B.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_51_Music_1614165662433_756" source="facs_51_Music_1614165662433_756.mei"><p>MUSIK</p></div>
+         <div rend="MEI" facs="#facs_51_Music_1614165662433_756" source="facs_51_Music_1614165662433_756.mei" type="floating-continued"><p>MUSIK</p></div>
          <pb facs="#facs_52" n="52"/>
-         <div rend="TEI" facs="#facs_52_TextRegion_1614165749427_826">
+         <div rend="TEI" facs="#facs_52_TextRegion_1614165749427_826" type="page-number">
             <p facs="#facs_52_TextRegion_1614165749427_826">
 				<lb facs="#facs_52_r1l1" n="N001"/>37
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_52_Music_1614165763280_830" source="facs_52_Music_1614165763280_830.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_52_TextRegion_1614165745310_821">
+         <div rend="MEI" facs="#facs_52_Music_1614165763280_830" source="facs_52_Music_1614165763280_830.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_52_TextRegion_1614165745310_821" type="paragraph">
             <p facs="#facs_52_TextRegion_1614165745310_821">
 				<lb facs="#facs_52_r1l12" n="N001"/>Der hier gewählte <rs ana="#m_chord">Dominantseptimenaccord</rs> der <rs ana="#m_tonality">C dur-Tonart</rs>
 				<lb facs="#facs_52_r1l13" n="N002"/>kann sich nicht in den <rs ana="#m_chord">G dur-</rs> und nicht in den <rs ana="#m_chord">verminderten</rs>
@@ -2559,13 +2559,13 @@
 			</p>
          </div>
          <pb facs="#facs_53" n="53"/>
-         <div rend="TEI" facs="#facs_53_TextRegion_1614165878479_906">
+         <div rend="TEI" facs="#facs_53_TextRegion_1614165878479_906" type="page-number">
             <p facs="#facs_53_TextRegion_1614165878479_906">
 				<lb facs="#facs_53_r1l1" n="N001"/>38
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_53_Music_1614165913590_915" source="facs_53_Music_1614165913590_915.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_53_TextRegion_1614165871258_901">
+         <div rend="MEI" facs="#facs_53_Music_1614165913590_915" source="facs_53_Music_1614165913590_915.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_53_TextRegion_1614165871258_901" type="paragraph">
             <p facs="#facs_53_TextRegion_1614165871258_901">
 				<lb facs="#facs_53_r1l10" n="N001"/>Da nun selbst in der <rs ana="#concept_mus">classischen Tonkunst</rs> dem <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">Domi<pc>¬</pc></rs></hi>
 				<lb facs="#facs_53_r1l11" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">nantseptimenaccorde</rs></hi> ein freies Auftreten gestattet war,
@@ -2573,7 +2573,7 @@
 				<lb facs="#facs_53_r1l13" n="N004"/>Sätze aufstellen:
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_53_TextRegion_1614165866936_897">
+         <div rend="TEI" facs="#facs_53_TextRegion_1614165866936_897" type="list">
             <p facs="#facs_53_TextRegion_1614165866936_897">
 				<lb facs="#facs_53_r1l14" n="N001"/>1) Einem bestimmten <rs ana="#m_chord">Dreiklange</rs> (in den nachstehenden
 				<lb facs="#facs_53_r1l15" n="N002"/>Beispielen dem <rs ana="#m_chord">C dur-Dreiklange</rs>) kann jeder der verschiedenen
@@ -2583,16 +2583,16 @@
 				<lb facs="#facs_53_r1l19" n="N006"/>folgen; z. B.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_53_Music_1614165926311_922" source="facs_53_Music_1614165926311_922.mei"><p>MUSIK</p></div>
+         <div rend="MEI" facs="#facs_53_Music_1614165926311_922" source="facs_53_Music_1614165926311_922.mei" type="floating-continued"><p>MUSIK</p></div>
          <pb facs="#facs_54" n="54"/>
-         <div rend="TEI" facs="#facs_54_TextRegion_1614166000667_962">
+         <div rend="TEI" facs="#facs_54_TextRegion_1614166000667_962" type="page-number">
             <p facs="#facs_54_TextRegion_1614166000667_962">
 				<lb facs="#facs_54_r1l1" n="N001"/>39
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_54_region_1617041859575_594"/>
-         <div rend="MEI" facs="#facs_54_Music_1614166045074_974" source="facs_54_Music_1614166045074_974.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_54_TextRegion_1614166024282_967">
+         <div rend="TEI" facs="#facs_54_region_1617041859575_594" type="missing"/>
+         <div rend="MEI" facs="#facs_54_Music_1614166045074_974" source="facs_54_Music_1614166045074_974.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_54_TextRegion_1614166024282_967" type="paragraph">
             <p facs="#facs_54_TextRegion_1614166024282_967">
 				<lb facs="#facs_54_r1l53" n="N001"/>In allen diesen Beispielen nimmt der <rs ana="#m_chord">Dominantseptimen<pc>¬</pc>
 				<lb facs="#facs_54_r1l54" n="N002"/>accord</rs> nur seine <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Hauptauflösung</rs></hi>, nämlich die in den
@@ -2610,13 +2610,13 @@
 			</p>
          </div>
          <pb facs="#facs_55" n="55"/>
-         <div rend="TEI" facs="#facs_55_TextRegion_1614166122412_1020">
+         <div rend="TEI" facs="#facs_55_TextRegion_1614166122412_1020" type="page-number">
             <p facs="#facs_55_TextRegion_1614166122412_1020">
 				<lb facs="#facs_55_r1l1" n="N001"/>40
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_55_Music_1614166133820_1024" source="facs_55_Music_1614166133820_1024.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_55_TextRegion_1614166117537_1015">
+         <div rend="MEI" facs="#facs_55_Music_1614166133820_1024" source="facs_55_Music_1614166133820_1024.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_55_TextRegion_1614166117537_1015" type="paragraph-continued">
             <p facs="#facs_55_TextRegion_1614166117537_1015">
 				<lb facs="#facs_55_r1l82" n="N001"/>Der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">verminderte Septimenaccord</rs></hi>, welcher durch
 				<lb facs="#facs_55_r1l83" n="N002"/>das Zusammenauftreten zweier <rs ana="#concept_mus">terzverwandter</rs> <rs ana="#m_chord">verminderter</rs>
@@ -2631,19 +2631,19 @@
 				<lb facs="#facs_55_r1l92" n="N011"/>desselben übergehen:
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_55_Music_1614166158308_1036" source="facs_55_Music_1614166158308_1036.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_55_TextRegion_1614166108368_1007">
+         <div rend="MEI" facs="#facs_55_Music_1614166158308_1036" source="facs_55_Music_1614166158308_1036.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_55_TextRegion_1614166108368_1007" type="paragraph-continued">
             <p facs="#facs_55_TextRegion_1614166108368_1007">
 				<lb facs="#facs_55_r1l98" n="N001"/>Er kann aber auch eine regelmäßige <rs ana="#concept_mus">Auflösung</rs> finden, indem
 			</p>
          </div>
          <pb facs="#facs_56" n="56"/>
-         <div rend="TEI" facs="#facs_56_TextRegion_1614166221512_1071">
+         <div rend="TEI" facs="#facs_56_TextRegion_1614166221512_1071" type="page-number">
             <p facs="#facs_56_TextRegion_1614166221512_1071">
 				<lb facs="#facs_56_r1l1" n="N001"/>41
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_56_TextRegion_1617041932980_606">
+         <div rend="TEI" facs="#facs_56_TextRegion_1617041932980_606" type="paragraph">
             <p facs="#facs_56_TextRegion_1617041932980_606">
 				<lb facs="#facs_56_r1l2" n="N001"/>sein <rs ana="#m_note">Grundbaß</rs>, gleichviel in welcher <rs ana="#concept_mus">Stimme</rs> derselbe sich be<pc>¬</pc>
 				<lb facs="#facs_56_r1l3" n="N002"/>finde, als <rs ana="#concept_mus">Verzögerung</rs> der <rs ana="#m_interval">Quinte</rs> eines <rs ana="#m_chord">Dur-</rs> oder <rs ana="#m_chord">Moll-</rs>
@@ -2651,9 +2651,9 @@
 				<lb facs="#facs_56_r1l5" n="N004"/><rs ana="#concept_mus">Stimmen</rs> ebenfalls regelmäßig in denselben übergehen; z. B.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_56_TextRegion_1617041932980_605"/>
-         <div rend="MEI" facs="#facs_56_Music_1614166238708_1076" source="facs_56_Music_1614166238708_1076.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_56_TextRegion_1614166211084_1062">
+         <div rend="TEI" facs="#facs_56_TextRegion_1617041932980_605" type="missing"/>
+         <div rend="MEI" facs="#facs_56_Music_1614166238708_1076" source="facs_56_Music_1614166238708_1076.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_56_TextRegion_1614166211084_1062" type="paragraph-continued">
             <p facs="#facs_56_TextRegion_1614166211084_1062">
 				<lb facs="#facs_56_r1l39" n="N001"/>In der <rs ana="#concept_mus">weicheren</rs> <rs ana="#m_tonality">Dur-</rs> oder <rs ana="#concept_mus">härteren</rs> <rs ana="#m_tonality">Moll-Tonart</rs> können
 				<lb facs="#facs_56_r1l40" n="N002"/>nun auch <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">Septimenaccorde</rs> mit <rs ana="#m_interval">übermäßiger Quinte</rs></hi>
@@ -2663,12 +2663,12 @@
             </p>
          </div>
          <pb facs="#facs_57" n="57"/>
-         <div rend="TEI" facs="#facs_57_TextRegion_1614166313977_1132">
+         <div rend="TEI" facs="#facs_57_TextRegion_1614166313977_1132" type="page-number">
             <p facs="#facs_57_TextRegion_1614166313977_1132">
 				<lb facs="#facs_57_r1l1" n="N001"/>42
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_57_TextRegion_1614166313977_1131">
+         <div rend="TEI" facs="#facs_57_TextRegion_1614166313977_1131" type="paragraph">
             <p facs="#facs_57_TextRegion_1614166313977_1131">
 				<lb facs="#facs_57_r1l2" n="N001"/>nun in einer der soeben genannten <rs ana="#m_tonality">Tonarten</rs> vorfinden, wie
 				<lb facs="#facs_57_r1l3" n="N002"/>bei 3, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">oder der <rs ana="#m_tonality">Tonart</rs> fremde <rs ana="#concept_mus">chromatische</rs> <rs ana="#m_note">Töne</rs></hi> be<pc>¬</pc>
@@ -2680,8 +2680,8 @@
 				<lb facs="#facs_57_r1l9" n="N008"/>rungen</rs> folgender <rs ana="#m_note">Accordtöne</rs> erweisen.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_57_Music_1614166330819_1137" source="facs_57_Music_1614166330819_1137.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_57_TextRegion_1614166306198_1123">
+         <div rend="MEI" facs="#facs_57_Music_1614166330819_1137" source="facs_57_Music_1614166330819_1137.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_57_TextRegion_1614166306198_1123" type="paragraph-continued">
             <p facs="#facs_57_TextRegion_1614166306198_1123">
 				<lb facs="#facs_57_r1l43" n="N001"/>Wie die <rs ana="#concept_mus">gebundenen</rs> <rs ana="#concept_mus">Vorhalte</rs> bisher als <rs ana="#concept_mus">Verzögerungen</rs>
 				<lb facs="#facs_57_r1l44" n="N002"/>eines <rs ana="#m_chord">Dreiklanges</rs> benutzt wurden, so kann auch <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">das Auftre<pc>¬</pc></hi>
@@ -2691,15 +2691,15 @@
 				<lb facs="#facs_57_r1l48" n="N006"/>spruch nehmen, oder einen <rs ana="#concept_mus">leichten</rs> zum <rs ana="#concept_mus">schweren</rs> umwandeln.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_57_Music_1614166343096_1145" source="facs_57_Music_1614166343096_1145.mei"><p>MUSIK</p></div>
+         <div rend="MEI" facs="#facs_57_Music_1614166343096_1145" source="facs_57_Music_1614166343096_1145.mei" type="floating-continued"><p>MUSIK</p></div>
          <pb facs="#facs_58" n="58"/>
-         <div rend="TEI" facs="#facs_58_TextRegion_1614166405382_1184">
+         <div rend="TEI" facs="#facs_58_TextRegion_1614166405382_1184" type="page-number">
             <p facs="#facs_58_TextRegion_1614166405382_1184">
 				<lb facs="#facs_58_r1l1" n="N001"/>43
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_58_Music_1614166465612_1216" source="facs_58_Music_1614166465612_1216.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_58_TextRegion_1614166452142_1210">
+         <div rend="MEI" facs="#facs_58_Music_1614166465612_1216" source="facs_58_Music_1614166465612_1216.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_58_TextRegion_1614166452142_1210" type="paragraph">
             <p facs="#facs_58_TextRegion_1614166452142_1210">
 				<lb facs="#facs_58_r1l16" n="N001"/>In den vorstehenden Beispielen ist dergestalt bald die <rs ana="#m_interval">Terze</rs>,
 				<lb facs="#facs_58_r1l17" n="N002"/><rs ana="#m_interval">Quinte</rs> oder <rs ana="#m_interval">Septime</rs>, bald mehrere dieser <rs ana="#m_note">Töne</rs> eines <rs ana="#m_interval">Sep<pc>¬</pc>
@@ -2708,7 +2708,7 @@
 				<lb facs="#facs_58_r1l21" n="N005"/>durch einen <rs ana="#m_chord">übermäßigen Dreiklang</rs> vorbereitet.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_58_TextRegion_1614166449106_1206">
+         <div rend="TEI" facs="#facs_58_TextRegion_1614166449106_1206" type="paragraph">
             <p facs="#facs_58_TextRegion_1614166449106_1206">
 				<lb facs="#facs_58_r1l22" n="N001"/>Diesen <rs ana="#concept_mus">melodisch</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">herabsteigenden</hi> mögen hier noch die
 				<lb facs="#facs_58_r1l23" n="N002"/>ebenso <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">hinaufschreitenden <rs ana="#concept_mus">Verzögerungen</rs></hi> der <rs ana="#m_interval">Terze</rs>,
@@ -2719,8 +2719,8 @@
 				<lb facs="#facs_58_line_1614166441049_1204" n="N007"/>desselben erlaubt.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_58_Music_1614166492601_1229" source="facs_58_Music_1614166492601_1229.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_58_TextRegion_1614166424246_1196">
+         <div rend="MEI" facs="#facs_58_Music_1614166492601_1229" source="facs_58_Music_1614166492601_1229.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_58_TextRegion_1614166424246_1196" type="paragraph">
             <p facs="#facs_58_TextRegion_1614166424246_1196">
 				<lb facs="#facs_58_line_1614166553720_1282" n="N001"/>Wie in den vorstehenden Beispielen das Auftreten, so
 				<lb facs="#facs_58_r1l59" n="N002"/>kann unter gleichen Bedingungen auch die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Auflösung</rs></hi> des
@@ -2730,20 +2730,20 @@
 				<lb facs="#facs_58_r1l63" n="N006"/>gleichzeitig einen <rs ana="#concept_mus">Vorhalt</rs> oben, unten, oder oben und unten.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_58_Music_1614166503001_1236" source="facs_58_Music_1614166503001_1236.mei"><p>MUSIK</p></div>
+         <div rend="MEI" facs="#facs_58_Music_1614166503001_1236" source="facs_58_Music_1614166503001_1236.mei" type="floating-continued"><p>MUSIK</p></div>
          <pb facs="#facs_59" n="59"/>
-         <div rend="TEI" facs="#facs_59_TextRegion_1614166603402_1319">
+         <div rend="TEI" facs="#facs_59_TextRegion_1614166603402_1319" type="page-number">
             <p facs="#facs_59_TextRegion_1614166603402_1319">
 				<lb facs="#facs_59_r1l1" n="N001"/>44
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_59_Music_1614166614712_1323" source="facs_59_Music_1614166614712_1323.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_59_TextRegion_1614166600834_1314">
+         <div rend="MEI" facs="#facs_59_Music_1614166614712_1323" source="facs_59_Music_1614166614712_1323.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_59_TextRegion_1614166600834_1314" type="heading">
             <p facs="#facs_59_TextRegion_1614166600834_1314">
 				<lb facs="#facs_59_r1l25" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;"> <rs ana="#concept_mus">Trugfortschreitung</rs>.</hi>
             </p>
          </div>
-         <div rend="TEI" facs="#facs_59_TextRegion_1614166597929_1310">
+         <div rend="TEI" facs="#facs_59_TextRegion_1614166597929_1310" type="paragraph-continued">
             <p facs="#facs_59_TextRegion_1614166597929_1310">
 				<lb facs="#facs_59_r1l26" n="N001"/>Wenn die <rs ana="#concept_mus"> <rs ana="#concept_phy">Dissonanz</rs></rs> eines <rs ana="#m_chord">Accordes</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">bei ihrer regel<pc>¬</pc></hi>
 				<lb facs="#facs_59_r1l27" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">mäßigen <rs ana="#concept_mus">Auflösung</rs></hi> in einen neuen <rs ana="#concept_mus"> <rs ana="#concept_phy">dissonirenden</rs></rs> <rs ana="#m_chord">Accord</rs>
@@ -2759,15 +2759,15 @@
 				<lb facs="#facs_59_r1l37" n="N012"/>timenaccorden</rs> bei Weitem übertrifft (7).
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_59_Music_1614166636296_1335" source="facs_59_Music_1614166636296_1335.mei"><p>MUSIK</p></div>
+         <div rend="MEI" facs="#facs_59_Music_1614166636296_1335" source="facs_59_Music_1614166636296_1335.mei" type="floating-continued"><p>MUSIK</p></div>
          <pb facs="#facs_60" n="60"/>
-         <div rend="TEI" facs="#facs_60_TextRegion_1614166765062_1405">
+         <div rend="TEI" facs="#facs_60_TextRegion_1614166765062_1405" type="page-number">
             <p facs="#facs_60_TextRegion_1614166765062_1405">
 				<lb facs="#facs_60_r1l1" n="N001"/>45
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_60_Music_1614166840907_1422" source="facs_60_Music_1614166840907_1422.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_60_TextRegion_1614166762800_1400">
+         <div rend="MEI" facs="#facs_60_Music_1614166840907_1422" source="facs_60_Music_1614166840907_1422.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_60_TextRegion_1614166762800_1400" type="paragraph">
             <p facs="#facs_60_TextRegion_1614166762800_1400">
 				<lb facs="#facs_60_r1l24" n="N001"/>In Nr. 2 sollte sich der <rs ana="#m_note">Ton</rs> <rs ana="#m_note">C</rs> als <rs ana="#concept_mus">Vorhalt</rs> der <rs ana="#m_interval">Terze</rs> des
 				<lb facs="#facs_60_r1l25" n="N002"/>folgenden <rs ana="#m_chord">Accordes</rs> erweifen, er springt aber in den <rs ana="#m_note">Grundton</rs>
@@ -2775,18 +2775,18 @@
 				<lb facs="#facs_60_r1l27" n="N004"/>der regelmäßigen.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_60_TextRegion_1614166756001_1396">
+         <div rend="TEI" facs="#facs_60_TextRegion_1614166756001_1396" type="heading">
             <p facs="#facs_60_TextRegion_1614166756001_1396">
 				<lb facs="#facs_60_r1l28" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;"> <rs ana="#concept_mus">Folgen</rs> von <rs ana="#m_chord">Septimenaccorden</rs>.</hi>
             </p>
          </div>
-         <div rend="TEI" facs="#facs_60_TextRegion_1614166753358_1392">
+         <div rend="TEI" facs="#facs_60_TextRegion_1614166753358_1392" type="paragraph">
             <p facs="#facs_60_TextRegion_1614166753358_1392">
 				<lb facs="#facs_60_r1l29" n="N001"/>Eine <rs ana="#concept_mus">Folge</rs> <rs ana="#concept_mus">gebundener</rs> <rs ana="#m_chord">Septimenaccorde</rs> einer bestimmten
 				<lb facs="#facs_60_r1l30" n="N002"/><rs ana="#m_tonality">Tonart</rs> entsteht:
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_60_TextRegion_1614166750819_1388">
+         <div rend="TEI" facs="#facs_60_TextRegion_1614166750819_1388" type="list-continued">
             <p facs="#facs_60_TextRegion_1614166750819_1388">
 				<lb facs="#facs_60_r1l31" n="N001"/>1) wenn die <rs ana="#concept_mus">vorbereitete</rs> <rs ana="#m_interval">Septime</rs> eines <rs ana="#m_tonality">Accordes</rs> ihre
 				<lb facs="#facs_60_r1l32" n="N002"/>regelmäßige <rs ana="#concept_mus">Auflösung</rs> nimmt, die übrigen <rs ana="#concept_mus">Stimmen</rs> aber auf
@@ -2795,8 +2795,8 @@
 				<lb facs="#facs_60_r1l35" n="N005"/>men kann; z. B.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_60_Music_1614166793390_1411" source="facs_60_Music_1614166793390_1411.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_60_TextRegion_1614166726202_1380">
+         <div rend="MEI" facs="#facs_60_Music_1614166793390_1411" source="facs_60_Music_1614166793390_1411.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_60_TextRegion_1614166726202_1380" type="list-continued">
             <p facs="#facs_60_TextRegion_1614166726202_1380">
 				<lb facs="#facs_60_r1l51" n="N001"/>2) wenn die <rs ana="#m_interval">Quinte</rs> und die <rs ana="#m_interval">Septime</rs> eines <rs ana="#m_chord">Accordes</rs> sich
 				<lb facs="#facs_60_r1l52" n="N002"/><rs ana="#concept_mus">stufenweise</rs> abwärts bewegen, während die anderen <rs ana="#concept_mus">Stimmen</rs>
@@ -2805,20 +2805,20 @@
 				<lb facs="#facs_60_r1l55" n="N005"/>eine ähnliche <rs ana="#concept_mus">Folge</rs> hervorrufen können; z. B.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_60_Music_1614166864075_1430" source="facs_60_Music_1614166864075_1430.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_60_TextRegion_1614166718407_1372">
+         <div rend="MEI" facs="#facs_60_Music_1614166864075_1430" source="facs_60_Music_1614166864075_1430.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_60_TextRegion_1614166718407_1372" type="list-continued">
             <p facs="#facs_60_TextRegion_1614166718407_1372">
 				<lb facs="#facs_60_r1l69" n="N001"/>3) wenn die <rs ana="#m_interval">Terze</rs>, <rs ana="#m_interval">Quinte</rs> und <rs ana="#m_interval">Septime</rs> eines <rs ana="#m_chord">Septimen<pc>¬</pc>
 				<lb facs="#facs_60_r1l70" n="N002"/>accordes</rs> (also der obere <rs ana="#m_chord">Dreiklang</rs> desselben) sich in einer sol<pc>¬</pc>
 			</p>
          </div>
          <pb facs="#facs_61" n="61"/>
-         <div rend="TEI" facs="#facs_61_TextRegion_1614166970963_1510">
+         <div rend="TEI" facs="#facs_61_TextRegion_1614166970963_1510" type="page-number">
             <p facs="#facs_61_TextRegion_1614166970963_1510">
 				<lb facs="#facs_61_r2l1" n="N001"/>46
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_61_TextRegion_1614166970963_1509">
+         <div rend="TEI" facs="#facs_61_TextRegion_1614166970963_1509" type="list">
             <p facs="#facs_61_TextRegion_1614166970963_1509">
 				<lb facs="#facs_61_r2l2" n="N001"/>chen <rs ana="#concept_mus">Lage</rs> befinden, daß sie, ohne <rs ana="#concept_mus">Quintenparallelen</rs> zu bilden,
 				<lb facs="#facs_61_r2l3" n="N002"/><rs ana="#concept_mus">stufenweise</rs> abwärts schreiten können (der obere <rs ana="#m_chord">Dreiklang</rs> kann
@@ -2830,8 +2830,8 @@
 				<lb facs="#facs_61_r2l9" n="N008"/>kann; z. B.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_61_Music_1614166986904_1516" source="facs_61_Music_1614166986904_1516.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_61_TextRegion_1614166965705_1501">
+         <div rend="MEI" facs="#facs_61_Music_1614166986904_1516" source="facs_61_Music_1614166986904_1516.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_61_TextRegion_1614166965705_1501" type="paragraph">
             <p facs="#facs_61_TextRegion_1614166965705_1501">
 				<lb facs="#facs_61_r2l23" n="N001"/>Bei einer <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Folge</rs> von <rs ana="#m_chord">Dominantseptimenaccorden</rs></hi>
 				<lb facs="#facs_61_r2l24" n="N002"/>muß der eine ebenso jederzeit als regelmäßige <rs ana="#concept_mus">Verzögerung</rs> des
@@ -2841,15 +2841,15 @@
 				<lb facs="#facs_61_r2l28" n="N006"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">gleich</hi>, ihre Rechtfertigung finden können.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_61_Music_1614166995746_1523" source="facs_61_Music_1614166995746_1523.mei"><p>MUSIK</p></div>
+         <div rend="MEI" facs="#facs_61_Music_1614166995746_1523" source="facs_61_Music_1614166995746_1523.mei" type="floating"><p>MUSIK</p></div>
          <pb facs="#facs_62" n="62"/>
-         <div rend="TEI" facs="#facs_62_TextRegion_1617042074186_644">
+         <div rend="TEI" facs="#facs_62_TextRegion_1617042074186_644" type="page-number">
             <p facs="#facs_62_TextRegion_1617042074186_644">
 				<lb facs="#facs_62_r1l1" n="N001"/>47
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_62_TextRegion_1617042074186_643"/>
-         <div rend="TEI" facs="#facs_62_TextRegion_1614167165428_1613">
+         <div rend="TEI" facs="#facs_62_TextRegion_1617042074186_643" type="missing"/>
+         <div rend="TEI" facs="#facs_62_TextRegion_1614167165428_1613" type="paragraph">
             <p facs="#facs_62_TextRegion_1614167165428_1613">
 				<lb facs="#facs_62_r1l3" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Der <rs ana="#m_chord">verminderte Septimenaccord</rs></hi> kann, indem nur
 				<lb facs="#facs_62_r1l4" n="N002"/>eine seiner <rs ana="#concept_mus">Stimmen</rs> sich bewegt und einen <rs ana="#m_interval">Halbton</rs> abwärts
@@ -2862,13 +2862,13 @@
 				<lb facs="#facs_62_r1l11" n="N009"/>ausgeführt werden, wie unten bei 3 u. 4, u. s. f.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_62_Music_1614167228409_1639" source="facs_62_Music_1614167228409_1639.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_62_TextRegion_1614167157433_1605">
+         <div rend="MEI" facs="#facs_62_Music_1614167228409_1639" source="facs_62_Music_1614167228409_1639.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_62_TextRegion_1614167157433_1605" type="heading">
             <p facs="#facs_62_TextRegion_1614167157433_1605">
 				<lb facs="#facs_62_r1l55" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;"> <rs ana="#concept_mus">Orgelpunct</rs>.</hi>
             </p>
          </div>
-         <div rend="TEI" facs="#facs_62_TextRegion_1614167154934_1601">
+         <div rend="TEI" facs="#facs_62_TextRegion_1614167154934_1601" type="paragraph-continued">
             <p facs="#facs_62_TextRegion_1614167154934_1601">
 				<lb facs="#facs_62_r1l56" n="N001"/>Unser Ohr hat sich nicht allein schon an die anhaltende
 				<lb facs="#facs_62_r1l57" n="N002"/><rs ana="#concept_mus">Spannung</rs> einer <rs ana="#concept_mus">Folge</rs> von <rs ana="#m_chord">Septimenaccorden</rs> gewöhnt, es er<pc>¬</pc>
@@ -2880,12 +2880,12 @@
 			</p>
          </div>
          <pb facs="#facs_63" n="63"/>
-         <div rend="TEI" facs="#facs_63_TextRegion_1614168070472_1750">
+         <div rend="TEI" facs="#facs_63_TextRegion_1614168070472_1750" type="page-number">
             <p facs="#facs_63_TextRegion_1614168070472_1750">
 				<lb facs="#facs_63_r1l1" n="N001"/>48
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_63_TextRegion_1614168070472_1749">
+         <div rend="TEI" facs="#facs_63_TextRegion_1614168070472_1749" type="paragraph">
             <p facs="#facs_63_TextRegion_1614168070472_1749">
 				<lb facs="#facs_63_r1l2" n="N001"/>aus zweien oder aus mehreren <rs ana="#m_chord">Accorden</rs> bestehen und nach
 				<lb facs="#facs_63_r1l3" n="N002"/>einem ausgehaltenen <rs ana="#m_note">Tone</rs> der tiefsten <rs ana="#concept_mus">Stimme</rs>, oder zugleich
@@ -2896,7 +2896,7 @@
 				<lb facs="#facs_63_r1l8" n="N007"/>oder ein <rs ana="#m_chord">verminderter Septimenaccord</rs>.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_63_TextRegion_1614168068242_1745">
+         <div rend="TEI" facs="#facs_63_TextRegion_1614168068242_1745" type="paragraph-continued">
             <p facs="#facs_63_TextRegion_1614168068242_1745">
 				<lb facs="#facs_63_r1l9" n="N001"/>In den folgenden Beispielen entsteht bei 1 der sogenannte
 				<lb facs="#facs_63_r1l10" n="N002"/>„<rs ana="#m_chord">Nonenaccord</rs>”, bei 2 der sogenannte „<rs ana="#m_chord">Undecimenaccord</rs>” und
@@ -2906,8 +2906,8 @@
 				<lb facs="#facs_63_r1l14" n="N006"/>benutzt worden.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_63_Music_1614168110607_1761" source="facs_63_Music_1614168110607_1761.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_63_TextRegion_1614168053931_1737">
+         <div rend="MEI" facs="#facs_63_Music_1614168110607_1761" source="facs_63_Music_1614168110607_1761.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_63_TextRegion_1614168053931_1737" type="paragraph-continued">
             <p facs="#facs_63_TextRegion_1614168053931_1737">
 				<lb facs="#facs_63_r1l32" n="N001"/>Diese <rs ana="#concept_mus"> <rs ana="#concept_phy">dissonirenden</rs></rs> <rs ana="#concept_mus">Harmonien</rs> sind also <rs ana="#concept_mus">vierstimmige</rs> <rs ana="#m_chord">Accorde</rs>,
 				<lb facs="#facs_63_r1l33" n="N002"/>welche jede <rs ana="#concept_mus">Lage</rs> annehmen, und jede regelmäßige <rs ana="#concept_mus">Fortschrei<pc>¬</pc>
@@ -2920,8 +2920,8 @@
 				<lb facs="#facs_63_r1l40" n="N009"/>können:
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_63_Music_1614168119240_1768" source="facs_63_Music_1614168119240_1768.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_63_TextRegion_1614168042112_1729">
+         <div rend="MEI" facs="#facs_63_Music_1614168119240_1768" source="facs_63_Music_1614168119240_1768.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_63_TextRegion_1614168042112_1729" type="paragraph-continued">
             <p facs="#facs_63_TextRegion_1614168042112_1729">
 				<lb facs="#facs_63_r1l44" n="N001"/>Wenn aber der <rs ana="#m_note">Halteton</rs> bei 1 mit der <rs ana="#concept_mus">Auflösung</rs> der <rs ana="#concept_mus">Stimmen</rs>
 				<lb facs="#facs_63_r1l45" n="N002"/>des über ihm stehenden <rs ana="#m_chord">Septimenaccordes</rs> zugleich seine Stelle
@@ -2929,14 +2929,14 @@
 				<lb facs="#facs_63_r1l48" n="N004"/>schreitet:
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_63_Music_1614168128804_1775" source="facs_63_Music_1614168128804_1775.mei"><p>MUSIK</p></div>
+         <div rend="MEI" facs="#facs_63_Music_1614168128804_1775" source="facs_63_Music_1614168128804_1775.mei" type="floating"><p>MUSIK</p></div>
          <pb facs="#facs_64" n="64"/>
-         <div rend="TEI" facs="#facs_64_TextRegion_1614168228904_1856">
+         <div rend="TEI" facs="#facs_64_TextRegion_1614168228904_1856" type="page-number">
             <p facs="#facs_64_TextRegion_1614168228904_1856">
 				<lb facs="#facs_64_r1l1" n="N001"/>49
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_64_TextRegion_1614168228904_1855">
+         <div rend="TEI" facs="#facs_64_TextRegion_1614168228904_1855" type="paragraph">
             <p facs="#facs_64_TextRegion_1614168228904_1855">
 				<lb facs="#facs_64_r1l2" n="N001"/>so ist er dazu berechtigt, weil nicht er, sondern der bei dieser
 				<lb facs="#facs_64_r1l3" n="N002"/><rs ana="#concept_mus">Harmonie</rs> betheiligte <rs ana="#m_chord">Septimenaccord</rs> eine <rs ana="#concept_mus">Verzögerung</rs> des
@@ -2944,7 +2944,7 @@
 				<lb facs="#facs_64_line_1614168226600_1853" n="N004"/><rs ana="#concept_mus">Fortschreitung</rs> nehmen durfte.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_64_TextRegion_1617042161681_680">
+         <div rend="TEI" facs="#facs_64_TextRegion_1617042161681_680" type="paragraph-continued">
             <p facs="#facs_64_TextRegion_1617042161681_680">
 				<lb facs="#facs_64_r1l6" n="N001"/>Gewöhnlich macht sich der <rs ana="#concept_mus">Orgelpunct</rs> gegen das Ende
 				<lb facs="#facs_64_r1l7" n="N002"/>eines <rs ana="#concept_mus">Tonstückes</rs> geltend und zwar über der <rs ana="#concept_mus">Oberdominante</rs>,
@@ -2964,20 +2964,20 @@
 				<lb facs="#facs_64_r1l22" n="N016"/>haltsdissonanz</rs>, wie bei 3.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_64_TextRegion_1617042161681_679"/>
-         <div rend="TEI" facs="#facs_64_TextRegion_1614168360582_1981">
+         <div rend="TEI" facs="#facs_64_TextRegion_1617042161681_679" type="missing"/>
+         <div rend="TEI" facs="#facs_64_TextRegion_1614168360582_1981" type="paragraph-continued">
             <p facs="#facs_64_TextRegion_1614168360582_1981">
 				<lb facs="#facs_64_r1l23" n="N001"/>Können nun, wie wir gesehen haben, auch zwei <rs ana="#m_note">Haltetöne</rs>
 				<lb facs="#facs_64_r1l24" n="N002"/>gleichzeitig auftreten, so dürfen diese auch nach einander oder
 			</p>
          </div>
          <pb facs="#facs_65" n="65"/>
-         <div rend="TEI" facs="#facs_65_TextRegion_1614168415007_2007">
+         <div rend="TEI" facs="#facs_65_TextRegion_1614168415007_2007" type="page-number">
             <p facs="#facs_65_TextRegion_1614168415007_2007">
 				<lb facs="#facs_65_r1l1" n="N001"/>50
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_65_TextRegion_1614168415007_2006">
+         <div rend="TEI" facs="#facs_65_TextRegion_1614168415007_2006" type="paragraph">
             <p facs="#facs_65_TextRegion_1614168415007_2006">
 				<lb facs="#facs_65_r1l2" n="N001"/>gebrochen erscheinen und sogar durch <rs ana="#concept_mus">Vorschläge</rs> und <rs ana="#m_note">Durch<pc>¬</pc>
 				<lb facs="#facs_65_r1l3" n="N002"/>gangstöne</rs> noch <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">verziert</rs></hi> werden, wodurch sodann ein <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">haltendes</rs></hi>
@@ -2992,13 +2992,13 @@
 				<lb facs="#facs_65_r1l12" n="N011"/>Töne! sogar das Beispiel von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">drei</hi> gleichzeitigen <rs ana="#m_note">Haltetönen</rs>:
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_65_Music_1614168448956_2017" source="facs_65_Music_1614168448956_2017.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_65_TextRegion_1614168396642_1998">
+         <div rend="MEI" facs="#facs_65_Music_1614168448956_2017" source="facs_65_Music_1614168448956_2017.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_65_TextRegion_1614168396642_1998" type="heading">
             <p facs="#facs_65_TextRegion_1614168396642_1998">
 				<lb facs="#facs_65_r1l21" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;"> <rs ana="#concept_mus">Schlußbildung</rs>.</hi>
             </p>
          </div>
-         <div rend="TEI" facs="#facs_65_TextRegion_1614168392006_1994">
+         <div rend="TEI" facs="#facs_65_TextRegion_1614168392006_1994" type="paragraph-continued">
             <p facs="#facs_65_TextRegion_1614168392006_1994">
 				<lb facs="#facs_65_r1l22" n="N001"/>Die <rs ana="#concept_mus">harmonische Bedeutung</rs> eines <rs ana="#m_chord">Dreiklanges</rs> erkennen
 				<lb facs="#facs_65_r1l23" n="N002"/>wir erst durch seine Verbindung mit anderen <rs ana="#m_chord">Accorden</rs>. So
@@ -3019,12 +3019,12 @@
 			</p>
          </div>
          <pb facs="#facs_66" n="66"/>
-         <div rend="TEI" facs="#facs_66_TextRegion_1614168654981_2087">
+         <div rend="TEI" facs="#facs_66_TextRegion_1614168654981_2087" type="page-number">
             <p facs="#facs_66_TextRegion_1614168654981_2087">
 				<lb facs="#facs_66_r2l1" n="N001"/>51
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_66_TextRegion_1614168654981_2086">
+         <div rend="TEI" facs="#facs_66_TextRegion_1614168654981_2086" type="paragraph-continued">
             <p facs="#facs_66_TextRegion_1614168654981_2086">
 				<lb facs="#facs_66_r2l2" n="N001"/>welcher dem <rs ana="#concept_mus">tonischen</rs> <rs ana="#m_chord">Durdreiklange</rs> der <rs ana="#m_chord">Oberdominantdrei<pc>¬</pc>
 				<lb facs="#facs_66_r2l3" n="N002"/>klang</rs> vorangeht, oder andere noch besonders zu besprechende
@@ -3034,16 +3034,16 @@
 				<lb facs="#facs_66_r2l7" n="N006"/>umgekehrt, wie aus den folgenden Beispielen zu ersehen.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_66_region_1617042269926_748"/>
-         <div rend="MEI" facs="#facs_66_Music_1614168681766_2096" source="facs_66_Music_1614168681766_2096.mei"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_66_region_1617042269926_748" type="missing"/>
+         <div rend="MEI" facs="#facs_66_Music_1614168681766_2096" source="facs_66_Music_1614168681766_2096.mei" type="floating-continued"><p>MUSIK</p></div>
          <pb facs="#facs_67" n="67"/>
-         <div rend="TEI" facs="#facs_67_TextRegion_1614168838283_2170">
+         <div rend="TEI" facs="#facs_67_TextRegion_1614168838283_2170" type="page-number">
             <p facs="#facs_67_TextRegion_1614168838283_2170">
 				<lb facs="#facs_67_r1l2" n="N001"/>52
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_67_Music_1614168889207_2186" source="facs_67_Music_1614168889207_2186.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_67_TextRegion_1614168835308_2165">
+         <div rend="MEI" facs="#facs_67_Music_1614168889207_2186" source="facs_67_Music_1614168889207_2186.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_67_TextRegion_1614168835308_2165" type="paragraph">
             <p facs="#facs_67_TextRegion_1614168835308_2165">
 				<lb facs="#facs_67_r1l15" n="N001"/>so bildet diese <rs ana="#concept_mus">Folge</rs> zwar keinen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Schlußfall</rs></hi>, wol aber einen
 				<lb facs="#facs_67_r1l16" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Einschnitt</rs></hi>. <rs ana="#concept_mus">Terzverwandte</rs> <rs ana="#m_chord">Dreiklänge</rs> aber, wie der <rs ana="#m_chord">A moll-</rs>
@@ -3052,7 +3052,7 @@
 				<lb facs="#facs_67_line_1614168828330_2162" n="N005"/>den Eindruck einer <rs ana="#concept_mus">Cäsur</rs> hervorbringt.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_67_TextRegion_1614168825923_2159">
+         <div rend="TEI" facs="#facs_67_TextRegion_1614168825923_2159" type="paragraph-continued">
             <p facs="#facs_67_TextRegion_1614168825923_2159">
 				<lb facs="#facs_67_r1l20" n="N001"/>Nur der <rs ana="#concept_mus">tonische</rs> <rs ana="#m_chord">Dreiklang</rs> in der <rs ana="#concept_mus">Grundlage</rs> kann als
 				<lb facs="#facs_67_r1l21" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">Schlußaccord</rs></hi> und auf <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">accentuirtem</rs> <rs ana="#concept_mus">Tacttheile</rs></hi> das be<pc>¬</pc>
@@ -3067,16 +3067,16 @@
 				<lb facs="#facs_67_r1l30" n="N011"/>und der <rs ana="#m_interval">Secunde</rs>, gleichzeitig hören läßt.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_67_Music_1614168867048_2176" source="facs_67_Music_1614168867048_2176.mei"><p>MUSIK</p></div>
+         <div rend="MEI" facs="#facs_67_Music_1614168867048_2176" source="facs_67_Music_1614168867048_2176.mei" type="floating-continued"><p>MUSIK</p></div>
          <pb facs="#facs_68" n="68"/>
-         <div rend="TEI" facs="#facs_68_TextRegion_1614168972558_2259">
+         <div rend="TEI" facs="#facs_68_TextRegion_1614168972558_2259" type="page-number">
             <p facs="#facs_68_TextRegion_1614168972558_2259">
 				<lb facs="#facs_68_r1l1" n="N001"/>53
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_68_Music_1614168984371_2263" source="facs_68_Music_1614168984371_2263.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_68_region_1617042424446_770"/>
-         <div rend="TEI" facs="#facs_68_TextRegion_1614168996671_2270">
+         <div rend="MEI" facs="#facs_68_Music_1614168984371_2263" source="facs_68_Music_1614168984371_2263.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_68_region_1617042424446_770" type="missing"/>
+         <div rend="TEI" facs="#facs_68_TextRegion_1614168996671_2270" type="paragraph">
             <p facs="#facs_68_TextRegion_1614168996671_2270">
 				<lb facs="#facs_68_r1l18" n="N001"/>So läßt auch die neuere <rs ana="#concept_mus">Tonkunst</rs> oft hart vor dem <rs ana="#concept_mus">Schlusse</rs>
 				<lb facs="#facs_68_r1l19" n="N002"/>noch einen oder mehrere der <rs ana="#m_tonality">Tonart</rs> nicht eigene, sondern <rs ana="#concept_mus">chro<pc>¬</pc>
@@ -3086,14 +3086,14 @@
 			</p>
          </div>
          <pb facs="#facs_69" n="69"/>
-         <div rend="TEI" facs="#facs_69_TextRegion_1614169054652_2304">
+         <div rend="TEI" facs="#facs_69_TextRegion_1614169054652_2304" type="page-number">
             <p facs="#facs_69_TextRegion_1614169054652_2304">
 				<lb facs="#facs_69_r1l1" n="N001"/>54
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_69_region_1617042450438_777"/>
-         <div rend="MEI" facs="#facs_69_Music_1614169079908_2319" source="facs_69_Music_1614169079908_2319.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_69_TextRegion_1614169067263_2308">
+         <div rend="TEI" facs="#facs_69_region_1617042450438_777" type="missing"/>
+         <div rend="MEI" facs="#facs_69_Music_1614169079908_2319" source="facs_69_Music_1614169079908_2319.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_69_TextRegion_1614169067263_2308" type="paragraph">
             <p facs="#facs_69_TextRegion_1614169067263_2308">
 				<lb facs="#facs_69_r1l19" n="N001"/>Nochmals ist hier darauf aufmerksam zu machen, daß be<pc>¬</pc>
 				<lb facs="#facs_69_line_1614169133528_2342" n="N002"/>sonders da, wo die <rs ana="#concept_mus"> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">innere</hi> harmonische Verbindung</rs> plötzlich
@@ -3104,17 +3104,17 @@
 			</p>
          </div>
          <pb facs="#facs_70" n="70"/>
-         <div rend="TEI" facs="#facs_70_TextRegion_1614169163061_2367">
+         <div rend="TEI" facs="#facs_70_TextRegion_1614169163061_2367" type="page-number">
             <p facs="#facs_70_TextRegion_1614169163061_2367">
 				<lb facs="#facs_70_r1l1" n="N001"/>55
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_70_TextRegion_1614169163061_2366">
+         <div rend="TEI" facs="#facs_70_TextRegion_1614169163061_2366" type="heading">
             <p facs="#facs_70_TextRegion_1614169163061_2366">
 				<lb facs="#facs_70_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;"> <rs ana="#concept_mus">Modulation</rs>.</hi>
             </p>
          </div>
-         <div rend="TEI" facs="#facs_70_TextRegion_1614169159115_2362">
+         <div rend="TEI" facs="#facs_70_TextRegion_1614169159115_2362" type="paragraph-continued">
             <p facs="#facs_70_TextRegion_1614169159115_2362">
 				<lb facs="#facs_70_r1l3" n="N001"/>Ein jedes <rs ana="#concept_mus">Tonstück</rs>, welches einen nachhaltigen Eindruck
 				<lb facs="#facs_70_r1l4" n="N002"/>hinterlassen soll, wird bei der nothwendigen Einheit in <rs ana="#concept_mus">Fär<pc>¬</pc>
@@ -3151,12 +3151,12 @@
             </p>
          </div>
          <pb facs="#facs_71" n="71"/>
-         <div rend="TEI" facs="#facs_71_TextRegion_1614169226156_2430">
+         <div rend="TEI" facs="#facs_71_TextRegion_1614169226156_2430" type="page-number">
             <p facs="#facs_71_TextRegion_1614169226156_2430">
 				<lb facs="#facs_71_r1l1" n="N001"/>56
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_71_TextRegion_1614169226156_2429">
+         <div rend="TEI" facs="#facs_71_TextRegion_1614169226156_2429" type="paragraph">
             <p facs="#facs_71_TextRegion_1614169226156_2429">
 				<lb facs="#facs_71_r1l2" n="N001"/><rs ana="#m_tonality">bentonart</rs> und ein <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Schlußsatz</rs></hi> in derselben <rs ana="#m_tonality">Nebentonart</rs> folgen.
 				<lb facs="#facs_71_r1l3" n="N002"/>Im <rs ana="#concept_mus">zweiten Theile</rs> aber beginnt der Kampf der beiden <rs ana="#concept_mus">Gegen<pc>¬</pc>
@@ -3178,7 +3178,7 @@
 				<lb facs="#facs_71_r1l19" n="N018"/>einer <rs ana="#m_tonality">Nebentonart</rs> findet.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_71_TextRegion_1614169222194_2425">
+         <div rend="TEI" facs="#facs_71_TextRegion_1614169222194_2425" type="paragraph-continued">
             <p facs="#facs_71_TextRegion_1614169222194_2425">
 				<lb facs="#facs_71_r1l20" n="N001"/>Bei der <rs ana="#concept_mus">Modulation</rs> nun soll der Eindruck einer ersten
 				<lb facs="#facs_71_r1l21" n="N002"/><rs ana="#m_tonality">Tonart</rs> verlöscht und eine zweite in ihren <rs ana="#concept_mus">charakteristischen</rs>
@@ -3196,14 +3196,14 @@
 				<lb facs="#facs_71_r1l33" n="N014"/><rs ana="#m_chord">Unterdominantdreiklang</rs> benutzt.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_71_Music_1614169251251_2436" source="facs_71_Music_1614169251251_2436.mei"><p>MUSIK</p></div>
+         <div rend="MEI" facs="#facs_71_Music_1614169251251_2436" source="facs_71_Music_1614169251251_2436.mei" type="floating"><p>MUSIK</p></div>
          <pb facs="#facs_72" n="72"/>
-         <div rend="TEI" facs="#facs_72_TextRegion_1614169352288_2526">
+         <div rend="TEI" facs="#facs_72_TextRegion_1614169352288_2526" type="page-number">
             <p facs="#facs_72_TextRegion_1614169352288_2526">
 				<lb facs="#facs_72_r1l1" n="N001"/>57
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_72_TextRegion_1614169352288_2525">
+         <div rend="TEI" facs="#facs_72_TextRegion_1614169352288_2525" type="paragraph-continued">
             <p facs="#facs_72_TextRegion_1614169352288_2525">
 				<lb facs="#facs_72_r1l2" n="N001"/>Wir konnten aber vom <rs ana="#m_chord">B dur-Dreiklange</rs> aus sogleich den
 				<lb facs="#facs_72_r1l3" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">weichen</rs></hi> <rs ana="#m_chord">Unterdominantdreiklang</rs> der <rs ana="#m_tonality">D dur-Tonart</rs> erreichen,
@@ -3211,8 +3211,8 @@
 				<lb facs="#facs_72_r1l5" n="N004"/>beginnen:
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_72_Music_1614169398235_2538" source="facs_72_Music_1614169398235_2538.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_72_TextRegion_1614169345289_2517">
+         <div rend="MEI" facs="#facs_72_Music_1614169398235_2538" source="facs_72_Music_1614169398235_2538.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_72_TextRegion_1614169345289_2517" type="paragraph-continued">
             <p facs="#facs_72_TextRegion_1614169345289_2517">
 				<lb facs="#facs_72_r1l16" n="N001"/>Einer in Beziehung auf eine erste <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">vertieften</hi> <rs ana="#m_tonality">Tonart</rs> nähern
 				<lb facs="#facs_72_r1l17" n="N002"/>wir uns ebenso <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">gradweise</hi>, wenn wir den <rs ana="#m_note">Grundbaß</rs> des
@@ -3221,16 +3221,16 @@
 				<lb facs="#facs_72_r1l20" n="N005"/>oben angedeutete Verfahren beobachten; z. B.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_72_Music_1614169406681_2545" source="facs_72_Music_1614169406681_2545.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_72_TextRegion_1614169337136_2509">
+         <div rend="MEI" facs="#facs_72_Music_1614169406681_2545" source="facs_72_Music_1614169406681_2545.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_72_TextRegion_1614169337136_2509" type="paragraph">
             <p facs="#facs_72_TextRegion_1614169337136_2509">
 				<lb facs="#facs_72_r1l31" n="N001"/>Auch hier konnten wir den <rs ana="#concept_mus">weichen</rs> <rs ana="#m_chord">Unterdominantdreiklang</rs> der
 				<lb facs="#facs_72_r1l32" n="N002"/><rs ana="#m_tonality">D dur-Tonart</rs> benutzen und damit sogleich in die <rs ana="#m_tonality">B dur-Tonart</rs>
 				<lb facs="#facs_72_r1l33" n="N003"/>hineinversetzt werden:
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_72_Music_1614169414693_2552" source="facs_72_Music_1614169414693_2552.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_72_TextRegion_1614169332455_2501">
+         <div rend="MEI" facs="#facs_72_Music_1614169414693_2552" source="facs_72_Music_1614169414693_2552.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_72_TextRegion_1614169332455_2501" type="paragraph">
             <p facs="#facs_72_TextRegion_1614169332455_2501">
 				<lb facs="#facs_72_r1l41" n="N001"/>Der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">weiche</rs> <rs ana="#m_chord">Unterdominant-Dreiklang</rs></hi> eines <rs ana="#m_chord">Dur-</rs>
 				<lb facs="#facs_72_r1l42" n="N002"/><rs ana="#m_chord">Dreiklanges</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">vertieft also jederzeit um vier Grad</hi>, wie der
@@ -3238,7 +3238,7 @@
 				<lb facs="#facs_72_r1l44" n="N004"/><rs ana="#m_chord">Moll-Dreiklanges</rs> um <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">vier Grad erhöhen</hi> wird.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_72_TextRegion_1614169329437_2497">
+         <div rend="TEI" facs="#facs_72_TextRegion_1614169329437_2497" type="paragraph-continued">
             <p facs="#facs_72_TextRegion_1614169329437_2497">
 				<lb facs="#facs_72_r1l45" n="N001"/>Der <rs ana="#concept_mus">Uebergang</rs> aus einer <rs ana="#m_tonality">Tonart</rs> in die andere ist in den
 				<lb facs="#facs_72_r1l46" n="N002"/>vorstehenden Beispielen nur durch <rs ana="#concept_mus">nahe verwandte</rs> <rs ana="#concept_mus">Dreiklangs<pc>¬</pc>
@@ -3248,36 +3248,36 @@
 			</p>
          </div>
          <pb facs="#facs_73" n="73"/>
-         <div rend="TEI" facs="#facs_73_TextRegion_1614169513272_2655">
+         <div rend="TEI" facs="#facs_73_TextRegion_1614169513272_2655" type="page-number">
             <p facs="#facs_73_TextRegion_1614169513272_2655">
 				<lb facs="#facs_73_r1l1" n="N001"/>58
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_73_TextRegion_1614169513272_2654">
+         <div rend="TEI" facs="#facs_73_TextRegion_1614169513272_2654" type="paragraph-continued">
             <p facs="#facs_73_TextRegion_1614169513272_2654">
 				<lb facs="#facs_73_r1l2" n="N001"/>können wir den <rs ana="#concept_mus">tonischen</rs> <rs ana="#m_chord">Dreiklang</rs> der zu erreichenden <rs ana="#m_tonality">Tonart</rs>
 				<lb facs="#facs_73_r1l3" n="N002"/>auch <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">unvermittelt</hi> auftreten lassen und durch eine <rs ana="#concept_mus">Cadenz</rs> als
 				<lb facs="#facs_73_r1l4" n="N003"/>solchen bezeichnen; z. B.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_73_Music_1614169544716_2666" source="facs_73_Music_1614169544716_2666.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_73_TextRegion_1614169507029_2646">
+         <div rend="MEI" facs="#facs_73_Music_1614169544716_2666" source="facs_73_Music_1614169544716_2666.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_73_TextRegion_1614169507029_2646" type="paragraph-continued">
             <p facs="#facs_73_TextRegion_1614169507029_2646">
 				<lb facs="#facs_73_r1l10" n="N001"/>Oder wir können den <rs ana="#concept_mus">Uebergang</rs> durch den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">Dominantsep<pc>¬</pc></rs></hi>
 				<lb facs="#facs_73_r1l11" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">timenaccord</rs> der ersten oder der folgenden <rs ana="#m_tonality">Tonart</rs></hi>
 				<lb facs="#facs_73_r1l12" n="N003"/>vermitteln; z. B.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_73_Music_1614169554206_2674" source="facs_73_Music_1614169554206_2674.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_73_TextRegion_1614169497360_2638">
+         <div rend="MEI" facs="#facs_73_Music_1614169554206_2674" source="facs_73_Music_1614169554206_2674.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_73_TextRegion_1614169497360_2638" type="paragraph">
             <p facs="#facs_73_TextRegion_1614169497360_2638">
 				<lb facs="#facs_73_r1l34" n="N001"/>Oder endlich auch die <rs ana="#concept_mus">Vermittlung</rs> eines <rs ana="#m_chord">übermäßigen Drei<pc>¬</pc>
 				<lb facs="#facs_73_line_1614169598450_2712" n="N002"/>klanges</rs>, eines <rs ana="#m_chord">verminderten Septimenaccordes</rs>, oder einer her<pc>¬</pc>
 				<lb facs="#facs_73_r1l37" n="N003"/>beigeführten <rs ana="#concept_mus">Trugfortschreitung</rs> in Anspruch nehmen; z. B.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_73_Music_1614169564740_2681" source="facs_73_Music_1614169564740_2681.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_73_TextRegion_1614169488980_2630">
+         <div rend="MEI" facs="#facs_73_Music_1614169564740_2681" source="facs_73_Music_1614169564740_2681.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_73_TextRegion_1614169488980_2630" type="paragraph-continued">
             <p facs="#facs_73_TextRegion_1614169488980_2630">
 				<lb facs="#facs_73_r1l56" n="N001"/>Aber nicht nur, um die <rs ana="#concept_mus">Episoden</rs> eines <rs ana="#concept_mus">Tonstückes</rs> entweder
 				<lb facs="#facs_73_r1l57" n="N002"/>sanft vorbereitet oder plötzlich überraschend einzuführen, son<pc>¬</pc>
@@ -3289,12 +3289,12 @@
 			</p>
          </div>
          <pb facs="#facs_74" n="74"/>
-         <div rend="TEI" facs="#facs_74_TextRegion_1614169640124_2752">
+         <div rend="TEI" facs="#facs_74_TextRegion_1614169640124_2752" type="page-number">
             <p facs="#facs_74_TextRegion_1614169640124_2752">
 				<lb facs="#facs_74_r1l1" n="N001"/>59
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_74_TextRegion_1614169640124_2751">
+         <div rend="TEI" facs="#facs_74_TextRegion_1614169640124_2751" type="paragraph">
             <p facs="#facs_74_TextRegion_1614169640124_2751">
 				<lb facs="#facs_74_r1l2" n="N001"/>samkeit. Wie aber die Wahl dieser dem festgehaltenen Charak<pc>¬</pc>
 				<lb facs="#facs_74_r1l3" n="N002"/>ter eines sinnigen <rs ana="#concept_mus">Tonstückes</rs> entsprechenden <rs ana="#concept_mus">Ausweichungen</rs> und
@@ -3311,12 +3311,12 @@
 				<lb facs="#facs_74_r1l20" n="N013"/>Schönen zu bestimmen.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_74_TextRegion_1614169638202_2747">
+         <div rend="TEI" facs="#facs_74_TextRegion_1614169638202_2747" type="heading">
             <p facs="#facs_74_TextRegion_1614169638202_2747">
 				<lb facs="#facs_74_r1l21" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">Die <date>heutige</date> <rs ana="#concept_mus">Chromatik</rs> und <rs ana="#concept_mus">Enharmonik</rs>.</hi>
             </p>
          </div>
-         <div rend="TEI" facs="#facs_74_TextRegion_1614169636731_2743">
+         <div rend="TEI" facs="#facs_74_TextRegion_1614169636731_2743" type="paragraph-continued">
             <p facs="#facs_74_TextRegion_1614169636731_2743">
 				<lb facs="#facs_74_r1l22" n="N001"/>Die neuere <rs ana="#concept_mus">Tonkunst</rs> faßt die <rs ana="#concept_mus">chromatischen</rs> und <rs ana="#concept_mus">enhar<pc>¬</pc>
 				<lb facs="#facs_74_r1l23" n="N002"/>monischen</rs> <rs ana="#m_note">Töne</rs> anders auf als die ältere. Diese betrachtet
@@ -3330,20 +3330,20 @@
 				<lb facs="#facs_74_r1l31" n="N010"/>wie z. B. hier in <rs ana="#m_note">fis</rs> und <rs ana="#m_note">ges</rs>:
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_74_Music_1614169670984_2763" source="facs_74_Music_1614169670984_2763.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_74_TextRegion_1614169627255_2735">
+         <div rend="MEI" facs="#facs_74_Music_1614169670984_2763" source="facs_74_Music_1614169670984_2763.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_74_TextRegion_1614169627255_2735" type="paragraph-continued">
             <p facs="#facs_74_TextRegion_1614169627255_2735">
 				<lb facs="#facs_74_r1l39" n="N001"/>welche sie nur in ihrer <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_phy">akustisch</rs> reinen</hi> Bedeutung gelten
 				<lb facs="#facs_74_r1l40" n="N002"/>läßt, etwas durchaus Verschiedenes und niemals Zusammen<pc>¬</pc>
 			</p>
          </div>
          <pb facs="#facs_75" n="75"/>
-         <div rend="TEI" facs="#facs_75_TextRegion_1614169782900_2874">
+         <div rend="TEI" facs="#facs_75_TextRegion_1614169782900_2874" type="page-number">
             <p facs="#facs_75_TextRegion_1614169782900_2874">
 				<lb facs="#facs_75_r1l1" n="N001"/>60
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_75_TextRegion_1614169782900_2873">
+         <div rend="TEI" facs="#facs_75_TextRegion_1614169782900_2873" type="paragraph-continued">
             <p facs="#facs_75_TextRegion_1614169782900_2873">
 				<lb facs="#facs_75_r1l2" n="N001"/>treffendes; die neuere hingegen erkennt in denselben nur zwei
 				<lb facs="#facs_75_r1l3" n="N002"/>unter verschiedenen Namen auftretende aber <rs ana="#concept_mus">gleichklingende</rs>
@@ -3355,8 +3355,8 @@
 				<lb facs="#facs_75_r1l9" n="N008"/>ais eine <rs ana="#concept_mus">harmonische Bedeutung</rs> zu geben versucht.
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_75_Music_1614169816413_2884" source="facs_75_Music_1614169816413_2884.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_75_TextRegion_1614169775691_2865">
+         <div rend="MEI" facs="#facs_75_Music_1614169816413_2884" source="facs_75_Music_1614169816413_2884.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_75_TextRegion_1614169775691_2865" type="paragraph">
             <p facs="#facs_75_TextRegion_1614169775691_2865">
 				<lb facs="#facs_75_r1l25" n="N001"/>Die ältere <rs ana="#concept_mus">Theorie</rs> muß demnach die untenstehenden Beispiele
 				<lb facs="#facs_75_r1l26" n="N002"/>von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0016">Beethoven</persName></hi> und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0007">Hauptmann</persName></hi> gänzlich verwerfen, weil
@@ -3373,7 +3373,7 @@
 				<lb facs="#facs_75_r1l37" n="N013"/>man ihnen die der <rs ana="#m_tonality">Tonart</rs> fremden <rs ana="#concept_mus">Versetzungszeichen</rs> entzieht.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_75_TextRegion_1614169773178_2861">
+         <div rend="TEI" facs="#facs_75_TextRegion_1614169773178_2861" type="paragraph">
             <p facs="#facs_75_TextRegion_1614169773178_2861">
 				<lb facs="#facs_75_r1l38" n="N001"/>Es lassen sich demgemäß sowol <rs ana="#m_chord">Dreiklänge</rs> als <rs ana="#m_chord">Sep<pc>¬</pc>
 				<lb facs="#facs_75_r1l39" n="N002"/>timenaccorde</rs> durch <rs ana="#concept_mus">Harmonien</rs> <rs ana="#concept_mus">verzögern</rs>, welche weder den
@@ -3384,25 +3384,25 @@
 			</p>
          </div>
          <pb facs="#facs_76" n="76"/>
-         <div rend="TEI" facs="#facs_76_r7">
+         <div rend="TEI" facs="#facs_76_r7" type="page-number">
             <p facs="#facs_76_r7">
 				<lb facs="#facs_76_line_1614170403285_2990" n="N001"/>61
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_76_r2">
+         <div rend="TEI" facs="#facs_76_r2" type="caption">
             <p facs="#facs_76_r2">
 				<lb facs="#facs_76_r2l1" n="N001"/><hi rend="italic:true; fontSize:0.0; kerning:0;"> <persName role="composer" ref="P0016">Beethoven</persName></hi>, <title ana="#music" ref="W0109">Op. 13</title>.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_76_region_1617042683984_826"/>
+         <div rend="TEI" facs="#facs_76_region_1617042683984_826" type="missing"/>
          <pb facs="#facs_77" n="77"/>
-         <div rend="TEI" facs="#facs_77_TextRegion_1614170446827_3014">
+         <div rend="TEI" facs="#facs_77_TextRegion_1614170446827_3014" type="page-number">
             <p facs="#facs_77_TextRegion_1614170446827_3014">
 				<lb facs="#facs_77_r1l1" n="N001"/>62
 			</p>
          </div>
-         <div rend="MEI" facs="#facs_77_Music_1614170477677_3023" source="facs_77_Music_1614170477677_3023.mei"><p>MUSIK</p></div>
-         <div rend="TEI" facs="#facs_77_TextRegion_1614170444817_3009">
+         <div rend="MEI" facs="#facs_77_Music_1614170477677_3023" source="facs_77_Music_1614170477677_3023.mei" type="floating"><p>MUSIK</p></div>
+         <div rend="TEI" facs="#facs_77_TextRegion_1614170444817_3009" type="paragraph">
             <p facs="#facs_77_TextRegion_1614170444817_3009">
 				<lb facs="#facs_77_r1l12" n="N001"/>Es wäre nicht zu rathen, ein <rs ana="#concept_mus">Tonstück</rs> mit vielen solcher scharfen
 				<lb facs="#facs_77_r1l13" n="N002"/><rs ana="#concept_mus"> <rs ana="#concept_phy">Dissonanzen</rs></rs> anzufüllen, namentlich würden dieselben in <rs ana="#concept_mus">Vocal<pc>¬</pc>
@@ -3418,7 +3418,7 @@
 				<lb facs="#facs_77_r1l23" n="N012"/>wegen entzogen werden.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_77_TextRegion_1614170442509_3005">
+         <div rend="TEI" facs="#facs_77_TextRegion_1614170442509_3005" type="paragraph-continued">
             <p facs="#facs_77_TextRegion_1614170442509_3005">
 				<lb facs="#facs_77_r1l24" n="N001"/>Mit der hier aufgestellten <rs ana="#concept_mus">Theorie</rs> der hinauf- und herab<pc>¬</pc>
 				<lb facs="#facs_77_r1l25" n="N002"/>schreitenden <rs ana="#concept_mus">Vorhalte</rs> und <rs ana="#concept_mus">chromatischen</rs> <rs ana="#concept_mus">Verzögerungen</rs> ist nun
@@ -3443,12 +3443,12 @@
 			</p>
          </div>
          <pb facs="#facs_78" n="78"/>
-         <div rend="TEI" facs="#facs_78_TextRegion_1614170542601_3073">
+         <div rend="TEI" facs="#facs_78_TextRegion_1614170542601_3073" type="page-number">
             <p facs="#facs_78_TextRegion_1614170542601_3073">
 				<lb facs="#facs_78_r1l1" n="N001"/>63
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_78_TextRegion_1614170628650_3120">
+         <div rend="TEI" facs="#facs_78_TextRegion_1614170628650_3120" type="paragraph">
             <p facs="#facs_78_TextRegion_1614170628650_3120">
 				<lb facs="#facs_78_r1l2" n="N001"/>ruhig dahingleitenden oder einen stürmisch aufbrausenden Gang
 				<lb facs="#facs_78_line_1614170576925_3086" n="N002"/>zu verleihen. Es muß ihm ebenso überlassen bleiben, zu
@@ -3476,7 +3476,7 @@
 				<lb facs="#facs_78_r1l26" n="N024"/>und schließen mit den Worten:
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_78_TextRegion_1614170628650_3119">
+         <div rend="TEI" facs="#facs_78_TextRegion_1614170628650_3119" type="paragraph">
             <p facs="#facs_78_TextRegion_1614170628650_3119">
 				<lb facs="#facs_78_r1l27" n="N001"/>„<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Prüfet Alles, und das Beste behaltet</hi>!”
 			</p>
