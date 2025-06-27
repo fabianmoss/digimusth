@@ -5,7 +5,7 @@ title: Research Engagement
 
 ### MEC conference | Felicitas Stickler and Torsten Roeder
 
-During the Music Encoding Conference 2025 in London (from June 3rd to June 6th) the preliminary studies and the current status of the project have been presented.
+During the [Music Encoding Conference 2025](https://music-encoding.org/conference/2025/program/#june05) in London (from June 3rd to June 6th) the preliminary studies and the current status of the project have been presented ("A Minimal Publishing Model for Text and Music Notation"). Minimal examples are available on the TEI Music SIG website: https://github.com/TEI-Music-SIG/examples
 
 
 ### Text+ Kooperationsprojekte | Fabian Moss
