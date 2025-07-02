@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Stylesheet zur Transformation der TEI-Digitmus-Texte zu DTABf-konformer Version.
+		Nach der Transformation:
+			1. Prüfen, ob im Front-Bereich alles stimmt (besonders byline und imprint).
+			2. Alle 'tei:' in Elementnamen entfernen und alle ' xmlns:tei="http://www.tei-c.org/ns/1.0"'-Attribute entfernen.
+			3. Whitespace zwischen teiHeader und text-Bereich entfernen.
+			4. Falls Inhaltsverzeichnis: Seitenangaben in ref-Elemente innerhalb der item-Elemente einschließen
+			5. Checken, ob die Verschachtelung der Unter-/Kapitel-Divs stimmt und die @n entsprechend anpassen.
+			6.
+-->
 <xsl:stylesheet version="3.0"
 	xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 	xmlns:tei="http://www.tei-c.org/ns/1.0"
@@ -7,58 +17,7 @@
 	<!-- Identity template: copies everything by default -->
 	<xsl:mode on-no-match="shallow-copy"/>
 	
-	<!-- Template to suppress facsimile elements -->
-	<xsl:template match="tei:facsimile"/>
-	
-	<!-- Template to modify <tei:text> -->
-	<xsl:template match="tei:text">
-		<xsl:copy>
-			<!-- Copy attributes if any -->
-			<xsl:copy-of select="@*[not(name() = 'xml:space')]"/>
-			
-			<!-- Insert new <front> element before existing children -->
-			<tei:front>
-				<!-- Select all children before the <div type="other"> -->
-				<xsl:apply-templates select="//tei:div[@type='other']/preceding-sibling::tei:pb"/>
-					<tei:titlePage type="main">
-						<tei:docTitle>
-							<tei:titlePart type="main">
-							<!-- Extract the <title> from the first div[@type='other'] -->
-							<xsl:apply-templates select=".//tei:div[@type='other'][1]//tei:title"/>
-							</tei:titlePart>
-						</tei:docTitle>
-					</tei:titlePage>
-				
-					<xsl:call-template name="make-byline"/>
-				
-					<!-- Select the <div type="other"> itself -->
-					<xsl:apply-templates select="//tei:div[@type='other']"/>
-			</tei:front>
-			
-			<!-- Copy existing children (like <body>) -->
-			<xsl:apply-templates select="node()"/>
-		</xsl:copy>
-	</xsl:template>
-	<!-- create the byline element with content from after the title up until the end of the person-element -->
-	<xsl:template name="make-byline">
-		<xsl:variable name="p" select="//tei:div[@type='other']/tei:p"/>
-		
-		<tei:byline>
-			<xsl:iterate select="$p/tei:title/following-sibling::node()">
-				<xsl:apply-templates select="."/>
-				<xsl:if test="self::tei:persName">
-					<xsl:break/>
-				</xsl:if>
-			</xsl:iterate>
-		</tei:byline>
-	</xsl:template>
-
-	<!-- Only copy content of title-element and not the element itself or its attributes -->
-	<xsl:template match="tei:title">
-			<xsl:apply-templates select="node()"/>
-	</xsl:template>
-	
-	
+	<!-- Suppress or change elements and attributes not allowed in DTABf (in their current form) -->
 	
 	<!-- Suppress facs attribute on div element -->
 	<xsl:template match="tei:div/@facs"/>
@@ -69,17 +28,23 @@
 	<!-- Suppress facs attribute on lb element -->
 	<xsl:template match="tei:lb/@facs"/>
 	
+	<!-- Suppress title elements but not their content -->
+	<xsl:template match="tei:text//tei:title">
+		<xsl:apply-templates select="node()"/>
+	</xsl:template>
+	
 	<!-- Suppress rs-elements but not their content -->
 	<xsl:template match="tei:rs">
 		<xsl:apply-templates select="node()"/>
 	</xsl:template>
 	
-	<!-- Change first persName after title to docAuthor -->
-	<xsl:template match="persName[preceding-sibling::title][1]">
-		<tei:docAuthor>
-			<xsl:apply-templates select="node()"/>
-		</tei:docAuthor>
+	<!-- Suppress pc-elements but not their content -->
+	<xsl:template match="tei:pc">
+		<xsl:apply-templates select="node()"/>
 	</xsl:template>
+	
+	<!-- Template to suppress facsimile elements -->
+	<xsl:template match="tei:facsimile"/>
 	
 	<xsl:template match="tei:hi">
 		<xsl:copy>
@@ -114,16 +79,128 @@
 		</xsl:copy>
 	</xsl:template>
 	
-	<!-- Rename p elements inside div[@type='TOC-entry'] to item -->
-	<xsl:template match="tei:div[@type='TOC-entry']/tei:p">
-		<tei:item>
-			<xsl:apply-templates select="@* | node()"/>
-		</tei:item>
+	<!-- Suppress first div element of type other-->
+	<xsl:template match="tei:div[@type='other'][1]"/>
+	
+	<!-- Suppress div elements of type TOC-entry -->
+	<xsl:template match="tei:div[@type='TOC-entry']"/>
+	
+	<!-- Suppress div with type heading if it is immediately preceded by a div[@type='other'] -->
+	<xsl:template match="tei:div[@type='heading']">
+		<xsl:if test="not(preceding-sibling::tei:div[1][@type='other'])">
+			<xsl:copy>
+				<xsl:apply-templates select="@* | node()"/>
+			</xsl:copy>
+		</xsl:if>
 	</xsl:template>
 	
+	<!-- Change representation of page numbers to DTABf-structure -->
+	<xsl:template match="tei:pb[following-sibling::*[1][self::tei:div[@type='page-number']]]">
+		<xsl:variable name="new-n" select="normalize-space(string-join((following-sibling::tei:div[@type='page-number'])[1]/tei:p//text(), ''))"/>
+		<tei:pb facs="{replace(@facs, '#facs_', '#f')}" n="{$new-n}"/>
+	</xsl:template>
 	
+	<!-- Suppress the <div type='page-number'> -->
+	<xsl:template match="tei:div[@type='page-number']"/>
 	
+	<!-- Suppress attributes from persName -->
+	<xsl:template match="tei:persName">
+		<tei:persName>
+			<xsl:apply-templates select="node()"/>
+		</tei:persName>
+	</xsl:template>
 	
+	<!-- Insert front and fill with titlePage and table of contents -->
+	<!-- Template to modify <tei:text> -->
+	<xsl:template match="tei:text">
+		<xsl:copy>
+			<!-- Copy attributes if any -->
+			<xsl:copy-of select="@*[not(name() = 'xml:space')]"/>
+			
+			<!-- Insert new <front> element before existing children -->
+			<tei:front>
+				<!-- Select all children before the <div type="other"> -->
+				<xsl:apply-templates select="//tei:div[@type='other'][1]/preceding-sibling::tei:pb"/>
+					<tei:titlePage type="main">
+						<tei:docTitle>
+							<tei:titlePart type="main">
+							<!-- Extract the <title> from the first div[@type='other'] -->
+							<xsl:apply-templates select=".//tei:div[@type='other'][1]//tei:title"/>
+							</tei:titlePart>
+						</tei:docTitle>
+					</tei:titlePage>
+				
+					<xsl:call-template name="make-byline"/>
+					<xsl:call-template name="make-docImprint"/>
+					
+					<!-- table of contents -->
+				<xsl:if test=".//tei:div[@type='other' and following-sibling::tei:div[1][@type='heading']]">
+						<tei:div type="contents">
+							<tei:head><xsl:value-of select="//tei:div[@type='other']/following-sibling::tei:div[@type='heading'][1]/tei:p"/></tei:head>
+							<tei:list>
+								<xsl:for-each select=".//tei:div[@type='TOC-entry']/tei:p">
+									<tei:item>
+										<xsl:value-of select="."/>
+									</tei:item>
+								</xsl:for-each>
+							</tei:list>
+						</tei:div>
+					</xsl:if>
+					
+			</tei:front>
+			
+			<!-- Copy existing children (like <body>) -->
+			<xsl:apply-templates select="node()"/>
+		</xsl:copy>
+	</xsl:template>
+	
+	<!-- front: title page -->
+	
+	<!-- create the byline element with content from after the title up until the end of the person-element -->
+	<xsl:template name="make-byline">
+		<xsl:variable name="p" select="//tei:div[@type='other'][1]/tei:p"/>
+		
+		<tei:byline>
+			<xsl:iterate select="$p/tei:title/following-sibling::node()">
+				<xsl:apply-templates select="."/>
+				<xsl:if test="self::tei:persName">
+					<xsl:break/>
+				</xsl:if>
+			</xsl:iterate>
+		</tei:byline>
+	</xsl:template>
+	
+	<!-- create the docImprint element with content from after persName until the end of the paragraph -->
+	<xsl:template name="make-docImprint">
+		<xsl:variable name="p" select="//tei:div[@type='other'][1]/tei:p"/>
+		
+		<tei:docImprint>
+			<xsl:iterate select="$p/tei:persName/following-sibling::node()">
+				<xsl:apply-templates select="."/>
+			</xsl:iterate>
+		</tei:docImprint>
+	</xsl:template>
+	
+	<!-- Change first persName after title to docAuthor -->
+	<xsl:template match="tei:div[@type='other'][1]//tei:persName">
+		<tei:docAuthor>
+			<xsl:apply-templates select="node()"/>
+		</tei:docAuthor>
+	</xsl:template>
+	
+	<!-- Change first placeName after title to pubPlace -->
+	<xsl:template match="tei:div[@type='other'][1]//tei:placeName">
+		<tei:pubPlace>
+			<xsl:apply-templates select="node()"/>
+		</tei:pubPlace>
+	</xsl:template>
+	
+	<!-- Change first date after title to docDate -->
+	<xsl:template match="tei:div[@type='other'][1]//tei:date">
+		<tei:docDate>
+			<xsl:apply-templates select="@* | node()"/>
+		</tei:docDate>
+	</xsl:template>
 	
 	
 	
