@@ -87,11 +87,6 @@
 	
 	<!-- Suppress div with type heading if it is immediately preceded by a div[@type='other'] -->
 	<xsl:template match="tei:div[@type='heading']">
-		<xsl:if test="not(preceding-sibling::tei:div[1][@type='other'])">
-			<xsl:copy>
-				<xsl:apply-templates select="@* | node()"/>
-			</xsl:copy>
-		</xsl:if>
 	</xsl:template>
 	
 	<!-- Change representation of page numbers to DTABf-structure -->
@@ -202,6 +197,59 @@
 		</tei:docDate>
 	</xsl:template>
 	
+	<!-- body: create chapters -->
+	<xsl:template match="tei:div[@type='heading'][not(preceding-sibling::tei:div[1][@type='other'])]">
+		<tei:div type="chapter">
+			
+			<!-- Transform p to head -->
+			<xsl:apply-templates select="tei:p" mode="make-head"/>
+			
+			<!-- Include all following siblings up to the next heading -->
+			<xsl:variable name="nextHeading" select="following-sibling::tei:div[@type='heading'][1]"/>
+			
+			<xsl:for-each select="following-sibling::*[. &lt;&lt; $nextHeading or not($nextHeading)]">
+				<xsl:apply-templates select="."/>
+			</xsl:for-each>
+			
+		</tei:div>
+	</xsl:template>
+	
+	<!-- Mode to transform p into head -->
+	<xsl:template match="tei:p" mode="make-head">
+		<tei:head>
+			<xsl:apply-templates select="node()"/>
+		</tei:head>
+	</xsl:template>
+	
+	<!-- Suppress everything that has been copied into the newly generated div@type=chapter already -->
+	<!-- fehlt! -->
+	
+	<!-- Template to handle div[@type='paragraph-continued'] -->
+	<xsl:template match="tei:div[@type='paragraph-continued']">
+		<tei:p>
+			<xsl:apply-templates select="tei:p/node()"/>
+			
+			<xsl:variable name="nextParaDiv" select="following-sibling::tei:div[@type='paragraph'][1]"/>
+			
+			<xsl:if test="$nextParaDiv">
+				<xsl:for-each select="
+					following-sibling::node()
+					[
+					generate-id() != generate-id($nextParaDiv)
+					and (self::tei:pb or self::tei:div[@type='page-number'])
+					and generate-id() &lt; generate-id($nextParaDiv)
+					]
+					">
+					<xsl:apply-templates select="."/>
+				</xsl:for-each>
+				
+				<xsl:apply-templates select="$nextParaDiv/tei:p/node()"/>
+			</xsl:if>
+		</tei:p>
+	</xsl:template>
+	
+	<!-- Suppress the next paragraph div that is immediately after paragraph-continued -->
+	<xsl:template match="tei:div[@type='paragraph' and preceding-sibling::tei:div[1][@type='paragraph-continued']]"/>
 	
 	
 </xsl:stylesheet>
