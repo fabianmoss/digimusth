@@ -1899,12 +1899,12 @@
 				<lb facs="#facs_10_r1l10" n="N009"/><rs ana="#m_note">Töne</rs> umgekehrt kleinere <rs ana="#concept_phy">Schwingungszahlen</rs> und eine grössere <rs ana="#concept_phy">Wellen<pc>¬</pc>
 				<lb facs="#facs_10_r1l11" n="N010"/>länge</rs> oder <rs ana="#concept_phy">Schwingungsdauer</rs>. Die (höhere) <rs ana="#m_interval">Octave</rs> macht 2mal so
 				<lb facs="#facs_10_r1l12" n="N011"/>viel <rs ana="#concept_phy">Schwingungen</rs> in der <rs ana="#concept_phy">Secunde</rs>, als der <rs ana="#m_note">Grundton</rs>, die <rs ana="#m_interval">Doppel<pc>¬</pc>
-				<lb facs="#facs_10_r1l13" n="N012"/>octave</rs> 4mal, die <rs ana="#m_interval">Quinte</rs> $$MATH mal, die <rs ana="#m_interval">Duodecime</rs> 3mal, die <rs ana="#m_interval">Quarte</rs>
-				<lb facs="#facs_10_r1l14" n="N013"/>$$MATH mal, die <rs ana="#m_interval">gr. Terz</rs> $$MATH mal so viel <rs ana="#concept_phy">Schwingungen</rs> u. s. w. Dem
+				<lb facs="#facs_10_r1l13" n="N012"/>octave</rs> 4mal, die <rs ana="#m_interval">Quinte</rs> <formula notation="tex">$\frac{3}{2}$</formula> mal, die <rs ana="#m_interval">Duodecime</rs> 3mal, die <rs ana="#m_interval">Quarte</rs>
+				<lb facs="#facs_10_r1l14" n="N013"/><formula notation="tex">$\frac{4}{3}$</formula> mal, die <rs ana="#m_interval">gr. Terz</rs> <formula notation="tex">$\frac{5}{4}$</formula> mal so viel <rs ana="#concept_phy">Schwingungen</rs> u. s. w. Dem
 				<lb facs="#facs_10_r1l15" n="N014"/>entsprechen dann auch die <rs ana="#concept_phy">Saiten-</rs> (d. h. <rs ana="#concept_phy">Wellen-) längen</rs>, wenn
 				<lb facs="#facs_10_r1l16" n="N015"/>man jene für den <rs ana="#m_note">Grundton</rs> = 1 annimmt: <rs ana="#m_interval">Octave</rs> = ½, <rs ana="#m_interval">Doppel<pc>¬</pc>
-				<lb facs="#facs_10_line_1626023637752_426" n="N016"/>octave</rs> = ¼, <rs ana="#m_interval">Quinte</rs> = $$MATH, <rs ana="#m_interval">Duodecime</rs> = $$MATH, <rs ana="#m_interval">Quarte</rs> = ¾,
-				<lb facs="#facs_10_r1l19" n="N017"/><rs ana="#m_interval">gr. Terz</rs> = $$MATH u. s. w.
+				<lb facs="#facs_10_line_1626023637752_426" n="N016"/>octave</rs> = ¼, <rs ana="#m_interval">Quinte</rs> = <formula notation="tex">$\frac{2}{3}$</formula>, <rs ana="#m_interval">Duodecime</rs> = <formula notation="tex">$\frac{1}{3}$</formula>, <rs ana="#m_interval">Quarte</rs> = ¾,
+				<lb facs="#facs_10_r1l19" n="N017"/><rs ana="#m_interval">gr. Terz</rs> = <formula notation="tex">$\frac{4}{5}$</formula> u. s. w.
 			</p>
          </div>
          <div rend="TEI" facs="#facs_10_TextRegion_1626023595843_388">
@@ -2025,17 +2025,17 @@
             <p facs="#facs_12_TextRegion_1626023866409_617">
 				<lb facs="#facs_12_r1l10" n="N001"/>Die obige Uebersichtstabelle scheint auf den ersten Blick will<pc>¬</pc>
 				<lb facs="#facs_12_line_1626023949728_666" n="N002"/>kührlich berechnet zu sein. Warum haben wir z. B., von <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>′</rs> = 440
-				<lb facs="#facs_12_line_1626023954934_674" n="N003"/>ausgehend, durch <rs ana="#m_interval">Quintenschritte</rs> blos <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">2</hi></rs> = $$MATH = 660
-				<lb facs="#facs_12_r1l15" n="N004"/>und <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">2</hi></rs> = $$MATH = 990, nicht aber auch die <rs ana="#m_interval">Unterquinte</rs>
-				<lb facs="#facs_12_r1l16" n="N005"/><rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>′</rs> = $$MATH = 293,2, sowie alle übrigen <rs ana="#concept_mus">Stufen</rs> der <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi>-dur<pc>¬</pc>
+				<lb facs="#facs_12_line_1626023954934_674" n="N003"/>ausgehend, durch <rs ana="#m_interval">Quintenschritte</rs> blos <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">2</hi></rs> <formula notation="tex">$ = 440 \times \frac{3}{2} = 660$</formula>
+				<lb facs="#facs_12_r1l15" n="N004"/>und <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">2</hi></rs> <formula notation="tex">$ = 660 \times \frac{3}{2} = 990$</formula>, nicht aber auch die <rs ana="#m_interval">Unterquinte</rs>
+				<lb facs="#facs_12_r1l16" n="N005"/><rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>′</rs> <formula notation="tex">$= 440 \times \frac{2}{3} = 293,3$</formula>, sowie alle übrigen <rs ana="#concept_mus">Stufen</rs> der <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi>-dur<pc>¬</pc>
 				<lb facs="#facs_12_r1l17" n="N006"/>leiter</rs> bestimmt? Warum haben wir den offenbaren Umweg gewählt
-				<lb facs="#facs_12_r1l18" n="N007"/>und zuerst das <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi>′</rs> = $$MATH = 352 als <rs ana="#m_interval">gr. Unterterz</rs> von <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>′</rs>.
+				<lb facs="#facs_12_r1l18" n="N007"/>und zuerst das <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi>′</rs> <formula notation="tex">$= 440 \times \frac{4}{5} = 352$</formula> als <rs ana="#m_interval">gr. Unterterz</rs> von <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>′</rs>.
 				<lb facs="#facs_12_r1l19" n="N008"/>daraus dann erst mittelst dreier <rs ana="#m_interval">Quintenschritte</rs> (durch <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">2</hi></rs> und <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">2</hi></rs>)
-				<lb facs="#facs_12_r1l20" n="N009"/>das <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">3</hi></rs> = $$MATH = 1188 und schliesslich mittelst zweier
-				<lb facs="#facs_12_r1l21" n="N010"/>(absteigender) <rs ana="#m_interval">Octavenschritte</rs> das <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>′</rs> = $$MATH = 297
+				<lb facs="#facs_12_r1l20" n="N009"/>das <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">3</hi></rs> <formula notation="tex">$= 352 \times (\frac{3}{2})^3 = 1188$</formula> und schliesslich mittelst zweier
+				<lb facs="#facs_12_r1l21" n="N010"/>(absteigender) <rs ana="#m_interval">Octavenschritte</rs> das <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>′</rs> <formula notation="tex">$= 1188 \times (\frac{1}{2})^2 = 297$</formula>
 				<lb facs="#facs_12_r1l22" n="N011"/>bestimmt? Und wenn wir einmal bei <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi>′</rs> waren, warum haben
 				<lb facs="#facs_12_r1l23" n="N012"/>wir nicht lieber gleich das <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>′</rs> als <rs ana="#m_interval">kl. Unterterz</rs> von <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi>′</rs>, also
-				<lb facs="#facs_12_line_1626023963417_691" n="N013"/>= $$MATH = 293,3 berechnet? Die endgiltige Antwort auf
+				<lb facs="#facs_12_line_1626023963417_691" n="N013"/><formula notation="tex">$= 352 \times \frac{5}{6} = 293,3$</formula> berechnet? Die endgiltige Antwort auf
 				<lb facs="#facs_12_r1l26" n="N014"/>diese Fragen kann allerdings erst dann gegeben werden, wenn
 				<lb facs="#facs_12_r1l27" n="N015"/>bereits von der Beschaffenheit und Construction unseres <rs ana="#concept_mus">Tonsystems</rs>
 				<lb facs="#facs_12_r1l28" n="N016"/>die Rede gewesen ist. Für jetzt genügt es uns, zu wissen, dass
@@ -2078,7 +2078,7 @@
 				<lb facs="#facs_13_r1l2" n="N001"/>Die letztere <rs ana="#concept_mus"><rs ana="#concept_phy">Tonhöhenbestimmung</rs></rs> treffen wir in der Tabelle an.
 				<lb facs="#facs_13_r1l3" n="N002"/>Wir sehen daraus: <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Die durch <rs ana="#m_interval">Quintenschritte</rs> erreichte<lb facs="#facs_13_r1l4" n="N003"/><rs ana="#m_interval">gr. Terz</rs> ist höher, als die direct durch einen <rs ana="#m_interval">Terzen<pc>¬</pc>
 				<lb facs="#facs_13_r1l5" n="N004"/>schritt</rs> bestimmte</hi>, und zwar im <rs ana="#concept_phy">Verhältnisse</rs>
-				<lb facs="#facs_13_line_1626024190900_838" n="N005"/>334,125:330 = $$MATH = 81:80, welches ein
+				<lb facs="#facs_13_line_1626024190900_838" n="N005"/> <formula notation="tex">$334,125:330 = \frac{81}{64}:\frac{80}{64}=81:80$</formula>, welches ein
 				<lb facs="#facs_13_r1l10" n="N006"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus"><rs ana="#concept_phy">syntonisches</rs></rs> oder <rs ana="#concept_mus"><rs ana="#concept_phy">didymisches</rs></rs><rs ana="#concept_mus"><rs ana="#concept_phy">Komma</rs></rs></hi> (auch <rs ana="#concept_mus"><rs ana="#concept_phy">Komma</rs></rs>
 				<lb facs="#facs_13_r1l11" n="N007"/>schlechthin) genannt wird. Jene heisst die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">pythagoräische</rs><lb facs="#facs_13_r1l13" n="N008"/><rs ana="#m_interval">Terz</rs></hi> (weil  die <rs ana="#concept_mus">musikalischen Tonverhältnisse</rs> aus<pc>¬</pc>
 				<lb facs="#facs_13_r1l14" n="N009"/>schliesslich durch <rs ana="#m_interval">Quinten-</rs> und <rs ana="#m_interval">Octavenschritte</rs> bestimmt wissen
@@ -2144,10 +2144,10 @@
          </div>
          <div rend="TEI" facs="#facs_14_TextRegion_1626024399893_1016">
             <p facs="#facs_14_TextRegion_1626024399893_1016">
-				<lb facs="#facs_14_line_1626024482477_1057" n="N001"/><rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>{</rs> = <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">e</rs></hi> $$MATH
-				<lb facs="#facs_14_line_1626024490550_1068" n="N002"/><rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs> = <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">e</rs></hi> $$MATH
-				<lb facs="#facs_14_line_1626024495496_1075" n="N003"/><rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">as</hi>}}</rs> = <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">as</rs></hi> $$MATH
-				<lb facs="#facs_14_line_1626024502047_1087" n="N004"/><rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">cis</hi>{{</rs> = <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">cis</rs></hi> $$MATH u. s. f.
+				<lb facs="#facs_14_line_1626024482477_1057" n="N001"/><rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>{</rs> = <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">e</rs></hi> <formula notation="tex">$e \times \frac{80}{81}$</formula>
+				<lb facs="#facs_14_line_1626024490550_1068" n="N002"/><rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs> = <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">e</rs></hi> <formula notation="tex">$e \times \frac{81}{80}$</formula>
+				<lb facs="#facs_14_line_1626024495496_1075" n="N003"/><rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">as</hi>}}</rs> = <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">as</rs></hi> <formula notation="tex">$as \times (\frac{81}{80})^2$</formula>
+				<lb facs="#facs_14_line_1626024502047_1087" n="N004"/><rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">cis</hi>{{</rs> = <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">cis</rs></hi> <formula notation="tex">$cis \times (\frac{80}{81})^2$</formula> u. s. f.
 			</p>
          </div>
          <div rend="TEI" facs="#facs_14_TextRegion_1626024397413_1012">
@@ -2180,7 +2180,7 @@
 				<lb facs="#facs_14_r1l36" n="N009"/>mit 440 <rs ana="#concept_phy">Schwingungen</rs> in der <rs ana="#concept_phy">Secunde</rs> als <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>{′</rs> (<rs ana="#m_interval">Durterz</rs> von <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">f</rs></hi> oder
 				<lb facs="#facs_14_r1l37" n="N010"/><rs ana="#m_interval">Dursext</rs> von <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">c</rs></hi>) oder aber als <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>′</rs> (<rs ana="#m_note">Grundton</rs> von <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">A</hi>-dur</rs>) aufgefasst
 				<lb facs="#facs_14_r1l38" n="N011"/>werden soll, zwischen welchen beiden, wie wir wissen, der Unter<pc>¬</pc>
-				<lb facs="#facs_14_line_1626024523379_1132" n="N012"/>schied eines <rs ana="#concept_mus"><rs ana="#concept_phy">Komma</rs></rs> = $$MATH besteht. Da jenen <rs ana="#concept_mus"><rs ana="#concept_phy">Tonhöhenbestim<pc>¬</pc>
+				<lb facs="#facs_14_line_1626024523379_1132" n="N012"/>schied eines <rs ana="#concept_mus"><rs ana="#concept_phy">Komma</rs></rs> <formula notation="tex">$= \frac{80}{81}$</formula> besteht. Da jenen <rs ana="#concept_mus"><rs ana="#concept_phy">Tonhöhenbestim<pc>¬</pc>
 				<lb facs="#facs_14_r1l43" n="N013"/>mungen</rs></rs> die <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi>-durleiter</rs> zum Grunde gelegt erscheint, so empfiehlt
 				<lb facs="#facs_14_r1l44" n="N014"/>es sich, die erste <rs ana="#concept_mus">Stufe</rs> der <rs ana="#m_tonality">Leiter</rs>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">c</rs></hi>, als Ausgangspunct zu nehmen,
 				<lb facs="#facs_14_r1l45" n="N015"/>sich somit für die erstere Notirung der <rs ana="#m_tonality">Scala</rs> zu entscheiden und
@@ -2192,7 +2192,7 @@
          <div rend="TEI" facs="#facs_14_TextRegion_1626024387883_1000">
             <p facs="#facs_14_TextRegion_1626024387883_1000">
 				<lb facs="#facs_14_r1l50" n="N001"/>*) Die <rs ana="#concept_phy">Schwingungszahl</rs> des <rs ana="#m_note">Grundtones</rs> von <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">A</hi>-dur</rs> wäre demnach bei
-				<lb facs="#facs_14_line_1626024543110_1170" n="N002"/>correcter <persName role="author" ref="P0108"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Scheibler</hi>’scher</persName><rs ana="#concept_mus">Stimmung</rs> nicht 440, sondern $$MATH = 445,5.
+				<lb facs="#facs_14_line_1626024543110_1170" n="N002"/>correcter <persName role="author" ref="P0108"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Scheibler</hi>’scher</persName><rs ana="#concept_mus">Stimmung</rs> nicht 440, sondern <formula notation="tex">$440 \times \frac{81}{80} = 445,5$</formula>.
 				<lb facs="#facs_14_r1l54" n="N003"/>Selbstverständlich hat diese Unterscheidung nur eine theoretische Bedeutung,
 			</p>
          </div>
@@ -2235,8 +2235,8 @@
 				<lb facs="#facs_15_r1l36" n="N002"/><rs ana="#concept_mus">praktischen Musik</rs> gleichzuklingen pflegen, obwohl sie mit ver<pc>¬</pc>
 				<lb facs="#facs_15_r1l37" n="N003"/>schiedenen <rs ana="#concept_mus">Noten</rs> geschrieben werden, nämlich auf das <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">enhar<pc>¬</pc>
 				<lb facs="#facs_15_r1l38" n="N004"/>monische</rs><rs ana="#m_interval">Intervall</rs></hi> oder <rs ana="#m_interval"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>′—<hi rend="italic:true; fontSize:0.0; kerning:0;">his</hi></rs>
-				<lb facs="#facs_15_line_1626024671229_1257" n="N005"/>oder <rs ana="#m_interval"><hi rend="italic:true; fontSize:0.0; kerning:0;">des</hi>′—<hi rend="italic:true; fontSize:0.0; kerning:0;">cis</hi>′</rs>, das $$MATH oder, mit kleineren <rs ana="#concept_phy">Zahlen</rs> geschrieben:
-				<lb facs="#facs_15_line_1626024677120_1268" n="N006"/>$$MATH beträgt, braucht hier wohl nicht erst näher eingegangen zu
+				<lb facs="#facs_15_line_1626024671229_1257" n="N005"/>oder <rs ana="#m_interval"><hi rend="italic:true; fontSize:0.0; kerning:0;">des</hi>′—<hi rend="italic:true; fontSize:0.0; kerning:0;">cis</hi>′</rs>, das <formula notation="tex">$\frac{531441}{524288}$</formula> oder, mit kleineren <rs ana="#concept_phy">Zahlen</rs> geschrieben:
+				<lb facs="#facs_15_line_1626024677120_1268" n="N006"/><formula notation="tex">$\frac{74}{73}$</formula> beträgt, braucht hier wohl nicht erst näher eingegangen zu
 				<lb facs="#facs_15_r1l46" n="N007"/>werden. Auch die Art und Weise, wie der kleine Fehler, welcher
 				<lb facs="#facs_15_r1l47" n="N008"/>durch die Gleichstellung von <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">his</rs></hi> und <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>′</rs>, von <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">cis</hi>′</rs> und <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">des</hi>′</rs> u. s. w.
 				<lb facs="#facs_15_r1l48" n="N009"/>entsteht, auf alle die 12 <rs ana="#m_interval">Quintenschritte</rs>, die uns vom <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>′</rs> bis zum
@@ -2989,7 +2989,7 @@
 				<lb facs="#facs_28_r1l28" n="N004"/>tone</rs></rs> entsprechen, andererseits aus der Undeutlichkeit des <rs ana="#concept_mus">Trillers</rs>
 				<lb facs="#facs_28_r1l29" n="N005"/>in den tieferen <rs ana="#concept_mus">Bassregionen</rs> hat <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helmholtz</persName></hi> geschlossen, dass
 				<lb facs="#facs_28_r1l30" n="N006"/>bei einem <rs ana="#concept_phy">Höhenunterschiede</rs> von einem <rs ana="#m_interval">Halbtone</rs> das <rs ana="#concept_phy">Mitschwingen</rs>
-				<lb facs="#facs_28_r1l31" n="N007"/>der <rs ana="#concept_phy">Faser</rs> nur etwa $$MATH jener <rs ana="#concept_phy">Intensität</rs> besitzt, die es bei ganz
+				<lb facs="#facs_28_r1l31" n="N007"/>der <rs ana="#concept_phy">Faser</rs> nur etwa <formula notation="tex">$\frac{1}{10}$</formula> jener <rs ana="#concept_phy">Intensität</rs> besitzt, die es bei ganz
 				<lb facs="#facs_28_r1l32" n="N008"/>genauer Uebereinstimmung der <rs ana="#concept_phy">Tonhöhe</rs> hätte, aber immerhin noch
 				<lb facs="#facs_28_r1l33" n="N009"/>merklich bleibt. ***)
 			</p>
@@ -3079,7 +3079,7 @@
 				<lb facs="#facs_29_r1l48" n="N018"/>hat) von einem objectiv ge<pc>¬</pc>
 				<lb facs="#facs_29_r1l54" n="N019"/>gebenen <rs ana="#m_note">Tone</rs> (<hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">b</rs></hi>) um eine
 				<lb facs="#facs_29_r1l61" n="N020"/><rs ana="#m_interval">halbe Tonstufe</rs> entfernt ist,
-				<lb facs="#facs_29_r1l62" n="N021"/>wird durch das <rs ana="#concept_mus">Erklingen</rs> des gegebenen <rs ana="#m_note">Tones</rs> zu $$MATH der vollen
+				<lb facs="#facs_29_r1l62" n="N021"/>wird durch das <rs ana="#concept_mus">Erklingen</rs> des gegebenen <rs ana="#m_note">Tones</rs> zu <formula notation="tex">$\frac{1}{10}$</formula> der vollen
 				<lb facs="#facs_29_r1l63" n="N022"/><rs ana="#concept_phy">Intensität</rs> des <rs ana="#concept_phy">Mitschwingens</rs> gebracht. Wenn nun ausserdem auch
 				<lb facs="#facs_29_r1l64" n="N023"/>noch sein <rs ana="#concept_phy"><rs ana="#m_note">Eigenton</rs></rs> (<hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">h</rs></hi>) erklingt, schwingt er zugleich mit der vollen
 				<lb facs="#facs_29_r1l65" n="N024"/><rs ana="#concept_phy">Intensität</rs> mit, erhält also einen doppelten ungleichen <rs ana="#concept_phy">Impuls</rs>, der
@@ -4101,7 +4101,7 @@
 				<lb facs="#facs_46_r1l22" n="N005"/>führung eines wesentlich <rs ana="#concept_phy"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">mathematischen</hi> Princips</rs> füglich
 				<lb facs="#facs_46_r1l23" n="N006"/>verlangen darf. Die Erfahrung lehrt das Gegentheil davon. Ein
 				<lb facs="#facs_46_r1l24" n="N007"/>ganz unbedeutendes Herabstimmen der <rs ana="#m_interval">reinen Octave</rs>, z. B. 264:528,
-				<lb facs="#facs_46_r1l25" n="N008"/>etwa um $$MATH <rs ana="#concept_phy">Schwingung</rs>, also 264:527,9, wird kaum von einem
+				<lb facs="#facs_46_r1l25" n="N008"/>etwa um <formula notation="tex">$\frac{1}{10}$</formula> <rs ana="#concept_phy">Schwingung</rs>, also 264:527,9, wird kaum von einem
 				<lb facs="#facs_46_r1l26" n="N009"/>geübten <rs ana="#concept_mus">Musiker</rs> bemerkt werden, während eine stärkere <rs ana="#concept_mus">Ver<pc>¬</pc>
 				<lb facs="#facs_46_r1l27" n="N010"/>stimmung</rs>, etwa im <rs ana="#concept_phy">Verhältnisse</rs> 264:520 ein auch dem Ungeübten
 				<lb facs="#facs_46_r1l28" n="N011"/>sogleich höchst unangenehmes <rs ana="#concept_mus"><rs ana="#concept_phy">dissonantes</rs></rs><rs ana="#m_interval">Intervall</rs> hervorbringt.
@@ -4129,7 +4129,7 @@
 				<lb facs="#facs_46_line_1626096362712_3335" n="N004"/>ziehungen</rs> zu suchen haben, wie z. B. im „<rs ana="#concept_phy">goldenen Schnitte</rs>”, den
 				<lb facs="#facs_46_r1l44" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0124">Zeising</persName></hi> bekanntlich auch auf die <rs ana="#concept_mus">musikalische Intervallenlehre</rs> angewendet
 				<lb facs="#facs_46_r1l45" n="N006"/>wissen will. Der „<rs ana="#concept_phy">goldene Schnitt</rs>” ist eben bereits ein <rs ana="#concept_phy">Verhältniss</rs> von
-				<lb facs="#facs_46_line_1626096371447_3350" n="N007"/><rs ana="#concept_phy">Verhältnissen</rs>, beziehungsweise die Gleichstellung derselben: $$MATH.
+				<lb facs="#facs_46_line_1626096371447_3350" n="N007"/><rs ana="#concept_phy">Verhältnissen</rs>, beziehungsweise die Gleichstellung derselben: <formula notation="tex">$\frac{a}{b} = \frac{b}{a+b}$</formula>.
 			</p>
          </div>
          <pb facs="#facs_47" n="47"/>
@@ -4252,8 +4252,8 @@
 				<lb facs="#facs_48_r1l81" n="N018"/>so wird sich dieser bei verschiedenen <rs ana="#concept_phy">Klangfarben</rs> auch ändern
 				<lb facs="#facs_48_r1l82" n="N019"/>müssen. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helmholtz</persName></hi> hat den Einfluss der <rs ana="#concept_phy">Schwebungen</rs> auf die
 				<lb facs="#facs_48_r1l83" n="N020"/><rs ana="#concept_phy">Rauhigkeit</rs> der <rs ana="#m_interval">Intervalle</rs> für <rs ana="#concept_mus">Violinklänge</rs> (bei denen die <rs ana="#concept_phy">Intensität</rs>
-				<lb facs="#facs_48_line_1626096673620_3535" n="N021"/>der <rs ana="#concept_phy">Partialtöne</rs> nach oben so abnimmt, dass der zweite nur $$MATH,
-				<lb facs="#facs_48_r1l86" n="N022"/>der dritte $$MATH, der vierte $$MATH u. s. w. jener <rs ana="#concept_phy">Stärke</rs> besitzt, die
+				<lb facs="#facs_48_line_1626096673620_3535" n="N021"/>der <rs ana="#concept_phy">Partialtöne</rs> nach oben so abnimmt, dass der zweite nur <formula notation="tex">$\frac{1}{4}$</formula>,
+				<lb facs="#facs_48_r1l86" n="N022"/>der dritte <formula notation="tex">$\frac{1}{9}$</formula>, der vierte <formula notation="tex">$\frac{1}{16}$</formula> u. s. w. jener <rs ana="#concept_phy">Stärke</rs> besitzt, die
 			</p>
          </div>
          <pb facs="#facs_49" n="49"/>
@@ -5326,11 +5326,11 @@
 				<lb facs="#facs_66_r1l12" n="N011"/>Man bedenke nur, dass die <rs ana="#concept_phy">Intensität</rs> der <rs ana="#concept_phy">Partialtöne</rs> nach der
 				<lb facs="#facs_66_r1l13" n="N012"/>Höhe zu abnimmt, so dass z. B. bei einer gestrichenen <rs ana="#concept_mus">Violine</rs>, die
 				<lb facs="#facs_66_r1l14" n="N013"/>den regelmässigst zusammengesetzten <rs ana="#concept_mus">Klang</rs> besitzt, die <rs ana="#concept_phy">Intensitäten</rs>
-				<lb facs="#facs_66_r1l15" n="N014"/>vom <rs ana="#m_note">Grundtone</rs> angefangen $$MATH u. s. f.
+				<lb facs="#facs_66_r1l15" n="N014"/>vom <rs ana="#m_note">Grundtone</rs> angefangen <formula notation="tex">$1$</formula>, <formula notation="tex">$\frac{1}{4}$</formula>, <formula notation="tex">$\frac{1}{9}$</formula>, <formula notation="tex">$\frac{1}{16}$</formula>, <formula notation="tex">$\frac{1}{25}$</formula>, <formula notation="tex">$\frac{1}{36}$</formula>, <formula notation="tex">$\frac{1}{49}$</formula>, <formula notation="tex">$\frac{1}{64}$</formula> u. s. f.
 				<lb facs="#facs_66_r1l16" n="N015"/>betragen. Bei einer <rs ana="#m_interval">kleinen Terz</rs> wäre es der sechste <rs ana="#concept_phy">Partialton</rs>
 				<lb facs="#facs_66_r1l17" n="N016"/>des <rs ana="#m_note">Grundtones</rs>, bei einer <rs ana="#m_interval">kleinen Sexte</rs> sogar erst der achte, der
 				<lb facs="#facs_66_r1l18" n="N017"/>das gemeinschaftliche Element des <rs ana="#m_interval">Intervalles</rs> bildet; jener beträgt
-				<lb facs="#facs_66_r1l19" n="N018"/>aber nur $$MATH, dieser nur $$MATH der Stärke des <rs ana="#m_note">Grundtones</rs>. Seine
+				<lb facs="#facs_66_r1l19" n="N018"/>aber nur <formula notation="tex">$\frac{1}{36}$</formula>, dieser nur <formula notation="tex">$\frac{1}{64}$</formula> der Stärke des <rs ana="#m_note">Grundtones</rs>. Seine
 				<lb facs="#facs_66_r1l20" n="N019"/>Wirksamkeit müsste wohl durch den Einfluss der <rs ana="#concept_phy">Schwebungen</rs>
 				<lb facs="#facs_66_r1l21" n="N020"/>genügend paralysirt werden, wenn ihm nicht etwas Anderes zu
 				<lb facs="#facs_66_r1l22" n="N021"/>Hülfe käme; es lässt sich kaum denken, dass über das Verhältniss
@@ -7207,9 +7207,9 @@
          <div rend="TEI" facs="#facs_95_TextRegion_1626258126790_129">
             <p facs="#facs_95_TextRegion_1626258126790_129">
 				<lb facs="#facs_95_r1l53" n="N001"/>*) Die <rs ana="#concept_phy">Formeln</rs> der <rs ana="#concept_phy">Schwingungszahlen</rs> sind für den <rs ana="#m_chord">Durdreiklang</rs>:
-				<lb facs="#facs_95_line_1626258314992_259" n="N002"/>4:5:6 = $$MATH, für den <rs ana="#m_chord">Molldreiklang</rs>: $$MATH, all<pc>¬</pc>
-				<lb facs="#facs_95_r1l60" n="N003"/>gemein (für alle <rs ana="#concept_mus">Umkehrungen</rs> und <rs ana="#concept_mus">Lagen</rs>): $$MATH
-				<lb facs="#facs_95_r1l61" n="N004"/>und $$MATH.
+				<lb facs="#facs_95_line_1626258314992_259" n="N002"/><formula notation="tex">$4:5:6 = \frac{4}{1}:\frac{5}{1}:\frac{6}{1}$</formula>, für den <rs ana="#m_chord">Molldreiklang</rs>: <formula notation="tex">$\frac{1}{4:5:6}=\frac{1}{4}:\frac{1}{5}:\frac{1}{6}$</formula>, all<pc>¬</pc>
+				<lb facs="#facs_95_r1l60" n="N003"/>gemein (für alle <rs ana="#concept_mus">Umkehrungen</rs> und <rs ana="#concept_mus">Lagen</rs>): <formula notation="tex">$1 \times 2^m:3\times 2^n:5 \times 2^t$</formula>
+				<lb facs="#facs_95_r1l61" n="N004"/>und <formula notation="tex">1 \times 2^m:\frac{1}{3} \times 2^n: \frac{1}{5} \times 2^t</formula>.
 			</p>
          </div>
          <pb facs="#facs_96" n="96"/>
