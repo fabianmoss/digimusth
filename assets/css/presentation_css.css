@@ -7,9 +7,42 @@ tei-text {
   font-size: 14pt;
 }
 
+/* Fließtext ansicht erzeugen: */
+tei-lb {
+  display: none;
+}
+tei-pc {
+  display: none;
+}
+/*window width of text */
+.container {
+  min-width: 40%;
+  max-width: 60%;
+}
+
+
+/* original style of text produce*/
+.letterSpaced {
+  letter-spacing: 0.1em;
+}
+.bold {
+  font-weight: bold;
+}
+.subscript {
+  vertical-align: sub;
+  font-size: smaller;
+}
+.letterSpaced {
+  letter-spacing: 0.1em;
+}
+
+.italic {
+  font-style:italic;
+}
 
 
 
+/* Footer*/
 .stickyfoot {
    position: fixed;
    left: 0;
@@ -67,6 +100,11 @@ letter-spacing: 0.3rem;}
 
 
 
+/*highlight for register and search */
+
+.highlight {
+  background-color: yellow;
+}
 
 
 
