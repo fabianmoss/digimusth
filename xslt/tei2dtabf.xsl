@@ -22,6 +22,15 @@
 	<!-- Suppress facs attribute on div element -->
 	<xsl:template match="tei:div/@facs"/>
 	
+	<!-- Suppress div elements with @rend='GRAPHIC' -->
+	<xsl:template match="tei:div[@rend='GRAPHIC']"/>
+	
+	<!-- Suppress div elements with @rend='MEI' -->
+	<xsl:template match="tei:div[@rend='MEI']"/>
+	
+	<!-- Suppress type attribute on div element -->
+	<xsl:template match="tei:div/@type"/>
+	
 	<!-- Suppress facs attribute on p element -->
 	<xsl:template match="tei:p/@facs"/>
 	
@@ -56,19 +65,19 @@
 				<xsl:attribute name="rendition">
 					<xsl:choose>
 						<xsl:when test="@rend[contains(., 'bold:true;')]">
-							<xsl:value-of select="replace(@rend, '\s*fontSize:0\.0;\s*kerning:0;\s*bold:true;', '#b')"/>
+							<xsl:value-of select="string('#b')"/>
 						</xsl:when>
 						<xsl:when test="@rend[contains(., 'italic:true;')]">
-							<xsl:value-of select="replace(@rend, '\s*fontSize:0\.0;\s*kerning:0;\s*italic:true;', '#i')"/>
+									<xsl:value-of select="string('#i')"/>
 						</xsl:when>
 						<xsl:when test="@rend[contains(., 'letterSpaced:true;')]">
-							<xsl:value-of select="replace(@rend, '\s*fontSize:0\.0;\s*kerning:0;\s*letterSpaced:true;', '#g')"/>
+							<xsl:value-of select="string('#g')"/>
 						</xsl:when>
 						<xsl:when test="@rend[contains(., 'superscript:true;')]">
-							<xsl:value-of select="replace(@rend, '\s*fontSize:0\.0;\s*kerning:0;\s*superscript:true;', '#sup')"/>
+							<xsl:value-of select="string('#sup')"/>
 						</xsl:when>
 						<xsl:when test="@rend[contains(., 'subscript:true;')]">
-							<xsl:value-of select="replace(@rend, '\s*fontSize:0\.0;\s*kerning:0;\s*subscript:true;', '#sub')"/>
+							<xsl:value-of select="string('#sub')"/>
 						</xsl:when>
 					</xsl:choose>
 				</xsl:attribute>
@@ -86,7 +95,7 @@
 	<xsl:template match="tei:div[@type='TOC-entry']"/>
 	
 	<!-- Suppress div with type heading if it is immediately preceded by a div[@type='other'] -->
-	<xsl:template match="tei:div[@type='heading']">
+	<xsl:template match="tei:div[@type='heading'][preceding-sibling::tei:div[1][@type='other']]">
 	</xsl:template>
 	
 	<!-- Change representation of page numbers to DTABf-structure -->
@@ -196,60 +205,6 @@
 			<xsl:apply-templates select="@* | node()"/>
 		</tei:docDate>
 	</xsl:template>
-	
-	<!-- body: create chapters -->
-	<xsl:template match="tei:div[@type='heading'][not(preceding-sibling::tei:div[1][@type='other'])]">
-		<tei:div type="chapter">
-			
-			<!-- Transform p to head -->
-			<xsl:apply-templates select="tei:p" mode="make-head"/>
-			
-			<!-- Include all following siblings up to the next heading -->
-			<xsl:variable name="nextHeading" select="following-sibling::tei:div[@type='heading'][1]"/>
-			
-			<xsl:for-each select="following-sibling::*[. &lt;&lt; $nextHeading or not($nextHeading)]">
-				<xsl:apply-templates select="."/>
-			</xsl:for-each>
-			
-		</tei:div>
-	</xsl:template>
-	
-	<!-- Mode to transform p into head -->
-	<xsl:template match="tei:p" mode="make-head">
-		<tei:head>
-			<xsl:apply-templates select="node()"/>
-		</tei:head>
-	</xsl:template>
-	
-	<!-- Suppress everything that has been copied into the newly generated div@type=chapter already -->
-	<!-- fehlt! -->
-	
-	<!-- Template to handle div[@type='paragraph-continued'] -->
-	<xsl:template match="tei:div[@type='paragraph-continued']">
-		<tei:p>
-			<xsl:apply-templates select="tei:p/node()"/>
-			
-			<xsl:variable name="nextParaDiv" select="following-sibling::tei:div[@type='paragraph'][1]"/>
-			
-			<xsl:if test="$nextParaDiv">
-				<xsl:for-each select="
-					following-sibling::node()
-					[
-					generate-id() != generate-id($nextParaDiv)
-					and (self::tei:pb or self::tei:div[@type='page-number'])
-					and generate-id() &lt; generate-id($nextParaDiv)
-					]
-					">
-					<xsl:apply-templates select="."/>
-				</xsl:for-each>
-				
-				<xsl:apply-templates select="$nextParaDiv/tei:p/node()"/>
-			</xsl:if>
-		</tei:p>
-	</xsl:template>
-	
-	<!-- Suppress the next paragraph div that is immediately after paragraph-continued -->
-	<xsl:template match="tei:div[@type='paragraph' and preceding-sibling::tei:div[1][@type='paragraph-continued']]"/>
 	
 	
 </xsl:stylesheet>
