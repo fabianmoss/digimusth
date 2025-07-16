@@ -607,10 +607,10 @@
          <div rend="TEI" facs="#facs_12_TextRegion_1614195865265_649" type="paragraph">
             <p facs="#facs_12_TextRegion_1614195865265_649">
 				<lb facs="#facs_12_r2l24" n="N001"/><persName role="composer" ref="P0015">Mozart</persName> beginnt mit dem <rs ana="#m_chord">As dur-Dreiklange</rs> (in der <rs ana="#concept_mus">Terz<pc>¬</pc>
-				<lb facs="#facs_12_r2l25" n="N002"/>sextlage</rs>), diesem folgt der $$MATH-<rs ana="#m_chord">Accord</rs> <rs ana="#m_chord">c es g a</rs>, der eine regel<pc>¬</pc>
+				<lb facs="#facs_12_r2l25" n="N002"/>sextlage</rs>), diesem folgt der <rs ana="quintsextakkord"><span type="figured-bass" rend="stacked">6 5</span></rs>-<rs ana="#m_chord">Accord</rs> <rs ana="#m_chord">c es g a</rs>, der eine regel<pc>¬</pc>
 				<lb facs="#facs_12_r2l26" n="N003"/>mäßige <rs ana="#concept_mus">Trugfortschreitung</rs> in den <rs ana="#m_chord">Secundaccord</rs> <rs ana="#m_chord">c d fis a</rs>
 				<lb facs="#facs_12_r2l27" n="N004"/>nimmt und dieser löst sich sodann in den durch zwei <rs ana="#concept_mus">Vorhalte</rs>
-				<lb facs="#facs_12_r2l28" n="N005"/>verzögerten <rs ana="#m_chord">G dur-Dreiklang</rs> (in der $$MATH-<rs ana="#concept_mus">Lage</rs>) auf. Das <rs ana="#m_note">h</rs> des
+				<lb facs="#facs_12_r2l28" n="N005"/>verzögerten <rs ana="#m_chord">G dur-Dreiklang</rs> (in der <rs ana="terzsextakkord"><span type="figured-bass" rend="stacked">6 3</span></rs>-<rs ana="#concept_mus">Lage</rs>) auf. Das <rs ana="#m_note">h</rs> des
 				<lb facs="#facs_12_r2l29" n="N006"/><rs ana="#concept_mus">Basses</rs> bleibt nun als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_note">Halteton</rs></hi> liegen, über welchem der
 				<lb facs="#facs_12_r2l30" n="N007"/><rs ana="#m_chord">h moll-Dreiklang</rs> und sodann der <rs ana="#m_chord">verminderte Dreiklang</rs> <rs ana="#m_chord">fis a c</rs>
 				<lb facs="#facs_12_r2l31" n="N008"/>erscheint, der endlich regelmäßig in den <rs ana="#m_chord">G dur-Dreiklang</rs> über<pc>¬</pc>
@@ -1086,7 +1086,7 @@
             <p facs="#facs_21_TextRegion_1614200374976_1762">
 				<lb facs="#facs_21_r1l14" n="N001"/>Wenn <persName role="author" ref="P0047">mein Kritiker</persName> aber wähnt: ich sei der erste <rs ana="#concept_mus">Theore<pc>¬</pc>
 				<lb facs="#facs_21_r1l15" n="N002"/>tiker</rs>, welcher dem <rs ana="#m_chord">verminderten Dreiklange</rs> (den er, wo es ihm
-				<lb facs="#facs_21_r1l16" n="N003"/>paßt, als $$MATH eines <rs ana="#m_chord">Dominantseptimaccordes</rs> oder als $$MATH eines
+				<lb facs="#facs_21_r1l16" n="N003"/>paßt, als <formula notation="tex">$\frac{3}{4}$</formula> eines <rs ana="#m_chord">Dominantseptimaccordes</rs> oder als <formula notation="tex">$\frac{3}{5}$</formula> eines
 				<lb facs="#facs_21_r1l17" n="N004"/>sogenannten <rs ana="#m_chord">Nonenaccordes</rs> betrachtet) die Freiheit einräumt,
 				<lb facs="#facs_21_r1l18" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">jederzeit</hi> <rs ana="#concept_mus">ungebunden</rs> auftreten zu dürfen, und aus Beispielen
 				<lb facs="#facs_21_r1l19" n="N006"/>wie die folgenden:

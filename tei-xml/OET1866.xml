@@ -3845,8 +3845,8 @@
          <div rend="TEI" facs="#facs_20_TextRegion_1616241097218_2212" type="list">
             <p facs="#facs_20_TextRegion_1616241097218_2212">
 				<lb facs="#facs_20_r1l31" n="N001"/>eine <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">reingestimmte</rs></hi> <rs ana="#m_interval">Terz</rs> 4:5
-				<lb facs="#facs_20_r1l33" n="N002"/>eine durch 4 <rs ana="#m_interval"> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">reine</hi> Quinten</rs> bestimmte $$MATH <rs ana="#concept_mus">pythag.</rs>
-				<lb facs="#facs_20_line_1616241233051_2314" n="N003"/>eine durch 4 <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">temperirte</rs></hi> <rs ana="#m_interval">Quint</rs>, bestimmte $$MATH.
+				<lb facs="#facs_20_r1l33" n="N002"/>eine durch 4 <rs ana="#m_interval"> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">reine</hi> Quinten</rs> bestimmte <formula notation="tex">$4:(5.\frac{81}{80})$</formula> <rs ana="#concept_mus">pythag.</rs>
+				<lb facs="#facs_20_line_1616241233051_2314" n="N003"/>eine durch 4 <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">temperirte</rs></hi> <rs ana="#m_interval">Quint</rs>, bestimmte <formula notation="tex">$4:(5.\frac{127}{126})$</formula>.
 			</p>
          </div>
          <pb facs="#facs_21" n="21"/>
@@ -3919,15 +3919,15 @@
          </div>
          <div rend="TEI" facs="#facs_22_TextRegion_1616241539328_2523" type="list">
             <p facs="#facs_22_TextRegion_1616241539328_2523">
-				<lb facs="#facs_22_r1l3" n="N001"/><rs ana="#m_interval"> <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>:<hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs> = $$MATH und
-				<lb facs="#facs_22_r1l4" n="N002"/><rs ana="#m_interval"> <hi rend="italic:true; fontSize:0.0; kerning:0;">as</hi>{:<hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>= $$MATH, so sind <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs> und <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">as</hi>{</rs>
+				<lb facs="#facs_22_r1l3" n="N001"/><rs ana="#m_interval"> <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>:<hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs> <formula notation="tex">$= 1: \frac{5}{4}$</formula> und
+				<lb facs="#facs_22_r1l4" n="N002"/><rs ana="#m_interval"> <hi rend="italic:true; fontSize:0.0; kerning:0;">as</hi>{:<hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs> <formula notation="tex">$\frac{4}{5}:1$</formula>, so sind <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs> und <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">as</hi>{</rs>
             </p>
          </div>
          <div rend="TEI" facs="#facs_22_TextRegion_1616241535940_2519" type="paragraph">
             <p facs="#facs_22_TextRegion_1616241535940_2519">
 				<lb facs="#facs_22_r1l5" n="N001"/>reine <rs ana="#m_interval">Ober-</rs> und <rs ana="#m_interval">Unter-Terz</rs> von <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">c</rs></hi>, und die entsprechenden
 				<lb facs="#facs_22_r1l6" n="N002"/><rs ana="#concept_mus">Systeme</rs> <rs ana="#m_interval">reiner Quinten</rs> besitzen die <rs ana="#concept_phy">Schwingungszahlen</rs>
-				<lb facs="#facs_22_line_1616241596681_2562" n="N003"/>$$MATH und $$MATH. —
+				<lb facs="#facs_22_line_1616241596681_2562" n="N003"/><formula notation="tex">$5.3^n.2^x$</formula> und <formula notation="tex">$\frac{3^n.2^x}{5}$</formula>. —
 			</p>
          </div>
          <div rend="TEI" facs="#facs_22_TextRegion_1616241509408_2515" type="paragraph">
@@ -3939,10 +3939,10 @@
 				<lb facs="#facs_22_r1l14" n="N005"/>zusammenfassen, wieder in einem neuen <rs ana="#concept_mus">Systeme</rs> <rs ana="#m_interval">reiner</rs>
 				<lb facs="#facs_22_r1l15" n="N006"/><rs ana="#m_interval">Quinten</rs>. Die <rs ana="#m_interval">grosse Terz</rs> von <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs> wäre hiernach <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">gis</hi>}}</rs>‚ und ana<pc>¬</pc>
 				<lb facs="#facs_22_r1l16" n="N007"/>log die <rs ana="#m_interval">Unterterz</rs> von <rs ana="#m_interval"> <hi rend="italic:true; fontSize:0.0; kerning:0;">as</hi>{‚ — <hi rend="italic:true; fontSize:0.0; kerning:0;">fes</hi>{{‚</rs>, die zugehörigen <rs ana="#concept_mus">Quintensysteme</rs>
-				<lb facs="#facs_22_r1l18" n="N008"/>haben die <rs ana="#concept_phy">Schwingungszahlen</rs>: 5<hi rend="fontSize:0.0; kerning:0; superscript:true;">2</hi>. 3<hi rend="fontSize:0.0; kerning:0; superscript:true;">n</hi>. 2<hi rend="fontSize:0.0; kerning:0; superscript:true;">x</hi> und $$MATH. Einem
+				<lb facs="#facs_22_r1l18" n="N008"/>haben die <rs ana="#concept_phy">Schwingungszahlen</rs>: 5<hi rend="fontSize:0.0; kerning:0; superscript:true;">2</hi>. 3<hi rend="fontSize:0.0; kerning:0; superscript:true;">n</hi>. 2<hi rend="fontSize:0.0; kerning:0; superscript:true;">x</hi> und <formula notation="tex">$\frac{3^n.2^x}{5^2}$</formula>. Einem
 				<lb facs="#facs_22_r1l19" n="N009"/><rs ana="#m_note">Tone</rs> eines beliebigen <rs ana="#concept_mus">Systems</rs> entspricht also die <rs ana="#concept_phy">Schwin<pc>¬</pc>
 				<lb facs="#facs_22_r1l20" n="N010"/>gungszahl</rs>
-				 $$MATH wo <hi rend="italic:true; fontSize:0.0; kerning:0;">m</hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;">n</hi> und <hi rend="italic:true; fontSize:0.0; kerning:0;">p</hi> <rs ana="#concept_phy">positive</rs> und <rs ana="#concept_phy">negative</rs>
+				 <formula notation="tex">$5^m.3^n.2^p$</formula> wo <hi rend="italic:true; fontSize:0.0; kerning:0;">m</hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;">n</hi> und <hi rend="italic:true; fontSize:0.0; kerning:0;">p</hi> <rs ana="#concept_phy">positive</rs> und <rs ana="#concept_phy">negative</rs>
 				<lb facs="#facs_22_r1l21" n="N011"/><rs ana="#concept_phy">ganze Zahlen</rs> sein können. Zeichen und Werth von <hi rend="italic:true; fontSize:0.0; kerning:0;">m</hi> bestim<pc>¬</pc>
 				<lb facs="#facs_22_r1l22" n="N012"/>men das <rs ana="#concept_mus">System</rs> von <rs ana="#m_interval">Quinten</rs>, in welchem wir uns befinden. Mö<pc>¬</pc>
 				<lb facs="#facs_22_r1l23" n="N013"/>gen die <rs ana="#concept_phy">Zahlen</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;">m</hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;">n</hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;">p</hi>, noch so sehr variiren, niemals kann
@@ -4048,10 +4048,10 @@
 				<lb facs="#facs_24_r1l24" n="N015"/>gesetzt, so verfährt man ebenso mit dem <rs ana="#concept_phy">Nenner</rs> des <rs ana="#concept_phy">Bruches</rs>,
 				<lb facs="#facs_24_r1l25" n="N016"/>suche nun aber von der Rechten zur Linken und von oben
 				<lb facs="#facs_24_r1l26" n="N017"/>nach unten fortgehend den <rs ana="#m_note">Ton</rs> auf. Man suche die Namen
-				<lb facs="#facs_24_r1l29" n="N018"/>der <rs ana="#m_note">Töne</rs> $$MATH. Für $$MATH giebt, von <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">c</rs></hi> = 1 ausgegangen,
-				<lb facs="#facs_24_r1l30" n="N019"/>$$MATH den <rs ana="#m_note">Ton</rs> <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}</rs>, für $$MATH giebt $$MATH den <rs ana="#m_note">Ton</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">d</rs></hi> und $$MATH den
+				<lb facs="#facs_24_r1l29" n="N018"/>der <rs ana="#m_note">Töne</rs> <formula notation="tex">$\frac{15}{8}:\frac{9}{8}:\frac{4}{3}$</formula>. Für <formula notation="tex">$\frac{15}{8}$</formula> giebt, von <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">c</rs></hi> = 1 ausgegangen,
+				<lb facs="#facs_24_r1l30" n="N019"/><formula notation="tex">$3 \times 5$</formula> den <rs ana="#m_note">Ton</rs> <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}</rs>, für <formula notation="tex">$\frac{9}{8}$</formula> giebt <formula notation="tex">$3 \times 3$</formula> den <rs ana="#m_note">Ton</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">d</rs></hi> und <formula notation="tex">$\frac{4}{3}$</formula> den
 				<lb facs="#facs_24_r1l31" n="N020"/><rs ana="#m_note">Ton</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">f</rs></hi> d. h. eine <rs ana="#m_interval">Quinte</rs> zur Linken von <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">c</rs></hi> — also
-				<lb facs="#facs_24_line_1616242216412_2979" n="N021"/>$$MATH = <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>} <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi></rs> — Soll <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi> <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}</rs> bestimmt werden, so findet man
+				<lb facs="#facs_24_line_1616242216412_2979" n="N021"/><formula notation="tex">$\frac{15}{8}:\frac{9}{8}:\frac{4}{3}$</formula> <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>} <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi></rs> — Soll <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi> <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}</rs> bestimmt werden, so findet man
 			</p>
          </div>
          <pb facs="#facs_25" n="25"/>
@@ -4064,9 +4064,9 @@
             <p facs="#facs_25_TextRegion_1616242406440_3052">
 				<lb facs="#facs_25_r1l2" n="N001"/>und fügt so oft den <rs ana="#concept_phy">Factor</rs> 2 oben oder unten hinzu, dass
 				<lb facs="#facs_25_r1l3" n="N002"/>der <rs ana="#m_chord">Accord</rs> in die richtige <rs ana="#concept_mus">Lage</rs> kommt:
-				<lb facs="#facs_25_line_1616242530927_3122" n="N003"/>also <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> : <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi> : <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}</rs> = $$MATH; oder <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi> : <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>′ : <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}′</rs> = $$MATH. Für
-				<lb facs="#facs_25_r1l9" n="N004"/><rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi> <hi rend="italic:true; fontSize:0.0; kerning:0;">as</hi>{ <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>′</rs> erhalten wir <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">f</rs></hi> = $$MATH, <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">as</hi>{</rs> = $$MATH, <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>′</rs> = 1.
-				<lb facs="#facs_25_r1l12" n="N005"/>also <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi> : <hi rend="italic:true; fontSize:0.0; kerning:0;">as</hi>{ : <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>′</rs> = $$MATH. —
+				<lb facs="#facs_25_line_1616242530927_3122" n="N003"/>also <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> : <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi> : <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}</rs> = <formula notation="tex">$\frac{9}{8}:\frac{4}{3}:\frac{5}{3}$</formula>; oder <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi> : <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>′ : <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}′</rs> = <formula notation="tex">$\frac{4}{3}:\frac{9}{4}:\frac{10}{3}$</formula>. Für
+				<lb facs="#facs_25_r1l9" n="N004"/><rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi> <hi rend="italic:true; fontSize:0.0; kerning:0;">as</hi>{ <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>′</rs> erhalten wir <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">f</rs></hi> = <formula notation="tex">$\frac{1}{3}$</formula>, <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">as</hi>{</rs> = <formula notation="tex">$\frac{1}{5}$</formula>, <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>′</rs> = 1.
+				<lb facs="#facs_25_r1l12" n="N005"/>also <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi> : <hi rend="italic:true; fontSize:0.0; kerning:0;">as</hi>{ : <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>′</rs> = <formula notation="tex">$\frac{2}{3}:\frac{4}{5}:1$</formula>. —
 			</p>
          </div>
          <div rend="TEI" facs="#facs_25_TextRegion_1616242291677_3037" type="paragraph">
@@ -4147,8 +4147,8 @@
 				<lb facs="#facs_26_r1l30" n="N002"/>höhe</rs> nicht immer bemerkt zu werden braucht, alle <rs ana="#m_interval">Inter<pc>¬</pc>
 				<lb facs="#facs_26_r1l31" n="N003"/>valle</rs> in <rs ana="#concept_mus">engster Lage</rs> von der Tiefe nach der Höhe hin ge<pc>¬</pc>
 				<lb facs="#facs_26_r1l32" n="N004"/>dacht werden, wenn keine besonderen Bemerkungen ange<pc>¬</pc>
-				<lb facs="#facs_26_line_1616435802183_2643" n="N005"/>geben sind, so dass <rs ana="#m_interval"> <hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>:<hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi></rs> nicht das <rs ana="#concept_phy">Verhältniss</rs> $$MATH,
-				<lb facs="#facs_26_line_1616435812113_2658" n="N006"/>sondern $$MATH bedeutet.
+				<lb facs="#facs_26_line_1616435802183_2643" n="N005"/>geben sind, so dass <rs ana="#m_interval"> <hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>:<hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi></rs> nicht das <rs ana="#concept_phy">Verhältniss</rs> <formula notation="tex">$\frac{15}{8}:\frac{5}{4}$</formula>,
+				<lb facs="#facs_26_line_1616435812113_2658" n="N006"/>sondern <formula notation="tex">$\frac{15}{16}:\frac{5}{4}$</formula> bedeutet.
 			</p>
          </div>
          <div rend="TEI" facs="#facs_26_TextRegion_1616435451179_2532" type="footnote">
@@ -4202,7 +4202,7 @@
 				<lb facs="#facs_27_r1l26" n="N003"/>zusammenstellt, und auf beiden Behauptungen fussend seine Darstellung be<pc>¬</pc>
 				<lb facs="#facs_27_r1l27" n="N004"/>ginnt. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0095">Möhring</persName></hi> bezeichnet nämlich das <rs ana="#concept_mus">reine <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Quintensystem</hi></rs> als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">das</hi> „für
 				<lb facs="#facs_27_r1l28" n="N005"/>die <rs ana="#concept_mus"> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">praktische</hi> Musik</rs> allein taugliche”, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0091">Drobisch</persName></hi> aber sagt: „Alle auf der
-				<lb facs="#facs_27_line_1616435942603_2817" n="N006"/><rs ana="#concept_mus">diatonischen</rs> <rs ana="#m_tonality">Tonleiter</rs> mit <rs ana="#m_interval">grosser Terz</rs> $$MATH, <rs ana="#m_interval">grosse Sexte</rs> $$MATH, und <rs ana="#m_interval">grosse Sept.</rs> $$MATH
+				<lb facs="#facs_27_line_1616435942603_2817" n="N006"/><rs ana="#concept_mus">diatonischen</rs> <rs ana="#m_tonality">Tonleiter</rs> mit <rs ana="#m_interval">grosser Terz</rs> <formula notation="tex">$\frac{5}{4}$</formula>, <rs ana="#m_interval">grosse Sexte</rs> <formula notation="tex">$\frac{5}{3}$</formula>, und <rs ana="#m_interval">grosse Sept.</rs> <formula notation="tex">$\frac{15}{8}$</formula>
 				<lb facs="#facs_27_r1l32" n="N007"/>gebauten <rs ana="#concept_mus">Systeme</rs> seien für die <rs ana="#concept_mus">heutige Musik</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">weder in <rs ana="#concept_mus">theoretischer</rs> noch<lb facs="#facs_27_r1l33" n="N008"/>in <rs ana="#concept_mus">praktischer</rs></hi> Beziehung brauchbar, das normative <rs ana="#concept_mus">System</rs> sei das <rs ana="#concept_mus">reine Quin<pc>¬</pc>
 				<lb facs="#facs_27_r1l34" n="N009"/>tensystem</rs>, also das alte <rs ana="#concept_mus">pythagoräische</rs>”. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0095">Möhring</persName></hi> spricht eben nur von der
 				<lb facs="#facs_27_r1l35" n="N010"/><rs ana="#concept_mus">Praxis</rs> — und seine mit dem <rs ana="#concept_mus">Contrabass</rs> angestellten Versuche über die <rs ana="#concept_mus">Intonation</rs>
@@ -4954,10 +4954,10 @@
 				<lb facs="#facs_41_line_1616437820949_4310" n="N003"/>ist 1 der <rs ana="#concept_mus">tonische</rs> <rs ana="#m_note">Grundton</rs>, da <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi> und <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi> <rs ana="#concept_phy">Vielfache</rs> von 1
 				<lb facs="#facs_41_r1l23" n="N004"/>sind, keine <rs ana="#concept_phy">Zahl</rs> aber zwischen 1 und <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi> in beiden zugleich
 				<lb facs="#facs_41_r1l24" n="N005"/>enthalten ist, da sonst letztere nicht <rs ana="#concept_phy">relativ prim</rs> sein könnten.
-				<lb facs="#facs_41_r1l25" n="N006"/>Jeder <rs ana="#m_note">Ton</rs> $$MATH kann gleichfalls <rs ana="#m_note">Grundton</rs> sein, wenn <hi rend="italic:true; fontSize:0.0; kerning:0;">n</hi> eine
+				<lb facs="#facs_41_r1l25" n="N006"/>Jeder <rs ana="#m_note">Ton</rs> <formula notation="tex">$\frac{1}{n}$</formula> kann gleichfalls <rs ana="#m_note">Grundton</rs> sein, wenn <hi rend="italic:true; fontSize:0.0; kerning:0;">n</hi> eine
 				<lb facs="#facs_41_r1l26" n="N007"/><rs ana="#concept_phy">ganze Zahl</rs> ist, denn macht solch ein <rs ana="#m_note">Ton</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">eine</hi> <rs ana="#concept_phy">Schwingung</rs>,
 				<lb facs="#facs_41_r1l27" n="N008"/>so ist das obige <rs ana="#m_interval">Intervall</rs> durch <hi rend="italic:true; fontSize:0.0; kerning:0;">an</hi> und <hi rend="italic:true; fontSize:0.0; kerning:0;">bn</hi> ausgedrückt,
-				<lb facs="#facs_41_line_1616437836099_4331" n="N009"/>d. h. durch <rs ana="#concept_phy">ganze Zahlen</rs>. Von den <rs ana="#concept_phy">Untertönen</rs> = $$MATH des <rs ana="#concept_mus">to<pc>¬</pc>
+				<lb facs="#facs_41_line_1616437836099_4331" n="N009"/>d. h. durch <rs ana="#concept_phy">ganze Zahlen</rs>. Von den <rs ana="#concept_phy">Untertönen</rs> <formula notation="tex">$=\frac{1}{n}$</formula> des <rs ana="#concept_mus">to<pc>¬</pc>
 				<lb facs="#facs_41_r1l31" n="N010"/>nischen</rs> <rs ana="#m_note">Grundtones</rs> 1 sehen wir zunächst ab. Der <rs ana="#concept_mus">phonische</rs>
 				<lb facs="#facs_41_r1l32" n="N011"/><rs ana="#concept_phy">Oberton</rs> von <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi> und <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi> ist offenbar derjenige, der dem <rs ana="#concept_phy">ersten</rs>
 				<lb facs="#facs_41_r1l33" n="N012"/><rs ana="#concept_phy">gemeinsamen Vielfachen</rs> beider <rs ana="#concept_phy">Zahlen</rs> entspricht, also hier
@@ -4982,7 +4982,7 @@
          <div rend="TEI" facs="#facs_42_TextRegion_1616437905319_4409" type="paragraph">
             <p facs="#facs_42_TextRegion_1616437905319_4409">
 				<lb facs="#facs_42_r1l6" n="N001"/>Sind die <rs ana="#concept_phy">Schwingungsverhältnisse</rs> durch <rs ana="#concept_phy">Brüche</rs> ausge<pc>¬</pc>
-				<lb facs="#facs_42_line_1616437982169_4462" n="N002"/>drückt $$MATH etc., so ist unter analogen Bedin<pc>¬</pc>
+				<lb facs="#facs_42_line_1616437982169_4462" n="N002"/>drückt <formula notation="tex">$\frac{1}{a}$</formula>, <formula notation="tex">$\frac{1}{b}$</formula>, <formula notation="tex">$\frac{1}{c}$</formula>, <formula notation="tex">$\frac{1}{d}$</formula> etc., so ist unter analogen Bedin<pc>¬</pc>
 				<lb facs="#facs_42_r1l10" n="N003"/>gungen für <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>, der <rs ana="#m_note">Ton</rs> 1 der <rs ana="#concept_mus">phonische</rs> <rs ana="#concept_phy">Oberton</rs>,
 				<lb facs="#facs_42_r1l11" n="N004"/>denn er ist der <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi> <hi rend="italic:true; fontSize:0.0; kerning:0; superscript:true;">te</hi> <rs ana="#concept_phy">Partialton</rs> vom ersten, der <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi> <hi rend="italic:true; fontSize:0.0; kerning:0; superscript:true;">te</hi> vom zwei<pc>¬</pc>
 				<lb facs="#facs_42_r1l12" n="N005"/>ten u. s. w. — Der <rs ana="#concept_mus">tonische</rs> <rs ana="#m_note">Grundton</rs> dagegen wird gleich
@@ -4992,7 +4992,7 @@
          <div rend="TEI" facs="#facs_42_TextRegion_1616437902039_4405" type="paragraph">
             <p facs="#facs_42_TextRegion_1616437902039_4405">
 				<lb facs="#facs_42_r1l14" n="N001"/>Sind aber die <rs ana="#concept_phy">Schwingungszahlen</rs> durch <rs ana="#concept_phy">Brüche</rs> ausge<pc>¬</pc>
-				<lb facs="#facs_42_line_1616438008815_4490" n="N002"/>drückt $$MATH die sich auf ein und denselben <rs ana="#m_note">Ton</rs> 1,
+				<lb facs="#facs_42_line_1616438008815_4490" n="N002"/>drückt <formula notation="tex">$\frac{a}{b}$</formula>, <formula notation="tex">$\frac{c}{d}$</formula>, <formula notation="tex">$\frac{e}{f}$</formula>, die sich auf ein und denselben <rs ana="#m_note">Ton</rs> 1,
 				<lb facs="#facs_42_r1l19" n="N003"/>etwa <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">C</rs></hi> beziehen, so können wir die <rs ana="#concept_phy">Verhältnisse</rs> einmal
 				<lb facs="#facs_42_r1l20" n="N004"/>durch <rs ana="#concept_phy">Brüche</rs> mit gleichen <rs ana="#concept_phy">Nennern</rs>, dann auch durch solche
 				<lb facs="#facs_42_r1l21" n="N005"/>mit gleichen <rs ana="#concept_phy">Zählern</rs> darstellen:
@@ -5006,12 +5006,12 @@
          <div rend="TEI" facs="#facs_42_TextRegion_1616437894670_4397" type="paragraph">
             <p facs="#facs_42_TextRegion_1616437894670_4397">
 				<lb facs="#facs_42_r1l31" n="N001"/>Setzen wir voraus, dass weder <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi> noch <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi> al<pc>¬</pc>
-				<lb facs="#facs_42_line_1616438035610_4534" n="N002"/>len gemeinsame <rs ana="#concept_phy">Factore</rs> besitzen, so ist $$MATH der <rs ana="#concept_mus">tonische</rs>
-				<lb facs="#facs_42_r1l37" n="N003"/><rs ana="#m_note">Grundton</rs>, $$MATH der <rs ana="#concept_mus">phonische</rs> <rs ana="#concept_phy">Oberton</rs>. Oder, um es an<pc>¬</pc>
-				<lb facs="#facs_42_r1l38" n="N004"/>schaulicher zu machen: $$MATH.
+				<lb facs="#facs_42_line_1616438035610_4534" n="N002"/>len gemeinsame <rs ana="#concept_phy">Factore</rs> besitzen, so ist <formula notation="tex">$\frac{1}{bdf}$</formula> der <rs ana="#concept_mus">tonische</rs>
+				<lb facs="#facs_42_r1l37" n="N003"/><rs ana="#m_note">Grundton</rs>, <formula notation="tex">$\frac{ace}{1}$</formula> der <rs ana="#concept_mus">phonische</rs> <rs ana="#concept_phy">Oberton</rs>. Oder, um es an<pc>¬</pc>
+				<lb facs="#facs_42_r1l38" n="N004"/>schaulicher zu machen: <formula notation="tex">$1:\frac{a}{b}:\frac{c}{d}:\frac{e}{f} = bdf:adf:bcf:bde$</formula>.
 				<lb facs="#facs_42_r1l40" n="N005"/>Hier haben wir rechts <rs ana="#concept_phy">ganze Zahlen</rs>, und 1 ist nach dem frü<pc>¬</pc>
-				<lb facs="#facs_42_r1l41" n="N006"/>heren der <rs ana="#concept_mus">tonische</rs> <rs ana="#m_note">Grundton</rs>, d. h. $$MATH. Ebenso ist
-				<lb facs="#facs_42_line_1616438071449_4601" n="N007"/>$$MATH, und 1 ist der <rs ana="#concept_mus">pho<pc>¬</pc>
+				<lb facs="#facs_42_r1l41" n="N006"/>heren der <rs ana="#concept_mus">tonische</rs> <rs ana="#m_note">Grundton</rs>, d. h. <formula notation="tex">$\frac{1}{bdf} \times C$</formula>. Ebenso ist
+				<lb facs="#facs_42_line_1616438071449_4601" n="N007"/><formula notation="tex">$1:\frac{a}{b}:\frac{c}{d}:\frac{e}{f} = \frac{1}7ace}:\frac{1}{bce}:\frac{1}{ade}:\frac{acf}$</formula>, und 1 ist der <rs ana="#concept_mus">pho<pc>¬</pc>
 				<lb facs="#facs_42_r1l48" n="N008"/>nische</rs> <rs ana="#concept_phy">Oberton</rs>, = <hi rend="italic:true; fontSize:0.0; kerning:0;">ace</hi> . <hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi>.
 			</p>
          </div>
@@ -5036,11 +5036,11 @@
             <p facs="#facs_43_TextRegion_1616438132605_4639">
 				<lb facs="#facs_43_r1l9" n="N001"/>Für die beiden oben betrachteten <rs ana="#m_chord">Dreiklänge</rs> stellt sich
 				<lb facs="#facs_43_r1l10" n="N002"/>jetzt die Darstellung einfacher heraus:
-				<lb facs="#facs_43_line_1616438212907_4697" n="N003"/><rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>:<hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}:<hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs> = $$MATH, hat den <rs ana="#concept_mus">ton.</rs> <rs ana="#m_note">Gr.</rs> $$MATH.
+				<lb facs="#facs_43_line_1616438212907_4697" n="N003"/><rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>:<hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}:<hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs> <formula notation="tex">$= 1:\frac{5}{4}:\frac{3}{2}$</formula>, hat den <rs ana="#concept_mus">ton.</rs> <rs ana="#m_note">Gr.</rs> <formula notation="tex">$\frac{1}{4}=\frac{1}{2^2}C = C,$</formula>.
 				<lb facs="#facs_43_r1l14" n="N004"/>weil 4 <rs ana="#concept_phy">Generalnenner</rs>; der <rs ana="#concept_mus">ph.</rs> <rs ana="#concept_phy">Ob.</rs> ist 15 = 3.5.<hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi> = <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}‴</rs> weil
-				<lb facs="#facs_43_r1l15" n="N005"/>15 <rs ana="#concept_phy">Generalzähler</rs>; ebenso hat <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>:<hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{:<hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs> = $$MATH den
+				<lb facs="#facs_43_r1l15" n="N005"/>15 <rs ana="#concept_phy">Generalzähler</rs>; ebenso hat <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>:<hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{:<hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs> <formula notation="tex">$= \frac{2}{3}:\frac{4}{5}:1$</formula> den
 				<lb facs="#facs_43_r1l16" n="N006"/><rs ana="#concept_mus">ph.</rs> <rs ana="#concept_phy">Ob.</rs> 4 = 2<hi rend="fontSize:0.0; kerning:0; superscript:true;">2</hi> . <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi> = <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi>″</rs>, da <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">g</rs></hi> der <rs ana="#m_note">Ausgangston</rs> war und
-				<lb facs="#facs_43_line_1616438237003_4729" n="N007"/>den <rs ana="#concept_mus">ton.</rs> <rs ana="#m_note">Gr.</rs> $$MATH = <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">As</hi>{‚‚‚</rs>.
+				<lb facs="#facs_43_line_1616438237003_4729" n="N007"/>den <rs ana="#concept_mus">ton.</rs> <rs ana="#m_note">Gr.</rs> <formula notation="tex">$\frac{1}{15} = \frac{1}{3.5}c =$</formula> <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">As</hi>{‚‚‚</rs>.
 			</p>
          </div>
          <div rend="TEI" facs="#facs_43_TextRegion_1616438127479_4635" type="paragraph">
@@ -5139,7 +5139,7 @@
          <div rend="TEI" facs="#facs_45_TextRegion_1616615756495_48" type="paragraph-continued">
             <p facs="#facs_45_TextRegion_1616615756495_48">
 				<lb facs="#facs_45_r1l13" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0007">Hauptmann</persName></hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">1</hi>) stellte den <rs ana="#m_chord">Mollaccord</rs> durch <rs ana="#concept_phy">Brüche</rs> dar,
-				<lb facs="#facs_45_line_1616616330421_206" n="N002"/><rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>:<hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{:<hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs> = $$MATH und wies darauf hin,
+				<lb facs="#facs_45_line_1616616330421_206" n="N002"/><rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>:<hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{:<hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs> <formula notation="tex">$=\frac{2}{3}:\frac{4}{5}:1=\frac{1}{6}:\frac{1}{5}:\frac{1}{4}$</formula> und wies darauf hin,
 				<lb facs="#facs_45_r1l19" n="N003"/>dass die letzteren <rs ana="#concept_phy">Verhältnisszahlen</rs> sich durch <rs ana="#concept_phy">Potenzen</rs> mit
 				<lb facs="#facs_45_r1l20" n="N004"/><rs ana="#concept_phy">negativen Exponenten</rs> wiedergeben lassen: 6<hi rend="fontSize:0.0; kerning:0; superscript:true;">-1</hi>:5<hi rend="fontSize:0.0; kerning:0; superscript:true;">-1</hi>:4<hi rend="fontSize:0.0; kerning:0; superscript:true;">-1</hi>.
 				<lb facs="#facs_45_r1l21" n="N005"/>Da nun der <rs ana="#m_chord">Duraccord</rs> durch eben dieselben <rs ana="#concept_phy">Zahlen</rs> mit <rs ana="#concept_phy">po<pc>¬</pc>
@@ -5759,10 +5759,10 @@
 				<lb facs="#facs_56_r1l23" n="N001"/>Die Identität der beiden letzten Begriffsbestimmungen
 				<lb facs="#facs_56_r1l24" n="N002"/>leuchtet aus folgenden Sätzen hervor, die wir früher schon
 				<lb facs="#facs_56_r1l25" n="N003"/>angedeutet. Jedes <rs ana="#m_interval">Intervall</rs> können wir darstellen durch zwei
-				<lb facs="#facs_56_line_1616618428209_1804" n="N004"/><rs ana="#concept_phy">Brüche</rs> $$MATH, wo weder <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi> und <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>, noch <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi> und <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> gemein<pc>¬</pc>
-				<lb facs="#facs_56_r1l31" n="N005"/>same <rs ana="#concept_phy">Factore</rs> haben. Beide <rs ana="#m_note">Töne</rs> $$MATH und $$MATH sind Be<pc>¬</pc>
-				<lb facs="#facs_56_line_1616618443087_1829" n="N006"/>standtheile ein und desselben <rs ana="#concept_mus">tonischen</rs> <rs ana="#m_note">Grundtones</rs> $$MATH, und
-				<lb facs="#facs_56_r1l35" n="N007"/>beide haben ein und denselben <rs ana="#concept_mus">phonischen</rs> <rs ana="#m_note">Oberton</rs> $$MATH. Nun
+				<lb facs="#facs_56_line_1616618428209_1804" n="N004"/><rs ana="#concept_phy">Brüche</rs> <formula notation="tex">$\frac{a}{b}$</formula>, <formula notation="tex">$\frac{c}{d}$</formula>, wo weder <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi> und <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>, noch <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi> und <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> gemein<pc>¬</pc>
+				<lb facs="#facs_56_r1l31" n="N005"/>same <rs ana="#concept_phy">Factore</rs> haben. Beide <rs ana="#m_note">Töne</rs> <formula notation="tex">$\frac{a}{b}$</formula> und <formula notation="tex">$\frac{c}{d}$</formula> sind Be<pc>¬</pc>
+				<lb facs="#facs_56_line_1616618443087_1829" n="N006"/>standtheile ein und desselben <rs ana="#concept_mus">tonischen</rs> <rs ana="#m_note">Grundtones</rs> <formula notation="tex">$\frac{1}{bd}$</formula>, und
+				<lb facs="#facs_56_r1l35" n="N007"/>beide haben ein und denselben <rs ana="#concept_mus">phonischen</rs> <rs ana="#m_note">Oberton</rs> <formula notation="tex">$\frac{ac}{1}$</formula>. Nun
 			</p>
          </div>
          <div rend="TEI" facs="#facs_56_TextRegion_1616618312515_1688" type="footnote">
@@ -5807,10 +5807,10 @@
             <p facs="#facs_57_TextRegion_1616618504926_1891">
 				<lb facs="#facs_57_r1l18" n="N001"/>d. h. aber <rs ana="#concept_mus">ton.</rs> <rs ana="#m_note">Gr.</rs> und <rs ana="#concept_mus">ph.</rs> <rs ana="#m_note">Ob.</rs> liegen stets symmetrisch <hi rend="fontSize:0.0; kerning:0; superscript:true;">1</hi>)
 				<lb facs="#facs_57_r1l19" n="N002"/>zum gegebenen <rs ana="#m_interval">Intervalle</rs>. Oder wenn wir das <rs ana="#m_interval">Intervall</rs> durch
-				<lb facs="#facs_57_line_1616618806162_2028" n="N003"/>$$MATH — ausdrücken, — was immer möglich ist, wenn auch
+				<lb facs="#facs_57_line_1616618806162_2028" n="N003"/><formula notation="tex">$\frac{a}{b}:\frac{b}{a}$</formula> — ausdrücken, — was immer möglich ist, wenn auch
 				<lb facs="#facs_57_r1l28" n="N004"/>nicht in ganzen oder <rs ana="#concept_phy">rationalen Zahlen</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi> und <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>, — so ist der <rs ana="#concept_mus">to<pc>¬</pc>
-				<lb facs="#facs_57_line_1616618839748_2090" n="N005"/>nische</rs> <rs ana="#m_note">Grundton</rs> $$MATH, der <rs ana="#concept_mus">phonische</rs> <rs ana="#concept_phy">Oberton</rs> $$MATH. Das gege<pc>¬</pc>
-				<lb facs="#facs_57_line_1616618853390_2122" n="N006"/>bene <rs ana="#m_interval">Intervall</rs> $$MATH, sowie <rs ana="#concept_mus">ton.</rs> <rs ana="#m_note">Gr.</rs> und <rs ana="#concept_mus">ph.</rs> <rs ana="#concept_phy">Ob.</rs> liegen
+				<lb facs="#facs_57_line_1616618839748_2090" n="N005"/>nische</rs> <rs ana="#m_note">Grundton</rs> <formula notation="tex">$\frac{1}{ab}$</formula>, der <rs ana="#concept_mus">phonische</rs> <rs ana="#concept_phy">Oberton</rs> <formula notation="tex">$\frac{ab}{1}$</formula>. Das gege<pc>¬</pc>
+				<lb facs="#facs_57_line_1616618853390_2122" n="N006"/>bene <rs ana="#m_interval">Intervall</rs> <formula notation="tex">$\frac{a}{b}:\frac{b}{a}$</formula>, sowie <rs ana="#concept_mus">ton.</rs> <rs ana="#m_note">Gr.</rs> und <rs ana="#concept_mus">ph.</rs> <rs ana="#concept_phy">Ob.</rs> liegen
 				<lb facs="#facs_57_r1l38" n="N007"/>also symmetrisch zum <rs ana="#m_note">Ausgangstone</rs> 1. Wir erkennen hieraus den
 				<lb facs="#facs_57_r1l39" n="N008"/>allgemein geltenden Satz: <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Der <rs ana="#concept_mus">Verwandtschaftsgrad</rs> zweier<lb facs="#facs_57_r1l40" n="N009"/> <rs ana="#m_note">Töne</rs> ist <rs ana="#concept_mus">tonisch</rs> und <rs ana="#concept_mus">phonisch</rs> ein und derselbe</hi>.
 			</p>
@@ -5858,10 +5858,10 @@
 				<lb facs="#facs_58_r1l11" n="N002"/><rs ana="#concept_phy">Schwingungszahlen</rs> seien einmal durch positive <rs ana="#concept_phy">ganze Zahlen</rs>,
 				<lb facs="#facs_58_r1l12" n="N003"/>die <rs ana="#concept_phy">relativ prim</rs> zu einander sind, ausgedrückt, dann dieselben
 				<lb facs="#facs_58_r1l13" n="N004"/><rs ana="#concept_phy">Schwingungsverhältnisse</rs> durch ächte <rs ana="#concept_phy">Stammbrüche</rs>, denn je<pc>¬</pc>
-				<lb facs="#facs_58_r1l14" n="N005"/>des <rs ana="#m_interval">Intervall</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>:<hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi> kann auch geschrieben werden $$MATH,
+				<lb facs="#facs_58_r1l14" n="N005"/>des <rs ana="#m_interval">Intervall</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>:<hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi> kann auch geschrieben werden <formula notation="tex">$\frac{1}{b}:\frac{1}{a}$</formula>,
 				<lb facs="#facs_58_r1l16" n="N006"/>und behalten wir stets diese beiden Schreibweisen vor Augen
 				<lb facs="#facs_58_r1l17" n="N007"/>so dass entweder der untere <rs ana="#m_note">Intervallton</rs> mit <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>, der obere mit
-				<lb facs="#facs_58_r1l18" n="N008"/><hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>, oder jener mit $$MATH dieser mit $$MATH bezeichnet wird, so lassen
+				<lb facs="#facs_58_r1l18" n="N008"/><hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>, oder jener mit <formula notation="tex">$\frac{1}{b}$</formula> dieser mit <formula notation="tex">$\frac{1}{a}$</formula> bezeichnet wird, so lassen
 				<lb facs="#facs_58_r1l20" n="N009"/>sich noch folgende Fälle unterscheiden:
 			</p>
          </div>
@@ -5875,11 +5875,11 @@
          </div>
          <div rend="TEI" facs="#facs_58_TextRegion_1616618990741_2229" type="list">
             <p facs="#facs_58_TextRegion_1616618990741_2229">
-				<lb facs="#facs_58_line_1616619158902_2349" n="N001"/>die <rs ana="#m_interval">Octave</rs> 1:2 = $$MATH,
-				<lb facs="#facs_58_r1l29" n="N002"/>die <rs ana="#m_interval">Quinte</rs> 2:3 = $$MATH,
-				<lb facs="#facs_58_line_1616619170811_2366" n="N003"/>die <rs ana="#m_interval">grosse Terz</rs> 4:5 = $$MATH,
-				<lb facs="#facs_58_line_1616619177230_2376" n="N004"/>die <rs ana="#m_interval">grosse Sexte</rs> 8:9 = $$MATH,
-				<lb facs="#facs_58_line_1616619185196_2391" n="N005"/>die <rs ana="#m_interval">grosse Septime</rs> 8:15 = $$MATH,
+				<lb facs="#facs_58_line_1616619158902_2349" n="N001"/>die <rs ana="#m_interval">Octave</rs> 1:2 = <formula notation="tex">$\frac{1}{2}:\frac{1}{1}$</formula>,
+				<lb facs="#facs_58_r1l29" n="N002"/>die <rs ana="#m_interval">Quinte</rs> 2:3 = <formula notation="tex">$\frac{1}{3}:\frac{1}{2}$</formula>
+				<lb facs="#facs_58_line_1616619170811_2366" n="N003"/>die <rs ana="#m_interval">grosse Terz</rs> 4:5 = <formula notation="tex">$\frac{1}{5}:\frac{1}{4}$</formula>,
+				<lb facs="#facs_58_line_1616619177230_2376" n="N004"/>die <rs ana="#m_interval">grosse Sexte</rs> 8:9 = <formula notation="tex">$\frac{1}{9}:\frac{1}{8}$</formula>,
+				<lb facs="#facs_58_line_1616619185196_2391" n="N005"/>die <rs ana="#m_interval">grosse Septime</rs> 8:15 = <formula notation="tex">$\frac{1}{15}:\frac{1}{8}$</formula>,
 			</p>
          </div>
          <div rend="TEI" facs="#facs_58_TextRegion_1616618982899_2221" type="paragraph">
@@ -5898,17 +5898,17 @@
             <p facs="#facs_59_TextRegion_1620847496661_199">
 				<lb facs="#facs_59_r1l2" n="N001"/>2. Im umgekehrten Falle, d. h. wenn der <rs ana="#concept_phy">Zähler</rs> des hö<pc>¬</pc>
 				<lb facs="#facs_59_r1l3" n="N002"/>heren <rs ana="#m_note">Tones</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>, oder in der anderen Schreibweise der <rs ana="#concept_phy">Nenner</rs>
-				<lb facs="#facs_59_r1l4" n="N003"/>des tieferen, $$MATH, eine <rs ana="#concept_phy">Potenz</rs> von 2 ist, findet eine <rs ana="#concept_phy">Coïncidenz</rs>
+				<lb facs="#facs_59_r1l4" n="N003"/>des tieferen, <formula notation="tex">$\frac{1}{b}$</formula>, eine <rs ana="#concept_phy">Potenz</rs> von 2 ist, findet eine <rs ana="#concept_phy">Coïncidenz</rs>
 				<lb facs="#facs_59_r1l5" n="N004"/>statt zwischen <rs ana="#concept_mus">ton.</rs> <rs ana="#m_note">Gr.</rs> und oberem <rs ana="#m_note">Intervallton</rs>, und andererseits
 				<lb facs="#facs_59_r1l6" n="N005"/>gleichzeitig zwischen <rs ana="#concept_mus">ph.</rs> <rs ana="#concept_phy">Ob.</rs> und tieferem <rs ana="#m_note">Intervallton</rs>. Hierher
 			</p>
          </div>
          <div rend="TEI" facs="#facs_59_TextRegion_1620847496660_198" type="list">
             <p facs="#facs_59_TextRegion_1620847496660_198">
-				<lb facs="#facs_59_r1l7" n="N001"/>gehören wiederum die <rs ana="#m_interval">Octave</rs> 1:2 = $$MATH,
-				<lb facs="#facs_59_line_1620847547288_222" n="N002"/>dann: die <rs ana="#m_interval">Quarte</rs> 3:4 = $$MATH,
-				<lb facs="#facs_59_line_1620847552744_230" n="N003"/>die <rs ana="#m_interval">kleine Sexte</rs> 5:8 = $$MATH,
-				<lb facs="#facs_59_line_1620847557069_236" n="N004"/>der <rs ana="#m_interval">grosse Halbton</rs> 15:16 = $$MATH. u. s. w.
+				<lb facs="#facs_59_r1l7" n="N001"/>gehören wiederum die <rs ana="#m_interval">Octave</rs> 1:2 = <formula notation="tex">$\frac{1}{2}:1$</formula>,
+				<lb facs="#facs_59_line_1620847547288_222" n="N002"/>dann: die <rs ana="#m_interval">Quarte</rs> 3:4 = <formula notation="tex">$\frac{1}{4}:\frac{1}{3}$</formula>,
+				<lb facs="#facs_59_line_1620847552744_230" n="N003"/>die <rs ana="#m_interval">kleine Sexte</rs> 5:8 = <formula notation="tex">$\frac{1}{8}:\frac{1}{5}$</formula>,
+				<lb facs="#facs_59_line_1620847557069_236" n="N004"/>der <rs ana="#m_interval">grosse Halbton</rs> 15:16 = <formula notation="tex">\rfac{1}{16}:\frac{1}{15}</formula>. u. s. w.
 			</p>
          </div>
          <div rend="TEI" facs="#facs_59_TextRegion_1616619240025_2434" type="paragraph">
@@ -5937,7 +5937,7 @@
 				<lb facs="#facs_59_r1l28" n="N004"/>3 und 5 resp. nur einmal enthalten, und keiner der <rs ana="#m_note">Töne</rs>
 				<lb facs="#facs_59_r1l29" n="N005"/>alle beide oder einen derselben zwei oder mehrmal, kann das
 				<lb facs="#facs_59_r1l30" n="N006"/><rs ana="#concept_phy">Product</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;">ab</hi> nur eine <rs ana="#concept_phy">Potenz</rs> von 2 <rs ana="#concept_phy">multiplicirt</rs> mit dem <rs ana="#concept_phy">Product</rs>
-				<lb facs="#facs_59_r1l31" n="N007"/>$$MATH enthalten. — d. h. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Der <rs ana="#concept_mus">tonische</rs> <rs ana="#m_note">Grundton</rs> er<pc>¬</pc>
+				<lb facs="#facs_59_r1l31" n="N007"/><formula notation="tex">$3 \times 5$</formula> enthalten. — d. h. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Der <rs ana="#concept_mus">tonische</rs> <rs ana="#m_note">Grundton</rs> er<pc>¬</pc>
 				<lb facs="#facs_59_r1l32" n="N008"/>gänzt das <rs ana="#m_interval">Intervall</rs> zum <rs ana="#m_chord">Durdreiklang</rs>, der <rs ana="#concept_mus">phoni<pc>¬</pc>
 				<lb facs="#facs_59_r1l33" n="N009"/>sche</rs>  <rs ana="#concept_phy">Oberton</rs> zum <rs ana="#m_chord">Molldreiklang</rs></hi>. Hierher gehören die
 			</p>
@@ -6034,11 +6034,11 @@
 				<lb facs="#facs_61_r1l33" n="N021"/>zahl</rs>. Je weiter der <rs ana="#concept_mus">phon.</rs> <rs ana="#concept_phy">Oberton</rs> abliegt, um so schwächer ertönt er, und ana<pc>¬</pc>
 				<lb facs="#facs_61_r1l34" n="N022"/>log sagen wir weiter, um so viel schwerer ist es, diesen <rs ana="#m_note">Ton</rs> als Bestandtheil jenes
 				<lb facs="#facs_61_r1l35" n="N023"/><rs ana="#m_note">Grundtones</rs> zu erkennen. Das Maass der <rs ana="#concept_mus">Verwandtschaft</rs> zweier <rs ana="#m_note">Töne</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi> und <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>
-				<lb facs="#facs_61_line_1620847740429_410" n="N024"/>(in <rs ana="#concept_phy">ganzen Zahlen</rs>) wäre demnach $$MATH. Wir werden aber sogleich erkennen, dass
+				<lb facs="#facs_61_line_1620847740429_410" n="N024"/>(in <rs ana="#concept_phy">ganzen Zahlen</rs>) wäre demnach <formula notation="tex">$\frac{1}{ab}$</formula>. Wir werden aber sogleich erkennen, dass
 				<lb facs="#facs_61_r1l40" n="N025"/>diese Anschauung nur so lange gültig sein kann, als die <rs ana="#concept_mus">Verwandtschaft</rs> <rs ana="#concept_mus">eindeutig</rs>,
 				<lb facs="#facs_61_r1l41" n="N026"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">als das <rs ana="#m_interval">Intervall</rs> ein <rs ana="#concept_mus"> <rs ana="#concept_phy">consonantes</rs></rs> ist</hi>. Wird sie <rs ana="#concept_mus">mehrdeutig</rs> dadurch, dass
 				<lb facs="#facs_61_r1l42" n="N027"/>neben der <rs ana="#concept_mus">Verwandtschaft</rs> ersten Grades stärkere Beziehungen zweiten Grades
-				<lb facs="#facs_61_r1l43" n="N028"/>herrschen, so ist jener Ausdruck $$MATH nicht mehr genügend. — Dieses findet allemal
+				<lb facs="#facs_61_r1l43" n="N028"/>herrschen, so ist jener Ausdruck <formula notation="tex">$\frac{1}{ab}$</formula> nicht mehr genügend. — Dieses findet allemal
 			</p>
          </div>
          <pb facs="#facs_62" n="62"/>
@@ -6655,8 +6655,8 @@
 				<lb facs="#facs_77_r1l4" n="N002"/>dann die eines <rs ana="#concept_mus">tonischen</rs> <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>-Dreiklanges</rs> <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>} — <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi></rs> in der
 				<lb facs="#facs_77_r1l5" n="N003"/>aufsteigenden <rs ana="#m_tonality">Leiter</rs> <rs ana="#m_tonality"> <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">as</hi>{ — <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>} — <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>} — <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi></rs>,
 				<lb facs="#facs_77_r1l6" n="N004"/>endlich sogar in der absteigenden <rs ana="#m_tonality">Leiter</rs> die Verwandlung
-				<lb facs="#facs_77_r1l7" n="N005"/>des <rs ana="#m_note">Tones</rs> <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{</rs> = $$MATH in <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{</rs> = $$MATH, d. h. in die <rs ana="#m_interval">Unterquint</rs> von
-				<lb facs="#facs_77_r1l8" n="N006"/><hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">b</rs></hi>, ja sogar die von <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>}</rs> = $$MATH in <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">d</rs></hi> = $$MATH. Dadurch wurde
+				<lb facs="#facs_77_r1l7" n="N005"/>des <rs ana="#m_note">Tones</rs> <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{</rs> <formula notation="tex">$= \frac{3}{5}$</formula> in <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{</rs> <formula notation="tex">$=\frac{16}{27}$</formula>, d. h. in die <rs ana="#m_interval">Unterquint</rs> von
+				<lb facs="#facs_77_r1l8" n="N006"/><hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">b</rs></hi>, ja sogar die von <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>}</rs> <formula notation="tex">$=\frac{3}{5}$</formula> in <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">d</rs></hi> <formula notation="tex">$=\frac{9}{16}$</formula>. Dadurch wurde
 				<lb facs="#facs_77_r1l9" n="N007"/>dem <rs ana="#m_tonality"> <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi>-moll-Systeme</rs> oder unserem <rs ana="#m_tonality">phon.-<hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs> der <rs ana="#m_chord">Accord</rs> der
 				<lb facs="#facs_77_r1l10" n="N008"/><rs ana="#concept_mus">Ober-Regnante</rs> geläugnet, und statt dessen die untergeord<pc>¬</pc>
 				<lb facs="#facs_77_r1l11" n="N009"/>nete Bedeutung einer <rs ana="#concept_mus">[Unt.-Dominante]</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">b</rs></hi> so weit bevorzugt,
@@ -6689,7 +6689,7 @@
 				<lb facs="#facs_77_line_1621067321344_590" n="N001"/>3) <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0001">Helmholtz</persName></hi> <title ana="#text" ref="W0001">l. c.</title> pag. 459 und früher, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0007">Hauptmann</persName></hi> und mit ihm <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0090">Nau<pc>¬</pc></persName><lb facs="#facs_77_r1l29" n="N002"/> <persName role="author" ref="P0090">mann</persName></hi> behandein die <rs ana="#m_tonality"> <hi rend="italic:true; fontSize:0.0; kerning:0;">c-moll</hi> Tonleiter</rs>, d. h. nach meiner Darstellung die <rs ana="#m_tonality">phon.-<hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs>
 				<lb facs="#facs_77_line_1621067328362_599" n="N003"/><rs ana="#m_tonality">Leiter</rs>. Daher findet man dort den <rs ana="#m_note">Ton</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">c</rs></hi> = 1 gesetzt:
 				<lb facs="#facs_77_line_1621067387934_693" n="N004"/>$$GRAPHIC, und <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">g</rs></hi> = 1 gesetzt, gäbe $$GRAPHIC,
-				<lb facs="#facs_77_line_1621067369047_662" n="N005"/>also <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">b</rs></hi> = $$MATH statt <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>{</rs> = $$MATH <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">g</rs></hi>.
+				<lb facs="#facs_77_line_1621067369047_662" n="N005"/>also <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">b</rs></hi> <formula notation="tex">$= \frac{32}{27}$</formula> statt <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>{</rs> <formula notation="tex">$= \frac{6}{5}$</formula> <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">g</rs></hi>.
 				<lb facs="#facs_77_r1l53" n="N006"/>Hiermit in Widerspruch steht die Herleitung der mit <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_tonality">C-moll</rs></hi> <rs ana="#concept_mus">verwandten</rs> <rs ana="#m_tonality">Tonarten</rs>
 				<lb facs="#facs_77_r1l54" n="N007"/>auf Seite 195, s. das Schema, das vollkommen <rs ana="#concept_mus">phonisch</rs> gebildet ist.
 			</p>
@@ -6716,7 +6716,7 @@
 				<lb facs="#facs_78_r1l13" n="N012"/>Schwierigkeit zu thun, die der <rs ana="#m_note">Ton</rs> <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}</rs> auf der sechsten
 				<lb facs="#facs_78_r1l14" n="N013"/><rs ana="#concept_mus">Stufe</rs> der <rs ana="#m_tonality">Durleiter</rs> bereitet. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0011">d’Alembert</persName></hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">2</hi>) ist in den<pc>¬</pc>
 				<lb facs="#facs_78_r1l15" n="N014"/>selben oder richtiger in den analogen Fehler verfallen, wenn
-				<lb facs="#facs_78_r1l16" n="N015"/>er statt <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}</rs> = $$MATH, den <rs ana="#m_note">Ton</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">a</rs></hi> = $$MATH als <rs ana="#m_interval">Quint</rs> von <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">d</rs></hi> ein<pc>¬</pc>
+				<lb facs="#facs_78_r1l16" n="N015"/>er statt <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}</rs> <formula notation="tex">$=\frac{5}{3}$</formula>, den <rs ana="#m_note">Ton</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">a</rs></hi> <formula notation="tex">$= \frac{27}{16}$</formula> als <rs ana="#m_interval">Quint</rs> von <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">d</rs></hi> ein<pc>¬</pc>
 				<lb facs="#facs_78_r1l17" n="N016"/>führte, wie schon <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0001">Helmholtz</persName></hi> mit Recht rügt <hi rend="fontSize:0.0; kerning:0; superscript:true;">3</hi>), vom Prinzip
 				<lb facs="#facs_78_r1l18" n="N017"/>der <rs ana="#m_tonality">Tonalität</rs> aus muss gewiss die nähere <rs ana="#concept_mus">Verwandtschaft</rs>
 				<lb facs="#facs_78_r1l19" n="N018"/>des <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}</rs> betont werden. In Betreff der <rs ana="#concept_mus">Stimmung</rs> des <rs ana="#m_note">Tones</rs>
@@ -6817,7 +6817,7 @@
          <div rend="MEI" facs="#facs_80_Music_1621067840893_976" source="facs_80_Music_1621067840893_976.mei" type="floating"><p>MUSIK</p></div>
          <div rend="TEI" facs="#facs_80_TextRegion_1621067770405_947" type="paragraph-continued">
             <p facs="#facs_80_TextRegion_1621067770405_947">
-				<lb facs="#facs_80_line_1621067925767_1016" n="N001"/>wird hin und zurück das <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">d</rs></hi> = $$MATH <rs ana="#m_note">c</rs> =$$MATH <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs> haben,
+				<lb facs="#facs_80_line_1621067925767_1016" n="N001"/>wird hin und zurück das <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">d</rs></hi> = <formula notation="tex">$\frac{9}{8}$</formula> <rs ana="#m_note">c</rs> = <formula notation="tex">$\frac{9}{10}$</formula> <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs> haben,
 				<lb facs="#facs_80_r1l10" n="N002"/>wenn die <rs ana="#concept_mus">Tonica</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">c</rs></hi> und das <rs ana="#m_tonality"> <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>-Dursystem</rs> uns vorschwebt.
 				<lb facs="#facs_80_r1l11" n="N003"/>Wenn aber der <rs ana="#concept_mus">phon.</rs> <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}-Accord</rs> vorher erklang, so wird,
 				<lb facs="#facs_80_r1l12" n="N004"/>namentlich beim umgekehrten <rs ana="#concept_mus">Gange</rs>
@@ -6826,7 +6826,7 @@
          <div rend="MEI" facs="#facs_80_Music_1621067850220_983" source="facs_80_Music_1621067850220_983.mei" type="floating"><p>MUSIK</p></div>
          <div rend="TEI" facs="#facs_80_TextRegion_1621067760882_939" type="paragraph-continued">
             <p facs="#facs_80_TextRegion_1621067760882_939">
-				<lb facs="#facs_80_line_1621067942724_1042" n="N001"/>das <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>}</rs> = $$MATH c = $$MATH <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>} <rs ana="#concept_mus">intonirt</rs> werden, und bei einiger
+				<lb facs="#facs_80_line_1621067942724_1042" n="N001"/>das <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>}</rs> = <formula notation="tex">$\frac{10}{9}$</formula> c = <formula notation="tex">$\frac{8}{9}$</formula> <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>} <rs ana="#concept_mus">intonirt</rs> werden, und bei einiger
 				<lb facs="#facs_80_r1l28" n="N002"/>Uebung hört man selbst den Unterschied. Ja bei dem ein<pc>¬</pc>
 				<lb facs="#facs_80_r1l29" n="N003"/>fachen <rs ana="#concept_mus">Gange</rs>
             </p>
@@ -6920,7 +6920,7 @@
          <div rend="MEI" facs="#facs_82_Music_1621068246847_1256" source="facs_82_Music_1621068246847_1256.mei" type="floating"><p>MUSIK</p></div>
          <div rend="TEI" facs="#facs_82_TextRegion_1621068204494_1232" type="paragraph-continued">
             <p facs="#facs_82_TextRegion_1621068204494_1232">
-				<lb facs="#facs_82_r1l50" n="N001"/>$$MATH bedeutet dort <rs ana="#m_interval">Terz</rs> und <rs ana="#m_interval">Quint</rs> überm <rs ana="#m_note">Grundton</rs>, hier $$MATH
+				<lb facs="#facs_82_r1l50" n="N001"/><rs ana="terzquintcadenz"><span type="figured-bass" rend="stacked">5 3</span></rs> bedeutet dort <rs ana="#m_interval">Terz</rs> und <rs ana="#m_interval">Quint</rs> überm <rs ana="#m_note">Grundton</rs>, hier <rs ana="quintterzcadenz"><span type="figured-bass" rend="stacked">3 5</span></rs>
 				<lb facs="#facs_82_r1l51" n="N002"/><rs ana="#m_interval">Terz</rs> und <rs ana="#m_interval">Quint</rs> unter dem <rs ana="#m_note">Melodieton</rs>. — Ich habe absicht<pc>¬</pc>
 				<lb facs="#facs_82_r1l52" n="N003"/>lich den <rs ana="#concept_mus"> <hi rend="italic:true; fontSize:0.0; kerning:0;">F</hi>-Schlüssel</rs> gewählt; weil dieser das in unserer
 				<lb facs="#facs_82_r1l53" n="N004"/>Schreibweise allein symmetrisch gelegene <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">d</rs></hi> auf der Mittel<pc>¬</pc>
@@ -9019,7 +9019,7 @@
          <div rend="TEI" facs="#facs_127_TextRegion_1621185775487_727" type="footnote">
             <p facs="#facs_127_TextRegion_1621185775487_727">
 				<lb facs="#facs_127_r1l23" n="N001"/>seiner Auffassung der <rs ana="#m_interval">Septime</rs> widersprechen. Ich glaube nicht, dass eine sichere
-				<lb facs="#facs_127_r1l24" n="N002"/><rs ana="#concept_mus">Intonation</rs> des <rs ana="#m_note">Tones</rs> $$MATH möglich ist. Eben so wenig ist, wie ich sicher glaube,
+				<lb facs="#facs_127_r1l24" n="N002"/><rs ana="#concept_mus">Intonation</rs> des <rs ana="#m_note">Tones</rs> <formula notation="tex">$\frac{7}{4}$</formula> möglich ist. Eben so wenig ist, wie ich sicher glaube,
 				<lb facs="#facs_127_r1l25" n="N003"/>die <rs ana="#m_interval">pythagoräische Terz</rs> <rs ana="#concept_mus">intonirbar</rs>, denn <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi> ist der 81<hi rend="fontSize:0.0; kerning:0; superscript:true;">ste</hi> <rs ana="#concept_phy">Oberton</rs> von <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">c</rs></hi>.
 			</p>
          </div>
@@ -9040,10 +9040,10 @@
 				<lb facs="#facs_128_r2l3" n="N001"/>Offenbar ist hier <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">ges</hi>{</rs> der absteigende <rs ana="#m_note">Leitton</rs> zu <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">f</rs></hi>;
 				<lb facs="#facs_128_r2l4" n="N002"/>der volle Nachdruck, der dem <rs ana="#m_note">Leitton</rs> eigen ist, liegt auf
 				<lb facs="#facs_128_r2l5" n="N003"/>diesem <rs ana="#m_note">Tone</rs>; die <rs ana="#concept_mus">Stimmung</rs> desselben kann keinem Zweifel
-				<lb facs="#facs_128_line_1621185930855_838" n="N004"/>unterliegen, sie ist folgende: <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">ges</hi>}</rs> = $$MATH. <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">b</rs></hi> oder $$MATH. <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">f</rs></hi>. — 
-				<lb facs="#facs_128_r2l9" n="N005"/><rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>}</rs> im <rs ana="#m_chord">Accord</rs> <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi> <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>} <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi></rs> ist <rs ana="#m_interval">reine Terz</rs> von <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">b</rs></hi>, mithin <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>}</rs> = $$MATH <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">b</rs></hi>
-				<lb facs="#facs_128_r2l11" n="N006"/>also <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">ges</hi>{</rs> = $$MATH. <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>}</rs>. Das <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}}</rs> im zweiten <rs ana="#concept_mus">Tact</rs> ist offenbar <rs ana="#m_interval">Terz</rs>
-				<lb facs="#facs_128_line_1621185943054_855" n="N007"/>von <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>}</rs>, mithin = $$MATH. <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>}</rs> also <rs ana="#m_interval"> <hi rend="italic:true; fontSize:0.0; kerning:0;">ges</hi>{:<hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}}</rs> = 128:125 d. h. <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}}</rs>
+				<lb facs="#facs_128_line_1621185930855_838" n="N004"/>unterliegen, sie ist folgende: <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">ges</hi>}</rs> = <formula notation="tex">$\frac{4}{5}$</formula>. <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">b</rs></hi> oder <formula notation="tex">$\frac{16}{15}$</formula>. <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">f</rs></hi>. — 
+				<lb facs="#facs_128_r2l9" n="N005"/><rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>}</rs> im <rs ana="#m_chord">Accord</rs> <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi> <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>} <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi></rs> ist <rs ana="#m_interval">reine Terz</rs> von <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">b</rs></hi>, mithin <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>}</rs> = <formula notation="tex">$\frac{5}{4}$</formula> <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">b</rs></hi>
+				<lb facs="#facs_128_r2l11" n="N006"/>also <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">ges</hi>{</rs> = <formula notation="tex">$\frac{32}{25}$</formula>. <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>}</rs>. Das <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}}</rs> im zweiten <rs ana="#concept_mus">Tact</rs> ist offenbar <rs ana="#m_interval">Terz</rs>
+				<lb facs="#facs_128_line_1621185943054_855" n="N007"/>von <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>}</rs>, mithin = <formula notation="tex">$\frac{5}{4}$</formula>. <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>}</rs> also <rs ana="#m_interval"> <hi rend="italic:true; fontSize:0.0; kerning:0;">ges</hi>{:<hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}}</rs> = 128:125 d. h. <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}}</rs>
 				<lb facs="#facs_128_r2l15" n="N008"/>tiefer als <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">ges</hi>{</rs>, und zwar um mehr als ein <rs ana="#concept_mus">Komma</rs>. Die <rs ana="#concept_mus">reine</rs>
 				<lb facs="#facs_128_r2l16" n="N009"/><rs ana="#concept_mus">Intonation</rs> mag schwierig sein, da das <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">b</rs></hi> im <rs ana="#concept_mus">Bass</rs> arg <rs ana="#concept_mus"> <rs ana="#concept_phy">disso<pc>¬</pc>
 				<lb facs="#facs_128_r2l17" n="N010"/>nirt</rs></rs>, und die <rs ana="#concept_mus">harmonische Generation</rs> des <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}}</rs> als <rs ana="#m_note">Leitton</rs> zu
@@ -9384,9 +9384,9 @@
 				<lb facs="#facs_138_r1l12" n="N010"/>in die <rs ana="#m_tonality">Paralleltonart</rs>. Welche von beiden <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">näher</hi> <rs ana="#concept_mus">verwandt</rs>
 				<lb facs="#facs_138_r1l13" n="N011"/>ist kaum zu entscheiden. Bei dieser war eine <rs ana="#concept_mus">enharmoni<pc>¬</pc>
 				<lb facs="#facs_138_r1l14" n="N012"/>sche Verwechslung</rs> nöthig, d. h. Veränderung eines <rs ana="#m_note">Tones</rs>
-				<lb facs="#facs_138_line_1621187714214_1716" n="N013"/><hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">d</rs></hi> in <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>}</rs> um ein griechisches <rs ana="#concept_mus">Komma</rs> ($$MATH), bei jener, der <rs ana="#m_tonality">Leit<pc>¬</pc>
-				<lb facs="#facs_138_line_1621187725417_1732" n="N014"/>tonart</rs>, die Verwandlung um ein <rs ana="#concept_mus">kleines Limma</rs> $$MATH oder
-				<lb facs="#facs_138_line_1621187731535_1743" n="N015"/>$$MATH, <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi>}</rs> in <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">fis</rs></hi> oder <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}</rs> in <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">b</rs></hi>.
+				<lb facs="#facs_138_line_1621187714214_1716" n="N013"/><hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">d</rs></hi> in <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>}</rs> um ein griechisches <rs ana="#concept_mus">Komma</rs> (<formula notation="tex">$\frac{80}{81}$</formula>), bei jener, der <rs ana="#m_tonality">Leit<pc>¬</pc>
+				<lb facs="#facs_138_line_1621187725417_1732" n="N014"/>tonart</rs>, die Verwandlung um ein <rs ana="#concept_mus">kleines Limma</rs> <formula notation="tex">$\frac{135}{128}$</formula> oder
+				<lb facs="#facs_138_line_1621187731535_1743" n="N015"/><formula notation="tex">$\frac{128}{135}$</formula>, <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi>}</rs> in <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">fis</rs></hi> oder <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}</rs> in <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">b</rs></hi>.
 			</p>
          </div>
          <div rend="TEI" facs="#facs_138_TextRegion_1621187670971_1679" type="paragraph-continued">
@@ -11983,7 +11983,7 @@
             <p facs="#facs_198_TextRegion_1621426599853_1098">
 				<lb facs="#facs_198_r1l2" n="N001"/>Zu bemerken ist, dass sub VI die <rs ana="#concept_mus">Ausgangssysteme</rs>
 				<lb facs="#facs_198_r1l3" n="N002"/>wiederum Wege <rs ana="#concept_mus">enharmonischen Wechsels</rs> sind für die
-				<lb facs="#facs_198_line_1621426646201_1133" n="N003"/><rs ana="#concept_mus">Veränderung</rs> von <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">ges</hi>{</rs> in <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}</rs> = $$MATH,
+				<lb facs="#facs_198_line_1621426646201_1133" n="N003"/><rs ana="#concept_mus">Veränderung</rs> von <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">ges</hi>{</rs> in <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}</rs> = <formula notation="tex">$\frac{32}{45}:\frac{45}{64}=2048:2025$</formula>,
 				<lb facs="#facs_198_r1l8" n="N004"/>oder <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">ais</hi>}</rs> in <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>}</rs>.
 				<lb facs="#facs_198_r1l9" n="N005"/>Auch ist, wie man sieht, die Art der <rs ana="#concept_mus">Verwandtschaft</rs> zwischen
 				<lb facs="#facs_198_r1l10" n="N006"/><rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs> und <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">ges</hi>{</rs>
@@ -12045,7 +12045,7 @@
 				<lb facs="#facs_199_line_1621427568381_1218" n="N002"/>Tab. A sub 6 oder VI combinirt <rs ana="#m_tonality"> <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>-dur</rs> mit <rs ana="#m_tonality"> <hi rend="italic:true; fontSize:0.0; kerning:0;">ges</hi>{</rs> und <rs ana="#m_tonality"> <hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}-</rs>
 				<lb facs="#facs_199_line_1621427573708_1226" n="N003"/><rs ana="#m_tonality">dur</rs>. Es lohnte wohl der Mühe mit eingeübten <rs ana="#concept_mus">Sängern</rs>
 				<lb facs="#facs_199_r1l46" n="N004"/>den Versuch zu machen, ob beim <rs ana="#concept_mus">Gesang</rs> folgender <rs ana="#concept_mus">Klang<pc>¬</pc>
-				<lb facs="#facs_199_r1l47" n="N005"/>folgen</rs> wirklich die <rs ana="#concept_mus">Intonation</rs> um $$MATH verändert ist. Mög<pc>¬</pc>
+				<lb facs="#facs_199_r1l47" n="N005"/>folgen</rs> wirklich die <rs ana="#concept_mus">Intonation</rs> um <formula notation="tex">$\frac{80}{81}$</formula> verändert ist. Mög<pc>¬</pc>
 				<lb facs="#facs_199_r1l48" n="N006"/>lich, dass bei der Schnelligkeit des <rs ana="#concept_mus">Ueberganges</rs> doch noch
 				<lb facs="#facs_199_r1l49" n="N007"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Erinnerung</hi> an die <rs ana="#concept_phy">absolute Tonhöhe</rs> des ersten <rs ana="#m_chord">Accordes</rs>
 				<lb facs="#facs_199_r1l50" n="N008"/>der Art wirke, dass die <rs ana="#concept_mus">Intonation</rs> nicht nach Maassgabe
@@ -12075,7 +12075,7 @@
 				<lb facs="#facs_200_r1l11" n="N003"/>der Fortgang der <rs ana="#concept_mus">Klänge</rs> stets nach einer Seite gerichtet
 				<lb facs="#facs_200_r1l12" n="N004"/>ist. Wie man leicht aus den daruntergesetzten <rs ana="#concept_phy">Generations<pc>¬</pc>
 				<lb facs="#facs_200_r1l13" n="N005"/>zahlen</rs> sieht, gelangen wir hier durch 4 <rs ana="#m_interval">Quint-</rs> und zwei
-				<lb facs="#facs_200_line_1621263343281_4456" n="N006"/><rs ana="#m_interval">Terzschritte</rs> von <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}</rs> = 1 nach <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">ges</hi>{</rs> = $$MATH.
+				<lb facs="#facs_200_line_1621263343281_4456" n="N006"/><rs ana="#m_interval">Terzschritte</rs> von <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}</rs> = 1 nach <rs ana="#m_note"> <hi rend="italic:true; fontSize:0.0; kerning:0;">ges</hi>{</rs> = <formula notation="tex">$(\frac{2}{3})^4(\frac{4}{5})^2.2^n$</formula>.
 			</p>
          </div>
          <div rend="TEI" facs="#facs_200_TextRegion_1621263293516_4399" type="paragraph">
@@ -12362,7 +12362,7 @@
 				<lb facs="#facs_208_r1l3" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0001">Helmholtz</persName></hi> verfährt bei seiner „rationellen Construction
 				<lb facs="#facs_208_r1l4" n="N002"/>der <rs ana="#m_tonality">Tonleiter</rs>” ebenso und begründet solches historisch. Er
 				<lb facs="#facs_208_r1l5" n="N003"/>meint <hi rend="fontSize:0.0; kerning:0; superscript:true;">1</hi>), die Europäer seien dem Vorbilde der Griechen ge<pc>¬</pc>
-				<lb facs="#facs_208_r1l6" n="N004"/>folgt, und haben den <rs ana="#m_interval">halben Ton</rs> $$MATH als engstes <rs ana="#m_interval">Intervall</rs>
+				<lb facs="#facs_208_r1l6" n="N004"/>folgt, und haben den <rs ana="#m_interval">halben Ton</rs> <formula notation="tex">$\frac{16}{15}$</formula> als engstes <rs ana="#m_interval">Intervall</rs>
 				<lb facs="#facs_208_r1l7" n="N005"/>der <rs ana="#m_tonality">Leiter</rs> zugelassen. Indess glaube ich doch, dass auch
 				<lb facs="#facs_208_r1l8" n="N006"/>hier sich eine rationelle Begründung aufstellen lässt. Durch
 				<lb facs="#facs_208_r1l9" n="N007"/>Aufnahme eines <rs ana="#m_interval">Halbtones</rs> <rs ana="#m_interval"> <hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{, <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs> z. B. tritt ein innerer Wi<pc>¬</pc>
@@ -12669,7 +12669,7 @@
 				<lb facs="#facs_214_r1l18" n="N005"/>eine sehr vollkommene <rs ana="#concept_mus"> <rs ana="#concept_phy">Dissonanz</rs></rs>, die wir später ausführlich
 				<lb facs="#facs_214_r1l19" n="N006"/>untersuchen. In diesem <rs ana="#m_tonality">Geschlecht</rs> einzig und allein sind
 				<lb facs="#facs_214_r1l20" n="N007"/>beide <rs ana="#concept_mus">Leit<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">klänge</hi></rs> gleichzeitig vorhanden, <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> und <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">cis</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs>, die
-				<lb facs="#facs_214_line_1621265132574_5576" n="N008"/>in der Generation der <rs ana="#m_note">Töne</rs>, repräsentirt durch $$MATH,
+				<lb facs="#facs_214_line_1621265132574_5576" n="N008"/>in der Generation der <rs ana="#m_note">Töne</rs>, repräsentirt durch <formula notation="tex">$\frac{1}{15}:\frac{15}{1}$</formula>,
 				<lb facs="#facs_214_r1l24" n="N009"/>am weitesten von einander entfernt sind. — Das <rs ana="#concept_mus">System</rs> ist
 				<lb facs="#facs_214_r1l25" n="N010"/>symmetrisch in sich, mit doppeltem <rs ana="#concept_mus">Mittelklang</rs>, <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> und <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs>,
 				<lb facs="#facs_214_r1l26" n="N011"/>und besitzt drei eigenthümliche verständliche und <rs ana="#concept_mus">wohlinto<pc>¬</pc>
@@ -13812,7 +13812,7 @@
          </div>
          <div rend="TEI" facs="#facs_239_TextRegion_1621287625103_887" type="paragraph-continued">
             <p facs="#facs_239_TextRegion_1621287625103_887">
-				<lb facs="#facs_239_r1l41" n="N001"/>Aber <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs> = $$MATH lässt sich nicht weiter
+				<lb facs="#facs_239_r1l41" n="N001"/>Aber <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs> = <formula notation="tex">$1:\frac{9}{8}:\frac{3}{2}$</formula> lässt sich nicht weiter
 				<lb facs="#facs_239_r1l43" n="N002"/>vereinfachen. Der zweimal auftretende <rs ana="#concept_phy">Faktor</rs> 3 weist auf
 				<lb facs="#facs_239_r1l44" n="N003"/>eine <rs ana="#concept_mus">doppelte Klangvertretung</rs> hin, die allerdings noch nicht
 				<lb facs="#facs_239_line_1621288111117_964" n="N004"/>fest bestimmt ist, weil die <rs ana="#concept_mus"> <rs ana="#concept_phy">consonanten</rs></rs> <rs ana="#m_interval">Intervalle</rs> <rs ana="#m_interval"> <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs>
@@ -15300,9 +15300,9 @@
 				<lb facs="#facs_267_r1l31" n="N002"/><rs ana="#m_chord">verminderte Septimenaccord</rs>: <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">die <rs ana="#concept_phy">reciproken Werthe</rs> sei<pc>¬</pc>
 				<lb facs="#facs_267_r1l32" n="N003"/>ner <rs ana="#concept_phy">Schwingungszahlen</rs> geben wiederum einen <rs ana="#m_chord">ver<pc>¬</pc>
 				<lb facs="#facs_267_r1l33" n="N004"/>minderten Septimenaccord</rs> </hi>, denn die <rs ana="#concept_phy">reciproken Werthe</rs>
-				<lb facs="#facs_267_line_1621428032756_1402" n="N005"/>von $$MATH sind $$MATH und jene
-				<lb facs="#facs_267_r1l49" n="N006"/>verhalten sich zu diesen, wie $$MATH oder <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">d</rs></hi> = 1 gesetzt,
-				<lb facs="#facs_267_r1l50" n="N007"/>ist <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">cis</hi>} — <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>{</rs> = $$MATH. (<rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>} — <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{</rs>).
+				<lb facs="#facs_267_line_1621428032756_1402" n="N005"/>von <formula notation="tex">$\frac{15}{16}:\frac{9}{8}:\frac{4}{3}:\frac{8}{5}$</formula> sind <formula notation="tex">$\{\frac{5}{8}:\frac{3}{4}:\frac{8}{9}:\frac{16}{15}\}$</formula> und jene
+				<lb facs="#facs_267_r1l49" n="N006"/>verhalten sich zu diesen, wie <formula notation="tex">$\frac{3}{2}:1$</formula> oder <hi rend="italic:true; fontSize:0.0; kerning:0;"> <rs ana="#m_note">d</rs></hi> = 1 gesetzt,
+				<lb facs="#facs_267_r1l50" n="N007"/>ist <rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">cis</hi>} — <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>{</rs> = <formula notation="tex">$\frac{3}{2}$</formula>. (<rs ana="#m_chord"> <hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>} — <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{</rs>).
 			</p>
          </div>
          <div rend="TEI" facs="#facs_267_TextRegion_1621427893409_1276" type="paragraph-continued">

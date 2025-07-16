@@ -2421,7 +2421,7 @@
 				<lb facs="#facs_49_r1l55" n="N003"/>gleichzeitig, zusammen auftreten. Seine <rs ana="#concept_mus"> <rs ana="#concept_phy">Dissonanz</rs></rs> bildet die
 				<lb facs="#facs_49_r1l56" n="N004"/><rs ana="#m_interval">Septime</rs>, und in einigen noch besonders zu besprechenden Fällen
 				<lb facs="#facs_49_r1l57" n="N005"/>außerdem auch die kleine oder die <rs ana="#m_interval">übermäßige Quinte</rs>, und in
-				<lb facs="#facs_49_r1l58" n="N006"/>seinen verschiedenen <rs ana="#concept_mus">Lagen</rs> als $$MATH, $$MATH und $$MATH <rs ana="#m_chord">Accord</rs> auch die <rs ana="#concept_mus">Um<pc>¬</pc>
+				<lb facs="#facs_49_r1l58" n="N006"/>seinen verschiedenen <rs ana="#concept_mus">Lagen</rs> als <rs ana="quintsextakkord"><span type="figured-bass" rend="stacked">6 5</span></rs>, <rs ana="terzquartakkord"><span type="figured-bass" rend="stacked">4 3</span></rs> und <rs ana="sequnquartakkord"><span type="figured-bass" rend="stacked">4 2</span></rs> <rs ana="#m_chord">Accord</rs> auch die <rs ana="#concept_mus">Um<pc>¬</pc>
 				<lb facs="#facs_49_r1l59" n="N007"/>kehrung</rs> der genannten <rs ana="#concept_mus"> <rs ana="#concept_phy">Dissonanzen</rs></rs>. Ein jeder <rs ana="#m_chord">Septimenaccord</rs>
             </p>
          </div>
