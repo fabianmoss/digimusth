@@ -1696,7 +1696,7 @@
          </div>
          <div rend="TEI" facs="#facs_25_TextRegion_1611337193584_2692" type="paragraph">
             <p facs="#facs_25_TextRegion_1611337193584_2692">
-				<lb facs="#facs_25_line_1611337348791_2779" n="N001"/>Die <rs ana="#concept_phy">Summe</rs> derselben (<formula notation="tex">$24.\frac{{8}{24}$</formula>) ist <formila notation="tex">$=s$</formila>; <formula notation="tex">$\frac{8}{24}=3^n.2^x$</formula>, und die <rs ana="#concept_phy">Zahlenreihe</rs>: 3, 3, 2, 4,
+				<lb facs="#facs_25_line_1611337348791_2779" n="N001"/>Die <rs ana="#concept_phy">Summe</rs> derselben (<formula notation="tex">$24.\frac{{8}{24}$</formula>) ist <formula notation="tex">$=s$</formula>; <formula notation="tex">$\frac{8}{24}=3^n.2^x$</formula>, und die <rs ana="#concept_phy">Zahlenreihe</rs>: 3, 3, 2, 4,
 				<lb facs="#facs_25_r2l12" n="N002"/>4, 5, 3 stellt sich überhaupt als eine Charakteristische für die <rs ana="#concept_phy">absoluten Schwingungsdifferenzen</rs>
 				<lb facs="#facs_25_r2l13" n="N003"/>in der <rs ana="#m_tonality">Durscala</rs> heraus. —
 			</p>
@@ -1874,7 +1874,7 @@
             <p facs="#facs_29_TextRegion_1611341417528_3212">
 				<lb facs="#facs_29_r2l154" n="N001"/>Der <rs ana="#concept_phy">Exponent</rs><hi rend="italic:true; fontSize:0.0; kerning:0;">n</hi> hat für jeden <rs ana="#m_note">Ton</rs> in allen seinen <rs ana="#m_interval">Octaven</rs> denselben <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">bestimmten</hi>
 				<lb facs="#facs_29_r2l155" n="N002"/>Werth; er ist = 0 für den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_note">Ausgangsgrundton</rs></hi> (<formula notation="tex">$Q^n.2^x$</formula>), welcher der <rs ana="#concept_mus">1<hi rend="fontSize:0.0; kerning:0; superscript:true;">ten</hi> Classe</rs>, für dessen
-				<lb facs="#facs_29_line_1611341575882_3302" n="N003"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">grosse Terz</rs></hi> (<formula notation="tex">$T.Q^0.2^x$</formula>), welche der <rs ana="#concept_mus">2<hi rend="fontSize:0.0; kerning:0; superscript:true;">ten</hi> Classe</rs>, und für dessen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">untere grosse Terz</rs></hi> (<formila notation="tex">$\frac{Q^0.2^x}{T}$</formila>),
+				<lb facs="#facs_29_line_1611341575882_3302" n="N003"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">grosse Terz</rs></hi> (<formula notation="tex">$T.Q^0.2^x$</formula>), welche der <rs ana="#concept_mus">2<hi rend="fontSize:0.0; kerning:0; superscript:true;">ten</hi> Classe</rs>, und für dessen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">untere grosse Terz</rs></hi> (<formula notation="tex">$\frac{Q^0.2^x}{T}$</formula>),
 				<lb facs="#facs_29_r2l159" n="N004"/>welche der <rs ana="#concept_mus">3<hi rend="fontSize:0.0; kerning:0; superscript:true;">ten</hi> Classe</rs> angehört. Diese drei <rs ana="#m_note">Töne</rs> bilden also gewissermaassen die Mittelpunkte
 				<lb facs="#facs_29_r2l160" n="N005"/>jener <rs ana="#concept_mus">Quintensysteme</rs>. Der <rs ana="#concept_phy">Exponent</rs> von 2 kann für denselben <rs ana="#m_note">Ton</rs>, je nach dessen höherer oder
 			</p>

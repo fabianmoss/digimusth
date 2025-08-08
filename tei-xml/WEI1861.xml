@@ -696,7 +696,7 @@
          </div>
          <div rend="TEI" facs="#facs_14_TextRegion_1614199102187_911" type="paragraph">
             <p facs="#facs_14_TextRegion_1614199102187_911">
-				<lb facs="#facs_14_r2l26" n="N001"/>Unser heutiges, von mir vorangestelltes <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;" data-merged="true"> <rs ana="#concept_mus">Zwölfton<pc>¬</pc><lb facs="#facs_14_r2l27" n="N002"/>system</rs> </hi>
+				<lb facs="#facs_14_r2l26" n="N001"/>Unser heutiges, von mir vorangestelltes <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Zwölfton<pc>¬</pc><lb facs="#facs_14_r2l27" n="N002"/>system</rs> </hi>
 				, auf dem die ganze folgende Lehre gebaut ist, wird
 				<lb facs="#facs_14_r2l28" n="N003"/>nun von Herrn <persName role="author" ref="P0047">B.</persName> ein <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">irriges</hi>, ein für die Stumpfheit des
 				<lb facs="#facs_14_r2l29" n="N004"/><rs ana="#concept_phy">menschlichen Gehörsinnes</rs> erdachter Nothbehelf genannt, da doch
@@ -731,7 +731,7 @@
 				<lb facs="#facs_15_r3l6" n="N005"/>peratur</rs></rs> gewöhnt, daß selbst der <rs ana="#concept_mus">Hornist</rs> die <rs ana="#concept_mus">Naturtöne</rs> seines
 				<lb facs="#facs_15_r3l7" n="N006"/><rs ana="#concept_mus">Instrumentes</rs> <rs ana="#concept_mus">temperiren</rs> muß, und wir schwerlich drei oder vier
 				<lb facs="#facs_15_r3l8" n="N007"/><rs ana="#concept_mus">Sänger</rs> auffinden möchten, die im Stande wären, den in der
-				<lb facs="#facs_15_r3l9" n="N008"/><rs ana="#m_tonality">Tonart</rs> <rs ana="#m_tonality">C dur</rs> auftretenden <rs ana="#m_chord">Accord</rs> <rs ana="#m_chord">D | F a</rs> als einen „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;" data-merged="true"> <rs ana="#m_chord">ver<pc>¬</pc><lb facs="#facs_15_r3l10" n="N009"/>minderten Dreiklang</rs> </hi>
+				<lb facs="#facs_15_r3l9" n="N008"/><rs ana="#m_tonality">Tonart</rs> <rs ana="#m_tonality">C dur</rs> auftretenden <rs ana="#m_chord">Accord</rs> <rs ana="#m_chord">D | F a</rs> als einen „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">ver<pc>¬</pc><lb facs="#facs_15_r3l10" n="N009"/>minderten Dreiklang</rs> </hi>
 				” hören zu lassen, wie es doch die
 				<lb facs="#facs_15_r3l11" n="N010"/><rs ana="#concept_mus">Theorie</rs> des <rs ana="#concept_mus"> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">reinen</hi> Tonsystemes</rs>, in welchem letzeren die
 				<lb facs="#facs_15_r3l12" n="N011"/><rs ana="#m_note">Töne</rs> <rs ana="#m_interval">D — a</rs> keine <rs ana="#concept_mus">reine</rs>, sondern eine <rs ana="#m_interval">verminderte Quinte</rs> bil<pc>¬</pc>
@@ -783,13 +783,13 @@
          <div rend="TEI" facs="#facs_16_TextRegion_1614199464297_1265" type="paragraph">
             <p facs="#facs_16_TextRegion_1614199464297_1265">
 				<lb facs="#facs_16_r3l4" n="N001"/>Kluger Weise läßt sich mein <persName role="author" ref="P0047">Kritiker</persName> nicht darauf ein, den
-				<lb facs="#facs_16_r3l5" n="N002"/>feinen Unterschied, welchen er in der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;" data-merged="true"> <rs ana="#concept_mus">harmonischen Be<pc>¬</pc><lb facs="#facs_16_r3l6" n="N003"/>deutung</rs>  der <rs ana="#m_interval">Quinte</rs></hi>
+				<lb facs="#facs_16_r3l5" n="N002"/>feinen Unterschied, welchen er in der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">harmonischen Be<pc>¬</pc><lb facs="#facs_16_r3l6" n="N003"/>deutung</rs>  der <rs ana="#m_interval">Quinte</rs></hi>
 				 und deren <rs ana="#concept_mus">Umkehrung</rs>, der ,
 				<lb facs="#facs_16_r3l7" n="N004"/>findet, anzugeben, rügt es aber, daß ich bald <rs ana="#concept_mus">wohlklingende</rs>
-				<lb facs="#facs_16_line_1614199386183_1147" n="N005"/><rs ana="#concept_mus">parallele</rs> <rs ana="#m_interval">Quinten</rs> freigebe, bald auf den <rs ana="#concept_mus">Mißklang</rs> selbst <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;" data-merged="true"> <rs ana="#concept_mus">ver<pc>¬</pc><lb facs="#facs_16_r3l10" n="N006"/>deckter</rs> </hi>
+				<lb facs="#facs_16_line_1614199386183_1147" n="N005"/><rs ana="#concept_mus">parallele</rs> <rs ana="#m_interval">Quinten</rs> freigebe, bald auf den <rs ana="#concept_mus">Mißklang</rs> selbst <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">ver<pc>¬</pc><lb facs="#facs_16_r3l10" n="N006"/>deckter</rs> </hi>
 				 <rs ana="#m_interval">Quinten</rs> und <rs ana="#m_interval">Octaven</rs> aufmerksam mache. Gerade
 				<lb facs="#facs_16_r3l11" n="N007"/>diese Bemerkung aber hätte ihn auf die Consequenz meiner
-				<lb facs="#facs_16_r3l12" n="N008"/>Lehre aufmerksam machen können, nämlich: Bei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;" data-merged="true"> <rs ana="#concept_mus">unverbunde<pc>¬</pc><lb facs="#facs_16_r3l13" n="N009"/>nen Harmonien</rs> </hi>
+				<lb facs="#facs_16_r3l12" n="N008"/>Lehre aufmerksam machen können, nämlich: Bei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">unverbunde<pc>¬</pc><lb facs="#facs_16_r3l13" n="N009"/>nen Harmonien</rs> </hi>
 				 und <rs ana="#m_chord">Accorden</rs> <rs ana="#concept_mus"> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">entfernter</hi> Verwandtschaft</rs>
 				<lb facs="#facs_16_r3l14" n="N010"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">parallele</rs></hi>; ja selbst <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">verdeckte</rs></hi> <rs ana="#m_interval">Quinten</rs> und <rs ana="#m_interval">Octaven</rs> und
 				<lb facs="#facs_16_r3l15" n="N011"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Querstände</rs></hi> jeder Art zu vermeiden, um ihnen dadurch statt
@@ -896,11 +896,11 @@
 				<lb facs="#facs_18_r2l10" n="N002"/>den <rs ana="#m_tonality">Tonarten</rs> und behauptet mehrere Male, ich hätte die Vor<pc>¬</pc>
 				<lb facs="#facs_18_r2l11" n="N003"/>stellung derselben „ganz nach der <persName role="author" ref="P0007"> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Hauptmann</hi>'schen</persName> Weise
 				<lb facs="#facs_18_r2l12" n="N004"/>gegeben.” Das Verdienst aber, den Begriff der <rs ana="#m_tonality">Tonart</rs> zuerst
-				<lb facs="#facs_18_r2l13" n="N005"/>festgestellt zu haben, gebührt dem berühmten <rs ana="#concept_mus">Theoretiker</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;" data-merged="true"> <persName role="author" ref="P0005">Ra<pc>¬</pc><lb facs="#facs_18_r2l14" n="N006"/>meau</persName> </hi>
+				<lb facs="#facs_18_r2l13" n="N005"/>festgestellt zu haben, gebührt dem berühmten <rs ana="#concept_mus">Theoretiker</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0005">Ra<pc>¬</pc><lb facs="#facs_18_r2l14" n="N006"/>meau</persName> </hi>
 				, der schon <date>vor mehr als hundert Jahren</date> geschrieben hat.
 				<lb facs="#facs_18_r2l15" n="N007"/>Das Werk seines Interpreten, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0011">d'Alembert</persName></hi>, wurde unter
 				<lb facs="#facs_18_r2l16" n="N008"/>dem Titel: „<title ana="#text" ref="W0050">Systematische Einleitung in die <rs ana="#concept_mus">musikalische Setz<pc>¬</pc></rs></title>
-				<lb facs="#facs_18_r2l17" n="N009"/><title ana="#text" ref="W0050"> <rs ana="#concept_mus">kunst</rs> nach den Lehrsätzen des Herrn <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0005">Rameau</persName></hi></title>” von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;" data-merged="true"> <persName role="author" ref="P0051">Mar<pc>¬</pc><lb facs="#facs_18_r2l18" n="N010"/>purg</persName> </hi>
+				<lb facs="#facs_18_r2l17" n="N009"/><title ana="#text" ref="W0050"> <rs ana="#concept_mus">kunst</rs> nach den Lehrsätzen des Herrn <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0005">Rameau</persName></hi></title>” von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0051">Mar<pc>¬</pc><lb facs="#facs_18_r2l18" n="N010"/>purg</persName> </hi>
 				 ins Deutsche übersetzt (<placeName>Leipzig</placeName>, <date when="1757">1757</date> bei Breitkopf) und
 				<lb facs="#facs_18_r2l19" n="N011"/>das 4. Cap. des ersten Buches „<title ana="#text" ref="W0050">Von der <rs ana="#m_tonality">Tonart</rs> überhaupt</title>”
 				<lb facs="#facs_18_r2l20" n="N012"/>beginnt folgendermaßen:
@@ -970,7 +970,7 @@
          <div rend="TEI" facs="#facs_19_TextRegion_1614199965354_1563" type="paragraph">
             <p facs="#facs_19_TextRegion_1614199965354_1563">
 				<lb facs="#facs_19_r2l10" n="N001"/>Wir sehen hier die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_note">Stammtöne</rs></hi> der <rs ana="#m_tonality">Dur-</rs> und der <rs ana="#m_tonality">Moll<pc>¬</pc>
-				<lb facs="#facs_19_r2l11" n="N002"/>tonart<lb facs="#facs_19_r2l13" n="N004"/>Tonarten</rs> vor uns, und nennen solche aus <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;" data-merged="true">gleichen <rs ana="#m_note">Stamm<pc>¬</pc><lb facs="#facs_19_r2l12" n="N003"/>tönen</rs> </hi>
+				<lb facs="#facs_19_r2l11" n="N002"/>tonart<lb facs="#facs_19_r2l13" n="N004"/>Tonarten</rs> vor uns, und nennen solche aus <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">gleichen <rs ana="#m_note">Stamm<pc>¬</pc><lb facs="#facs_19_r2l12" n="N003"/>tönen</rs> </hi>
 				 bestehenden  . Dabei bemerke ich
 				in <title ana="#text" ref="W0039">meiner Schrift</title>: Die gegenseitigen <rs ana="#concept_mus">Tonverhältnisse</rs> der
 				<lb facs="#facs_19_r2l14" n="N005"/><rs ana="#m_note">Stammtöne</rs> einer jeden <rs ana="#m_tonality">Dur-</rs> oder <rs ana="#m_tonality">Molltonart</rs> zeigen jederzeit
@@ -984,7 +984,7 @@
 				<lb facs="#facs_19_r2l22" n="N013"/>der aufgenommen, weil nun consequenter Weise fortgefahren
 				<lb facs="#facs_19_r2l23" n="N014"/>werden kann: Die <rs ana="#concept_mus">Umkehrung</rs> dieser <rs ana="#concept_mus">Tonverhältnisse</rs> ergiebt
 				<lb facs="#facs_19_r2l24" n="N015"/><rs ana="#m_interval">„kleine” Intervalle</rs>: <rs ana="#m_interval">g — f</rs> eine <rs ana="#m_interval">kleine Septime</rs>, <rs ana="#m_interval">a — f</rs> eine
-				<lb facs="#facs_19_r2l25" n="N016"/><rs ana="#m_interval">kleine Sexte</rs>, <rs ana="#m_interval">h — f</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">eine <rs ana="#m_interval">kleine Quinte</rs></hi>, <rs ana="#m_interval">c — f</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;" data-merged="true">eine <rs ana="#m_interval">kleine</rs><lb facs="#facs_19_r2l26" n="N017"/> <rs ana="#m_interval">Quarte</rs></hi>
+				<lb facs="#facs_19_r2l25" n="N016"/><rs ana="#m_interval">kleine Sexte</rs>, <rs ana="#m_interval">h — f</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">eine <rs ana="#m_interval">kleine Quinte</rs></hi>, <rs ana="#m_interval">c — f</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">eine <rs ana="#m_interval">kleine</rs><lb facs="#facs_19_r2l26" n="N017"/> <rs ana="#m_interval">Quarte</rs></hi>
 				 u. s. f., denn aus der <rs ana="#concept_mus">Umkehrung</rs> eines jeden <rs ana="#m_interval">großen</rs>
 				<lb facs="#facs_19_r2l27" n="N018"/><rs ana="#m_interval">Intervalles</rs> entsteht ein <rs ana="#m_interval">kleines</rs>, aus der <rs ana="#concept_mus">Umkehrung</rs> eines jeden
 				<lb facs="#facs_19_r2l28" n="N019"/><rs ana="#m_interval">übermäßigen</rs> ein <rs ana="#m_interval">vermindertes Intervall</rs> und ebenso umgekehrt.
@@ -1046,7 +1046,7 @@
          <div rend="TEI" facs="#facs_20_TextRegion_1614200197154_1653" type="paragraph-continued">
             <p facs="#facs_20_TextRegion_1614200197154_1653">
 				<lb facs="#facs_20_r2l28" n="N001"/>Diese doch gewiß sehr klare Darlegung der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_tonality">Tonart</rs></hi>, der
-				<lb facs="#facs_20_r2l29" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_tonality">Tonleiter</rs></hi>, der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_note">Stammtöne</rs></hi> und der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;" data-merged="true"> <rs ana="#concept_mus">chromatischen</rs><lb facs="#facs_20_r2l30" n="N003"/> <rs ana="#m_note">Nebentöne</rs></hi>
+				<lb facs="#facs_20_r2l29" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_tonality">Tonleiter</rs></hi>, der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_note">Stammtöne</rs></hi> und der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">chromatischen</rs><lb facs="#facs_20_r2l30" n="N003"/> <rs ana="#m_note">Nebentöne</rs></hi>
 				 bezeichnet mein, wie es scheint nicht allezeit auf<pc>¬</pc>
 				<lb facs="#facs_20_r2l31" n="N004"/>richtiger <persName role="author" ref="P0047">Kritiker</persName> als „eine Verwirrung” und „verwunderliche
 				<lb facs="#facs_20_r2l32" n="N005"/>Vermengung der Begriffe <rs ana="#m_tonality">Tonart</rs> und <rs ana="#m_tonality">Tonleiter</rs>” und fabelt
@@ -1076,7 +1076,7 @@
             <p facs="#facs_21_TextRegion_1614200379440_1766">
 				<lb facs="#facs_21_r1l8" n="N001"/>daß ferner in seiner <rs ana="#m_tonality">Tonart</rs>, die doch nothwendigerweise den
 				<lb facs="#facs_21_r1l9" n="N002"/><rs ana="#m_note">Ton</rs> <rs ana="#m_note">gis</rs> als <rs ana="#concept_mus">Vorzeichnung</rs> bekäme, da er diesen zu deren
-				<lb facs="#facs_21_r1l10" n="N003"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_note">Stammtönen</rs></hi> rechnet, der <rs ana="#m_chord">C durdreiklang</rs> ein <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;" data-merged="true"> <rs ana="#concept_mus">chromatischer</rs><lb facs="#facs_21_r1l11" n="N004"/> <rs ana="#m_chord">Accord</rs></hi>
+				<lb facs="#facs_21_r1l10" n="N003"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_note">Stammtönen</rs></hi> rechnet, der <rs ana="#m_chord">C durdreiklang</rs> ein <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">chromatischer</rs><lb facs="#facs_21_r1l11" n="N004"/> <rs ana="#m_chord">Accord</rs></hi>
 				 wäre, und daß endlich die <rs ana="#m_tonality">Tonarten</rs> <rs ana="#m_tonality">C dur</rs> und <rs ana="#m_tonality">A moll</rs>
 				<lb facs="#facs_21_r1l12" n="N005"/>keine <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_tonality">Paralleltonarten</rs></hi> sein könnten, wenn sie aus <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">ver<pc>¬</pc></hi>
 				<lb facs="#facs_21_r1l13" n="N006"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">schiedenen</hi> <rs ana="#m_note">Stammtönen</rs> beständen.
@@ -1149,12 +1149,12 @@
          <div rend="TEI" facs="#facs_22_TextRegion_1614200619638_1895" type="paragraph-continued">
             <p facs="#facs_22_TextRegion_1614200619638_1895">
 				<lb facs="#facs_22_r2l22" n="N001"/>Mein geneigter <persName role="author" ref="P0047">Kritiker</persName> fährt fort: „In einem weiteren
-				<lb facs="#facs_22_r2l23" n="N002"/>Kapitel, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;" data-merged="true">Verwandtschaft der <rs ana="#m_chord">Accorde</rs> und <rs ana="#m_tonality">Ton<pc>¬</pc><lb facs="#facs_22_r2l24" n="N003"/>arten</rs> </hi>
+				<lb facs="#facs_22_r2l23" n="N002"/>Kapitel, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Verwandtschaft der <rs ana="#m_chord">Accorde</rs> und <rs ana="#m_tonality">Ton<pc>¬</pc><lb facs="#facs_22_r2l24" n="N003"/>arten</rs> </hi>
 				, bringt der <persName role="author" ref="P0041">Verfasser</persName> längst bekannte Dinge, die 
 				<lb facs="#facs_22_r2l25" n="N004"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">jeder</hi> vernünftigen <rs ana="#concept_mus">Harmonielehre</rs> stehen.” Diese Behauptung
 				<lb facs="#facs_22_r2l26" n="N005"/>muß ich so lange in Zweifel stellen, bis <persName role="author" ref="P0047">derselbe</persName> mir wenigstens
 				<lb facs="#facs_22_r2l27" n="N006"/>eine <rs ana="#concept_mus">Harmonielehre</rs> näher bezeichnet, in welcher jener Gegen<pc>¬</pc>
-				<lb facs="#facs_22_r2l28" n="N007"/>stand sowohl wie die mit demselben zusammenhängende <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;" data-merged="true"> <rs ana="#concept_mus">Mo<pc>¬</pc><lb facs="#facs_22_r2l29" n="N008"/>dulation</rs> </hi>
+				<lb facs="#facs_22_r2l28" n="N007"/>stand sowohl wie die mit demselben zusammenhängende <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Mo<pc>¬</pc><lb facs="#facs_22_r2l29" n="N008"/>dulation</rs> </hi>
 				 eben so erschöpfend als in <title ana="#text" ref="W0039">meiner Schrift</title> besprochen
 				<lb facs="#facs_22_r2l30" n="N009"/>worden ist. — Er bemerkt ferner: „<persName role="author" ref="P0041">Der Verfasser</persName> fabelt von
 				<lb facs="#facs_22_line_1614200680131_1951" n="N010"/>einem „mystischen” Zusammenhang der „<rs ana="#m_tonality">Tonart</rs>” <rs ana="#m_tonality">C dur</rs> mit
@@ -1203,9 +1203,9 @@
 				<lb facs="#facs_23_r2l28" n="N005"/><rs ana="#m_tonality">Haupttonart</rs> dieses <rs ana="#concept_mus">Musikstückes</rs> <rs ana="#m_tonality">Es dur</rs> ist, mit welcher sowohl
 				<lb facs="#facs_23_r2l29" n="N006"/><rs ana="#m_tonality">G moll</rs> wie <rs ana="#m_tonality">C dur</rs> <rs ana="#concept_mus">terzverwandt</rs> sind *), während <title ana="#text" ref="W0039">ich (S. 17)</title>
 				<lb facs="#facs_23_r2l30" n="N007"/>nur die Bemerkung gemacht habe, daß man in einem <rs ana="#concept_mus">Tonstücke</rs>
-				<lb facs="#facs_23_r2l31" n="N008"/>aus <rs ana="#m_tonality">C dur</rs> nicht die <rs ana="#m_tonality">Tonart</rs> <rs ana="#m_tonality">G moll</rs> als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;" data-merged="true"> <rs ana="#concept_mus">modulatorischen</rs><lb facs="#facs_23_r2l32" n="N009"/> <rs ana="#concept_mus">Gegensatz</rs></hi>
+				<lb facs="#facs_23_r2l31" n="N008"/>aus <rs ana="#m_tonality">C dur</rs> nicht die <rs ana="#m_tonality">Tonart</rs> <rs ana="#m_tonality">G moll</rs> als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">modulatorischen</rs><lb facs="#facs_23_r2l32" n="N009"/> <rs ana="#concept_mus">Gegensatz</rs></hi>
 				 (also für das <rs ana="#concept_mus">zweite Thema</rs> desselben) wählen
-				<lb facs="#facs_23_r2l33" n="N010"/>würde, da die <rs ana="#m_tonality">Durtonart</rs> jederzeit einen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;" data-merged="true"> <rs ana="#m_chord">harten Ober<pc>¬</pc><lb facs="#facs_23_r2l34" n="N011"/>dominantdreiklang</rs> </hi>
+				<lb facs="#facs_23_r2l33" n="N010"/>würde, da die <rs ana="#m_tonality">Durtonart</rs> jederzeit einen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">harten Ober<pc>¬</pc><lb facs="#facs_23_r2l34" n="N011"/>dominantdreiklang</rs> </hi>
 				, wie die <rs ana="#m_tonality">Molltonart</rs> stets einen
 				<lb facs="#facs_23_line_1614200803908_2045" n="N012"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_chord">weichen Unterdominantdreiklang</rs></hi> bewahren müsse.
 			</p>
@@ -1240,7 +1240,7 @@
          </div>
          <div rend="TEI" facs="#facs_24_TextRegion_1614201053290_2291" type="paragraph">
             <p facs="#facs_24_TextRegion_1614201053290_2291">
-				<lb facs="#facs_24_r2l4" n="N001"/>„<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;" data-merged="true">Einem <rs ana="#concept_mus"> <rs ana="#concept_phy">consonirenden</rs></rs> <rs ana="#m_chord">Accorde</rs> kann jeder an<pc>¬</pc><lb facs="#facs_24_r2l5" n="N002"/>dere <rs ana="#concept_mus"> <rs ana="#concept_phy">consonirende</rs></rs> <rs ana="#m_chord">Accord</rs> folgen</hi>
+				<lb facs="#facs_24_r2l4" n="N001"/>„<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Einem <rs ana="#concept_mus"> <rs ana="#concept_phy">consonirenden</rs></rs> <rs ana="#m_chord">Accorde</rs> kann jeder an<pc>¬</pc><lb facs="#facs_24_r2l5" n="N002"/>dere <rs ana="#concept_mus"> <rs ana="#concept_phy">consonirende</rs></rs> <rs ana="#m_chord">Accord</rs> folgen</hi>
 				. Selbstverständlich
 				<lb facs="#facs_24_r2l6" n="N003"/>giebt die oben (in den Beispielen) angewandte natürlichste
 				<lb facs="#facs_24_r2l7" n="N004"/><rs ana="#concept_mus">Stimmenführung</rs> und das Vermeiden der <rs ana="#concept_mus">melodisch</rs> auftreten<pc>¬</pc>
@@ -1250,7 +1250,7 @@
 				<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">äußeren Zusammenhang</rs></hi>, wie denn endlich auch wohl zu
 				<lb facs="#facs_24_r2l12" n="N009"/>beachten ist, <rs ana="#m_chord">Accorde</rs> von <rs ana="#concept_mus">entfernter Verwandtschaft</rs> nicht in zu
 				<lb facs="#facs_24_r2l13" n="N010"/>rascher Bewegung unmittelbar auf einander folgen zu lassen,
-				<lb facs="#facs_24_r2l14" n="N011"/>um dem <rs ana="#concept_phy">Ohre</rs> Zeit zu gönnen, auch den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;" data-merged="true"> <rs ana="#concept_mus">inneren Zusam<pc>¬</pc><lb facs="#facs_24_line_1614201048038_2289" n="N012"/>menhang</rs> </hi>
+				<lb facs="#facs_24_r2l14" n="N011"/>um dem <rs ana="#concept_phy">Ohre</rs> Zeit zu gönnen, auch den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">inneren Zusam<pc>¬</pc><lb facs="#facs_24_line_1614201048038_2289" n="N012"/>menhang</rs> </hi>
 				 der <rs ana="#concept_mus">Harmonien</rs> zu erfassen.”
 			</p>
          </div>
@@ -1258,7 +1258,7 @@
             <p facs="#facs_24_TextRegion_1614201048014_2285">
 				<lb facs="#facs_24_r2l16" n="N001"/>Hierüber nun äußert sich <persName role="author" ref="P0047">Herr B.</persName> folgendermaßen:
 				<lb facs="#facs_24_r2l17" n="N002"/>„Das <persName role="author" ref="P0041">Weitzmann'sche</persName> Grundgesetz ist ein wahrhaft auf<pc>¬</pc>
-				<lb facs="#facs_24_r2l18" n="N003"/>lösendes, vernichtet die Bande der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_tonality">Tonart</rs></hi>, hebt allen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;" data-merged="true"> <rs ana="#concept_mus">Zu<pc>¬</pc><lb facs="#facs_24_r2l19" n="N004"/>sammenhang</rs> </hi>
+				<lb facs="#facs_24_r2l18" n="N003"/>lösendes, vernichtet die Bande der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_tonality">Tonart</rs></hi>, hebt allen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Zu<pc>¬</pc><lb facs="#facs_24_r2l19" n="N004"/>sammenhang</rs> </hi>
 				 auf und ist ein ächtes Kind <date>unserer Zeit</date>“ 2c.
 			</p>
          </div>
@@ -1406,7 +1406,7 @@
 				<lb facs="#facs_27_r2l33" n="N003"/>nämlich <rs ana="#m_note">G</rs>? Oder muß dieser hier bald als <rs ana="#m_note">C</rs>, <rs ana="#m_note">E</rs>, <rs ana="#m_note">H</rs>, <rs ana="#m_note">Gis</rs> u. s. f.
 				<lb facs="#facs_27_r2l34" n="N004"/>gedacht werden? In keinem Falle kann eine auf so unsicherer
 				<lb facs="#facs_27_r2l35" n="N005"/>Basis beruhende <rs ana="#concept_mus">Lehre</rs> dem Schüler oder dem <rs ana="#concept_mus">Musiker</rs> über<pc>¬</pc>
-				<lb facs="#facs_27_r2l36" n="N006"/>haupt irgendwie zum Nutzen gereichen. Der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;" data-merged="true"> <rs ana="#m_note">Grundbaß</rs><lb facs="#facs_27_r2l37" n="N007"/>eines jeden <rs ana="#m_chord">Accordes</rs></hi>
+				<lb facs="#facs_27_r2l36" n="N006"/>haupt irgendwie zum Nutzen gereichen. Der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_note">Grundbaß</rs><lb facs="#facs_27_r2l37" n="N007"/>eines jeden <rs ana="#m_chord">Accordes</rs></hi>
 				 ist vielmehr stets der seiner
 				<lb facs="#facs_27_r2l38" n="N008"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Grundlage</rs></hi>; der des <rs ana="#m_chord">Septimenaccordes</rs> <rs ana="#m_chord">h — d — f — a</rs>
 				<lb facs="#facs_27_r2l39" n="N009"/>ist demnach <rs ana="#m_note">h</rs>, gleich dem der <rs ana="#m_chord">Accorde</rs> <rs ana="#m_chord">h — dis — fis — a</rs>,
@@ -1440,14 +1440,14 @@
          </div>
          <div rend="TEI" facs="#facs_28_TextRegion_1614202021187_2767" type="paragraph">
             <p facs="#facs_28_TextRegion_1614202021187_2767">
-				<lb facs="#facs_28_r3l2" n="N001"/>(s. Beisp. 3), <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;" data-merged="true">über jedem anderen <rs ana="#m_note">Tone</rs>, dem eine<lb facs="#facs_28_r3l3" n="N002"/>solche hervortretende Tragkraft zugetheilt wer<pc>¬</pc><lb facs="#facs_28_r3l4" n="N003"/>den soll,</hi>
+				<lb facs="#facs_28_r3l2" n="N001"/>(s. Beisp. 3), <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">über jedem anderen <rs ana="#m_note">Tone</rs>, dem eine<lb facs="#facs_28_r3l3" n="N002"/>solche hervortretende Tragkraft zugetheilt wer<pc>¬</pc><lb facs="#facs_28_r3l4" n="N003"/>den soll,</hi>
 				
 				 zu Anfang oder in der Mitte eines <rs ana="#concept_mus">Tonstückes</rs>
 				<lb facs="#facs_28_r3l5" n="N004"/>seine Anwendung finden.” <title ana="#text" ref="W0039">S. 50</title> werden ferner Beispiele
 				<lb facs="#facs_28_r3l6" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">dreier gleichzeitigen <rs ana="#m_note">Haltetöne</rs></hi> von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0054">Bach</persName></hi> und
 				<lb facs="#facs_28_r3l7" n="N006"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0016">Beethoven</persName></hi> angegeben, und <title ana="#text" ref="W0039">S. 63</title> steht die Bemerkung:
 				<lb facs="#facs_28_r3l8" n="N007"/>„daß die oben besprochenen <rs ana="#m_note">Haltetöne</rs> unter den erwähnten Be<pc>¬</pc>
-				<lb facs="#facs_28_r3l9" n="N008"/>dingungen auch zuweilen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;" data-merged="true">in der <rs ana="#concept_mus">Ober-</rs> oder in einer<lb facs="#facs_28_r3l10" n="N009"/> <rs ana="#concept_mus">Mittelstimme</rs></hi>
+				<lb facs="#facs_28_r3l9" n="N008"/>dingungen auch zuweilen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">in der <rs ana="#concept_mus">Ober-</rs> oder in einer<lb facs="#facs_28_r3l10" n="N009"/> <rs ana="#concept_mus">Mittelstimme</rs></hi>
 				 wirkungsvoll angewendet werden können.”
 			</p>
          </div>
@@ -1539,7 +1539,7 @@
 				<lb facs="#facs_30_r3l6" n="N003"/>kunst<lb facs="#facs_30_r3l7" n="N004"/>chromatischen</rs> die  und <rs ana="#concept_mus">enharmonischen</rs> <rs ana="#m_note">Töne</rs> anders auf<pc>¬</pc>
 				fasse als die ältere. Er bekennt nicht zu wissen, daß die
 				<lb facs="#facs_30_r3l8" n="N005"/>ältere jeden <rs ana="#concept_mus">chromatischen</rs> <rs ana="#m_note">Ton</rs> als Bestandtheil einer <rs ana="#concept_mus">Harmonie</rs>
-				<lb facs="#facs_30_r3l9" n="N006"/>derjenigen <rs ana="#m_tonality">Tonart</rs> betrachte, in welcher er eben keinen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;" data-merged="true"> <rs ana="#concept_mus">chro<pc>¬</pc><lb facs="#facs_30_r3l10" n="N007"/>matischen</rs> </hi>
+				<lb facs="#facs_30_r3l9" n="N006"/>derjenigen <rs ana="#m_tonality">Tonart</rs> betrachte, in welcher er eben keinen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">chro<pc>¬</pc><lb facs="#facs_30_r3l10" n="N007"/>matischen</rs> </hi>
 				, sondern einen  bilde. Da ihm
 				<lb facs="#facs_30_r3l11" n="N008"/>nun <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="author" ref="P0007">Hauptmann</persName></hi> in dieser Angelegenheit doch gewiß als
 				<lb facs="#facs_30_r3l12" n="N009"/>Autorität gelten wird, so führe ich dessen meinen oben aufge<pc>¬</pc>
@@ -1564,7 +1564,7 @@
 				<lb facs="#facs_30_r3l27" n="N001"/>Mein dem oben erwähnten folgender Satz sagt nun, daß
 				<lb facs="#facs_30_r3l28" n="N002"/>die <rs ana="#concept_mus"> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">neuere</hi> Harmonielehre</rs>, im Gegensatze zur <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">älteren</hi>, die
 				<lb facs="#facs_30_r3l29" n="N003"/><rs ana="#concept_mus">chromatischen</rs> <rs ana="#m_note">Töne</rs> so lange als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#m_note">Nebentöne</rs></hi> einer bestimm<pc>¬</pc>
-				<lb facs="#facs_30_r3l30" n="N004"/>ten <rs ana="#m_tonality">Tonart</rs> auffasse, bis sich dieselben durch eine <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;" data-merged="true"> <rs ana="#concept_mus">Auswei<pc>¬</pc><lb facs="#facs_30_r3l31" n="N005"/>chung</rs> </hi>
+				<lb facs="#facs_30_r3l30" n="N004"/>ten <rs ana="#m_tonality">Tonart</rs> auffasse, bis sich dieselben durch eine <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <rs ana="#concept_mus">Auswei<pc>¬</pc><lb facs="#facs_30_r3l31" n="N005"/>chung</rs> </hi>
 				 zu <rs ana="#m_note">Stammtönen</rs> einer von dieser verschiedenen <rs ana="#m_tonality">Tonart</rs>
 				<lb facs="#facs_30_r3l32" n="N006"/>erheben. Nur nach dieser Lehre sind die von mir mitgetheilten
 				<lb facs="#facs_30_r3l33" n="N007"/>Beispiele von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0016">Beethoven</persName></hi> und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0007">Hauptmann</persName></hi> zu erklären,
@@ -1592,7 +1592,7 @@
          <div rend="TEI" facs="#facs_31_TextRegion_1614202403021_3012" type="paragraph-continued">
             <p facs="#facs_31_TextRegion_1614202403021_3012">
 				<lb facs="#facs_31_r3l15" n="N001"/>Der unten folgende <rs ana="#concept_mus">Zusammenklang</rs> der <rs ana="#m_note">Töne</rs> <rs ana="#m_chord">g — h — gis</rs>
-				<lb facs="#facs_31_r3l16" n="N002"/><rs ana="#m_chord">— es</rs>, welchen der stets von richtigem Gefühl geleitete <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;" data-merged="true"> <persName role="composer" ref="P0015">Mo<pc>¬</pc><lb facs="#facs_31_r3l17" n="N003"/>zart</persName> </hi>
+				<lb facs="#facs_31_r3l16" n="N002"/><rs ana="#m_chord">— es</rs>, welchen der stets von richtigem Gefühl geleitete <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"> <persName role="composer" ref="P0015">Mo<pc>¬</pc><lb facs="#facs_31_r3l17" n="N003"/>zart</persName> </hi>
 				 in seiner <title ana="#music" ref="W0055">G moll-Sinfonie</title> gebraucht, wirkt vielleicht noch
 				<lb facs="#facs_31_line_1614202510813_3069" n="N004"/>schärfer als die von mir gegebenen Beispiele; er tritt <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">ganz</hi>
 				<lb facs="#facs_31_r3l20" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">frei</hi> auf, und findet nach meiner <rs ana="#concept_mus">Theorie</rs> seine einfache Erklä<pc>¬</pc>
