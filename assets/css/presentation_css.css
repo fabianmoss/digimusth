@@ -61,16 +61,16 @@ tei-pc {
 /* styles that are dynamically added when pressing button */
 
 .peoplestyle {
-	font-weight: bold;
+	background-color: #f2b8cf;
 }
 
 .workstyle {
-	font-style:italic;
+	background-color: #f2b8cf;
 }
 
 
 .conceptstyle {
-	text-decoration: underline dotted 0.2rem;
+	background-color: #b8f2bb;
 }
 
 
@@ -84,21 +84,12 @@ tei-pc {
 /*locations and time*/
 
 .locationsstyle {
-    font-style: oblique;
-    /*color: Gray;*/
-letter-spacing: 0.3rem;}
-
-.locationsstyle::before {
-  content: "📍";
+  	background-color: #ffb396;
 }
+
 .timestyle {
-    font-style: oblique;
-    /*color: SlateBlue;*/
-    letter-spacing: 0.3rem;
+  	background-color: #ffb396;
 }
-.timestyle::before {
-  content: "⌚";}
-
 
 
 /*highlight for register and search */
