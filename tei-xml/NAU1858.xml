@@ -2135,7 +2135,7 @@
          </div>
          <div rend="TEI" facs="#facs_36_TextRegion_1611346224183_3834" type="footnote">
             <p facs="#facs_36_TextRegion_1611346224183_3834">
-				<lb facs="#facs_36_r1l42" n="N001"/>**) Siehe <persName role="author" ref="P0057"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Euler</hi>’s</persName><hi rend="italic:true; fontSize:0.0; kerning:0;"> <title ana="#text" ref="W0118">tentamen novae theoriae musicae</title></hi> (p. 73), <persName role="author" ref="P0091"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Drobisch</hi>’s</persName> vorstehend citirte <title ana="#text" ref="W0116">Abhandlung</title> in
+				<lb facs="#facs_36_r1l42" n="N001"/>**) Siehe <persName role="author" ref="P0057"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Euler</hi>’s</persName><hi rend="italic:true; fontSize:0.0; kerning:0;"><title ana="#text" ref="W0118">tentamen novae theoriae musicae</title></hi> (p. 73), <persName role="author" ref="P0091"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Drobisch</hi>’s</persName> vorstehend citirte <title ana="#text" ref="W0116">Abhandlung</title> in
 				<lb facs="#facs_36_r1l43" n="N002"/><persName role="author" ref="P0094"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Poggendorf</hi>’s</persName> <title ana="#text" ref="W0117">Annalen</title>, sowie desselben grössere Schrift „<title ana="#text" ref="W0111">über musikalische Tonbestimmung</title> etc.” §. 14 ff.
 			</p>
          </div>
@@ -2554,7 +2554,7 @@
          </div>
          <div rend="TEI" facs="#facs_44_TextRegion_1611508914209_301" type="footnote">
             <p facs="#facs_44_TextRegion_1611508914209_301">
-				<lb facs="#facs_44_r1l35" n="N001"/>*) Im Cap. II seiner Schrift: „<hi rend="italic:true; fontSize:0.0; kerning:0;"> <title ana="#text" ref="W0124">Dell' Origine e delle Regole della Musica</title></hi>” etc. (<date when="1774">1774</date>), dessen Uebersetzung
+				<lb facs="#facs_44_r1l35" n="N001"/>*) Im Cap. II seiner Schrift: „<hi rend="italic:true; fontSize:0.0; kerning:0;"><title ana="#text" ref="W0124">Dell' Origine e delle Regole della Musica</title></hi>” etc. (<date when="1774">1774</date>), dessen Uebersetzung
 				<lb facs="#facs_44_r1l36" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0012">Kiesewetter</persName></hi> den übrigen Abhandlungen vorangehen lässt.
 			</p>
          </div>

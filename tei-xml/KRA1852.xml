@@ -1056,7 +1056,7 @@
 				<lb facs="#facs_12_r1l13" n="N013"/>auch der <rs ana="#m_tonality">Molltonleiter</rs>, vereinigen sich die <rs ana="#m_interval">Prime</rs>, <rs ana="#m_interval">Terz</rs> und
 				<lb facs="#facs_12_r1l14" n="N014"/><rs ana="#m_interval">Quinte</rs>, desgleichen die Versetzungen dieser Bestandtheile zu
 				<lb facs="#facs_12_r1l15" n="N015"/><rs ana="#m_interval">Prime</rs>, <rs ana="#m_interval">Terz</rs> und <rs ana="#m_interval">Sexte</rs>, wie auch zu <rs ana="#m_interval">Prime</rs>, <rs ana="#m_interval">Quarte</rs> und <rs ana="#m_interval">Sexte</rs>,
-				<lb facs="#facs_12_r1l16" n="N016"/>zu sogenannten <rs ana="#concept_mus"> <rs ana="#concept_phy">consonirenden</rs></rs> <rs ana="#m_chord">Dreiklängen</rs>, wie aus dem Beispiel 1
+				<lb facs="#facs_12_r1l16" n="N016"/>zu sogenannten <rs ana="#concept_mus"><rs ana="#concept_phy">consonirenden</rs></rs> <rs ana="#m_chord">Dreiklängen</rs>, wie aus dem Beispiel 1
 				<lb facs="#facs_12_r1l18" n="N017"/>zu ersehen ist; $$MUSIC
 				<lb facs="#facs_12_r1l27" n="N018"/>dann die <rs ana="#m_interval">Prime</rs>, <rs ana="#m_interval">Terz</rs> und <rs ana="#m_interval">Quinte</rs> und sogenannte <rs ana="#m_interval">kleine Sep<pc>¬</pc>
 				<lb facs="#facs_12_r1l28" n="N019"/>time</rs> (das ist die <rs ana="#concept_mus">harmonische</rs>, welche in der <rs ana="#concept_mus">aufsteigenden</rs> <rs ana="#m_tonality">Dur<pc>¬</pc>
@@ -1074,7 +1074,7 @@
          </div>
          <div rend="TEI" facs="#facs_13_TextRegion_1632816753583_433" type="paragraph">
             <p facs="#facs_13_TextRegion_1632816753583_433">
-				<lb facs="#facs_13_r2l1" n="N001"/><rs ana="#m_interval">Sexte</rs>, zu <rs ana="#concept_mus"> <rs ana="#concept_phy">dissonirenden</rs></rs> <rs ana="#m_chord">Vierklängen</rs>, wie aus dem Beispiel 2
+				<lb facs="#facs_13_r2l1" n="N001"/><rs ana="#m_interval">Sexte</rs>, zu <rs ana="#concept_mus"><rs ana="#concept_phy">dissonirenden</rs></rs> <rs ana="#m_chord">Vierklängen</rs>, wie aus dem Beispiel 2
 				<lb facs="#facs_13_r2l2" n="N002"/>hervorgeht.
 			</p>
          </div>
@@ -1206,7 +1206,7 @@
 				<lb facs="#facs_15_r3l19" n="N015"/>der sogenannten <rs ana="#m_interval">großen Terz</rs> und <rs ana="#m_interval">reinen Quinte</rs> (<rs ana="#m_chord">großer Drei<pc>¬</pc>
 				<lb facs="#facs_15_r3l20" n="N016"/>klang</rs>), ein anderer <rs ana="#m_chord">Accord</rs> <rs ana="#m_chord">e g b</rs>, bestehend aus <rs ana="#m_interval">kleiner Terz</rs> und
 				<lb facs="#facs_15_r3l21" n="N017"/>falscher <rs ana="#m_interval">Quinte</rs> (<rs ana="#m_chord">verminderter Dreiklang</rs>), nicht als gleichartiger
-				<lb facs="#facs_15_r3l22" n="N018"/>(<rs ana="#concept_mus">dreistimmiger</rs> <rs ana="#concept_mus"> <rs ana="#concept_phy">consonirender</rs></rs>) <rs ana="#concept_mus">Zusammenklang</rs> entgegen gestellt
+				<lb facs="#facs_15_r3l22" n="N018"/>(<rs ana="#concept_mus">dreistimmiger</rs> <rs ana="#concept_mus"><rs ana="#concept_phy">consonirender</rs></rs>) <rs ana="#concept_mus">Zusammenklang</rs> entgegen gestellt
 				<lb facs="#facs_15_r3l23" n="N019"/>werden. So im Beispiel 3. $$MUSIC
 			</p>
          </div>
@@ -1233,8 +1233,8 @@
          <div rend="TEI" facs="#facs_16_TextRegion_1632818538405_696" type="paragraph">
             <p facs="#facs_16_TextRegion_1632818538405_696">
 				<lb facs="#facs_16_r1l1" n="N001"/>aber er kann in allen Fällen nur als ein unvollständiger oder, wenn
-				<lb facs="#facs_16_r1l2" n="N002"/>man will, von dem <rs ana="#concept_mus"> <rs ana="#concept_phy">dissonirenden</rs></rs> <rs ana="#m_chord">Vierklang</rs> abgeleiteter und eben
-				<lb facs="#facs_16_r1l3" n="N003"/>deshalb seiner Natur nach <rs ana="#concept_mus"> <rs ana="#concept_phy">dissonirender</rs></rs> <rs ana="#m_chord">Dreiklang</rs> angesehen wer<pc>¬</pc>
+				<lb facs="#facs_16_r1l2" n="N002"/>man will, von dem <rs ana="#concept_mus"><rs ana="#concept_phy">dissonirenden</rs></rs> <rs ana="#m_chord">Vierklang</rs> abgeleiteter und eben
+				<lb facs="#facs_16_r1l3" n="N003"/>deshalb seiner Natur nach <rs ana="#concept_mus"><rs ana="#concept_phy">dissonirender</rs></rs> <rs ana="#m_chord">Dreiklang</rs> angesehen wer<pc>¬</pc>
 				<lb facs="#facs_16_r1l4" n="N004"/>den. Erst durch spätere Betrachtungen ist das hier Gesagte näher
 				<lb facs="#facs_16_r1l5" n="N005"/>und gründlicher einzusehen, und zwar vornehmlich alsdann, wenn
 				<lb facs="#facs_16_r1l6" n="N006"/>eine festere, als die bisherige Grundlage für die Entwickelung der
@@ -1364,7 +1364,7 @@
 				<lb facs="#facs_18_r1l30" n="N011"/>schen</rs> <rs ana="#m_interval">Intervalls</rs> — der <rs ana="#m_interval">Octave</rs> nämlich — als diejenigen, welche
 				<lb facs="#facs_18_r1l31" n="N012"/>am meisten Gleichartiges wahrnehmen lassen, den am meisten
 				<lb facs="#facs_18_r1l32" n="N013"/>befriedigenden <rs ana="#concept_mus">Zusammenklang</rs> (nach dem technischen Ausdruck:
-				<lb facs="#facs_18_r1l33" n="N014"/>die vollkommenste <rs ana="#concept_mus"> <rs ana="#concept_phy">Consonanz</rs></rs>) bilden und demnach wohl als in
+				<lb facs="#facs_18_r1l33" n="N014"/>die vollkommenste <rs ana="#concept_mus"><rs ana="#concept_phy">Consonanz</rs></rs>) bilden und demnach wohl als in
 				<lb facs="#facs_18_r1l34" n="N015"/>nächster Beziehung zu einander stehend anzunehmen sind.
 			</p>
          </div>
@@ -1629,7 +1629,7 @@
 				<lb facs="#facs_24_r2l4" n="N003"/><rs ana="#m_note">Octavtöne</rs> erzeugt, im Grunde nichts von seiner Gültigkeit, indem
 				<lb facs="#facs_24_r2l5" n="N004"/>dadurch nur erwiesen wird, daß das <rs ana="#m_interval">Intervall</rs> <rs ana="#m_interval">c b</rs> der <rs ana="#concept_mus">dreigestri<pc>¬</pc>
 				<lb facs="#facs_24_r2l6" n="N005"/>chenen</rs> <rs ana="#m_interval">Octave</rs> bei den <rs ana="#concept_phy">Zahlen</rs> 16 und 29 uns schärfer begrenzt
-				<lb facs="#facs_24_r2l7" n="N006"/>erscheint, demnach in seiner <rs ana="#concept_mus"> <rs ana="#concept_phy">dissonirenden</rs></rs> Natur bestimmter in's
+				<lb facs="#facs_24_r2l7" n="N006"/>erscheint, demnach in seiner <rs ana="#concept_mus"><rs ana="#concept_phy">dissonirenden</rs></rs> Natur bestimmter in's
 				<lb facs="#facs_24_r2l8" n="N007"/>Ohr fällt, als <rs ana="#m_interval">c ais</rs> bei 16 und 28; daß mithin die <rs ana="#m_note">Töne</rs> bei 14
 				<lb facs="#facs_24_r2l9" n="N008"/>und 7 ein wenig tiefer als das <rs ana="#m_note">b</rs> bei 29, aber deshalb nicht auch
 				<lb facs="#facs_24_r2l10" n="N009"/>tiefer, als als bei 28 sind, wie es sich denn auch nicht nur an der
@@ -2206,7 +2206,7 @@
 				<lb facs="#facs_34_r3l13" n="N002"/>nation der <rs ana="#concept_mus">Accordbestandtheile</rs> bemerkt wird, beziehen wir den
 				<lb facs="#facs_34_r3l14" n="N003"/>höchsten und tiefsten <rs ana="#m_note">Ton</rs> auf die <rs ana="#concept_mus">Terzengestalt</rs> oder Grundform, in
 				<lb facs="#facs_34_r3l15" n="N004"/>welcher man die <rs ana="#m_chord">Accorde</rs> — seien es nun <rs ana="#m_chord">Drei-</rs> oder <rs ana="#m_chord">Vierklänge</rs>
-				<lb facs="#facs_34_r3l16" n="N005"/>(<rs ana="#concept_mus"> <rs ana="#concept_phy">consonirende</rs></rs> oder <rs ana="#concept_mus"> <rs ana="#concept_phy">dissonirende</rs></rs> <rs ana="#m_chord">Accorde</rs>) — auch <rs ana="#m_chord">Grundaccorde</rs> zu
+				<lb facs="#facs_34_r3l16" n="N005"/>(<rs ana="#concept_mus"><rs ana="#concept_phy">consonirende</rs></rs> oder <rs ana="#concept_mus"><rs ana="#concept_phy">dissonirende</rs></rs> <rs ana="#m_chord">Accorde</rs>) — auch <rs ana="#m_chord">Grundaccorde</rs> zu
 				<lb facs="#facs_34_r3l17" n="N006"/>nennen pflegt, und zwar zum Unterschied von jeder anderen Com<pc>¬</pc>
 				<lb facs="#facs_34_r3l18" n="N007"/>bination der <rs ana="#concept_mus">Accordbestandtheile</rs>, welche man als eine aus der
 				<lb facs="#facs_34_r3l19" n="N008"/>Grundgestalt abgeleitete Form betrachtet, und in welcher man die
@@ -2263,12 +2263,12 @@
          <div rend="TEI" facs="#facs_35_TextRegion_1632839877580_2921" type="paragraph">
             <p facs="#facs_35_TextRegion_1632839877580_2921">
 				<lb facs="#facs_35_r2l19" n="N001"/>Haben wir hiermit in Betreff der entgegengesetzten, ungleich<pc>¬</pc>
-				<lb facs="#facs_35_r2l20" n="N002"/>artigen <rs ana="#concept_mus"> <rs ana="#concept_phy">consonirenden</rs></rs> <rs ana="#m_chord">Accorde</rs> als äußerlich wahrnehmbare Eigen<pc>¬</pc>
+				<lb facs="#facs_35_r2l20" n="N002"/>artigen <rs ana="#concept_mus"><rs ana="#concept_phy">consonirenden</rs></rs> <rs ana="#m_chord">Accorde</rs> als äußerlich wahrnehmbare Eigen<pc>¬</pc>
 				<lb facs="#facs_35_r2l21" n="N003"/>schaften die entgegengesetzte <rs ana="#concept_mus">Lage</rs> der <rs ana="#m_note">Intervalltöne</rs> zum <rs ana="#m_note">Grundton</rs>
 				<lb facs="#facs_35_r2l22" n="N004"/>erkannt, so gehen wir nun dazu über, die so zu sagen <rs ana="#concept_mus">inneren Bezie<pc>¬</pc>
 				<lb facs="#facs_35_r2l23" n="N005"/>hungen</rs> der <rs ana="#concept_mus">Accordbestandtheile</rs> aufzufinden, welche wir als wichtige
 				<lb facs="#facs_35_r2l24" n="N006"/>Ursachen verschiedenartiger <rs ana="#concept_mus">musikalischer Eindrücke</rs> (z. B. der Abge<pc>¬</pc>
-				<lb facs="#facs_35_r2l25" n="N007"/>schlossenheit der <rs ana="#concept_mus"> <rs ana="#concept_phy">consonirenden</rs></rs> <rs ana="#m_chord">Accorde</rs> u. a.) erkennen. Solche <rs ana="#concept_mus">innere</rs>
+				<lb facs="#facs_35_r2l25" n="N007"/>schlossenheit der <rs ana="#concept_mus"><rs ana="#concept_phy">consonirenden</rs></rs> <rs ana="#m_chord">Accorde</rs> u. a.) erkennen. Solche <rs ana="#concept_mus">innere</rs>
 				<lb facs="#facs_35_r2l26" n="N008"/><rs ana="#concept_mus">Beziehungen</rs> erkennen wir, wenn schon sie uns die <rs ana="#concept_mus">Tonwirkungen</rs>
 				<lb facs="#facs_35_r2l27" n="N009"/>erklären, gleichwohl nicht am <rs ana="#concept_mus">Tönenden</rs> selbst — weder in dem <rs ana="#concept_mus">Zu<pc>¬</pc>
 				<lb facs="#facs_35_r2l28" n="N010"/>sammenklang</rs>, noch in der <rs ana="#concept_mus">Klangfolge</rs> —, sondern in dem Gesetze,
@@ -2375,14 +2375,14 @@
 				<lb facs="#facs_37_r2l28" n="N008"/>geschehen, wenn der <rs ana="#m_note">Ton</rs> <rs ana="#m_note">b</rs> in die nächst höhere <rs ana="#m_interval">Octave</rs> verpflanzt
 				<lb facs="#facs_37_r2l29" n="N009"/>wird, wenn mithin seine Höhe der Länge von <formula notation="tex">$\frac{4}{7}$</formula> entspricht, indem
 				<lb facs="#facs_37_r2l30" n="N010"/>er alsdann der aufsteigenden Reihe angehört und zu den drei Be<pc>¬</pc>
-				<lb facs="#facs_37_r2l31" n="N011"/>standtheilen des <rs ana="#concept_mus"> <rs ana="#concept_phy">consonirenden</rs></rs> <rs ana="#concept_mus">positiven</rs> <rs ana="#m_chord">Accordes</rs> <rs ana="#m_chord">c e g</rs> als vier<pc>¬</pc>
-				<lb facs="#facs_37_r2l32" n="N012"/>tes, <rs ana="#concept_mus"> <rs ana="#concept_phy">dissonirendes</rs></rs> Element in <rs ana="#concept_mus">Terzengestalt</rs> tritt. In der nach der
+				<lb facs="#facs_37_r2l31" n="N011"/>standtheilen des <rs ana="#concept_mus"><rs ana="#concept_phy">consonirenden</rs></rs> <rs ana="#concept_mus">positiven</rs> <rs ana="#m_chord">Accordes</rs> <rs ana="#m_chord">c e g</rs> als vier<pc>¬</pc>
+				<lb facs="#facs_37_r2l32" n="N012"/>tes, <rs ana="#concept_mus"><rs ana="#concept_phy">dissonirendes</rs></rs> Element in <rs ana="#concept_mus">Terzengestalt</rs> tritt. In der nach der
 				<lb facs="#facs_37_r2l33" n="N013"/>Richtung aufwärts vergrößerten <rs ana="#concept_mus">Terzengestalt</rs>
 				<lb facs="#facs_37_r2l34" n="N014"/><rs ana="#m_chord">c} e} g} b}</rs>
-				<lb facs="#facs_37_r2l35" n="N015"/>begrenzt der <rs ana="#m_note">Intervallton</rs> <rs ana="#m_note">b</rs> mit dem <rs ana="#m_note">Grundton</rs> <rs ana="#m_note">c</rs> des <rs ana="#concept_mus"> <rs ana="#concept_phy">dissonirenden</rs></rs>
+				<lb facs="#facs_37_r2l35" n="N015"/>begrenzt der <rs ana="#m_note">Intervallton</rs> <rs ana="#m_note">b</rs> mit dem <rs ana="#m_note">Grundton</rs> <rs ana="#m_note">c</rs> des <rs ana="#concept_mus"><rs ana="#concept_phy">dissonirenden</rs></rs>
 				<lb facs="#facs_37_r2l36" n="N016"/><rs ana="#m_chord">Accordes</rs> das <rs ana="#m_interval">Intervall</rs> der aufsteigenden, aber außer der <rs ana="#m_tonality">Scala</rs>
 				<lb facs="#facs_37_r2l37" n="N017"/>von <rs ana="#m_note">C</rs> liegenden, sogenannten kleinen, d. i. <rs ana="#concept_mus">harmonischen</rs> <rs ana="#m_interval">Sep<pc>¬</pc>
-				<lb facs="#facs_37_r2l38" n="N018"/>time</rs>, und formirt mit den übrigen an sich <rs ana="#concept_mus"> <rs ana="#concept_phy">consonirenden</rs></rs> Bestand<pc>¬</pc>
+				<lb facs="#facs_37_r2l38" n="N018"/>time</rs>, und formirt mit den übrigen an sich <rs ana="#concept_mus"><rs ana="#concept_phy">consonirenden</rs></rs> Bestand<pc>¬</pc>
 				<lb facs="#facs_37_r2l39" n="N019"/>theilen den <rs ana="#concept_mus">positiven</rs> <rs ana="#m_chord">Septimenaccord</rs> <rs ana="#m_chord">+c<hi rend="fontSize:0.0; kerning:0; superscript:true;">7</hi> </rs>, als dessen Gegensatz
 				<lb facs="#facs_37_r2l40" n="N020"/><rs ana="#m_chord">-c<hi rend="fontSize:0.0; kerning:0; superscript:true;">7</hi> </rs>, d. i. den Bestandtheilen nach der <rs ana="#m_chord">Accord</rs>
 				<lb facs="#facs_37_r2l41" n="N021"/><rs ana="#m_chord">d f as c}</rs>
@@ -2397,8 +2397,8 @@
          <div rend="TEI" facs="#facs_38_TextRegion_1632842421569_3245" type="paragraph-continued">
             <p facs="#facs_38_TextRegion_1632842421569_3245">
 				<lb facs="#facs_38_r2l2" n="N001"/>erscheint, die bekanntlich der vom <rs ana="#m_note">Grundton</rs> <rs ana="#m_note">c</rs> aus abwärts gebil<pc>¬</pc>
-				<lb facs="#facs_38_r2l3" n="N002"/>deten Reihe angehören. Ebenso, wie bei den <rs ana="#concept_mus"> <rs ana="#concept_phy">consonirenden</rs></rs> <rs ana="#m_chord">Ac<pc>¬</pc>
-				<lb facs="#facs_38_r2l4" n="N003"/>corden</rs> <rs ana="#m_chord">+c</rs> und <rs ana="#m_chord">-c</rs>, tritt auch bei den <rs ana="#concept_mus"> <rs ana="#concept_phy">dissonirenden</rs></rs> <rs ana="#m_chord">+c<hi rend="fontSize:0.0; kerning:0; superscript:true;">7</hi> </rs> und
+				<lb facs="#facs_38_r2l3" n="N002"/>deten Reihe angehören. Ebenso, wie bei den <rs ana="#concept_mus"><rs ana="#concept_phy">consonirenden</rs></rs> <rs ana="#m_chord">Ac<pc>¬</pc>
+				<lb facs="#facs_38_r2l4" n="N003"/>corden</rs> <rs ana="#m_chord">+c</rs> und <rs ana="#m_chord">-c</rs>, tritt auch bei den <rs ana="#concept_mus"><rs ana="#concept_phy">dissonirenden</rs></rs> <rs ana="#m_chord">+c<hi rend="fontSize:0.0; kerning:0; superscript:true;">7</hi> </rs> und
 				<lb facs="#facs_38_r2l5" n="N004"/><rs ana="#m_chord">-c<hi rend="fontSize:0.0; kerning:0; superscript:true;">7</hi> </rs>, durch das Nebeneinanderstellen derselben, der Gegensatz
 				<lb facs="#facs_38_r2l6" n="N005"/>ihrer Bestandtheile deutlicher hervor:
 			</p>
@@ -3353,13 +3353,13 @@
          <div rend="TEI" facs="#facs_53_TextRegion_1632906424719_228" type="paragraph">
             <p facs="#facs_53_TextRegion_1632906424719_228">
 				<lb facs="#facs_53_r2l18" n="N001"/>Man hat die <rs ana="#concept_mus">Substitution</rs> von <rs ana="#m_chord">Accorden</rs> nicht nur auf ein<pc>¬</pc>
-				<lb facs="#facs_53_r2l19" n="N002"/>fache (<rs ana="#concept_mus"> <rs ana="#concept_phy">consonirende</rs></rs>), sondern auch auf zusammengesetzte (<rs ana="#concept_mus"> <rs ana="#concept_phy">dissoni<pc>¬</pc>
+				<lb facs="#facs_53_r2l19" n="N002"/>fache (<rs ana="#concept_mus"><rs ana="#concept_phy">consonirende</rs></rs>), sondern auch auf zusammengesetzte (<rs ana="#concept_mus"><rs ana="#concept_phy">dissoni<pc>¬</pc>
 				<lb facs="#facs_53_r2l20" n="N003"/>rende</rs></rs>) <rs ana="#m_chord">Accorde</rs> erstreckt.
 			</p>
          </div>
          <div rend="TEI" facs="#facs_53_TextRegion_1632906421132_224" type="paragraph">
             <p facs="#facs_53_TextRegion_1632906421132_224">
-				<lb facs="#facs_53_r2l21" n="N001"/>Dadurch ist denn die Folge von <rs ana="#concept_mus"> <rs ana="#concept_phy">dissonirenden</rs></rs> <rs ana="#m_chord">Accorden</rs> ent<pc>¬</pc>
+				<lb facs="#facs_53_r2l21" n="N001"/>Dadurch ist denn die Folge von <rs ana="#concept_mus"><rs ana="#concept_phy">dissonirenden</rs></rs> <rs ana="#m_chord">Accorden</rs> ent<pc>¬</pc>
 				<lb facs="#facs_53_r2l22" n="N002"/>standen. Auf solche Weise geht z. B. aus der <rs ana="#concept_mus">Accordfolge</rs> <rs ana="#m_chord">+g<hi rend="fontSize:0.0; kerning:0; superscript:true;">7</hi> </rs>
 				<lb facs="#facs_53_r2l23" n="N003"/><rs ana="#m_chord">+c</rs> die <rs ana="#concept_mus">Accordfolge</rs> <rs ana="#m_chord">+g<hi rend="fontSize:0.0; kerning:0; superscript:true;">7</hi> </rs> <rs ana="#m_chord">+c<hi rend="fontSize:0.0; kerning:0; superscript:true;">7</hi> </rs>, aus der <rs ana="#concept_mus">Folge</rs> <rs ana="#m_chord">+g<hi rend="fontSize:0.0; kerning:0; superscript:true;">7</hi> </rs> <rs ana="#m_chord">+e</rs> die
 				<lb facs="#facs_53_r2l24" n="N004"/><rs ana="#concept_mus">Folge</rs> <rs ana="#m_chord">+g<hi rend="fontSize:0.0; kerning:0; superscript:true;">7</hi> </rs> <rs ana="#m_chord">+e<hi rend="fontSize:0.0; kerning:0; superscript:true;">7</hi> </rs> hervor:
@@ -3500,7 +3500,7 @@
 				<lb facs="#facs_55_r1l30" n="N008"/>gesetzten, mit einander nicht verwandten <rs ana="#m_chord">Accorden</rs> <rs ana="#m_chord">+f</rs> und <rs ana="#m_chord">+g</rs>
 				<lb facs="#facs_55_r1l31" n="N009"/>zusammengesetzte <rs ana="#m_chord">Accorde</rs> gebildet werden können. Der von mir
 				<lb facs="#facs_55_r1l32" n="N010"/>gewählten Ausdrucksweise zufolge ist eine zweifache Durchdrin<pc>¬</pc>
-				<lb facs="#facs_55_r1l33" n="N011"/>gung der <rs ana="#m_chord">Accorde</rs> <rs ana="#m_chord">+f</rs> und <rs ana="#m_chord">+g</rs> möglich, nämlich in den <rs ana="#concept_mus"> <rs ana="#concept_phy">dissoni<pc>¬</pc>
+				<lb facs="#facs_55_r1l33" n="N011"/>gung der <rs ana="#m_chord">Accorde</rs> <rs ana="#m_chord">+f</rs> und <rs ana="#m_chord">+g</rs> möglich, nämlich in den <rs ana="#concept_mus"><rs ana="#concept_phy">dissoni<pc>¬</pc>
 				<lb facs="#facs_55_r1l34" n="N012"/>renden</rs></rs> <rs ana="#m_chord">Accorden</rs> <rs ana="#m_chord">+f<hi rend="fontSize:0.0; kerning:0; superscript:true;">6</hi> </rs> und <rs ana="#m_chord">+g<hi rend="fontSize:0.0; kerning:0; superscript:true;">7</hi> </rs>, deren Bestandtheile in den
 				<lb facs="#facs_55_r1l35" n="N013"/>wiederholt in Betrachtung gezogenen <rs ana="#concept_mus">Terzengestalten</rs> sich auf diese
 				<lb facs="#facs_55_r1l36" n="N014"/>Weise gruppiren:
@@ -3546,9 +3546,9 @@
 				<lb facs="#facs_56_r2l20" n="N003"/>accordes</rs> mit dem <rs ana="#m_chord">Quintenaccord</rs> der <rs ana="#concept_mus">Tonica</rs>) zum vollkommenen
 				<lb facs="#facs_56_r2l21" n="N004"/><rs ana="#concept_mus">Schluß</rs> eines <rs ana="#concept_mus">Tonsatzes</rs>, so würde es schon der Entwickelung des
 				<lb facs="#facs_56_r2l22" n="N005"/><rs ana="#concept_mus">tonischen Gegensatzes</rs> gemäß sein, daß, wie bei dem Fortschritt zu
-				<lb facs="#facs_56_r2l23" n="N006"/>den, mit dem <rs ana="#m_chord">Tonicaaccorde</rs> gleichartigen <rs ana="#concept_mus"> <rs ana="#concept_phy">consonirenden</rs></rs> <rs ana="#m_chord">Accorden</rs>
+				<lb facs="#facs_56_r2l23" n="N006"/>den, mit dem <rs ana="#m_chord">Tonicaaccorde</rs> gleichartigen <rs ana="#concept_mus"><rs ana="#concept_phy">consonirenden</rs></rs> <rs ana="#m_chord">Accorden</rs>
 				<lb facs="#facs_56_r2l24" n="N007"/>die Richtung aufwärts nach der <rs ana="#concept_mus">Dominante</rs> <rs ana="#m_note">g</rs> zu verfolgen war,
-				<lb facs="#facs_56_r2l25" n="N008"/>bei dem Fortschritt zu den ungleichartigen, <rs ana="#concept_mus"> <rs ana="#concept_phy">dissonirenden</rs></rs> <rs ana="#m_chord">Accorden</rs>
+				<lb facs="#facs_56_r2l25" n="N008"/>bei dem Fortschritt zu den ungleichartigen, <rs ana="#concept_mus"><rs ana="#concept_phy">dissonirenden</rs></rs> <rs ana="#m_chord">Accorden</rs>
 				<lb facs="#facs_56_r2l26" n="N009"/>die Richtung abwärts, nach der <rs ana="#concept_mus">Subdominante</rs> eingeschlagen
 				<lb facs="#facs_56_r2l27" n="N010"/>werde. Denn ohne den Verfolg dieser beiden Richtungen wäre die
 				<lb facs="#facs_56_r2l28" n="N011"/>Darstellung des <rs ana="#concept_mus">accordlichen Gegensatzes</rs> keine nach Höhe und
