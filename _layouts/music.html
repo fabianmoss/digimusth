@@ -22,8 +22,7 @@ layout: music_base
   </head>
 
   <body>
-    <div>{{ page.title }}</div>
-	<div id="path">{{ page.name }}</div> <!-- hidden? -->
+	<div id="path" class="hidden">{{ page.name }}</div> <!-- needed for the following logic to identify the path -->
   	<!-- container for TEI document -->
     <div id="TEI"></div>
   	<!-- rendition -->

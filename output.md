@@ -3,7 +3,7 @@ layout: page
 title: Research Engagement
 ---
 
-### TEI conferenfe 2025
+### TEI conference 2025
 
 * Roeder, T., Klinger, J., Stickler, F., Keupp, C., & Moss, F. C. (2025) Multimodality and Minimal Publishing: TEI,MEI and more in 19th-Century Music Treatises. _25th Annual Meeting of the Text Encoding Initiative_. 16–17 September 2025, Kraków, Poland.
 
