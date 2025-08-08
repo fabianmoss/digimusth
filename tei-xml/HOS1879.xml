@@ -1758,8 +1758,8 @@
          </div>
          <div rend="TEI" facs="#facs_5_TextRegion_1626023277134_162" type="paragraph">
             <p facs="#facs_5_TextRegion_1626023277134_162">
-				<lb facs="#facs_5_r1l20" n="N001"/>Die vorliegende Schrift ist nicht etwa dazu bestimmt, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0017">Rie<pc>¬</pc></persName></hi>
-				<lb facs="#facs_5_r1l21" n="N002"/><persName role="author" ref="P0017"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">mann</hi>'s</persName> schätzbaren Arbeiten entgegenzutreten; im Gegentheile
+				<lb facs="#facs_5_r1l20" n="N001"/>Die vorliegende Schrift ist nicht etwa dazu bestimmt, <persName role="author" ref="P0017"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Rie<pc>¬</pc>
+				<lb facs="#facs_5_r1l21" n="N002"/>mann</hi>'s</persName> schätzbaren Arbeiten entgegenzutreten; im Gegentheile
 				<lb facs="#facs_5_r1l22" n="N003"/>wünscht sie eher als eine Ergänzung derselben betrachtet zu werden.
 				<lb facs="#facs_5_r1l23" n="N004"/>Weder die „<title ana="#text" ref="W0142">Hülfsmittel der <rs ana="#concept_mus">Modulation</rs> </title>”, noch die „<title ana="#text" ref="W0019">Musikalische</title>
 				<lb facs="#facs_5_r1l24" n="N005"/><title ana="#text" ref="W0019">Syntaxis</title>” verlegen ihren Schwerpunct in diejenigen Probleme, die
@@ -1992,14 +1992,15 @@
 				<lb facs="#facs_11_r1l106" n="N010"/>strumenten</rs> überschritten; die <rs ana="#concept_mus">Basstuben</rs> sind z. B. im Stande, bis
 				<lb facs="#facs_11_r1l107" n="N011"/>in die <rs ana="#concept_mus">Subcontraoctave</rs> (<rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">B</hi><hi rend="fontSize:0.0; kerning:0; subscript:true;">2</hi></rs>) herabzusteigen. Selbstverständlich ist
 				<lb facs="#facs_11_r1l108" n="N012"/>aber mit den in der <rs ana="#concept_mus">Musik</rs> gebräuchlichen <rs ana="#m_note">Tönen</rs> noch nicht die
-				<lb facs="#facs_11_r1l109" n="N013"/>Reihe der überhaupt <rs ana="#concept_phy">wahrnehmbaren</rs> erschöpft. Nach <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helm<pc>¬</pc></persName><lb facs="#facs_11_r1l110" n="N014"/><persName role="author" ref="P0001">holtz</persName></hi> *) genügen dem <rs ana="#concept_phy">Ohre</rs> schon 30 <rs ana="#concept_phy">Schwingungen</rs> in der <rs ana="#concept_phy">Secunde</rs>
+				<lb facs="#facs_11_r1l109" n="N013"/>Reihe der überhaupt <rs ana="#concept_phy">wahrnehmbaren</rs> erschöpft. Nach <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helm<pc>¬</pc>
+				<lb facs="#facs_11_r1l110" n="N014"/>holtz</persName></hi> *) genügen dem <rs ana="#concept_phy">Ohre</rs> schon 30 <rs ana="#concept_phy">Schwingungen</rs> in der <rs ana="#concept_phy">Secunde</rs>
             </p>
          </div>
          <div rend="TEI" facs="#facs_11_TextRegion_1626023666415_468" type="footnote">
             <p facs="#facs_11_TextRegion_1626023666415_468">
 				<lb facs="#facs_11_r1l111" n="N001"/>*) <title ana="#text" ref="W0001">Die Lehre von den Tonempfindungen, als physiologische Grund<pc>¬</pc></title>
-				<lb facs="#facs_11_r1l112" n="N002"/><title ana="#text" ref="W0001">lage für die Theorie der Musik</title>. Von <persName role="author" ref="P0001">H. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helmholtz</hi></persName>. 3. Aufl. <placeName>Braun<pc>¬</pc></placeName>
-				<lb facs="#facs_11_r1l113" n="N003"/><placeName>schweig</placeName><date when="1870">1870</date>. S. 280. Unsere Citate werden sich sämmtlich auf diese
+				<lb facs="#facs_11_r1l112" n="N002"/><title ana="#text" ref="W0001">lage für die Theorie der Musik</title>. Von <persName role="author" ref="P0001">H. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helmholtz</hi></persName>. 3. Aufl. <placeName>Braun<pc>¬</pc>
+				<lb facs="#facs_11_r1l113" n="N003"/>schweig</placeName><date when="1870">1870</date>. S. 280. Unsere Citate werden sich sämmtlich auf diese
 				<lb facs="#facs_11_r1l114" n="N004"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">dritte</hi> Auflage beziehen.
 			</p>
          </div>
@@ -2528,7 +2529,8 @@
 				<lb facs="#facs_20_r1l11" n="N010"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Zusammensetzung dieser <rs ana="#concept_phy">Tonmasse</rs> ist es nun, die</hi>
 				<lb facs="#facs_20_r1l12" n="N011"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">den Unterschied der <rs ana="#concept_phy">Klangfarbe</rs> bedingt</hi>. Dass also
 				<lb facs="#facs_20_r1l13" n="N012"/>diese in der That mit der <rs ana="#concept_phy">Form</rs> der <rs ana="#concept_phy">Welle</rs> Hand in Hand
-				<lb facs="#facs_20_r1l14" n="N013"/>geht, ergiebt sich aus dem Gesagten von selbst. Doch hat <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helm<pc>¬</pc></persName><lb facs="#facs_20_r1l15" n="N014"/><persName role="author" ref="P0001">holtz</persName></hi> nachgewiesen,*) dass dies streng genommen nur insoferne
+				<lb facs="#facs_20_r1l14" n="N013"/>geht, ergiebt sich aus dem Gesagten von selbst. Doch hat <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helm<pc>¬</pc>
+				<lb facs="#facs_20_r1l15" n="N014"/>holtz</persName></hi> nachgewiesen,*) dass dies streng genommen nur insoferne
 				<lb facs="#facs_20_r1l16" n="N015"/>eine allgemeine Giltigkeit besitzt, als verschiedenen <rs ana="#concept_phy">Klangfarben</rs>
 				<lb facs="#facs_20_r1l17" n="N016"/>auch verschiedene <rs ana="#concept_phy">Wellenformen</rs>, gleichen <rs ana="#concept_phy">Wellenformen</rs> auch gleiche
 				<lb facs="#facs_20_r1l18" n="N017"/><rs ana="#concept_phy">Klangfarben</rs> entsprechen — aber nicht umgekehrt; denn bei der<pc>¬</pc>
@@ -2647,7 +2649,8 @@
 				<lb facs="#facs_22_r1l6" n="N004"/>lich: erstens die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_phy">Schwebungen</rs> oder <rs ana="#concept_phy">Stösse</rs> als <rs ana="#concept_phy">dynamische</rs><lb facs="#facs_22_r1l7" n="N005"/><rs ana="#concept_phy">Schwankungen</rs> der gegebenen <rs ana="#m_note">Töne</rs></hi> und zweitens die
 				<lb facs="#facs_22_r1l8" n="N006"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_phy">Combinationstöne</rs></hi> als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">durch das Zusammenwirken der<lb facs="#facs_22_r1l9" n="N007"/>gegebenen hervorgebrachte qualitativ neue <rs ana="#m_note">Töne</rs></hi>.
 				<lb facs="#facs_22_r1l10" n="N008"/>Für unsere Zwecke wäre es überflüssig, auf die Entstehung dieser
-				<lb facs="#facs_22_r1l11" n="N009"/>beiden Erscheinungen einzugehen; es wird genügen (nach <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helm<pc>¬</pc></persName><lb facs="#facs_22_r1l12" n="N010"/><persName role="author" ref="P0001">holtz</persName></hi>) eine blosse tabellarische Uebersicht zu geben. *)
+				<lb facs="#facs_22_r1l11" n="N009"/>beiden Erscheinungen einzugehen; es wird genügen (nach <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helm<pc>¬</pc>
+				<lb facs="#facs_22_r1l12" n="N010"/>holtz</persName></hi>) eine blosse tabellarische Uebersicht zu geben. *)
 			</p>
          </div>
          <div rend="TEI" facs="#facs_22_TextRegion_1626093019827_563" type="paragraph-continued">
@@ -2944,7 +2947,8 @@
          </div>
          <div rend="TEI" facs="#facs_27_TextRegion_1626093656902_1068" type="footnote">
             <p facs="#facs_27_TextRegion_1626093656902_1068">
-				<lb facs="#facs_27_r1l50" n="N001"/>**) Vgl. <title ana="#text" ref="W0148">Lehrbuch der Psychologie</title> von Ph. Dr. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0118">Wilhelm Volk<pc>¬</pc></persName><lb facs="#facs_27_r1l51" n="N002"/><persName role="author" ref="P0118">mann Ritter von Volkmar</persName></hi>. <placeName>Cöthen</placeName>, Otto Schulze, <date when="1875">1875</date>. I. Bd.
+				<lb facs="#facs_27_r1l50" n="N001"/>**) Vgl. <title ana="#text" ref="W0148">Lehrbuch der Psychologie</title> von Ph. Dr. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0118">Wilhelm Volk<pc>¬</pc>
+				<lb facs="#facs_27_r1l51" n="N002"/>mann Ritter von Volkmar</persName></hi>. <placeName>Cöthen</placeName>, Otto Schulze, <date when="1875">1875</date>. I. Bd.
 				<lb facs="#facs_27_r1l52" n="N003"/>S. 261. — Bezüglich des Folgenden: I. S. 227.
 			</p>
          </div>
@@ -3815,7 +3819,8 @@
 				<lb facs="#facs_41_r1l14" n="N011"/>denen und bereits vergangenen, blos reproducirten, d. h. zwischen
 				<lb facs="#facs_41_r1l15" n="N012"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">gehörten</hi> und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">gemerkten</hi><rs ana="#m_note">Tönen</rs>: nur durch solche Beziehungen
 				<lb facs="#facs_41_r1l16" n="N013"/>lässt sich der unbedingt nothwendige künstlerische Zusammenhang
-				<lb facs="#facs_41_r1l17" n="N014"/>im Strome der dahinrauschenden <rs ana="#concept_mus">Klänge</rs> erklären. Schon <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0062">Ari<pc>¬</pc></persName><lb facs="#facs_41_r1l18" n="N015"/><persName role="author" ref="P0062">stoxenos</persName></hi> hat dies hervorgehoben: „Denn aus diesen beiden
+				<lb facs="#facs_41_r1l17" n="N014"/>im Strome der dahinrauschenden <rs ana="#concept_mus">Klänge</rs> erklären. Schon <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0062">Ari<pc>¬</pc>
+				<lb facs="#facs_41_r1l18" n="N015"/>stoxenos</persName></hi> hat dies hervorgehoben: „Denn aus diesen beiden
 				<lb facs="#facs_41_r1l19" n="N016"/>(Kräften) resultirt das Verständniss der <rs ana="#concept_mus">Musik</rs>, aus der Empfindung
 				<lb facs="#facs_41_r1l20" n="N017"/>und dem Gedächtniss; empfinden nämlich muss man das, was
 				<lb facs="#facs_41_line_1626095931799_2883" n="N018"/>geschieht, und mit dem Gedächtniss behalten das, was geschehen
@@ -3826,8 +3831,8 @@
          </div>
          <div rend="TEI" facs="#facs_41_TextRegion_1626095859918_2829" type="footnote">
             <p facs="#facs_41_TextRegion_1626095859918_2829">
-				<lb facs="#facs_41_r1l28" n="N001"/>*) <title ana="#text" ref="W0152">Harmonische Fragmente</title> her. und übers. von Dr. <persName role="author" ref="P0123"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Paul Mar</hi><pc>¬</pc></persName>
-				<lb facs="#facs_41_line_1626095954064_2910" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0123">quard</persName></hi>. <placeName>Berlin</placeName><date when="1868">1868</date>. S. 56 (Meibom. 38, 34): $$GRAPHIC.
+				<lb facs="#facs_41_r1l28" n="N001"/>*) <title ana="#text" ref="W0152">Harmonische Fragmente</title> her. und übers. von Dr. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0123">Paul Mar<pc>¬</pc>
+				<lb facs="#facs_41_line_1626095954064_2910" n="N002"/>quard</persName></hi>. <placeName>Berlin</placeName><date when="1868">1868</date>. S. 56 (Meibom. 38, 34): $$GRAPHIC.
 				<lb facs="#facs_41_r1l31" n="N003"/>
 				<lb facs="#facs_41_r1l32" n="N004"/>
 				<lb facs="#facs_41_r1l33" n="N005"/>
@@ -4641,7 +4646,8 @@
 				<lb facs="#facs_54_r1l35" n="N002"/>ton</rs>, sondern auch der <rs ana="#concept_mus">phon.</rs><rs ana="#concept_phy">Oberton</rs> blos ein <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">virtueller</hi><rs ana="#concept_mus">Klang</rs>
 				<lb facs="#facs_54_r1l36" n="N003"/>ist, wenn wir an der von <persName role="author" ref="P0018">A. v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi></persName> beabsichtigten Allge<pc>¬</pc>
 				<lb facs="#facs_54_r1l37" n="N004"/>meinheit seines Princips festhalten, das ja auf „tieferen <rs ana="#concept_phy">psycho<pc>¬</pc>
-				<lb facs="#facs_54_r1l38" n="N005"/>logischen</rs>” Grundlagen beruhen soll. Hier ist wieder an <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helm<pc>¬</pc></persName><lb facs="#facs_54_r1l39" n="N006"/><persName role="author" ref="P0001">holtz</persName></hi> anzuknüpfen. Dieser beachtet nämlich die mögliche Ein<pc>¬</pc>
+				<lb facs="#facs_54_r1l38" n="N005"/>logischen</rs>” Grundlagen beruhen soll. Hier ist wieder an <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helm<pc>¬</pc>
+				<lb facs="#facs_54_r1l39" n="N006"/>holtz</persName></hi> anzuknüpfen. Dieser beachtet nämlich die mögliche Ein<pc>¬</pc>
 				<lb facs="#facs_54_r1l40" n="N007"/>wendung, dass bekanntermassen die <rs ana="#concept_mus">harmonische Bedeutung</rs> der
 				<lb facs="#facs_54_r1l41" n="N008"/><rs ana="#m_interval">Intervalle</rs> unabhängig ist von der <rs ana="#concept_phy">Klangfarbe</rs>, d. h. von der Exi<pc>¬</pc>
 				<lb facs="#facs_54_r1l42" n="N009"/>stenz und <rs ana="#concept_phy">Intensität</rs>, also auch von der <rs ana="#concept_phy">Coincidenz</rs> und den
@@ -4679,7 +4685,8 @@
 				<lb facs="#facs_55_r1l13" n="N013"/>keit</rs>” beibringen kann, die durch <rs ana="#concept_phy">Schwebungen</rs> auf natürlichem
 				<lb facs="#facs_55_r1l14" n="N014"/>Wege entsteht. Und doch wird kein <rs ana="#concept_mus">Musiker</rs> das <rs ana="#m_interval">Octaven-</rs> oder
 				<lb facs="#facs_55_r1l15" n="N015"/><rs ana="#m_interval">Quintintervall</rs> für ein „<rs ana="#concept_mus">unharmonisches</rs>” oder „<rs ana="#concept_mus"><rs ana="#concept_phy">dissonantes</rs></rs>” erklären,
-				<lb facs="#facs_55_r1l16" n="N016"/>sondern höchstens nur von „schlechtem <rs ana="#concept_mus">Klang</rs>” reden. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helm<pc>¬</pc></persName><lb facs="#facs_55_r1l17" n="N017"/><persName role="author" ref="P0001">holtz</persName></hi> beruft sich nun auf jene „<rs ana="#concept_mus">musikalische Gewohnheit</rs>”, die
+				<lb facs="#facs_55_r1l16" n="N016"/>sondern höchstens nur von „schlechtem <rs ana="#concept_mus">Klang</rs>” reden. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helm<pc>¬</pc>
+				<lb facs="#facs_55_r1l17" n="N017"/>holtz</persName></hi> beruft sich nun auf jene „<rs ana="#concept_mus">musikalische Gewohnheit</rs>”, die
 				<lb facs="#facs_55_r1l18" n="N018"/>in die Bresche treten soll, wo es keine reellen <rs ana="#concept_phy">Obertöne</rs> giebt. Er
 				<lb facs="#facs_55_r1l19" n="N019"/>sagt ferner *): „Wenn der Hörer weiss, dass auf anderen <rs ana="#concept_mus">Instru<pc>¬</pc>
 				<lb facs="#facs_55_r1l20" n="N020"/>menten</rs> und im <rs ana="#concept_mus">Gesange</rs> die <rs ana="#m_interval">Terzen</rs> und <rs ana="#m_interval">Sexten</rs> als natürlich und
@@ -4732,7 +4739,8 @@
 				<lb facs="#facs_56_r1l9" n="N004"/><rs ana="#concept_mus">Verwandtschaft</rs>. In beiden Fällen ist es die <rs ana="#concept_phy">Coincidenz</rs> der (sinn<pc>¬</pc>
 				<lb facs="#facs_56_r1l10" n="N005"/>lich gegenwärtigen oder nur reproducirten) <rs ana="#concept_phy">Obertöne</rs>, was ent<pc>¬</pc>
 				<lb facs="#facs_56_r1l11" n="N006"/>scheidet, mögen nun die betreffenden <rs ana="#concept_mus">Klänge</rs> zugleich oder nach<pc>¬</pc>
-				<lb facs="#facs_56_r1l12" n="N007"/>einander auftreten. Die <rs ana="#concept_mus">musikalische Gewohnheit</rs>, von der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helm<pc>¬</pc></persName><lb facs="#facs_56_r1l13" n="N008"/><persName role="author" ref="P0001">holtz</persName></hi> spricht, bezieht sich auf ein bereits gehörtes Zusammen<pc>¬</pc>
+				<lb facs="#facs_56_r1l12" n="N007"/>einander auftreten. Die <rs ana="#concept_mus">musikalische Gewohnheit</rs>, von der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helm<pc>¬</pc>
+				<lb facs="#facs_56_r1l13" n="N008"/>holtz</persName></hi> spricht, bezieht sich auf ein bereits gehörtes Zusammen<pc>¬</pc>
 				<lb facs="#facs_56_r1l14" n="N009"/>treffen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">mehrerer einzelner selbstständiger <rs ana="#concept_mus">musika<pc>¬</pc>
 				<lb facs="#facs_56_r1l15" n="N010"/>lischer Klänge</rs></hi>, setzt also schon <rs ana="#concept_mus">musikalische Tonformen</rs> voraus.
 				<lb facs="#facs_56_r1l16" n="N011"/>Diese letzteren, d. h. jene <rs ana="#m_interval">Intervalle</rs>, deren fortgesetztes Hören in
@@ -4968,8 +4976,8 @@
 				<lb facs="#facs_60_r1l10" n="N009"/>kommen kann, also etwas durchaus Fremdes für sie ist. Man hat
 				<lb facs="#facs_60_r1l11" n="N010"/>in früheren Zeiten, als man sich noch scheute, ein <rs ana="#concept_mus">Tonstück</rs> mit
 				<lb facs="#facs_60_r1l12" n="N011"/>einem <rs ana="#m_chord">Molldreiklang</rs> zu schliessen, die leere <rs ana="#m_interval">Quinte</rs> oder den
-				<lb facs="#facs_60_r1l13" n="N012"/><rs ana="#m_note">Grundton</rs> allein statt des <rs ana="#m_chord">Duraccordes</rs> gebraucht. Nach <persName role="author" ref="P0018">v. Oet<pc>¬</pc></persName>
-				<lb facs="#facs_60_r1l14" n="N013"/><persName role="author" ref="P0018">tingen</persName> ist übrigens die <rs ana="#m_interval">grosse Terz</rs><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_interval">c—e</rs></hi> nicht minder <rs ana="#concept_mus">unbestimmt</rs>
+				<lb facs="#facs_60_r1l13" n="N012"/><rs ana="#m_note">Grundton</rs> allein statt des <rs ana="#m_chord">Duraccordes</rs> gebraucht. Nach <persName role="author" ref="P0018">v. Oet<pc>¬</pc>
+				<lb facs="#facs_60_r1l14" n="N013"/>tingen</persName> ist übrigens die <rs ana="#m_interval">grosse Terz</rs><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_interval">c—e</rs></hi> nicht minder <rs ana="#concept_mus">unbestimmt</rs>
 				<lb facs="#facs_60_r1l15" n="N014"/>und <rs ana="#concept_mus">zweideutig</rs>, als die leere <rs ana="#m_interval">Quinte</rs> — ein jeder <rs ana="#concept_mus">Musiker</rs> muss
 				<lb facs="#facs_60_r1l16" n="N015"/>dem widersprechen, denn unter normalen Verhältnissen wird er sie
 				<lb facs="#facs_60_r1l17" n="N016"/>stets als einen <rs ana="#concept_mus"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>-Klang</rs> auffassen, ebenso die <rs ana="#m_interval">kleine Terz</rs><rs ana="#m_interval"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>{—<hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs>.
@@ -8889,7 +8897,8 @@
          <div rend="MEI" facs="#facs_119_Music_1626267109149_4015" source="facs_119_Music_1626267109149_4015.mei" type="floating"><p>MUSIK</p></div>
          <div rend="TEI" facs="#facs_119_TextRegion_1626267072121_3996" type="footnote">
             <p facs="#facs_119_TextRegion_1626267072121_3996">
-				<lb facs="#facs_119_line_1626267153014_4096" n="N001"/>*) Man beachte z. B. die <rs ana="#concept_mus">Terzenparallelen</rs>, welche <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0128">Wilhelm Tap<pc>¬</pc></persName><lb facs="#facs_119_line_1626267155986_4103" n="N002"/><persName role="author" ref="P0128">pert</persName></hi> in seinem „<title ana="#text" ref="W0162">Verbot der Quintenparallelen</title>”, S. 26, anführt.
+				<lb facs="#facs_119_line_1626267153014_4096" n="N001"/>*) Man beachte z. B. die <rs ana="#concept_mus">Terzenparallelen</rs>, welche <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0128">Wilhelm Tap<pc>¬</pc>
+				<lb facs="#facs_119_line_1626267155986_4103" n="N002"/>pert</persName></hi> in seinem „<title ana="#text" ref="W0162">Verbot der Quintenparallelen</title>”, S. 26, anführt.
 			</p>
          </div>
          <pb facs="#facs_120" n="120"/>
