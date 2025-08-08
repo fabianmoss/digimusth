@@ -3,10 +3,22 @@ layout: music_base
 ---
 
 <head>
-    <title>My project</title>
+    <title>DigiMusTh</title>
     <meta charset="utf-8">
 	<script src="{{site.baseurl}}/assets/js/CETEI.js"></script>
 	<script src="{{site.baseurl}}/assets/js/verovio.js"></script>
+		<!-- displaying math formulas-->
+	<script> 
+		MathJax = {
+		tex: {
+			inlineMath: {'[+]': [['$', '$']]} // adding the $ as a marker for formulas \( \) does also still work 
+		},
+		options: {
+      enableMenu: false  // disables the context menu
+      } 
+		};
+	</script>
+	<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
   </head>
 
   <body>
@@ -38,10 +50,48 @@ layout: music_base
 					});
 					wrapper.innerHTML = rawContent.replace("ns1-", "");
 				return wrapper;
-				}
-			},
+				},
 			
-		}); 
+
+		/* deal with facsimili css elements*/
+				"hi": function(el) {
+				let span = document.createElement("span");
+	
+				// Process rend attribute into CSS classes
+				if (el.hasAttribute("rend")) {
+					let rendValue = el.getAttribute("rend");
+
+					// Parse rend into object
+					let styles = rendValue.split(";").reduce((acc, pair) => {
+					let [key, value] = pair.trim().split(":");
+					if (key && value) acc[key.trim()] = value.trim();
+					return acc;
+					}, {});
+
+					// Build class list from rend styles
+					let classList = [];
+					if (styles.letterSpaced === "true") classList.push("letterSpaced");
+					if (styles.bold === "true") classList.push("bold");
+					if (styles.superscript === "true") classList.push("superscript");
+
+					if (styles.subscript === "true") classList.push("subscript");
+					if (styles.italic === "true") classList.push("italic");
+
+					if (classList.length) {
+					span.className = classList.join(" ");
+					}
+				}
+
+				// Append children
+				while (el.firstChild) {
+					span.appendChild(el.firstChild);
+				}
+
+				return span;
+				}
+			}
+			});
+
 			CETEIcean.getHTML5("../../data/" + path.innerHTML + "/" + path.innerHTML + ".xml", function(data) {
 				/*CETEIcean.getHTML5("../../musicdata/tei/" + path.innerHTML, function(data) { */
 			/* funktioniert: CETEIcean.getHTML5("../../musicdata/tei/" + "CAP1905_tei.xml", function(data) { */

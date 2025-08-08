@@ -32,8 +32,9 @@ tei-pc {
   vertical-align: sub;
   font-size: smaller;
 }
-.letterSpaced {
-  letter-spacing: 0.1em;
+.superscript {
+  vertical-align: super;
+  font-size: smaller;
 }
 
 .italic {
@@ -190,4 +191,11 @@ input:checked + .slider:before {
   padding: 10px 12px;
   text-align: center;
   position: fixed;
+}
+
+/*Math font change*/
+.MJX-TEX {
+  /*! font-family: MJXZERO, MJXTEX; */
+  font: inherit;
+  font-size: 100%;/* override the library, which suggests 87.1% */
 }
