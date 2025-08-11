@@ -95,6 +95,9 @@ layout: music_base
 				/*CETEIcean.getHTML5("../../musicdata/tei/" + path.innerHTML, function(data) { */
 			/* funktioniert: CETEIcean.getHTML5("../../musicdata/tei/" + "CAP1905_tei.xml", function(data) { */
 			document.getElementById("TEI").appendChild(data)
+				 if (window.MathJax) {
+						MathJax.typesetPromise(); // Tell MathJax to process newly inserted content
+					}
 		})
 		/* Verovio */
 		var vrvToolkit = new verovio.toolkit()
