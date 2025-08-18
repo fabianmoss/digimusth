@@ -1033,7 +1033,7 @@
 				<byline>
 					<lb facs="#facs_5_r1l10" n="N006"/>An zahlreichen <rs ana="#concept_mus">Notenbeispielen</rs> erläutert
 					<lb facs="#facs_5_r1l11" n="N007"/>von
-					<lb facs="#facs_5_r1l12" n="N008"/><docAuthor ref="P0006">Georg Capellen-Osnabrück</docAuthor>
+					<lb facs="#facs_5_r1l12" n="N008"/><docAuthor ref="#P0006">Georg Capellen-Osnabrück</docAuthor>
 				</byline>
 				<docImprint>
 					<lb facs="#facs_5_r1l13" n="N009"/>Eigentum des Verlegers für alle Länder.
@@ -2656,7 +2656,7 @@
 				<lb facs="#facs_42_r1l11" n="N010"/>klang</rs> als „getrübter” <rs ana="#m_chord">Durdreiklang</rs> = <rs ana="#m_chord">A ♮cis e</rs>, wegen des durch
 				<lb facs="#facs_42_r1l12" n="N011"/>die <rs ana="#concept_mus">Terzenkollision</rs> entstehenden <rs ana="#concept_mus"><rs ana="#concept_phy">dissonanten</rs></rs><rs ana="#m_interval">Intervalles</rs><rs ana="#m_interval">c—cis</rs>. Mit
 				<lb facs="#facs_42_r1l13" n="N012"/>Recht wendet sich hier <persName role="author" ref="P0017">Riemann</persName> gegen <persName role="author" ref="P0001">Helmholtz</persName>, der durch die
-				<lb facs="#facs_42_r1l14" n="N013"/><rs ana="#concept_mus">Erniedrigung</rs> der <rs ana="#m_interval">Terz</rs> um $$MATH Ton die <rs ana="#concept_mus"><rs ana="#concept_phy">Konsonanz</rs></rs> des <rs ana="#m_chord">Durakkordes</rs>
+				<lb facs="#facs_42_r1l14" n="N013"/><rs ana="#concept_mus">Erniedrigung</rs> der <rs ana="#m_interval">Terz</rs> um <formula notation="tex">$\frac{1}{2}$</formula> Ton die <rs ana="#concept_mus"><rs ana="#concept_phy">Konsonanz</rs></rs> des <rs ana="#m_chord">Durakkordes</rs>
 				<lb facs="#facs_42_r1l15" n="N014"/>nur getrübt, aber nicht aufgehoben wissen will (<title ana="#text" ref="W0009">Problemschrift</title> S. 5).
 				<lb facs="#facs_42_r1l16" n="N015"/>Der grosse Fortschritt gegen den „<rs ana="#concept_mus">Monisten</rs>” <persName role="author" ref="P0001">Helmholtz</persName> ist, dass
 				<lb facs="#facs_42_r1l17" n="N016"/>ich nicht wie dieser den <rs ana="#m_chord">Mollakkord</rs><rs ana="#m_chord">c es g</rs><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">entweder</hi> als einen
