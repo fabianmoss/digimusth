@@ -3270,38 +3270,40 @@
 		</surface>
 	</facsimile>
    <text xml:space="preserve">
-      <body>
-         <pb facs="#facs_1" n=""/>
-         <div rend="TEI" facs="#facs_1_r1" type="other">
-            <p facs="#facs_1_r1">
-				<lb facs="#facs_1_r1l1" n="N001"/><title ana="#text" ref="W0017">Harmoniesystem</title>
-				<lb facs="#facs_1_r1l2" n="N002"/><title ana="#text" ref="W0017">in</title>
-				<lb facs="#facs_1_r1l3" n="N003"/><title ana="#text" ref="W0017"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">dualer Entwickelung</hi>.</title>
-				<lb facs="#facs_1_r1l4" n="N004"/><title ana="#text" ref="W0017">Studien</title>
-				<lb facs="#facs_1_r1l5" n="N005"/><title ana="#text" ref="W0017">zur Theorie der Musik</title>
-				<lb facs="#facs_1_r1l6" n="N006"/>von
-				<lb facs="#facs_1_r1l7" n="N007"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><persName role="author" ref="P0018">Dr. Arthur von Oettingen</persName>,</hi>
-				<lb facs="#facs_1_r1l8" n="N008"/>ausserord. Professor der <rs ana="#concept_phy">Physik</rs> an der Kaiserl. Universität <placeName>Dorpat</placeName>.
-				<lb facs="#facs_1_r1l20" n="N009"/><placeName>Dorpat</placeName> und <placeName>Leipzig</placeName>.
-				<lb facs="#facs_1_r1l21" n="N010"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Verlag von W. Gläser</hi>.
-				<lb facs="#facs_1_r1l22" n="N011"/><date when="1866">1866</date>.
-			</p>
-         </div>
-         <pb facs="#facs_2" n=""/>
-         <div rend="TEI" facs="#facs_2_r1" type="other">
-            <p facs="#facs_2_r1">
-				<lb facs="#facs_2_r1l16" n="N001"/>Von der Censur gestattet.
+   	<front>
+   		<pb facs="#facs_1" n=""/>
+   		<titlePage type="main">
+				<docTitle>
+           	 	<titlePart type="main" ana="#text" corresp="#W0017">
+           	 		<lb facs="#facs_1_r1l1" n="N001"/>Harmoniesystem
+						<lb facs="#facs_1_r1l2" n="N002"/>in
+						<lb facs="#facs_1_r1l3" n="N003"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">dualer Entwickelung</hi>.
+						<lb facs="#facs_1_r1l4" n="N004"/>Studien
+						<lb facs="#facs_1_r1l5" n="N005"/>zur Theorie der Musik
+           	 	</titlePart>
+				</docTitle>
+				<byline>
+					<lb facs="#facs_1_r1l6" n="N006"/>von
+					<lb facs="#facs_1_r1l7" n="N007"/><docAuthor ref="#P0018"><hi rend="fontSize:0.0; kerning:0; bold:true;">Dr. Arthur von Oettingen</hi></docAuthor>,
+					<lb facs="#facs_1_r1l8" n="N008"/>ausserord. Professor der <rs ana="#concept_phy">Physik</rs> an der Kaiserl. Universität <placeName>Dorpat</placeName>.
+				</byline>
+				<docImprint>
+					<lb facs="#facs_1_r1l20" n="N009"/><pubPlace>Dorpat</pubPlace> und <pubPlace>Leipzig</pubPlace>.
+					<lb facs="#facs_1_r1l21" n="N010"/><publisher><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Verlag von W. Gläser</hi></publisher>.
+					<lb facs="#facs_1_r1l22" n="N011"/><docDate when="1866">1866</docDate>.
+				</docImprint>
+   			<pb facs="#facs_2" n=""/>
+   			<imprimatur facs="#facs_2_r1">
+   			 <lb facs="#facs_2_r1l16" n="N001"/>Von der Censur gestattet.
 				<lb facs="#facs_2_r1l17" n="N002"/><placeName>Dorpat</placeName>, den <date>4. Juli 1866</date>.
 				<lb facs="#facs_2_r1l36" n="N003"/>Druck von E. J. Karow, Universitäts-Buchhändler in <placeName>Dorpat</placeName>. <date when="1866">1866</date>.
-			</p>
-         </div>
+   			</imprimatur>
+			</titlePage>
          <pb facs="#facs_3" n=""/>
-         <div rend="TEI" facs="#facs_3_TextRegion_1616238629635_309" type="heading">
-            <p facs="#facs_3_TextRegion_1616238629635_309">
+         <div type="preface">
+            <head facs="#facs_3_TextRegion_1616238629635_309">
 				<lb facs="#facs_3_r1l1" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Vorwort</hi> <hi rend="fontSize:0.0; kerning:0; bold:true;">.</hi>
-            </p>
-         </div>
-         <div rend="TEI" facs="#facs_3_TextRegion_1616238641721_314" type="paragraph">
+            </head>
             <p facs="#facs_3_TextRegion_1616238641721_314">
 				<lb facs="#facs_3_r1l2" n="N001"/>Wenn ich bei Abfassung der vorliegenden Arbeit den
 				<lb facs="#facs_3_r1l3" n="N002"/>Mangel einer <rs ana="#concept_mus">theoretische</rs>n, sowie <rs ana="#concept_mus">praktischen Aus<pc>¬</pc>
@@ -3319,20 +3321,14 @@
 				<lb facs="#facs_3_r1l15" n="N014"/>scheinen dürfte. Möchten Fachmänner das gebotene
 				<lb facs="#facs_3_r1l16" n="N015"/>Material zu weiteren Forschungen benutzen können.
 			</p>
-         </div>
-         <div rend="TEI" facs="#facs_3_TextRegion_1616238654039_319" type="paragraph-continued">
-            <p facs="#facs_3_TextRegion_1616238654039_319">
+            <p facs="#facs_3_TextRegion_1616238654039_319 #facs_4_TextRegion_1616238895340_380">
 				<lb facs="#facs_3_r1l17" n="N001"/>Einige Bemerkungen will ich hier noch voraus<pc>¬</pc>
 				<lb facs="#facs_3_r1l18" n="N002"/>schicken. Selbst auf die Gefahr hin, ein philologisch
 				<lb facs="#facs_3_r1l19" n="N003"/>gebildetes Ohr zu verletzen, habe ich, um der Kürze
 				<lb facs="#facs_3_r1l20" n="N004"/>und des prägnanten Gegensatzes willen, einige neue
 				<lb facs="#facs_3_r1l21" n="N005"/>Wortbildungen, — namentlich in der Ueberschrift der
-			</p>
-         </div>
-         <pb facs="#facs_4" n="IV"/>
-         <div rend="TEI" facs="#facs_4_TextRegion_1616238895340_380" type="paragraph">
-            <p facs="#facs_4_TextRegion_1616238895340_380">
-				<lb facs="#facs_4_r1l2" n="N001"/>beiden ersten Abschnitte, — einzuführen gewagt. Mir er<pc>¬</pc>
+            	<pb facs="#facs_4" n="IV"/>
+            	<lb facs="#facs_4_r1l2" n="N001"/>beiden ersten Abschnitte, — einzuführen gewagt. Mir er<pc>¬</pc>
 				<lb facs="#facs_4_r1l3" n="N002"/>gab sich kein besserer, dem Zweck entsprechender Ersatz.
 				<lb facs="#facs_4_r1l4" n="N003"/>Gelingt es dem Leser, der das <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Wesen</hi> der Sache
 				<lb facs="#facs_4_r1l5" n="N004"/>und die gegebenen Definitionen beachtet, treffendere
@@ -3350,21 +3346,15 @@
 				<lb facs="#facs_4_r1l17" n="N016"/><rs ana="#concept_mus">Klangfolgen</rs> sich kund thut. In diesem Sinne ist das
 				<lb facs="#facs_4_r1l18" n="N017"/>Wort „<rs ana="#concept_mus">dual</rs>” auch im Texte häufig angewandt.
 			</p>
-         </div>
-         <div rend="TEI" facs="#facs_4_TextRegion_1616238891758_376" type="paragraph-continued">
-            <p facs="#facs_4_TextRegion_1616238891758_376">
+            <p facs="#facs_4_TextRegion_1616238891758_376 #facs_5_TextRegion_1616239001398_502">
 				<lb facs="#facs_4_r1l19" n="N001"/>Endlich muss ich noch mein Bedauern darüber
 				<lb facs="#facs_4_r1l20" n="N002"/>aussprechen, dass ich zu spät die von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helmholtz</persName></hi>
 				<lb facs="#facs_4_r1l21" n="N003"/>in seiner „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><title ana="#text" ref="W0001">Lehre von den Tonempfindungen</title></hi>”
 				<lb facs="#facs_4_r1l22" n="N004"/>mitgetheilten Notizen über die Thätigkeit der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Tonic-</rs></hi>
 				<lb facs="#facs_4_r1l23" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Solfa-Associations</rs></hi> bemerkt habe, um die dort ci<pc>¬</pc>
 				<lb facs="#facs_4_r1l24" n="N006"/>tirten Werke: „<hi rend="italic:true; fontSize:0.0; kerning:0;"><title ana="#text" ref="W0200">of Vocal Music sounded on the Tonic</title><lb facs="#facs_4_r1l25" n="N007"/> <title ana="#text" ref="W0200">Solfa Method</title></hi> ”   , und „ ” 
-            </p>
-         </div>
-         <pb facs="#facs_5" n="V"/>
-         <div rend="TEI" facs="#facs_5_TextRegion_1616239001398_502" type="paragraph">
-            <p facs="#facs_5_TextRegion_1616239001398_502">
-				<lb facs="#facs_5_r1l2" n="N001"/><hi rend="italic:true; fontSize:0.0; kerning:0;">Tonic Solfa Agency. (<placeName>43 Paternoster Row</placeName>)</hi> berücksich<pc>¬</pc>
+            	<pb facs="#facs_5" n="V"/>
+            	<lb facs="#facs_5_r1l2" n="N001"/><hi rend="italic:true; fontSize:0.0; kerning:0;">Tonic Solfa Agency. (<placeName>43 Paternoster Row</placeName>)</hi> berücksich<pc>¬</pc>
 				<lb facs="#facs_5_r1l3" n="N002"/>tigen zu können. Auch habe ich dieselben bis jetzt
 				<lb facs="#facs_5_r1l4" n="N003"/>noch nicht zu Gesicht bekommen. Wenn indess die
 				<lb facs="#facs_5_r1l5" n="N004"/>Engländer den Weg, den ich für den einzig richtigen
@@ -3376,17 +3366,18 @@
 				<lb facs="#facs_5_r1l11" n="N010"/>Zeugniss mehr für die Wahrheit gewonnen werden.
 				<lb facs="#facs_5_r1l12" n="N011"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><placeName>Dorpat</placeName></hi>, im <date>Juli 1866</date>.
 				<lb facs="#facs_5_r1l13" n="N012"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><persName role="author" ref="P0018">A. v. Oettingen</persName></hi>.
-			</p>
+            </p>
          </div>
+   	</front>
+      <body>
          <pb facs="#facs_6" n=""/>
          <pb facs="#facs_7" n=""/>
          <pb facs="#facs_8" n=""/>
          <pb facs="#facs_9" n=""/>
-         <div rend="TEI" facs="#facs_9_TextRegion_1616239488591_1070" type="heading">
-            <p facs="#facs_9_TextRegion_1616239488591_1070">
+         <div type="chapter" n="1">
+			<head facs="#facs_9_TextRegion_1616239488591_1070">
 				<lb facs="#facs_9_r1l1" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true; letterSpaced:true;">Einleitung</hi> <hi rend="fontSize:0.0; kerning:0; bold:true;">.</hi>
-            </p>
-         </div>
+			</head>
          <div rend="TEI" facs="#facs_9_TextRegion_1616239508088_1075" type="paragraph">
             <p facs="#facs_9_TextRegion_1616239508088_1075">
 				<lb facs="#facs_9_r1l2" n="N001"/>Seit der Begründung des <rs ana="#concept_mus">Generalbasses</rs> durch <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0005">Rameau</persName></hi>,
@@ -3676,14 +3667,14 @@
 				<lb facs="#facs_15_line_1616240788552_2005" n="N012"/>lässlich sein. —
 			</p>
          </div>
+         </div>
          <pb facs="#facs_16" n=""/>
          <pb facs="#facs_17" n=""/>
-         <div rend="TEI" facs="#facs_17_r1" type="heading">
-            <p facs="#facs_17_r1">
+         <div type="chapter" n="1">
+            <head facs="#facs_17_r1">
 				<lb facs="#facs_17_r1l1" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Erster Abschnitt</hi>.
 				<lb facs="#facs_17_r1l3" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><rs ana="#concept_mus">Tonicität</rs> und <rs ana="#concept_mus">Phonicität</rs>.</hi>
-            </p>
-         </div>
+            </head>
          <pb facs="#facs_18" n=""/>
          <pb facs="#facs_19" n=""/>
          <div rend="TEI" facs="#facs_19_TextRegion_1616240980940_2103" type="paragraph">
@@ -3715,11 +3706,10 @@
 				<lb facs="#facs_19_r1l17" n="N002"/>ihre <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_phy">Stärke</rs></hi>, ihre <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_phy">Tonhöhe</rs></hi>, und durch ihre <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_phy">Klangfarbe</rs></hi>”.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_19_TextRegion_1616240969231_2094" type="heading">
-            <p facs="#facs_19_TextRegion_1616240969231_2094">
-				<lb facs="#facs_19_r1l18" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">I. Ueber die <rs ana="#concept_phy">Tonhöhe</rs>. <rs ana="#concept_mus">Buchstabentenschrift</rs>.</hi>
-            </p>
-         </div>
+         <div type="chapter" n="2">
+			<head facs="#facs_19_TextRegion_1616240969231_2094">
+				<lb facs="#facs_19_r1l18" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">1. Ueber die <rs ana="#concept_phy">Tonhöhe</rs>. <rs ana="#concept_mus">Buchstabentenschrift</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_19_TextRegion_1616240966774_2090" type="paragraph">
             <p facs="#facs_19_TextRegion_1616240966774_2090">
 				<lb facs="#facs_19_r1l19" n="N001"/>„Die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_phy">Tonhöhe</rs></hi> hängt nur ab von der <rs ana="#concept_phy">Schwingungs<pc>¬</pc>
@@ -4078,12 +4068,12 @@
 				<lb facs="#facs_27_r1l22" n="N006"/>wieder verlassen kann.
 			</p>
          </div>
-         <pb facs="#facs_28" n="20"/>
-         <div rend="TEI" facs="#facs_28_TextRegion_1616435998034_2858" type="heading">
-            <p facs="#facs_28_TextRegion_1616435998034_2858">
-				<lb facs="#facs_28_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">2. Begriff des <rs ana="#concept_mus">Klanges</rs>.</hi>
-            </p>
          </div>
+         <pb facs="#facs_28" n="20"/>
+         <div type="chapter" n="2">
+			<head facs="#facs_28_TextRegion_1616435998034_2858">
+				<lb facs="#facs_28_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">2. Begriff des <rs ana="#concept_mus">Klanges</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_28_TextRegion_1616435995489_2854" type="paragraph">
             <p facs="#facs_28_TextRegion_1616435995489_2854">
 				<lb facs="#facs_28_r1l3" n="N001"/>„Wenn man nach einander dieselbe <rs ana="#m_note">Note</rs> von einem
@@ -4417,11 +4407,11 @@
 				<lb facs="#facs_35_r1l12" n="N004"/>der <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs>.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_35_TextRegion_1616436965189_3653" type="heading">
-            <p facs="#facs_35_TextRegion_1616436965189_3653">
-				<lb facs="#facs_35_r1l13" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">3. <rs ana="#concept_mus">Tonicität</rs> und <rs ana="#concept_mus">Phonicität</rs>.</hi>
-            </p>
          </div>
+         <div type="chapter" n="2">
+			<head facs="#facs_35_TextRegion_1616436965189_3653">
+				<lb facs="#facs_35_r1l13" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">3. <rs ana="#concept_mus">Tonicität</rs> und <rs ana="#concept_mus">Phonicität</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_35_TextRegion_1616436959879_3649" type="paragraph">
             <p facs="#facs_35_TextRegion_1616436959879_3649">
 				<lb facs="#facs_35_r1l14" n="N001"/>Die im Vorhergehenden kurz zusammengefassten Resul<pc>¬</pc>
@@ -4797,11 +4787,11 @@
 				<lb facs="#facs_43_r1l21" n="N003"/>nes</rs>  1 <rs ana="#concept_mus">tonischer</rs> <rs ana="#m_note">Grundton</rs>, der <rs ana="#concept_phy">Generalzähler</rs> dagegen<lb facs="#facs_43_r1l22" n="N004"/>zeigt, der wievielste <rs ana="#concept_phy">harmonische Oberton</rs> des<lb facs="#facs_43_r1l23" n="N005"/> <rs ana="#m_note">Ausgangstones</rs> <rs ana="#concept_mus">phonischer</rs> <rs ana="#concept_phy">Oberton</rs> ist.</hi> ”
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_43_TextRegion_1616438123411_4631" type="heading">
-            <p facs="#facs_43_TextRegion_1616438123411_4631">
-				<lb facs="#facs_43_r1l24" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">4. Die <rs ana="#concept_mus"><rs ana="#concept_phy">consonanten</rs></rs> <rs ana="#m_chord">Dreiklänge</rs>.</hi>
-            </p>
          </div>
+         <div type="chapter" n="2">
+			<head facs="#facs_43_TextRegion_1616438123411_4631">
+				<lb facs="#facs_43_r1l24" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">4. Die <rs ana="#concept_mus"><rs ana="#concept_phy">consonanten</rs></rs> <rs ana="#m_chord">Dreiklänge</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_43_TextRegion_1616438119255_4627" type="paragraph">
             <p facs="#facs_43_TextRegion_1616438119255_4627">
 				<lb facs="#facs_43_r1l25" n="N001"/>Vor einer allgemeinen Untersuchung der <rs ana="#m_interval">Intervalle</rs> wol<pc>¬</pc>
@@ -5354,11 +5344,11 @@
 				<lb facs="#facs_55_r1l13" n="N003"/>tervalle</rs> kurz characterisiren.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_55_TextRegion_1616618169895_1551" type="heading">
-            <p facs="#facs_55_TextRegion_1616618169895_1551">
-				<lb facs="#facs_55_r1l14" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">5. <rs ana="#concept_mus">Tonicität</rs> und <rs ana="#concept_mus">Phonicität</rs> der <rs ana="#m_interval">Intervalle</rs>.</hi>
-            </p>
          </div>
+         <div type="chapter" n="2">
+			<head facs="#facs_55_TextRegion_1616618169895_1551">
+				<lb facs="#facs_55_r1l14" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">5. <rs ana="#concept_mus">Tonicität</rs> und <rs ana="#concept_mus">Phonicität</rs> der <rs ana="#m_interval">Intervalle</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_55_TextRegion_1616618168220_1547" type="paragraph-continued">
             <p facs="#facs_55_TextRegion_1616618168220_1547">
 				<lb facs="#facs_55_r1l15" n="N001"/>Dem von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helmholtz</persName></hi> entwickelten Prinzip von der <rs ana="#concept_mus">Ver<pc>¬</pc>
@@ -5854,21 +5844,21 @@
 				<lb facs="#facs_67_r1l11" n="N008"/>peut-être quelqu&apos;autre principe inconnu.....</hi>
             </p>
          </div>
+         </div>
+         </div>
          <pb facs="#facs_68" n=""/>
          <pb facs="#facs_69" n=""/>
-         <div rend="TEI" facs="#facs_69_r1" type="heading">
-            <p facs="#facs_69_r1">
+         <div type="chapter" n="1">
+            <head facs="#facs_69_r1">
 				<lb facs="#facs_69_r1l1" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Zweiter Abschnitt</hi>.
 				<lb facs="#facs_69_r1l3" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><rs ana="#m_tonality">Tonalität</rs> und <rs ana="#m_tonality">Phonalität</rs>.</hi>
-            </p>
-         </div>
+            </head>
          <pb facs="#facs_70" n=""/>
          <pb facs="#facs_71" n=""/>
-         <div rend="TEI" facs="#facs_71_TextRegion_1620849786871_1267" type="heading">
-            <p facs="#facs_71_TextRegion_1620849786871_1267">
+         <div type="chapter" n="2">
+			<head facs="#facs_71_TextRegion_1620849786871_1267">
 				<lb facs="#facs_71_r1l1" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">I. <rs ana="#m_tonality">Tonleiter</rs> der <rs ana="#concept_mus">reinen Systeme</rs>.</hi>
-            </p>
-         </div>
+			</head>
          <div rend="TEI" facs="#facs_71_TextRegion_1620849786871_1266" type="paragraph">
             <p facs="#facs_71_TextRegion_1620849786871_1266">
 				<lb facs="#facs_71_r1l2" n="N001"/>Zu einem <rs ana="#concept_mus">Systeme</rs> gehört eine Gruppe <rs ana="#concept_mus">nahverwandter</rs>
@@ -6262,11 +6252,11 @@
 				<lb facs="#facs_80_r1l38" n="N003"/>oder <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs> als <rs ana="#concept_mus">Phonica</rs> sich <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">vorstellt</hi>.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_80_TextRegion_1621067744852_927" type="heading">
-            <p facs="#facs_80_TextRegion_1621067744852_927">
-				<lb facs="#facs_80_r1l39" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">2. <rs ana="#concept_mus">Cadenzen</rs> der <rs ana="#concept_mus">reinen Tonsysteme</rs>.</hi>
-            </p>
          </div>
+         <div type="chapter" n="2">
+			<head facs="#facs_80_TextRegion_1621067744852_927">
+				<lb facs="#facs_80_r1l39" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">2. <rs ana="#concept_mus">Cadenzen</rs> der <rs ana="#concept_mus">reinen Tonsysteme</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_80_TextRegion_1621067742396_923" type="paragraph-continued">
             <p facs="#facs_80_TextRegion_1621067742396_923">
 				<lb facs="#facs_80_r1l40" n="N001"/>Die drei <rs ana="#m_chord">Hauptaccorde</rs>
@@ -6667,11 +6657,11 @@
 				<lb facs="#facs_90_r1l10" n="N009"/>deren <rs ana="#m_tonality">Tonarten</rs> untersuchen.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_90_TextRegion_1621069567979_2222" type="heading">
-            <p facs="#facs_90_TextRegion_1621069567979_2222">
-				<lb facs="#facs_90_r1l11" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">3. Historische Bemerkungen über das <rs ana="#m_tonality">phonische Geschlecht</rs>.</hi>
-            </p>
          </div>
+         <div type="chapter" n="2">
+			<head facs="#facs_90_TextRegion_1621069567979_2222">
+				<lb facs="#facs_90_r1l11" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">3. Historische Bemerkungen über das <rs ana="#m_tonality">phonische Geschlecht</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_90_TextRegion_1621069564928_2218" type="paragraph">
             <p facs="#facs_90_TextRegion_1621069564928_2218">
 				<lb facs="#facs_90_r1l12" n="N001"/>Nicht blos im <date>Alterthum</date>, sondern auch bis in die <date>neue<pc>¬</pc></date>
@@ -6953,12 +6943,11 @@
 				<lb facs="#facs_97_r1l16" n="N006"/>auf festbegründeten <rs ana="#concept_phy">wissenschaftlichen Prinzipien</rs> aufgebaut ist.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_97_TextRegion_1621072012444_3146" type="heading">
-            <p facs="#facs_97_TextRegion_1621072012444_3146">
-				<lb facs="#facs_97_r1l17" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">4. Die <rs ana="#concept_mus"><rs ana="#concept_phy">consonanten</rs></rs> <rs ana="#concept_mus">Klangbestandtheile</rs> der <rs ana="#concept_mus">Tonsysteme</rs> in<lb facs="#facs_97_r1l18" n="N002"/>ihrer gegenseitigen Beziehung.</hi>
-				
-            </p>
          </div>
+         <div type="chapter" n="2">
+			<head facs="#facs_97_TextRegion_1621072012444_3146">
+				<lb facs="#facs_97_r1l17" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">4. Die <rs ana="#concept_mus"><rs ana="#concept_phy">consonanten</rs></rs> <rs ana="#concept_mus">Klangbestandtheile</rs> der <rs ana="#concept_mus">Tonsysteme</rs> in<lb facs="#facs_97_r1l18" n="N002"/>ihrer gegenseitigen Beziehung.</hi>
+			</head>
          <div rend="TEI" facs="#facs_97_TextRegion_1621072010810_3142" type="paragraph">
             <p facs="#facs_97_TextRegion_1621072010810_3142">
 				<lb facs="#facs_97_r1l19" n="N001"/>Die <rs ana="#concept_mus"><rs ana="#concept_phy">consonanten</rs></rs> <rs ana="#concept_mus">Klänge</rs> der <rs ana="#concept_mus">reinen</rs> <rs ana="#m_tonality">Geschlechter</rs> waren
@@ -7172,11 +7161,11 @@
 				<lb facs="#facs_103_r1l12" n="N011"/>begegnet man sehr häufig.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_103_TextRegion_1621073177437_3807" type="heading">
-            <p facs="#facs_103_TextRegion_1621073177437_3807">
-				<lb facs="#facs_103_r1l13" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">5. <rs ana="#concept_mus">Harmonisirung</rs> des <rs ana="#concept_mus">phonischen</rs> <rs ana="#m_tonality">Geschlechts</rs>.</hi>
-            </p>
          </div>
+         <div type="chapter" n="2">
+			<head facs="#facs_103_TextRegion_1621073177437_3807">
+				<lb facs="#facs_103_r1l13" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">5. <rs ana="#concept_mus">Harmonisirung</rs> des <rs ana="#concept_mus">phonischen</rs> <rs ana="#m_tonality">Geschlechts</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_103_TextRegion_1621073175690_3803" type="paragraph-continued">
             <p facs="#facs_103_TextRegion_1621073175690_3803">
 				<lb facs="#facs_103_r1l14" n="N001"/>Die fünf <rs ana="#concept_mus">Klänge</rs> unserer beiden <rs ana="#concept_mus">Systeme</rs> sind, als ein<pc>¬</pc>
@@ -7789,12 +7778,12 @@
 				<lb facs="#facs_122_r1l30" n="N005"/>len meint schalten zu dürfen.
 			</p>
          </div>
-         <pb facs="#facs_123" n="115"/>
-         <div rend="TEI" facs="#facs_123_TextRegion_1621184905223_371" type="heading">
-            <p facs="#facs_123_TextRegion_1621184905223_371">
-				<lb facs="#facs_123_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">6. Ueber <rs ana="#concept_mus">Intonation</rs>.</hi>
-            </p>
          </div>
+         <pb facs="#facs_123" n="115"/>
+         <div type="chapter" n="2">
+			<head facs="#facs_123_TextRegion_1621184905223_371">
+				<lb facs="#facs_123_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">6. Ueber <rs ana="#concept_mus">Intonation</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_123_TextRegion_1621184941201_382" type="paragraph">
             <p facs="#facs_123_TextRegion_1621184941201_382">
 				<lb facs="#facs_123_r1l3" n="N001"/>Die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Intonation</rs></hi> der auf- und absteigenden <rs ana="#m_note">Leittöne</rs>
@@ -8035,21 +8024,21 @@
 			</p>
          </div>
          <div rend="TEI" facs="#facs_129_TextRegion_1621186012676_919" type="missing"/>
+         </div>
+         </div>
          <pb facs="#facs_130" n=""/>
          <pb facs="#facs_131" n=""/>
-         <div rend="TEI" facs="#facs_131_TextRegion_1621186087777_957" type="heading">
-            <p facs="#facs_131_TextRegion_1621186087777_957">
+         <div type="chapter" n="1">
+            <head facs="#facs_131_TextRegion_1621186087777_957">
 				<lb facs="#facs_131_r1l1" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Dritter Abschnitt</hi>.
 				<lb facs="#facs_131_r1l3" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><rs ana="#concept_mus">Modulation</rs> und <rs ana="#concept_mus">Klangfolge</rs>.</hi>
-            </p>
-         </div>
+            </head>
          <pb facs="#facs_132" n=""/>
          <pb facs="#facs_133" n=""/>
-         <div rend="TEI" facs="#facs_133_TextRegion_1621186162983_1004" type="heading">
-            <p facs="#facs_133_TextRegion_1621186162983_1004">
+         <div type="chapter" n="2">
+			<head facs="#facs_133_TextRegion_1621186162983_1004">
 				<lb facs="#facs_133_r1l1" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">I. <rs ana="#concept_mus">Verwandtschaft</rs> der <rs ana="#concept_mus">Tonsysteme</rs>. <rs ana="#concept_mus">Modulationsordnung</rs>.</hi>
-            </p>
-         </div>
+			</head>
          <div rend="TEI" facs="#facs_133_TextRegion_1621186162983_1003" type="paragraph">
             <p facs="#facs_133_TextRegion_1621186162983_1003">
 				<lb facs="#facs_133_r1l2" n="N001"/>Als Moment der nahen <rs ana="#concept_mus">Verwandtschaft</rs> zweier <rs ana="#concept_mus">Tonsy<pc>¬</pc>
@@ -8195,44 +8184,82 @@
 				<lb facs="#facs_135_line_1621186549703_1235" n="N002"/>in <rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs>:
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_135_TextRegion_1621186549680_1231" type="list">
-            <p facs="#facs_135_TextRegion_1621186549680_1231">
-				<lb facs="#facs_135_r1l13" n="N001"/><rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>: 1) <rs ana="#concept_mus">Tonica</rs> 2) <rs ana="#concept_mus">Unterdominante</rs> 3) <rs ana="#concept_mus">Oberterzkl.</rs>
-				<lb facs="#facs_135_r1l14" n="N002"/>4) <rs ana="#concept_mus">Leitklang</rs>
-				<lb facs="#facs_135_r1l15" n="N003"/><rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>: 1) <rs ana="#concept_mus">Tonica</rs> 2) <rs ana="#concept_mus">Dominante</rs> 3) <rs ana="#concept_mus">Oberterzkl.</rs>
-				<lb facs="#facs_135_r1l16" n="N004"/>4) <rs ana="#concept_mus">Leitklang</rs>
-				<lb facs="#facs_135_line_1621186687322_1312" n="N005"/><rs ana="#m_tonality">phon <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs>: 1) <rs ana="#concept_mus">Phonica</rs> 2) <rs ana="#concept_mus">Regnante</rs> 3) <rs ana="#concept_mus">Leitklang</rs>
-				<lb facs="#facs_135_line_1621186696024_1323" n="N006"/><rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}</rs>: 1) <rs ana="#concept_mus">Phonica</rs> 2) <rs ana="#concept_mus">Oberregn.</rs> 3) <rs ana="#concept_mus">Unter-Terzklang</rs>
-            </p>
-         </div>
+      	<list facs="#facs_135_TextRegion_1621186549680_1231">
+      		<item>
+      			<lb facs="#facs_135_r1l13" n="N001"/><rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>:
+      			<list>
+      				<item>1) <rs ana="#concept_mus">Tonica</rs></item>
+					  <item>2) <rs ana="#concept_mus">Unterdominante</rs></item>
+					  <item>3) <rs ana="#concept_mus">Oberterzkl.</rs></item>
+      				<item><lb facs="#facs_135_r1l14" n="N002"/>4) <rs ana="#concept_mus">Leitklang</rs></item>
+      			</list>
+      		</item>
+      		<item>
+      			<lb facs="#facs_135_r1l15" n="N003"/><rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>:
+      			<list>
+      				<item>1) <rs ana="#concept_mus">Tonica</rs></item>
+      				<item>2) <rs ana="#concept_mus">Dominante</rs></item>
+      				<item>3) <rs ana="#concept_mus">Oberterzkl.</rs></item>
+      				<item><lb facs="#facs_135_r1l16" n="N004"/>4) <rs ana="#concept_mus">Leitklang</rs></item>
+      			</list>
+      		</item>
+      		<item>
+      			<lb facs="#facs_135_line_1621186687322_1312" n="N005"/><rs ana="#m_tonality">phon <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs>:
+      			<list>
+      				<item>1) <rs ana="#concept_mus">Phonica</rs></item>
+      				<item>2) <rs ana="#concept_mus">Regnante</rs></item>
+      				<item>3) <rs ana="#concept_mus">Leitklang</rs></item>
+      			</list>
+      		</item>
+      		<item>
+      			<lb facs="#facs_135_line_1621186696024_1323" n="N006"/><rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}</rs>:
+      			<list>
+      				<item>1) <rs ana="#concept_mus">Phonica</rs></item>
+      				<item>2) <rs ana="#concept_mus">Oberregn.</rs></item>
+      				<item>3) <rs ana="#concept_mus">Unter-Terzklang</rs></item>
+      			</list>
+      		</item>
+      	</list>
          <div rend="TEI" facs="#facs_135_TextRegion_1621186546667_1227" type="paragraph">
             <p facs="#facs_135_TextRegion_1621186546667_1227">
 				<lb facs="#facs_135_r1l22" n="N001"/>Es fehlen mithin, im Vergleich mit den Bestandtheilen
 				<lb facs="#facs_135_line_1621186543986_1225" n="N002"/>von <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>}</rs>, in
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_135_TextRegion_1621186543960_1221" type="list">
-            <p facs="#facs_135_TextRegion_1621186543960_1221">
-				<lb facs="#facs_135_r1l24" n="N001"/><rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs>: der <rs ana="#concept_mus">Regnantklang</rs>
-				<lb facs="#facs_135_r1l25" n="N002"/><rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}</rs>: der <rs ana="#concept_mus">Oberregnantklang</rs>
-				<lb facs="#facs_135_r1l26" n="N003"/><rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi></rs>: <rs ana="#concept_mus">Unterdominant-</rs> und <rs ana="#concept_mus">Oberterzkl.</rs>
-				<lb facs="#facs_135_r1l27" n="N004"/><rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs>: <rs ana="#concept_mus">Dominant-</rs> und <rs ana="#concept_mus">Leitklang</rs>.
-			</p>
-         </div>
+      	<list facs="#facs_135_TextRegion_1621186543960_1221">
+      		<item>
+      			<lb facs="#facs_135_r1l24" n="N001"/><rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs>: der <rs ana="#concept_mus">Regnantklang</rs>
+      		</item>
+      		<item>
+      			<lb facs="#facs_135_r1l25" n="N002"/><rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}</rs>: der <rs ana="#concept_mus">Oberregnantklang</rs>
+      		</item>
+      		<item>
+      			<lb facs="#facs_135_r1l26" n="N003"/><rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi></rs>: <rs ana="#concept_mus">Unterdominant-</rs> und <rs ana="#concept_mus">Oberterzkl.</rs>
+      		</item>
+      		<item>
+      			<lb facs="#facs_135_r1l27" n="N004"/><rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs>: <rs ana="#concept_mus">Dominant-</rs> und <rs ana="#concept_mus">Leitklang</rs>.
+      		</item>
+      	</list>
          <div rend="TEI" facs="#facs_135_TextRegion_1621186539395_1217" type="paragraph">
             <p facs="#facs_135_TextRegion_1621186539395_1217">
 				<lb facs="#facs_135_r1l28" n="N001"/>Ebenso fehlen im Vergleich mit den Bestandtheilen von
 				<lb facs="#facs_135_line_1621186712459_1349" n="N002"/><rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs> in
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_135_TextRegion_1621186534124_1213" type="list">
-            <p facs="#facs_135_TextRegion_1621186534124_1213">
-				<lb facs="#facs_135_r1l31" n="N001"/><rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>: der <rs ana="#concept_mus">Dominantklang</rs>
-				<lb facs="#facs_135_r1l32" n="N002"/><rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi></rs>: der <rs ana="#concept_mus">Unterdominantklang</rs>
-				<lb facs="#facs_135_r1l33" n="N003"/><rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}</rs>: <rs ana="#concept_mus">Oberregnant-</rs> und <rs ana="#concept_mus">Unterterzklang</rs>
-				<lb facs="#facs_135_r1l34" n="N004"/><rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi></rs>: <rs ana="#concept_mus">Regnant-</rs> und <rs ana="#concept_mus">Leitklang</rs>
-            </p>
-         </div>
+      	<list facs="#facs_135_TextRegion_1621186534124_1213">
+      		<item>
+      			<lb facs="#facs_135_r1l31" n="N001"/><rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>: der <rs ana="#concept_mus">Dominantklang</rs>
+      		</item>
+      		<item>
+      			<lb facs="#facs_135_r1l32" n="N002"/><rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi></rs>: der <rs ana="#concept_mus">Unterdominantklang</rs>
+      		</item>
+      		<item>
+      			<lb facs="#facs_135_r1l33" n="N003"/><rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}</rs>: <rs ana="#concept_mus">Oberregnant-</rs> und <rs ana="#concept_mus">Unterterzklang</rs>
+      		</item>
+      		<item>
+      			<lb facs="#facs_135_r1l34" n="N004"/><rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi></rs>: <rs ana="#concept_mus">Regnant-</rs> und <rs ana="#concept_mus">Leitklang</rs>
+      		</item>
+      	</list>
          <div rend="TEI" facs="#facs_135_TextRegion_1621186531083_1209" type="paragraph-continued">
             <p facs="#facs_135_TextRegion_1621186531083_1209">
 				<lb facs="#facs_135_r1l35" n="N001"/>Früher schon sahen wir, dass, in Uebereinstimmung
@@ -8659,12 +8686,22 @@
 				<lb facs="#facs_145_r1l4" n="N003"/><rs ana="#concept_mus">Mollnamen</rs> die entsprechenden <rs ana="#concept_mus">phonischen</rs> Gebilde beisetze
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_145_TextRegion_1621857175729_634" type="list">
-            <p facs="#facs_145_TextRegion_1621857175729_634">
-				<lb facs="#facs_145_r1l5" n="N001"/><rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi>-dur</rs>, <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">G</hi>-dur</rs>, <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">E</hi>-moll</rs>, <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">A</hi>-moll</rs>, <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">D</hi>-moll</rs>, <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">F</hi>-dur</rs>, <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi>-dur</rs>
-				<lb facs="#facs_145_r1l6" n="N002"/>also: <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>, <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs>, <rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}</rs>, <rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs>, <rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}</rs>, <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi></rs>, <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>
-            </p>
-         </div>
+      	<list facs="#facs_145_TextRegion_1621857175729_634">
+      		<item><lb facs="#facs_145_r1l5" n="N001"/><rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi>-dur</rs>,</item>
+      		<item><rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">G</hi>-dur</rs>,</item>
+      		<item><rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">E</hi>-moll</rs>,</item>
+      		<item><rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">A</hi>-moll</rs>,</item>
+      		<item><rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">D</hi>-moll</rs>,</item>
+      		<item><rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">F</hi>-dur</rs>,</item>
+      		<item><rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi>-dur</rs></item>
+      		<item><lb facs="#facs_145_r1l6" n="N002"/>also: <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>,</item>
+      		<item><rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs>,</item>
+      		<item><rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}</rs>,</item>
+      		<item><rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs>,</item>
+      		<item><rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}</rs>,</item>
+      		<item><rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi></rs>,</item>
+      		<item><rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs></item>
+      	</list>
          <div rend="TEI" facs="#facs_145_TextRegion_1621857175729_633" type="paragraph">
             <p facs="#facs_145_TextRegion_1621857175729_633">
 				<lb facs="#facs_145_line_1621857175759_636" n="N001"/>Offenbar hat <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0078">Marx</persName></hi> hier die <rs ana="#concept_mus">Hauptklänge</rs> der <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>-dur-Tonart</rs> im
@@ -8675,12 +8712,15 @@
 				<lb facs="#facs_145_r1l13" n="N006"/>folgende Reihe:
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_145_TextRegion_1621247128613_330" type="list">
-            <p facs="#facs_145_TextRegion_1621247128613_330">
-				<lb facs="#facs_145_r1l14" n="N001"/><rs ana="#concept_mus">Oberdominante</rs>, <rs ana="#m_tonality">Paralleltonart</rs>, <rs ana="#concept_mus">Unterregnante</rs>, <rs ana="#concept_mus">Unter<pc>¬</pc>
-				<lb facs="#facs_145_r1l15" n="N002"/>regnante</rs>, <rs ana="#m_tonality">Paralleltonart</rs>, <rs ana="#concept_mus">Oberdominante</rs>.
-			</p>
-         </div>
+      	<list facs="#facs_145_TextRegion_1621247128613_330">
+      		<item><lb facs="#facs_145_r1l14" n="N001"/><rs ana="#concept_mus">Oberdominante</rs>,</item>
+      		<item><rs ana="#m_tonality">Paralleltonart</rs>,</item>
+      		<item><rs ana="#concept_mus">Unterregnante</rs>,</item>
+      		<item><rs ana="#concept_mus">Unter<pc>¬</pc>
+				<lb facs="#facs_145_r1l15" n="N002"/>regnante</rs>,</item>
+      		<item><rs ana="#m_tonality">Paralleltonart</rs>,</item>
+      		<item><rs ana="#concept_mus">Oberdominante</rs>.</item>
+      	</list>
          <div rend="TEI" facs="#facs_145_TextRegion_1621247124069_326" type="paragraph">
             <p facs="#facs_145_TextRegion_1621247124069_326">
 				<lb facs="#facs_145_r1l16" n="N001"/>Mithin nimmt hier die <rs ana="#concept_mus">Modulation</rs> nach der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">oberen</hi>
@@ -8699,11 +8739,11 @@
 				<lb facs="#facs_145_r1l27" n="N012"/>Vorkommen dieser <rs ana="#concept_mus">Modulation</rs>.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_145_TextRegion_1621247113899_322" type="heading">
-            <p facs="#facs_145_TextRegion_1621247113899_322">
-				<lb facs="#facs_145_r1l28" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">2. <rs ana="#concept_mus">Accordfolge</rs>.</hi>
-            </p>
          </div>
+         <div type="chapter" n="2">
+			<head facs="#facs_145_TextRegion_1621247113899_322">
+				<lb facs="#facs_145_r1l28" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">2. <rs ana="#concept_mus">Accordfolge</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_145_TextRegion_1621247111821_318" type="paragraph-continued">
             <p facs="#facs_145_TextRegion_1621247111821_318">
 				<lb facs="#facs_145_r1l29" n="N001"/>Die <rs ana="#concept_mus">Accordfolge</rs> <rs ana="#concept_mus"><rs ana="#concept_phy">consonanter</rs></rs> Gebilde innerhalb eines
@@ -9025,12 +9065,12 @@
 				<lb facs="#facs_152_r1l52" n="N005"/>Bindeglied <rs ana="#concept_mus">vermittelten</rs> <rs ana="#concept_mus">Accordfolgen</rs> zu untersuchen.
 			</p>
          </div>
-         <pb facs="#facs_153" n="145"/>
-         <div rend="TEI" facs="#facs_153_TextRegion_1621249649364_1371" type="heading">
-            <p facs="#facs_153_TextRegion_1621249649364_1371">
-				<lb facs="#facs_153_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">3. Einfach <rs ana="#concept_mus">vermittelte</rs> <rs ana="#concept_mus">Klangfolge</rs>.</hi>
-            </p>
          </div>
+         <pb facs="#facs_153" n="145"/>
+         <div type="chapter" n="2">
+			<head facs="#facs_153_TextRegion_1621249649364_1371">
+				<lb facs="#facs_153_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">3. Einfach <rs ana="#concept_mus">vermittelte</rs> <rs ana="#concept_mus">Klangfolge</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_153_TextRegion_1621249647419_1367" type="paragraph-continued">
             <p facs="#facs_153_TextRegion_1621249647419_1367">
 				<lb facs="#facs_153_r1l3" n="N001"/>Der <rs ana="#concept_mus">tonisch-phonische</rs> <rs ana="#concept_mus">Wechsel</rs> ist zwar in anderer Ge<pc>¬</pc>
@@ -9214,12 +9254,14 @@
 				<lb facs="#facs_157_line_1621253906194_1762" n="N013"/><rs ana="#m_chord">Accorde</rs> als <rs ana="#concept_mus">Vertreter</rs> der <rs ana="#concept_mus">Tonsysteme</rs>, so ist in
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_157_TextRegion_1621253906179_1759" type="list">
-            <p facs="#facs_157_TextRegion_1621253906179_1759">
-				<lb facs="#facs_157_line_1621254118388_1976" n="N001"/><rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>} — <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs> : <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">c</rs></hi> <rs ana="#concept_mus">Tonica</rs>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">g</rs></hi> <rs ana="#concept_mus">[Phonica]</rs>
-				<lb facs="#facs_157_r1l43" n="N002"/>in <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{ — <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs> : <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">c</rs></hi> <rs ana="#concept_mus">[Tonica]</rs>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">g</rs></hi> <rs ana="#concept_mus">Phonica</rs>.
-			</p>
-         </div>
+      	<list facs="#facs_157_TextRegion_1621253906179_1759">
+      		<item>
+      			<lb facs="#facs_157_line_1621254118388_1976" n="N001"/><rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>} — <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs> : <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">c</rs></hi> <rs ana="#concept_mus">Tonica</rs>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">g</rs></hi> <rs ana="#concept_mus">[Phonica]</rs>
+      		</item>
+      		<item>
+      			<lb facs="#facs_157_r1l43" n="N002"/>in <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{ — <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs> : <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">c</rs></hi> <rs ana="#concept_mus">[Tonica]</rs>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">g</rs></hi> <rs ana="#concept_mus">Phonica</rs>.
+      		</item>
+      	</list>
          <pb facs="#facs_158" n="150"/>
          <div rend="TEI" facs="#facs_158_TextRegion_1621254176445_2050" type="paragraph-continued">
             <p facs="#facs_158_TextRegion_1621254176445_2050">
@@ -9277,12 +9319,14 @@
 				<lb facs="#facs_159_r1l11" n="N003"/>Anschauungen gelten
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_159_TextRegion_1621254315601_2152" type="list">
-            <p facs="#facs_159_TextRegion_1621254315601_2152">
-				<lb facs="#facs_159_line_1621254491973_2229" n="N001"/><rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>} — <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs> und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{ — <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs> für <rs ana="#concept_mus"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>-Klänge</rs>
-				<lb facs="#facs_159_line_1621254498351_2239" n="N002"/><rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">des</hi>{ — <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi></rs> und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>} — <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi></rs> für <rs ana="#concept_mus"><hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>-Klänge</rs>.
-			</p>
-         </div>
+      	<list facs="#facs_159_TextRegion_1621254315601_2152">
+      		<item>
+      			<lb facs="#facs_159_line_1621254491973_2229" n="N001"/><rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>} — <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs> und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{ — <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs> für <rs ana="#concept_mus"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>-Klänge</rs>
+      		</item>
+      		<item>
+      			<lb facs="#facs_159_line_1621254498351_2239" n="N002"/><rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">des</hi>{ — <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi></rs> und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>} — <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi></rs> für <rs ana="#concept_mus"><hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>-Klänge</rs>.
+      		</item>
+      	</list>
          <div rend="TEI" facs="#facs_159_TextRegion_1621254311690_2148" type="paragraph-continued">
             <p facs="#facs_159_TextRegion_1621254311690_2148">
 				<lb facs="#facs_159_r1l18" n="N001"/>Soll das Verständliche der <rs ana="#concept_mus">Klangfolge</rs>
@@ -9398,13 +9442,17 @@
 				<lb facs="#facs_162_r1l19" n="N005"/>gelangen wir von
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_162_TextRegion_1621255429926_2436" type="list">
-            <p facs="#facs_162_TextRegion_1621255429926_2436">
-				<lb facs="#facs_162_r1l20" n="N001"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">c</rs></hi> nach <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">ton.</rs> und <rs ana="#concept_mus">phon.</rs></hi>: <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">des</hi>}</rs>, <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_chord">f</rs></hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_chord">g</rs></hi>, <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">as</hi>{</rs>, <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}</rs>,
-				<lb facs="#facs_162_r1l21" n="N002"/>ferner von <rs ana="#m_chord">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs> nach <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs>; <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs>
-				<lb facs="#facs_162_r1l22" n="N003"/>und von <rs ana="#m_chord">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs> nach <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs>; <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">ges</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs>
-            </p>
-         </div>
+      	<list facs="#facs_162_TextRegion_1621255429926_2436">
+      		<item>
+      			<lb facs="#facs_162_r1l20" n="N001"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">c</rs></hi> nach <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">ton.</rs> und <rs ana="#concept_mus">phon.</rs></hi>: <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">des</hi>}</rs>, <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_chord">f</rs></hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_chord">g</rs></hi>, <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">as</hi>{</rs>, <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}</rs>,
+      		</item>
+      		<item>
+      			<lb facs="#facs_162_r1l21" n="N002"/>ferner von <rs ana="#m_chord">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs> nach <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs>; <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs>
+      		</item>
+      		<item>
+      			<lb facs="#facs_162_r1l22" n="N003"/>und von <rs ana="#m_chord">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs> nach <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs>; <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">ges</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs>
+      		</item>
+      	</list>
          <div rend="TEI" facs="#facs_162_TextRegion_1621255424394_2432" type="paragraph-continued">
             <p facs="#facs_162_TextRegion_1621255424394_2432">
 				<lb facs="#facs_162_r1l23" n="N001"/>Nehmen wir nur <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">noch einen</hi> <rs ana="#concept_mus">antinomen</rs> Gegensatz zu Hülfe,
@@ -9418,24 +9466,28 @@
 				<lb facs="#facs_162_r1l27" n="N003"/><rs ana="#m_chord">Endaccorde</rs> geschieht, auch noch
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_162_TextRegion_1621255389544_2424" type="list">
-            <p facs="#facs_162_TextRegion_1621255389544_2424">
-				<lb facs="#facs_162_r1l28" n="N001"/>von <rs ana="#m_chord">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>: <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs>
-				<lb facs="#facs_162_r1l29" n="N002"/>und von <rs ana="#m_chord">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>: <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">ges</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs>.
-			</p>
-         </div>
+      	<list facs="#facs_162_TextRegion_1621255389544_2424">
+      		<item>
+      			<lb facs="#facs_162_r1l28" n="N001"/>von <rs ana="#m_chord">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>: <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs>
+      		</item>
+      		<item>
+      			<lb facs="#facs_162_r1l29" n="N002"/>und von <rs ana="#m_chord">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>: <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">ges</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs>.
+      		</item>
+      	</list>
          <div rend="TEI" facs="#facs_162_TextRegion_1621255384914_2420" type="paragraph-continued">
             <p facs="#facs_162_TextRegion_1621255384914_2420">
 				<lb facs="#facs_162_r1l30" n="N001"/>Noch eine Umwandlung mehr ist erforderlich für die
 				<lb facs="#facs_162_r1l31" n="N002"/>folgenden beiden letzten <rs ana="#concept_mus">Uebergänge</rs>:
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_162_TextRegion_1621255380586_2416" type="list">
-            <p facs="#facs_162_TextRegion_1621255380586_2416">
-				<lb facs="#facs_162_r1l32" n="N001"/>von <rs ana="#m_chord">phon <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs> nach <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs>
-				<lb facs="#facs_162_r1l33" n="N002"/>und von <rs ana="#m_chord">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs> nach <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">ges</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs>.
-			</p>
-         </div>
+      	<list facs="#facs_162_TextRegion_1621255380586_2416">
+      		<item>
+      			<lb facs="#facs_162_r1l32" n="N001"/>von <rs ana="#m_chord">phon <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs> nach <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs>
+      		</item>
+      		<item>
+      			<lb facs="#facs_162_r1l33" n="N002"/>und von <rs ana="#m_chord">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs> nach <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">ges</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs>.
+      		</item>
+      	</list>
          <pb facs="#facs_163" n="155"/>
          <div rend="TEI" facs="#facs_163_TextRegion_1621255715714_2572" type="paragraph">
             <p facs="#facs_163_TextRegion_1621255715714_2572">
@@ -9661,22 +9713,22 @@
 				<lb facs="#facs_167_r1l28" n="N027"/>keit der an sich künstlerisch gültigen <rs ana="#concept_mus">Form</rs> tragen.”
 			</p>
          </div>
+         </div>
+         </div>
          <pb facs="#facs_168" n=""/>
          <pb facs="#facs_169" n=""/>
-         <div rend="TEI" facs="#facs_169_TextRegion_1621256654209_3013" type="heading">
-            <p facs="#facs_169_TextRegion_1621256654209_3013">
+         <div type="chapter" n="1">
+            <head facs="#facs_169_TextRegion_1621256654209_3013">
 				<lb facs="#facs_169_r1l1" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Vierter Abschnitt</hi>.
 				<lb facs="#facs_169_r1l2" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;">Der <rs ana="#concept_mus">Verwandtschaftskreis</rs> der <rs ana="#m_tonality">reinen</rs></hi>
 				<lb facs="#facs_169_r1l3" n="N003"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><rs ana="#m_tonality">Tongeschlechter</rs>.</hi>
-            </p>
-         </div>
+            </head>
          <pb facs="#facs_170" n=""/>
          <pb facs="#facs_171" n=""/>
-         <div rend="TEI" facs="#facs_171_TextRegion_1621256731129_3072" type="heading">
-            <p facs="#facs_171_TextRegion_1621256731129_3072">
+         <div type="chapter" n="2">
+			<head facs="#facs_171_TextRegion_1621256731129_3072">
 				<lb facs="#facs_171_r1l1" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">I. <rs ana="#concept_mus">Parallelität</rs> und <rs ana="#concept_mus">Reciprocität</rs>.</hi>
-            </p>
-         </div>
+			</head>
          <div rend="TEI" facs="#facs_171_TextRegion_1621256731129_3071" type="paragraph">
             <p facs="#facs_171_TextRegion_1621256731129_3071">
 				<lb facs="#facs_171_r1l2" n="N001"/>Wir haben im vorigen Abschnitte die einem <rs ana="#m_note">Tone</rs> <rs ana="#concept_mus">nächst<pc>¬</pc>
@@ -9936,20 +9988,38 @@
 				<lb facs="#facs_178_r1l19" n="N004"/>wurden, so z. B. Tab A sub 4
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_178_TextRegion_1621257360490_3565" type="list">
-            <p facs="#facs_178_TextRegion_1621257360490_3565">
-				<lb facs="#facs_178_r1l20" n="N001"/>$$GRAPHIC = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> <rs ana="#m_chord">Hauptaccord</rs> in <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>
-				<lb facs="#facs_178_r1l22" n="N002"/>$$GRAPHIC = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> <rs ana="#m_chord">Nebenaccord</rs> in <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">as</hi>{</rs>
-				<lb facs="#facs_178_r1l23" n="N003"/>$$GRAPHIC = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> <rs ana="#m_chord">Nebenaccord</rs> in <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>
-				<lb facs="#facs_178_line_1621257612884_3654" n="N004"/>$$GRAPHIC = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> <rs ana="#m_chord">Hauptaccord</rs> in <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}</rs>
-				<lb facs="#facs_178_line_1621257618612_3663" n="N005"/>dagegen auf Tab. C sub 4:
-				<lb facs="#facs_178_line_1621257625681_3674" n="N006"/>$$GRAPHIC = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> <rs ana="#m_chord">Nebenaccord</rs> in <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>
-				<lb facs="#facs_178_r1l34" n="N007"/>$$GRAPHIC = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> <rs ana="#m_chord">Nebenaccord</rs> in <rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">gis</hi>}}</rs>
-				<lb facs="#facs_178_r1l35" n="N008"/>und sub 2;
-				<lb facs="#facs_178_line_1621257640135_3690" n="N009"/>$$GRAPHIC = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> <rs ana="#m_chord">Hauptaccord</rs> in <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>
-				<lb facs="#facs_178_r1l40" n="N010"/>$$GRAPHIC = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> <rs ana="#m_chord">Hauptaccord</rs> in <rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi></rs>
-            </p>
-         </div>
+      	<list facs="#facs_178_TextRegion_1621257360490_3565">
+      		<item>
+      			<lb facs="#facs_178_r1l20" n="N001"/>$$GRAPHIC = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> <rs ana="#m_chord">Hauptaccord</rs> in <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>
+      		</item>
+      		<item>
+      			<lb facs="#facs_178_r1l22" n="N002"/>$$GRAPHIC = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> <rs ana="#m_chord">Nebenaccord</rs> in <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">as</hi>{</rs>
+      		</item>
+      		<item>
+      			<lb facs="#facs_178_r1l23" n="N003"/>$$GRAPHIC = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> <rs ana="#m_chord">Nebenaccord</rs> in <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>
+      		</item>
+      		<item>
+      			<lb facs="#facs_178_line_1621257612884_3654" n="N004"/>$$GRAPHIC = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> <rs ana="#m_chord">Hauptaccord</rs> in <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}</rs>
+      		</item>
+      		<item>
+      			<lb facs="#facs_178_line_1621257618612_3663" n="N005"/>dagegen auf Tab. C sub 4:
+      		</item>
+      		<item>
+      			<lb facs="#facs_178_line_1621257625681_3674" n="N006"/>$$GRAPHIC = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> <rs ana="#m_chord">Nebenaccord</rs> in <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>
+      		</item>
+      		<item>
+      			<lb facs="#facs_178_r1l34" n="N007"/>$$GRAPHIC = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> <rs ana="#m_chord">Nebenaccord</rs> in <rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">gis</hi>}}</rs>
+      		</item>
+      		<item>
+      			<lb facs="#facs_178_r1l35" n="N008"/>und sub 2;
+      		</item>
+      		<item>
+      			<lb facs="#facs_178_line_1621257640135_3690" n="N009"/>$$GRAPHIC = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> <rs ana="#m_chord">Hauptaccord</rs> in <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>
+      		</item>
+      		<item>
+      			<lb facs="#facs_178_r1l40" n="N010"/>$$GRAPHIC = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> <rs ana="#m_chord">Hauptaccord</rs> in <rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi></rs>
+      		</item>
+      	</list>
          <pb facs="#facs_179" n="169"/>
          <div rend="TEI" facs="#facs_179_TextRegion_1621257684933_3755" type="paragraph">
             <p facs="#facs_179_TextRegion_1621257684933_3755">
@@ -9957,11 +10027,11 @@
 				<lb facs="#facs_179_line_1621257765806_3811" n="N002"/>identischer <rs ana="#concept_mus">Klänge</rs> bei <rs ana="#concept_mus">paralleler</rs> <rs ana="#concept_mus">Verwandtschaft</rs>. —
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_179_TextRegion_1621257683233_3751" type="heading">
-            <p facs="#facs_179_TextRegion_1621257683233_3751">
-				<lb facs="#facs_179_r1l5" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">2. Bereich der <rs ana="#m_note">Töne</rs>.</hi>
-            </p>
          </div>
+         <div type="chapter" n="2">
+			<head facs="#facs_179_TextRegion_1621257683233_3751">
+				<lb facs="#facs_179_r1l5" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">2. Bereich der <rs ana="#m_note">Töne</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_179_TextRegion_1621257681657_3747" type="paragraph">
             <p facs="#facs_179_TextRegion_1621257681657_3747">
 				<lb facs="#facs_179_r1l6" n="N001"/>Betrachten wir den gesammten Bereich der <rs ana="#m_note">Töne</rs>, die
@@ -10060,12 +10130,11 @@
 				<lb facs="#facs_181_r1l14" n="N004"/>belle Seite 15.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_181_TextRegion_1621257997315_4017" type="heading">
-            <p facs="#facs_181_TextRegion_1621257997315_4017">
-				<lb facs="#facs_181_r1l15" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">3. Characteristik der <rs ana="#concept_mus">Verwandtschaft</rs> der <rs ana="#concept_mus">homonomen</rs> und<lb facs="#facs_181_r1l16" n="N002"/> <rs ana="#concept_mus">antinomen</rs> <rs ana="#m_tonality">Tongeschlechter</rs>.</hi>
-				
-            </p>
          </div>
+         <div type="chapter" n="2">
+			<head facs="#facs_181_TextRegion_1621257997315_4017">
+				<lb facs="#facs_181_r1l15" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">3. Characteristik der <rs ana="#concept_mus">Verwandtschaft</rs> der <rs ana="#concept_mus">homonomen</rs> und<lb facs="#facs_181_r1l16" n="N002"/> <rs ana="#concept_mus">antinomen</rs> <rs ana="#m_tonality">Tongeschlechter</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_181_TextRegion_1621257995307_4013" type="paragraph">
             <p facs="#facs_181_TextRegion_1621257995307_4013">
 				<lb facs="#facs_181_line_1621258123808_4093" n="N001"/>Fragen wir jetzt weiter, welche <rs ana="#m_tonality">Tonarten</rs> direkt <rs ana="#concept_mus">ver<pc>¬</pc>
@@ -10099,16 +10168,14 @@
 				<lb facs="#facs_182_r1l51" n="N005"/>gebrauchen wir die Zeichen || und X.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_182_TextRegion_1621439715211_5949" type="heading">
-            <p facs="#facs_182_TextRegion_1621439715211_5949">
+         <div type="chapter" n="3">
+			<head facs="#facs_182_TextRegion_1621439715211_5949">
 				<lb facs="#facs_182_r1l52" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">A. <rs ana="#concept_mus">Homonome</rs> <rs ana="#concept_mus">Systeme</rs>, Tab. A u. B.</hi>
-            </p>
-         </div>
-         <div rend="TEI" facs="#facs_182_TextRegion_1621439715211_5948" type="heading">
-            <p facs="#facs_182_TextRegion_1621439715211_5948">
+			</head>
+         <div type="chapter" n="4">
+			<head facs="#facs_182_TextRegion_1621439715211_5948">
 				<lb facs="#facs_182_r1l53" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">I. <rs ana="#concept_mus">Parallele</rs> <rs ana="#concept_mus">Verwandtschaft</rs>.</hi>
-            </p>
-         </div>
+			</head>
          <figure facs="#facs_182_Graphic_1621439703274_5941">
                <graphic url="graphic/facs_182_Graphic_1621439703274_5941.png"/>
             </figure>
@@ -10116,11 +10183,11 @@
          <figure facs="#facs_183_Graphic_1621439760740_5969">
                <graphic url="graphic/facs_183_Graphic_1621439760740_5969.png"/>
             </figure>
-         <div rend="TEI" facs="#facs_183_TextRegion_1621439772846_5977" type="heading">
-            <p facs="#facs_183_TextRegion_1621439772846_5977">
-				<lb facs="#facs_183_r1l21" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">II. <rs ana="#concept_mus">Reciproke</rs> <rs ana="#concept_mus">Verwandtschaft</rs></hi> (X).
-			</p>
          </div>
+         <div type="chapter" n="4">
+			<head facs="#facs_183_TextRegion_1621439772846_5977">
+				<lb facs="#facs_183_r1l21" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">II. <rs ana="#concept_mus">Reciproke</rs> <rs ana="#concept_mus">Verwandtschaft</rs></hi> (X).
+			</head>
          <figure facs="#facs_183_Graphic_1621439796192_5985">
                <graphic url="graphic/facs_183_Graphic_1621439796192_5985.png"/>
             </figure>
@@ -10129,11 +10196,11 @@
                <graphic url="graphic/facs_184_Graphic_1621439858271_6022.png"/>
             </figure>
          <pb facs="#facs_185" n="175"/>
-         <div rend="TEI" facs="#facs_185_TextRegion_1621439580810_5859" type="heading">
-            <p facs="#facs_185_TextRegion_1621439580810_5859">
-				<lb facs="#facs_185_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><rs ana="#concept_mus">Parallele</rs> <rs ana="#concept_mus">Verwandtschaft</rs>.</hi>
-            </p>
          </div>
+         <div type="chapter" n="4">
+			<head facs="#facs_185_TextRegion_1621439580810_5859">
+				<lb facs="#facs_185_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><rs ana="#concept_mus">Parallele</rs> <rs ana="#concept_mus">Verwandtschaft</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_185_TextRegion_1621439579360_5855" type="paragraph">
             <p facs="#facs_185_TextRegion_1621439579360_5855">
 				<lb facs="#facs_185_line_1621439643403_5892" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_chord">Hauptaccorde</rs></hi> des <rs ana="#concept_mus">Ausgangssystemes</rs> || den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_chord">Hauptac<pc>¬</pc>
@@ -10183,26 +10250,26 @@
 				<lb facs="#facs_187_r1l2" n="N001"/>Untersuchen wir in ähnlicher Weise die
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_187_TextRegion_1621439352437_5727" type="heading">
-            <p facs="#facs_187_TextRegion_1621439352437_5727">
+         </div>
+         </div>
+         <div type="chapter" n="3">
+            <head facs="#facs_187_TextRegion_1621439352437_5727">
 				<lb facs="#facs_187_r1l3" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">B. <rs ana="#concept_mus">Verwandtschaft</rs> <rs ana="#concept_mus">antinomer</rs> <rs ana="#concept_mus">Systeme</rs>:</hi>
 				<lb facs="#facs_187_r1l4" n="N002"/>(Tab. C und D).
-			</p>
-         </div>
-         <div rend="TEI" facs="#facs_187_TextRegion_1621439351098_5723" type="heading">
-            <p facs="#facs_187_TextRegion_1621439351098_5723">
+			</head>
+         <div type="chapter" n="4">
+			<head facs="#facs_187_TextRegion_1621439351098_5723">
 				<lb facs="#facs_187_r1l5" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">I. <rs ana="#concept_mus">Reciproke</rs> <rs ana="#concept_mus">Verwandtschaft</rs>.</hi>
-            </p>
-         </div>
+			</head>
          <figure facs="#facs_187_Graphic_1621439390427_5743">
                <graphic url="graphic/facs_187_Graphic_1621439390427_5743.png"/>
             </figure>
-         <pb facs="#facs_188" n="178"/>
-         <div rend="TEI" facs="#facs_188_TextRegion_1621439277934_5698" type="heading">
-            <p facs="#facs_188_TextRegion_1621439277934_5698">
-				<lb facs="#facs_188_r1l39" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">II. <rs ana="#concept_mus">Parallele</rs> <rs ana="#concept_mus">Verwandtschaft</rs>.</hi>
-            </p>
          </div>
+         <pb facs="#facs_188" n="178"/>
+         <div type="chapter" n="4">
+			<head facs="#facs_188_TextRegion_1621439277934_5698">
+				<lb facs="#facs_188_r1l39" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">II. <rs ana="#concept_mus">Parallele</rs> <rs ana="#concept_mus">Verwandtschaft</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_188_TextRegion_1621439277934_5697" type="paragraph">
             <p facs="#facs_188_TextRegion_1621439277934_5697">
 				<lb facs="#facs_188_r1l40" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Hauptklänge</rs></hi> der <rs ana="#concept_mus">Ausgangssysteme</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">identisch</hi> mit
@@ -10302,15 +10369,21 @@
 				<lb facs="#facs_192_r1l12" n="N001"/>Vier <rs ana="#concept_mus">Centra</rs> sind hervorgehoben und zwar umgiebt
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_192_TextRegion_1621425551237_363" type="list">
-            <p facs="#facs_192_TextRegion_1621425551237_363">
-				<lb facs="#facs_192_r1l13" n="N001"/>I. den <rs ana="#m_note">Ton</rs> <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">tt</hi></rs> die <rs ana="#concept_mus">Verwandtschaft</rs> aller <rs ana="#concept_mus">tonischen</rs> <rs ana="#m_tonality">Ge<pc>¬</pc>
+      	<list>
+      		<item>
+      			<lb facs="#facs_192_r1l13" n="N001"/>I. den <rs ana="#m_note">Ton</rs> <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">tt</hi></rs> die <rs ana="#concept_mus">Verwandtschaft</rs> aller <rs ana="#concept_mus">tonischen</rs> <rs ana="#m_tonality">Ge<pc>¬</pc>
 				<lb facs="#facs_192_r1l14" n="N002"/>schlechter</rs> mit <rs ana="#m_chord">tonisch <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi></rs>
-				<lb facs="#facs_192_r1l15" n="N003"/>II. „ „ <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">pp</hi></rs> die aller <rs ana="#concept_mus">phonischen</rs> mit <rs ana="#m_chord">phonisch <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi></rs>
-				<lb facs="#facs_192_r1l16" n="N004"/>III. „ „ <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">tp</hi></rs> aller <rs ana="#concept_mus">phonischen</rs> mit <rs ana="#m_chord">tonisch <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>{</rs>
-				<lb facs="#facs_192_line_1621425614847_415" n="N005"/>IV. „ „ <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">pt</hi></rs> aller <rs ana="#concept_mus">tonischen</rs> mit <rs ana="#m_chord">phonisch <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>}</rs>
-            </p>
-         </div>
+      		</item>
+      		<item>
+      			<lb facs="#facs_192_r1l15" n="N003"/>II. „ „ <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">pp</hi></rs> die aller <rs ana="#concept_mus">phonischen</rs> mit <rs ana="#m_chord">phonisch <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi></rs>
+      		</item>
+      		<item>
+      			<lb facs="#facs_192_r1l16" n="N004"/>III. „ „ <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">tp</hi></rs> aller <rs ana="#concept_mus">phonischen</rs> mit <rs ana="#m_chord">tonisch <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>{</rs>
+      		</item>
+      		<item>
+      			<lb facs="#facs_192_line_1621425614847_415" n="N005"/>IV. „ „ <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">pt</hi></rs> aller <rs ana="#concept_mus">tonischen</rs> mit <rs ana="#m_chord">phonisch <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>}</rs>
+      		</item>
+      	</list>
          <div rend="TEI" facs="#facs_192_TextRegion_1621425547393_357" type="paragraph">
             <p facs="#facs_192_TextRegion_1621425547393_357">
 				<lb facs="#facs_192_r1l19" n="N001"/>Die Diagonale von links oben nach rechts unten theilt
@@ -10323,12 +10396,14 @@
          <figure facs="#facs_193_Graphic_1621425710325_462">
                <graphic url="graphic/facs_193_Graphic_1621425710325_462.png"/>
             </figure>
-         <pb facs="#facs_194" n="184"/>
-         <div rend="TEI" facs="#facs_194_TextRegion_1621425753417_496" type="heading">
-            <p facs="#facs_194_TextRegion_1621425753417_496">
-				<lb facs="#facs_194_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">4. <rs ana="#concept_mus">Verwandtschaftsordnung</rs>.</hi>
-            </p>
          </div>
+         </div>
+         </div>
+         <pb facs="#facs_194" n="184"/>
+         <div type="chapter" n="2">
+			<head facs="#facs_194_TextRegion_1621425753417_496">
+				<lb facs="#facs_194_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">4. <rs ana="#concept_mus">Verwandtschaftsordnung</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_194_TextRegion_1621425751938_492" type="paragraph">
             <p facs="#facs_194_TextRegion_1621425751938_492">
 				<lb facs="#facs_194_r1l3" n="N001"/>Fassen wir jetzt zum Schluss die Bedeutung und den
@@ -10373,15 +10448,23 @@
 			</p>
          </div>
          <pb facs="#facs_195" n="185"/>
-         <div rend="TEI" facs="#facs_195_TextRegion_1621425878114_623" type="list">
-            <p facs="#facs_195_TextRegion_1621425878114_623">
-				<lb facs="#facs_195_line_1621426006305_671" n="N001"/>1) <rs ana="#concept_mus">Tonica</rs> oder <rs ana="#concept_mus">Phonica</rs>.
-				<lb facs="#facs_195_line_1621426011344_678" n="N002"/>2) <rs ana="#concept_mus">Dominante</rs> „ <rs ana="#concept_mus">Regnante</rs>.
-				<lb facs="#facs_195_line_1621426016496_685" n="N003"/>3) <rs ana="#concept_mus">Unterdominante</rs> „ <rs ana="#concept_mus">Oberregnante</rs>.
-				<lb facs="#facs_195_line_1621426026170_702" n="N004"/>4) <rs ana="#concept_mus">Leitklang</rs> „ <rs ana="#concept_mus">Leitklang</rs>.
-				<lb facs="#facs_195_line_1621426033406_714" n="N005"/>5) <rs ana="#concept_mus">Terzklang</rs> „ <rs ana="#concept_mus">Unterterzklang</rs>.
-			</p>
-         </div>
+      	<list facs="#facs_195_TextRegion_1621425878114_623">
+      		<item>
+      			<lb facs="#facs_195_line_1621426006305_671" n="N001"/>1) <rs ana="#concept_mus">Tonica</rs> oder <rs ana="#concept_mus">Phonica</rs>.
+      		</item>
+      		<item>
+      			<lb facs="#facs_195_line_1621426011344_678" n="N002"/>2) <rs ana="#concept_mus">Dominante</rs> „ <rs ana="#concept_mus">Regnante</rs>.
+      		</item>
+      		<item>
+      			<lb facs="#facs_195_line_1621426016496_685" n="N003"/>3) <rs ana="#concept_mus">Unterdominante</rs> „ <rs ana="#concept_mus">Oberregnante</rs>.
+      		</item>
+      		<item>
+      			<lb facs="#facs_195_line_1621426026170_702" n="N004"/>4) <rs ana="#concept_mus">Leitklang</rs> „ <rs ana="#concept_mus">Leitklang</rs>.
+      		</item>
+      		<item>
+      			<lb facs="#facs_195_line_1621426033406_714" n="N005"/>5) <rs ana="#concept_mus">Terzklang</rs> „ <rs ana="#concept_mus">Unterterzklang</rs>.
+      		</item>
+      	</list>
          <div rend="TEI" facs="#facs_195_TextRegion_1621425874651_619" type="paragraph">
             <p facs="#facs_195_TextRegion_1621425874651_619">
 				<lb facs="#facs_195_r1l18" n="N001"/>Wir bezeichnen innerhalb der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Verwandtschaft</rs> der<lb facs="#facs_195_r1l19" n="N002"/> <rs ana="#concept_mus">Parallelität</rs></hi> als nächste diejenige, bei welcher  des <rs ana="#concept_mus">Ausgangssystems</rs>  sind mit  des <rs ana="#concept_mus">combinirten</rs>, (und zugleich 
@@ -10391,12 +10474,14 @@
 				<lb facs="#facs_195_r1l25" n="N008"/>abliegenden <rs ana="#m_note">Töne</rs>:
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_195_TextRegion_1621425865013_615" type="list">
-            <p facs="#facs_195_TextRegion_1621425865013_615">
-				<lb facs="#facs_195_r1l26" n="N001"/><rs ana="#m_tonality"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">ton</hi>. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs> mit <rs ana="#m_tonality"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">ton</hi>. <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi></rs>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_tonality">f</rs></hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_tonality">g</rs></hi> und <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_tonality">d</rs></hi> (Tab. A. 2. 1. I. II.)
-				<lb facs="#facs_195_r1l27" n="N002"/><rs ana="#m_tonality"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">phon</hi>. <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs> mit <rs ana="#m_tonality"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">phon</hi>. <hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}</rs>, <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}</rs>, <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}</rs> und <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>}</rs> (Tab. B. 2. 1. I. II.)
-			</p>
-         </div>
+      	<list facs="#facs_195_TextRegion_1621425865013_615">
+      		<item>
+      			<lb facs="#facs_195_r1l26" n="N001"/><rs ana="#m_tonality"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">ton</hi>. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs> mit <rs ana="#m_tonality"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">ton</hi>. <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi></rs>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_tonality">f</rs></hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_tonality">g</rs></hi> und <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_tonality">d</rs></hi> (Tab. A. 2. 1. I. II.)
+      		</item>
+      		<item>
+      			<lb facs="#facs_195_r1l27" n="N002"/><rs ana="#m_tonality"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">phon</hi>. <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs> mit <rs ana="#m_tonality"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">phon</hi>. <hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}</rs>, <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}</rs>, <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}</rs> und <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>}</rs> (Tab. B. 2. 1. I. II.)
+      		</item>
+      	</list>
          <div rend="TEI" facs="#facs_195_TextRegion_1621425860963_611" type="paragraph">
             <p facs="#facs_195_TextRegion_1621425860963_611">
 				<lb facs="#facs_195_r1l28" n="N001"/>Demnächst folgt diejenige <rs ana="#concept_mus">Verwandtschaft</rs>, wo <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Haupt<pc>¬</pc>
@@ -10409,12 +10494,14 @@
 				<lb facs="#facs_195_line_1621425934108_636" n="N001"/>Nur <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">antinome</rs></hi> <rs ana="#m_tonality">Tonarten</rs>:
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_195_TextRegion_1621425934080_632" type="list">
-            <p facs="#facs_195_TextRegion_1621425934080_632">
-				<lb facs="#facs_195_r1l32" n="N001"/><rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs> mit <rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}</rs>, <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}</rs>, <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs>, <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}</rs> (Tab. C. VI, V IV III)
-				<lb facs="#facs_195_r1l33" n="N002"/><rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs> mit <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi></rs>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_tonality">f</rs></hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_tonality">c</rs></hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_tonality">g</rs></hi> (Tab. D. VI, V, IV, III).
-			</p>
-         </div>
+      	<list facs="#facs_195_TextRegion_1621425934080_632">
+      		<item>
+      			<lb facs="#facs_195_r1l32" n="N001"/><rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs> mit <rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}</rs>, <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}</rs>, <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs>, <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}</rs> (Tab. C. VI, V IV III)
+      		</item>
+      		<item>
+      			<lb facs="#facs_195_r1l33" n="N002"/><rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs> mit <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi></rs>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_tonality">f</rs></hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_tonality">c</rs></hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_tonality">g</rs></hi> (Tab. D. VI, V, IV, III).
+      		</item>
+      	</list>
          <div rend="TEI" facs="#facs_195_TextRegion_1621425847254_603" type="paragraph">
             <p facs="#facs_195_TextRegion_1621425847254_603">
 				<lb facs="#facs_195_r1l34" n="N001"/>Mit Rücksicht auf die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Anzahl</hi> identischer <rs ana="#concept_mus">Klänge</rs>,
@@ -10707,20 +10794,20 @@
 				<lb facs="#facs_202_r1l5" n="N004"/>det sind, zu denen wir jetzt übergehen wollen.
 			</p>
          </div>
+         </div>
+         </div>
          <pb facs="#facs_203" n=""/>
-         <div rend="TEI" facs="#facs_203_TextRegion_1621263543365_4598" type="heading">
-            <p facs="#facs_203_TextRegion_1621263543365_4598">
+         <div type="chapter" n="1">
+            <head facs="#facs_203_TextRegion_1621263543365_4598">
 				<lb facs="#facs_203_r1l1" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Fünfter Abschnitt</hi>.
 				<lb facs="#facs_203_r1l2" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;">Die <rs ana="#m_tonality">gemischten Tongeschlechter</rs>.</hi>
-            </p>
-         </div>
+            </head>
          <pb facs="#facs_204" n=""/>
          <pb facs="#facs_205" n=""/>
-         <div rend="TEI" facs="#facs_205_TextRegion_1621263594788_4623" type="heading">
-            <p facs="#facs_205_TextRegion_1621263594788_4623">
+         <div type="chapter" n="2">
+			<head facs="#facs_205_TextRegion_1621263594788_4623">
 				<lb facs="#facs_205_r1l1" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">I. Begriff des <rs ana="#concept_mus">Tonsystems</rs>. Begränzung des <rs ana="#concept_mus">Tonmaterials</rs>.</hi>
-            </p>
-         </div>
+			</head>
          <div rend="TEI" facs="#facs_205_TextRegion_1621263594788_4622" type="paragraph-continued">
             <p facs="#facs_205_TextRegion_1621263594788_4622">
 				<lb facs="#facs_205_r1l2" n="N001"/>Von dem Prinzip der <rs ana="#m_tonality">Tonalität</rs> und <rs ana="#m_tonality">Phonalität</rs> aus
@@ -10900,12 +10987,12 @@
 				<lb facs="#facs_208_r1l36" n="N004"/>eines <rs ana="#concept_mus">Tonsystems</rs> nicht entsprechend, ausschliessen werden.
 			</p>
          </div>
-         <pb facs="#facs_209" n="199"/>
-         <div rend="TEI" facs="#facs_209_TextRegion_1621263974897_4952" type="heading">
-            <p facs="#facs_209_TextRegion_1621263974897_4952">
-				<lb facs="#facs_209_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">2. Combinatorische Untersuchung aller <rs ana="#concept_mus">Tonsysteme</rs>.</hi>
-            </p>
          </div>
+         <pb facs="#facs_209" n="199"/>
+         <div type="chapter" n="2">
+			<head facs="#facs_209_TextRegion_1621263974897_4952">
+				<lb facs="#facs_209_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">2. Combinatorische Untersuchung aller <rs ana="#concept_mus">Tonsysteme</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_209_TextRegion_1621263971947_4948" type="paragraph">
             <p facs="#facs_209_TextRegion_1621263971947_4948">
 				<lb facs="#facs_209_r1l3" n="N001"/>Um der vollendeten Symmetrie willen, in Schrift und
@@ -11004,12 +11091,14 @@
 				<lb facs="#facs_212_r1l6" n="N005"/><rs ana="#concept_mus">Cadenzen</rs>
             </p>
          </div>
-         <div rend="TEI" facs="#facs_212_TextRegion_1621264366577_5221" type="list">
-            <p facs="#facs_212_TextRegion_1621264366577_5221">
-				<lb facs="#facs_212_r1l11" n="N001"/>zum <rs ana="#concept_mus">transp.</rs> II, 4. $$MUSIC
-				<lb facs="#facs_212_r1l26" n="N002"/>zum <rs ana="#concept_mus">transp.</rs> IV, 1. $$MUSIC
-			</p>
-         </div>
+      	<list facs="#facs_212_TextRegion_1621264366577_5221">
+      		<item>
+      			<lb facs="#facs_212_r1l11" n="N001"/>zum <rs ana="#concept_mus">transp.</rs> II, 4. $$MUSIC
+      		</item>
+      		<item>
+      			<lb facs="#facs_212_r1l26" n="N002"/>zum <rs ana="#concept_mus">transp.</rs> IV, 1. $$MUSIC
+      		</item>
+      	</list>
          <div rend="TEI" facs="#facs_212_TextRegion_1621264361183_5217" type="paragraph">
             <p facs="#facs_212_TextRegion_1621264361183_5217">
 				<lb facs="#facs_212_r1l30" n="N001"/>Die erste (zur aufsteigenden <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi>-moll-Leiter</rs> gehörig)
@@ -11113,7 +11202,7 @@
 				<lb facs="#facs_214_r1l13" n="N007"/>und IV. 4., erkennen werden.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_214_TextRegion_1621265053721_5499" type="heading">
+         <div rend="TEI" facs="#facs_214_TextRegion_1621265053721_5499" type="paragraph">
             <p facs="#facs_214_TextRegion_1621265053721_5499">
 				<lb facs="#facs_214_r1l14" n="N001"/>In der dritten <rs ana="#concept_mus">Classe</rs> ist jetzt nur noch das <rs ana="#concept_mus">System</rs>
 				<lb facs="#facs_214_r1l15" n="N002"/>III. 4, stehen geblieben. So wie III. 3, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">ohne</hi> <rs ana="#m_note">Leitton</rs> war,
@@ -11177,14 +11266,13 @@
 				<lb facs="#facs_215_r1l47" n="N004"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">verloren</hi> geht.
 			</p>
          </div>
+         </div>
          <pb facs="#facs_216" n="206"/>
-         <div rend="TEI" facs="#facs_216_TextRegion_1621265242838_5679" type="heading">
-            <p facs="#facs_216_TextRegion_1621265242838_5679">
+         <div type="chapter" n="2">
+            <head facs="#facs_216_TextRegion_1621265242838_5679">
 				<lb facs="#facs_216_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">3. Die <rs ana="#concept_mus">Klänge</rs> und <rs ana="#concept_mus">Cadenzen</rs> der sechs haltbaren <rs ana="#m_tonality">Ton<pc>¬</pc>
 				<lb facs="#facs_216_r1l3" n="N002"/>geschlechter</rs> .</hi>
-				
-            </p>
-         </div>
+            </head>
          <div rend="TEI" facs="#facs_216_TextRegion_1621265263142_5694" type="paragraph">
             <p facs="#facs_216_TextRegion_1621265263142_5694">
 				<lb facs="#facs_216_r1l4" n="N001"/>Wir stellen die sechs noch übrigen <rs ana="#concept_mus">Systeme</rs> zusammen:
@@ -11311,11 +11399,11 @@
 				<lb facs="#facs_219_r1l6" n="N005"/>Aufnahme der <rs ana="#m_note">Töne</rs> <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">cis</hi>}</rs> und <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{</rs> unbegründet erscheint.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_219_TextRegion_1621265775708_5983" type="heading">
-            <p facs="#facs_219_TextRegion_1621265775708_5983">
-				<lb facs="#facs_219_r1l7" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">4. Vergleich mit den <rs ana="#m_tonality">griechischen Tonarten</rs>.</hi>
-            </p>
          </div>
+         <div type="chapter" n="2">
+			<head facs="#facs_219_TextRegion_1621265775708_5983">
+				<lb facs="#facs_219_r1l7" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">4. Vergleich mit den <rs ana="#m_tonality">griechischen Tonarten</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_219_TextRegion_1621265773549_5979" type="paragraph">
             <p facs="#facs_219_TextRegion_1621265773549_5979">
 				<lb facs="#facs_219_r1l8" n="N001"/>Von den alten <rs ana="#concept_mus">griechischen Systemen</rs> (oder <rs ana="#m_tonality">Kirchenton<pc>¬</pc>
@@ -11484,11 +11572,11 @@
 				<lb facs="#facs_223_r1l13" n="N006"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">selbstständiger Gegensatz</hi> des <rs ana="#m_tonality">Mollgeschlechts</rs>.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_223_TextRegion_1621266211696_6370" type="heading">
-            <p facs="#facs_223_TextRegion_1621266211696_6370">
-				<lb facs="#facs_223_r1l14" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">5. Die <rs ana="#concept_mus">Hauptklänge</rs> der <rs ana="#concept_mus">gemischten Systeme</rs>.</hi>
-            </p>
          </div>
+         <div type="chapter" n="2">
+			<head facs="#facs_223_TextRegion_1621266211696_6370">
+				<lb facs="#facs_223_r1l14" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">5. Die <rs ana="#concept_mus">Hauptklänge</rs> der <rs ana="#concept_mus">gemischten Systeme</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_223_TextRegion_1621266210303_6366" type="paragraph">
             <p facs="#facs_223_TextRegion_1621266210303_6366">
 				<lb facs="#facs_223_r1l15" n="N001"/>Fassen wir jetzt für die sechs <rs ana="#m_tonality">Geschlechter</rs> die Bedeu<pc>¬</pc>
@@ -11497,18 +11585,26 @@
 				<lb facs="#facs_223_r1l19" n="N004"/>und <rs ana="#m_tonality">Phonalität</rs> untersuchen. Wir hatten für das <rs ana="#m_tonality">Geschlecht</rs>
             </p>
          </div>
-         <div rend="TEI" facs="#facs_223_TextRegion_1621266208562_6362" type="list">
-            <p facs="#facs_223_TextRegion_1621266208562_6362">
-				<lb facs="#facs_223_r1l20" n="N001"/>1) <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_tonality">tonisch</rs></hi> (<rs ana="#m_tonality">Dur</rs>) <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">g</rs></hi> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Unterdominante</rs></hi>
-				<lb facs="#facs_223_r1l21" n="N002"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">d</rs></hi> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Tonica</rs></hi> und <rs ana="#concept_mus">[Regnante]</rs>
-				<lb facs="#facs_223_r1l22" n="N003"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">a</rs></hi> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Dominante</rs></hi> und <rs ana="#concept_mus">[Phonica]</rs>
-				<lb facs="#facs_223_r1l23" n="N004"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">e</rs></hi> <rs ana="#concept_mus">[Oberregnante]</rs>
-				<lb facs="#facs_223_line_1621266291690_6443" n="N005"/>6) <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_tonality">phonisch</rs></hi> (<rs ana="#m_tonality">Moll</rs>) <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">c</rs></hi> <rs ana="#concept_mus">[Unterdominante]</rs>
-				<lb facs="#facs_223_line_1621266299120_6460" n="N006"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">g</rs></hi> <rs ana="#concept_mus">[Tonica]</rs> und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Regnante</rs></hi>
-				<lb facs="#facs_223_r1l29" n="N007"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">d</rs></hi> <rs ana="#concept_mus">[Oberdominante]</rs> und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Phonica</rs></hi>
-				<lb facs="#facs_223_r1l30" n="N008"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">a</rs></hi> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Oberregnante</rs></hi>.
-			</p>
-         </div>
+      	<list facs="#facs_223_TextRegion_1621266208562_6362">
+      		<item>
+      			<lb facs="#facs_223_r1l20" n="N001"/>1) <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_tonality">tonisch</rs></hi> (<rs ana="#m_tonality">Dur</rs>)
+      			<list>
+      				<item><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">g</rs></hi> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Unterdominante</rs></hi></item>
+      				<item><lb facs="#facs_223_r1l21" n="N002"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">d</rs></hi> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Tonica</rs></hi> und <rs ana="#concept_mus">[Regnante]</rs></item>
+      				<item><lb facs="#facs_223_r1l22" n="N003"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">a</rs></hi> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Dominante</rs></hi> und <rs ana="#concept_mus">[Phonica]</rs></item>
+      				<item><lb facs="#facs_223_r1l23" n="N004"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">e</rs></hi> <rs ana="#concept_mus">[Oberregnante]</rs></item>
+      			</list>
+      		</item>
+      		<item>
+      			<lb facs="#facs_223_line_1621266291690_6443" n="N005"/>6) <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_tonality">phonisch</rs></hi> (<rs ana="#m_tonality">Moll</rs>)
+      			<list>
+      				<item><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">c</rs></hi> <rs ana="#concept_mus">[Unterdominante]</rs></item>
+      				<item><lb facs="#facs_223_line_1621266299120_6460" n="N006"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">g</rs></hi> <rs ana="#concept_mus">[Tonica]</rs> und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Regnante</rs></hi></item>
+      				<item><lb facs="#facs_223_r1l29" n="N007"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">d</rs></hi> <rs ana="#concept_mus">[Oberdominante]</rs> und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Phonica</rs></hi></item>
+      				<item><lb facs="#facs_223_r1l30" n="N008"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">a</rs></hi> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Oberregnante</rs></hi>.</item>
+      			</list>
+      		</item>
+      	</list>
          <div rend="TEI" facs="#facs_223_TextRegion_1621266253519_6389" type="paragraph">
             <p facs="#facs_223_TextRegion_1621266253519_6389">
 				<lb facs="#facs_223_line_1621266308111_6477" n="N001"/>Anders gestaltet sich die characteristische Bedeutung
@@ -11540,35 +11636,29 @@
 				<lb facs="#facs_224_line_1621266424904_6549" n="N006"/>Bedeutung
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_224_TextRegion_1621266563473_6597" type="list">
-            <p facs="#facs_224_TextRegion_1621266563473_6597">
-				<lb facs="#facs_224_r1l12" n="N001"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">g</rs></hi> <rs ana="#concept_mus">[Tonica]</rs> und
-				<lb facs="#facs_224_line_1621266563484_6600" n="N002"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">d</rs></hi> <rs ana="#concept_mus">Dominant</rs>e.
-			</p>
-         </div>
+      	<list facs="#facs_224_TextRegion_1621266563473_6597">
+      		<item><lb facs="#facs_224_r1l12" n="N001"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">g</rs></hi> <rs ana="#concept_mus">[Tonica]</rs> und</item>
+      		<item><lb facs="#facs_224_line_1621266563484_6600" n="N002"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">d</rs></hi> <rs ana="#concept_mus">Dominant</rs>e.</item>
+      	</list>
          <div rend="TEI" facs="#facs_224_TextRegion_1621266563473_6596" type="paragraph-continued">
             <p facs="#facs_224_TextRegion_1621266563473_6596">
 				<lb facs="#facs_224_line_1621266656553_6664" n="N001"/>Ein Vorzug gebührt aber der Auffassung
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_224_TextRegion_1621266561513_6592" type="list">
-            <p facs="#facs_224_TextRegion_1621266561513_6592">
-				<lb facs="#facs_224_r1l16" n="N001"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">g</rs></hi> <rs ana="#concept_mus">Regnante</rs>
-				<lb facs="#facs_224_r1l17" n="N002"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">d</rs></hi> <rs ana="#concept_mus">Phonica</rs>
-            </p>
-         </div>
+      	<list facs="#facs_224_TextRegion_1621266561513_6592">
+      		<item><lb facs="#facs_224_r1l16" n="N001"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">g</rs></hi> <rs ana="#concept_mus">Regnante</rs></item>
+      		<item><lb facs="#facs_224_r1l17" n="N002"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">d</rs></hi> <rs ana="#concept_mus">Phonica</rs></item>
+      	</list>
          <div rend="TEI" facs="#facs_224_TextRegion_1621266558291_6588" type="paragraph-continued">
             <p facs="#facs_224_TextRegion_1621266558291_6588">
 				<lb facs="#facs_224_line_1621266665783_6680" n="N001"/>Der auf <rs ana="#concept_mus">antinomem</rs> <rs ana="#concept_mus">Wechsel</rs> basirende <rs ana="#concept_mus">Schluss</rs> ist nicht so
 				<lb facs="#facs_224_r1l20" n="N002"/>sehr dargestellt durch
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_224_TextRegion_1621266555875_6584" type="list">
-            <p facs="#facs_224_TextRegion_1621266555875_6584">
-				<lb facs="#facs_224_r1l21" n="N001"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">g</rs></hi> <rs ana="#concept_mus">[Tonica]</rs>
-				<lb facs="#facs_224_r1l22" n="N002"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">d</rs></hi> <rs ana="#concept_mus">Dominante</rs>
-            </p>
-         </div>
+      	<list facs="#facs_224_TextRegion_1621266555875_6584">
+      		<item><lb facs="#facs_224_r1l21" n="N001"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">g</rs></hi> <rs ana="#concept_mus">[Tonica]</rs></item>
+      		<item><lb facs="#facs_224_r1l22" n="N002"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">d</rs></hi> <rs ana="#concept_mus">Dominante</rs></item>
+      	</list>
          <div rend="TEI" facs="#facs_224_TextRegion_1621266697368_6713" type="paragraph">
             <p facs="#facs_224_TextRegion_1621266697368_6713">
 				<lb facs="#facs_224_r1l23" n="N001"/>als durch
@@ -11609,12 +11699,11 @@
 				<lb facs="#facs_226_r1l4" n="N003"/>den <rs ana="#concept_mus">Klängen</rs>, wie wir sie ursprünglich aufsuchten (S. 200).
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_226_TextRegion_1621266871902_6944" type="heading">
-            <p facs="#facs_226_TextRegion_1621266871902_6944">
-				<lb facs="#facs_226_r1l5" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">6. <rs ana="#concept_mus">Harmonische Grundlage</rs> der <rs ana="#concept_mus">reinen</rs> und <rs ana="#concept_mus">gemischten</rs><lb facs="#facs_226_r1l6" n="N002"/> <rs ana="#m_tonality">Tonleitern</rs>.</hi>
-				
-            </p>
          </div>
+         <div type="chapter" n="2">
+			<head facs="#facs_226_TextRegion_1621266871902_6944">
+				<lb facs="#facs_226_r1l5" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">6. <rs ana="#concept_mus">Harmonische Grundlage</rs> der <rs ana="#concept_mus">reinen</rs> und <rs ana="#concept_mus">gemischten</rs><lb facs="#facs_226_r1l6" n="N002"/> <rs ana="#m_tonality">Tonleitern</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_226_TextRegion_1621266870375_6940" type="paragraph">
             <p facs="#facs_226_TextRegion_1621266870375_6940">
 				<lb facs="#facs_226_r1l7" n="N001"/>Versuchen wir noch für die 6 <rs ana="#concept_mus">Systeme</rs> die <rs ana="#concept_mus">harmoni<pc>¬</pc>
@@ -11662,7 +11751,7 @@
 			</p>
          </div>
          <notatedMusic rend="MEI" facs="#facs_227_Music_1621267046241_7035" source="facs_227_Music_1621267046241_7035.mei"><desc>MUSIK</desc></notatedMusic>
-         <div rend="TEI" facs="#facs_227_TextRegion_1621267014989_7013" type="heading">
+         <div type="paragraph">
             <p facs="#facs_227_TextRegion_1621267014989_7013">
 				<lb facs="#facs_227_r1l33" n="N001"/>Das Spiegelbild liefert unmittelbar die <rs ana="#concept_mus">harmonische Be<pc>¬</pc>
 				<lb facs="#facs_227_line_1621267012833_7011" n="N002"/>gründung</rs> der <rs ana="#m_tonality">Durtonleiter</rs>.
@@ -11776,20 +11865,20 @@
 				<lb facs="#facs_230_r1l6" n="N003"/><rs ana="#concept_mus">Systeme</rs> und deren <rs ana="#concept_mus">Klangbedeutung</rs> untersuchen.
 			</p>
          </div>
+         </div>
+         </div>
          <pb facs="#facs_231" n=""/>
-         <div rend="TEI" facs="#facs_231_r1" type="heading">
-            <p facs="#facs_231_r1">
+         <div type="chapter" n="1">
+            <head facs="#facs_231_r1">
 				<lb facs="#facs_231_r1l1" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Sechster Abschnitt</hi>.
 				<lb facs="#facs_231_r1l2" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs> und <rs ana="#concept_mus">Auflösung</rs>.</hi>
-            </p>
-         </div>
+            </head>
          <pb facs="#facs_232" n=""/>
          <pb facs="#facs_233" n=""/>
-         <div rend="TEI" facs="#facs_233_TextRegion_1621285365218_42" type="heading">
-            <p facs="#facs_233_TextRegion_1621285365218_42">
+         <div type="chapter" n="2">
+			<head facs="#facs_233_TextRegion_1621285365218_42">
 				<lb facs="#facs_233_r1l1" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">I. Begriff der <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs>.</hi>
-            </p>
-         </div>
+			</head>
          <div rend="TEI" facs="#facs_233_TextRegion_1621285365218_41" type="paragraph-continued">
             <p facs="#facs_233_TextRegion_1621285365218_41">
 				<lb facs="#facs_233_r1l2" n="N001"/>Wenn in Folge des Prinzipes der <rs ana="#concept_mus">Phonicität</rs> sich schon
@@ -11958,13 +12047,17 @@
 				<lb facs="#facs_236_r1l33" n="N004"/><rs ana="#concept_mus">vermittelt</rs> wird
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_236_TextRegion_1621286119607_397" type="list">
-            <p facs="#facs_236_TextRegion_1621286119607_397">
-				<lb facs="#facs_236_r1l34" n="N001"/>1) durch einen neu eintretenden <rs ana="#m_note">Ton</rs>,
-				<lb facs="#facs_236_r1l35" n="N002"/>2) durch einen der beiden mittleren <rs ana="#m_note">Töne</rs>,
-				<lb facs="#facs_236_r1l36" n="N003"/>3) durch beide.
-			</p>
-         </div>
+      	<list facs="#facs_236_TextRegion_1621286119607_397">
+      		<item>
+      			<lb facs="#facs_236_r1l34" n="N001"/>1) durch einen neu eintretenden <rs ana="#m_note">Ton</rs>,
+      		</item>
+      		<item>
+      			<lb facs="#facs_236_r1l35" n="N002"/>2) durch einen der beiden mittleren <rs ana="#m_note">Töne</rs>,
+      		</item>
+      		<item>
+      			<lb facs="#facs_236_r1l36" n="N003"/>3) durch beide.
+      		</item>
+      	</list>
          <pb facs="#facs_237" n="227"/>
          <div rend="TEI" facs="#facs_237_TextRegion_1621287121131_644" type="paragraph-continued">
             <p facs="#facs_237_TextRegion_1621287121131_644">
@@ -12218,12 +12311,11 @@
 				<lb facs="#facs_243_r1l6" n="N005"/><rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> combinirt erscheint.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_243_TextRegion_1621292131560_1287" type="heading">
-            <p facs="#facs_243_TextRegion_1621292131560_1287">
-				<lb facs="#facs_243_r1l7" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">2. <rs ana="#concept_mus">Intonation</rs> und vielfache <rs ana="#concept_mus">Klangbedeutung</rs> <rs ana="#concept_mus"><rs ana="#concept_phy">dissonanter</rs></rs><lb facs="#facs_243_r1l8" n="N002"/> <rs ana="#m_chord">Accorde</rs>.</hi>
-				
-            </p>
          </div>
+         <div type="chapter" n="2">
+			<head facs="#facs_243_TextRegion_1621292131560_1287">
+				<lb facs="#facs_243_r1l7" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">2. <rs ana="#concept_mus">Intonation</rs> und vielfache <rs ana="#concept_mus">Klangbedeutung</rs> <rs ana="#concept_mus"><rs ana="#concept_phy">dissonanter</rs></rs><lb facs="#facs_243_r1l8" n="N002"/> <rs ana="#m_chord">Accorde</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_243_TextRegion_1621292129246_1283" type="paragraph">
             <p facs="#facs_243_TextRegion_1621292129246_1283">
 				<lb facs="#facs_243_r1l9" n="N001"/>Mehrfach findet man in der obigen Tabelle einen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">ein<pc>¬</pc>
@@ -12439,11 +12531,11 @@
 				<lb facs="#facs_248_r1l20" n="N008"/>verständlichste sein.)
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_248_TextRegion_1621292641742_1791" type="heading">
-            <p facs="#facs_248_TextRegion_1621292641742_1791">
-				<lb facs="#facs_248_r1l21" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">3. <rs ana="#m_chord">Septimenaccorde</rs> und <rs ana="#concept_mus"><rs ana="#concept_phy">dissonante</rs></rs> <rs ana="#m_chord">Dreiklänge</rs> aller <rs ana="#concept_mus">Systeme</rs>.</hi>
-            </p>
          </div>
+         <div type="chapter" n="2">
+			<head facs="#facs_248_TextRegion_1621292641742_1791">
+				<lb facs="#facs_248_r1l21" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">3. <rs ana="#m_chord">Septimenaccorde</rs> und <rs ana="#concept_mus"><rs ana="#concept_phy">dissonante</rs></rs> <rs ana="#m_chord">Dreiklänge</rs> aller <rs ana="#concept_mus">Systeme</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_248_TextRegion_1621292639344_1787" type="paragraph">
             <p facs="#facs_248_TextRegion_1621292639344_1787">
 				<lb facs="#facs_248_r1l22" n="N001"/>In sämmtlichen <rs ana="#concept_mus">Septimenharmonieen</rs> giebt es <rs ana="#m_note">Töne</rs>, die
@@ -12473,12 +12565,14 @@
 				<lb facs="#facs_249_line_1621293076495_1932" n="N003"/>kommen der beiden <rs ana="#m_chord">verminderten Dreiklänge</rs>
             </p>
          </div>
-         <div rend="TEI" facs="#facs_249_TextRegion_1621293076445_1929" type="list">
-            <p facs="#facs_249_TextRegion_1621293076445_1929">
-				<lb facs="#facs_249_r1l100" n="N001"/><rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>} — <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi></rs> im <rs ana="#m_tonality">tonischen System</rs> = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> + <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs>
-				<lb facs="#facs_249_r1l101" n="N002"/>und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>} — <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>} — <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi></rs> im <rs ana="#m_tonality">phonischen System</rs> = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> + <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs>
-            </p>
-         </div>
+      	<list facs="#facs_249_TextRegion_1621293076445_1929">
+      		<item>
+      			<lb facs="#facs_249_r1l100" n="N001"/><rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>} — <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi></rs> im <rs ana="#m_tonality">tonischen System</rs> = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> + <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs>
+      		</item>
+      		<item>
+      			<lb facs="#facs_249_r1l101" n="N002"/>und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>} — <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>} — <hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi></rs> im <rs ana="#m_tonality">phonischen System</rs> = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> + <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs>
+      		</item>
+      	</list>
          <div rend="TEI" facs="#facs_249_TextRegion_1621293072982_1925" type="paragraph">
             <p facs="#facs_249_TextRegion_1621293072982_1925">
 				<lb facs="#facs_249_r1l102" n="N001"/>Nur die unter 1., 4. und 6. vorkommenden <rs ana="#concept_mus"><rs ana="#concept_phy">disson.</rs></rs>
@@ -12585,12 +12679,12 @@
          <figure facs="#facs_251_Graphic_1621328319637_69">
                <graphic url="graphic/facs_251_Graphic_1621328319637_69.png"/>
             </figure>
-         <pb facs="#facs_252" n="242"/>
-         <div rend="TEI" facs="#facs_252_TextRegion_1621328418571_153" type="heading">
-            <p facs="#facs_252_TextRegion_1621328418571_153">
-				<lb facs="#facs_252_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">4. <rs ana="#concept_mus">Auflösung</rs>. <rs ana="#m_chord">Septimenaccord</rs> und <rs ana="#concept_mus">Vorhalt</rs>.</hi>
-            </p>
          </div>
+         <pb facs="#facs_252" n="242"/>
+         <div type="chapter" n="2">
+			<head facs="#facs_252_TextRegion_1621328418571_153">
+				<lb facs="#facs_252_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">4. <rs ana="#concept_mus">Auflösung</rs>. <rs ana="#m_chord">Septimenaccord</rs> und <rs ana="#concept_mus">Vorhalt</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_252_TextRegion_1621328416042_149" type="paragraph-continued">
             <p facs="#facs_252_TextRegion_1621328416042_149">
 				<lb facs="#facs_252_r1l3" n="N001"/>Die <rs ana="#concept_mus">Auflösung</rs> einer <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs> wird um so leichter
@@ -12899,11 +12993,11 @@
 				<lb facs="#facs_258_r1l29" n="N007"/>nach <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs>.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_258_TextRegion_1621329578271_967" type="heading">
-            <p facs="#facs_258_TextRegion_1621329578271_967">
-				<lb facs="#facs_258_r1l30" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">5. Der <rs ana="#m_chord">übermässige Dreiklang</rs>.</hi>
-            </p>
          </div>
+         <div type="chapter" n="2">
+			<head facs="#facs_258_TextRegion_1621329578271_967">
+				<lb facs="#facs_258_r1l30" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">5. Der <rs ana="#m_chord">übermässige Dreiklang</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_258_TextRegion_1621329576899_963" type="paragraph-continued">
             <p facs="#facs_258_TextRegion_1621329576899_963">
 				<lb facs="#facs_258_r1l31" n="N001"/>Obgleich anders in der Wirkung, so ist doch die Deu<pc>¬</pc>
@@ -13029,11 +13123,11 @@
 				<lb facs="#facs_261_r1l23" n="N007"/>erschöpfen.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_261_TextRegion_1621330151017_1394" type="heading">
-            <p facs="#facs_261_TextRegion_1621330151017_1394">
-				<lb facs="#facs_261_r1l24" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">6. <rs ana="#concept_mus">Auflösung</rs> der <rs ana="#m_chord">Septimenaccorde</rs>.</hi>
-            </p>
          </div>
+         <div type="chapter" n="2">
+			<head facs="#facs_261_TextRegion_1621330151017_1394">
+				<lb facs="#facs_261_r1l24" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">6. <rs ana="#concept_mus">Auflösung</rs> der <rs ana="#m_chord">Septimenaccorde</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_261_TextRegion_1621330149689_1390" type="paragraph">
             <p facs="#facs_261_TextRegion_1621330149689_1390">
 				<lb facs="#facs_261_r1l25" n="N001"/>Von den 7 Paaren von <rs ana="#m_chord">Septimenaccorden</rs>, die auf Seite
@@ -13132,12 +13226,11 @@
 				<lb facs="#facs_264_r1l23" n="N005"/><rs ana="#m_tonality">Tonalität</rs> und <rs ana="#m_tonality">Phonalität</rs> gehoben wird.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_264_TextRegion_1621330436738_1652" type="heading">
-            <p facs="#facs_264_TextRegion_1621330436738_1652">
-				<lb facs="#facs_264_r1l24" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">7. Veränderte <rs ana="#concept_mus">Klangbedeutung</rs> der <rs ana="#m_interval">Septime</rs> je nach der<lb facs="#facs_264_r1l25" n="N002"/> <rs ana="#concept_mus">Auflösung</rs>.</hi>
-				
-            </p>
          </div>
+         <div type="chapter" n="2">
+			<head facs="#facs_264_TextRegion_1621330436738_1652">
+				<lb facs="#facs_264_r1l24" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">7. Veränderte <rs ana="#concept_mus">Klangbedeutung</rs> der <rs ana="#m_interval">Septime</rs> je nach der<lb facs="#facs_264_r1l25" n="N002"/> <rs ana="#concept_mus">Auflösung</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_264_TextRegion_1621330435287_1648" type="paragraph-continued">
             <p facs="#facs_264_TextRegion_1621330435287_1648">
 				<lb facs="#facs_264_r1l26" n="N001"/>Von allergrösstem Interesse sind aber die Deutungen
@@ -13245,12 +13338,11 @@
 				<lb facs="#facs_266_r1l29" n="N009"/>net sein, unserer Theorie Anhänger zu schaffen.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_266_TextRegion_1621331124638_1947" type="heading">
-            <p facs="#facs_266_TextRegion_1621331124638_1947">
-				<lb facs="#facs_266_r1l30" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">8. Der <rs ana="#m_chord">verminderte Septimenaccord</rs>, die <rs ana="#m_chord">Nonenaccorde</rs><lb facs="#facs_266_r1l31" n="N002"/>und ihre <rs ana="#concept_mus">Auflösung</rs>.</hi>
-				
-            </p>
          </div>
+         <div type="chapter" n="2">
+			<head facs="#facs_266_TextRegion_1621331124638_1947">
+				<lb facs="#facs_266_r1l30" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">8. Der <rs ana="#m_chord">verminderte Septimenaccord</rs>, die <rs ana="#m_chord">Nonenaccorde</rs><lb facs="#facs_266_r1l31" n="N002"/>und ihre <rs ana="#concept_mus">Auflösung</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_266_TextRegion_1621331122537_1943" type="paragraph-continued">
             <p facs="#facs_266_TextRegion_1621331122537_1943">
 				<lb facs="#facs_266_r1l32" n="N001"/>Der <rs ana="#m_chord">verminderte Septimenaccord</rs> ist, wie wir schon
@@ -13513,12 +13605,14 @@
 				<lb facs="#facs_273_r1l17" n="N002"/>änderung seiner <rs ana="#concept_mus">Stimmung</rs></hi> in 2 <rs ana="#m_tonality">Tonarten</rs> vor:
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_273_TextRegion_1621428984433_1978" type="list">
-            <p facs="#facs_273_TextRegion_1621428984433_1978">
-				<lb facs="#facs_273_line_1621429148197_2051" n="N001"/><rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>{ — <hi rend="italic:true; fontSize:0.0; kerning:0;">cis</hi>}</rs> = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> + <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> in <rs ana="#m_tonality">halbphon. <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi></rs> u. <rs ana="#m_tonality">halbton. <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi></rs>
-				<lb facs="#facs_273_r1l20" n="N002"/><rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{ — <hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>} — <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs> = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> + <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> in <rs ana="#m_tonality">halbphon. <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi></rs> u. <rs ana="#m_tonality">halbton. <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs>
-            </p>
-         </div>
+      	<list facs="#facs_273_TextRegion_1621428984433_1978">
+      		<item>
+      			<lb facs="#facs_273_line_1621429148197_2051" n="N001"/><rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>{ — <hi rend="italic:true; fontSize:0.0; kerning:0;">cis</hi>}</rs> = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> + <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> in <rs ana="#m_tonality">halbphon. <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi></rs> u. <rs ana="#m_tonality">halbton. <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi></rs>
+      		</item>
+      		<item>
+      			<lb facs="#facs_273_r1l20" n="N002"/><rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{ — <hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>} — <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi> — <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs> = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> + <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> in <rs ana="#m_tonality">halbphon. <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi></rs> u. <rs ana="#m_tonality">halbton. <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs>
+      		</item>
+      	</list>
          <div rend="TEI" facs="#facs_273_TextRegion_1621428979429_1974" type="paragraph-continued">
             <p facs="#facs_273_TextRegion_1621428979429_1974">
 				<lb facs="#facs_273_r1l21" n="N001"/>Die <rs ana="#concept_mus">Folge</rs> zweier <rs ana="#m_chord">verminderter Septimenaccorde</rs> muss
@@ -13937,11 +14031,11 @@
          <figure facs="#facs_282_Graphic_1621432826140_3069">
                <graphic url="graphic/facs_282_Graphic_1621432826140_3069.png"/>
             </figure>
-         <div rend="TEI" facs="#facs_282_TextRegion_1621432805842_3055" type="heading">
-            <p facs="#facs_282_TextRegion_1621432805842_3055">
-				<lb facs="#facs_282_r1l11" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">9. Der <rs ana="#m_chord">übermässige Sextenaccord</rs>.</hi>
-            </p>
          </div>
+         <div type="chapter" n="2">
+			<head facs="#facs_282_TextRegion_1621432805842_3055">
+				<lb facs="#facs_282_r1l11" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">9. Der <rs ana="#m_chord">übermässige Sextenaccord</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_282_TextRegion_1621432802590_3051" type="paragraph-continued">
             <p facs="#facs_282_TextRegion_1621432802590_3051">
 				<lb facs="#facs_282_r1l12" n="N001"/>Ein beachtungswerthes Gebilde finden wir in beiden
@@ -14300,12 +14394,11 @@
 				<lb facs="#facs_291_r1l14" n="N011"/>erhalten kann.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_291_TextRegion_1621433971860_3944" type="heading">
-            <p facs="#facs_291_TextRegion_1621433971860_3944">
-				<lb facs="#facs_291_r1l15" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">10. <rs ana="#concept_mus">Septimenharmonieen</rs> der <rs ana="#m_tonality">gemischten Geschlechter</rs>. Der<lb facs="#facs_291_r1l16" n="N002"/> <rs ana="#concept_mus"><rs ana="#concept_phy">consonante</rs></rs> <rs ana="#m_chord">Dreiklang</rs> als <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs>.</hi>
-				
-            </p>
          </div>
+         <div type="chapter" n="2">
+			<head facs="#facs_291_TextRegion_1621433971860_3944">
+				<lb facs="#facs_291_r1l15" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">10. <rs ana="#concept_mus">Septimenharmonieen</rs> der <rs ana="#m_tonality">gemischten Geschlechter</rs>. Der<lb facs="#facs_291_r1l16" n="N002"/> <rs ana="#concept_mus"><rs ana="#concept_phy">consonante</rs></rs> <rs ana="#m_chord">Dreiklang</rs> als <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_291_TextRegion_1621433969806_3940" type="paragraph">
             <p facs="#facs_291_TextRegion_1621433969806_3940">
 				<lb facs="#facs_291_r1l17" n="N001"/>Wir besprachen am Anfange des letzten Kapitels den
@@ -14493,12 +14586,12 @@
 				<lb facs="#facs_297_line_1621437445116_5345" n="N008"/>im Spiegelbilde, in der ersten Zeile <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">ges</hi>}</rs> statt <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">g</rs></hi>.
 			</p>
          </div>
-         <pb facs="#facs_298" n="288"/>
-         <div rend="TEI" facs="#facs_298_TextRegion_1621435913941_4591" type="heading">
-            <p facs="#facs_298_TextRegion_1621435913941_4591">
-				<lb facs="#facs_298_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">II. Bemerkungen über den <rs ana="#concept_mus">enharmonischen</rs> <rs ana="#concept_mus">Wechsel</rs>.</hi>
-            </p>
          </div>
+         <pb facs="#facs_298" n="288"/>
+         <div type="chapter" n="2">
+			<head facs="#facs_298_TextRegion_1621435913941_4591">
+				<lb facs="#facs_298_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">11. Bemerkungen über den <rs ana="#concept_mus">enharmonischen</rs> <rs ana="#concept_mus">Wechsel</rs>.</hi>
+			</head>
          <div rend="TEI" facs="#facs_298_TextRegion_1621435912066_4587" type="paragraph">
             <p facs="#facs_298_TextRegion_1621435912066_4587">
 				<lb facs="#facs_298_r1l3" n="N001"/>So einfach der Begriff der <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs> als eines <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Doppel<pc>¬</pc>
@@ -14564,12 +14657,10 @@
 				<lb facs="#facs_299_r1l25" n="N020"/>weise</hi>, ganz und gar einer Berücksichtigung unwerth:
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_299_TextRegion_1621436236878_4667" type="caption">
             <p facs="#facs_299_TextRegion_1621436236878_4667">
 				<lb facs="#facs_299_r1l26" n="N001"/>„<title ana="#music" ref="W0043">Prometheus-Ouvertüre</title>:”
+            	<notatedMusic rend="MEI" facs="#facs_299_Music_1621436249074_4671" source="facs_299_Music_1621436249074_4671.mei"><desc>MUSIK</desc></notatedMusic>
 			</p>
-         </div>
-         <notatedMusic rend="MEI" facs="#facs_299_Music_1621436249074_4671" source="facs_299_Music_1621436249074_4671.mei"><desc>MUSIK</desc></notatedMusic>
          <div rend="TEI" facs="#facs_299_TextRegion_1621436098246_4652" type="paragraph-continued">
             <p facs="#facs_299_TextRegion_1621436098246_4652">
 				<lb facs="#facs_299_r1l51" n="N001"/>Man lasse von vier <rs ana="#concept_mus">Männerstimmen</rs> diese neun <rs ana="#concept_mus">Takte</rs>
@@ -14655,11 +14746,11 @@
 				<lb facs="#facs_301_r1l30" n="N011"/>über zu entscheiden obliegt, das scheint mir, steht fest.
 			</p>
          </div>
-         <div rend="TEI" facs="#facs_301_TextRegion_1621436706575_4849" type="heading">
-            <p facs="#facs_301_TextRegion_1621436706575_4849">
-				<lb facs="#facs_301_r1l31" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">12. Schlusswort.</hi>
-            </p>
          </div>
+         <div type="chapter" n="2">
+			<head facs="#facs_301_TextRegion_1621436706575_4849">
+				<lb facs="#facs_301_r1l31" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">12. Schlusswort.</hi>
+			</head>
          <div rend="TEI" facs="#facs_301_TextRegion_1621436705147_4845" type="paragraph-continued">
             <p facs="#facs_301_TextRegion_1621436705147_4845">
 				<lb facs="#facs_301_r1l32" n="N001"/>Leider ist es mir nicht vergönnt, meine Untersuchun<pc>¬</pc>
@@ -14772,6 +14863,8 @@
 				<lb facs="#facs_304_r1l8" n="N006"/>in gerechter Weise die Sache, soweit sie ihren Werth und
 				<lb facs="#facs_304_r1l9" n="N007"/>ihre innere Wahrheit selbst bezeugt, gefördert werde.
 			</p>
+         </div>
+         </div>
          </div>
       </body>
    </text>
