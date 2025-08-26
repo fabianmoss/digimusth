@@ -997,7 +997,7 @@
 				<lb facs="#facs_11_r2l7" n="N006"/>denkenden <rs ana="#concept_mus">Musikfreunde</rs> angelegentlich empfohlen sein mag.
             </p>
    			<p facs="#facs_11_TextRegion_1632816445978_301">
-				<lb facs="#facs_11_r2l8" n="N001"/><placeName><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Cassel</hi></placeName>, im <date>Januar 1852</date>.
+				<lb facs="#facs_11_r2l8" n="N001"/><placeName ref="L0005"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Cassel</hi></placeName>, im <date>Januar 1852</date>.
 			</p>
    			<p facs="#facs_11_TextRegion_1632816444239_297">
 				<lb facs="#facs_11_r2l9" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">Der Verfasser.</hi>
