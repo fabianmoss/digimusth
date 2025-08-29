@@ -1,0 +1,1199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Index of People mentioned in texts from project Digimus</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<publisher/>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<standOff>
+		<listPerson>
+			<person xml:id="P0001">
+				<persName>
+					<forename>Hermann von</forename>
+					<surname>Helmholtz</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/11854893X</idno>
+			</person>
+			<person xml:id="P0002">
+				<persName>
+					<forename>Otto</forename>
+					<surname>Tiersch</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/117378623</idno>
+			</person>
+			<person xml:id="P0003">
+				<persName>
+					<forename>Otakar</forename>
+					<surname>Hostinský</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/117012955</idno>
+			</person>
+			<person xml:id="P0004">
+				<persName>
+					<forename>A. J.</forename>
+					<surname>Polak</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/1055143327</idno>
+			</person>
+			<person xml:id="P0005">
+				<persName>
+					<forename>Jean-Philippe</forename>
+					<surname>Rameau</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118598090</idno>
+			</person>
+			<person xml:id="P0006">
+				<persName>
+					<forename>Georg</forename>
+					<surname>Capellen</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118917188</idno>
+			</person>
+			<person xml:id="P0007">
+				<persName>
+					<forename>Moritz</forename>
+					<surname>Hauptmann</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118709143</idno>
+			</person>
+			<person xml:id="P0008">
+				<persName>
+					<forename>Joseph</forename>
+					<surname>Haydn</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118547356</idno>
+			</person>
+			<person xml:id="P0009">
+				<persName>
+					<forename>Carl von</forename>
+					<surname>Winterfeld</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/100704018</idno>
+			</person>
+			<person xml:id="P0010">
+				<persName>
+					<forename>Gioseffo</forename>
+					<surname>Zarlino</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118772287</idno>
+			</person>
+			<person xml:id="P0011">
+				<persName>
+					<forename>Jean Le Rond d'</forename>
+					<surname>Alembert</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/11850178X</idno>
+			</person>
+			<person xml:id="P0012">
+				<persName>
+					<forename>R. G.</forename>
+					<surname>Kiesewetter</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118722239</idno>
+			</person>
+			<person xml:id="P0013">
+				<persName>
+					<forename>Georg Wilhelm Friedrich</forename>
+					<surname>Hegel</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118547739</idno>
+			</person>
+			<person xml:id="P0014">
+				<persName>
+					<forename>Gottfried</forename>
+					<surname>Weber</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118643231</idno>
+			</person>
+			<person xml:id="P0015">
+				<persName>
+					<forename>Wolfgang Amadeus</forename>
+					<surname>Mozart</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118584596</idno>
+			</person>
+			<person xml:id="P0016">
+				<persName>
+					<forename>Ludwig van</forename>
+					<surname>Beethoven</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118508288</idno>
+			</person>
+			<person xml:id="P0017">
+				<persName>
+					<forename>Hugo</forename>
+					<surname>Riemann</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118600877</idno>
+			</person>
+			<person xml:id="P0018">
+				<persName>
+					<forename>Artur Joachim von</forename>
+					<surname>Oettingen</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/117108235</idno>
+			</person>
+			<person xml:id="P0019">
+				<persName>
+					<forename>Carl</forename>
+					<surname>Stumpf</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118933299</idno>
+			</person>
+			<person xml:id="P0020">
+				<persName>
+					<forename>Francisco</forename>
+					<surname>Salinas</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/119378523</idno>
+			</person>
+			<person xml:id="P0021">
+				<persName>Descartes</persName>
+				<idno type="GND">https://d-nb.info/gnd/115911241X</idno>
+			</person>
+			<person xml:id="P0022">
+				<persName>
+					<forename>Marin</forename>
+					<surname>Mersenne</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118581201</idno>
+			</person>
+			<person xml:id="P0023">
+				<persName>
+					<forename>Giuseppe</forename>
+					<surname>Tartini</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118620878</idno>
+			</person>
+			<person xml:id="P0024">
+				<persName>
+					<forename>Charles</forename>
+					<surname>Levens</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/130509892</idno>
+			</person>
+			<person xml:id="P0025">
+				<persName>Serre</persName>
+				<idno type="GND">https://d-nb.info/gnd/4279224-1</idno>
+			</person>
+			<person xml:id="P0026">
+				<persName>
+					<forename>Charles Henri de</forename>
+					<surname>Blainville</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/100043917</idno>
+			</person>
+			<person xml:id="P0027">
+				<persName>
+					<forename>Pierre</forename>
+					<surname>Jamard</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/1193937329</idno>
+			</person>
+			<person xml:id="P0028">
+				<persName>
+					<forename>Francesco Antonio</forename>
+					<surname>Vallotti</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/119316692</idno>
+			</person>
+			<person xml:id="P0029">
+				<persName>
+					<forename>Galeazzo</forename>
+					<surname>Sabbatini</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/134845625</idno>
+			</person>
+			<person xml:id="P0030">
+				<persName>
+					<forename>Adolf</forename>
+					<surname>Thürlings</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/117359106</idno>
+			</person>
+			<person xml:id="P0031">
+				<persName>
+					<forename>Anton</forename>
+					<surname>Krisper</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/1019705531</idno>
+			</person>
+			<person xml:id="P0032">
+				<persName>
+					<forename>Joseph</forename>
+					<surname>Sauveur</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/11879471X</idno>
+			</person>
+			<person xml:id="P0033">
+				<persName>
+					<forename>Hermann</forename>
+					<surname>Lotze</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118574574</idno>
+			</person>
+			<person xml:id="P0034">
+				<persName>
+					<forename>Johann Wolfgang von</forename>
+					<surname>Goethe</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118540238</idno>
+			</person>
+			<person xml:id="P0035">
+				<persName>
+					<forename>F.</forename>
+					<surname>Hiller</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/12832404X</idno>
+			</person>
+			<person xml:id="P0036">
+				<persName>
+					<forename>Johann Philipp</forename>
+					<surname>Kirnberger</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118777238</idno>
+			</person>
+			<person xml:id="P0037">
+				<persName>
+					<forename>Vladimir Ivanovič</forename>
+					<surname>Rebikov</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118948652</idno>
+			</person>
+			<person xml:id="P0038">
+				<persName>
+					<forename>Claude</forename>
+					<surname>Debussy</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118524186</idno>
+			</person>
+			<person xml:id="P0039">
+				<persName>
+					<forename>Wouter</forename>
+					<surname>Hutschenruyter</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/134698886</idno>
+			</person>
+			<person xml:id="P0040">
+				<persName>
+					<forename>Ary</forename>
+					<surname>Belinfante</surname>
+				</persName>
+				
+				
+			</person>
+			<person xml:id="P0041">
+				<persName>
+					<forename>Carl Friedrich</forename>
+					<surname>Weitzmann</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/119189275</idno>
+			</person>
+			<person xml:id="P0042">
+				<persName>Dr. Werner Brendel (Firma)</persName>
+				<idno type="GND">https://d-nb.info/gnd/1065795696</idno>
+			</person>
+			<person xml:id="P0043">
+				<persName>
+					<forename>Robert</forename>
+					<surname>Schumann</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118611666</idno>
+			</person>
+			<person xml:id="P0044">
+				<persName>
+					<forename>Hector</forename>
+					<surname>Berlioz</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118509675</idno>
+			</person>
+			<person xml:id="P0045">
+				<persName>
+					<forename>Richard</forename>
+					<surname>Wagner</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118594117</idno>
+			</person>
+			<person xml:id="P0046">
+				<persName>
+					<forename>Franz</forename>
+					<surname>Liszt</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118573527</idno>
+			</person>
+			<person xml:id="P0047">
+				<persName>
+					<forename>Selmar</forename>
+					<surname>Bagge</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/116039191</idno>
+			</person>
+			<person xml:id="P0048">
+				<persName>
+					<forename>Karl Gottfried</forename>
+					<surname>Kretschmann</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/134020561</idno>
+			</person>
+			<person xml:id="P0049">
+				<persName>
+					<forename>Christoph Willibald</forename>
+					<surname>Gluck</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118539841</idno>
+			</person>
+			<person xml:id="P0050">
+				<persName>
+					<forename>Carl Maria von</forename>
+					<surname>Weber</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118629662</idno>
+			</person>
+			<person xml:id="P0051">
+				<persName>
+					<forename>Friedrich Wilhelm</forename>
+					<surname>Marpurg</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118921088</idno>
+			</person>
+			<person xml:id="P0052">
+				<persName>
+					<forename>Claudio</forename>
+					<surname>Monteverdi</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118583700</idno>
+			</person>
+			<person xml:id="P0053">
+				<persName>
+					<forename>François-Joseph</forename>
+					<surname>Fétis</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/11949924X</idno>
+			</person>
+			<person xml:id="P0054">
+				<persName>
+					<forename>J. S.</forename>
+					<surname>Bach</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/4226038-3</idno>
+			</person>
+			<person xml:id="P0055">
+				<persName>
+					<forename>Eduard</forename>
+					<surname>Krüger</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/116559810</idno>
+			</person>
+			<person xml:id="P0056">
+				<persName>Vischer</persName>
+				<idno type="GND">https://d-nb.info/gnd/1099339081</idno>
+				<note>an aesthetician apparently quoted by Helmholtz, according to Thürlings</note>
+			</person>
+			<person xml:id="P0057">
+				<persName>
+					<forename>Leonhard</forename>
+					<surname>Euler</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118531379</idno>
+			</person>
+			<person xml:id="P0058">
+				<persName>
+					<forename>Friedrich</forename>
+					<surname>Zamminer</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/116950714</idno>
+			</person>
+			<person xml:id="P0059">
+				<persName>
+					<forename>Claudius</forename>
+					<surname>Ptolemaeus</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118641786</idno>
+			</person>
+			<person xml:id="P0060">
+				<persName>Faesch</persName>
+				<idno type="GND">https://d-nb.info/gnd/1146768168</idno>
+			</person>
+			<person xml:id="P0061">
+				<persName>
+					<forename>Johanna</forename>
+					<surname>Kinkel</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118562258</idno>
+			</person>
+			<person xml:id="P0062">
+				<persName>
+					<forename>Aristoxenos D.</forename>
+					<surname>Skiadas</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/103499350X</idno>
+			</person>
+			<person xml:id="P0063">
+				<persName>
+					<forename>Albert von</forename>
+					<surname>Thimus</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/117341878</idno>
+			</person>
+			<person xml:id="P0064">
+				<persName>
+					<forename>Richard</forename>
+					<surname>Hasenclever</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/116511850</idno>
+			</person>
+			<person xml:id="P0065">
+				<persName>Aristoteles</persName>
+				<idno type="GND">https://d-nb.info/gnd/1085796744</idno>
+			</person>
+			<person xml:id="P0066">
+				<persName>
+					<forename>Gustav</forename>
+					<surname>Schubring</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/11711703X</idno>
+			</person>
+			<person xml:id="P0067">
+				<persName>
+					<forename>Dr. A.</forename>
+					<surname>Völkel</surname>
+				</persName>
+				
+				
+			</person>
+			<person xml:id="P0068">
+				<persName>
+					<forename>Ephesius</forename>
+					<surname>Heraclitus</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118549421</idno>
+			</person>
+			<person xml:id="P0069">
+				<persName>
+					<forename>Heinrich</forename>
+					<surname>Freuler</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/1016835671</idno>
+			</person>
+			<person xml:id="P0070">
+				<persName>
+					<forename>Ernst Florens Friedrich</forename>
+					<surname>Chladni</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118520490</idno>
+			</person>
+			<person xml:id="P0071">
+				<persName>
+					<forename>Hermann</forename>
+					<surname>Schroeder</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118823442</idno>
+			</person>
+			<person xml:id="P0072">
+				<persName>
+					<forename>Theodor</forename>
+					<surname>Billroth</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118510916</idno>
+			</person>
+			<person xml:id="P0073">
+				<persName>Nithard</persName>
+				<idno type="GND">https://d-nb.info/gnd/189579072</idno>
+				<note>medival composer of dance-songs</note>
+			</person>
+			<person xml:id="P0074">
+				<persName>
+					<forename>Ludwig</forename>
+					<surname>Riemann</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/172346401</idno>
+				<note>not Hugo Riemann</note>
+			</person>
+			<person xml:id="P0075">
+				<persName>Plato</persName>
+				<idno type="GND">https://d-nb.info/gnd/118594893</idno>
+			</person>
+			<person xml:id="P0076">
+				<persName>Euclides</persName>
+				<idno type="GND">https://d-nb.info/gnd/4449276-5</idno>
+			</person>
+			<person xml:id="P0077">
+				<persName>
+					<forename>Richard</forename>
+					<surname>Hennig</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/116716002</idno>
+			</person>
+			<person xml:id="P0078">
+				<persName>
+					<forename>Adolf Bernhard</forename>
+					<surname>Marx</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/119065290</idno>
+			</person>
+			<person xml:id="P0079">
+				<persName>
+					<forename>Johann</forename>
+					<surname>Strauss</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/117312096</idno>
+			</person>
+			<person xml:id="P0080">
+				<persName>
+					<forename>Ernst Friedrich</forename>
+					<surname>Richter</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/116510927</idno>
+			</person>
+			<person xml:id="P0081">
+				<persName>
+					<forename>Bernhard</forename>
+					<surname>Ziehn</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/116988282</idno>
+			</person>
+			<person xml:id="P0082">
+				<persName>
+					<forename>Hermann</forename>
+					<surname>Grädener</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/116808268</idno>
+			</person>
+			<person xml:id="P0083">
+				<persName>
+					<forename>Karl</forename>
+					<surname>Mayrberger</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/1020425431</idno>
+			</person>
+			<person xml:id="P0084">
+				<persName>
+					<forename>Wilhelm Albert</forename>
+					<surname>Rischbieter</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/116558016</idno>
+			</person>
+			<person xml:id="P0085">
+				<persName>
+					<forename>Franz</forename>
+					<surname>Schubert</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/103805850</idno>
+			</person>
+			<person xml:id="P0086">
+				<persName>
+					<forename>Wilhelm</forename>
+					<surname>Wundt</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/11863562X</idno>
+			</person>
+			<person xml:id="P0087">
+				<persName>
+					<forename>Julius</forename>
+					<surname>Röntgen</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/119300435</idno>
+			</person>
+			<person xml:id="P0088">
+				<persName>
+					<forename>J. J.</forename>
+					<surname>Rousseau</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/173287891</idno>
+			</person>
+			<person xml:id="P0089">
+				<persName>
+					<forename>M. de</forename>
+					<surname>Morambet</surname>
+				</persName>
+				
+				
+			</person>
+			<person xml:id="P0090">
+				<persName>
+					<forename>Ernst</forename>
+					<surname>Naumann</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/116899344</idno>
+			</person>
+			<person xml:id="P0091">
+				<persName>
+					<forename>Moritz Wilhelm</forename>
+					<surname>Drobisch</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/116223995</idno>
+			</person>
+			<person xml:id="P0092">
+				<persName>
+					<forename>Friedrich Wilhelm</forename>
+					<surname>Opelt</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/137658052</idno>
+			</person>
+			<person xml:id="P0093">
+				<persName>
+					<forename>Siegfried Wilhelm</forename>
+					<surname>Dehn</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/116054670</idno>
+			</person>
+			<person xml:id="P0094">
+				<persName>Poggendorf</persName>
+				<idno type="GND">https://d-nb.info/gnd/5202287-0</idno>
+			</person>
+			<person xml:id="P0095">
+				<persName>
+					<forename>Johannes Heinrich Niklas</forename>
+					<surname>Möhring</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/1045295868</idno>
+			</person>
+			<person xml:id="P0096">
+				<persName>
+					<forename>Sébastien</forename>
+					<surname>Erard</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/119333449</idno>
+				<note>Instrumentenbauer</note>
+			</person>
+			<person xml:id="P0097">
+				<persName>
+					<forename>Louis</forename>
+					<surname>Spohr</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118616366</idno>
+			</person>
+			<person xml:id="P0098">
+				<persName>Pythagoras</persName>
+				<idno type="GND">https://d-nb.info/gnd/10282558-0</idno>
+			</person>
+			<person xml:id="P0099">
+				<persName>
+					<forename>Antonio</forename>
+					<surname>Eximeno y Pujades</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/119128446</idno>
+				<note>(Autoren in "der neuen Aristoxener zerstreute Aufsätze über das Irrige der musikalischen Arithmetik und das Eitle ihrer Temperaturrechnungen")</note>
+			</person>
+			<person xml:id="P0100">
+				<persName>
+					<forename>Friedrich von</forename>
+					<surname>Drieberg</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/116222964</idno>
+				<note>(Autoren in "der neuen Aristoxener zerstreute Aufsätze über das Irrige der musikalischen Arithmetik und das Eitle ihrer Temperaturrechnungen")</note>
+			</person>
+			<person xml:id="P0101">
+				<persName>
+					<forename>Joseph</forename>
+					<surname>Krieger</surname>
+				</persName>
+				
+				
+				<note>(Autoren in "der neuen Aristoxener zerstreute Aufsätze über das Irrige der musikalischen Arithmetik und das Eitle ihrer Temperaturrechnungen")</note>
+			</person>
+			<person xml:id="P0102">
+				<persName>
+					<forename>Johann Friedrich</forename>
+					<surname>Herbart</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/11854943X</idno>
+			</person>
+			<person xml:id="P0103">
+				<persName>Meyer</persName>
+				
+				
+				<note>"Musikdirector" ; Naumann p. 49</note>
+			</person>
+			<person xml:id="P0104">
+				<persName>
+					<forename>Christine</forename>
+					<surname>Delezenne</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/1189623420</idno>
+			</person>
+			<person xml:id="P0105">
+				<persName>
+					<forename>E.</forename>
+					<surname>Mach</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/128232722</idno>
+			</person>
+			<person xml:id="P0106">
+				<persName>
+					<forename>Pietro</forename>
+					<surname>Blaserna</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/117606480</idno>
+			</person>
+			<person xml:id="P0107">
+				<persName>
+					<forename>Jean-Baptiste</forename>
+					<surname>Lully</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118575287</idno>
+			</person>
+			<person xml:id="P0108">
+				<persName>
+					<forename>Johann Heinrich</forename>
+					<surname>Scheibler</surname>
+				</persName>
+				
+				
+			</person>
+			<person xml:id="P0109">
+				<persName>
+					<forename>William T.</forename>
+					<surname>Preyer</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118596411</idno>
+			</person>
+			<person xml:id="P0110">
+				<persName>
+					<forename>César Mansuète</forename>
+					<surname>Despretz</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/117633011</idno>
+				<note>Physiker, Host., S. 12</note>
+			</person>
+			<person xml:id="P0111">
+				<persName>
+					<forename>Alexander John</forename>
+					<surname>Ellis</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/117499927</idno>
+				<note>Composer or theorist?, Host. S. 15</note>
+			</person>
+			<person xml:id="P0112">
+				<persName>
+					<forename>Joseph</forename>
+					<surname>Joachim</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118776223</idno>
+				<note>Most likely the famous violin soloist from context. Cited as having participated in an experiment by Helmholtz</note>
+			</person>
+			<person xml:id="P0113">
+				<persName>
+					<forename>Jean Baptiste Joseph</forename>
+					<surname>Fourier</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118684310</idno>
+			</person>
+			<person xml:id="P0114">
+				<persName>
+					<forename>Georg Simon</forename>
+					<surname>Ohm</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118736116</idno>
+			</person>
+			<person xml:id="P0115">
+				<persName>
+					<forename>Georg Andreas</forename>
+					<surname>Sorge</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/126963665</idno>
+			</person>
+			<person xml:id="P0116">
+				<persName>
+					<forename>Joseph</forename>
+					<surname>Bonnet</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/131554921</idno>
+			</person>
+			<person xml:id="P0117">
+				<persName>
+					<forename>Etienne Bonnot de</forename>
+					<surname>Condillac</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118521756</idno>
+			</person>
+			<person xml:id="P0118">
+				<persName>
+					<forename>Wilhelm Fridolin</forename>
+					<surname>Volkmann von Volkmar</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/129576956</idno>
+			</person>
+			<person xml:id="P0119">
+				<persName>Corti</persName>
+				
+				
+			</person>
+			<person xml:id="P0120">
+				<persName>Kölliker</persName>
+				
+				
+			</person>
+			<person xml:id="P0121">
+				<persName>Hensen</persName>
+				<idno type="GND">https://d-nb.info/gnd/17394860X</idno>
+			</person>
+			<person xml:id="P0122">
+				<persName>
+					<forename>Robert von</forename>
+					<surname>Zimmermann</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118637002</idno>
+			</person>
+			<person xml:id="P0123">
+				<persName>
+					<forename>Paul</forename>
+					<surname>Marquard</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/116788992</idno>
+				<note>as translator and editor of Aristoxenos</note>
+			</person>
+			<person xml:id="P0124">
+				<persName>Zeisig</persName>
+				
+				
+			</person>
+			<person xml:id="P0125">
+				<persName>
+					<forename>Gottfried Wilhelm</forename>
+					<surname>Leibniz</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118571249</idno>
+			</person>
+			<person xml:id="P0126">
+				<persName>
+					<forename>Gotthold Ephraim</forename>
+					<surname>Lessing</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118572121</idno>
+			</person>
+			<person xml:id="P0127">
+				<persName>
+					<forename>Immanuel</forename>
+					<surname>Kant</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118559796</idno>
+			</person>
+			<person xml:id="P0128">
+				<persName>
+					<forename>W.</forename>
+					<surname>Tappert</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/1333567251</idno>
+			</person>
+			<person xml:id="P0129">
+				<persName>
+					<forename>Joseph Adolph</forename>
+					<surname>Leibrock</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/127500995</idno>
+			</person>
+			<person xml:id="P0130">
+				<persName>
+					<forename>Ferdinand Peter</forename>
+					<surname>Laurencin d'Armond</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/116755792</idno>
+			</person>
+			<person xml:id="P0131">
+				<persName>
+					<forename>August Wilhelm</forename>
+					<surname>Ambros</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/116297506</idno>
+			</person>
+			<person xml:id="P0132">
+				<persName>
+					<forename>Luca</forename>
+					<surname>Marenzio</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118781847</idno>
+			</person>
+			<person xml:id="P0133">
+				<persName>
+					<forename>Otto</forename>
+					<surname>Kraushaar</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/136441343</idno>
+			</person>
+			<person xml:id="P0134">
+				<persName>
+					<forename>J. F.</forename>
+					<surname>Kunckel</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/1112948945</idno>
+			</person>
+			<person xml:id="P0135">
+				<persName>
+					<forename>Andreas</forename>
+					<surname>Kretzschmer</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/116652047</idno>
+			</person>
+			<person xml:id="P0136">
+				<persName>
+					<forename>Daniel Gottlob</forename>
+					<surname>Türk</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/119127709</idno>
+			</person>
+			<person xml:id="P0137">
+				<persName>
+					<forename>Friedrich</forename>
+					<surname>Schneider</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/11940818X</idno>
+			</person>
+			<person xml:id="P0138">
+				<persName>
+					<forename>de Sancto Amando</forename>
+					<surname>Hucbaldus</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118707566</idno>
+				<note>Monk, music theorist and composer around 900</note>
+			</person>
+			<person xml:id="P0139">
+				<persName>Vogler</persName>
+				<idno type="GND">https://d-nb.info/gnd/7837029-2</idno>
+			</person>
+			<person xml:id="P0140">
+				<persName>
+					<forename>Johann Anton</forename>
+					<surname>André</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/116331674</idno>
+			</person>
+			<person xml:id="P0141">
+				<persName>
+					<forename>Heinrich Christoph</forename>
+					<surname>Koch</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118777602</idno>
+			</person>
+			<person xml:id="P0142">
+				<persName>
+					<forename>G. F. W. von</forename>
+					<surname>Fink</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/141833084</idno>
+			</person>
+			<person xml:id="P0143">
+				<persName>
+					<forename>Johann Gottlieb</forename>
+					<surname>Portmann</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/133742334</idno>
+			</person>
+			<person xml:id="P0144">
+				<persName>
+					<forename>Johann Christian</forename>
+					<surname>Lobe</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/117068098</idno>
+			</person>
+			<person xml:id="P0145">
+				<persName>
+					<forename>Friedrich Wilhelm</forename>
+					<surname>Schütze</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/117141437</idno>
+			</person>
+			<person xml:id="P0146">
+				<persName>
+					<forename>Johann Georg</forename>
+					<surname>Albrechtsberger</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118501704</idno>
+			</person>
+			<person xml:id="P0147">
+				<persName>
+					<forename>Daniel-François-Esprit</forename>
+					<surname>Auber</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118646192</idno>
+			</person>
+			<person xml:id="P0148">
+				<persName>
+					<forename>Johann Rudolf</forename>
+					<surname>Zumsteeg</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118773267</idno>
+			</person>
+			<person xml:id="P0149">
+				<persName>
+					<forename>Luigi</forename>
+					<surname>Cherubini</surname>
+				</persName>
+				
+				
+			</person>
+			<person xml:id="P0150">
+				<persName>
+					<forename>Johann Nepomuk</forename>
+					<surname>Hummel</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118554751</idno>
+			</person>
+			<person xml:id="P0151">
+				<persName>
+					<forename>Gustav</forename>
+					<surname>Schilling</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/117269956</idno>
+			</person>
+			<person xml:id="P0152">
+				<persName>
+					<forename>Friedrich</forename>
+					<surname>Schiller</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118607626</idno>
+			</person>
+			<person xml:id="P0153">
+				<persName>
+					<forename>Aleksandr Dmitrievič</forename>
+					<surname>Ulybyšev</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/121674533</idno>
+			</person>
+			<person xml:id="P0154">
+				<persName>
+					<forename>Franz</forename>
+					<surname>Stöpel</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/117265608</idno>
+			</person>
+			<person xml:id="P0155">
+				<persName>
+					<forename>John</forename>
+					<surname>Curwen</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/128457236</idno>
+			</person>
+			<person xml:id="P0156">
+				<persName>
+					<forename>Carl Ludwig</forename>
+					<surname>Merkel</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/104273801</idno>
+			</person>
+			<person xml:id="P0157">
+				<persName>
+					<forename>Johann Friedrich</forename>
+					<surname>Bellermann</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/10214124X</idno>
+			</person>
+			<person xml:id="P0158">
+				<persName>
+					<forename>Simon</forename>
+					<surname>Sechter</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118612514</idno>
+			</person>
+			<person xml:id="P0159">
+				<persName>
+					<forename>Carl</forename>
+					<surname>Fortlage</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118684256</idno>
+			</person>
+			<person xml:id="P0160">
+				<persName>Boeckh</persName>
+				
+				
+			</person>
+			<person xml:id="P0161">
+				<persName>
+					<forename>Nicolaus Johannes de</forename>
+					<surname>Bona</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/1157697445</idno>
+			</person>
+			<person xml:id="P0162">
+				<persName>Plutarchus</persName>
+				<idno type="GND">https://d-nb.info/gnd/118595237</idno>
+			</person>
+			<person xml:id="P0163">
+				<persName>
+					<forename>William</forename>
+					<surname>Jones</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/11877638X</idno>
+			</person>
+			<person xml:id="P0164">
+				<persName>Olympos</persName>
+				<idno type="GND">https://d-nb.info/gnd/106321887X</idno>
+				<note>musician in ancient greece</note>
+			</person>
+			<person xml:id="P0165">
+				<persName>
+					<forename>Friedrich</forename>
+					<surname>Layriz</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/122005961</idno>
+			</person>
+			<person xml:id="P0166">
+				<persName>
+					<forename>F.</forename>
+					<surname>Brenner</surname>
+				</persName>
+				
+				
+			</person>
+			<person xml:id="P0167">
+				<persName>
+					<forename>Johann Leberecht Ehregott</forename>
+					<surname>Punschel</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/1144305764</idno>
+			</person>
+			<person xml:id="P0168">
+				<persName>Wendemann</persName>
+				
+				
+			</person>
+			<person xml:id="P0169">
+				<persName>
+					<forename>Papst</forename>
+					<surname>Johannes XXII.</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118557912</idno>
+				<note>Pope around 1322</note>
+			</person>
+			<person xml:id="P0170">
+				<persName>
+					<forename>Giovanni Pierluigi da</forename>
+					<surname>Palestrina</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118818686</idno>
+			</person>
+			<person xml:id="P0171">
+				<persName>
+					<forename>Joachim</forename>
+					<surname>Raff</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/1143618440</idno>
+			</person>
+			<person xml:id="P0172">
+				<persName>
+					<forename>Otfried</forename>
+					<surname>Rötscher</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/1329553543</idno>
+				<note>told Oettingen about Raff op. 74, 2 and Meyerbeer</note>
+			</person>
+			<person xml:id="P0173">
+				<persName>
+					<forename>Giacomo</forename>
+					<surname>Meyerbeer</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/118581945</idno>
+			</person>
+		</listPerson>
+	</standOff>
+</TEI>
