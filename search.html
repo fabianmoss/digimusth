@@ -5,9 +5,10 @@ title: Search
 
 <form id="site_search">
 <div>The search function allows users to look for a specific term or partial word matches within the corpus. The corpus refers exclusively to the textual data of this project.</div>
-<br>
-<input id="search" type="text"/></form>
-
+<br/>
+<div id="search-container">
+<input id="search" type="text"/></div></form>
+<hr/>
 <div id="results"></div>
 <ul id="search_results"></ul>
 
@@ -19,4 +20,4 @@ title: Search
 <script src="{{site.baseurl}}/assets/js/lunr.de.js"></script>
 
 <script src="{{site.baseurl}}/assets/js/search.js"></script>
-
+<script src="{{ site.baseurl }}/assets/js/xml-subsearch.js"></script>

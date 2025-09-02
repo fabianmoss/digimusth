@@ -1,7 +1,7 @@
 ---
 
 ---
-// Based on a script by Kathie Decora : katydecorah.com/code/lunr-and-jekyll/
+// Based on a script by Kathie Decora : katydecorah.com/code/lunr-and-jekyll/ updated for this project 
 
 
 // Create the lunr index for the search
@@ -31,11 +31,13 @@ console.log( index );
 // Builds reference data (maybe not necessary for us, to check)
 var store = [{% for text in site.texts %}{
   "title": {{text.title | jsonify}},
-  "author": {{text.author | jsonify}},
+  "author": {{ text.author | jsonify }},
   "layout": {{ text.layout | jsonify }},
-  "link": {{text.url | jsonify}},
-}
-{% unless forloop.last %},{% endunless %}{% endfor %}]
+  "xml": "{{ '/data/' | append: text.name | append: '/' | append: text.name | append: '.xml' | relative_url }}",
+  "html": "{{ text.url | relative_url }}"
+}{% unless forloop.last %},{% endunless %}{% endfor %}]
+
+
 
 // Query
 var qd = {}; // Gets values from the URL
@@ -54,18 +56,27 @@ function doSearch() {
   var result = index.search(query, {expand: true});
   resultdiv.empty();
   if (result.length == 0) {
-    resultdiv.append('<p class="">No results found.</p>');
+    resultdiv.append('<div class="alert">No results found.</div>');
   } else if (result.length == 1) {
-    resultdiv.append('<p class="">Found '+result.length+' result</p>');
+    resultdiv.append('<div class="alert">Found in '+result.length+' text</div><br/>');
   } else {
-    resultdiv.append('<p class="">Found '+result.length+' results</p>');
+    resultdiv.append('<div class="alert">Found in '+result.length+' texts</div><br/>');
   }
   // Loop through, match, and add results
   for (var item in result) {
     var ref = result[item].ref;
-    var searchitem = '<div class="result"><p><a href="{{ site.baseurl }}'+store[ref].link+'?q='+query+'">'+store[ref].title+'</a></p></div>';
+
+    var searchitem = $(
+        '<div class="result">' +
+            '<p class="clickable" data-xml="'+store[ref].xml+'" data-query="'+query+'" data-html="'+store[ref].html+'">' +
+                '<span style="color: #75b5aa;">▼ </span>' + store[ref].author + ': ' +store[ref].title +
+            '</p>' +
+            '<div class="subresults" style="display: none;"></div>' +
+        '</div>'
+    );
+
     resultdiv.append(searchitem);
-  }
+}
 }
 
 $(document).ready(function() {
@@ -74,4 +85,13 @@ $(document).ready(function() {
     doSearch();
   }
   $('input#search').on('keyup', doSearch);
+});
+
+// Toggle arrow and subresults on click
+$(document).on('click', '.clickable', function() {
+    var arrow = $(this).find('span');        // the ▼ arrow
+    var sub = $(this).siblings('.subresults'); // the hidden div
+
+    sub.toggle();                            // show/hide subresults
+    arrow.text(sub.is(':visible') ? '▲ ' : '▼ '); // switch arrow
 });

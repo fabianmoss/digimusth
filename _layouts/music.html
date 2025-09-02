@@ -95,9 +95,11 @@ layout: music_base
 				/*CETEIcean.getHTML5("../../musicdata/tei/" + path.innerHTML, function(data) { */
 			/* funktioniert: CETEIcean.getHTML5("../../musicdata/tei/" + "CAP1905_tei.xml", function(data) { */
 			document.getElementById("TEI").appendChild(data)
-				 if (window.MathJax) {
+			if (window.MathJax) {
 						MathJax.typesetPromise(); // Tell MathJax to process newly inserted content
 					}
+			/*search parameter*/
+			const query = new URLSearchParams(window.location.search).get("q");
 		})
 		/* Verovio */
 		var vrvToolkit = new verovio.toolkit()
@@ -130,6 +132,140 @@ layout: music_base
 		}
 		// Starte die Überprüfung, sobald die DOM-Inhalte verfügbar sind
 		document.addEventListener('DOMContentLoaded', checkDOMAndProcess);
-    </script>
 
-  </body>
+
+		/*function for scrolling and highlighting, needs tidying up */
+		
+
+	window.addEventListener('DOMContentLoaded', () => {
+			const hashParams = new URLSearchParams(window.location.hash.slice(1)); // remove the '#'
+
+			// 1. Handle scrolling to facs target
+			const facsValue = hashParams.get('facs');
+			if (facsValue) {
+				const decodedFacs = decodeURIComponent(facsValue);
+
+				const scrollToTarget = (tries = 20) => {
+				const el = document.querySelector(`[facs="${decodedFacs}"]`);
+				if (!el) {
+					// Element not yet in DOM → retry later
+					if (tries > 0) setTimeout(() => scrollToTarget(tries - 1), 500);
+					return;
+				}
+
+				// Scroll to it
+				el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+
+				// Verify after a short delay whether it's really visible
+				setTimeout(() => {
+					const rect = el.getBoundingClientRect();
+					const inView = rect.top >= 0 && rect.bottom <= window.innerHeight;
+
+					if (!inView && tries > 0) {
+					// Not fully visible → retry
+					scrollToTarget(tries - 1);
+					}
+				}, 600);
+				};
+
+				scrollToTarget();
+			}
+
+			// 2. Highlight elements matching any other attributes
+			for (const [key, value] of hashParams.entries()) {
+				if (key !== 'facs' && key !== "q") {
+				waitAndHighlight(key, decodeURIComponent(value));
+				}
+			}
+
+
+			const query = new URLSearchParams(window.location.search).get("q");
+			if (query) {
+				waitAndTagTerm("#TEI tei-tei", query);
+			}
+
+
+			});
+
+		// Reusable highlighter
+		function highlightElements(attributeName, attributeValue, className = 'highlight') {
+		const selector = `[${attributeName}="${attributeValue}"]`;
+		console.log(`Trying to highlight: ${selector}`);
+
+		const elements = document.querySelectorAll(selector);
+		console.log(`Found ${elements.length} elements`);
+
+		elements.forEach(el => {
+			el.classList.add(className);
+		});
+	}
+
+			function waitAndHighlight(attr, value, className = 'highlight', tries = 10) {
+		const selector = `[${attr}="${value}"]`;
+		const elements = document.querySelectorAll(selector);
+
+		if (elements.length > 0) {
+			elements.forEach(el => el.classList.add(className));
+			console.log(`✅ Highlighted ${elements.length} element(s) for ${selector}`);
+		} else if (tries > 0) {
+			setTimeout(() => waitAndHighlight(attr, value, className, tries - 1), 300);
+		} else {
+			console.warn(`⚠️ Could not find elements for ${selector}`);
+		}}
+		
+				
+		function waitAndTagTerm(rootSelector, term, className = "highlight", tries = 10) {
+		const container = document.querySelector(rootSelector);
+		if (!container) {
+			if (tries > 0) {
+			setTimeout(() => waitAndTagTerm(rootSelector, term, className, tries - 1), 300);
+			} else {
+			console.warn(`⚠️ Container ${rootSelector} not found.`);
+			}
+			return;
+		}
+
+		let found = false;
+		const safeTerm = term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); // escape regex
+		const regex = new RegExp(safeTerm, "gi");
+		const walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT, null);
+
+		let node;
+		const nodesToReplace = [];
+
+		// Collect nodes first (so we don't mutate while walking)
+		while ((node = walker.nextNode())) {
+			if (regex.test(node.nodeValue)) {
+			nodesToReplace.push(node);
+			}
+		}
+
+		// Replace in each node
+		nodesToReplace.forEach((textNode) => {
+			found = true;
+			const wrapper = document.createElement("span");
+			wrapper.innerHTML = textNode.nodeValue.replace(
+			regex,
+			`<span class="${className}">$&</span>`
+			);
+			textNode.parentNode.replaceChild(wrapper, textNode);
+		});
+
+		if (found) {
+			console.log(`✅ Highlighted "${term}" in ${nodesToReplace.length} text node(s)`);
+		} else if (tries > 0) {
+			setTimeout(() => waitAndTagTerm(rootSelector, term, className, tries - 1), 300);
+		} else {
+			console.warn(`⚠️ Could not find term "${term}" after retries.`);
+		}
+		}
+
+		function escapeRegExp(s) {
+		return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+		}
+
+
+	
+</script>
+
+</body>
