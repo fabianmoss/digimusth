@@ -20,7 +20,11 @@ tei-pc {
   max-width: 60%;
 }
 
-
+.smallcontainer{
+  min-width: 30%;
+  max-width: 40%;
+  margin: auto;
+}
 /* original style of text produce*/
 .letterSpaced {
   letter-spacing: 0.1em;
