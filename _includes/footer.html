@@ -1,84 +1,115 @@
 
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/presentation_css.css" />
 
+<div class="stickyfoot">
+  <p>
+    Change the presentation of annotated items: 
+
+    Authors and works
+    <label class="switch">
+      <input type="checkbox" class="toggle" data-func="stylepeople,styleworks">
+      <span class="slider round peoplestyle"></span>
+    </label>
+
+    Concepts
+    <label class="switch">
+      <input type="checkbox" class="toggle" data-func="styleconcepts">
+      <span class="slider round conceptstyle"></span>
+    </label>
+
+    Music
+    <label class="switch">
+      <input type="checkbox" class="toggle" data-func="stylemusic">
+      <span class="slider round musicstyle"></span>
+    </label>
+
+    Locations and time 
+    <label class="switch">
+      <input type="checkbox" class="toggle" data-func="stylelocations,styletime">
+      <span class="slider round timestyle"></span>
+    </label>
+
+    Check all
+    <label class="switch"> 
+      <input type="checkbox" id="checkAll">
+      <span class="slider round"></span>
+    </label>
+
+    <button onclick="topFunction()" id="topbutton" title="Go to top">Top</button> 
+  </p>
+</div>
+
 <script>
+  // --- Generic toggle helper ---
+  function toggleClass(elements, className, force) {
+    for (let item of elements) {
+      if (force === true) {
+        item.classList.add(className);
+      } else if (force === false) {
+        item.classList.remove(className);
+      } else {
+        item.classList.toggle(className);
+      }
+    }
+  }
 
+  // --- Style functions ---
+  function stylepeople(force) {
+    toggleClass(document.querySelectorAll("tei-persname[role='author'], tei-persname[role='composer']"), "peoplestyle", force);
+  }
 
-    function stylepeople() {
-       var elements = document.querySelectorAll("tei-persname[role='author'], tei-persname[role='composer']");
-       for (let item of elements) {
-        item.classList.toggle("peoplestyle");
-    }}
-    
-    function styleworks() {
-       var elements = document.querySelectorAll("tei-work_text, tei-work_music");
-       for (let item of elements) {
-        item.classList.toggle("workstyle");
-    }}
-    
-    function styleconcepts() {
-       var elements = document.querySelectorAll("tei-rs[ana='#concept_phy'], tei-rs[ana='#concept_mus']");
-       for (let item of elements) {
-        item.classList.toggle("conceptstyle");
-    }}
-    
-    function stylelocations() {
-       var elements = document.querySelectorAll("tei-placename");
-       for (let item of elements) {
-        item.classList.toggle("locationsstyle");
-    }}
-    function styletime() {
-       var elements = document.querySelectorAll("tei-date");
-       for (let item of elements) {
-        item.classList.toggle("timestyle");
-    }}
-    
-    function stylemusic() {
-       var elements = document.querySelectorAll("tei-rs[ana='#m_note'], tei-rs[ana='#m_chord'], tei-rs[ana='#m_interval'], tei-rs[ana='#m_tonality']");
-       for (let item of elements) {
-        item.classList.toggle("musicstyle");
-    }}
-    
-    // When the user clicks on the button, scroll to the top of the document
-    function topFunction() {
-      document.body.scrollTop = 0; // For Safari
-      document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
-    } 
-    
-    
-    </script>
-<div class="stickyfoot"><p>
-	Change the presentation of annotated items: 
-	
-			Authors and works
-			<label class="switch">
-			  <input type="checkbox" onclick="stylepeople(); styleworks()">
-			  <span class="slider round"></span>
-			</label>
-			
-			Concepts
-			<label class="switch">
-			  <input type="checkbox" onclick="styleconcepts()">
-			  <span class="slider round"></span>
-			</label>
-			
-			Music
-			<label class="switch">
-			  <input type="checkbox" onclick="stylemusic()">
-			  <span class="slider round"></span>
-			</label>
-			
-			Locations and time 
-			<label class="switch">
-			  <input type="checkbox" onclick="stylelocations(); styletime()">
-			  <span class="slider round"></span>
-			</label></span>
-			
-			Check all
-			<label class="switch"> 
-		  <input type="checkbox" onclick="stylepeople(); styleworks(); styleconcepts(); stylemusic(); stylelocations(); styletime()">
-		  <span class="slider round"></span>
-		</label>
-		 <button onclick="topFunction()" id="topbutton" title="Go to top">Top</button> 
-		</p>
-	</div>
+  function styleworks(force) {
+    toggleClass(document.querySelectorAll("tei-title"), "workstyle", force);
+  }
+
+  function styleconcepts(force) {
+    toggleClass(document.querySelectorAll("tei-rs[ana='#concept_phy'], tei-rs[ana='#concept_mus']"), "conceptstyle", force);
+  }
+
+  function stylelocations(force) {
+    toggleClass(document.querySelectorAll("tei-placename"), "locationsstyle", force);
+  }
+
+  function styletime(force) {
+    toggleClass(document.querySelectorAll("tei-date"), "timestyle", force);
+  }
+
+  function stylemusic(force) {
+    toggleClass(document.querySelectorAll("tei-rs[ana='#m_note'], tei-rs[ana='#m_chord'], tei-rs[ana='#m_interval'], tei-rs[ana='#m_tonality']"), "musicstyle", force);
+  }
+
+  // --- Scroll-to-top function ---
+  function topFunction() {
+    document.body.scrollTop = 0; 
+    document.documentElement.scrollTop = 0; 
+  }
+
+  // --- Checkbox logic ---
+  const checkAllBox = document.getElementById('checkAll');
+  const toggles = document.querySelectorAll('.toggle');
+
+  // Individual toggles
+  toggles.forEach(cb => {
+    cb.addEventListener('change', () => {
+      const funcs = cb.dataset.func.split(",");
+      funcs.forEach(fn => window[fn.trim()](cb.checked));
+
+      // Sync "Check all" if one is unchecked
+      if (!cb.checked) {
+        checkAllBox.checked = false;
+      } else if ([...toggles].every(t => t.checked)) {
+        checkAllBox.checked = true;
+      }
+    });
+  });
+
+  // Master toggle
+  checkAllBox.addEventListener('change', function () {
+    const checkAll = this.checked;
+    toggles.forEach(cb => {
+      cb.checked = checkAll;
+      const funcs = cb.dataset.func.split(",");
+      funcs.forEach(fn => window[fn.trim()](checkAll));
+    });
+  });
+</script>

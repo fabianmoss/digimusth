@@ -82,7 +82,7 @@ tei-pc {
 /*music */
 
 .musicstyle {
-	background-color: #75b5aa;
+	background-color: #B3D6D0;
 }
 
 
@@ -151,9 +151,7 @@ input:checked + .slider {
   background-color: #2196F3;
 }
 
-input:focus + .slider {
-  box-shadow: 0 0 1px #2196F3;
-}
+
 
 input:checked + .slider:before {
   -webkit-transform: translateX(26px);
@@ -169,6 +167,25 @@ input:checked + .slider:before {
 .slider.round:before {
   border-radius: 50%;
 } 
+
+/* button colours */ 
+/* Different colors for each slider when ON */
+input:checked + .slider.peoplestyle {
+  background-color: #f2b8cf;
+}
+
+input:checked + .slider.musicstyle {
+  background-color: #B3D6D0;
+}
+
+input:checked + .slider.conceptstyle {
+  background-color: #b8f2bb;
+}
+
+input:checked + .slider.timestyle {
+  background-color: #ffb396;
+}
+
 
 
 /* top button*/
