@@ -1,0 +1,220 @@
+---
+layout: page
+title: "Index Result People"
+toc_exclude: true
+---
+
+<head>
+  <title>Person Result Page</title>
+  <style>
+    mark {
+      background-color: darkcyan;
+      font-weight: bold;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <div id="results">Loading...</div>
+
+  <script>
+    const xmlNames = [
+      "CAP1905", "HAU1853", "HOS1879", "KRA1852", "KUN1863",
+      "NAU1858", "OET1866", "RIE1905", "THU1877", "WEI1860", "WEI1861"
+    ];
+
+     
+ // 🔹 Jekyll injects metadata for all texts here
+   const textMetadata = {
+    {% for page in site.texts %}
+    "{{ page.name }}": {
+      "title": {{ page.title | default: "" | jsonify }},
+      "author": {{ page.author | default: "" | jsonify }},
+      "year": {{ page.year | default: "" | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  };
+
+
+    const currentUrl = new URL(window.location.href);
+    const personId = currentUrl.searchParams.get("person");
+    const resultContainer = document.getElementById("results");
+
+    if (!personId) {
+      resultContainer.innerText = "No person ID provided in URL.";
+    } else {
+      searchPersonInXMLs(personId);
+    }
+
+    // -------- Person metadata loader --------
+    async function loadPersonMetadata(id) {
+      try {
+    const res = await fetch(`{{ site.baseurl }}/indexes/people.xml`);
+     if (!res.ok) return null;
+        const text = await res.text();
+        const parser = new DOMParser();
+        const xmlDoc = parser.parseFromString(text, "application/xml");
+
+        // find person by xml:id
+        let personEl = null;
+        xmlDoc.querySelectorAll("person").forEach(p => {
+          if (p.getAttribute("xml:id") === id) {
+            personEl = p;
+          }
+        });
+        if (!personEl) return null;
+
+        // try structured name, otherwise fallback
+        const forename = personEl.querySelector("persName > forename")?.textContent || "";
+        const surname = personEl.querySelector("persName > surname")?.textContent || "";
+        let fullName = (forename + " " + surname).trim();
+        if (!fullName) {
+          fullName = personEl.querySelector("persName")?.textContent.trim() || "Unknown Person";
+        }
+
+        const gnd = personEl.querySelector('idno[type="GND"]')?.textContent || null;
+        const note = personEl.querySelector("note")?.textContent || null;
+
+        return { fullName, gnd, note };
+      } catch (err) {
+        console.error("Error loading person metadata:", err);
+        return null;
+      }
+    }
+
+
+    // -------- Main search --------
+     async function searchPersonInXMLs(id) {
+      try {
+        const metadata = await loadPersonMetadata(id);
+        if (metadata) {
+          const metaDiv = document.createElement("div");
+          const gndNumber = metadata.gnd ? metadata.gnd.split("/").pop() : null;
+          metaDiv.innerHTML = `
+            <h1>${metadata.fullName}</h1>
+            ${metadata.gnd ? `<p><a href="${metadata.gnd}" target="_blank">GND: ${gndNumber}</a></p>` : ""}
+            ${metadata.note ? `<p><em>${metadata.note}</em></p>` : ""}
+            <hr/>
+          `;
+          resultContainer.innerHTML = "";
+          resultContainer.appendChild(metaDiv);
+        }
+
+        // load all xml files
+        const filePromises = xmlNames.map(name =>
+          fetch(`{{ site.baseurl }}/data/${name}/${name}.xml`)
+            .then(res => res.ok ? res.text() : null)
+            .catch(() => null)
+        );
+
+        const fileContents = await Promise.all(filePromises);
+        const matches = [];
+
+        fileContents.forEach((content, fileIndex) => {
+          if (!content) return;
+          const parser = new DOMParser();
+          const xmlDoc = parser.parseFromString(content, "application/xml");
+          const people = xmlDoc.querySelectorAll(`persName[ref="${id}"]`);
+
+          people.forEach(personEl => {
+            const parent = personEl.closest("p") || personEl.parentNode;
+            const facs = parent.getAttribute("facs") || "";
+            const walker = document.createTreeWalker(parent, NodeFilter.SHOW_TEXT, null);
+            let charCount = 0;
+            let targetStart = -1;
+            let targetEnd = -1;
+
+            while (walker.nextNode()) {
+              const node = walker.currentNode;
+              if (personEl.contains(node)) {
+                if (targetStart === -1) targetStart = charCount;
+                targetEnd = charCount + node.textContent.length;
+              }
+              charCount += node.textContent.length;
+            }
+            if (targetStart === -1 || targetEnd === -1) return;
+
+            const fullText = parent.textContent;
+            const before = fullText.slice(0, targetStart).split(/\s+/).slice(-5).join(" ");
+            const nameText = fullText.slice(targetStart, targetEnd).trim();
+            const after = fullText.slice(targetEnd).split(/\s+/).slice(0, 5).join(" ");
+            const snippet = `${before} ${nameText} ${after}`.trim();
+
+            if (!matches.some(m => m.snippet === snippet && m.source === xmlNames[fileIndex])) {
+              matches.push({ snippet, source: xmlNames[fileIndex], facs, highlight: nameText });
+            }
+          });
+        });
+
+        displayResults(matches, id);
+      } catch (err) {
+        console.error(err);
+        resultContainer.innerText = "Error processing XML files.";
+      }
+    }
+
+    // -------- Display results --------
+    async function displayResults(matches, id) {
+      if (matches.length === 0) {
+        resultContainer.innerHTML += `<p>No matches found for person ID "${id}".</p>`;
+        return;
+      }
+
+      const grouped = {};
+      matches.forEach(match => {
+        if (!grouped[match.source]) {
+          grouped[match.source] = [];
+        }
+        grouped[match.source].push(match);
+      });
+
+     //resultContainer.innerHTML += `<h2>Matches for ID "${id}":</h2>`; for trouble shooting
+
+      for (const source in grouped) {
+        const meta = textMetadata[source];
+        const link = `{{ site.baseurl }}/texts/${source}`;
+
+        if (meta) {
+          resultContainer.innerHTML += `
+            <h3>
+              <em>${meta.author ? meta.author + ": " : ""}</em>
+              ${meta.title} ${meta.year ? `(${meta.year})` : ""}
+              <a href="${link}" target="_blank">🡵</a>
+            </h3>
+            <!--<p><em>${source}</em></p>-->
+          `;
+        } else {
+          resultContainer.innerHTML += `
+            <h2>
+              ${source} <a href="${link}" target="_blank">🡵</a>
+            </h2>
+          `;
+        }
+
+        resultContainer.innerHTML += `<ul>`;
+
+        grouped[source].forEach(({ snippet, facs, highlight }) => {
+          const escaped = highlight.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+          const regex = new RegExp(`(${escaped})`, "gi");
+          const highlighted = snippet.replace(regex, '<mark>$1</mark>');
+
+          const ref = id;
+          const facsValue = encodeURIComponent(facs);
+          const hashParams = new URLSearchParams();
+          hashParams.set('facs', facsValue);
+          hashParams.set('ref', ref);
+
+          const facsLink = `${link}#${hashParams.toString()}`;
+
+            resultContainer.innerHTML += `
+            <div class="xml-result"><p>...${highlighted}... <a href="${facsLink}">View full 🡵</a></p></div>`;
+
+        
+        });
+
+        resultContainer.innerHTML += `</ul>`;
+        resultContainer.innerHTML += `<br>`;
+      }
+    }
+  </script>
+</body>

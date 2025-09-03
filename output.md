@@ -7,7 +7,7 @@ title: Research Engagement
 
 * Roeder, T., Klinger, J., Stickler, F., Keupp, C., & Moss, F. C. (2025) Multimodality and Minimal Publishing: TEI,MEI and more in 19th-Century Music Treatises. _25th Annual Meeting of the Text Encoding Initiative_. 16–17 September 2025, Kraków, Poland.
 
-### DH Kolloquium der BBAW
+### DH Kolloquium der BBAW | Fabian Moss
 
 * Moss, F. C. (2025, June 30). Text+ Musik: Multimodale Kodierungsherausforderungen im DigiMusTh-Kooperationsprojekt. _DH-Kolloquium an der Berlin-Brandenburgischen Akademie der Wissenschaften_, online.
 

@@ -20,9 +20,10 @@ tei-pc {
   max-width: 60%;
 }
 
+/* small container numbers are relative to the other container, therefore bigger */
 .smallcontainer{
-  min-width: 30%;
-  max-width: 40%;
+  min-width: 60%;
+  max-width: 80%;
   margin: auto;
 }
 /* original style of text produce*/
