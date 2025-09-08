@@ -18,7 +18,8 @@ layout: music_base
       } 
 		};
 	</script>
-	<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+	<script src="{{ site.baseurl }}/assets/js/mathjax/tex-mml-chtml.js"></script> <!--local-->
+	<!--<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script> async version-->
   </head>
 
   <body>
@@ -134,9 +135,13 @@ layout: music_base
 		document.addEventListener('DOMContentLoaded', checkDOMAndProcess);
 
 
+
+
+
+
+
 		/*function for scrolling and highlighting, needs tidying up */
 		
-
 	window.addEventListener('DOMContentLoaded', () => {
 			const hashParams = new URLSearchParams(window.location.hash.slice(1)); // remove the '#'
 
