@@ -598,7 +598,7 @@
 				<lb facs="#facs_12_r1l3" n="N003"/>sich aus ihnen ein Übergewicht des <rs ana="#m_tonality">Durgeschlecht</rs>s gegenüber
 				<lb facs="#facs_12_r1l4" n="N004"/>dem <rs ana="#m_tonality">Mollgeschlecht</rs> nicht nachweisen. Vielleicht ist mehr in <rs ana="#m_tonality">Moll</rs>,
 				<lb facs="#facs_12_r1l5" n="N005"/>als in <rs ana="#m_tonality">Dur</rs> komponirt worden. Ein jeder, dessen <rs ana="#concept_mus">musikalisch-</rs>
-				<lb facs="#facs_12_r1l6" n="N006"/><rs ana="#concept_mus">historische Kenntnisse</rs> nicht erst bei <persName role="composer" ref="P0008">Haydn</persName> anfangen, wird hier
+				<lb facs="#facs_12_r1l6" n="N006"/><rs ana="#concept_mus">historische Kenntnisse</rs> nicht erst bei <persName role="composer" ref="#P0008">Haydn</persName> anfangen, wird hier
 				<lb facs="#facs_12_r1l7" n="N007"/>übereinstimmen. Was den ästhetischen Wert der beiden <rs ana="#concept_mus">Ton<pc>¬</pc>
 				<lb facs="#facs_12_r1l8" n="N008"/>geschlechter</rs> anlangt, bei welchem es sich zunächst nicht um
 				<lb facs="#facs_12_r1l9" n="N009"/>auszudrückende Stimmungen oder Gefüle, sondern um Darstellungs<pc>¬</pc>
@@ -607,7 +607,7 @@
 				<lb facs="#facs_12_r1l12" n="N012"/>bürtige Töchter der Muse; dem Künstler sind sie gleich will<pc>¬</pc>
 				<lb facs="#facs_12_r1l13" n="N013"/>kommene Interpreten seiner Empfindungen, dem Hörer gewären
 				<lb facs="#facs_12_r1l14" n="N014"/>sie das gleiche Wolgefallen, die gleiche Befriedigung. Wenn
-				<lb facs="#facs_12_r1l15" n="N015"/><persName role="author" ref="P0001">Helmholtz</persName> (<title ana="#text" ref="W0001">Lehre v. d. Tonempfindungen</title>, 2. Aufl., S. 328)
+				<lb facs="#facs_12_r1l15" n="N015"/><persName role="author" ref="#P0001">Helmholtz</persName> (<title ana="#text" ref="#W0001">Lehre v. d. Tonempfindungen</title>, 2. Aufl., S. 328)
 				<lb facs="#facs_12_r1l16" n="N016"/>sagt, „die neueren <rs ana="#concept_mus">Harmoniker</rs> sträuben sich meistenteils zuzu<pc>¬</pc>
 				<lb facs="#facs_12_r1l17" n="N017"/>geben, dass der <rs ana="#m_chord">Mollaccord</rs> weniger konsonant sei als der <rs ana="#m_chord">Dur<pc>¬</pc>
 				<lb facs="#facs_12_r1l18" n="N018"/>accord</rs>”, so können wir künlich hinzufügen, dass diese <rs ana="#concept_mus">Harmoniker</rs>
@@ -642,8 +642,8 @@
             <p facs="#facs_13_TextRegion_1625584510463_284 #facs_14_TextRegion_1625584672914_389">
 				<lb facs="#facs_13_r1l19" n="N001"/>Die Anfänge der <rs ana="#concept_mus">modernen Theorie</rs> fallen zeitlich mit den
 				<lb facs="#facs_13_r1l20" n="N002"/>Anfängen der <rs ana="#concept_mus">neueren Musik</rs> zusammen. Das Jar <date when="1600">1600</date> bezeichnet
-				<lb facs="#facs_13_r1l21" n="N003"/>ungefär den Wendepunkt, wie dies meisterhaft <persName role="author" ref="P0009">C. v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Winter<pc>¬</pc></hi></persName>
-				<lb facs="#facs_13_r1l22" n="N004"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0009">feld</persName></hi> in seinem „<title ana="#text" ref="W0005">Johannes Gabrieli</title>” (<placeName ref="L0003">Berlin</placeName>, <date when="1834">1834</date>) auseinander<pc>¬</pc>
+				<lb facs="#facs_13_r1l21" n="N003"/>ungefär den Wendepunkt, wie dies meisterhaft <persName role="author" ref="#P0009">C. v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Winter<pc>¬</pc></hi></persName>
+				<lb facs="#facs_13_r1l22" n="N004"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0009">feld</persName></hi> in seinem „<title ana="#text" ref="#W0005">Johannes Gabrieli</title>” (<placeName ref="#L0003">Berlin</placeName>, <date when="1834">1834</date>) auseinander<pc>¬</pc>
 				<lb facs="#facs_13_r1l23" n="N005"/>gesetzt hat. Die <date>mittelalterlichen</date> <rs ana="#concept_mus">Oktavengattungen</rs> machten um
 				<lb facs="#facs_13_r1l24" n="N006"/>diese Zeit immer mehr einer durch die Grenzen und speziellen
 				<lb facs="#facs_13_r1l25" n="N007"/>Färbungen dieser Einzelformen nicht mehr beschränkten Anwen<pc>¬</pc>
@@ -652,9 +652,9 @@
 				<lb facs="#facs_13_r1l28" n="N010"/><rs ana="#concept_mus">musikalischen Theorie</rs> trat die <rs ana="#concept_mus">Accordlehre</rs>. Die ersten Versuche,
 				<lb facs="#facs_13_r1l29" n="N011"/><rs ana="#concept_mus">bezifferte Bässe</rs> zu schreiben, fanden ihre Vervollkommnung wie
 				<lb facs="#facs_13_r1l30" n="N012"/>auch den Beweis ihrer relativen Berechtigung zunächst in der von
-				<lb facs="#facs_13_r1l31" n="N013"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0005">Rameau</persName></hi> aufgestellten Theorie vom <rs ana="#concept_mus">Fundamentalbasse</rs>. Die
+				<lb facs="#facs_13_r1l31" n="N013"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0005">Rameau</persName></hi> aufgestellten Theorie vom <rs ana="#concept_mus">Fundamentalbasse</rs>. Die
 				<lb facs="#facs_13_r1l32" n="N014"/>aus dem <date>Mittelalter</date> herübergeretteten Reste der <date>antiken</date> <rs ana="#concept_phy">Zalenlehre</rs>
-				<lb facs="#facs_13_r1l33" n="N015"/>hatten schon dem geistvollen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0010">Zarlino</persName></hi> die Wichtigkeit der
+				<lb facs="#facs_13_r1l33" n="N015"/>hatten schon dem geistvollen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0010">Zarlino</persName></hi> die Wichtigkeit der
 				<lb facs="#facs_13_r1l34" n="N016"/>Tatsache nahe gelegt, dass die Teilung der gespannten <rs ana="#concept_mus">Saite</rs> nach
 				<lb facs="#facs_13_r1l35" n="N017"/>den Zalen 1—6 der <rs ana="#concept_phy">Reihe</rs> nach einem vollständigen <rs ana="#m_chord">Duraccord</rs>
             	<pb facs="#facs_14" n="3"/>
@@ -662,7 +662,7 @@
 				<lb facs="#facs_14_r2l3" n="N002"/><rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>}</rs> <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs> <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi>}</rs> bezeichnen können. Auch war ihm nicht entgangen, dass
 				<lb facs="#facs_14_r2l4" n="N003"/>bei weiterer Teilung nach den <rs ana="#concept_phy">Potenzen</rs> und <rs ana="#concept_phy">Produkten</rs> dieser
 				<lb facs="#facs_14_r2l5" n="N004"/>Zalen auch die übrigen <rs ana="#m_interval">Intervalle</rs> eines vollständigen <rs ana="#concept_mus">Tonsystemes</rs>
-				<lb facs="#facs_14_r2l6" n="N005"/>sich finden. Da nun diese Ergebnisse genau mit dem zu <persName role="author" ref="P0005">Ra<pc>¬</pc>
+				<lb facs="#facs_14_r2l6" n="N005"/>sich finden. Da nun diese Ergebnisse genau mit dem zu <persName role="author" ref="#P0005">Ra<pc>¬</pc>
 				<lb facs="#facs_14_r2l7" n="N006"/>meau</persName>'s Zeiten schon bekannten <rs ana="#concept_phy">physikalischen Phänomen</rs> der <rs ana="#concept_phy">har<pc>¬</pc>
 				<lb facs="#facs_14_r2l8" n="N007"/>monischen Obertöne</rs> übereinstimmen, so waren für letzteren hin<pc>¬</pc>
 				<lb facs="#facs_14_r2l9" n="N008"/>reichende Vorbedingungen zu seiner <rs ana="#concept_mus">Theorie</rs> von den <rs ana="#m_note">Stammtönen</rs>
@@ -687,8 +687,8 @@
 				<lb facs="#facs_14_r2l26" n="N013"/>und <rs ana="#m_tonality">Moll</rs> eine analoge Auffassung, Zergliederung, Behandlung,
 				<lb facs="#facs_14_r2l27" n="N014"/>und es hat dies weit mehr zu befriedigenden Resultaten gefürt,
 				<lb facs="#facs_14_r2l28" n="N015"/>als man nach der angenommenen <rs ana="#concept_mus">theoretischen Grundlagen</rs> hätte
-				<lb facs="#facs_14_r2l29" n="N016"/>erwarten dürfen. Schon zu <persName role="author" ref="P0005">Rameau</persName>'s Zeiten strich sein gelehrter
-				<lb facs="#facs_14_r2l30" n="N017"/>Interpret <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0011">d’Alembert</persName></hi> die <rs ana="#concept_phy">Zalenlehre</rs> als unnütz aus dem ganzen
+				<lb facs="#facs_14_r2l29" n="N016"/>erwarten dürfen. Schon zu <persName role="author" ref="#P0005">Rameau</persName>'s Zeiten strich sein gelehrter
+				<lb facs="#facs_14_r2l30" n="N017"/>Interpret <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0011">d’Alembert</persName></hi> die <rs ana="#concept_phy">Zalenlehre</rs> als unnütz aus dem ganzen
 				<lb facs="#facs_14_r2l31" n="N018"/>Systeme aus und erkannte nur das Phänomen der <rs ana="#concept_phy">Obertöne</rs> als
 				<lb facs="#facs_14_r2l32" n="N019"/>natürliche Grundlage der <rs ana="#concept_mus">Accordbildung</rs> an, auch dieses jedoch
 				<lb facs="#facs_14_r2l33" n="N020"/>nur in der <rs ana="#concept_mus">Theorie</rs>. Indem er für die <rs ana="#concept_mus">Praxis</rs> der Teilung der
@@ -702,7 +702,7 @@
 				<lb facs="#facs_15_r2l3" n="N003"/>auch dieses lockere Band erschien noch manchem als ein unbe<pc>¬</pc>
 				<lb facs="#facs_15_r2l4" n="N004"/>rechtigter Hemmschuh, und das beharrliche Streben, dasselbe, ge<pc>¬</pc>
 				<lb facs="#facs_15_r2l5" n="N005"/>stützt auf die Forderungen der <rs ana="#concept_mus">musikalischen Praxis</rs>, zu lösen,
-				<lb facs="#facs_15_r2l6" n="N006"/>steigerte sich bei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0012">Kiesewetter</persName></hi> und seinen neu-aristoxenischen
+				<lb facs="#facs_15_r2l6" n="N006"/>steigerte sich bei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0012">Kiesewetter</persName></hi> und seinen neu-aristoxenischen
 				<lb facs="#facs_15_r2l7" n="N007"/>Freunden zu einem recht eigentlichen Paroxysmus, und dies zu
 				<lb facs="#facs_15_r2l8" n="N008"/>einer Zeit, wo die <rs ana="#concept_phy">Physik</rs> zur Geltendmachung ihrer Ansprüche
 				<lb facs="#facs_15_r2l9" n="N009"/>schon mit ganz anderen Errungenschaften und Beweisen ins Feld
@@ -744,15 +744,15 @@
 			</p>
             <p facs="#facs_16_TextRegion_1625584950449_556">
 				<lb facs="#facs_16_r1l7" n="N001"/>Wir wollen beide im Auge behalten, dabei aber nicht ver<pc>¬</pc>
-				<lb facs="#facs_16_r1l8" n="N002"/>gessen, dass inzwischen eine <title ana="#music" ref="W0057"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>-moll-Messe</title>, dass <persName role="composer" ref="P0015">Mozarts</persName> <title ana="#music" ref="W0055"><hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi>-moll-</title>
-				<lb facs="#facs_16_r1l9" n="N003"/><title ana="#music" ref="W0055">Symphonie</title>, <persName role="composer" ref="P0016">Beethovens</persName> <title ana="#music" ref="W0058">fünfte</title> und <title ana="#music" ref="W0059">neunte</title>, ungestört durch <rs ana="#concept_mus">theo<pc>¬</pc>
+				<lb facs="#facs_16_r1l8" n="N002"/>gessen, dass inzwischen eine <title ana="#music" ref="#W0057"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>-moll-Messe</title>, dass <persName role="composer" ref="#P0015">Mozarts</persName> <title ana="#music" ref="#W0055"><hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi>-moll-</title>
+				<lb facs="#facs_16_r1l9" n="N003"/><title ana="#music" ref="#W0055">Symphonie</title>, <persName role="composer" ref="#P0016">Beethovens</persName> <title ana="#music" ref="#W0058">fünfte</title> und <title ana="#music" ref="#W0059">neunte</title>, ungestört durch <rs ana="#concept_mus">theo<pc>¬</pc>
 				<lb facs="#facs_16_r1l10" n="N004"/>retische Unbequemlichkeiten</rs>, fortfaren, die Menschheit zu erschüt<pc>¬</pc>
 				<lb facs="#facs_16_r1l11" n="N005"/>tern, und dass die ganze <rs ana="#concept_mus">Moll-Sentimentalität</rs> der neueren Schule
 				<lb facs="#facs_16_r1l12" n="N006"/>empfänglichen Seelen zu einem unschätzbaren Gegenstande der
 				<lb facs="#facs_16_r1l13" n="N007"/>Schwärmerei geworden ist. Mit Rücksicht auf diese großen und
 				<lb facs="#facs_16_r1l14" n="N008"/>weniger großen Erscheinungen hätte man allerdings wol den For<pc>¬</pc>
-				<lb facs="#facs_16_r1l15" n="N009"/>schungen jener Männer, welche — wie der schon genannte <persName role="author" ref="P0009">C. v.</persName>
-				<lb facs="#facs_16_r1l16" n="N010"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0009">Winterfeld</persName></hi> — auf Grund der <date>mittelalterlichen</date> <rs ana="#concept_mus">Oktavengat<pc>¬</pc>
+				<lb facs="#facs_16_r1l15" n="N009"/>schungen jener Männer, welche — wie der schon genannte <persName role="author" ref="#P0009">C. v.</persName>
+				<lb facs="#facs_16_r1l16" n="N010"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0009">Winterfeld</persName></hi> — auf Grund der <date>mittelalterlichen</date> <rs ana="#concept_mus">Oktavengat<pc>¬</pc>
 				<lb facs="#facs_16_r1l17" n="N011"/>tungen</rs> one primäre Rücksichtsnahme auf die <rs ana="#concept_mus">Accordbildung</rs> ver<pc>¬</pc>
 				<lb facs="#facs_16_r1l18" n="N012"/>hältnismässig leicht das Nebeneinanderbestehen der beiden <rs ana="#m_tonality">Ton<pc>¬</pc>
 				<lb facs="#facs_16_r1l19" n="N013"/>geschlechter</rs> nachzuweisen und zu erklären vermochten, etwas
@@ -760,14 +760,14 @@
 			</p>
             <p facs="#facs_16_TextRegion_1625584947870_552">
 				<lb facs="#facs_16_r1l21" n="N001"/>Doch können die Freunde des <rs ana="#m_tonality">Mollgeschlechts</rs> zufrieden sein,
-				<lb facs="#facs_16_r1l22" n="N002"/>dass wenigstens <hi rend="fontSize:0.0; kerning:0; bold:true;"><persName role="author" ref="P0007">Moritz Hauptmann</persName></hi> <note facs="#facs_16_TextRegion_1625584942776_548" type="foot" n="1)"><lb facs="#facs_16_r1l36" n="N001"/><title ana="#text" ref="W0004">Die Natur der Harmonik und Metrik</title>. <placeName ref="L0022">Leipzig</placeName> <date when="1853">1853</date>. —
-				<lb facs="#facs_16_r1l37" n="N002"/><title ana="#text" ref="W0006">Die Lehre von der Harmonik</title>, Nachgelassenes Werk, herausg. v. Dr. O. Paul,
-				<lb facs="#facs_16_r1l38" n="N003"/><placeName ref="L0022">Leipzig</placeName> <date when="1868">1868</date>.</note> sich entschiedene Anhänger
+				<lb facs="#facs_16_r1l22" n="N002"/>dass wenigstens <hi rend="fontSize:0.0; kerning:0; bold:true;"><persName role="author" ref="#P0007">Moritz Hauptmann</persName></hi> <note facs="#facs_16_TextRegion_1625584942776_548" type="foot" n="1)"><lb facs="#facs_16_r1l36" n="N001"/><title ana="#text" ref="#W0004">Die Natur der Harmonik und Metrik</title>. <placeName ref="#L0022">Leipzig</placeName> <date when="1853">1853</date>. —
+				<lb facs="#facs_16_r1l37" n="N002"/><title ana="#text" ref="#W0006">Die Lehre von der Harmonik</title>, Nachgelassenes Werk, herausg. v. Dr. O. Paul,
+				<lb facs="#facs_16_r1l38" n="N003"/><placeName ref="#L0022">Leipzig</placeName> <date when="1868">1868</date>.</note> sich entschiedene Anhänger
 				<lb facs="#facs_16_r1l23" n="N003"/>zu erwerben gewusst hat, der mitten im Gebiet der <rs ana="#concept_mus">Accordlehre</rs>
 				<lb facs="#facs_16_r1l24" n="N004"/>selbst einen großen Schritt gethan hat, der ihm nie vergessen
 				<lb facs="#facs_16_r1l25" n="N005"/>werden darf, wenn auch neuere Forschungen ihn überholt haben,
 				<lb facs="#facs_16_r1l26" n="N006"/>und wenn er auch selbst die Konsequenzen seiner <rs ana="#concept_mus">Theorie</rs> wol
-				<lb facs="#facs_16_r1l27" n="N007"/>nicht vollständig gezogen hat. Der Ausgangspunkt der <persName role="author" ref="P0007"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Haupt<pc>¬</pc>
+				<lb facs="#facs_16_r1l27" n="N007"/>nicht vollständig gezogen hat. Der Ausgangspunkt der <persName role="author" ref="#P0007"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Haupt<pc>¬</pc>
 				<lb facs="#facs_16_r1l28" n="N008"/>mann</hi>'schen</persName> <rs ana="#concept_mus">Theorie</rs> ist der Satz, dass das Band, welches den
 				<lb facs="#facs_16_r1l29" n="N009"/>durch den <rs ana="#m_interval">Zwieklang</rs> der <rs ana="#m_interval">Quint</rs> in die Erscheinung tretenden Gegen<pc>¬</pc>
 				<lb facs="#facs_16_r1l30" n="N010"/>satz zu einer höheren Einheit verbinden müsse, nur die <rs ana="#m_interval">(<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">große</hi>)</rs>
@@ -782,7 +782,7 @@
 				<lb facs="#facs_17_r1l2" n="N001"/>Dass dieser Grundgedanke nicht der auf <rs ana="#concept_phy">Schwingungszalen</rs>
 				<lb facs="#facs_17_r1l3" n="N002"/>oder <rs ana="#concept_phy">Saitenlängen</rs> gegründeten <rs ana="#concept_phy">Zalenlehre</rs>, auch nicht der <rs ana="#concept_phy">physi<pc>¬</pc>
 				<lb facs="#facs_17_r1l4" n="N003"/>kalischen Klanglehre</rs> entsprungen ist, liegt auf der flachen Hand.
-				<lb facs="#facs_17_r1l5" n="N004"/>Der geistvolle Schüler <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0013">Hegel</persName></hi>'s macht hier nur eine einfache
+				<lb facs="#facs_17_r1l5" n="N004"/>Der geistvolle Schüler <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0013">Hegel</persName></hi>'s macht hier nur eine einfache
 				<lb facs="#facs_17_r1l6" n="N005"/>Anwendung der spekulativen Prinzipien seines Meisters auf den
 				<lb facs="#facs_17_r1l7" n="N006"/><rs ana="#concept_mus">harmonikalen</rs> <rs ana="#concept_mus">Wolklangsbegriff</rs>. Da ihm diese Anwendung aus<pc>¬</pc>
 				<lb facs="#facs_17_r1l8" n="N007"/>reichende Resultate zu geben scheint, weist er jede andere Grund<pc>¬</pc>
@@ -797,7 +797,7 @@
             <p facs="#facs_17_TextRegion_1625585028805_623">
 				<lb facs="#facs_17_r1l16" n="N001"/>Wir dürfen jedoch an dieser Stelle das eine und das andere
 				<lb facs="#facs_17_r1l17" n="N002"/>dahingestellt sein lassen und wollen nur dem weiteren Gedanken<pc>¬</pc>
-				<lb facs="#facs_17_r1l18" n="N003"/>gange <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0007">Hauptmann</persName></hi>'s nachgehen, um zu zeigen, wie in dem
+				<lb facs="#facs_17_r1l18" n="N003"/>gange <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0007">Hauptmann</persName></hi>'s nachgehen, um zu zeigen, wie in dem
 				<lb facs="#facs_17_r1l19" n="N004"/>obigen Hauptsatze ein Kern <rs ana="#concept_mus">dualistischer</rs> — <rs ana="#m_tonality">Dur</rs>- und <rs ana="#m_tonality">Mollgeschlecht</rs>
 				<lb facs="#facs_17_r1l20" n="N005"/>als Gegensätze betrachtender — Anschauung liegt, der für die
 				<lb facs="#facs_17_r1l21" n="N006"/>ganze <rs ana="#concept_mus">musikalische Theorie</rs> fruchtbar und entscheidend hätte wer<pc>¬</pc>
@@ -860,27 +860,27 @@
            	 </figure>
             </p>
             <p facs="#facs_18_TextRegion_1625585132174_696 #facs_19_TextRegion_1625585331339_931 #facs_19_TextRegion_1625585327005_923 #facs_19_TextRegion_1625585322129_915 #facs_20_TextRegion_1625585455852_1028">
-				<lb facs="#facs_18_r1l37" n="N001"/>Soweit ist <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0007">Hauptmann</persName></hi> jedoch nicht gekommen. Er setzt
+				<lb facs="#facs_18_r1l37" n="N001"/>Soweit ist <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0007">Hauptmann</persName></hi> jedoch nicht gekommen. Er setzt
 				<lb facs="#facs_18_r1l38" n="N002"/>zur Erklärung der <rs ana="#m_tonality">Molltonart</rs> one genügende Beweisfürung dem
             	<pb facs="#facs_19" n="8"/>
             	<lb facs="#facs_19_r1l2" n="N001"/><rs ana="#concept_mus">dominantischen</rs> <rs ana="#m_chord">Stammaccorde</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_chord">C es G</rs></hi> einen <rs ana="#concept_mus">tonischen</rs> <rs ana="#m_chord">Oberaccord</rs>
 				<lb facs="#facs_19_r1l3" n="N002"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_chord">G h D</rs></hi> zur Seite und sagt nun, dass eine „Weiterbildung” aus
 				<lb facs="#facs_19_r1l4" n="N003"/>diesem Anfange „nach der <rs ana="#concept_mus">Unterdominantseite</rs> nur in <rs ana="#m_chord">Durdrei<pc>¬</pc>
-				<lb facs="#facs_19_r1l5" n="N004"/>klängen</rs> möglich” sei (<title ana="#text" ref="W0006">Lehre v. d. Harm.</title> S. 19 und 20). Diese
+				<lb facs="#facs_19_r1l5" n="N004"/>klängen</rs> möglich” sei (<title ana="#text" ref="#W0006">Lehre v. d. Harm.</title> S. 19 und 20). Diese
 				<lb facs="#facs_19_r1l6" n="N005"/>gänzlich ungegründete Behauptung fördert die alle Analogie mit
 				<lb facs="#facs_19_r1l7" n="N006"/>der <rs ana="#m_tonality">Durtonart</rs> zerstörende Missgestalt zu Tage:
             	<figure facs="#facs_19_Graphic_1625585358893_939">
                	<graphic url="graphic/facs_19_Graphic_1625585358893_939.png"/>
             	</figure>
             	<lb facs="#facs_19_r1l9" n="N001"/>welche bei dann bei der <rs ana="#concept_mus">melodischen Zusammenstellung</rs> zu einer
-				<lb facs="#facs_19_r1l10" n="N002"/><rs ana="#m_tonality">Tonleiter</rs> (<title ana="#text" ref="W0006">S. 27 f.</title>), widerum one zwingenden Grund, den beiden
+				<lb facs="#facs_19_r1l10" n="N002"/><rs ana="#m_tonality">Tonleiter</rs> (<title ana="#text" ref="#W0006">S. 27 f.</title>), widerum one zwingenden Grund, den beiden
 				<lb facs="#facs_19_r1l11" n="N003"/>anderen Formen, einer aufsteigenden <rs ana="#m_tonality">Leiter</rs> mit <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_interval">A h</rs></hi> und einer
 				<lb facs="#facs_19_r1l12" n="N004"/>absteigenden mit <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_interval">B as</rs></hi> weichen muss. Hier hat, wie man leicht
-				<lb facs="#facs_19_r1l13" n="N005"/>erkennt, das „natürliche <rs ana="#concept_mus">musikalische Gefül</rs>”, dem wir bei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0014">Gott<pc>¬</pc>
+				<lb facs="#facs_19_r1l13" n="N005"/>erkennt, das „natürliche <rs ana="#concept_mus">musikalische Gefül</rs>”, dem wir bei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0014">Gott<pc>¬</pc>
 				<lb facs="#facs_19_r1l14" n="N006"/>fried Weber</persName></hi> so gern begegnen, ein auf guter Grundlage be<pc>¬</pc>
 				<lb facs="#facs_19_r1l15" n="N007"/>gonnenes <rs ana="#concept_mus">System</rs> zu Falle gebracht, und die Hauptrolle spielt bei
 				<lb facs="#facs_19_r1l16" n="N008"/>diesem Zerstörungswerke der — <rs ana="#m_note">Leitton</rs>, jene betrübteste Erfin<pc>¬</pc>
-				<lb facs="#facs_19_r1l17" n="N009"/>dung der grundsatzlosen <rs ana="#concept_mus">modernen Theorie</rs>. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0007">Hauptmann</persName></hi>'s
+				<lb facs="#facs_19_r1l17" n="N009"/>dung der grundsatzlosen <rs ana="#concept_mus">modernen Theorie</rs>. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0007">Hauptmann</persName></hi>'s
 				<lb facs="#facs_19_r1l18" n="N010"/><rs ana="#m_tonality">Molltonart</rs> ist in keinem Sinne eine <rs ana="#m_tonality">Tonart</rs>. Wenn man dieses
 				<lb facs="#facs_19_r1l19" n="N011"/>Wort nicht in der banalen Bedeutung von „Trope” nimmt, so
 				<lb facs="#facs_19_r1l20" n="N012"/>muss von einer „<rs ana="#m_tonality">Tonart</rs>” verlangt werden, dass sie entweder eine
@@ -889,11 +889,11 @@
 				<lb facs="#facs_19_r1l23" n="N015"/><rs ana="#concept_mus">Authentischen</rs> und <rs ana="#concept_mus">Plagalischen</rs> bedingenden Umfangsbegrenzung
 				<lb facs="#facs_19_r1l24" n="N016"/>ein <rs ana="#concept_mus">Oktavengattungspar</rs> jener Art vertrete. Eine solche <rs ana="#m_tonality">Tonart</rs>
 				<lb facs="#facs_19_r1l25" n="N017"/>hat dann natürlicherweise auch ihr <rs ana="#concept_mus">leitereigenes</rs> <rs ana="#concept_mus">Accordsystem</rs>.
-				<lb facs="#facs_19_r1l26" n="N018"/><persName role="author" ref="P0007"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Hauptmann</hi>'s</persName> <rs ana="#m_tonality">Moll</rs> ist aber nur <rs ana="#concept_mus">Accordsystem</rs>, es ist nicht
+				<lb facs="#facs_19_r1l26" n="N018"/><persName role="author" ref="#P0007"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Hauptmann</hi>'s</persName> <rs ana="#m_tonality">Moll</rs> ist aber nur <rs ana="#concept_mus">Accordsystem</rs>, es ist nicht
 				<lb facs="#facs_19_r1l27" n="N019"/><rs ana="#concept_mus">melodieenbildnerisch</rs>, es produzirt nicht viel mehr, als eine <rs ana="#concept_mus">Kadenz</rs>.
 				<lb facs="#facs_19_r1l28" n="N020"/>Auch ein Gegenbild dieses unfruchtbaren <rs ana="#concept_mus">Accordsystems</rs> hat
-				<lb facs="#facs_19_r1l29" n="N021"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0007">Hauptmann</persName></hi> geschaffen, one aber dessen gegenbildlichen Cha<pc>¬</pc>
-				<lb facs="#facs_19_r1l30" n="N022"/>rakter zu erkennen; denn er nennt es „<rs ana="#m_tonality">Molldurtonart</rs>” (<title ana="#text" ref="W0004">a. a. O.</title>
+				<lb facs="#facs_19_r1l29" n="N021"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0007">Hauptmann</persName></hi> geschaffen, one aber dessen gegenbildlichen Cha<pc>¬</pc>
+				<lb facs="#facs_19_r1l30" n="N022"/>rakter zu erkennen; denn er nennt es „<rs ana="#m_tonality">Molldurtonart</rs>” (<title ana="#text" ref="#W0004">a. a. O.</title>
 				<lb facs="#facs_19_r1l31" n="N023"/>S. 21 f.; 29):
             	<figure facs="#facs_19_Graphic_1625585374287_946">
                	<graphic url="graphic/facs_19_Graphic_1625585374287_946.png"/>
@@ -904,7 +904,7 @@
             	<lb facs="#facs_20_r1l2" n="N001"/>und <rs ana="#m_tonality">Dur-Moll</rs> wenigstens hinzudeuten, das etwas mehr hervorzu<pc>¬</pc>
 				<lb facs="#facs_20_r1l3" n="N002"/>bringen vermag, als blosse aus dem einen <rs ana="#m_tonality">Tongeschlecht</rs> ins an<pc>¬</pc>
 				<lb facs="#facs_20_r1l4" n="N003"/>dere hinübergreifende <rs ana="#concept_mus">Kadenzen</rs>. Für unsern nächsten Zweck ist
-				<lb facs="#facs_20_r1l5" n="N004"/>das Ergebnis unserer Kritik dieses, dass <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0007">Hauptmann</persName></hi>'s scharf<pc>¬</pc>
+				<lb facs="#facs_20_r1l5" n="N004"/>das Ergebnis unserer Kritik dieses, dass <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0007">Hauptmann</persName></hi>'s scharf<pc>¬</pc>
 				<lb facs="#facs_20_r1l6" n="N005"/>sinnige Erklärung des Wesens der <rs ana="#concept_mus">Dreiklangsharmonie</rs> allerdings
 				<lb facs="#facs_20_r1l7" n="N006"/>für die <rs ana="#concept_mus">musikalische Theorie</rs> eine <rs ana="#concept_mus">dualistische</rs> Grundlage geschaffen
 				<lb facs="#facs_20_r1l8" n="N007"/>hat, dass aber diese in ihren Wirkungen vorläufig noch nicht bis
@@ -912,7 +912,7 @@
 			</p>
             <p facs="#facs_20_TextRegion_1625585453993_1024 #facs_21_TextRegion_1625585563775_1112">
 				<lb facs="#facs_20_r1l10" n="N001"/>Schlimmer aber, als die mangelhafte Durchfürung ist für
-				<lb facs="#facs_20_r1l11" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0007">Hauptmann</persName></hi>'s <rs ana="#concept_mus">dualistische</rs> Grundlage der Umstand, dass sie
+				<lb facs="#facs_20_r1l11" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0007">Hauptmann</persName></hi>'s <rs ana="#concept_mus">dualistische</rs> Grundlage der Umstand, dass sie
 				<lb facs="#facs_20_r1l12" n="N003"/>auf einem spekulativen Satz ruht, dessen Berechtigung lediglich
 				<lb facs="#facs_20_r1l13" n="N004"/>durch rein <rs ana="#concept_mus">musikalisch-ästhetische Empirie</rs> nachzuweisen ist.
 				<lb facs="#facs_20_r1l14" n="N005"/>Wenn die <rs ana="#concept_phy">Natur</rs> selbst, die uns das <rs ana="#concept_mus">Tonmaterial</rs> liefert, die psychi<pc>¬</pc>
@@ -947,13 +947,13 @@
 				<lb facs="#facs_21_r1l7" n="N005"/>produkt handelt, so wont in ihm vollkommene Gesetzmässigkeit,
 				<lb facs="#facs_21_r1l8" n="N006"/>welche ja das Objektive der Schönheit ist; aber die begehrende
 				<lb facs="#facs_21_r1l9" n="N007"/>Seite des Menschengeistes vermag nur einen Teil des Gesetz<pc>¬</pc>
-				<lb facs="#facs_21_r1l10" n="N008"/>mässigen zu erfassen und, weil sie ihn erfasst, zu lieben.<note facs="#facs_21_TextRegion_1625585543700_1094" type="foot" n="1)"><lb facs="#facs_21_r1l35" n="N001"/><title ana="#text" ref="W0060">Musikalische Briefe</title> von <persName role="author" ref="P0055">Dr. Eduard <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Krüger</hi></persName>. <placeName ref="L0024">Münster</placeName>, <date when="1870">1870</date>, S. 20: „Aller
+				<lb facs="#facs_21_r1l10" n="N008"/>mässigen zu erfassen und, weil sie ihn erfasst, zu lieben.<note facs="#facs_21_TextRegion_1625585543700_1094" type="foot" n="1)"><lb facs="#facs_21_r1l35" n="N001"/><title ana="#text" ref="#W0060">Musikalische Briefe</title> von <persName role="author" ref="#P0055">Dr. Eduard <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Krüger</hi></persName>. <placeName ref="#L0024">Münster</placeName>, <date when="1870">1870</date>, S. 20: „Aller
 				<lb facs="#facs_21_r1l36" n="N002"/>Schönheit verborgener Liebeszug offenbart sich in dem Suchen und Finden, dem Mit<pc>¬</pc>
 				<lb facs="#facs_21_r1l37" n="N003"/>leben: Die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Symbiosis</hi> der Geschlechtsliebe ist Ur- und Abbild aller Symmetrie, Sym<pc>¬</pc>
 				<lb facs="#facs_21_r1l38" n="N004"/>pathie, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Symphonie</hi>”.</note> Un<pc>¬</pc>
 				<lb facs="#facs_21_r1l11" n="N009"/>messbares gibt es zuletzt nicht mehr für den forschenden und
 				<lb facs="#facs_21_r1l12" n="N010"/>rechnenden Verstand; aber manches bleibt für die $$GRAPHIC <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">un<pc>¬</pc></hi>
-				<lb facs="#facs_21_r1l13" n="N011"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">fassbar</hi>.<note facs="#facs_21_TextRegion_1625585541450_1090" type="foot" n="2)"><lb facs="#facs_21_r1l39" n="N001"/><title ana="#text" ref="W0060">Ebenda</title> S. 9: „Alles Schöne trägt wie alles Lebendige einen mystischen Ueber<pc>¬</pc>
+				<lb facs="#facs_21_r1l13" n="N011"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">fassbar</hi>.<note facs="#facs_21_TextRegion_1625585541450_1090" type="foot" n="2)"><lb facs="#facs_21_r1l39" n="N001"/><title ana="#text" ref="#W0060">Ebenda</title> S. 9: „Alles Schöne trägt wie alles Lebendige einen mystischen Ueber<pc>¬</pc>
 				<lb facs="#facs_21_r1l40" n="N002"/>schuss des Lebens, der nicht in die Division aufgeht.”</note>
 			</p>
             <p facs="#facs_21_TextRegion_1625585563775_1111">
@@ -994,7 +994,7 @@
 				<lb facs="#facs_22_r1l8" n="N002"/>dürfen wir die Bemerkung nicht unterdrücken, dass die hier aus<pc>¬</pc>
 				<lb facs="#facs_22_r1l9" n="N003"/>gesprochene Warheit erst ganz erkannt wurde, als einer der größ<pc>¬</pc>
 				<lb facs="#facs_22_r1l10" n="N004"/>ten <rs ana="#concept_phy">physikalischen Forscher</rs> <date>unserer Zeit</date> die Arbeit schon getan
-				<lb facs="#facs_22_r1l11" n="N005"/>hatte, die seinem Gebiete oblag. Durch <hi rend="fontSize:0.0; kerning:0; bold:true;"><persName role="author" ref="P0001">Hermann Helmholtz</persName></hi><note facs="#facs_22_TextRegion_1625585775438_1198" type="foot" n="1)"><lb facs="#facs_22_r1l35" n="N001"/><title ana="#text" ref="W0001">Die Lehre von den Tonempfindungen. 2. Ausg.</title> <placeName ref="L0004">Braunschweig</placeName> <date when="1865">1865</date>.
+				<lb facs="#facs_22_r1l11" n="N005"/>hatte, die seinem Gebiete oblag. Durch <hi rend="fontSize:0.0; kerning:0; bold:true;"><persName role="author" ref="#P0001">Hermann Helmholtz</persName></hi><note facs="#facs_22_TextRegion_1625585775438_1198" type="foot" n="1)"><lb facs="#facs_22_r1l35" n="N001"/><title ana="#text" ref="#W0001">Die Lehre von den Tonempfindungen. 2. Ausg.</title> <placeName ref="#L0004">Braunschweig</placeName> <date when="1865">1865</date>.
 				<lb facs="#facs_22_r1l36" n="N002"/>Leider ist Ref. nicht in der Lage gewesen, die 3., vor einigen Jaren erschienene
 				<lb facs="#facs_22_r1l37" n="N003"/>Auflage zu benutzen.</note>
 				<lb facs="#facs_22_r1l12" n="N006"/>haben wir erst vollkommenen Einblick in die grossen Geheimnisse
@@ -1002,7 +1002,7 @@
 				<lb facs="#facs_22_r1l14" n="N008"/>ches in der <rs ana="#concept_phy">Natur</rs> schon vorgebildet ist, was als <rs ana="#concept_mus">Kunstgesetz</rs> der
 				<lb facs="#facs_22_r1l15" n="N009"/><rs ana="#concept_mus">musikalisch-ästhetische Sinn</rs> seit Jartausenden unverrückt festge<pc>¬</pc>
 				<lb facs="#facs_22_r1l16" n="N010"/>halten hat. Die bis ins Kleinste durchgefürten Auseinander<pc>¬</pc>
-				<lb facs="#facs_22_r1l17" n="N011"/>setzungen <persName role="author" ref="P0001">dieses Gelehrten</persName> über <rs ana="#concept_phy">Obertöne</rs> und <rs ana="#concept_phy">Kombinationstöne</rs>
+				<lb facs="#facs_22_r1l17" n="N011"/>setzungen <persName role="author" ref="#P0001">dieses Gelehrten</persName> über <rs ana="#concept_phy">Obertöne</rs> und <rs ana="#concept_phy">Kombinationstöne</rs>
 				<lb facs="#facs_22_r1l18" n="N012"/>sind in seltenem Masse populär geworden, und gerade diese sind
 				<lb facs="#facs_22_r1l19" n="N013"/>für unseren Zweck von Wichtigkeit, weil von dem abwechselnden
 				<lb facs="#facs_22_r1l20" n="N014"/>Auftreten dieser Erscheinungen die <rs ana="#concept_phy">Klangfarbe</rs> abhängt, in deren
@@ -1012,10 +1012,10 @@
 				<lb facs="#facs_22_r1l24" n="N018"/>nur unfassbar sind, so muss auf dem Gebiete des Naturschönen
 				<lb facs="#facs_22_r1l25" n="N019"/>der „volle” <rs ana="#m_note"><rs ana="#concept_phy">Ton</rs></rs> als das vollkommenste, schönste Gebild gelten.
 				<lb facs="#facs_22_r1l26" n="N020"/>Ihm gegenüber stehen die zwei Extreme des „dumpfen” und des
-				<lb facs="#facs_22_r1l27" n="N021"/>„scharfen” <rs ana="#concept_phy">Tones</rs>. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helmholtz</persName></hi> weist nun unwiderleglich nach,
+				<lb facs="#facs_22_r1l27" n="N021"/>„scharfen” <rs ana="#concept_phy">Tones</rs>. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0001">Helmholtz</persName></hi> weist nun unwiderleglich nach,
 				<lb facs="#facs_22_r1l28" n="N022"/>dass der <rs ana="#concept_phy"><rs ana="#m_note">volle Ton</rs></rs> sich durch das deutliche Vorherrschen der un<pc>¬</pc>
 				<lb facs="#facs_22_r1l29" n="N023"/>teren <rs ana="#concept_phy">Partialtöne</rs>, etwa vom ersten bis zum sechsten auszeichne.
-				<lb facs="#facs_22_r1l30" n="N024"/>Bei dem <rs ana="#concept_phy"><rs ana="#m_note">scharfen Tone</rs></rs> herrschen die höheren (von <persName role="author" ref="P0001">H.</persName> <rs ana="#concept_phy">unhar<pc>¬</pc>
+				<lb facs="#facs_22_r1l30" n="N024"/>Bei dem <rs ana="#concept_phy"><rs ana="#m_note">scharfen Tone</rs></rs> herrschen die höheren (von <persName role="author" ref="#P0001">H.</persName> <rs ana="#concept_phy">unhar<pc>¬</pc>
 				<lb facs="#facs_22_r1l31" n="N025"/>monisch</rs> genannten) <rs ana="#concept_phy">Obertöne</rs> zu sehr vor; der <rs ana="#concept_phy"><rs ana="#m_note">dumpfe Ton</rs></rs> ent<pc>¬</pc>
 				<lb facs="#facs_22_r1l32" n="N026"/>behrt der <rs ana="#concept_phy">Obertöne</rs> ganz oder fast ganz. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Der schönste na<pc>¬</pc></hi>
 				<lb facs="#facs_22_r1l33" n="N027"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">türliche <rs ana="#concept_phy"><rs ana="#m_note">Ton</rs></rs> ist also gar kein <rs ana="#m_note">Einzelton</rs>, er ist</hi>
@@ -1031,7 +1031,7 @@
 				<lb facs="#facs_23_r1l9" n="N008"/>er sich dem <rs ana="#concept_phy">natürlichen</rs> vollkommen anschließt, nichts anderes,
 				<lb facs="#facs_23_r1l10" n="N009"/>als der <rs ana="#concept_phy">natürliche</rs> <rs ana="#concept_mus">Klang</rs> in potenzirter Fülle. Wir müssen an
 				<lb facs="#facs_23_r1l11" n="N010"/>diesem Satze festhalten und von ihm ausgehen, wenn wir damit
-				<lb facs="#facs_23_r1l12" n="N011"/>auch vielleicht <persName role="author" ref="P0001"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helmholtz</hi>'</persName> Resultate zum Teil überschreiten,
+				<lb facs="#facs_23_r1l12" n="N011"/>auch vielleicht <persName role="author" ref="#P0001"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helmholtz</hi>'</persName> Resultate zum Teil überschreiten,
 				<lb facs="#facs_23_r1l13" n="N012"/>und wenn auch unserer Neigung, das <rs ana="#m_tonality">Mollgeschlecht</rs> dem <rs ana="#m_tonality">Durge<pc>¬</pc>
 				<lb facs="#facs_23_r1l14" n="N013"/>schlecht</rs> ebenbürtig zur Seite zu stellen, damit ein schwerer Stoß
 				<lb facs="#facs_23_r1l15" n="N014"/>versetzt wird. Ist der <rs ana="#concept_mus">Einzelklang</rs>, sobald er durch seine Fülle
@@ -1048,7 +1048,7 @@
             <p facs="#facs_23_TextRegion_1625585868456_1275 #facs_24_TextRegion_1625585973621_1360">
 				<lb facs="#facs_23_r1l25" n="N001"/>Noch mehr! Nehmen wir <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">künstlich</hi> irgend einen <rs ana="#concept_mus">Zu<pc>¬</pc>
 				<lb facs="#facs_23_r1l26" n="N002"/>sammenklang</rs>, z. B. <rs ana="#m_interval"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>}—<hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi>}</rs> <note facs="#facs_23_TextRegion_1625585865894_1271" type="foot" n="1)"><lb facs="#facs_23_r1l36" n="N001"/>Wir verlassen hier wieder die oben zur Andeutung der <rs ana="#concept_mus">kommatischen</rs> Unter<pc>¬</pc>
-				<lb facs="#facs_23_r1l37" n="N002"/>schiede angewendete <persName role="author" ref="P0007"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Hauptmann</hi>'sche</persName> <rs ana="#concept_mus">Bezeichnungsweise</rs> und adoptiren die alten
+				<lb facs="#facs_23_r1l37" n="N002"/>schiede angewendete <persName role="author" ref="#P0007"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Hauptmann</hi>'sche</persName> <rs ana="#concept_mus">Bezeichnungsweise</rs> und adoptiren die alten
 				<lb facs="#facs_23_r1l38" n="N003"/><rs ana="#concept_mus">Strichbezeichnungen</rs> zur Unterscheidung der <rs ana="#m_interval">Oktaven</rs>.</note> oder <rs ana="#m_interval"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>}—<hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs>, so haben wir weiter nichts,
 				<lb facs="#facs_23_r1l27" n="N003"/>als im ersten Falle den <rs ana="#concept_mus">Klang</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">c</rs></hi>, im zweiten den <rs ana="#concept_mus">Klang</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">C</rs></hi>; von
 				<lb facs="#facs_23_r1l28" n="N004"/>einem regelrecht angeschlagenen <rs ana="#concept_mus">Einzelklange</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">c</rs></hi> bezw. <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">C</rs></hi> unter<pc>¬</pc>
@@ -1082,9 +1082,9 @@
 			</p>
             <p facs="#facs_24_TextRegion_1625585967424_1352 #facs_25_TextRegion_1625586063989_1424">
 				<lb facs="#facs_24_r1l19" n="N001"/>Man möge nicht übersehen, dass wir uns bei vorstehenden
-				<lb facs="#facs_24_r1l20" n="N002"/>Ausfürungen keinerlei Abweichungen von den <persName role="author" ref="P0001"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helmholtz</hi>'schen</persName>
+				<lb facs="#facs_24_r1l20" n="N002"/>Ausfürungen keinerlei Abweichungen von den <persName role="author" ref="#P0001"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helmholtz</hi>'schen</persName>
 				<lb facs="#facs_24_r1l21" n="N003"/>Resultaten erlaubt haben. Nur Licht und Schatten haben wir
-				<lb facs="#facs_24_r1l22" n="N004"/>verwechseln zu dürfen geglaubt. Während <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helmholtz</persName></hi> die
+				<lb facs="#facs_24_r1l22" n="N004"/>verwechseln zu dürfen geglaubt. Während <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0001">Helmholtz</persName></hi> die
 				<lb facs="#facs_24_r1l23" n="N005"/><rs ana="#concept_phy">Kombinationstöne</rs> hauptsächlich als „Störungen des <rs ana="#concept_mus">Zusammen<pc>¬</pc>
 				<lb facs="#facs_24_r1l24" n="N006"/>klanges</rs>” behandelt, haben wir ihnen dagegen lediglich insoferne
 				<lb facs="#facs_24_r1l25" n="N007"/>unsere Aufmerksamkeit geschenkt, als sie den <rs ana="#concept_mus">Zusammenklang</rs>
@@ -1138,7 +1138,7 @@
 				<lb facs="#facs_25_r1l33" n="N009"/>treten wir aus dem <rs ana="#concept_phy">natürlichen Gebiete</rs> heraus, innerhalb dessen
 				<lb facs="#facs_25_r1l34" n="N010"/>es sich nur um <rs ana="#concept_phy">Fülle</rs> und <rs ana="#concept_phy">Schärfe</rs>, also um die allgemeinsten
             	<pb facs="#facs_26" n="15"/>
-            	<lb facs="#facs_26_r1l2" n="N001"/>ästhetischen Begriffe handeln konnte. — Innerhalb der von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helm<pc>¬</pc>
+            	<lb facs="#facs_26_r1l2" n="N001"/>ästhetischen Begriffe handeln konnte. — Innerhalb der von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0001">Helm<pc>¬</pc>
 				<lb facs="#facs_26_r1l3" n="N002"/>holtz</persName></hi> geltend gemachten Gesichtspunkte wird das Besprochene
 				<lb facs="#facs_26_r1l4" n="N003"/>so ziemlich hinreichen, um den Anhalt zu kennzeichnen, welchen
 				<lb facs="#facs_26_r1l5" n="N004"/>die <rs ana="#concept_mus">Musik</rs> nach Richtung der <rs ana="#concept_mus">Tonika</rs> und der <rs ana="#concept_mus">tonikalen Verwandt<pc>¬</pc>
@@ -1200,7 +1200,7 @@
       			<lb facs="#facs_27_r1l5" n="N004"/>8. Wenn die Lehre von der <rs ana="#concept_phy">natürlichen</rs> <rs ana="#concept_mus">Verwandtschaft</rs> jedes
 				<lb facs="#facs_27_r1l6" n="N005"/><rs ana="#concept_mus">Zusammenklanges</rs> mit einem bestimmten <rs ana="#m_note">Stammton</rs> für die <rs ana="#concept_phy">natur<pc>¬</pc>
 				<lb facs="#facs_27_r1l7" n="N006"/>gemäße</rs> Bildung künstlerischer Normalformen, als <rs ana="#m_chord">Accorde</rs>, <rs ana="#m_tonality">Skalen</rs>,
-				<lb facs="#facs_27_r1l8" n="N007"/>entscheidend ist, und wenn sich außer den von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helmholtz</persName></hi>
+				<lb facs="#facs_27_r1l8" n="N007"/>entscheidend ist, und wenn sich außer den von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0001">Helmholtz</persName></hi>
 				<lb facs="#facs_27_r1l9" n="N008"/>in die Berechnung gezogenen keine anderen Phänomene, oder in
 				<lb facs="#facs_27_r1l10" n="N009"/>diesen keine neuen Gesichtspunkte darbieten sollten, so ist die
 				<lb facs="#facs_27_r1l11" n="N010"/>Existenz eines mit dem <rs ana="#m_tonality">Durgeschlecht</rs> parallelen selbständigen
@@ -1209,7 +1209,7 @@
       		</item>
       	</list>
             <p facs="#facs_27_TextRegion_1625586228816_1538 #facs_28_TextRegion_1625586302753_1602">
-				<lb facs="#facs_27_r1l14" n="N001"/>Dass <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helmholtz</persName></hi> an ein solches Resultat nicht im ent<pc>¬</pc>
+				<lb facs="#facs_27_r1l14" n="N001"/>Dass <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0001">Helmholtz</persName></hi> an ein solches Resultat nicht im ent<pc>¬</pc>
 				<lb facs="#facs_27_r1l15" n="N002"/>ferntesten gedacht habe, braucht kaum bemerkt zu werden; aber
 				<lb facs="#facs_27_r1l16" n="N003"/>die Art und Weise, wie er demselben entgeht, scheint uns mit
 				<lb facs="#facs_27_r1l17" n="N004"/>Rücksicht auf seine eigenen <rs ana="#concept_phy">wissenschaftlichen Entdeckungen</rs> nicht
@@ -1290,8 +1290,8 @@
 				<lb facs="#facs_29_r1l17" n="N016"/>tritt ihr <rs ana="#concept_mus">Wolklang</rs> als <rs ana="#concept_mus">musikalische Konsonanz</rs> zu Tage.
 			</p>
             <p facs="#facs_29_TextRegion_1625586420519_1703">
-				<lb facs="#facs_29_r1l18" n="N001"/>Nach allen unseren Ausfürungen, zu denen <persName role="author" ref="P0001">der große <rs ana="#concept_phy">Phy<pc>¬</pc></rs></persName>
-				<lb facs="#facs_29_r1l19" n="N002"/><persName role="author" ref="P0001"><rs ana="#concept_phy">siker</rs></persName> uns den Weg geebnet hat, müssen wir das positive Moment
+				<lb facs="#facs_29_r1l18" n="N001"/>Nach allen unseren Ausfürungen, zu denen <persName role="author" ref="#P0001">der große <rs ana="#concept_phy">Phy<pc>¬</pc></rs></persName>
+				<lb facs="#facs_29_r1l19" n="N002"/><persName role="author" ref="#P0001"><rs ana="#concept_phy">siker</rs></persName> uns den Weg geebnet hat, müssen wir das positive Moment
 				<lb facs="#facs_29_r1l20" n="N003"/>der <rs ana="#concept_mus">Tonverwandtschaft</rs> für gefunden erklären, jedoch hinzufügen,
 				<lb facs="#facs_29_r1l21" n="N004"/>dass dieses bloß für das <rs ana="#m_tonality">Durgeschlecht</rs> Raum gibt, und gleich<pc>¬</pc>
 				<lb facs="#facs_29_r1l22" n="N005"/>zeitig die Einschränkung machen, dass wir bislang noch ver<pc>¬</pc>
@@ -1300,9 +1300,9 @@
 			</p>
             <p facs="#facs_29_TextRegion_1625586416795_1699 #facs_30_TextRegion_1625586499041_1765">
 				<lb facs="#facs_29_r1l25" n="N001"/>Ehe wir weiter gehen, müssen wir konstatiren, dass das
-				<lb facs="#facs_29_r1l26" n="N002"/><rs ana="#m_tonality">Mollgeschlecht</rs> bei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helmholtz</persName></hi> zwar selbstredend nicht ver<pc>¬</pc>
+				<lb facs="#facs_29_r1l26" n="N002"/><rs ana="#m_tonality">Mollgeschlecht</rs> bei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0001">Helmholtz</persName></hi> zwar selbstredend nicht ver<pc>¬</pc>
 				<lb facs="#facs_29_r1l27" n="N003"/>schwindet, aber doch in seinen Grundvesten erschüttert dasteht.
-				<lb facs="#facs_29_r1l28" n="N004"/>Der <rs ana="#m_chord">Durdreiklang</rs> allein ist eindeutig (<title ana="#text" ref="W0001">a. a. O.</title> S. 451); den <rs ana="#m_chord">Moll<pc>¬</pc>
+				<lb facs="#facs_29_r1l28" n="N004"/>Der <rs ana="#m_chord">Durdreiklang</rs> allein ist eindeutig (<title ana="#text" ref="#W0001">a. a. O.</title> S. 451); den <rs ana="#m_chord">Moll<pc>¬</pc>
 				<lb facs="#facs_29_r1l29" n="N005"/>dreiklang</rs> aber kann man als <rs ana="#concept_mus">Terzenklang</rs>, z. B. <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>} <hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>} <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi>}</rs> als <rs ana="#concept_mus"><hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>}-Klang</rs>
 				<lb facs="#facs_29_r1l30" n="N006"/>mit fremdem <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>}</rs> auffassen, oder aber, was die vorwiegende Deutung
 				<lb facs="#facs_29_r1l31" n="N007"/>ist, als <rs ana="#concept_mus"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>}-Klang</rs> mit fremdem <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>}</rs>. So ist er denn nichts, als eine
@@ -1310,15 +1310,15 @@
 				<lb facs="#facs_29_r1l33" n="N009"/><rs ana="#m_chord">Dreiklanges</rs>, dessen Stellung in der Kunst eine mehr als proble<pc>¬</pc>
 				<lb facs="#facs_29_r1l34" n="N010"/>matische sein sollte. Wir sind der Meinung, dass, wenn sich für
 				<lb facs="#facs_29_r1l35" n="N011"/>das <rs ana="#m_tonality">Mollgeschlecht</rs> nicht ein zweites <rs ana="#concept_mus">Verwandtschaftsprinzip</rs> auf<pc>¬</pc>
-				<lb facs="#facs_29_r1l36" n="N012"/>finden lässt, diesem viel zu viel Ehre angetan wird, wenn <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helm<pc>¬</pc>
+				<lb facs="#facs_29_r1l36" n="N012"/>finden lässt, diesem viel zu viel Ehre angetan wird, wenn <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0001">Helm<pc>¬</pc>
 				<lb facs="#facs_29_r1l37" n="N013"/>holtz</persName></hi> ihm die Eigenschaft zuweist, im Gegensatze zu dem uni<pc>¬</pc>
             	<pb facs="#facs_30" n="19"/>
             	<lb facs="#facs_30_r1l2" n="N001"/>versellen <rs ana="#m_tonality">Durgeschlechte</rs> „unklare, trübe oder rauhe Stimmungen
-				<lb facs="#facs_30_r1l3" n="N002"/>auszudrücken” (<title ana="#text" ref="W0001">S. 327</title>). Noch weniger passt dasjenige, was der
-				<lb facs="#facs_30_r1l4" n="N003"/>von ihm an derselben Stelle citirte Aesthetiker <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0056">Vischer</persName></hi> sagt,
+				<lb facs="#facs_30_r1l3" n="N002"/>auszudrücken” (<title ana="#text" ref="#W0001">S. 327</title>). Noch weniger passt dasjenige, was der
+				<lb facs="#facs_30_r1l4" n="N003"/>von ihm an derselben Stelle citirte Aesthetiker <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0056">Vischer</persName></hi> sagt,
 				<lb facs="#facs_30_r1l5" n="N004"/>wenn es gleich von seinem Standpunkte aus sehr prägnant ist,
-				<lb facs="#facs_30_r1l6" n="N005"/>zu den konsequent aufgefassten <persName role="author" ref="P0001"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helmholtz</hi>'schen</persName> Deduktionen.
-				<lb facs="#facs_30_r1l7" n="N006"/>Wir setzen dessen Worte (<title ana="#text" ref="W0061">Aesthetik</title>, dritter Teil § 772) zur
+				<lb facs="#facs_30_r1l6" n="N005"/>zu den konsequent aufgefassten <persName role="author" ref="#P0001"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helmholtz</hi>'schen</persName> Deduktionen.
+				<lb facs="#facs_30_r1l7" n="N006"/>Wir setzen dessen Worte (<title ana="#text" ref="#W0061">Aesthetik</title>, dritter Teil § 772) zur
 				<lb facs="#facs_30_r1l8" n="N007"/>Vergleichung hierher: „Der innere Unterschied von <rs ana="#m_tonality">Dur</rs> und <rs ana="#m_tonality">Moll</rs>
 				<lb facs="#facs_30_r1l9" n="N008"/>ist so wesentlich, dass jede der beiden <rs ana="#m_tonality">Tonweisen</rs> eine eigene Art
 				<lb facs="#facs_30_r1l10" n="N009"/>von <rs ana="#m_tonality">Tonsystem</rs>, ein eigenes <rs ana="#m_tonality">Tongeschlecht</rs>, begründet. Beide
@@ -1337,15 +1337,15 @@
 				<lb facs="#facs_30_r1l23" n="N022"/>verdrängten, aber keineswegs gehobenen Schatz von <rs ana="#concept_mus">Tonwerken</rs>
 				<lb facs="#facs_30_r1l24" n="N023"/>einer der herrlichsten Kunstperioden vor sich liegen hätte, würde
 				<lb facs="#facs_30_r1l25" n="N024"/>diesen Satz zweifelsone nur mit Staunen und Befremden lesen.
-				<lb facs="#facs_30_r1l26" n="N025"/>Jedenfalls wird der durch die <persName role="author" ref="P0001"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helmholtz</hi>'schen</persName> <title ana="#text" ref="W0001">Untersuchun<pc>¬</pc></title>
-				<lb facs="#facs_30_r1l27" n="N026"/><title ana="#text" ref="W0001">gen</title> ans Licht gestellte grelle Widerspruch zwischen <rs ana="#concept_mus">Theorie</rs> und
+				<lb facs="#facs_30_r1l26" n="N025"/>Jedenfalls wird der durch die <persName role="author" ref="#P0001"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helmholtz</hi>'schen</persName> <title ana="#text" ref="#W0001">Untersuchun<pc>¬</pc></title>
+				<lb facs="#facs_30_r1l27" n="N026"/><title ana="#text" ref="#W0001">gen</title> ans Licht gestellte grelle Widerspruch zwischen <rs ana="#concept_mus">Theorie</rs> und
 				<lb facs="#facs_30_r1l28" n="N027"/><rs ana="#concept_mus">Praxis</rs> durch ihn nicht gehoben. Wir finden es unter diesen Um<pc>¬</pc>
 				<lb facs="#facs_30_r1l29" n="N028"/>ständen ganz erklärlich, dass zalreiche Anhänger und Schüler des
-				<lb facs="#facs_30_r1l30" n="N029"/>grossen <rs ana="#concept_phy"><persName role="author" ref="P0001">Physiologen</persName></rs> sich freuen, ihn beim Worte nehmen zu
+				<lb facs="#facs_30_r1l30" n="N029"/>grossen <rs ana="#concept_phy"><persName role="author" ref="#P0001">Physiologen</persName></rs> sich freuen, ihn beim Worte nehmen zu
 				<lb facs="#facs_30_r1l31" n="N030"/>können, und den natürlichen <rs ana="#concept_mus">Durklang</rs> als die einzige „Seele der
 				<lb facs="#facs_30_r1l32" n="N031"/><rs ana="#concept_mus">Harmonie</rs>” betrachten zu dürfen. Im Gegensatze hiezu kann es
-				<lb facs="#facs_30_r1l33" n="N032"/>weiterhin nicht befremden, dass <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0007">Moritz Hauptmann</persName></hi> als
-				<lb facs="#facs_30_r1l34" n="N033"/>strenger Verfechter des <rs ana="#concept_mus">Dur-</rs> und <rs ana="#concept_mus">Moll-Dualismus</rs> die <persName role="author" ref="P0001"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helm<pc>¬</pc>
+				<lb facs="#facs_30_r1l33" n="N032"/>weiterhin nicht befremden, dass <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0007">Moritz Hauptmann</persName></hi> als
+				<lb facs="#facs_30_r1l34" n="N033"/>strenger Verfechter des <rs ana="#concept_mus">Dur-</rs> und <rs ana="#concept_mus">Moll-Dualismus</rs> die <persName role="author" ref="#P0001"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helm<pc>¬</pc>
 				<lb facs="#facs_30_r1l35" n="N034"/>holtz</hi>'schen</persName> Resultate gar nicht verstehen wollte, und sich ihnen
 				<lb facs="#facs_30_r1l36" n="N035"/>gegenüber mit seltener Entschiedenheit abwehrend verhielt.
 			</p>
@@ -1355,14 +1355,14 @@
             	<lb facs="#facs_31_r1l2" n="N001"/>hätte hoffen lassen. Beiden großen Männern an Scharfsinn und
 				<lb facs="#facs_31_r1l3" n="N002"/>Gelehrsamkeit kaum untergeordnet, von der prinzipiellen Richtig<pc>¬</pc>
 				<lb facs="#facs_31_r1l4" n="N003"/>keit der beiderseitigen Forschungen tief durchdrungen, gelangte
-				<lb facs="#facs_31_r1l5" n="N004"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><persName role="author" ref="P0018">Arthur v. Oettingen</persName></hi> <note facs="#facs_31_TextRegion_1625586586508_1829" type="foot" n="1)"><lb facs="#facs_31_r1l37" n="N001"/><title ana="#text" ref="W0017">Harmoniesystem in dualer Entwickelung</title>. <placeName ref="L0009">Dorpat</placeName> und <placeName ref="L0022">Leipzig</placeName>, <date when="1866">1866</date>.</note>, selbständig weiter bauend, zu einem
+				<lb facs="#facs_31_r1l5" n="N004"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><persName role="author" ref="#P0018">Arthur v. Oettingen</persName></hi> <note facs="#facs_31_TextRegion_1625586586508_1829" type="foot" n="1)"><lb facs="#facs_31_r1l37" n="N001"/><title ana="#text" ref="#W0017">Harmoniesystem in dualer Entwickelung</title>. <placeName ref="#L0009">Dorpat</placeName> und <placeName ref="#L0022">Leipzig</placeName>, <date when="1866">1866</date>.</note>, selbständig weiter bauend, zu einem
 				<lb facs="#facs_31_r1l6" n="N005"/>doppelten Resultate. Einmal findet er das positive Moment der
 				<lb facs="#facs_31_r1l7" n="N006"/><rs ana="#concept_mus">Tonverwandtschaft</rs> mit Recht in der Zugehörigkeit jedes soge<pc>¬</pc>
 				<lb facs="#facs_31_r1l8" n="N007"/>nannten <rs ana="#concept_mus">Zusammenklanges</rs> zu einem bestimmten <rs ana="#concept_mus">Stammklange</rs>.
 				<lb facs="#facs_31_r1l9" n="N008"/>Zweitens sucht er, in der Erkenntnis, dass diese Art von <rs ana="#concept_mus">Ver<pc>¬</pc>
 				<lb facs="#facs_31_r1l10" n="N009"/>wandtschaft</rs>, soweit sie bis dahin geltend gemacht worden war,
 				<lb facs="#facs_31_r1l11" n="N010"/>nur dem <rs ana="#m_tonality">Durgeschlechte</rs> eine berechtigte Existenz verleihe, als
-				<lb facs="#facs_31_r1l12" n="N011"/><rs ana="#concept_mus">Dualist</rs> im <persName role="author" ref="P0007"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Hauptmann</hi>'schen</persName> Sinne nach einem zweiten posi<pc>¬</pc>
+				<lb facs="#facs_31_r1l12" n="N011"/><rs ana="#concept_mus">Dualist</rs> im <persName role="author" ref="#P0007"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Hauptmann</hi>'schen</persName> Sinne nach einem zweiten posi<pc>¬</pc>
 				<lb facs="#facs_31_r1l13" n="N012"/>tiven <rs ana="#concept_mus">Verwandtschaftsprinzip</rs>, wodurch sich auch das <rs ana="#m_tonality">Mollgeschlecht</rs>
 				<lb facs="#facs_31_r1l14" n="N013"/>als vollberechtigt nachweisen lasse. Er sucht und findet es. Ist
 				<lb facs="#facs_31_r1l15" n="N014"/>die <rs ana="#concept_mus"><rs ana="#concept_phy">Konsonanz</rs></rs> einmal ein positiver und zwar <rs ana="#concept_phy">psychologischer</rs> Be<pc>¬</pc>
@@ -1377,14 +1377,14 @@
 				<lb facs="#facs_31_r1l24" n="N023"/>all den fremden, die man einmischen könnte, der einzig passende,
 				<lb facs="#facs_31_r1l25" n="N024"/>vollkommen <rs ana="#concept_mus"><rs ana="#concept_phy">konsonirende</rs></rs> ist, welcher den <rs ana="#m_chord">Accord</rs> zu einem
 				<lb facs="#facs_31_r1l26" n="N025"/><rs ana="#concept_mus">selbständigen</rs>, nicht <rs ana="#concept_mus">auflösungsbedürftigen</rs> macht. Wie nun unter
-				<lb facs="#facs_31_r1l27" n="N026"/><rs ana="#concept_mus">Durverwandtschaft</rs> eines <rs ana="#m_interval">Intervalles</rs> oder <rs ana="#m_chord">Accordes</rs> (von <persName role="author" ref="P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oet<pc>¬</pc></hi></persName>
-				<lb facs="#facs_31_r1l28" n="N027"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0018">tingen</persName></hi> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Tonicität</rs></hi> genannt) die Eigenschaft desselben zu
+				<lb facs="#facs_31_r1l27" n="N026"/><rs ana="#concept_mus">Durverwandtschaft</rs> eines <rs ana="#m_interval">Intervalles</rs> oder <rs ana="#m_chord">Accordes</rs> (von <persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oet<pc>¬</pc></hi></persName>
+				<lb facs="#facs_31_r1l28" n="N027"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0018">tingen</persName></hi> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Tonicität</rs></hi> genannt) die Eigenschaft desselben zu
 				<lb facs="#facs_31_r1l29" n="N028"/>verstehen ist, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">als <rs ana="#concept_mus">Klangbestandteil</rs> eines <rs ana="#m_note">Grund<pc>¬</pc></rs></hi>
-				<lb facs="#facs_31_r1l30" n="N029"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_note">tones</rs> aufgefasst werden zu können</hi> (<title ana="#text" ref="W0017">S. 31</title>), so ver<pc>¬</pc>
-				<lb facs="#facs_31_r1l31" n="N030"/>steht <persName role="author" ref="P0018">v. O.</persName> unter <rs ana="#concept_mus">Mollverwandtschaft</rs> (<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Phonicität</rs></hi>) die Eigen<pc>¬</pc>
+				<lb facs="#facs_31_r1l30" n="N029"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_note">tones</rs> aufgefasst werden zu können</hi> (<title ana="#text" ref="#W0017">S. 31</title>), so ver<pc>¬</pc>
+				<lb facs="#facs_31_r1l31" n="N030"/>steht <persName role="author" ref="#P0018">v. O.</persName> unter <rs ana="#concept_mus">Mollverwandtschaft</rs> (<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Phonicität</rs></hi>) die Eigen<pc>¬</pc>
 				<lb facs="#facs_31_r1l32" n="N031"/>schaft eines <rs ana="#m_interval">Intervalles</rs> oder <rs ana="#m_chord">Accordes</rs>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">stets irgendwelche</hi>
 				<lb facs="#facs_31_r1l33" n="N032"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">allen <rs ana="#m_note">Tönen</rs> gemeinsame <rs ana="#concept_phy">Partialtöne</rs> zu be<pc>¬</pc></hi>
-				<lb facs="#facs_31_r1l34" n="N033"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">sitzen</hi> (<title ana="#text" ref="W0017">S. 32</title>). Den tiefsten der allen gemeinsam zukommen<pc>¬</pc>
+				<lb facs="#facs_31_r1l34" n="N033"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">sitzen</hi> (<title ana="#text" ref="#W0017">S. 32</title>). Den tiefsten der allen gemeinsam zukommen<pc>¬</pc>
 				<lb facs="#facs_31_r1l35" n="N034"/>den <rs ana="#concept_phy">Partialtöne</rs> nennt er im Gegensatz zum <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">tonischen</rs> <rs ana="#m_note">Grund<pc>¬</pc></rs></hi>
 				<lb facs="#facs_31_r1l36" n="N035"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_note">ton</rs></hi> den <rs ana="#concept_mus">coïncidirenden</rs> oder <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">phonischen</rs> <rs ana="#concept_phy">Oberton</rs></hi> (von
 				<pb facs="#facs_32" n="21"/>
@@ -1401,9 +1401,9 @@
 				<lb facs="#facs_32_r1l12" n="N011"/>ihrem Wesen begründeten Einheitspunkt zu einem <rs ana="#concept_mus"><rs ana="#concept_phy">konsonanten</rs></rs>
 				<lb facs="#facs_32_r1l13" n="N012"/>und selbständigen Prinzipe zusammenfasst. Der <rs ana="#concept_mus">phonische</rs> <rs ana="#concept_phy">Ober<pc>¬</pc>
 				<lb facs="#facs_32_r1l14" n="N013"/>ton</rs> ist sonach für das <rs ana="#m_tonality">Mollgeschlecht</rs>, was der <rs ana="#concept_mus">tonische</rs> <rs ana="#m_note">Grundton</rs>
-				<lb facs="#facs_32_r1l15" n="N014"/>für das <rs ana="#m_tonality">Durgeschlecht</rs>. Hiermit ist denn der <persName role="author" ref="P0007"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Hauptmann</hi>'sche</persName>
+				<lb facs="#facs_32_r1l15" n="N014"/>für das <rs ana="#m_tonality">Durgeschlecht</rs>. Hiermit ist denn der <persName role="author" ref="#P0007"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Hauptmann</hi>'sche</persName>
 				<lb facs="#facs_32_r1l16" n="N015"/><rs ana="#concept_mus">Dualismus</rs> nicht bloß hergestellt, sondern auch <rs ana="#concept_phy">physiologisch</rs> be<pc>¬</pc>
-				<lb facs="#facs_32_r1l17" n="N016"/>gründet (<title ana="#text" ref="W0017">vgl. S. 40</title>). Mit der Eindeutigkeit irgend eines <rs ana="#m_interval">Inter<pc>¬</pc>
+				<lb facs="#facs_32_r1l17" n="N016"/>gründet (<title ana="#text" ref="#W0017">vgl. S. 40</title>). Mit der Eindeutigkeit irgend eines <rs ana="#m_interval">Inter<pc>¬</pc>
 				<lb facs="#facs_32_r1l18" n="N017"/>valles</rs> oder <rs ana="#m_chord">Accordes</rs> ist es aber nun zu Ende. Jede <rs ana="#concept_mus">Klangver<pc>¬</pc>
 				<lb facs="#facs_32_r1l19" n="N018"/>bindung</rs> kann — <rs ana="#concept_mus">theoretisch</rs> genommen — <rs ana="#concept_mus">tonisch</rs> und <rs ana="#concept_mus">phonisch</rs>
 				<lb facs="#facs_32_r1l20" n="N019"/>aufgefasst werden. Sagten wir oben, dass der <rs ana="#m_chord">Molldreiklang</rs> <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>} <hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>} <hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi>}</rs>
@@ -1418,14 +1418,14 @@
 				<lb facs="#facs_32_r1l29" n="N028"/><rs ana="#concept_mus">Systeme</rs> (<rs ana="#concept_mus">Zusammenklange</rs>) gleichen Namens einverleibt.
 			</p>
             <p facs="#facs_32_TextRegion_1625586670025_1890 #facs_33_TextRegion_1625586768754_1954">
-				<lb facs="#facs_32_r1l30" n="N001"/>Auf dieser „<rs ana="#concept_mus">dualen</rs>” Grundlage baut nun <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0018">von Oettingen</persName></hi>
-				<lb facs="#facs_32_r1l31" n="N002"/>im <persName role="author" ref="P0007"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Hauptmann</hi>'schen</persName> Sinne weiter, und zwar insofern konse<pc>¬</pc>
+				<lb facs="#facs_32_r1l30" n="N001"/>Auf dieser „<rs ana="#concept_mus">dualen</rs>” Grundlage baut nun <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0018">von Oettingen</persName></hi>
+				<lb facs="#facs_32_r1l31" n="N002"/>im <persName role="author" ref="#P0007"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Hauptmann</hi>'schen</persName> Sinne weiter, und zwar insofern konse<pc>¬</pc>
 				<lb facs="#facs_32_r1l32" n="N003"/>quenter, als dieser, als er einerseits die <rs ana="#concept_mus">phonischen</rs> <rs ana="#m_chord">Dreiklänge</rs>
 				<lb facs="#facs_32_r1l33" n="N004"/>nach ihrem Einheitsmomente, der <rs ana="#m_interval">Quint</rs>, benennt, andrerseits die
 				<lb facs="#facs_32_r1l34" n="N005"/><rs ana="#concept_mus">phonische</rs> <rs ana="#m_tonality">Normalskala</rs> aus drei <rs ana="#concept_mus">phonischen</rs> <rs ana="#m_chord">Dreiklängen</rs> zusammen<pc>¬</pc>
 				<lb facs="#facs_32_r1l35" n="N006"/>setzt. In Folge der Neuheit der Auffassung und der Bezeich<pc>¬</pc>
             	<pb facs="#facs_33" n="22"/>
-            	<lb facs="#facs_33_r1l2" n="N001"/>nungen ist das <title ana="#text" ref="W0017">Buch</title> nicht eben leicht zu lesen. Doch verdienen
+            	<lb facs="#facs_33_r1l2" n="N001"/>nungen ist das <title ana="#text" ref="#W0017">Buch</title> nicht eben leicht zu lesen. Doch verdienen
 				<lb facs="#facs_33_r1l3" n="N002"/>namentlich die speziellen Ausfürungen über <rs ana="#concept_mus">Modulation</rs> und <rs ana="#concept_mus">Klang<pc>¬</pc>
 				<lb facs="#facs_33_r1l4" n="N003"/>folge</rs>, <rs ana="#concept_mus">Verwandtschaftskreis</rs>, <rs ana="#concept_mus">Dissonanz</rs> und <rs ana="#concept_mus">Auflösung</rs> (3., 4. und
 				<lb facs="#facs_33_r1l5" n="N004"/>6. Abschn.) alle Beachtung.
@@ -1465,16 +1465,16 @@
 				<lb facs="#facs_33_r1l35" n="N024"/><rs ana="#concept_mus">Vollklang</rs> ihm nicht streitig machen kann.
 			</p>
             <p facs="#facs_33_TextRegion_1625586755431_1942 #facs_34_TextRegion_1625586852841_2021">
-				<lb facs="#facs_33_r1l36" n="N001"/>Sodann scheint es mir, dass <persName role="author" ref="P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi></persName> in Bezug auf
+				<lb facs="#facs_33_r1l36" n="N001"/>Sodann scheint es mir, dass <persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi></persName> in Bezug auf
 				<lb facs="#facs_33_r1l37" n="N002"/>die Begriffe von <rs ana="#concept_mus"><rs ana="#concept_phy">Konsonanz</rs></rs> und <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs> das positive und
 				<pb facs="#facs_34" n="23"/>
-            	<lb facs="#facs_34_r1l2" n="N001"/>negative Prinzip zu sehr getrennt behandelt. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helmholtz</persName></hi>
+            	<lb facs="#facs_34_r1l2" n="N001"/>negative Prinzip zu sehr getrennt behandelt. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0001">Helmholtz</persName></hi>
 				<lb facs="#facs_34_r1l3" n="N002"/>musste durch die Erfarung, dass jedem <rs ana="#concept_mus">Zusammenklange</rs> durch
 				<lb facs="#facs_34_r1l4" n="N003"/><rs ana="#concept_phy">Schwebungen</rs> und <rs ana="#concept_phy">Kombinationstöne</rs> Störungen erwachsen, die die
 				<lb facs="#facs_34_r1l5" n="N004"/>Erzeuger grösserer <rs ana="#concept_phy">Rauhigkeit</rs> sind, konsequent zu der Auffassung
 				<lb facs="#facs_34_r1l6" n="N005"/>kommen, es gebe eigentlich keine <rs ana="#concept_phy">Konsonanz</rs>, sondern nur größere
-				<lb facs="#facs_34_r1l7" n="N006"/>oder geringere <rs ana="#concept_phy">Dissonanz</rs>. Umgekehrt fürt das von <persName role="author" ref="P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettin<pc>¬</pc></hi></persName>
-				<lb facs="#facs_34_r1l8" n="N007"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0018">gen</persName></hi> geltend gemachte <rs ana="#concept_mus">positive Verwandtschaftsprinzip</rs> mit Not<pc>¬</pc>
+				<lb facs="#facs_34_r1l7" n="N006"/>oder geringere <rs ana="#concept_phy">Dissonanz</rs>. Umgekehrt fürt das von <persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettin<pc>¬</pc></hi></persName>
+				<lb facs="#facs_34_r1l8" n="N007"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0018">gen</persName></hi> geltend gemachte <rs ana="#concept_mus">positive Verwandtschaftsprinzip</rs> mit Not<pc>¬</pc>
 				<lb facs="#facs_34_r1l9" n="N008"/>wendigkeit dahin, alle <rs ana="#concept_mus">Klangverbindungen</rs> als <rs ana="#concept_mus"><rs ana="#concept_phy">Konsonanzen</rs></rs> zu
 				<lb facs="#facs_34_r1l10" n="N009"/>betrachten, da alle one Ausnahme <rs ana="#concept_mus">tonisch</rs> und <rs ana="#concept_mus">phonisch</rs> auf einen
 				<lb facs="#facs_34_r1l11" n="N010"/>Einheitspunkt hinweisen. Auch diese Betrachtung lässt nur gra<pc>¬</pc>
@@ -1483,16 +1483,16 @@
 				<lb facs="#facs_34_r1l14" n="N013"/><rs ana="#concept_mus">Reihen</rs>, die in unversöntem und unversönlichem Gegensatze zu
 				<lb facs="#facs_34_r1l15" n="N014"/>einander stehen und die Möglichkeit fruchtbarer ästhetischer Kon<pc>¬</pc>
 				<lb facs="#facs_34_r1l16" n="N015"/>traste ausschließen. Diese grundsätzliche Scheidung wird aber
-				<lb facs="#facs_34_r1l17" n="N016"/>durch <persName role="author" ref="P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi></persName> vollzogen. „Nimmt man zu den Begriffen
+				<lb facs="#facs_34_r1l17" n="N016"/>durch <persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi></persName> vollzogen. „Nimmt man zu den Begriffen
 				<lb facs="#facs_34_r1l18" n="N017"/>des <rs ana="#concept_mus">Klanges</rs> die Erscheinungen der <rs ana="#concept_phy">Kombinationstöne</rs> und der
 				<lb facs="#facs_34_r1l19" n="N018"/><rs ana="#concept_phy">Schwebungen</rs> hinzu, so bilden diese insgesammt die Grundlage
-				<lb facs="#facs_34_r1l20" n="N019"/>für eine <rs ana="#concept_mus">Theorie</rs> der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs></hi>”, heißt es <title ana="#text" ref="W0017">S. 27</title>, und im
+				<lb facs="#facs_34_r1l20" n="N019"/>für eine <rs ana="#concept_mus">Theorie</rs> der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs></hi>”, heißt es <title ana="#text" ref="#W0017">S. 27</title>, und im
 				<lb facs="#facs_34_r1l21" n="N020"/>folgenden werden dann <rs ana="#concept_mus">tonische</rs> und <rs ana="#concept_mus">phonische</rs> <rs ana="#concept_mus">Verwandtschaft</rs>
 				<lb facs="#facs_34_r1l22" n="N021"/>als Grundlage für die <rs ana="#concept_mus">Theorie</rs> der „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus"><rs ana="#concept_phy">Konsonanz</rs></rs></hi>” erklärt. Das
 				<lb facs="#facs_34_r1l23" n="N022"/>ist aber nicht richtig. Für den qualitativen Unterschied von <rs ana="#concept_mus"><rs ana="#concept_phy">Kon<pc>¬</pc>
 				<lb facs="#facs_34_r1l24" n="N023"/>sonanz</rs></rs> und <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs> liefert keine von beiden Auffassungen ge<pc>¬</pc>
-				<lb facs="#facs_34_r1l25" n="N024"/>nügenden Anhalt. Dagegen liefert die <persName role="author" ref="P0001"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helmholtz</hi>'sche</persName> An<pc>¬</pc>
-				<lb facs="#facs_34_r1l26" n="N025"/>schauung den nötigen <rs ana="#concept_phy">physiologischen</rs> Untergrund für das <persName role="author" ref="P0018"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oet<pc>¬</pc>
+				<lb facs="#facs_34_r1l25" n="N024"/>nügenden Anhalt. Dagegen liefert die <persName role="author" ref="#P0001"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helmholtz</hi>'sche</persName> An<pc>¬</pc>
+				<lb facs="#facs_34_r1l26" n="N025"/>schauung den nötigen <rs ana="#concept_phy">physiologischen</rs> Untergrund für das <persName role="author" ref="#P0018"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oet<pc>¬</pc>
 				<lb facs="#facs_34_r1l27" n="N026"/>tingen</hi>'sche</persName> <rs ana="#concept_phy">psychologische</rs> <rs ana="#concept_mus">Verwandtschaftsprinzip</rs>, und dieses
 				<lb facs="#facs_34_r1l28" n="N027"/>letztere kann nicht besser als richtig erwiesen werden, als wenn
 				<lb facs="#facs_34_r1l29" n="N028"/>man das genaue Zusammenfallen der <rs ana="#concept_mus">Verwandtschaftsnähe</rs> und
@@ -1585,10 +1585,10 @@
 				<lb facs="#facs_37_r1l5" n="N004"/>Der dritte, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">c</rs></hi>, ist nur einfach vorhanden. Die <rs ana="#concept_mus">Antiphonie</rs> dem
 				<lb facs="#facs_37_r1l6" n="N005"/><rs ana="#m_chord">Durdreiklange</rs> gegenüber erstreckt sich also sogar bis zu der
 				<lb facs="#facs_37_r1l7" n="N006"/><rs ana="#concept_phy">Stärke</rs> der entsprechenden <rs ana="#concept_mus">Klangglieder</rs>, worauf wir noch beson<pc>¬</pc>
-				<lb facs="#facs_37_r1l8" n="N007"/>ders aufmerksam machen, weil <persName role="author" ref="P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi></persName> diese <rs ana="#concept_mus">Antiphonie</rs>
+				<lb facs="#facs_37_r1l8" n="N007"/>ders aufmerksam machen, weil <persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi></persName> diese <rs ana="#concept_mus">Antiphonie</rs>
 				<lb facs="#facs_37_r1l9" n="N008"/>nicht genügend hervorgehoben, vielleicht auch nicht genügend
 				<lb facs="#facs_37_r1l10" n="N009"/>erkannt hat. Nicht auf die <rs ana="#concept_phy">Obertöne</rs> der <rs ana="#concept_mus">Phonika</rs> kommt es an,
-				<lb facs="#facs_37_r1l11" n="N010"/>wie <persName role="author" ref="P0018">v. O.</persName> auf <title ana="#text" ref="W0017">S. 32</title> geltend machen will, sondern auf deren
+				<lb facs="#facs_37_r1l11" n="N010"/>wie <persName role="author" ref="#P0018">v. O.</persName> auf <title ana="#text" ref="#W0017">S. 32</title> geltend machen will, sondern auf deren
 				<lb facs="#facs_37_r1l12" n="N011"/><rs ana="#concept_phy">Untertöne</rs>. Die <rs ana="#concept_mus">Phonika</rs> wächst nach unten, die <rs ana="#concept_mus">Tonika</rs> nach
 				<lb facs="#facs_37_r1l13" n="N012"/>oben. Auch die <rs ana="#concept_mus">Phonika</rs> hat ihre <rs ana="#concept_phy">Tonfülle</rs>, die aus dem Vor<pc>¬</pc>
 				<lb facs="#facs_37_r1l14" n="N013"/>herrschen der sechs ersten Bestandteile des <rs ana="#concept_mus">Systems</rs> resultirt.
@@ -1638,11 +1638,11 @@
             <p facs="#facs_38_TextRegion_1625587302356_2376 #facs_39_TextRegion_1625587396237_2447 #facs_40_TextRegion_1625587459626_2503">
 				<lb facs="#facs_38_r2l20" n="N001"/>Da wir den Weg durch die <rs ana="#m_chord">Dreiklänge</rs> zur <rs ana="#concept_mus">Skalenbildung</rs>
 				<lb facs="#facs_38_r2l21" n="N002"/>nicht als den richtigen anerkennen konnten, so dürfen wir nicht
-				<lb facs="#facs_38_r2l22" n="N003"/>zugestehen, dass in dieser Sache <persName role="author" ref="P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi></persName> das letzte Wort
+				<lb facs="#facs_38_r2l22" n="N003"/>zugestehen, dass in dieser Sache <persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi></persName> das letzte Wort
 				<lb facs="#facs_38_r2l23" n="N004"/>gesprochen habe. Das Festhalten an dem von uns oben ange<pc>¬</pc>
 				<lb facs="#facs_38_r2l24" n="N005"/>nommenen, wenn auch noch immer nicht genau bestimmten quali<pc>¬</pc>
 				<lb facs="#facs_38_r2l25" n="N006"/>tativen Unterschiede zwischen <rs ana="#concept_mus"><rs ana="#concept_phy">Konsonanz</rs></rs> und <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs> wird
-				<lb facs="#facs_38_r2l26" n="N007"/>uns weiter füren. Nach <persName role="author" ref="P0001"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helmholtz</hi>’</persName> und <persName role="author" ref="P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi>’s</persName>
+				<lb facs="#facs_38_r2l26" n="N007"/>uns weiter füren. Nach <persName role="author" ref="#P0001"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helmholtz</hi>’</persName> und <persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi>’s</persName>
 				<lb facs="#facs_38_r2l27" n="N008"/>konsequent durchgefürten Grundsätzen sollte es freilich einen sol<pc>¬</pc>
 				<lb facs="#facs_38_r2l28" n="N009"/>chen gar nicht geben; aber letzterer, der in der tieferen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_phy">psy<pc>¬</pc></rs></hi>
 				<lb facs="#facs_38_r2l29" n="N010"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_phy">chologischen</rs></hi> Bedeutung der <rs ana="#concept_phy">physiologischen</rs> <rs ana="#concept_phy">Klangerschei<pc>¬</pc>
@@ -1664,11 +1664,11 @@
 				<lb facs="#facs_39_r1l8" n="N007"/>welche alle <rs ana="#concept_mus">Zusammenklänge</rs> in fassbare, also <rs ana="#concept_mus">tonisch</rs> und <rs ana="#concept_mus">phonisch</rs>
 				<lb facs="#facs_39_r1l9" n="N008"/>brauchbare, und in unfassbare, <rs ana="#concept_mus">musikalisch</rs> unbrauchbare scheidet.
 				<lb facs="#facs_39_r1l10" n="N009"/>Diese primäre Scheidung verweist eine ganze Reihe von <rs ana="#concept_mus">Klang<pc>¬</pc>
-				<lb facs="#facs_39_r1l11" n="N010"/>verbindungen</rs>, deren „<hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#concept_mus">gradus amoenitates</rs></hi>”, wie <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0057">Euler</persName></hi> sagen
+				<lb facs="#facs_39_r1l11" n="N010"/>verbindungen</rs>, deren „<hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#concept_mus">gradus amoenitates</rs></hi>”, wie <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0057">Euler</persName></hi> sagen
 				<lb facs="#facs_39_r1l12" n="N011"/>würde, teilweise viel grösser ist, als der anderer, in der <rs ana="#concept_mus">Musik</rs>
 				<lb facs="#facs_39_r1l13" n="N012"/>viel gebrauchter <rs ana="#concept_mus">Zusammenklänge</rs>, in das Gebiet der fremdartigen
 				<lb facs="#facs_39_r1l14" n="N013"/><rs ana="#concept_mus">Klangaccidentien</rs>, die an <rs ana="#concept_mus">musikalischem</rs> Werte mit formlosen <rs ana="#concept_phy">Ge<pc>¬</pc>
-				<lb facs="#facs_39_r1l15" n="N014"/>räuschen</rs> auf einer Stufe stehen. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helmholtz</persName></hi> durfte dies von
+				<lb facs="#facs_39_r1l15" n="N014"/>räuschen</rs> auf einer Stufe stehen. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0001">Helmholtz</persName></hi> durfte dies von
 				<lb facs="#facs_39_r1l16" n="N015"/>seinem Standpunkte aus allerdings bestreiten, denn es handelt sich
 				<lb facs="#facs_39_r1l17" n="N016"/>hier um eine rein <rs ana="#concept_phy">psychologische</rs> Erscheinung. Es ist nicht zu
 				<lb facs="#facs_39_r1l18" n="N017"/>leugnen, dass beispielsweise die durch den 7. <rs ana="#concept_phy">Partialton</rs>, die sog.
@@ -1680,7 +1680,7 @@
 				<lb facs="#facs_39_r1l24" n="N023"/>unsern gebräuchlichsten <rs ana="#concept_phy">Klangfarben</rs> häufig vorkommender, meist
 				<lb facs="#facs_39_r1l25" n="N024"/>stark durchdringender <rs ana="#m_note">Ton</rs>, der keineswegs (z. B. beim <rs ana="#concept_mus">Pianoforte</rs>
 				<lb facs="#facs_39_r1l26" n="N025"/>durch die richtige Wal der Anschlagstelle des Hammers) künst<pc>¬</pc>
-				<lb facs="#facs_39_r1l27" n="N026"/>lich ausgemerzt zu werden pflegt, wie dies, ich meine von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0058">Zam<pc>¬</pc>
+				<lb facs="#facs_39_r1l27" n="N026"/>lich ausgemerzt zu werden pflegt, wie dies, ich meine von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0058">Zam<pc>¬</pc>
 				<lb facs="#facs_39_r1l28" n="N027"/>miner</persName></hi>, behauptet wurde. Wir stehen also hier vor der Frage,
 				<lb facs="#facs_39_r1l29" n="N028"/>ob wir berechtigt sind, der seelischen Fähigkeit, <rs ana="#concept_mus">Tonverwandt<pc>¬</pc>
 				<lb facs="#facs_39_r1l30" n="N029"/>schaften</rs> zu erkennen, d. h. als Quelle natürlicher Schönheit zu
@@ -1688,7 +1688,7 @@
 				<lb facs="#facs_39_r1l32" n="N031"/><rs ana="#concept_mus">musikalische Erfarung</rs> könnten uns mit den geringsten gegentei<pc>¬</pc>
 				<lb facs="#facs_39_r1l33" n="N032"/>ligen Resultaten sofort aus dem Felde schlagen. In der Tat sind
 				<lb facs="#facs_39_r1l34" n="N033"/>die verschiedenen Färbungen ($$GRAPHIC) der drei <rs ana="#m_tonality">Klanggeschlechter</rs>
-				<lb facs="#facs_39_r1l35" n="N034"/>bei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0059">Ptolemäus</persName></hi> und anderen griechischen <rs ana="#concept_mus">Theoretikern</rs> mit den
+				<lb facs="#facs_39_r1l35" n="N034"/>bei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0059">Ptolemäus</persName></hi> und anderen griechischen <rs ana="#concept_mus">Theoretikern</rs> mit den
 				<lb facs="#facs_39_r1l36" n="N035"/>Zalen 7, 11, 23 reich geschmückt. Jedoch in <rs ana="#concept_mus">musikalischen</rs> Dingen
 				<lb facs="#facs_39_r1l37" n="N036"/>trauen wir dem berühmten <rs ana="#concept_phy">Astronomen</rs> nicht recht. One an dieser
             	<pb facs="#facs_40" n="29"/>
@@ -1703,14 +1703,14 @@
 				<lb facs="#facs_40_r1l10" n="N009"/>vermöge ihrer Änlichkeit mit der <rs ana="#m_interval">reinen Terz</rs> als <rs ana="#concept_mus"><rs ana="#concept_phy">Konsonanzen</rs></rs>
 				<lb facs="#facs_40_r1l11" n="N010"/>künstlerisch verwendet werden. Sie sind und bleiben mangelhafte
 				<lb facs="#facs_40_r1l12" n="N011"/>Surrogate des reinen <rs ana="#m_interval">Intervalls</rs> und werden <rs ana="#concept_phy">psychisch</rs> auch nur
-				<lb facs="#facs_40_r1l13" n="N012"/>als solche empfunden. So bleiben denn noch <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0036">Kirnberger</persName></hi>
-				<lb facs="#facs_40_r1l14" n="N013"/>und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0060">Fasch</persName></hi>, deren Experimente mit dem „<rs ana="#concept_mus">Ton <hi rend="italic:true; fontSize:0.0; kerning:0;">i</hi></rs>” wir indessen
+				<lb facs="#facs_40_r1l13" n="N012"/>als solche empfunden. So bleiben denn noch <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0036">Kirnberger</persName></hi>
+				<lb facs="#facs_40_r1l14" n="N013"/>und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0060">Fasch</persName></hi>, deren Experimente mit dem „<rs ana="#concept_mus">Ton <hi rend="italic:true; fontSize:0.0; kerning:0;">i</hi></rs>” wir indessen
 				<lb facs="#facs_40_r1l15" n="N014"/>ebenfalls als verunglückt bezeichnen dürfen, um so mehr, da ein
 				<lb facs="#facs_40_r1l16" n="N015"/>grosser <rs ana="#concept_mus">Tonsetzer</rs> unserer Tage, der im Punkte der <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanzen</rs></rs>
 				<lb facs="#facs_40_r1l17" n="N016"/>ein Übriges geleistet hat, sich nach jarzehndelangem Bemühen,
 				<lb facs="#facs_40_r1l18" n="N017"/>etwas neues zu schaffen, noch nicht getraut hat, die heilige <rs ana="#concept_phy">Zal</rs>
 				<lb facs="#facs_40_r1l19" n="N018"/>7 mit ihrem Anhang seinen für die Unsterblichkeit bestimmten
-				<lb facs="#facs_40_r1l20" n="N019"/><rs ana="#concept_mus">Werken</rs> einzuverleiben. Und doch hat <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0061">Johanna Kinkel</persName></hi>
+				<lb facs="#facs_40_r1l20" n="N019"/><rs ana="#concept_mus">Werken</rs> einzuverleiben. Und doch hat <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0061">Johanna Kinkel</persName></hi>
 				<lb facs="#facs_40_r1l21" n="N020"/>für spätere Tage schon vorlängst die „Emanzipation der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Vier<pc>¬</pc></rs></hi>
 				<lb facs="#facs_40_r1l22" n="N021"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">telstöne</rs></hi>” gepredigt. Welche Art von <rs ana="#concept_mus">Klangverhältnissen</rs> mag
 				<lb facs="#facs_40_r1l23" n="N022"/>sich wol unter diesem Namen verbergen? —
@@ -1781,7 +1781,7 @@
 				<lb facs="#facs_42_r1l12" n="N011"/><rs ana="#concept_mus">Verhältnisse</rs> im <rs ana="#concept_mus">Rhythmus</rs> berürt uns hier nicht. Das Sichere
 				<lb facs="#facs_42_r1l13" n="N012"/>genügt vollständig. Die <rs ana="#concept_phy">Zalen</rs> 7, 11, 13 u. s. w. als <rs ana="#concept_mus">Grundmaß</rs>
 				<lb facs="#facs_42_r1l14" n="N013"/>des <rs ana="#concept_mus">Taktes</rs> oder der <rs ana="#concept_mus">Periode</rs> aufstellen zu wollen, wäre ein Un<pc>¬</pc>
-				<lb facs="#facs_42_r1l15" n="N014"/>ding, und selbst unter dem Titel $$GRAPHIC, welchen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0062">Aristo<pc>¬</pc>
+				<lb facs="#facs_42_r1l15" n="N014"/>ding, und selbst unter dem Titel $$GRAPHIC, welchen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0062">Aristo<pc>¬</pc>
 				<lb facs="#facs_42_r1l16" n="N015"/>xenos</persName></hi> und nach ihm andere gewissen schwer qualificirbaren
 				<lb facs="#facs_42_r1l17" n="N016"/><rs ana="#concept_mus">Taktarten</rs> geben, wird niemand sie in die <rs ana="#concept_mus">rhythmische Theorie</rs>
 				<lb facs="#facs_42_r1l18" n="N017"/>aufnehmen wollen. Das würde, wie jede <rs ana="#concept_mus">Taktlosigkeit</rs>, lauter
@@ -1824,7 +1824,7 @@
 				<lb facs="#facs_43_r2l14" n="N007"/>nanzabstufung</rs> sich in einem <rs ana="#concept_phy">mathematischen</rs> Gesetze widerspiegeln
 				<lb facs="#facs_43_r2l15" n="N008"/>muss, und dass auch die Grenze der <rs ana="#concept_mus">Harmonie</rs> wie der <rs ana="#concept_mus">Eurhythmie</rs>
 				<lb facs="#facs_43_r2l16" n="N009"/>durch gewisse <rs ana="#concept_phy">Zalenverhältnisse</rs> bestimmt wird, finden die Sätze
-				<lb facs="#facs_43_r2l17" n="N010"/><persName role="author" ref="P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi>’s</persName> über <rs ana="#concept_mus">tonische</rs> und <rs ana="#concept_mus">phonische</rs> <rs ana="#concept_mus">Verwandtschaft</rs>
+				<lb facs="#facs_43_r2l17" n="N010"/><persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi>’s</persName> über <rs ana="#concept_mus">tonische</rs> und <rs ana="#concept_mus">phonische</rs> <rs ana="#concept_mus">Verwandtschaft</rs>
 				<lb facs="#facs_43_r2l18" n="N011"/>ihre rechte Beleuchtung, wodurch es uns ermöglicht wird, ihnen
 				<lb facs="#facs_43_r2l19" n="N012"/>auch eine präcisere Fassung zu geben. Bei der Begriffsbestimmung
 				<lb facs="#facs_43_r2l20" n="N013"/>„Unter <rs ana="#concept_mus">Tonicität</rs> eines <rs ana="#m_interval">Intervalles</rs> oder <rs ana="#m_chord">Accordes</rs> versteht man
@@ -1893,9 +1893,9 @@
 				<lb facs="#facs_45_r1l3" n="N002"/>drücken, dass <rs ana="#concept_mus">rhythmische</rs> Schwerfälligkeit Erschwerung des Ver<pc>¬</pc>
 				<lb facs="#facs_45_r1l4" n="N003"/>ständnisses im Gefolge hat und daher manchem <rs ana="#concept_mus">Komponisten</rs> als
 				<lb facs="#facs_45_r1l5" n="N004"/>Ersatz für mangelnde Gedankentiefe willkommen sein mag<note facs="#facs_45_TextRegion_1625587926409_2852" type="foot" n="1)"><lb facs="#facs_45_r1l32" n="N001"/>Man findet in der „A. Allg. Ztg.“ Beilage Nro. 6 vom <date>6. Jan. 1875</date> einen vor<pc>¬</pc>
-				<lb facs="#facs_45_r1l33" n="N002"/>trefflichen Aufsatz: „<title ana="#text" ref="W0062">Wider die feurigen Kapellmeister</title>” (auch abgedruckt in der Allg.
+				<lb facs="#facs_45_r1l33" n="N002"/>trefflichen Aufsatz: „<title ana="#text" ref="#W0062">Wider die feurigen Kapellmeister</title>” (auch abgedruckt in der Allg.
 				<lb facs="#facs_45_r1l34" n="N003"/>Mus. Ztg., <date when="1875">1875</date>, Nro. 6 und 7), wo die Empfindlichkeit gewisser <rs ana="#concept_mus">Tonstücke</rs>, z. B. des
-				<lb facs="#facs_45_r1l35" n="N004"/><persName role="composer" ref="P0008"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Haydn</hi>'schen</persName>: „<title ana="#text" ref="W0063">Komm, holder Lenz</title>” gegen die geringste <rs ana="#concept_mus">Verzögerung</rs> oder <rs ana="#concept_mus">Beschleu<pc>¬</pc>
+				<lb facs="#facs_45_r1l35" n="N004"/><persName role="composer" ref="#P0008"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Haydn</hi>'schen</persName>: „<title ana="#text" ref="#W0063">Komm, holder Lenz</title>” gegen die geringste <rs ana="#concept_mus">Verzögerung</rs> oder <rs ana="#concept_mus">Beschleu<pc>¬</pc>
 				<lb facs="#facs_45_r1l36" n="N005"/>nigung</rs> des durch ihren Charakter gebotenen <rs ana="#concept_mus">Tempo</rs> hervorgehoben wird. Der ware
 				<lb facs="#facs_45_r1l37" n="N006"/>Grund dieser Erscheinung ist dieser. In beiden Fällen wird das <rs ana="#concept_mus">rhythmische</rs> Verständ<pc>¬</pc>
 				<lb facs="#facs_45_r1l38" n="N007"/>nis d. i. die <rs ana="#concept_phy">psychische Reduktion</rs> aller <rs ana="#concept_mus">Perioden</rs> auf die <rs ana="#concept_mus">Takteinheit</rs> erschwert, bei der
@@ -1911,11 +1911,11 @@
 				<lb facs="#facs_45_r1l10" n="N001"/>Die <rs ana="#concept_mus">symphonische</rs> Alleinherrschaft der sechs kleinsten <rs ana="#concept_phy">Ganz<pc>¬</pc>
 				<lb facs="#facs_45_r1l11" n="N002"/>zalen</rs> und ihrer <rs ana="#concept_phy">reciproken Werte</rs> kann uns den Begriff der <rs ana="#concept_mus"><rs ana="#concept_phy">Dis<pc>¬</pc>
 				<lb facs="#facs_45_r1l12" n="N003"/>sonanz</rs></rs> noch nicht geben, sofern dieser ein <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">positiver</hi>, nach
-				<lb facs="#facs_45_r1l13" n="N004"/>zwei Seiten begrenzter sein soll, wie jeder zugeben wird. <persName role="author" ref="P0007"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Haupt<pc>¬</pc>
+				<lb facs="#facs_45_r1l13" n="N004"/>zwei Seiten begrenzter sein soll, wie jeder zugeben wird. <persName role="author" ref="#P0007"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Haupt<pc>¬</pc>
 				<lb facs="#facs_45_r1l14" n="N005"/>mann</hi>'s</persName> Erklärung der <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs> aus konkurrirenden <rs ana="#m_chord">Dreiklängen</rs>
 				<lb facs="#facs_45_r1l15" n="N006"/>müssen wir ebenso zurückweisen, wie die Bildung der <rs ana="#m_tonality">Skala</rs> aus
-				<lb facs="#facs_45_r1l16" n="N007"/><rs ana="#m_chord">Dreiklängen</rs>. Auch die Begriffsbestimmung <persName role="author" ref="P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi>'s</persName>
-				<lb facs="#facs_45_r1l17" n="N008"/>(<title ana="#text" ref="W0017">S. 228</title>) wird uns nicht genügen: „<rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs> ist das gleichzeitige
+				<lb facs="#facs_45_r1l16" n="N007"/><rs ana="#m_chord">Dreiklängen</rs>. Auch die Begriffsbestimmung <persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi>'s</persName>
+				<lb facs="#facs_45_r1l17" n="N008"/>(<title ana="#text" ref="#W0017">S. 228</title>) wird uns nicht genügen: „<rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs> ist das gleichzeitige
 				<lb facs="#facs_45_r1l18" n="N009"/>Bestehen zweier oder mehrerer <rs ana="#concept_mus">Klänge</rs>”. Hier fehlt ja das so
 				<lb facs="#facs_45_r1l19" n="N010"/>sehr gesuchte positive Element gänzlich, welches die Grenze
 				<lb facs="#facs_45_r1l20" n="N011"/>gegen das Gebiet der formlosen <rs ana="#concept_phy">Geräusche</rs> abstecken muss. Dieses
@@ -2079,25 +2079,25 @@
 				<lb facs="#facs_49_r1l33" n="N003"/>und <rs ana="#m_tonality">Mollgeschlecht</rs> eine <rs ana="#concept_mus">Theorie</rs> vorgetragen und zum Teil in
             	<pb facs="#facs_50" n="39"/>
             	<lb facs="#facs_50_r1l2" n="N001"/>unserer Weise zur Anwendung gebracht, welche in überraschender
-				<lb facs="#facs_50_r1l3" n="N002"/>Vollständigkeit der <hi rend="fontSize:0.0; kerning:0; bold:true;"><persName role="author" ref="P0063">Freiherr A. v. Thimus</persName></hi><note facs="#facs_50_TextRegion_1625589633849_3366" type="foot" n="1)"><lb facs="#facs_50_r1l32" n="N001"/>„<title ana="#text" ref="W0064">Die <rs ana="#concept_mus">harmonikale</rs> Symbolik des <date>Altertums</date>, Erste Abteilung. Die <rs ana="#concept_phy">eso<pc>¬</pc></rs></title>
-				<lb facs="#facs_50_r1l33" n="N002"/><title ana="#text" ref="W0064"><rs ana="#concept_phy">terische Zalenlehre</rs> der Pythagoreer in ihrer Beziehung zu älteren griechischen</title>
-				<lb facs="#facs_50_r1l34" n="N003"/><title ana="#text" ref="W0064">und morgenländischen Quellen, insbesondere zur altsemitisch-hebräischen Ueber<pc>¬</pc></title>
-				<lb facs="#facs_50_r1l35" n="N004"/><title ana="#text" ref="W0064">lieferung</title>”. <placeName ref="L0021">Köln</placeName>, <date when="1868">1868</date>. — Man vergleiche auch: „<title ana="#text" ref="W0065">Die Grundzüge der <rs ana="#concept_mus">esote<pc>¬</pc></rs></title>
-				<lb facs="#facs_50_r1l36" n="N005"/><title ana="#text" ref="W0065"><rs ana="#concept_mus">rischen Harmonik</rs> des <date>Altertums</date>, im Anschlusse an die Schrift des Freiherrn</title>
-				<lb facs="#facs_50_r1l37" n="N006"/><title ana="#text" ref="W0065"><persName role="author" ref="P0063">A. v. Thimus</persName> über die <rs ana="#concept_mus">harmonikale</rs> Symbolik des <date>Altertums</date>, dargestellt von</title>
-				<lb facs="#facs_50_r1l38" n="N007"/><title ana="#text" ref="W0065">Dr. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0064">Richard Hasenclever</persName></hi></title>”. <placeName ref="L0021">Köln</placeName>, <date when="1870">1870</date>.</note> aus dem Schutte
+				<lb facs="#facs_50_r1l3" n="N002"/>Vollständigkeit der <hi rend="fontSize:0.0; kerning:0; bold:true;"><persName role="author" ref="#P0063">Freiherr A. v. Thimus</persName></hi><note facs="#facs_50_TextRegion_1625589633849_3366" type="foot" n="1)"><lb facs="#facs_50_r1l32" n="N001"/>„<title ana="#text" ref="#W0064">Die <rs ana="#concept_mus">harmonikale</rs> Symbolik des <date>Altertums</date>, Erste Abteilung. Die <rs ana="#concept_phy">eso<pc>¬</pc></rs></title>
+				<lb facs="#facs_50_r1l33" n="N002"/><title ana="#text" ref="#W0064"><rs ana="#concept_phy">terische Zalenlehre</rs> der Pythagoreer in ihrer Beziehung zu älteren griechischen</title>
+				<lb facs="#facs_50_r1l34" n="N003"/><title ana="#text" ref="#W0064">und morgenländischen Quellen, insbesondere zur altsemitisch-hebräischen Ueber<pc>¬</pc></title>
+				<lb facs="#facs_50_r1l35" n="N004"/><title ana="#text" ref="#W0064">lieferung</title>”. <placeName ref="#L0021">Köln</placeName>, <date when="1868">1868</date>. — Man vergleiche auch: „<title ana="#text" ref="#W0065">Die Grundzüge der <rs ana="#concept_mus">esote<pc>¬</pc></rs></title>
+				<lb facs="#facs_50_r1l36" n="N005"/><title ana="#text" ref="#W0065"><rs ana="#concept_mus">rischen Harmonik</rs> des <date>Altertums</date>, im Anschlusse an die Schrift des Freiherrn</title>
+				<lb facs="#facs_50_r1l37" n="N006"/><title ana="#text" ref="#W0065"><persName role="author" ref="#P0063">A. v. Thimus</persName> über die <rs ana="#concept_mus">harmonikale</rs> Symbolik des <date>Altertums</date>, dargestellt von</title>
+				<lb facs="#facs_50_r1l38" n="N007"/><title ana="#text" ref="#W0065">Dr. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0064">Richard Hasenclever</persName></hi></title>”. <placeName ref="#L0021">Köln</placeName>, <date when="1870">1870</date>.</note> aus dem Schutte
 				<lb facs="#facs_50_r1l4" n="N003"/>der <date>mittelalterlichen</date>, altgriechischen und morgenländischen wissen<pc>¬</pc>
 				<lb facs="#facs_50_r1l5" n="N004"/>schaftlichen Reliquien mit warem Bienenfleisse hervorgesucht
 				<lb facs="#facs_50_r1l6" n="N005"/>und widerhergestellt, mit genialem Überblicke ergänzt und ge<pc>¬</pc>
 				<lb facs="#facs_50_r1l7" n="N006"/>läutert, und mit Meisterhand niedergeschrieben hat. Obgleich das
-				<lb facs="#facs_50_r1l8" n="N007"/><title ana="#text" ref="W0064">Werk</title> dieses <persName role="author" ref="P0063">Forschers</persName> zur Zeit noch nicht genügend gewürdigt
+				<lb facs="#facs_50_r1l8" n="N007"/><title ana="#text" ref="#W0064">Werk</title> dieses <persName role="author" ref="#P0063">Forschers</persName> zur Zeit noch nicht genügend gewürdigt
 				<lb facs="#facs_50_r1l9" n="N008"/>ist, auch teils wegen einzelner küner Behauptungen und neben<pc>¬</pc>
 				<lb facs="#facs_50_r1l10" n="N009"/>sächlicher Schattenseiten angefochten wird, teils wegen seines
 				<lb facs="#facs_50_r1l11" n="N010"/>reichen Inhalts und der großen Summe von Detailkenntnissen,
 				<lb facs="#facs_50_r1l12" n="N011"/>die seine Lektüre voraussetzt, nur langsam durchdringen kann,
 				<lb facs="#facs_50_r1l13" n="N012"/>so stehen wir doch keinen Augenblick an, unsere Überzeugung
 				<lb facs="#facs_50_r1l14" n="N013"/>dahin auszusprechen, dass auf der einen Seite für die ganze alte
-				<lb facs="#facs_50_r1l15" n="N014"/><rs ana="#concept_mus">Musikgeschichte</rs> mit dem Erscheinen der „<title ana="#text" ref="W0064"><rs ana="#concept_mus">harmonikalen</rs> Symbolik</title>”
+				<lb facs="#facs_50_r1l15" n="N014"/><rs ana="#concept_mus">Musikgeschichte</rs> mit dem Erscheinen der „<title ana="#text" ref="#W0064"><rs ana="#concept_mus">harmonikalen</rs> Symbolik</title>”
 				<lb facs="#facs_50_r1l16" n="N015"/>eine neue Epoche angebrochen ist, in welcher nicht mehr rein
 				<lb facs="#facs_50_r1l17" n="N016"/>philologische, sondern vorwiegend historisch-<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">kritische</hi> For<pc>¬</pc>
 				<lb facs="#facs_50_r1l18" n="N017"/>schung die schwere Arbeit wird übernehmen müssen, den gordi<pc>¬</pc>
@@ -2113,16 +2113,16 @@
 				<lb facs="#facs_50_r1l28" n="N027"/>tavengattungen</rs> hat geradezu Jartausende lang die <rs ana="#concept_mus">Theorie</rs> er<pc>¬</pc>
 				<lb facs="#facs_50_r1l29" n="N028"/>setzen müssen, die in einer entschwundenen Kulturepoche in
 				<lb facs="#facs_50_r1l30" n="N029"/>grauer Vorzeit ihre Entstehung fand, in ihrem eigentlichen
-				<lb facs="#facs_50_r1l31" n="N030"/><rs ana="#concept_mus">dualistischen</rs> Grundzuge aber schon dem <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0065">Aristoteles</persName></hi> und
+				<lb facs="#facs_50_r1l31" n="N030"/><rs ana="#concept_mus">dualistischen</rs> Grundzuge aber schon dem <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0065">Aristoteles</persName></hi> und
 				<pb facs="#facs_51" n="40"/>
-            	<lb facs="#facs_51_r2l2" n="N001"/>seinem unverständig reformsüchtigen Schüler <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0062">Aristoxenos</persName></hi>
+            	<lb facs="#facs_51_r2l2" n="N001"/>seinem unverständig reformsüchtigen Schüler <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0062">Aristoxenos</persName></hi>
 				<lb facs="#facs_51_r2l3" n="N002"/>eine <hi rend="italic:true; fontSize:0.0; kerning:0;">terra incognita</hi> war. Sich stützend auf die neuesten Er<pc>¬</pc>
 				<lb facs="#facs_51_r2l4" n="N003"/>gebnisse der <rs ana="#concept_phy">physikalischen Forschung</rs>, und unerschütterlich fest<pc>¬</pc>
 				<lb facs="#facs_51_r2l5" n="N004"/>haltend an dem Satze, dass die Forderungen des <rs ana="#concept_phy">menschlichen</rs>
 				<lb facs="#facs_51_r2l6" n="N005"/><rs ana="#concept_phy">Ores</rs> in ästhetischer Beziehung auch durch jartausendelangen
 				<lb facs="#facs_51_r2l7" n="N006"/>Kampf ums Dasein sich nicht über die <rs ana="#concept_phy">psychologisch</rs> und <rs ana="#concept_phy">physi<pc>¬</pc>
 				<lb facs="#facs_51_r2l8" n="N007"/>kalisch</rs> notwendigen <rs ana="#concept_phy">Zalengesetze</rs> hinaus verändern konnten, ist
-				<lb facs="#facs_51_r2l9" n="N008"/>der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0063">Freiherr von Thimus</persName></hi> den Spuren dieser <rs ana="#concept_mus">Theorie</rs> nach<pc>¬</pc>
+				<lb facs="#facs_51_r2l9" n="N008"/>der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0063">Freiherr von Thimus</persName></hi> den Spuren dieser <rs ana="#concept_mus">Theorie</rs> nach<pc>¬</pc>
 				<lb facs="#facs_51_r2l10" n="N009"/>gegangen, welche vor allem jener <rs ana="#concept_mus">Musik</rs> zu Grunde gelegen hat,
 				<lb facs="#facs_51_r2l11" n="N010"/>die das künstlerisch reifste, also empfindlichste Volk des <date>Alter<pc>¬</pc></date>
 				<lb facs="#facs_51_r2l12" n="N011"/><date>tums</date> zu den überschwenglichsten Lobeserhebungen hinreißen
@@ -2137,52 +2137,52 @@
 				<lb facs="#facs_51_r2l21" n="N020"/>wegungstheorie</rs> zu werden vermochte und zum Teil geworden ist,
 				<lb facs="#facs_51_r2l22" n="N021"/>die den unumstößlichen Beweis ihrer allumfassenden Richtigkeit
 				<lb facs="#facs_51_r2l23" n="N022"/>erst durch die allerneuesten Errungenschaften der <rs ana="#concept_phy">physikalischen</rs>
-				<lb facs="#facs_51_r2l24" n="N023"/>und <rs ana="#concept_phy">chemischen</rs> <rs ana="#concept_phy">Wissenschaft</rs> gefunden hat. <note facs="#facs_51_TextRegion_1625589706652_3427 #facs_52_TextRegion_1625589808885_3504" type="foot" n="2)"><lb facs="#facs_51_line_1625589770708_3477" n="N001"/>Ein Wort von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helmholtz</persName></hi> (S. 347): „. . . noch in allerneuester
+				<lb facs="#facs_51_r2l24" n="N023"/>und <rs ana="#concept_phy">chemischen</rs> <rs ana="#concept_phy">Wissenschaft</rs> gefunden hat. <note facs="#facs_51_TextRegion_1625589706652_3427 #facs_52_TextRegion_1625589808885_3504" type="foot" n="2)"><lb facs="#facs_51_line_1625589770708_3477" n="N001"/>Ein Wort von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0001">Helmholtz</persName></hi> (S. 347): „. . . noch in allerneuester
 				<lb facs="#facs_51_r2l27" n="N002"/>Zeit ergötzen sich (an den Spekulationen über <rs ana="#concept_mus"><rs ana="#concept_phy">Sphärenharmonie</rs></rs>) einzelne natur<pc>¬</pc>
 				<lb facs="#facs_51_r2l28" n="N003"/>philosophische Gemüter, denen Phantasiren bequemer ist, als <rs ana="#concept_phy">wissenschaftliche</rs>
 				<lb facs="#facs_51_r2l29" n="N004"/>Arbeit”, wird von dem übrigens um die Berechnung der <rs ana="#m_tonality">Tonleiter</rs> hochverdienten
-				<lb facs="#facs_51_r2l30" n="N005"/><rs ana="#concept_phy">Mathematiker</rs> <persName role="author" ref="P0066">G. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Schubring</hi></persName> mit Unrecht auf <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0063">von Thimus</persName></hi> angewandt
-				<lb facs="#facs_51_r2l31" n="N006"/>(<title ana="#text" ref="W0066"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Giebel</hi>'s Zeitschr. f. d. ges. Naturwissenschaften, Bd. XXXII</title>, <placeName ref="L0003">Berlin</placeName> <date when="1868">1868</date>,
-				<lb facs="#facs_51_r2l32" n="N007"/>S. 69 ff). Die „<title ana="#text" ref="W0064">Harmonikale Symbolik</title>” hat die <rs ana="#concept_phy">exakten Wissenschaften</rs> keines<pc>¬</pc>
+				<lb facs="#facs_51_r2l30" n="N005"/><rs ana="#concept_phy">Mathematiker</rs> <persName role="author" ref="#P0066">G. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Schubring</hi></persName> mit Unrecht auf <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0063">von Thimus</persName></hi> angewandt
+				<lb facs="#facs_51_r2l31" n="N006"/>(<title ana="#text" ref="#W0066"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Giebel</hi>'s Zeitschr. f. d. ges. Naturwissenschaften, Bd. XXXII</title>, <placeName ref="#L0003">Berlin</placeName> <date when="1868">1868</date>,
+				<lb facs="#facs_51_r2l32" n="N007"/>S. 69 ff). Die „<title ana="#text" ref="#W0064">Harmonikale Symbolik</title>” hat die <rs ana="#concept_phy">exakten Wissenschaften</rs> keines<pc>¬</pc>
 				<lb facs="#facs_51_r2l33" n="N008"/>wegs zu scheuen. Sie verfolgt in erster Linie nur archäologische Zwecke und
 				<lb facs="#facs_51_r2l34" n="N009"/>benützt dabei die Quellen in so umfassender Weise, und mit so strenger kriti<pc>¬</pc>
-				<lb facs="#facs_51_r2l35" n="N010"/>scher Sichtung, dass jeder <rs ana="#concept_mus">musikalische Schriftsteller</rs> unserer Tage ihren <persName role="author" ref="P0063">Ver<pc>¬</pc>
+				<lb facs="#facs_51_r2l35" n="N010"/>scher Sichtung, dass jeder <rs ana="#concept_mus">musikalische Schriftsteller</rs> unserer Tage ihren <persName role="author" ref="#P0063">Ver<pc>¬</pc>
 				<lb facs="#facs_51_r2l36" n="N011"/>fasser</persName> darum beneiden darf. Das Resultat fällt dann allerdings für die natur<pc>¬</pc>
 				<lb facs="#facs_51_r2l37" n="N012"/>philosophische Spekulation des <date>Altertums</date> nicht gar so absprechend aus, als man
 				<lb facs="#facs_51_r2l38" n="N013"/>dies seit langem gewont ist. Dass die <date>antiken</date> naturphilosophischen Prinzipien
 				<lb facs="#facs_51_r2l39" n="N014"/>der heutigen <rs ana="#concept_phy">Naturforschung</rs> nicht so ganz fremdartig gegenüberstehen, hat in
-				<lb facs="#facs_51_r2l40" n="N015"/>allerneuester Zeit auch <persName role="author" ref="P0067">Dr. A. Völkel</persName> anerkannt, welcher in der „<title ana="#text" ref="W0067">Gäa</title>”, De<pc>¬</pc>
+				<lb facs="#facs_51_r2l40" n="N015"/>allerneuester Zeit auch <persName role="author" ref="#P0067">Dr. A. Völkel</persName> anerkannt, welcher in der „<title ana="#text" ref="#W0067">Gäa</title>”, De<pc>¬</pc>
 				<lb facs="#facs_51_r2l41" n="N016"/>zemberheft <date when="1874">1874</date>, einen diesbezüglichen Aufsatz veröffentlicht, unter dem Titel:
-				<lb facs="#facs_51_r2l42" n="N017"/>„<title ana="#text" ref="W0068">Das heraklitische Prinzip und die heutige Naturforschung</title>”. Bei einem Einblick
-				<lb facs="#facs_51_r2l43" n="N018"/>in gewisse Partieen der „<title ana="#text" ref="W0064">Harm. Symb.</title>” würde Hr. Dr. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0067">Völkel</persName></hi> sich one
-				<lb facs="#facs_52_r1l23" n="N001"/>Zweifel davon überzeugen, einerseits, dass Hr. <persName role="author" ref="P0063">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Thimus</hi></persName> seinen Gedanken
+				<lb facs="#facs_51_r2l42" n="N017"/>„<title ana="#text" ref="#W0068">Das heraklitische Prinzip und die heutige Naturforschung</title>”. Bei einem Einblick
+				<lb facs="#facs_51_r2l43" n="N018"/>in gewisse Partieen der „<title ana="#text" ref="#W0064">Harm. Symb.</title>” würde Hr. Dr. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0067">Völkel</persName></hi> sich one
+				<lb facs="#facs_52_r1l23" n="N001"/>Zweifel davon überzeugen, einerseits, dass Hr. <persName role="author" ref="#P0063">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Thimus</hi></persName> seinen Gedanken
 				<lb facs="#facs_52_r1l24" n="N002"/>schon sechs Jare früher ausgesprochen hat, andererseits, dass das von ihm so ge<pc>¬</pc>
-				<lb facs="#facs_52_r1l25" n="N003"/>nannte „<persName role="author" ref="P0068">heraklitische</persName>” Bewegungsprinzip („$$GRAPHIC — Alles ist Bewegung”)
-				<lb facs="#facs_52_r1l26" n="N004"/>keineswegs ausschließliches geistiges Eigentum des dunkeln <persName role="author" ref="P0068">ephesinischen Philo<pc>¬</pc>
+				<lb facs="#facs_52_r1l25" n="N003"/>nannte „<persName role="author" ref="#P0068">heraklitische</persName>” Bewegungsprinzip („$$GRAPHIC — Alles ist Bewegung”)
+				<lb facs="#facs_52_r1l26" n="N004"/>keineswegs ausschließliches geistiges Eigentum des dunkeln <persName role="author" ref="#P0068">ephesinischen Philo<pc>¬</pc>
 				<lb facs="#facs_52_r1l27" n="N005"/>sophen</persName> genannt werden darf. Von den in den heiligen Büchern der Chinesen,
 				<lb facs="#facs_52_r1l28" n="N006"/>Inder, Perser, Hebräer vorfindlichen Apophthegmen und von den <date>altägyptischen</date>
-				<lb facs="#facs_52_r1l29" n="N007"/>Hieroglyphen-Symbolen bis zu dem <persName role="author" ref="P0098">pythagorischen</persName> <rs ana="#concept_phy">Zalengegensatze</rs> des $$GRAPHIC
-				<lb facs="#facs_52_r1l30" n="N008"/>und $$GRAPHIC und den <persName role="author" ref="P0098">pythagorischen</persName> Kategorieen überhaupt, zu dem <rs ana="#concept_mus">musi<pc>¬</pc>
-				<lb facs="#facs_52_r1l31" n="N009"/>kalisch-kosmogenischen Systeme</rs> des <persName role="author" ref="P0075">platonischen</persName> <title ana="#text" ref="W0140">Timaios</title> und zu den Philoso<pc>¬</pc>
+				<lb facs="#facs_52_r1l29" n="N007"/>Hieroglyphen-Symbolen bis zu dem <persName role="author" ref="#P0098">pythagorischen</persName> <rs ana="#concept_phy">Zalengegensatze</rs> des $$GRAPHIC
+				<lb facs="#facs_52_r1l30" n="N008"/>und $$GRAPHIC und den <persName role="author" ref="#P0098">pythagorischen</persName> Kategorieen überhaupt, zu dem <rs ana="#concept_mus">musi<pc>¬</pc>
+				<lb facs="#facs_52_r1l31" n="N009"/>kalisch-kosmogenischen Systeme</rs> des <persName role="author" ref="#P0075">platonischen</persName> <title ana="#text" ref="#W0140">Timaios</title> und zu den Philoso<pc>¬</pc>
 				<lb facs="#facs_52_r1l32" n="N010"/>phemen der keltischen und britischen Druiden herab beherrscht dieses Prinzip
 				<lb facs="#facs_52_r1l33" n="N011"/>die ganze Anschauungsweise der zum Teil hochbegabten Denker der <date>Vorzeit</date>.</note>
 			</p>
          <pb facs="#facs_52" n="41"/>
             <p facs="#facs_52_TextRegion_1625589821466_3512">
-				<lb facs="#facs_52_r1l2" n="N001"/>Indem wir sonach den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0063">Freiherrn von Thimus</persName></hi> unbe<pc>¬</pc>
-				<lb facs="#facs_52_r1l3" n="N002"/>denklich als letzten, nicht geringsten, den drei Forschern <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0007">Haupt<pc>¬</pc>
-				<lb facs="#facs_52_r1l4" n="N003"/>mann</persName></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helmholtz</persName></hi> und <persName role="author" ref="P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi></persName> anreihen, bemerken
+				<lb facs="#facs_52_r1l2" n="N001"/>Indem wir sonach den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0063">Freiherrn von Thimus</persName></hi> unbe<pc>¬</pc>
+				<lb facs="#facs_52_r1l3" n="N002"/>denklich als letzten, nicht geringsten, den drei Forschern <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0007">Haupt<pc>¬</pc>
+				<lb facs="#facs_52_r1l4" n="N003"/>mann</persName></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0001">Helmholtz</persName></hi> und <persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi></persName> anreihen, bemerken
 				<lb facs="#facs_52_r1l5" n="N004"/>wir nur, dass ihm bei seinem <rs ana="#concept_mus"><rs ana="#concept_phy">zalenharmonikalen</rs></rs> Standpunkte die
-				<lb facs="#facs_52_r1l6" n="N005"/>Berücksichtigung <persName role="author" ref="P0007"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Hauptmann</hi>'s</persName> ferner gelegen hat, als die
-				<lb facs="#facs_52_r1l7" n="N006"/>der <rs ana="#concept_phy">physikalisch-physiologischen</rs> <persName role="author" ref="P0001"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helmholtz</hi>'schen</persName> Resultate.
-				<lb facs="#facs_52_r1l8" n="N007"/>Das <title ana="#text" ref="W0017">Buch</title> <persName role="author" ref="P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi>'s</persName> hat <persName role="author" ref="P0063">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Thimus</hi></persName> gar nicht gekannt;
+				<lb facs="#facs_52_r1l6" n="N005"/>Berücksichtigung <persName role="author" ref="#P0007"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Hauptmann</hi>'s</persName> ferner gelegen hat, als die
+				<lb facs="#facs_52_r1l7" n="N006"/>der <rs ana="#concept_phy">physikalisch-physiologischen</rs> <persName role="author" ref="#P0001"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helmholtz</hi>'schen</persName> Resultate.
+				<lb facs="#facs_52_r1l8" n="N007"/>Das <title ana="#text" ref="#W0017">Buch</title> <persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi>'s</persName> hat <persName role="author" ref="#P0063">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Thimus</hi></persName> gar nicht gekannt;
 				<lb facs="#facs_52_r1l9" n="N008"/>zu seinem <rs ana="#concept_mus">Dualismus</rs> ist er auf anderm Wege als jener, und un<pc>¬</pc>
 				<lb facs="#facs_52_r1l10" n="N009"/>abhängig von ihm gelangt.
 			</p>
             <p facs="#facs_52_TextRegion_1625589816369_3508">
 				<lb facs="#facs_52_r1l11" n="N001"/>An diesem Orte haben wir es indessen nur mit dem Wesen
 				<lb facs="#facs_52_r1l12" n="N002"/>und der Entstehung der <rs ana="#m_tonality">Dur-</rs> und <rs ana="#m_tonality">Mollskala</rs> zu tun, wie es
-				<lb facs="#facs_52_r1l13" n="N003"/><persName role="author" ref="P0063">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Thimus</hi></persName> aus den einfachsten <rs ana="#concept_phy"><rs ana="#concept_mus">zalenharmonikalen</rs></rs> Prinzipien
+				<lb facs="#facs_52_r1l13" n="N003"/><persName role="author" ref="#P0063">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Thimus</hi></persName> aus den einfachsten <rs ana="#concept_phy"><rs ana="#concept_mus">zalenharmonikalen</rs></rs> Prinzipien
 				<lb facs="#facs_52_r1l14" n="N004"/>entwickelt. One uns mit seiner Darstellung der verschiedenen
 				<lb facs="#facs_52_r1l15" n="N005"/><rs ana="#m_tonality">Tonarten</rs> (<rs ana="#concept_mus">Oktavengattungen</rs>) von vorneherein ganz einverstanden
 				<lb facs="#facs_52_r1l16" n="N006"/>zu erklären, setzen wir daher einfach die beiden <rs ana="#concept_phy">Zalenreihen</rs>, die
@@ -2239,10 +2239,10 @@
 				<lb facs="#facs_55_r1l36" n="N003"/>zweithöchste <rs ana="#concept_mus">Stufe</rs> der <rs ana="#m_tonality">Mollskala</rs> um ein <rs ana="#concept_mus">Komma</rs> tiefer, als die
 				<lb facs="#facs_55_r1l37" n="N004"/>zweitniedrigste <rs ana="#concept_mus">Stufe</rs> der <rs ana="#m_tonality">Durskala</rs>. Die Erniedrigung der <rs ana="#m_note">Töne</rs>
 				<lb facs="#facs_55_r1l38" n="N005"/>der <rs ana="#m_tonality">C-dur-Leiter</rs> um ein <rs ana="#concept_mus">Komma</rs> haben wir nach dem Vorgange
-				<lb facs="#facs_55_r1l39" n="N006"/>des <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0063">Freiherrn von Thimus</persName></hi> mit dem Zeichen $$GRAPHIC und die
+				<lb facs="#facs_55_r1l39" n="N006"/>des <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0063">Freiherrn von Thimus</persName></hi> mit dem Zeichen $$GRAPHIC und die
 				<lb facs="#facs_55_r1l40" n="N007"/>Erhöhung um das gleiche <rs ana="#m_interval">Intervall</rs> mit dem Zeichen $$GRAPHIC dargestellt,
-				<lb facs="#facs_55_r1l41" n="N008"/>was sich als praktischer erweist, als die Bezeichnungen <persName role="author" ref="P0007"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Haupt<pc>¬</pc>
-				<lb facs="#facs_55_r1l42" n="N009"/>mann</hi>'s</persName> und <persName role="author" ref="P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi>'s</persName>. Am Ende unserer beiden <rs ana="#concept_mus">Reihen</rs>
+				<lb facs="#facs_55_r1l41" n="N008"/>was sich als praktischer erweist, als die Bezeichnungen <persName role="author" ref="#P0007"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Haupt<pc>¬</pc>
+				<lb facs="#facs_55_r1l42" n="N009"/>mann</hi>'s</persName> und <persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi>'s</persName>. Am Ende unserer beiden <rs ana="#concept_mus">Reihen</rs>
 				<lb facs="#facs_55_r1l43" n="N010"/>haben wir noch das <rs ana="#concept_mus">syntonische Komma</rs> notirt, die Seele der
 				<lb facs="#facs_55_r1l44" n="N011"/>eben so feinen als für die edelsten Gebilde <rs ana="#concept_mus">musikalischer Kunst</rs>
 				<lb facs="#facs_55_r1l45" n="N012"/>notwendigen <rs ana="#concept_mus">enharmonischen</rs> Unterscheidungen.
@@ -2262,11 +2262,11 @@
 				<lb facs="#facs_55_r1l56" n="N005"/>müssen und entspricht dem <rs ana="#concept_mus">gregorianischen</rs> VI. <rs ana="#concept_mus">Kirchenton</rs>. Die
 				<lb facs="#facs_55_line_1625590381517_3933" n="N006"/><rs ana="#m_tonality">Mollskala</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">e</rs></hi> = <formula notation="tex">$\frac{1}{24}$</formula> bis <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">e</rs></hi> = <formula notation="tex">$\frac{1}{48}$</formula> hat dagegen zur <rs ana="#concept_mus">Phonika</rs> <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}}}}}</rs>, deren
 				<lb facs="#facs_55_line_1625590393214_3953" n="N007"/>verstärkte Form <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">h</rs></hi> = <formula notation="tex">$\frac{1}{32}$</formula> ebenfalls vierte <rs ana="#concept_mus">Stufe</rs> der (<rs ana="#concept_mus">diatonischen</rs>)
-				<lb facs="#facs_55_r1l65" n="N008"/><rs ana="#m_tonality">Leiter</rs> ist. Legt man, wie dies <persName role="author" ref="P0063">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Thimus</hi></persName> thut, der <rs ana="#concept_mus">Phonika</rs>
+				<lb facs="#facs_55_r1l65" n="N008"/><rs ana="#m_tonality">Leiter</rs> ist. Legt man, wie dies <persName role="author" ref="#P0063">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Thimus</hi></persName> thut, der <rs ana="#concept_mus">Phonika</rs>
 				<lb facs="#facs_55_r1l66" n="N009"/>nur den Wert der <rs ana="#concept_mus">Dominant</rs> bei, so wäre <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">e</rs></hi> <rs ana="#m_note">Grund-</rs> d. h. <rs ana="#m_note">Final<pc>¬</pc></rs>
             	<pb facs="#facs_56" n="45"/>
             	<lb facs="#facs_56_r1l2" n="N001"/><rs ana="#m_note">ton</rs>, und die <rs ana="#m_tonality">Leiter</rs> wäre die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_tonality">authentisch-phrygische</rs></hi>
-				<lb facs="#facs_56_r1l3" n="N002"/><persName role="author" ref="P0069">Glarean's</persName>, oder der III. <rs ana="#concept_mus">Kirchenton</rs>. Man wird diese beiden Formen
+				<lb facs="#facs_56_r1l3" n="N002"/><persName role="author" ref="#P0069">Glarean's</persName>, oder der III. <rs ana="#concept_mus">Kirchenton</rs>. Man wird diese beiden Formen
 				<lb facs="#facs_56_r1l4" n="N003"/>unbedenklich als die einzigen betrachten dürfen, in welchen die
 				<lb facs="#facs_56_r1l5" n="N004"/>beiden <rs ana="#m_tonality">Tongeschlechter</rs> in vollkommener Reinheit, d. h. Unge<pc>¬</pc>
 				<lb facs="#facs_56_r1l6" n="N005"/>mischtheit, ausgeprägt sind. Nur höhere, bezw. tiefere <rs ana="#m_interval">Oktaven</rs>
@@ -2283,7 +2283,7 @@
 				<lb facs="#facs_56_r1l17" n="N016"/>Verhältnisse in sich birgt.
             </p>
             <p facs="#facs_56_TextRegion_1625590452306_3986 #facs_57_TextRegion_1625590575784_4049">
-				<lb facs="#facs_56_r1l18" n="N001"/>Obgleich aber <persName role="author" ref="P0063">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Thimus</hi></persName> dieses dritte Gesetz mit be<pc>¬</pc>
+				<lb facs="#facs_56_r1l18" n="N001"/>Obgleich aber <persName role="author" ref="#P0063">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Thimus</hi></persName> dieses dritte Gesetz mit be<pc>¬</pc>
 				<lb facs="#facs_56_r1l19" n="N002"/>wunderungswürdiger Schärfe ausfürlich entwickelt hat, so ist er
 				<lb facs="#facs_56_r1l20" n="N003"/>doch bezüglich der Erklärung unserer gewönlichen <rs ana="#m_tonality">Tonarten</rs> bei
 				<lb facs="#facs_56_r1l21" n="N004"/>der alten Anschauung stehen geblieben und hilft sich über die
@@ -2353,9 +2353,9 @@
 			</p>
             <p facs="#facs_58_TextRegion_1625590695982_4118 #facs_59_TextRegion_1625590795020_4204">
 				<lb facs="#facs_58_r1l29" n="N001"/>Dies fürt uns auf ein zweites Bedenken. Ist die <rs ana="#m_tonality">Skala</rs>
-				<lb facs="#facs_58_line_1625590745391_4185" n="N002"/><rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs> = <formula notation="tex">$\frac{1}{24}$</formula> bis <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs> = <formula notation="tex">$\frac{1}{48}$</formula> wirklich die <rs ana="#m_tonality">phrygische</rs>, wie <persName role="author" ref="P0063">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Thimus</hi></persName>
+				<lb facs="#facs_58_line_1625590745391_4185" n="N002"/><rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs> = <formula notation="tex">$\frac{1}{24}$</formula> bis <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs> = <formula notation="tex">$\frac{1}{48}$</formula> wirklich die <rs ana="#m_tonality">phrygische</rs>, wie <persName role="author" ref="#P0063">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Thimus</hi></persName>
 				<lb facs="#facs_58_r1l34" n="N003"/>glaubt? Ich möchte anderer Meinung sein. Nur wenn man
-				<lb facs="#facs_58_r1l35" n="N004"/><rs ana="#concept_mus">Phonika</rs> und <rs ana="#concept_mus">Dominant</rs> auf eine <rs ana="#concept_mus">Stufe</rs> stellt, ist die <persName role="author" ref="P0063">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Thimus</hi>’sche</persName>
+				<lb facs="#facs_58_r1l35" n="N004"/><rs ana="#concept_mus">Phonika</rs> und <rs ana="#concept_mus">Dominant</rs> auf eine <rs ana="#concept_mus">Stufe</rs> stellt, ist die <persName role="author" ref="#P0063">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Thimus</hi>’sche</persName>
 				<lb facs="#facs_58_r1l36" n="N005"/>Anschauung richtig. Wenn man dagegen der <rs ana="#concept_mus">Phonika</rs> eine ana<pc>¬</pc>
 				<lb facs="#facs_58_r1l37" n="N006"/>loge Stellung im <rs ana="#m_tonality">Mollgeschlechte</rs> vindicirt, wie der <rs ana="#concept_mus">Tonika</rs> im
 				<lb facs="#facs_58_r1l38" n="N007"/><rs ana="#m_tonality">Durgeschlechte</rs>, so kann erstere so wenig vom <rs ana="#m_note">Finaltone</rs> getrennt

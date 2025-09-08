@@ -4609,18 +4609,18 @@
 					</p>
 					<p rend="TEI" facs="#facs_5_TextRegion_1612352910666_406 #facs_6_TextRegion_1612353046991_485">
 						<lb facs="#facs_5_r1l5" n="N001"/>Es ist vor Kurzem eine kleine Schrift unter dem
-						<lb facs="#facs_5_r1l6" n="N002"/>Titel: „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><title ana="#text" ref="W0164">Der accordliche Gegensatz und die</title><lb facs="#facs_5_r1l7" n="N003"/> <title ana="#text" ref="W0164">Begründung der Scala</title></hi> ”, bei  in
-						<lb facs="#facs_5_r1l8" n="N004"/><placeName ref="L0005">Cassel</placeName> erschienen. Der Verfasser derselben, Herr
-						<lb facs="#facs_5_r1l9" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0133">Otto Kraushaar</persName></hi>, bekennt in einer Zuschrift, mit
+						<lb facs="#facs_5_r1l6" n="N002"/>Titel: „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><title ana="#text" ref="#W0164">Der accordliche Gegensatz und die</title><lb facs="#facs_5_r1l7" n="N003"/> <title ana="#text" ref="#W0164">Begründung der Scala</title></hi> ”, bei  in
+						<lb facs="#facs_5_r1l8" n="N004"/><placeName ref="#L0005">Cassel</placeName> erschienen. Der Verfasser derselben, Herr
+						<lb facs="#facs_5_r1l9" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0133">Otto Kraushaar</persName></hi>, bekennt in einer Zuschrift, mit
 						<lb facs="#facs_5_r1l10" n="N006"/>welcher er das Werkchen mir übersendet, dass die
 						<lb facs="#facs_5_r1l11" n="N007"/>darin dargelegte <rs ana="#concept_mus">Theorie</rs> aus Grundbestimmungen
 						<lb facs="#facs_5_r1l12" n="N008"/>entwickelt sei, die er von mir zuerst ausgesprochen
-						<lb facs="#facs_5_r1l13" n="N009"/>gehört habe. Möchte er diess in der <title ana="#text" ref="W0164">Schrift</title> selbst
+						<lb facs="#facs_5_r1l13" n="N009"/>gehört habe. Möchte er diess in der <title ana="#text" ref="#W0164">Schrift</title> selbst
 						<lb facs="#facs_5_r1l14" n="N010"/>mit einigen Worten erwähnt haben. Jetzt kann es
 						<lb facs="#facs_5_r1l15" n="N011"/>sonderbar scheinen, dass zwei Autoren in etwas
 						<lb facs="#facs_5_r1l16" n="N012"/>Neuausgesprochenem sich so auffallend mit gleichen
 						<lb facs="#facs_5_r1l17" n="N013"/>Gedanken begegnen, wie es in einigen Puncten
-						<lb facs="#facs_5_r1l18" n="N014"/>von <persName role="author" ref="P0133">Kraushaar’s</persName> <title ana="#text" ref="W0164">Schrift</title> und der gegenwärtigen zu
+						<lb facs="#facs_5_r1l18" n="N014"/>von <persName role="author" ref="#P0133">Kraushaar’s</persName> <title ana="#text" ref="#W0164">Schrift</title> und der gegenwärtigen zu
 						<lb facs="#facs_5_r1l19" n="N015"/>finden ist: namentlich in der Erklärung des <rs ana="#m_chord">Moll<pc>¬</pc>
 						<lb facs="#facs_5_r1l20" n="N016"/>dreiklanges</rs>, in der Nachweisung eines positiven
 						<lb facs="#facs_5_r1l21" n="N017"/>und negativen Verhaltens von <rs ana="#concept_phy">akustischen Bestim<pc>¬</pc>
@@ -4628,14 +4628,14 @@
 						<lb facs="#facs_5_r1l23" n="N019"/>serlichkeiten, wie die Bezeichnung der <rs ana="#m_chord">Accorde</rs> und
 						<lb facs="#facs_5_r1l24" n="N020"/>des <rs ana="#concept_mus">Systemes</rs> der <rs ana="#m_tonality">Tonart</rs>. Zu einer Kritik des
 						<pb facs="#facs_6" n="VIII"/>
-						<lb facs="#facs_6_r1l2" n="N001"/><persName role="author" ref="P0133">Kraushaar’schen</persName><rs ana="#concept_mus">Tonsystemes</rs> ist hier am allerwe<pc>¬</pc>
+						<lb facs="#facs_6_r1l2" n="N001"/><persName role="author" ref="#P0133">Kraushaar’schen</persName><rs ana="#concept_mus">Tonsystemes</rs> ist hier am allerwe<pc>¬</pc>
 						<lb facs="#facs_6_r1l3" n="N002"/>nigsten der Ort; es ist hier nur zu bemerken, dass
 						<lb facs="#facs_6_r1l4" n="N003"/>Dasjenige, was in jenem mit dem vorliegenden über<pc>¬</pc>
-						<lb facs="#facs_6_r1l5" n="N004"/>einstimmt, Herrn <persName role="author" ref="P0133">Kraushaar</persName> vor Jahren bei Gelegen<pc>¬</pc>
+						<lb facs="#facs_6_r1l5" n="N004"/>einstimmt, Herrn <persName role="author" ref="#P0133">Kraushaar</persName> vor Jahren bei Gelegen<pc>¬</pc>
 						<lb facs="#facs_6_r1l6" n="N005"/>heit eines <rs ana="#concept_mus">musikalisch-theoretischen Cursus</rs> von mir
 						<lb facs="#facs_6_r1l7" n="N006"/>mitgetheilt worden ist.
-						<lb facs="#facs_6_r1l8" n="N007"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><placeName ref="L0022">Leipzig</placeName></hi>, im <date>Januar 1853</date>.
-						<lb facs="#facs_6_r1l9" n="N008"/><persName role="author" ref="P0007">M. HAUPTMANN</persName>.
+						<lb facs="#facs_6_r1l8" n="N007"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><placeName ref="#L0022">Leipzig</placeName></hi>, im <date>Januar 1853</date>.
+						<lb facs="#facs_6_r1l9" n="N008"/><persName role="author" ref="#P0007">M. HAUPTMANN</persName>.
 					</p>
 				</div>
    			<!-- Inhaltsverzeichnis ist nicht transkribiert! -->
@@ -4876,8 +4876,8 @@
 				<lb facs="#facs_16_r1l19" n="N001"/>Die <rs ana="#concept_mus">Musik</rs> ist in ihrem Ausdruck allgemein verständlich.
 				<lb facs="#facs_16_r1l20" n="N002"/>Sie ist es nicht für den <rs ana="#concept_mus">Musiker</rs> allein, sie ist es für den mensch<pc>¬</pc>
 				<lb facs="#facs_16_r1l21" n="N003"/>lichen Gemeinsinn. Auch ist die <rs ana="#concept_mus">Musik</rs> nicht von grundver<pc>¬</pc>
-				<lb facs="#facs_16_r1l22" n="N004"/>schiedener Beschaffenheit im <rs ana="#concept_mus">Volkslied</rs> und in der <persName role="composer" ref="P0054">Bach'schen</persName>
-				<lb facs="#facs_16_r1l23" n="N005"/><rs ana="#concept_mus">Fuge</rs>, oder <persName role="composer" ref="P0016">Beethovenschen</persName><rs ana="#concept_mus">Symphonie</rs>. Wenn der Inhalt
+				<lb facs="#facs_16_r1l22" n="N004"/>schiedener Beschaffenheit im <rs ana="#concept_mus">Volkslied</rs> und in der <persName role="composer" ref="#P0054">Bach'schen</persName>
+				<lb facs="#facs_16_r1l23" n="N005"/><rs ana="#concept_mus">Fuge</rs>, oder <persName role="composer" ref="#P0016">Beethovenschen</persName><rs ana="#concept_mus">Symphonie</rs>. Wenn der Inhalt
 				<lb facs="#facs_16_r1l24" n="N006"/>des complicirteren Kunstwerkes sein Verständniss erschwe<pc>¬</pc>
 				<lb facs="#facs_16_r1l25" n="N007"/>ren kann, so sind es doch immer dieselben im Einzelnen
 				<lb facs="#facs_16_r1l26" n="N008"/>allgemein verständlichen Ausdrucksmittel, durch welche
@@ -10430,7 +10430,7 @@
             	<lb facs="#facs_157_r1l2" n="N001"/>aus dem <rs ana="#m_interval">Intervalle</rs><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_interval">D—a</rs></hi> in die <rs ana="#m_interval">Quint</rs><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_interval">C—G</rs></hi> enthält, unzuläs<pc>¬</pc>
 				<lb facs="#facs_157_r1l3" n="N002"/>sig finden werden. Der Unterschied von <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">a</rs></hi> und <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">A</rs></hi> würde auch
 				<lb facs="#facs_157_r1l4" n="N003"/>fühlbar werden müssen, wenn wir die ersten vier <rs ana="#m_note">Töne</rs>
-				<lb facs="#facs_157_r1l5" n="N004"/>des <rs ana="#concept_mus">Chorales</rs> „<title ana="#music" ref="W0165">Ach Gott und Herr</title>:” $$GRAPHIC erst mit der
+				<lb facs="#facs_157_r1l5" n="N004"/>des <rs ana="#concept_mus">Chorales</rs> „<title ana="#music" ref="#W0165">Ach Gott und Herr</title>:” $$GRAPHIC erst mit der
 				<lb facs="#facs_157_r1l6" n="N005"/><rs ana="#concept_mus">Grundharmonie</rs> $$GRAPHIC, und sodann mit der <rs ana="#concept_mus">Harmonie</rs>
 				<lb facs="#facs_157_r1l7" n="N006"/>$$GRAPHIC begleiten wollten. In der letzten wird die <rs ana="#concept_mus">Cho<pc>¬</pc>
 				<lb facs="#facs_157_r1l8" n="N007"/>ralmelodie</rs> $$GRAPHIC ihren <rs ana="#m_note">Terzton</rs><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">a</rs></hi> in den <rs ana="#m_note">Quintton</rs><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">A</rs></hi>
@@ -12771,7 +12771,7 @@
 				<lb facs="#facs_216_r1l12" n="N003"/>der <rs ana="#concept_mus">Oberdominant</rs> überzugehen, eine der anderen <rs ana="#concept_mus">Ver<pc>¬</pc>
 				<lb facs="#facs_216_r1l13" n="N004"/>wandtschaften</rs> aufsuchte, wie wir sie früher besprochen
 				<lb facs="#facs_216_r1l14" n="N005"/>haben, von denen nur immer die der <rs ana="#concept_mus">Unterdominant</rs>
-				<lb facs="#facs_216_r1l15" n="N006"/>ausgeschlossen bleiben wird. So sehen wir bei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0016">Beethoven</persName></hi>
+				<lb facs="#facs_216_r1l15" n="N006"/>ausgeschlossen bleiben wird. So sehen wir bei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="#P0016">Beethoven</persName></hi>
 				<lb facs="#facs_216_r1l16" n="N007"/>einigemal in <rs ana="#concept_mus">Dursätzen</rs> den <rs ana="#m_note">Hauptton</rs> nach einer <rs ana="#concept_mus">Terz-ver<pc>¬</pc>
 				<lb facs="#facs_216_r1l17" n="N008"/>wandten</rs> <rs ana="#m_tonality">Dur-</rs> oder <rs ana="#m_tonality">Molltonart</rs> sich wenden und den <rs ana="#concept_mus">ersten</rs>
 				<lb facs="#facs_216_r1l18" n="N009"/><rs ana="#concept_mus">Abschnitt</rs> in dieser abgeschlossen.
