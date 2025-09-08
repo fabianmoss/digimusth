@@ -114,23 +114,50 @@ layout: music_base
 		})
 		/* DOM-Prüfer */
 		function checkDOMAndProcess() {
-		    const musicElements = document.querySelectorAll('tei-div[rend="MEI"]');
-		    musicElements.forEach(node => {
-		        if (node.getAttribute("source") && !node.dataset.processed) { // source war id ware "node.id"
-		            node.dataset.processed = 'true'; // Verhindert doppelte Verarbeitung
-		            const fileName = `${node.getAttribute("source")}`; // Dynamischer Dateiname basierend auf der ID  --- source war node.id
-		            fetch("../../data/" + path.innerHTML + '/data' + `/${fileName}`) // path is here!
-		                .then(response => response.text())
-		                .then(data => {
-		                    const svg = vrvToolkit.renderData(data, {});
-		                    node.innerHTML = svg;
-		                })
-		                .catch(error => console.error('Error fetching MEI file:', error));
-		        }
-		    });
-		    // Fordere den nächsten Frame an, um fortzufahren
-		    requestAnimationFrame(checkDOMAndProcess);
+			const musicElements = document.querySelectorAll('tei-notatedmusic[rend="MEI"]'); 
+			// const musicElements = document.querySelectorAll('tei-div[rend="MEI"]'); // old works for other structure
+
+			musicElements.forEach(node => {
+				if (node.getAttribute("source") && !node.dataset.processed) {// source war id ware "node.id"
+					node.dataset.processed = 'true'; // prevent duplicate processing
+					const fileName = node.getAttribute("source"); // Dynamischer Dateiname basierend auf der ID  --- source war node.id
+
+					// Paths for MEI and PNG
+					const meiPath = "../../data/" + path.innerHTML + "/data/" + fileName;
+					const pngPath = "../../data/" + path.innerHTML + "/music/" + fileName.replace(/\.[^/.]+$/, ".png"); 
+					// replace extension with .png
+
+					// Try MEI first
+					fetch(meiPath)
+						.then(response => {
+							if (!response.ok) {
+								throw new Error("MEI not found");
+							}
+							return response.text();
+						})
+						.then(data => {
+							// Render MEI with Verovio
+							const svg = vrvToolkit.renderData(data, {});
+							node.innerHTML = svg;
+						})
+						.catch(error => {
+							console.warn("Falling back to PNG for:", fileName, error);
+							// Use PNG fallback
+							const img = document.createElement("img");
+							img.src = pngPath;
+							img.alt = fileName;
+							img.style.maxWidth = "100%";
+							node.innerHTML = "";
+							node.appendChild(img);
+						});
+				}
+			});
+
+			// Keep checking for new elements
+			requestAnimationFrame(checkDOMAndProcess);
 		}
+
+
 		// Starte die Überprüfung, sobald die DOM-Inhalte verfügbar sind
 		document.addEventListener('DOMContentLoaded', checkDOMAndProcess);
 
