@@ -288,3 +288,75 @@ mark {
   width: 70%; 
   margin:auto;
 }
+
+
+
+
+/* css related to the tei logic transformation */
+tei-titlepage {
+display: inline-block;       
+    border: 0.2rem solid #333;   
+    padding: 1rem 1.5rem;        
+    border-radius: 0.5rem;      
+    box-sizing: border-box;      
+    max-width: 100%;             
+    line-height: 1.5;            
+    word-wrap: break-word;       
+    font-size: 1.25rem;          
+}
+/*
+tei-titlepage tei-lb{
+   display: inline;
+}*/
+
+tei-doctitle {
+display: block;         
+    font-size: 2.5rem;        
+    text-align: center;     
+    margin: 0 0 1rem 0;     
+    font-weight: bold;       
+    line-height: 1.2;        
+}
+
+
+tei-head {
+  font-family: "Garamond", "Georgia" !important;
+  font-size: 1.5rem;
+  margin-top: 2rem;
+}
+
+tei-list {
+  margin-left: 1em;
+}
+
+/*music not inline and moved to the center*/
+tei-notatedmusic {
+  display: block;
+  text-align: center;
+}
+
+tei-figure {
+  margin-left: auto;      
+  margin-right: auto;
+}
+img {
+display: inherit;
+margin:auto;}
+
+/*stacked elements */
+[ rend="stacked"] {
+    display: inline-flex;       
+    flex-direction: column;      
+    justify-content: flex-start; 
+    align-items: center;         
+    font-size: 0.8em;            
+    line-height: 1;              
+    vertical-align: baseline;    
+    position: relative;           
+    top: -0.5em;                  
+}
+
+[ rend="stacked"] span {
+    line-height: 1;              
+    display: block;              
+}
