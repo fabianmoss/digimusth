@@ -922,7 +922,7 @@
 				<lb facs="#facs_8_r1l37" n="N004"/>beigefügt. —
 			</p>
             <p facs="#facs_8_TextRegion_1614371658237_360">
-				<lb facs="#facs_8_r1l38" n="N001"/><placeName>Frankfurt a. M.</placeName>, im <date>Herbst 1862</date>.
+				<lb facs="#facs_8_r1l38" n="N001"/><placeName ref="L0015">Frankfurt a. M.</placeName>, im <date>Herbst 1862</date>.
 				<lb facs="#facs_8_r1l39" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><persName role="author" ref="P0134">F. J. Kunkel</persName>.</hi>
             </p>
             <p facs="#facs_8_TextRegion_1614371650464_356">
@@ -1386,8 +1386,8 @@
 				<lb facs="#facs_17_r1l12" n="N003"/><rs ana="#m_chord">Fünf-</rs>, <rs ana="#m_chord">Sechs-</rs> und <rs ana="#m_chord">Siebenklänge</rs>, weil hierzu das <rs ana="#concept_phy">natürliche Mitklingen</rs> der <rs ana="#concept_phy">akustischen</rs><rs ana="#concept_phy">Beitöne</rs>,
 				<lb facs="#facs_17_r1l13" n="N004"/>worüber weiter unten in einer Anmerkung nähere Mittheilung folgt, den Impuls gegeben. Nach
 				<lb facs="#facs_17_r1l14" n="N005"/>diesem Princip haben schon <persName role="author" ref="P0005">Rameau</persName> im <date>Jahre 1722</date> und später, wie <persName role="author" ref="P0142">Fink</persName> meint unabhängig
-				<lb facs="#facs_17_r1l15" n="N006"/>von <persName role="author" ref="P0005">Rameau</persName>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0143">Portmann</persName></hi> in seinen: „<title ana="#text" ref="W0176">Die neuesten und wichtigsten Entdeckungen 2c.</title>”, <placeName>Darmstadt</placeName>
-				<lb facs="#facs_17_r1l16" n="N007"/><date when="1798">1798</date>; und in seinem: „<title ana="#text" ref="W0177">Lehrbuch der Harmonie</title>” 2c., <placeName>Darmstadt</placeName><date when="1799">1799</date>, neue Auflage, ihre <rs ana="#m_chord">Grund<pc>¬</pc>
+				<lb facs="#facs_17_r1l15" n="N006"/>von <persName role="author" ref="P0005">Rameau</persName>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0143">Portmann</persName></hi> in seinen: „<title ana="#text" ref="W0176">Die neuesten und wichtigsten Entdeckungen 2c.</title>”, <placeName ref="L0007">Darmstadt</placeName>
+				<lb facs="#facs_17_r1l16" n="N007"/><date when="1798">1798</date>; und in seinem: „<title ana="#text" ref="W0177">Lehrbuch der Harmonie</title>” 2c., <placeName ref="L0007">Darmstadt</placeName><date when="1799">1799</date>, neue Auflage, ihre <rs ana="#m_chord">Grund<pc>¬</pc>
 				<lb facs="#facs_17_r1l17" n="N008"/>accorde</rs> gebildet, welche Maxime die nachfolgenden <rs ana="#concept_mus">Harmonisten</rs> im Wesentlichen beibehielten, wenn
 				<lb facs="#facs_17_r1l18" n="N009"/>auch nicht alle Autoren diese <rs ana="#concept_mus">Bildungsweise</rs> bis zum <rs ana="#m_chord">Terzdecimenaccord</rs> erschöpften, manche schon
 				<lb facs="#facs_17_line_1614383049750_2448" n="N010"/>theilweise die <rs ana="#m_chord">Nonenaccorde</rs> anders entstehen ließen. —</note>. Aber wäre es nicht denkbar, daß der <persName role="author" ref="P0041">Verfasser</persName> für seine noch unerklärten <rs ana="#m_chord">Accorde</rs> auch eine neue,
@@ -3182,7 +3182,7 @@
 				<lb facs="#facs_52_r1l21" n="N007"/>zwischen der neuen, resp. neuesten und der alten <rs ana="#concept_mus">Harmonielehre</rs> klar und deutlich zu erkennen wären, auch
 				<lb facs="#facs_52_r1l22" n="N008"/>vorzugsweise die Satzungen der <rs ana="#concept_mus">neuesten Lehre</rs> mit allen Waffen der Wissenschaft gründlich vertheidigt, bitter
 				<lb facs="#facs_52_r1l23" n="N009"/>enttäuscht werden. Die 1¾ Bogen starke Novität à 6 Neugroschen enthält in der Hauptsache eigentlich nur
-				<lb facs="#facs_52_r1l24" n="N010"/>Entgegnungen auf eine Beurtheilung des <persName role="author" ref="P0041">Weitzmann'schen</persName><title ana="#text" ref="W0039">Harmoniesystems</title> in Nr. 30 und 31 der <placeName>Wiener</placeName>
+				<lb facs="#facs_52_r1l24" n="N010"/>Entgegnungen auf eine Beurtheilung des <persName role="author" ref="P0041">Weitzmann'schen</persName><title ana="#text" ref="W0039">Harmoniesystems</title> in Nr. 30 und 31 der <placeName ref="L0034">Wiener</placeName>
 				<lb facs="#facs_52_line_1614707782237_130" n="N011"/>„<title ana="#text" ref="W0040">D. Mztg.</title>” vom <date>Jahre 1860</date>; — sie ist also eine Antikritik, welche zu erheben <persName role="author" ref="P0041">Weitzmann</persName> füglicher einer
 				<lb facs="#facs_52_r1l27" n="N012"/>gewandteren Feder seiner Partei hätte überlassen sollen, weil vielleicht durch eine stärker hervorgetretene
 				<lb facs="#facs_52_r1l28" n="N013"/>dialektische Klopffechterei noch einiges Interesse zur <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Unterhaltung</hi> hätte erregt werden können, so aber
@@ -3190,7 +3190,7 @@
 				<lb facs="#facs_52_r1l30" n="N015"/>seiner schon aus der „Kritischen Beleuchtung” bekannten absonderlichen Denkweise. —
 			</p>
             <p facs="#facs_52_TextRegion_1614707674773_37">
-				<lb facs="#facs_52_r1l31" n="N001"/>Bereits wurde das Schriftchen in Nr. 20 der <placeName>Wiener</placeName> „D.-Mztg.” <date>vorigen Jahres</date> einer Beurtheilung
+				<lb facs="#facs_52_r1l31" n="N001"/>Bereits wurde das Schriftchen in Nr. 20 der <placeName ref="L0034">Wiener</placeName> „D.-Mztg.” <date>vorigen Jahres</date> einer Beurtheilung
 				<lb facs="#facs_52_r1l32" n="N002"/>unterzogen; auch ist demselben als Antikritik in Nr. 23 und 24 derselben Zeitung die gebührende Replik zu
 				<lb facs="#facs_52_r1l33" n="N003"/>Theil geworden. Wir unsererseits nehmen von dem Schriftstück in so fern Notiz, als durch Vorführung
 				<lb facs="#facs_52_r1l34" n="N004"/>mehrerer Stellen aus demselben und durch die von uns angeschlossenen Bemerkungen unsere Urtheile in der
@@ -3198,10 +3198,10 @@
 			</p>
          <pb facs="#facs_53" n="51"/>
             <p facs="#facs_53_TextRegion_1614707854122_180">
-				<lb facs="#facs_53_r1l2" n="N001"/>Das Schriftchen beginnt erzählend: „In einer bei der <rs ana="#concept_mus">Tonkünstler-Versammlung</rs> zu <placeName>Leipzig</placeName> am
+				<lb facs="#facs_53_r1l2" n="N001"/>Das Schriftchen beginnt erzählend: „In einer bei der <rs ana="#concept_mus">Tonkünstler-Versammlung</rs> zu <placeName ref="L0022">Leipzig</placeName> am
 				<lb facs="#facs_53_r1l3" n="N002"/><date>3. Juni 1859</date> gehaltenen <title ana="#text" ref="W0038">Vorlesung</title> über die Geschichte der <rs ana="#concept_mus">Harmonie</rs> und ihre Lehre, welche in den 4 ersten
-				<lb facs="#facs_53_r1l4" n="N003"/>Nummern des 51. Bandes der „<title ana="#text" ref="W0010">Neuen Zeitschrift für Musik</title>” (<placeName>Leipzig</placeName> bei Kahnt) nachzusehen ist, und welcher
-				<lb facs="#facs_53_r1l5" n="N004"/>die Ehre zu Theil ward, in einer <placeName>Wiener</placeName><rs ana="#concept_mus">Musik-Zeitung</rs> nachgedruckt zu werden, erwähnte ich des von Herrn
+				<lb facs="#facs_53_r1l4" n="N003"/>Nummern des 51. Bandes der „<title ana="#text" ref="W0010">Neuen Zeitschrift für Musik</title>” (<placeName ref="L0022">Leipzig</placeName> bei Kahnt) nachzusehen ist, und welcher
+				<lb facs="#facs_53_r1l5" n="N004"/>die Ehre zu Theil ward, in einer <placeName ref="L0034">Wiener</placeName><rs ana="#concept_mus">Musik-Zeitung</rs> nachgedruckt zu werden, erwähnte ich des von Herrn
 				<lb facs="#facs_53_r1l6" n="N005"/><persName role="author" ref="P0042">Dr. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Brendel</hi></persName> ausgesetzten Preises für eine <rs ana="#concept_mus">theoretische Schrift</rs>, in welcher die <rs ana="#concept_mus">harmonischen Freiheiten</rs>, die
 				<lb facs="#facs_53_r1l7" n="N006"/>anerkannte <rs ana="#concept_mus">Tonmeister</rs>, wie <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0016">Beethoven</persName></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0043">Schumann</persName></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0044">Berlioz</persName></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0045">Wagner</persName></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0046">Liszt</persName></hi> u. A. bereits er<pc>¬</pc>
 				<lb facs="#facs_53_r1l8" n="N007"/>kämpft [?] haben, nun auch als rechtlich begründet dargestellt werden sollten. Zugleich deutete ich an, auf
@@ -3225,9 +3225,9 @@
 				<lb facs="#facs_53_r1l25" n="N008"/>Preisrichter, und gar ausschließlich <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">nur diese drei</hi>, um den Preis concurrirt hätten! <note facs="#facs_53_TextRegion_1614707821905_160" type="foot" n="*)"><lb facs="#facs_53_line_1614707929605_273" n="N001"/>Daß durch die gekrönten <rs ana="#concept_mus">Musikwerke</rs> bis jetzt noch keine geniale <rs ana="#concept_mus">Componisten</rs> hervorgezaubert
 				<lb facs="#facs_53_r1l47" n="N002"/>wurden, ist bekannt. Aber nicht überall war man bei den Preisbestimmungen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">leichtfertig</hi>.
 				<lb facs="#facs_53_line_1614707936322_282" n="N003"/>So wurde von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">vier und siebenzig</hi><rs ana="#concept_mus">Compositionen</rs>, welche vor etwa 12 Jahren nach einem
-				<lb facs="#facs_53_line_1614707947378_297" n="N004"/>Preisausschreiben für die beste <rs ana="#concept_mus">Vocalmesse</rs> in <placeName>Wien</placeName> eingingen, keine des Preises würdig erachtet,
+				<lb facs="#facs_53_line_1614707947378_297" n="N004"/>Preisausschreiben für die beste <rs ana="#concept_mus">Vocalmesse</rs> in <placeName ref="L0034">Wien</placeName> eingingen, keine des Preises würdig erachtet,
 				<lb facs="#facs_53_line_1614707955282_305" n="N005"/>und von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">zwei hundert sieben und dreißig</hi><rs ana="#concept_mus">Compositionen</rs>, die in Folge eines Ausschreibens
-				<lb facs="#facs_53_r1l54" n="N006"/>vom „Schwäbischen Sängerbund” in <placeName>Stuttgart</placeName> einliefen, konnte keine den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">ersten</hi> Preis erhalten.
+				<lb facs="#facs_53_r1l54" n="N006"/>vom „Schwäbischen Sängerbund” in <placeName ref="L0032">Stuttgart</placeName> einliefen, konnte keine den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">ersten</hi> Preis erhalten.
 				<lb facs="#facs_53_r1l55" n="N007"/>— Daß man nun auf diesem Wege auch das beste <rs ana="#concept_mus">Harmoniesystem</rs> gesucht, mag sich wohl recht<pc>¬</pc>
 				<lb facs="#facs_53_r1l56" n="N008"/>fertigen lassen, nicht aber, daß die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Preisrichter</hi> eine mißgerathene Arbeit, wie das <persName role="author" ref="P0041">Weitz<pc>¬</pc>
 				<lb facs="#facs_53_line_1614707969144_330" n="N009"/>mann'sche</persName><title ana="#text" ref="W0039">Harmoniesystem</title>, gekrönt haben. — In wie weit solche <rs ana="#concept_mus">Preisaussetzungen</rs> der Kunst
@@ -3349,7 +3349,7 @@
 				<lb facs="#facs_55_r1l23" n="N012"/>an mehreren mit Anführungszeichen hervorgehobenen Stellen unserer „Kritischen Beleuchtung” deutlich zu
 				<lb facs="#facs_55_r1l24" n="N013"/>ersehen. Daß ihm aber in seiner stümperhaften Arbeit die gestellten Aufgaben zu lösen ziemlich „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">voll<pc>¬</pc>
 				<lb facs="#facs_55_r1l25" n="N014"/>ständig</hi>” mißglückte, glauben wir zur Evidenz nachgewiesen zu haben; und wenn er nun gar in eitles
-				<lb facs="#facs_55_r1l26" n="N015"/>Selbstlob verfällt und auf dem nächstfolgenden Blatte seines <title ana="#text" ref="W0037">Novums</title>, wo er <persName role="author" ref="P0047">seinen Kritiker</persName> in der <placeName>Wiener</placeName>
+				<lb facs="#facs_55_r1l26" n="N015"/>Selbstlob verfällt und auf dem nächstfolgenden Blatte seines <title ana="#text" ref="W0037">Novums</title>, wo er <persName role="author" ref="P0047">seinen Kritiker</persName> in der <placeName ref="L0034">Wiener</placeName>
 				<lb facs="#facs_55_r1l27" n="N016"/>„<title ana="#text" ref="W0040">D. M. Z.</title>” zu belehren sucht: „Das Zusammenstellen und Erklären einer gewissen Anzahl von Beispielen
 				<lb facs="#facs_55_r1l28" n="N017"/>ist noch keine <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Wissenschaft</hi>” [— wir verweisen in dieser Beziehung auf unser Schlußwort, Abtheilung
 				<lb facs="#facs_55_r1l29" n="N018"/>XIII, Seite 47 und 48 —], dann von „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Principien</hi>” spricht, aus welchen „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Lehrsätze</hi>” herzuleiten
@@ -3664,7 +3664,7 @@
 				<lb facs="#facs_61_r1l12" n="N004"/>wiederholt sagen müssen. Nur wollen wir in Betreff der <rs ana="#concept_mus">Quintenparallelen-Vertheidigung</rs>, wozu mitunter
 				<lb facs="#facs_61_r1l13" n="N005"/>Beispiele herbei geholt wurden, die kein <rs ana="#concept_mus">Musiker</rs> als fehlerhafte erkennt, bemerken, daß die vermeintlichen
 				<lb facs="#facs_61_r1l14" n="N006"/>„guten <rs ana="#m_interval">Quinten</rs>”, schon von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0154">Stöpel</persName></hi> in seinem: „<title ana="#text" ref="W0197">Neues System der Harmonielehre</title>” und in einer <title ana="#text" ref="W0198">Ab<pc>¬</pc></title>
-				<lb facs="#facs_61_r1l15" n="N007"/><title ana="#text" ref="W0198">handlung</title> in der <placeName>Leipziger</placeName> „<title ana="#text" ref="W0199">Allgemeinen musikalischen Zeitung</title>” vom <date>Jahr 1825</date>, dann nach ihm von
+				<lb facs="#facs_61_r1l15" n="N007"/><title ana="#text" ref="W0198">handlung</title> in der <placeName ref="L0022">Leipziger</placeName> „<title ana="#text" ref="W0199">Allgemeinen musikalischen Zeitung</title>” vom <date>Jahr 1825</date>, dann nach ihm von
 				<lb facs="#facs_61_r1l16" n="N008"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0140">André</persName></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0078">Marx</persName></hi> und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0007">Hauptmann</persName></hi> gebilligt, sammt und sonders nur passiren können, wenn sie, wie in der
 				<lb facs="#facs_61_r1l17" n="N009"/>„Kritischen Beleuchtung” gesagt wurde, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">gedeckt</hi> sind, somit gerade als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Parallelen</rs></hi> nicht, oder fast un<pc>¬</pc>
 				<lb facs="#facs_61_r1l18" n="N010"/>merklich, empfunden werden. Wer hieran noch zweifelt, bevorzuge in irgend einem beliebig ausgewählten

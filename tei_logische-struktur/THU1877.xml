@@ -643,7 +643,7 @@
 				<lb facs="#facs_13_r1l19" n="N001"/>Die Anfänge der <rs ana="#concept_mus">modernen Theorie</rs> fallen zeitlich mit den
 				<lb facs="#facs_13_r1l20" n="N002"/>Anfängen der <rs ana="#concept_mus">neueren Musik</rs> zusammen. Das Jar <date when="1600">1600</date> bezeichnet
 				<lb facs="#facs_13_r1l21" n="N003"/>ungefär den Wendepunkt, wie dies meisterhaft <persName role="author" ref="P0009">C. v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Winter<pc>¬</pc></hi></persName>
-				<lb facs="#facs_13_r1l22" n="N004"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0009">feld</persName></hi> in seinem „<title ana="#text" ref="W0005">Johannes Gabrieli</title>” (<placeName>Berlin</placeName>, <date when="1834">1834</date>) auseinander<pc>¬</pc>
+				<lb facs="#facs_13_r1l22" n="N004"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0009">feld</persName></hi> in seinem „<title ana="#text" ref="W0005">Johannes Gabrieli</title>” (<placeName ref="L0003">Berlin</placeName>, <date when="1834">1834</date>) auseinander<pc>¬</pc>
 				<lb facs="#facs_13_r1l23" n="N005"/>gesetzt hat. Die <date>mittelalterlichen</date> <rs ana="#concept_mus">Oktavengattungen</rs> machten um
 				<lb facs="#facs_13_r1l24" n="N006"/>diese Zeit immer mehr einer durch die Grenzen und speziellen
 				<lb facs="#facs_13_r1l25" n="N007"/>Färbungen dieser Einzelformen nicht mehr beschränkten Anwen<pc>¬</pc>
@@ -760,9 +760,9 @@
 			</p>
             <p facs="#facs_16_TextRegion_1625584947870_552">
 				<lb facs="#facs_16_r1l21" n="N001"/>Doch können die Freunde des <rs ana="#m_tonality">Mollgeschlechts</rs> zufrieden sein,
-				<lb facs="#facs_16_r1l22" n="N002"/>dass wenigstens <hi rend="fontSize:0.0; kerning:0; bold:true;"><persName role="author" ref="P0007">Moritz Hauptmann</persName></hi> <note facs="#facs_16_TextRegion_1625584942776_548" type="foot" n="1)"><lb facs="#facs_16_r1l36" n="N001"/><title ana="#text" ref="W0004">Die Natur der Harmonik und Metrik</title>. <placeName>Leipzig</placeName> <date when="1853">1853</date>. —
+				<lb facs="#facs_16_r1l22" n="N002"/>dass wenigstens <hi rend="fontSize:0.0; kerning:0; bold:true;"><persName role="author" ref="P0007">Moritz Hauptmann</persName></hi> <note facs="#facs_16_TextRegion_1625584942776_548" type="foot" n="1)"><lb facs="#facs_16_r1l36" n="N001"/><title ana="#text" ref="W0004">Die Natur der Harmonik und Metrik</title>. <placeName ref="L0022">Leipzig</placeName> <date when="1853">1853</date>. —
 				<lb facs="#facs_16_r1l37" n="N002"/><title ana="#text" ref="W0006">Die Lehre von der Harmonik</title>, Nachgelassenes Werk, herausg. v. Dr. O. Paul,
-				<lb facs="#facs_16_r1l38" n="N003"/><placeName>Leipzig</placeName> <date when="1868">1868</date>.</note> sich entschiedene Anhänger
+				<lb facs="#facs_16_r1l38" n="N003"/><placeName ref="L0022">Leipzig</placeName> <date when="1868">1868</date>.</note> sich entschiedene Anhänger
 				<lb facs="#facs_16_r1l23" n="N003"/>zu erwerben gewusst hat, der mitten im Gebiet der <rs ana="#concept_mus">Accordlehre</rs>
 				<lb facs="#facs_16_r1l24" n="N004"/>selbst einen großen Schritt gethan hat, der ihm nie vergessen
 				<lb facs="#facs_16_r1l25" n="N005"/>werden darf, wenn auch neuere Forschungen ihn überholt haben,
@@ -947,7 +947,7 @@
 				<lb facs="#facs_21_r1l7" n="N005"/>produkt handelt, so wont in ihm vollkommene Gesetzmässigkeit,
 				<lb facs="#facs_21_r1l8" n="N006"/>welche ja das Objektive der Schönheit ist; aber die begehrende
 				<lb facs="#facs_21_r1l9" n="N007"/>Seite des Menschengeistes vermag nur einen Teil des Gesetz<pc>¬</pc>
-				<lb facs="#facs_21_r1l10" n="N008"/>mässigen zu erfassen und, weil sie ihn erfasst, zu lieben.<note facs="#facs_21_TextRegion_1625585543700_1094" type="foot" n="1)"><lb facs="#facs_21_r1l35" n="N001"/><title ana="#text" ref="W0060">Musikalische Briefe</title> von <persName role="author" ref="P0055">Dr. Eduard <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Krüger</hi></persName>. <placeName>Münster</placeName>, <date when="1870">1870</date>, S. 20: „Aller
+				<lb facs="#facs_21_r1l10" n="N008"/>mässigen zu erfassen und, weil sie ihn erfasst, zu lieben.<note facs="#facs_21_TextRegion_1625585543700_1094" type="foot" n="1)"><lb facs="#facs_21_r1l35" n="N001"/><title ana="#text" ref="W0060">Musikalische Briefe</title> von <persName role="author" ref="P0055">Dr. Eduard <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Krüger</hi></persName>. <placeName ref="L0024">Münster</placeName>, <date when="1870">1870</date>, S. 20: „Aller
 				<lb facs="#facs_21_r1l36" n="N002"/>Schönheit verborgener Liebeszug offenbart sich in dem Suchen und Finden, dem Mit<pc>¬</pc>
 				<lb facs="#facs_21_r1l37" n="N003"/>leben: Die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Symbiosis</hi> der Geschlechtsliebe ist Ur- und Abbild aller Symmetrie, Sym<pc>¬</pc>
 				<lb facs="#facs_21_r1l38" n="N004"/>pathie, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Symphonie</hi>”.</note> Un<pc>¬</pc>
@@ -994,7 +994,7 @@
 				<lb facs="#facs_22_r1l8" n="N002"/>dürfen wir die Bemerkung nicht unterdrücken, dass die hier aus<pc>¬</pc>
 				<lb facs="#facs_22_r1l9" n="N003"/>gesprochene Warheit erst ganz erkannt wurde, als einer der größ<pc>¬</pc>
 				<lb facs="#facs_22_r1l10" n="N004"/>ten <rs ana="#concept_phy">physikalischen Forscher</rs> <date>unserer Zeit</date> die Arbeit schon getan
-				<lb facs="#facs_22_r1l11" n="N005"/>hatte, die seinem Gebiete oblag. Durch <hi rend="fontSize:0.0; kerning:0; bold:true;"><persName role="author" ref="P0001">Hermann Helmholtz</persName></hi><note facs="#facs_22_TextRegion_1625585775438_1198" type="foot" n="1)"><lb facs="#facs_22_r1l35" n="N001"/><title ana="#text" ref="W0001">Die Lehre von den Tonempfindungen. 2. Ausg.</title> <placeName>Braunschweig</placeName> <date when="1865">1865</date>.
+				<lb facs="#facs_22_r1l11" n="N005"/>hatte, die seinem Gebiete oblag. Durch <hi rend="fontSize:0.0; kerning:0; bold:true;"><persName role="author" ref="P0001">Hermann Helmholtz</persName></hi><note facs="#facs_22_TextRegion_1625585775438_1198" type="foot" n="1)"><lb facs="#facs_22_r1l35" n="N001"/><title ana="#text" ref="W0001">Die Lehre von den Tonempfindungen. 2. Ausg.</title> <placeName ref="L0004">Braunschweig</placeName> <date when="1865">1865</date>.
 				<lb facs="#facs_22_r1l36" n="N002"/>Leider ist Ref. nicht in der Lage gewesen, die 3., vor einigen Jaren erschienene
 				<lb facs="#facs_22_r1l37" n="N003"/>Auflage zu benutzen.</note>
 				<lb facs="#facs_22_r1l12" n="N006"/>haben wir erst vollkommenen Einblick in die grossen Geheimnisse
@@ -1355,7 +1355,7 @@
             	<lb facs="#facs_31_r1l2" n="N001"/>hätte hoffen lassen. Beiden großen Männern an Scharfsinn und
 				<lb facs="#facs_31_r1l3" n="N002"/>Gelehrsamkeit kaum untergeordnet, von der prinzipiellen Richtig<pc>¬</pc>
 				<lb facs="#facs_31_r1l4" n="N003"/>keit der beiderseitigen Forschungen tief durchdrungen, gelangte
-				<lb facs="#facs_31_r1l5" n="N004"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><persName role="author" ref="P0018">Arthur v. Oettingen</persName></hi> <note facs="#facs_31_TextRegion_1625586586508_1829" type="foot" n="1)"><lb facs="#facs_31_r1l37" n="N001"/><title ana="#text" ref="W0017">Harmoniesystem in dualer Entwickelung</title>. <placeName>Dorpat</placeName> und <placeName>Leipzig</placeName>, <date when="1866">1866</date>.</note>, selbständig weiter bauend, zu einem
+				<lb facs="#facs_31_r1l5" n="N004"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><persName role="author" ref="P0018">Arthur v. Oettingen</persName></hi> <note facs="#facs_31_TextRegion_1625586586508_1829" type="foot" n="1)"><lb facs="#facs_31_r1l37" n="N001"/><title ana="#text" ref="W0017">Harmoniesystem in dualer Entwickelung</title>. <placeName ref="L0009">Dorpat</placeName> und <placeName ref="L0022">Leipzig</placeName>, <date when="1866">1866</date>.</note>, selbständig weiter bauend, zu einem
 				<lb facs="#facs_31_r1l6" n="N005"/>doppelten Resultate. Einmal findet er das positive Moment der
 				<lb facs="#facs_31_r1l7" n="N006"/><rs ana="#concept_mus">Tonverwandtschaft</rs> mit Recht in der Zugehörigkeit jedes soge<pc>¬</pc>
 				<lb facs="#facs_31_r1l8" n="N007"/>nannten <rs ana="#concept_mus">Zusammenklanges</rs> zu einem bestimmten <rs ana="#concept_mus">Stammklange</rs>.
@@ -2082,10 +2082,10 @@
 				<lb facs="#facs_50_r1l3" n="N002"/>Vollständigkeit der <hi rend="fontSize:0.0; kerning:0; bold:true;"><persName role="author" ref="P0063">Freiherr A. v. Thimus</persName></hi><note facs="#facs_50_TextRegion_1625589633849_3366" type="foot" n="1)"><lb facs="#facs_50_r1l32" n="N001"/>„<title ana="#text" ref="W0064">Die <rs ana="#concept_mus">harmonikale</rs> Symbolik des <date>Altertums</date>, Erste Abteilung. Die <rs ana="#concept_phy">eso<pc>¬</pc></rs></title>
 				<lb facs="#facs_50_r1l33" n="N002"/><title ana="#text" ref="W0064"><rs ana="#concept_phy">terische Zalenlehre</rs> der Pythagoreer in ihrer Beziehung zu älteren griechischen</title>
 				<lb facs="#facs_50_r1l34" n="N003"/><title ana="#text" ref="W0064">und morgenländischen Quellen, insbesondere zur altsemitisch-hebräischen Ueber<pc>¬</pc></title>
-				<lb facs="#facs_50_r1l35" n="N004"/><title ana="#text" ref="W0064">lieferung</title>”. <placeName>Köln</placeName>, <date when="1868">1868</date>. — Man vergleiche auch: „<title ana="#text" ref="W0065">Die Grundzüge der <rs ana="#concept_mus">esote<pc>¬</pc></rs></title>
+				<lb facs="#facs_50_r1l35" n="N004"/><title ana="#text" ref="W0064">lieferung</title>”. <placeName ref="L0021">Köln</placeName>, <date when="1868">1868</date>. — Man vergleiche auch: „<title ana="#text" ref="W0065">Die Grundzüge der <rs ana="#concept_mus">esote<pc>¬</pc></rs></title>
 				<lb facs="#facs_50_r1l36" n="N005"/><title ana="#text" ref="W0065"><rs ana="#concept_mus">rischen Harmonik</rs> des <date>Altertums</date>, im Anschlusse an die Schrift des Freiherrn</title>
 				<lb facs="#facs_50_r1l37" n="N006"/><title ana="#text" ref="W0065"><persName role="author" ref="P0063">A. v. Thimus</persName> über die <rs ana="#concept_mus">harmonikale</rs> Symbolik des <date>Altertums</date>, dargestellt von</title>
-				<lb facs="#facs_50_r1l38" n="N007"/><title ana="#text" ref="W0065">Dr. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0064">Richard Hasenclever</persName></hi></title>”. <placeName>Köln</placeName>, <date when="1870">1870</date>.</note> aus dem Schutte
+				<lb facs="#facs_50_r1l38" n="N007"/><title ana="#text" ref="W0065">Dr. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0064">Richard Hasenclever</persName></hi></title>”. <placeName ref="L0021">Köln</placeName>, <date when="1870">1870</date>.</note> aus dem Schutte
 				<lb facs="#facs_50_r1l4" n="N003"/>der <date>mittelalterlichen</date>, altgriechischen und morgenländischen wissen<pc>¬</pc>
 				<lb facs="#facs_50_r1l5" n="N004"/>schaftlichen Reliquien mit warem Bienenfleisse hervorgesucht
 				<lb facs="#facs_50_r1l6" n="N005"/>und widerhergestellt, mit genialem Überblicke ergänzt und ge<pc>¬</pc>
@@ -2142,7 +2142,7 @@
 				<lb facs="#facs_51_r2l28" n="N003"/>philosophische Gemüter, denen Phantasiren bequemer ist, als <rs ana="#concept_phy">wissenschaftliche</rs>
 				<lb facs="#facs_51_r2l29" n="N004"/>Arbeit”, wird von dem übrigens um die Berechnung der <rs ana="#m_tonality">Tonleiter</rs> hochverdienten
 				<lb facs="#facs_51_r2l30" n="N005"/><rs ana="#concept_phy">Mathematiker</rs> <persName role="author" ref="P0066">G. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Schubring</hi></persName> mit Unrecht auf <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0063">von Thimus</persName></hi> angewandt
-				<lb facs="#facs_51_r2l31" n="N006"/>(<title ana="#text" ref="W0066"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Giebel</hi>'s Zeitschr. f. d. ges. Naturwissenschaften, Bd. XXXII</title>, <placeName>Berlin</placeName> <date when="1868">1868</date>,
+				<lb facs="#facs_51_r2l31" n="N006"/>(<title ana="#text" ref="W0066"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Giebel</hi>'s Zeitschr. f. d. ges. Naturwissenschaften, Bd. XXXII</title>, <placeName ref="L0003">Berlin</placeName> <date when="1868">1868</date>,
 				<lb facs="#facs_51_r2l32" n="N007"/>S. 69 ff). Die „<title ana="#text" ref="W0064">Harmonikale Symbolik</title>” hat die <rs ana="#concept_phy">exakten Wissenschaften</rs> keines<pc>¬</pc>
 				<lb facs="#facs_51_r2l33" n="N008"/>wegs zu scheuen. Sie verfolgt in erster Linie nur archäologische Zwecke und
 				<lb facs="#facs_51_r2l34" n="N009"/>benützt dabei die Quellen in so umfassender Weise, und mit so strenger kriti<pc>¬</pc>

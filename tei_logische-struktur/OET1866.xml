@@ -3285,7 +3285,7 @@
 				<byline>
 					<lb facs="#facs_1_r1l6" n="N006"/>von
 					<lb facs="#facs_1_r1l7" n="N007"/><docAuthor ref="#P0018"><hi rend="fontSize:0.0; kerning:0; bold:true;">Dr. Arthur von Oettingen</hi></docAuthor>,
-					<lb facs="#facs_1_r1l8" n="N008"/>ausserord. Professor der <rs ana="#concept_phy">Physik</rs> an der Kaiserl. Universität <placeName>Dorpat</placeName>.
+					<lb facs="#facs_1_r1l8" n="N008"/>ausserord. Professor der <rs ana="#concept_phy">Physik</rs> an der Kaiserl. Universität <placeName ref="L0009">Dorpat</placeName>.
 				</byline>
 				<docImprint>
 					<lb facs="#facs_1_r1l20" n="N009"/><pubPlace>Dorpat</pubPlace> und <pubPlace>Leipzig</pubPlace>.
@@ -3295,8 +3295,8 @@
    			<pb facs="#facs_2" n=""/>
    			<imprimatur facs="#facs_2_r1">
    			 <lb facs="#facs_2_r1l16" n="N001"/>Von der Censur gestattet.
-				<lb facs="#facs_2_r1l17" n="N002"/><placeName>Dorpat</placeName>, den <date>4. Juli 1866</date>.
-				<lb facs="#facs_2_r1l36" n="N003"/>Druck von E. J. Karow, Universitäts-Buchhändler in <placeName>Dorpat</placeName>. <date when="1866">1866</date>.
+				<lb facs="#facs_2_r1l17" n="N002"/><placeName ref="L0009">Dorpat</placeName>, den <date>4. Juli 1866</date>.
+				<lb facs="#facs_2_r1l36" n="N003"/>Druck von E. J. Karow, Universitäts-Buchhändler in <placeName ref="L0009">Dorpat</placeName>. <date when="1866">1866</date>.
    			</imprimatur>
 			</titlePage>
          <pb facs="#facs_3" n=""/>
@@ -3354,7 +3354,7 @@
 				<lb facs="#facs_4_r1l23" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Solfa-Associations</rs></hi> bemerkt habe, um die dort ci<pc>¬</pc>
 				<lb facs="#facs_4_r1l24" n="N006"/>tirten Werke: „<hi rend="italic:true; fontSize:0.0; kerning:0;"><title ana="#text" ref="W0200">of Vocal Music sounded on the Tonic</title><lb facs="#facs_4_r1l25" n="N007"/> <title ana="#text" ref="W0200">Solfa Method</title></hi> ”   , und „ ” 
             	<pb facs="#facs_5" n="V"/>
-            	<lb facs="#facs_5_r1l2" n="N001"/><hi rend="italic:true; fontSize:0.0; kerning:0;">Tonic Solfa Agency. (<placeName>43 Paternoster Row</placeName>)</hi> berücksich<pc>¬</pc>
+            	<lb facs="#facs_5_r1l2" n="N001"/><hi rend="italic:true; fontSize:0.0; kerning:0;">Tonic Solfa Agency. (<placeName ref="L0001">43 Paternoster Row</placeName>)</hi> berücksich<pc>¬</pc>
 				<lb facs="#facs_5_r1l3" n="N002"/>tigen zu können. Auch habe ich dieselben bis jetzt
 				<lb facs="#facs_5_r1l4" n="N003"/>noch nicht zu Gesicht bekommen. Wenn indess die
 				<lb facs="#facs_5_r1l5" n="N004"/>Engländer den Weg, den ich für den einzig richtigen
@@ -3364,7 +3364,7 @@
 				<lb facs="#facs_5_r1l9" n="N008"/>gleichzeitig und vielleicht in demselben Sinne ent<pc>¬</pc>
 				<lb facs="#facs_5_r1l10" n="N009"/>wickelt und erforscht wird. Es kann hiedurch ein
 				<lb facs="#facs_5_r1l11" n="N010"/>Zeugniss mehr für die Wahrheit gewonnen werden.
-				<lb facs="#facs_5_r1l12" n="N011"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><placeName>Dorpat</placeName></hi>, im <date>Juli 1866</date>.
+				<lb facs="#facs_5_r1l12" n="N011"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><placeName ref="L0009">Dorpat</placeName></hi>, im <date>Juli 1866</date>.
 				<lb facs="#facs_5_r1l13" n="N012"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><persName role="author" ref="P0018">A. v. Oettingen</persName></hi>.
             </p>
          </div>
@@ -3388,7 +3388,7 @@
 				<lb facs="#facs_9_r1l8" n="N007"/>Entwickelung einem Abschluss nahe, dass sie vielmehr fort
 				<lb facs="#facs_9_r1l9" n="N008"/>und fort nach neuen Formen ringt. Mit <persName role="author" ref="P0001"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helmholtz</hi>'s</persName>
 				<lb facs="#facs_9_r1l10" n="N009"/><rs ana="#concept_phy">Forschungen</rs> ist aber die <rs ana="#concept_mus">Theorie</rs> der <rs ana="#concept_mus">Musik</rs> in ein ganz
-				<lb facs="#facs_9_r1l11" n="N010"/>neues Stadium getreten. In seinem Werke „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><title ana="#text" ref="W0001">Die Lehre von</title><lb facs="#facs_9_r1l12" n="N011"/> <title ana="#text" ref="W0001">den Tonempfindungen als physiologische Grund<pc>¬</pc></title><lb facs="#facs_9_r1l13" n="N012"/> <title ana="#text" ref="W0001">lage für die Theorie der Musik</title></hi> ”, <placeName>Braunschweig</placeName><date when="1863">1863</date>,
+				<lb facs="#facs_9_r1l11" n="N010"/>neues Stadium getreten. In seinem Werke „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><title ana="#text" ref="W0001">Die Lehre von</title><lb facs="#facs_9_r1l12" n="N011"/> <title ana="#text" ref="W0001">den Tonempfindungen als physiologische Grund<pc>¬</pc></title><lb facs="#facs_9_r1l13" n="N012"/> <title ana="#text" ref="W0001">lage für die Theorie der Musik</title></hi> ”, <placeName ref="L0004">Braunschweig</placeName><date when="1863">1863</date>,
 				<lb facs="#facs_9_r1l14" n="N013"/>Zweite Ausgabe <date when="1865">1865</date>, ist ein inniges Band um Kunst und
 				<lb facs="#facs_9_line_1616239508110_1077" n="N014"/><rs ana="#concept_phy">Wissenschaft</rs> geschlungen. —
 			</p>
@@ -3443,17 +3443,17 @@
 				<lb facs="#facs_11_r1l2" n="N001"/>Wenn auch nicht in dem einheitlich umfassenden Zu<pc>¬</pc>
 				<lb facs="#facs_11_r1l3" n="N002"/>sammenhange, wie bei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helmholtz</persName></hi>, so sind doch schon seit
 				<lb facs="#facs_11_r1l4" n="N003"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0005">Rameau</persName></hi> und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0011">d’Alembert</persName></hi><note facs="#facs_11_TextRegion_1616240001915_1296" type="foot" n="1)"><lb facs="#facs_11_line_1616240147636_1392" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0011">d'Alembert</persName></hi>, „<title ana="#text" ref="W0079">Elémens de musique théorique et pratique, suivant les</title>
-				<lb facs="#facs_11_r1l33" n="N002"/><title ana="#text" ref="W0079">principes de <persName role="author" ref="P0005">M. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Rameau</hi></persName></title>. Nouvelle édition. <placeName>Lyon</placeName>. <date when="1766">1766</date>.</note> ähnliche Grundsätze für das
+				<lb facs="#facs_11_r1l33" n="N002"/><title ana="#text" ref="W0079">principes de <persName role="author" ref="P0005">M. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Rameau</hi></persName></title>. Nouvelle édition. <placeName ref="L0023">Lyon</placeName>. <date when="1766">1766</date>.</note> ähnliche Grundsätze für das
 				<lb facs="#facs_11_r1l5" n="N004"/>Verständniss der <rs ana="#concept_mus">Harmonie</rs> ausgesprochen worden. Nament<pc>¬</pc>
 				<lb facs="#facs_11_r1l6" n="N005"/>lich hat <persName role="author" ref="P0007">M. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Hauptmann</hi></persName> in seinem bekannten Werke:
-				<lb facs="#facs_11_r1l7" n="N006"/>„<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><title ana="#text" ref="W0004">Die Natur der Harmonik und Metrik</title></hi>”, <placeName>Leipzig</placeName><date when="1853">1853</date> auf
+				<lb facs="#facs_11_r1l7" n="N006"/>„<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><title ana="#text" ref="W0004">Die Natur der Harmonik und Metrik</title></hi>”, <placeName ref="L0022">Leipzig</placeName><date when="1853">1853</date> auf
 				<lb facs="#facs_11_r1l8" n="N007"/>den letztgenannten Prinzipien ein <rs ana="#concept_mus">System</rs> der <rs ana="#concept_mus">Musik</rs> erbaut.
 				<lb facs="#facs_11_r1l9" n="N008"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helmholtz</persName></hi> und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0090">Naumann</persName></hi> haben den Vorwurf ausgespro<pc>¬</pc>
 				<lb facs="#facs_11_r1l10" n="N009"/>chen, dass die der <persName role="author" ref="P0013"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Hegel</hi>schen</persName> Dialektik entsprechende Ter<pc>¬</pc>
 				<lb facs="#facs_11_r1l11" n="N010"/>minologie dieses <title ana="#text" ref="W0004">Buches</title> dasselbe einem grösseren Leserkreise
 				<lb facs="#facs_11_r1l12" n="N011"/>unzugänglich gemacht habe. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0090">Naumann</persName></hi> <note facs="#facs_11_TextRegion_1616240001915_1295" type="foot" n="2)"><lb facs="#facs_11_r1l34" n="N001"/><persName role="author" ref="P0090">C E. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Naumann</hi></persName>, „<title ana="#text" ref="W0110">Ueber die verschiedenen Bestimmungen der Ton<pc>¬</pc></title>
 				<lb facs="#facs_11_r1l35" n="N002"/><title ana="#text" ref="W0110">verhältnisse und die Bedeutung des pythagoräischen oder reinen Quintensystems</title>
-				<lb facs="#facs_11_r1l36" n="N003"/><title ana="#text" ref="W0110">für unsere heutige Musik</title>”, <placeName>Leipzig</placeName>, <date when="1858">1858</date>. pag. 43.</note> insbesondere sagt:
+				<lb facs="#facs_11_r1l36" n="N003"/><title ana="#text" ref="W0110">für unsere heutige Musik</title>”, <placeName ref="L0022">Leipzig</placeName>, <date when="1858">1858</date>. pag. 43.</note> insbesondere sagt:
 				<lb facs="#facs_11_r1l13" n="N012"/>„Was die an die Spitze derselben gestellten, der <persName role="author" ref="P0013"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Hegel</hi><pc>¬</pc>
 				<lb facs="#facs_11_r1l15" n="N013"/>schen</persName> Denkweise entsprechenden philosophischen Begriffe an<pc>¬</pc>
 				<lb facs="#facs_11_r1l16" n="N014"/>langt, so scheint es uns, als erschwerten sie nur den Zugang
@@ -5329,7 +5329,7 @@
 				<lb facs="#facs_62_r1l3" n="N002"/>stimmung, die zwar nie a priori, ohne ein durch das <rs ana="#concept_phy">Gehör<pc>¬</pc>
 				<lb facs="#facs_62_r1l4" n="N003"/>organ</rs> vermitteltes Urtheil, doch aber von feststehenden Prin<pc>¬</pc>
 				<lb facs="#facs_62_r1l5" n="N004"/>zipien aus gewonnen werden kann. Treffend sagt <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0041">Weitzmann</persName></hi>:
-				<lb facs="#facs_62_r1l6" n="N005"/>(<title ana="#text" ref="W0163">Geschichte des Septimenaccordes</title> <placeName>Berlin</placeName><date when="1854">1854</date>) „Die An<pc>¬</pc>
+				<lb facs="#facs_62_r1l6" n="N005"/>(<title ana="#text" ref="W0163">Geschichte des Septimenaccordes</title> <placeName ref="L0003">Berlin</placeName><date when="1854">1854</date>) „Die An<pc>¬</pc>
 				<lb facs="#facs_62_r1l7" n="N006"/>sichten vom <rs ana="#concept_mus">Wohlklange</rs> waren von jeher sehr wechselnd, oft
 				<lb facs="#facs_62_r1l8" n="N007"/>widersprechend; es hat deshalb auch zu keiner Zeit eine unfehl<pc>¬</pc>
 				<lb facs="#facs_62_r1l9" n="N008"/>bare, feststehende und allein gültige <rs ana="#concept_mus">musikalische Grammatik</rs>
@@ -5399,13 +5399,13 @@
             </p>
             <p facs="#facs_67_TextRegion_1620849524063_1159">
 				<lb facs="#facs_67_r1l4" n="N001"/>„<hi rend="italic:true; fontSize:0.0; kerning:0;">Telle est, par exemple, la marche <rs ana="concept_mus">diatonique</rs> de l’échelle
-				<lb facs="#facs_67_r1l5" n="N002"/>du <hi rend="italic:true; fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="m_tonality">mode mineur</rs> en descendant</hi><hi rend="italic:true; fontSize:0.0; kerning:0;">; la formation de <rs ana="m_chord">l&apos;accord</rs></hi>
+				<lb facs="#facs_67_r1l5" n="N002"/>du <hi rend="italic:true; fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="m_tonality">mode mineur</rs> en descendant</hi><hi rend="italic:true; fontSize:0.0; kerning:0;">; la formation de <rs ana="m_chord">l'accord</rs></hi>
 				<lb facs="#facs_67_r1l6" n="N003"/>appellé communément <hi rend="italic:true; fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="m_chord">accord de sixte superflue</rs></hi><hi rend="italic:true; fontSize:0.0; kerning:0;">; et quel¬</hi>
 				<lb facs="#facs_67_r1l7" n="N004"/>ques autres faits moins importants, dont nous ne pouvons guère
-				<lb facs="#facs_67_r1l8" n="N005"/>jusqu;ici alléguer, de raison satisfaisante que l&apos;expérience seule.
+				<lb facs="#facs_67_r1l8" n="N005"/>jusqu;ici alléguer, de raison satisfaisante que l'expérience seule.
 				<lb facs="#facs_67_r1l9" n="N006"/>.... On parviendra peut-être par de nouvelles recherches à
-				<lb facs="#facs_67_r1l10" n="N007"/>réduire ces Phénomènes au principe; ou bien, <hi rend="italic:true; fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="concept_mus">l&apos;harmonie</rs> a</hi>
-				<lb facs="#facs_67_r1l11" n="N008"/>peut-être quelqu&apos;autre principe inconnu.....</hi>
+				<lb facs="#facs_67_r1l10" n="N007"/>réduire ces Phénomènes au principe; ou bien, <hi rend="italic:true; fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="concept_mus">l'harmonie</rs> a</hi>
+				<lb facs="#facs_67_r1l11" n="N008"/>peut-être quelqu'autre principe inconnu.....</hi>
             </p>
          </div>
          </div>
@@ -5720,7 +5720,7 @@
 				<lb facs="#facs_79_r1l27" n="N015"/><rs ana="#concept_mus">Intonation</rs> gelingt leicht und sicher von jeder <rs ana="#concept_mus">Phonica</rs> aus <note facs="#facs_79_TextRegion_1621067568946_841" type="foot" n="1)"><lb facs="#facs_79_line_1621067658723_900" n="N001"/>Anderweitige in hohem Grade interessante Bemerkungen über den ab<pc>¬</pc>
 				<lb facs="#facs_79_r1l32" n="N002"/>steigenden Character des <rs ana="#concept_mus">phonischen</rs> <rs ana="#m_tonality">Dreiklanges</rs>, die uns hier zu weit führen
 				<lb facs="#facs_79_r1l33" n="N003"/>würden, findet man in dem werthvollen, umfangreichen Werke von <persName role="author" ref="P0156">C. L. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Merkel</hi></persName>
-				<lb facs="#facs_79_r1l34" n="N004"/>„<title ana="#text" ref="W0202">Physiologie der menschlichen Sprache</title>” <placeName>Leipzig</placeName>, bei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Otto Wiegand</hi><date when="1866">1866</date>. pag.
+				<lb facs="#facs_79_r1l34" n="N004"/>„<title ana="#text" ref="W0202">Physiologie der menschlichen Sprache</title>” <placeName ref="L0022">Leipzig</placeName>, bei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Otto Wiegand</hi><date when="1866">1866</date>. pag.
 				<lb facs="#facs_79_r1l35" n="N005"/>356 und 370. In letzter Stelle verspricht der <persName role="author" ref="P0156">Verfasser</persName>, auf das „Naturgesetz”,
 				<lb facs="#facs_79_r1l36" n="N006"/>das in der <rs ana="#m_interval">Mollterz</rs> liege, später zurück zu kommen; leider vergisst er aber sein
 				<lb facs="#facs_79_r1l37" n="N007"/>Versprechen.</note>.
@@ -6012,7 +6012,7 @@
 				<pb facs="#facs_89" n="81"/>
             	<lb facs="#facs_89_r2l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0007">Hauptmann</persName></hi> einen <rs ana="#m_chord">verminderten Dreiklang</rs>, und berücksich<pc>¬</pc>
 				<lb facs="#facs_89_r2l3" n="N002"/>tigte ihn in ganz besonderer Weise in <title ana="#text" ref="W0004">seiner Harmonik</title>;
-				<lb facs="#facs_89_r2l4" n="N003"/>selten haben spätere <rs ana="#concept_mus">Theoretiker</rs> dem Anerkennung gezollt <note facs="#facs_89_TextRegion_1621069184676_1985" type="foot" n="1)"><lb facs="#facs_89_r2l38" n="N001"/>s. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0157">Bellermann</persName></hi>, „<title ana="#text" ref="W0203">Der Contrapunkt</title>” <placeName>Berlin</placeName><date when="1862">1862</date>. S. 8. Der Verfas<pc>¬</pc>
+				<lb facs="#facs_89_r2l4" n="N003"/>selten haben spätere <rs ana="#concept_mus">Theoretiker</rs> dem Anerkennung gezollt <note facs="#facs_89_TextRegion_1621069184676_1985" type="foot" n="1)"><lb facs="#facs_89_r2l38" n="N001"/>s. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0157">Bellermann</persName></hi>, „<title ana="#text" ref="W0203">Der Contrapunkt</title>” <placeName ref="L0003">Berlin</placeName><date when="1862">1862</date>. S. 8. Der Verfas<pc>¬</pc>
 				<lb facs="#facs_89_r2l39" n="N002"/>ser rügt die Ansicht <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0158">Simon Sechters</persName></hi>, derzufolge „der <rs ana="#m_chord">Dreiklang</rs> auf der zwei<pc>¬</pc>
 				<lb facs="#facs_89_r2l40" n="N003"/>ten <rs ana="#concept_mus">Stufe</rs> im <rs ana="#m_tonality">Dursystem</rs> <rs ana="#concept_mus">unreiner</rs> als die übrigen, und wie eine <rs ana="#concept_mus">Dissonanz</rs> zu be<pc>¬</pc>
 				<lb facs="#facs_89_r2l41" n="N004"/>handeln sei”. <persName role="author" ref="P0007"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Hauptmann</hi>'s</persName> <title ana="#text" ref="W0004">Harmonik</title> scheint dem <persName role="author" ref="P0157">Verfasser</persName> nicht bekannt
@@ -6065,7 +6065,7 @@
 				<lb facs="#facs_90_r1l12" n="N001"/>Nicht blos im <date>Alterthum</date>, sondern auch bis in die <date>neue<pc>¬</pc></date>
 				<lb facs="#facs_90_r1l13" n="N002"/><date>ste Zeit</date> hinein, nimmt das <rs ana="#m_tonality">phonische Geschlecht</rs> bei denje<pc>¬</pc>
 				<lb facs="#facs_90_r1l14" n="N003"/>nigen Völkern, die einen <rs ana="#concept_mus">homophonen</rs> <rs ana="#concept_mus">Gesang</rs> besitzen, den
-				<lb facs="#facs_90_r1l15" n="N004"/>ersten Rang ein. Nur aus der <placeName>europäischen</placeName> <rs ana="#concept_mus">harmonischen Musik</rs>
+				<lb facs="#facs_90_r1l15" n="N004"/>ersten Rang ein. Nur aus der <placeName ref="L0014">europäischen</placeName> <rs ana="#concept_mus">harmonischen Musik</rs>
 				<lb facs="#facs_90_r1l16" n="N005"/>ist es verbannt worden, und zwar sowohl von <rs ana="#concept_mus">Theoretikern</rs>,
 				<lb facs="#facs_90_r1l17" n="N006"/>als auch von den <rs ana="#concept_mus">Musikern</rs>, ja unter diesen ganz besonders auch
 				<lb facs="#facs_90_r1l18" n="N007"/>von den <rs ana="#concept_mus">Classikern</rs>. Ich will nur einige Bemerkungen hier<pc>¬</pc>
@@ -6078,7 +6078,7 @@
 			</p>
             <p facs="#facs_90_TextRegion_1621069560359_2214 #facs_91_TextRegion_1621069725204_2344 #facs_91_TextRegion_1621069716508_2334">
 				<lb facs="#facs_90_r1l25" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0159">Fortlage</persName></hi> <note facs="#facs_90_TextRegion_1621069557008_2210" type="foot" n="1)"><lb facs="#facs_90_r1l30" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0159">Fortlage</persName></hi>: „<title ana="#text" ref="W0204">Das musikalische System der Griechen in seiner Urgestalt</title>”.
-				<lb facs="#facs_90_r1l31" n="N002"/><placeName>Leipzig</placeName><date when="1847">1847</date>. pag 50 und 102. — So auch in <persName role="author" ref="P0157">H. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Bellermann</hi></persName>: „<title ana="#text" ref="W0203">Der Contrapunkt</title>”
+				<lb facs="#facs_90_r1l31" n="N002"/><placeName ref="L0022">Leipzig</placeName><date when="1847">1847</date>. pag 50 und 102. — So auch in <persName role="author" ref="P0157">H. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Bellermann</hi></persName>: „<title ana="#text" ref="W0203">Der Contrapunkt</title>”
 				<lb facs="#facs_90_r1l32" n="N003"/>pag. 43, das Citat aus der Schrift des <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0161">Joannes Bona</persName></hi>: „<title ana="#text" ref="W0205">De divina psalmodia</title>”:
 				<lb facs="#facs_90_r1l33" n="N004"/>„Primam sedem ordine et dignitate tenet <rs ana="#m_tonality">Dorius</rs>. Hic a <persName role="author" ref="P0075">Platone</persName> et <persName role="author" ref="P0065">Aristotele</persName> cae<pc>¬</pc>
 				<lb facs="#facs_90_r1l34" n="N005"/>teris omnibus praefertur”, desgl. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0162">Plutarch</persName></hi>, <title ana="#text" ref="W0206">de musica</title> cap. XVII.</note> sagt: „Nach <rs ana="#concept_mus">einstimmigem</rs> Zeugniss er<pc>¬</pc>
@@ -6088,7 +6088,7 @@
 				<lb facs="#facs_90_r1l29" n="N005"/>ter</rs> als eine absteigende darstellten, wie <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0160">Boeckh</persName></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0159">Fortlage</persName></hi>
             	<pb facs="#facs_91" n="83"/>
             	<lb facs="#facs_91_r1l2" n="N001"/>und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0157">Bellermann</persName></hi> <note facs="#facs_91_TextRegion_1621069707438_2326" type="foot" n="1)"><lb facs="#facs_91_r1l28" n="N001"/>Die Werke von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0159">Fortlage</persName></hi> <title ana="#text" ref="W0204">l. c.</title> und <persName role="author" ref="P0157">F. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Bellermann</hi></persName>. „<title ana="#text" ref="W0207">Die Tonleitern</title>
-				<lb facs="#facs_91_r1l29" n="N002"/><title ana="#text" ref="W0207">und Musiknoten der Griechen</title>” <placeName>Berlin</placeName><date when="1847">1847</date>, bezeugen dieses der Art, dass auch
+				<lb facs="#facs_91_r1l29" n="N002"/><title ana="#text" ref="W0207">und Musiknoten der Griechen</title>” <placeName ref="L0003">Berlin</placeName><date when="1847">1847</date>, bezeugen dieses der Art, dass auch
 				<lb facs="#facs_91_r1l30" n="N003"/>kein Schatten von Zweifel übrig bleiben kann. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0131">Ambros</persName></hi> in seiner „<title ana="#text" ref="W0208">Geschichte</title>
 				<lb facs="#facs_91_r1l31" n="N004"/><title ana="#text" ref="W0208">der Musik</title>” vom <date>Jahre 1862</date> stellt diese Frage noch unentschieden hin. S. 367.
 				<lb facs="#facs_91_r1l32" n="N005"/>Anm. 1 und 2.</note> nachgewiesen haben. Nach unserer
@@ -6102,7 +6102,7 @@
 				<lb facs="#facs_91_r1l19" n="N002"/>den <rs ana="#m_tonality">Tongeschlechtern</rs> der Indier <note facs="#facs_91_TextRegion_1621069789900_2359 #facs_91_TextRegion_1621069781318_2354" type="foot" n="3)"><lb facs="#facs_91_line_1621069942300_2483" n="N001"/>Vorausgesetzt nämlich, dass auch hier eine absteigende <rs ana="#m_tonality">Leiter</rs> gedacht
 				<lb facs="#facs_91_r1l37" n="N002"/>war, demnach die uns durch <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0163">Jones</persName></hi> mitgetheilten <rs ana="#m_tonality">Leitern</rs> unten durch die <rs ana="#m_interval">Octave</rs>
 				<lb facs="#facs_91_r1l38" n="N003"/>ergänzt werden müssen. Die <rs ana="#m_tonality">Tonleiter</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_tonality">Bhairava</rs></hi> lautet nach <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0163">Jones</persName></hi> „<title ana="#text" ref="W0209">Ueber die</title>
-				<lb facs="#facs_91_r1l39" n="N004"/><title ana="#text" ref="W0209">Musik der Indier</title>”, übersetzt von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Dalberg</hi> <placeName>Erfurt</placeName><date when="1802">1802</date>:
+				<lb facs="#facs_91_r1l39" n="N004"/><title ana="#text" ref="W0209">Musik der Indier</title>”, übersetzt von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Dalberg</hi> <placeName ref="L0013">Erfurt</placeName><date when="1802">1802</date>:
 				<notatedMusic rend="MEI" facs="#facs_91_Music_1621069843858_2394" source="facs_91_Music_1621069843858_2394.mei"><desc>MUSIK</desc></notatedMusic>
 				<lb facs="#facs_91_r1l48" n="N001"/>wo <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">f</rs></hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">a</rs></hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">h</rs></hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">d</rs></hi> und <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">e</rs></hi> als unveränderliche <rs ana="#m_note">Töne</rs> besonders bezeichnet sind. s. auch
 				<lb facs="#facs_91_r1l49" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0131">Ambros</persName></hi> <title ana="#text" ref="W0208">l. c.</title> Bd. I, pag 55.</note> und Araber <note facs="#facs_91_TextRegion_1621069821277_2367" type="foot" n="4)"><lb facs="#facs_91_r1l50" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helmholtz</persName></hi> <title ana="#text" ref="W0001">pag. 434</title> führt sämmtliche <rs ana="#m_tonality">Haupttonleitern</rs> der Araber auf.
@@ -6122,7 +6122,7 @@
             	<lb facs="#facs_92_r1l2" n="N001"/>habe keinen Ursprung in der Natur des <rs ana="#concept_mus">Tonwesens</rs>”, son<pc>¬</pc>
 				<lb facs="#facs_92_r1l3" n="N002"/>dern sei „als Gegensatz gegen das <rs ana="#m_tonality">Durgeschlecht</rs> aus ihm
 				<lb facs="#facs_92_r1l4" n="N003"/>und nach seinem Vorbilde vom Geist und Bedürfniss der
-				<lb facs="#facs_92_r1l5" n="N004"/>Kunst geschaffen worden <note facs="#facs_92_TextRegion_1621070072955_2571" type="foot" n="1)"><lb facs="#facs_92_line_1621070108808_2629" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0078">Marx</persName></hi>, „<title ana="#text" ref="W0122">die Lehre von der musikalischen Composition</title>”. <placeName>Leipzig</placeName><date when="1863">1863</date>.
+				<lb facs="#facs_92_r1l5" n="N004"/>Kunst geschaffen worden <note facs="#facs_92_TextRegion_1621070072955_2571" type="foot" n="1)"><lb facs="#facs_92_line_1621070108808_2629" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0078">Marx</persName></hi>, „<title ana="#text" ref="W0122">die Lehre von der musikalischen Composition</title>”. <placeName ref="L0022">Leipzig</placeName><date when="1863">1863</date>.
 				<lb facs="#facs_92_r1l33" n="N002"/>6. Auflage. Bd. I. Anhang G.</note>” Auch <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0001">Helmholtz</persName></hi> hat das
 				<lb facs="#facs_92_r1l6" n="N005"/><rs ana="#m_tonality">Mollgeschlecht</rs>, namentlich das <rs ana="#m_tonality">dorische</rs> <rs ana="#concept_mus">System</rs> ganz anders
 				<lb facs="#facs_92_r1l7" n="N006"/>als wir aufgefasst. Auch er geht von der <hi rend="italic:true; fontSize:0.0; kerning:0;">a priori</hi> keines<pc>¬</pc>
@@ -6173,7 +6173,7 @@
 				<lb facs="#facs_94_r1l3" n="N002"/>die absteigende <rs ana="#m_tonality">Molltonleiter</rs> als ungeeignet zur <rs ana="#concept_mus">Harmonie<pc>¬</pc>
 				<lb facs="#facs_94_r1l4" n="N003"/>bildung</rs>, und führt vom Prinzip der <rs ana="#m_tonality">Tonalität</rs> aus den <rs ana="#m_note">Leit<pc>¬</pc>
 				<lb facs="#facs_94_r1l5" n="N004"/>ton</rs> der <rs ana="#concept_mus">Tonica</rs> <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}</rs>, also <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">gis</hi>}}</rs> in die <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>}-moll Tonart</rs> ein. Um<pc>¬</pc>
-				<lb facs="#facs_94_r1l6" n="N005"/>gekehrt will <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0157">Bellermann</persName></hi> <note facs="#facs_94_TextRegion_1621070230724_2731" type="foot" n="1)"><lb facs="#facs_94_line_1621070228118_2728" n="N001"/><persName role="author" ref="P0157">H. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Bellermann</hi></persName>. <title ana="#text" ref="W0203">Der Contrapunkt</title>. <placeName>Berlin</placeName><date when="1862">1862</date>. pag. 37.</note> von der aufsteigenden <rs ana="#m_tonality">Leiter</rs>
+				<lb facs="#facs_94_r1l6" n="N005"/>gekehrt will <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0157">Bellermann</persName></hi> <note facs="#facs_94_TextRegion_1621070230724_2731" type="foot" n="1)"><lb facs="#facs_94_line_1621070228118_2728" n="N001"/><persName role="author" ref="P0157">H. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Bellermann</hi></persName>. <title ana="#text" ref="W0203">Der Contrapunkt</title>. <placeName ref="L0003">Berlin</placeName><date when="1862">1862</date>. pag. 37.</note> von der aufsteigenden <rs ana="#m_tonality">Leiter</rs>
 				<lb facs="#facs_94_r1l7" n="N006"/>nichts wissen, und polemisirt vortrefflich gegen dieselbe.
 				<lb facs="#facs_94_r1l8" n="N007"/>Leider aber bleibt er sich ganz und gar nicht im Lauf des
 				<lb facs="#facs_94_r1l9" n="N008"/><title ana="#text" ref="W0203">Werkes</title> getreu, wie wir später bei Betrachtung des <rs ana="#m_note">Leit<pc>¬</pc>
@@ -6197,7 +6197,7 @@
 				<lb facs="#facs_94_r1l24" n="N014"/><rs ana="#m_tonality">dorische Leiter</rs> auf den symmetrisch gelegenen <rs ana="#concept_mus">Stufen</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">es</rs></hi> und
 				<lb facs="#facs_94_r1l25" n="N015"/>des mit den gleichfalls zu jenen <rs ana="#m_chord">Accorden</rs> symmetrisch ge<pc>¬</pc>
 				<lb facs="#facs_94_line_1621070442437_2831" n="N016"/>legenen <rs ana="#concept_mus">Harmonieen</rs> — <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">6</hi></rs> und — <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">7</hi></rs> begleitet <note facs="#facs_94_TextRegion_1621070228078_2725" type="foot" n="2)"><lb facs="#facs_94_r1l34" n="N001"/><persName role="author" ref="P0133">O. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Kraushaar</hi></persName> „<title ana="#text" ref="W0164">der accordliche Gegensatz und die Begründung der</title>
-				<lb facs="#facs_94_r1l35" n="N002"/><title ana="#text" ref="W0164">Skala</title>”. <placeName>Cassel</placeName>, <date when="1852">1852</date>. pag. 4.</note>. Die letztere
+				<lb facs="#facs_94_r1l35" n="N002"/><title ana="#text" ref="W0164">Skala</title>”. <placeName ref="L0005">Cassel</placeName>, <date when="1852">1852</date>. pag. 4.</note>. Die letztere
 				<lb facs="#facs_94_r1l28" n="N017"/>entspricht vollkommen unserem <rs ana="#m_chord">Regnantseptimenaccorde</rs>. Un<pc>¬</pc>
 				<lb facs="#facs_94_r1l29" n="N018"/>mittelbar nach Herleitung der richtigen <rs ana="#concept_mus">Normalcadenzen</rs> folgt
 				<lb facs="#facs_94_r1l30" n="N019"/>aber weiter die Bemerkung, der Eindruck dieser <rs ana="#concept_mus">Cadenzen</rs>
@@ -6224,7 +6224,7 @@
 				<lb facs="#facs_95_r1l14" n="N005"/>den. Dass dieser Mangel sehr häufig und lebhaft empfun<pc>¬</pc>
 				<lb facs="#facs_95_r1l15" n="N006"/>den worden, dafür liesse sich Vieles anführen. Vor allem
 				<lb facs="#facs_95_r1l16" n="N007"/>hat <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0159">Fortlage</persName></hi> in seinem citirten Werke: „<title ana="#text" ref="W0204">Das musikalische</title>
-				<lb facs="#facs_95_r1l17" n="N008"/><title ana="#text" ref="W0204">System der Griechen in seiner Urgestalt</title>, <placeName>Leipzig</placeName>, <date when="1847">1847</date>”,
+				<lb facs="#facs_95_r1l17" n="N008"/><title ana="#text" ref="W0204">System der Griechen in seiner Urgestalt</title>, <placeName ref="L0022">Leipzig</placeName>, <date when="1847">1847</date>”,
 				<lb facs="#facs_95_r1l18" n="N009"/>unzweideutig die Einseitigkeit aller modernen <rs ana="#concept_mus">musikalischen</rs>
 				<lb facs="#facs_95_r1l19" n="N010"/><rs ana="#concept_mus">Theorieen</rs> streng gerügt. Ich kann zwar nur bedingt bei<pc>¬</pc>
 				<lb facs="#facs_95_r1l20" n="N011"/>stimmen, wenn er den Wunsch hegt, „die <rs ana="#concept_mus">Theorie</rs> möge von
@@ -6451,7 +6451,7 @@
 				<lb facs="#facs_103_r1l10" n="N009"/>den <rs ana="#concept_mus">Sprung</rs> <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi>′</rs> <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi>′</rs> <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">as</hi>{′</rs> <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}</rs>, vom absteigenden <rs ana="#m_note">Leitton</rs> der <rs ana="#concept_mus">Pho<pc>¬</pc>
 				<lb facs="#facs_103_r1l11" n="N010"/>nica</rs> zum aufsteigenden der <rs ana="#concept_mus">[Tonica]</rs> <note facs="#facs_103_TextRegion_1621073167347_3791" type="foot" n="1)"><lb facs="#facs_103_line_1621073284434_3892" n="N001"/>Eine, abgesehen von den hier vorgeführten Einzelnheiten, gründlich
 				<lb facs="#facs_103_r1l32" n="N002"/>durchgeführte <rs ana="#concept_mus">Analyse</rs> mehr ästhetischer Art, bei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0144">Lobe</persName></hi>: „<title ana="#text" ref="W0178">Lehrbuch der musik.</title>
-				<lb facs="#facs_103_r1l33" n="N003"/><title ana="#text" ref="W0178">Composition</title> <placeName>Leipzig</placeName>, <date when="1864">1864</date> Bd. II, pag. 105 und ff.</note>. Aehnlichen Stellen
+				<lb facs="#facs_103_r1l33" n="N003"/><title ana="#text" ref="W0178">Composition</title> <placeName ref="L0022">Leipzig</placeName>, <date when="1864">1864</date> Bd. II, pag. 105 und ff.</note>. Aehnlichen Stellen
 				<lb facs="#facs_103_r1l12" n="N011"/>begegnet man sehr häufig.
 			</p>
          </div>
@@ -6486,7 +6486,7 @@
 				<lb facs="#facs_104_r1l31" n="N003"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0159">Fortlage</persName></hi> <title ana="#text" ref="W0204">l. c</title> pag. 122 ff. Leider scheint die wahre Bedeutung der <rs ana="#m_note">Haupttöne</rs>
 				<lb facs="#facs_104_r1l32" n="N004"/>der <rs ana="#m_tonality">indischen Leitern</rs> noch immer nicht sicher festgestellt. Ueber die Beziehung
 				<lb facs="#facs_104_r1l33" n="N005"/>der Graha, Nyasa und Ansa zur <rs ana="#m_tonality">Leiter</rs> des <persName role="author" ref="P0164">Olympos</persName> s. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0163">Jones</persName></hi> <title ana="#text" ref="W0209">Musik der Indier</title>,
-				<lb facs="#facs_104_r1l34" n="N006"/>deutsch von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Dalberg</hi>. <placeName>Erfurt</placeName><date when="1802">1802</date>. pag. 33 und ff.</note>.
+				<lb facs="#facs_104_r1l34" n="N006"/>deutsch von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Dalberg</hi>. <placeName ref="L0013">Erfurt</placeName><date when="1802">1802</date>. pag. 33 und ff.</note>.
             </p>
             <p facs="#facs_104_TextRegion_1621073330515_3930 #facs_104_TextRegion_1621073323216_3922">
 				<lb facs="#facs_104_r1l7" n="N001"/>Alle den <rs ana="#concept_mus">reinen Systemen</rs> angehörenden <rs ana="#concept_mus">Gesänge</rs> dür<pc>¬</pc>
@@ -6536,12 +6536,12 @@
 				<lb facs="#facs_105_r1l51" n="N003"/>die <rs ana="#concept_mus">Volksmelodieen</rs> entfernterer Nationen einzuwirken. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0159">Fort<pc>¬</pc>
 				<lb facs="#facs_105_r1l52" n="N004"/>lage</persName></hi> führt folgenden interessanten Fall an <note facs="#facs_105_TextRegion_1621073553070_4056" type="foot" n="2)"><lb facs="#facs_105_r1l54" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0159">Fortlage</persName></hi>, <title ana="#text" ref="W0204">l. c.</title> pag. 130.</note>. Eine der
 				<pb facs="#facs_106" n="98"/>
-            	<lb facs="#facs_106_r1l2" n="N001"/>beliebtesten <rs ana="#concept_mus">Nationelmelodieen</rs> der <placeName>Schweden</placeName> fängt folgender<pc>¬</pc>
+            	<lb facs="#facs_106_r1l2" n="N001"/>beliebtesten <rs ana="#concept_mus">Nationelmelodieen</rs> der <placeName ref="L0031">Schweden</placeName> fängt folgender<pc>¬</pc>
 				<lb facs="#facs_106_line_1621074239851_4241" n="N002"/>maassen an:
             	<notatedMusic rend="MEI" facs="#facs_106_Music_1621074341884_4281" source="facs_106_Music_1621074341884_4281.mei"><desc>MUSIK</desc></notatedMusic>
             </p>
             <p facs="#facs_106_TextRegion_1621074233967_4233 #facs_106_TextRegion_1621074226846_4225">
-				<lb facs="#facs_106_r1l13" n="N001"/>Hier nun singen die <placeName>Schweden</placeName> der <date>neueren Zeit</date> im
+				<lb facs="#facs_106_r1l13" n="N001"/>Hier nun singen die <placeName ref="L0031">Schweden</placeName> der <date>neueren Zeit</date> im
 				<lb facs="#facs_106_r1l14" n="N002"/>ersten <rs ana="#concept_mus">Takte</rs> statt <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">d</rs></hi> — <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">dis</hi>}}</rs>, und „verdrehen solchergestalt
 				<lb facs="#facs_106_r1l15" n="N003"/>dieses alte Heiligthum.” <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0159">Fortlage</persName></hi> hält die hier vorlie<pc>¬</pc>
 				<lb facs="#facs_106_r1l16" n="N004"/>gende <rs ana="#m_tonality">Tonart</rs> für eine <rs ana="#m_tonality">phrygische</rs>
@@ -6590,7 +6590,7 @@
             <p facs="#facs_107_TextRegion_1621074433509_4349">
 				<lb facs="#facs_107_r1l39" n="N001"/>In einer <date when="1855">1855</date> herausgegebenen Auswahl <rs ana="#concept_mus">finnischer</rs>
 				<lb facs="#facs_107_r1l40" n="N002"/><rs ana="#concept_mus">Gesänge</rs> <note facs="#facs_107_TextRegion_1621074421393_4341" type="foot" n="1)"><lb facs="#facs_107_r1l60" n="N001"/><title ana="#music" ref="W0211">Valitnita Suomalaisia Kansan-Lauluja</title>. 4 Wihko ko'onnut Joh. Filip v.
-				<lb facs="#facs_107_r1l61" n="N002"/>Schands ja Rudolf Lagi <placeName>Helsingfors</placeName>. <date when="1855">1855</date>.</note> sind, — davon bin ich fest überzeugt, — sämmt<pc>¬</pc>
+				<lb facs="#facs_107_r1l61" n="N002"/>Schands ja Rudolf Lagi <placeName ref="L0019">Helsingfors</placeName>. <date when="1855">1855</date>.</note> sind, — davon bin ich fest überzeugt, — sämmt<pc>¬</pc>
 				<lb facs="#facs_107_r1l41" n="N003"/>liche <rs ana="#concept_mus">Melodieen</rs> verändert. Ein schönes <rs ana="#concept_mus">Wiegenlied</rs> will
 				<lb facs="#facs_107_r1l42" n="N004"/>ich hier aufnehmen, bemerke aber im Voraus, dass meiner
 				<lb facs="#facs_107_r1l43" n="N005"/>Meinung nach das <rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>-System</rs> vorliegt, und statt <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}</rs>,
@@ -6834,7 +6834,7 @@
 				<lb facs="#facs_119_r1l21" n="N002"/>Auch hier nimmt man eine allmählige Umbildung wahr.
 				<lb facs="#facs_119_r1l22" n="N003"/>Der <rs ana="#concept_mus">Choral</rs> „<title ana="#music" ref="W0100">O Haupt voll Blut und Wunden</title>” ist von dem,
 				<lb facs="#facs_119_r1l23" n="N004"/>um Wiederherstellung des ursprünglichen <rs ana="#concept_mus">Rhytmus</rs>, hochver<pc>¬</pc>
-				<lb facs="#facs_119_r1l24" n="N005"/>dienten <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0165">Layriz</persName></hi> <note facs="#facs_119_TextRegion_1621076022970_5423" type="foot" n="1)"><lb facs="#facs_119_r1l25" n="N001"/><persName role="composer" ref="P0165">Fr. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Layriz</hi></persName> „<title ana="#music" ref="W0219">Kern des deutschen Kirchengesanges</title>. <placeName>Nördlingen</placeName><date when="1849">1849</date>.
+				<lb facs="#facs_119_r1l24" n="N005"/>dienten <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0165">Layriz</persName></hi> <note facs="#facs_119_TextRegion_1621076022970_5423" type="foot" n="1)"><lb facs="#facs_119_r1l25" n="N001"/><persName role="composer" ref="P0165">Fr. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Layriz</hi></persName> „<title ana="#music" ref="W0219">Kern des deutschen Kirchengesanges</title>. <placeName ref="L0025">Nördlingen</placeName><date when="1849">1849</date>.
 				<lb facs="#facs_119_r1l26" n="N002"/>Nr. 52</note> folgendermaassen gesetzt:
 			</p>
          <pb facs="#facs_120" n="112"/>
@@ -6864,18 +6864,18 @@
 				<lb facs="#facs_121_r1l24" n="N002"/>gesungen, im siebenten gewiss nicht mehr, wenn nicht vielleicht
 				<lb facs="#facs_121_r1l25" n="N003"/>doch bei weniger entwickelten Nationen. In den <rs ana="#concept_mus">Choral<pc>¬</pc>
 				<lb facs="#facs_121_r1l26" n="N004"/>büchern</rs> sind die Lesearten verschieden. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0165">Layriz</persName></hi> schreibt
-				<lb facs="#facs_121_r1l27" n="N005"/><rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}</rs> im 4. <rs ana="#concept_mus">Takt</rs>, ebenso <persName role="composer" ref="P0054">Bach</persName> <note facs="#facs_121_TextRegion_1621184420989_79" type="foot" n="1)"><lb facs="#facs_121_line_1621184553401_162" n="N001"/><persName role="composer" ref="P0054">J. S. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Bach</hi></persName> „<title ana="#music" ref="W0222">371 vierstimmige Choralgesänge</title>”. <placeName>Leipzig</placeName> bei Breitkopf
+				<lb facs="#facs_121_r1l27" n="N005"/><rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}</rs> im 4. <rs ana="#concept_mus">Takt</rs>, ebenso <persName role="composer" ref="P0054">Bach</persName> <note facs="#facs_121_TextRegion_1621184420989_79" type="foot" n="1)"><lb facs="#facs_121_line_1621184553401_162" n="N001"/><persName role="composer" ref="P0054">J. S. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Bach</hi></persName> „<title ana="#music" ref="W0222">371 vierstimmige Choralgesänge</title>”. <placeName ref="L0022">Leipzig</placeName> bei Breitkopf
 				<lb facs="#facs_121_r1l33" n="N002"/>und Härtel.</note> ohne Ausnahme. Ebenso
-				<lb facs="#facs_121_r1l28" n="N006"/>oft kommt das <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">f</rs></hi> vor. So z. B. bei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0166">Brenner</persName></hi> <note facs="#facs_121_TextRegion_1621184420988_78" type="foot" n="2)"><lb facs="#facs_121_r1l34" n="N001"/><persName role="composer" ref="P0166">F. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Brenner</hi></persName> „<title ana="#music" ref="W0223">Choralbuch für vier Männerstimmen</title>”, <placeName>Dorpat</placeName><date when="1862">1862</date>.
+				<lb facs="#facs_121_r1l28" n="N006"/>oft kommt das <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">f</rs></hi> vor. So z. B. bei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0166">Brenner</persName></hi> <note facs="#facs_121_TextRegion_1621184420988_78" type="foot" n="2)"><lb facs="#facs_121_r1l34" n="N001"/><persName role="composer" ref="P0166">F. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Brenner</hi></persName> „<title ana="#music" ref="W0223">Choralbuch für vier Männerstimmen</title>”, <placeName ref="L0009">Dorpat</placeName><date when="1862">1862</date>.
 				<lb facs="#facs_121_r1l35" n="N002"/>Verlag von E. J. Karow.</note> und bei
 				<lb facs="#facs_121_r1l29" n="N007"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0167">Punchel</persName></hi> <note facs="#facs_121_TextRegion_1621184414452_74" type="foot" n="3)"><lb facs="#facs_121_r1l36" n="N001"/><persName role="composer" ref="P0167">J. L. E. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Punschel</hi></persName> „<title ana="#music" ref="W0224">Evangelisches Choralbuch</title>”. Sechste Auflage.
-				<lb facs="#facs_121_r1l37" n="N002"/><placeName>Reval</placeName><date when="1862">1862</date>.</note>. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0168">Wedemann</persName></hi> bringt denselben <rs ana="#concept_mus">Choral</rs> zweimal
+				<lb facs="#facs_121_r1l37" n="N002"/><placeName ref="L0030">Reval</placeName><date when="1862">1862</date>.</note>. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0168">Wedemann</persName></hi> bringt denselben <rs ana="#concept_mus">Choral</rs> zweimal
 				<lb facs="#facs_121_r1l30" n="N008"/>und zwar <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">nur in <rs ana="#m_tonality">Dur</rs></hi>! <note facs="#facs_121_TextRegion_1621184408441_70 #facs_121_TextRegion_1621184325070_38" type="foot" n="4)"><lb facs="#facs_121_line_1621184566070_181" n="N001"/>Einer esthnischen kirchlichen Gemeindeversammlung könnte man mit
 				<lb facs="#facs_121_r1l40" n="N002"/>dem stärksten <rs ana="#concept_mus">Orgelwerk</rs> das <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}</rs> spielen, es würde mit grosser Sicherheit <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi>}</rs> intoni<pc>¬</pc>
 				<lb facs="#facs_121_r1l41" n="N003"/>ren. Der <rs ana="#concept_mus">Choral</rs> „<title ana="#music" ref="W0221">Höchster Priester, der Du Dich</title>” hat in dritter Strophe eine
 				<lb facs="#facs_121_r1l42" n="N004"/>der obigen ganz analoge Stelle:
 				<notatedMusic rend="MEI" facs="#facs_121_Music_1621184453292_84" source="facs_121_Music_1621184453292_84.mei"><desc>MUSIK</desc></notatedMusic>
-				<lb facs="#facs_121_line_1621184325112_41" n="N001"/>Bei einer Aufführung der esthnischen <rs ana="#concept_mus">Sänger</rs> in hiesiger <placeName>Dorpater Marienkirche</placeName>
+				<lb facs="#facs_121_line_1621184325112_41" n="N001"/>Bei einer Aufführung der esthnischen <rs ana="#concept_mus">Sänger</rs> in hiesiger <placeName ref="L0010">Dorpater Marienkirche</placeName>
 				<lb facs="#facs_121_r1l49" n="N002"/>hörte ich kürzlich diesen <title ana="#music" ref="W0221">Choral</title> singen. Die <rs ana="#concept_mus">Begleitung</rs> gab hell und laut: <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">dis</hi>}}</rs>;
 				<lb facs="#facs_121_r1l50" n="N003"/>aber eben so fest sang der <rs ana="#concept_mus">Sopran</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">d</rs></hi>.</note>
 			</p>
@@ -7917,7 +7917,7 @@
 				<lb facs="#facs_151_r1l9" n="N008"/>führt in der <title ana="#music" ref="W0056">Marcia „sulla morte d’un Eroe</title>” die <rs ana="#concept_mus">Modula<pc>¬</pc>
 				<lb facs="#facs_151_r1l10" n="N009"/>tion</rs> nicht nach <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">as</hi>-moll</rs> zurück, sondern nach <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">bbb</hi>{{-moll</rs>, wie
 				<lb facs="#facs_151_r1l11" n="N010"/>schon <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0041">Weitzmann</persName></hi> bemerkt hat <note facs="#facs_151_TextRegion_1621249254151_1122" type="foot" n="1)"><lb facs="#facs_151_r1l53" n="N001"/><persName role="author" ref="P0041">C. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Weitzmann</hi></persName> „<title ana="#text" ref="W0037">die neue Harmonielehre im Streit mit der alten</title>”.
-				<lb facs="#facs_151_r1l54" n="N002"/><placeName>Leipzig</placeName>, bei Kahnt, pag. 28. Wenn ich recht verstehe, so erblickt <persName role="author" ref="P0041">Weitzmann</persName>
+				<lb facs="#facs_151_r1l54" n="N002"/><placeName ref="L0022">Leipzig</placeName>, bei Kahnt, pag. 28. Wenn ich recht verstehe, so erblickt <persName role="author" ref="P0041">Weitzmann</persName>
 				<lb facs="#facs_151_r1l55" n="N003"/>hierin keinen Fehler.</note>.
             </p>
             <p facs="#facs_151_TextRegion_1621249268960_1134 #facs_151_TextRegion_1621249259455_1126 #facs_152_TextRegion_1621249472403_1234">
@@ -8375,7 +8375,7 @@
 				<lb facs="#facs_165_line_1621256441989_2789" n="N002"/>in den <rs ana="#concept_mus">Harmonielehren</rs>. Eine mannigfaltig, und nach
 				<lb facs="#facs_165_r1l17" n="N003"/>bisherigen Grundsätzen der <rs ana="#concept_mus">Harmonielehre</rs> geordnete Zu<pc>¬</pc>
 				<lb facs="#facs_165_r1l18" n="N004"/>sammenstellung der <rs ana="#concept_mus">Klangfolgen</rs> finde ich bei <persName role="author" ref="P0137">Fr. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Schnei<pc>¬</pc></hi></persName>
-				<lb facs="#facs_165_r1l19" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0137">der</persName></hi> „<title ana="#text" ref="W0170">Elementarbuch der Harmonie und Tonsetzkunst</title>. <placeName>Leip<pc>¬</pc>
+				<lb facs="#facs_165_r1l19" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0137">der</persName></hi> „<title ana="#text" ref="W0170">Elementarbuch der Harmonie und Tonsetzkunst</title>. <placeName ref="L0022">Leip<pc>¬</pc>
 				<lb facs="#facs_165_line_1621256448274_2800" n="N006"/>zig</placeName>. Zweite Aufl. <date when="1827">1827</date>.” — „Durch <rs ana="#concept_mus">vermittelnde</rs> <rs ana="#m_chord">Accorde</rs>”,
 				<lb facs="#facs_165_r1l22" n="N007"/>heisst es § 144, „kann man auf sehr natürlichen Wegen in
 				<lb facs="#facs_165_r1l23" n="N008"/><rs ana="#m_tonality">Tonarten</rs>, die von der ersten <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">weit entfernt</hi> sind, aus<pc>¬</pc>
@@ -9362,7 +9362,7 @@
 				<lb facs="#facs_201_r1l18" n="N017"/>eigenen Gränzen in die ihr <rs ana="#concept_mus">nächstverwandte</rs> umzuwandeln,
 				<lb facs="#facs_201_r1l19" n="N018"/>brachte die anscheinend entferntesten <rs ana="#m_chord">Dreiklänge</rs> einander
 				<lb facs="#facs_201_r1l20" n="N019"/>nahe, so wie dadurch eine mannigfach gegliederte Beziehung
-				<lb facs="#facs_201_r1l21" n="N020"/>aller <rs ana="#m_tonality">Tonarten</rs> sich gestaltete <note facs="#facs_201_TextRegion_1621263377841_4493" type="foot" n="1)"><lb facs="#facs_201_r1l34" n="N001"/><persName role="author" ref="P0009">C. v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Winterfeld</hi></persName> „<title ana="#text" ref="W0005">Johannes Gabrieli und sein Zeitalter</title>.” <placeName>Berlin</placeName>,
+				<lb facs="#facs_201_r1l21" n="N020"/>aller <rs ana="#m_tonality">Tonarten</rs> sich gestaltete <note facs="#facs_201_TextRegion_1621263377841_4493" type="foot" n="1)"><lb facs="#facs_201_r1l34" n="N001"/><persName role="author" ref="P0009">C. v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Winterfeld</hi></persName> „<title ana="#text" ref="W0005">Johannes Gabrieli und sein Zeitalter</title>.” <placeName ref="L0003">Berlin</placeName>,
 				<lb facs="#facs_201_r1l35" n="N002"/><date when="1834">1834</date>. Th. l. pag. 89</note>.”
 			</p>
             <p facs="#facs_201_TextRegion_1621263399899_4506">
@@ -12419,7 +12419,7 @@
 				<lb facs="#facs_299_r1l51" n="N001"/>Man lasse von vier <rs ana="#concept_mus">Männerstimmen</rs> diese neun <rs ana="#concept_mus">Takte</rs>
 				<lb facs="#facs_299_r1l52" n="N002"/>singen! Ueber die <rs ana="#concept_mus">Tonhöhe</rs> wird jeder <rs ana="#concept_mus">Sänger</rs> ebenso wenig
 				<lb facs="#facs_299_r1l53" n="N003"/>wissen, wie — vielleicht — der <persName role="composer" ref="P0046">berühmte Componist</persName> selbst <note facs="#facs_299_TextRegion_1621436093969_4648" type="foot" n="1)"><lb facs="#facs_299_line_1621436401100_4755" n="N001"/>Herr <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0041">Weitzmann</persName></hi> rechtfertigt diese Stelle. s. <persName role="author" ref="P0041">C. F. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Weitzmann</hi></persName>
-				<lb facs="#facs_299_r1l56" n="N002"/>„<title ana="#text" ref="W0039">Neues Harmoniesystem</title>”. Gekrönte Preisschrift. <placeName>Leipzig</placeName>, bei Kahnt (ohne Jahres<pc>¬</pc>
+				<lb facs="#facs_299_r1l56" n="N002"/>„<title ana="#text" ref="W0039">Neues Harmoniesystem</title>”. Gekrönte Preisschrift. <placeName ref="L0022">Leipzig</placeName>, bei Kahnt (ohne Jahres<pc>¬</pc>
 				<lb facs="#facs_299_r1l57" n="N003"/>zahl). Nach <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0041">Weitzmann</persName></hi> sind alle Probleme der <rs ana="#concept_mus">theoretischen Musik</rs> gelöst.
 				<lb facs="#facs_299_r1l58" n="N004"/>Denn was man nicht erklären kann, das sehe man als eine „<rs ana="#concept_mus">Verzögerung</rs>” an.
 				<lb facs="#facs_299_r1l59" n="N005"/>„<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Jedem <rs ana="#concept_mus"><rs ana="#concept_phy">consonanten</rs></rs> <rs ana="#m_chord">Accorde</rs> kann jeder andere <rs ana="#concept_mus"><rs ana="#concept_phy">consonante</rs></rs> <rs ana="#m_chord">Accord</rs><lb facs="#facs_299_r1l60" n="N006"/>folgen</hi>!”</note>.
@@ -12515,7 +12515,7 @@
 				<lb facs="#facs_302_r1l29" n="N026"/>nante</rs> und <rs ana="#concept_mus">Oberregnante</rs> eines <rs ana="#concept_mus">phonischen</rs> oder selbst <rs ana="#concept_mus">halb<pc>¬</pc>
 				<lb facs="#facs_302_r1l30" n="N027"/>phonischen</rs> <rs ana="#m_tonality">Geschlechts</rs> die <rs ana="#concept_mus">Dominante</rs>, die <rs ana="#concept_mus">[Tonica]</rs> und die
 				<lb facs="#facs_302_r1l31" n="N028"/><rs ana="#concept_mus">[Unter-Dominante]</rs> als <rs ana="#concept_mus">Hauptklänge</rs> hingestellt werden, so
-				<lb facs="#facs_302_r1l32" n="N029"/>darf man sicher auf mehr Ausnahmen als Regeln rechnen <note facs="#facs_302_TextRegion_1621436821538_4957 #facs_303_TextRegion_1621436895558_5056" type="foot" n="1)"><lb facs="#facs_302_line_1621436874103_5045" n="N001"/>Sieh <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0144">Lobe</persName></hi> „<title ana="#text" ref="W0178">Lehrbuch der musikalischen Composition</title>.” <placeName>Leipzig</placeName><date when="1860">1860</date>,
+				<lb facs="#facs_302_r1l32" n="N029"/>darf man sicher auf mehr Ausnahmen als Regeln rechnen <note facs="#facs_302_TextRegion_1621436821538_4957 #facs_303_TextRegion_1621436895558_5056" type="foot" n="1)"><lb facs="#facs_302_line_1621436874103_5045" n="N001"/>Sieh <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0144">Lobe</persName></hi> „<title ana="#text" ref="W0178">Lehrbuch der musikalischen Composition</title>.” <placeName ref="L0022">Leipzig</placeName><date when="1860">1860</date>,
 				<lb facs="#facs_302_r1l35" n="N002"/>Breitkopf und Härtel. Bd III. Auf Seite 21 giebt der <persName role="author" ref="P0144">Verfasser</persName> die <rs ana="#concept_mus">Disposition</rs>
 				<lb facs="#facs_302_r1l36" n="N003"/>einer <title ana="#music" ref="W0233"><hi rend="italic:true; fontSize:0.0; kerning:0;">as</hi>-dur Fuge</title> von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0054">Bach</persName></hi>. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0144">Lobe</persName></hi> findet bei der letzteren in den <rs ana="#concept_mus">Nachahmun<pc>¬</pc>
 				<lb facs="#facs_302_r1l37" n="N004"/>gen</rs> V. und VI. <rs ana="#concept_mus">Modulationen</rs> in die <rs ana="#m_interval">kleine Unterterz</rs> (<rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">F</hi>-moll</rs>) und <rs ana="#m_interval">grosse Ober<pc>¬</pc></rs>

@@ -380,12 +380,12 @@
          <pb facs="#facs_7" n=""/>
          <pb facs="#facs_8" n=""/>
             <p facs="#facs_8_TextRegion_1614194998460_110">
-				<lb facs="#facs_8_r2l1" n="N001"/>In einer bei der <rs ana="#concept_mus">Tonkünstler</rs>-Versammlung zu <placeName>Leipzig</placeName> am
+				<lb facs="#facs_8_r2l1" n="N001"/>In einer bei der <rs ana="#concept_mus">Tonkünstler</rs>-Versammlung zu <placeName ref="L0022">Leipzig</placeName> am
 				<lb facs="#facs_8_r2l2" n="N002"/><date>3. Juni 1859</date> gehaltenen <title ana="#text" ref="W0038">Vorlesung</title> über die <rs ana="#concept_mus">Geschichte der</rs>
 				<lb facs="#facs_8_r2l3" n="N003"/><rs ana="#concept_mus">Harmonie</rs> und ihrer Lehre, welche in den vier ersten Nummern
-				<lb facs="#facs_8_r2l4" n="N004"/>des 51. Bandes der „<title ana="#text" ref="W0010">Neuen Zeitschrift für Musik</title>” (<placeName>Leipzig</placeName>
+				<lb facs="#facs_8_r2l4" n="N004"/>des 51. Bandes der „<title ana="#text" ref="W0010">Neuen Zeitschrift für Musik</title>” (<placeName ref="L0022">Leipzig</placeName>
 				<lb facs="#facs_8_r2l5" n="N005"/>bei Kahnt) nachzusehen ist, und welcher die Ehre zu Theil ward,
-				<lb facs="#facs_8_r2l6" n="N006"/>in einer <placeName>Wiener</placeName> <rs ana="#concept_mus">Musik-Zeitung</rs> nachgedruckt zu werden, er<pc>¬</pc>
+				<lb facs="#facs_8_r2l6" n="N006"/>in einer <placeName ref="L0034">Wiener</placeName> <rs ana="#concept_mus">Musik-Zeitung</rs> nachgedruckt zu werden, er<pc>¬</pc>
 				<lb facs="#facs_8_r2l7" n="N007"/>wähnte ich des von Herrn Dr. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0042">Brendel</persName></hi> ausgesetzten Preises
 				<lb facs="#facs_8_r2l8" n="N008"/>für eine <rs ana="#concept_mus">theoretische Schrift</rs>, in welcher die <rs ana="#concept_mus">harmonischen Frei<pc>¬</pc>
 				<lb facs="#facs_8_r2l9" n="N009"/>heiten</rs>, die anerkannte <rs ana="#concept_mus">Tonmeister</rs>, wie <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0016">Beethoven</persName></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0043">Schu<pc>¬</pc>
@@ -650,7 +650,7 @@
 				<lb facs="#facs_15_r3l17" n="N016"/>viere</rs> seine jahrelangen Studien gemacht, sein <rs ana="#concept_mus">Gehör</rs> und seine
 				<lb facs="#facs_15_line_1614199302390_1070" n="N017"/><rs ana="#concept_mus">Intonation</rs> gebildet. Eine neuere gründliche Abhandlung über
 				<lb facs="#facs_15_r3l20" n="N018"/>diesen Gegenstand: „<title ana="#text" ref="W0046">Die temperirte Stimmung und die chro<pc>¬</pc></title>
-				<lb facs="#facs_15_r3l21" n="N019"/><title ana="#text" ref="W0046">matische Tonleiter</title>” von <persName role="author" ref="P0048">C. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Kretschmann</hi></persName>, enthält die <placeName>Leip<pc>¬</pc>
+				<lb facs="#facs_15_r3l21" n="N019"/><title ana="#text" ref="W0046">matische Tonleiter</title>” von <persName role="author" ref="P0048">C. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Kretschmann</hi></persName>, enthält die <placeName ref="L0022">Leip<pc>¬</pc>
 				<lb facs="#facs_15_line_1614199243639_1027" n="N020"/>ziger</placeName> <title ana="#text" ref="W0010">Neue Zeitschrift für Musik</title>, Band 53, No. 7, 8, 9.
 			</p>
             <p facs="#facs_15_TextRegion_1614199242638_1023 #facs_16_TextRegion_1614199466084_1271">
@@ -765,7 +765,7 @@
 				<lb facs="#facs_18_r2l15" n="N007"/>Das Werk seines Interpreten, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0011">d'Alembert</persName></hi>, wurde unter
 				<lb facs="#facs_18_r2l16" n="N008"/>dem Titel: „<title ana="#text" ref="W0050">Systematische Einleitung in die <rs ana="#concept_mus">musikalische Setz<pc>¬</pc></rs></title>
 				<lb facs="#facs_18_r2l17" n="N009"/><title ana="#text" ref="W0050"><rs ana="#concept_mus">kunst</rs> nach den Lehrsätzen des Herrn <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0005">Rameau</persName></hi></title>” von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0051">Mar<pc>¬</pc>
-				<lb facs="#facs_18_r2l18" n="N010"/>purg</persName></hi> ins Deutsche übersetzt (<placeName>Leipzig</placeName>, <date when="1757">1757</date> bei Breitkopf) und
+				<lb facs="#facs_18_r2l18" n="N010"/>purg</persName></hi> ins Deutsche übersetzt (<placeName ref="L0022">Leipzig</placeName>, <date when="1757">1757</date> bei Breitkopf) und
 				<lb facs="#facs_18_r2l19" n="N011"/>das 4. Cap. des ersten Buches „<title ana="#text" ref="W0050">Von der <rs ana="#m_tonality">Tonart</rs> überhaupt</title>”
 				<lb facs="#facs_18_r2l20" n="N012"/>beginnt folgendermaßen:
 			</p>
@@ -900,7 +900,7 @@
 				<lb facs="#facs_21_r1l26" n="N003"/><rs ana="#m_chord">Dominante</rs>, den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">Tritonus</rs></hi>, die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">kleine Quinte</rs></hi> und <rs ana="#m_interval">Sexte</rs>, und die
 				<lb facs="#facs_21_r1l27" n="N004"/><rs ana="#m_interval">verminderte Septime</rs> — — er schuf damit ein neues (unser heutiges)
 				<lb facs="#facs_21_line_1614200356500_1748" n="N005"/><rs ana="#concept_mus">Harmoniesystem</rs>. <persName role="author" ref="P0053">S. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Fétis</hi></persName>, <title ana="#text" ref="W0052">Biogr. des Musiciens</title>, Art. <persName role="composer" ref="P0052">Monteverde</persName>.</note> bis auf den heutigen Tag als correct gegolten haben <note facs="#facs_21_TextRegion_1614200356475_1744" type="foot" n="**)"><lb facs="#facs_21_r1l29" n="N001"/>In dem <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">so eben</hi> erschienenen Werke: <title ana="#text" ref="W0053">Uebungen zum Studium</title>
-				<lb facs="#facs_21_r1l30" n="N002"/><title ana="#text" ref="W0053">der Harmonie</title> von <persName role="author" ref="P0035">F. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Hiller</hi></persName>, <placeName>Köln</placeName>, <date when="1860">1860</date>, pag. 7, kann Herr <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0047">Bagge</persName></hi>
+				<lb facs="#facs_21_r1l30" n="N002"/><title ana="#text" ref="W0053">der Harmonie</title> von <persName role="author" ref="P0035">F. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Hiller</hi></persName>, <placeName ref="L0021">Köln</placeName>, <date when="1860">1860</date>, pag. 7, kann Herr <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0047">Bagge</persName></hi>
 				<lb facs="#facs_21_r1l31" n="N003"/>z. B. die von ihm so gründlich angefochtene „fundamentlose” <rs ana="#m_chord">Accordfolge</rs>
 				<lb facs="#facs_21_r1l32" n="N004"/>ebenfalls vorfinden.</note>,
             	<pb facs="#facs_22" n="17"/>

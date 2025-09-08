@@ -4610,7 +4610,7 @@
 					<p rend="TEI" facs="#facs_5_TextRegion_1612352910666_406 #facs_6_TextRegion_1612353046991_485">
 						<lb facs="#facs_5_r1l5" n="N001"/>Es ist vor Kurzem eine kleine Schrift unter dem
 						<lb facs="#facs_5_r1l6" n="N002"/>Titel: „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><title ana="#text" ref="W0164">Der accordliche Gegensatz und die</title><lb facs="#facs_5_r1l7" n="N003"/> <title ana="#text" ref="W0164">Begründung der Scala</title></hi> ”, bei  in
-						<lb facs="#facs_5_r1l8" n="N004"/><placeName>Cassel</placeName> erschienen. Der Verfasser derselben, Herr
+						<lb facs="#facs_5_r1l8" n="N004"/><placeName ref="L0005">Cassel</placeName> erschienen. Der Verfasser derselben, Herr
 						<lb facs="#facs_5_r1l9" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="P0133">Otto Kraushaar</persName></hi>, bekennt in einer Zuschrift, mit
 						<lb facs="#facs_5_r1l10" n="N006"/>welcher er das Werkchen mir übersendet, dass die
 						<lb facs="#facs_5_r1l11" n="N007"/>darin dargelegte <rs ana="#concept_mus">Theorie</rs> aus Grundbestimmungen
@@ -4634,7 +4634,7 @@
 						<lb facs="#facs_6_r1l5" n="N004"/>einstimmt, Herrn <persName role="author" ref="P0133">Kraushaar</persName> vor Jahren bei Gelegen<pc>¬</pc>
 						<lb facs="#facs_6_r1l6" n="N005"/>heit eines <rs ana="#concept_mus">musikalisch-theoretischen Cursus</rs> von mir
 						<lb facs="#facs_6_r1l7" n="N006"/>mitgetheilt worden ist.
-						<lb facs="#facs_6_r1l8" n="N007"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><placeName>Leipzig</placeName></hi>, im <date>Januar 1853</date>.
+						<lb facs="#facs_6_r1l8" n="N007"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><placeName ref="L0022">Leipzig</placeName></hi>, im <date>Januar 1853</date>.
 						<lb facs="#facs_6_r1l9" n="N008"/><persName role="author" ref="P0007">M. HAUPTMANN</persName>.
 					</p>
 				</div>
