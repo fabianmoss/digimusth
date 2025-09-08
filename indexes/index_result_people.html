@@ -6,13 +6,7 @@ toc_exclude: true
 
 <head>
   <title>Person Result Page</title>
-  <style>
-    mark {
-      background-color: darkcyan;
-      font-weight: bold;
-      color: white;
-    }
-  </style>
+  <style>  </style>
 </head>
 <body>
   <div id="results">Loading...</div>
@@ -114,7 +108,7 @@ toc_exclude: true
           if (!content) return;
           const parser = new DOMParser();
           const xmlDoc = parser.parseFromString(content, "application/xml");
-          const people = xmlDoc.querySelectorAll(`persName[ref="${id}"]`);
+          const people = xmlDoc.querySelectorAll(`persName[ref="#${id}"]`);
 
           people.forEach(personEl => {
             const parent = personEl.closest("p") || personEl.parentNode;
