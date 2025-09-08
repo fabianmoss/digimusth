@@ -997,7 +997,7 @@
 				<lb facs="#facs_11_r2l7" n="N006"/>denkenden <rs ana="#concept_mus">Musikfreunde</rs> angelegentlich empfohlen sein mag.
             </p>
    			<p facs="#facs_11_TextRegion_1632816445978_301">
-				<lb facs="#facs_11_r2l8" n="N001"/><placeName ref="L0005"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Cassel</hi></placeName>, im <date>Januar 1852</date>.
+				<lb facs="#facs_11_r2l8" n="N001"/><placeName><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Cassel</hi></placeName>, im <date>Januar 1852</date>.
 			</p>
    			<p facs="#facs_11_TextRegion_1632816444239_297">
 				<lb facs="#facs_11_r2l9" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">Der Verfasser.</hi>
@@ -1643,12 +1643,12 @@
 				<lb facs="#facs_29_r3l29" n="N004"/>Betrachtung der <rs ana="#concept_phy">Schwingungsgesetze</rs> ausging, so stellt sich uns
 				<lb facs="#facs_29_r3l30" n="N005"/>der mit den verschiedenen <rs ana="#m_note">Tönen</rs> zu bildende, nächst liegende Ge<pc>¬</pc>
 				<lb facs="#facs_29_r3l31" n="N006"/>gensatz nach der Höhe hin bekanntlich in dem folgenden Verhält<pc>¬</pc>
-				<lb facs="#facs_29_r3l32" n="N007"/>niß dar: <formula notation="tex">$1:\frac{1}{3}$</formula>
+				<lb facs="#facs_29_r3l32" n="N007"/>niß dar:
             	<lb facs="#facs_29_r3l34" n="N001"/>Setzen wir nun 1 = <rs ana="#m_note">c</rs> und denken wir uns diesen <rs ana="#m_note">Ton</rs> in einer,
 				<lb facs="#facs_29_r3l35" n="N002"/>den oben ausgesprochenen Erfordernissen des <rs ana="#m_note">Grundtons</rs> entspre<pc>¬</pc>
 				<lb facs="#facs_29_r3l36" n="N003"/>chenden Lage im <rs ana="#concept_mus">Tongebiet</rs>, etwa in der <rs ana="#concept_mus">eingestrichenen</rs> <rs ana="#m_interval">Octave</rs>,
 				<pb facs="#facs_30" n="25"/>
-            	<lb facs="#facs_30_r3l2" n="N001"/>so ist der aus <formula notation="tex">$\frac{1}{3}$</formula> dieser <rs ana="#concept_phy">Länge</rs> gewonnene <rs ana="#m_note">Ton</rs> das <rs ana="#m_note">g</rs> der <rs ana="#concept_mus">zweigestri<pc>¬</pc>
+            	<lb facs="#facs_30_r3l2" n="N001"/>so ist der aus ½ dieser <rs ana="#concept_phy">Länge</rs> gewonnene <rs ana="#m_note">Ton</rs> das <rs ana="#m_note">g</rs> der <rs ana="#concept_mus">zweigestri<pc>¬</pc>
 				<lb facs="#facs_30_r3l3" n="N002"/>chenen</rs> <rs ana="#m_interval">Octave</rs>. Es entspricht demnach das vorhergehende <rs ana="#concept_phy">Zahlen<pc>¬</pc>
 				<lb facs="#facs_30_r3l4" n="N003"/>verhältniß</rs> dem folgenden <rs ana="#concept_mus">Tonverhältniß</rs>:
 				<lb facs="#facs_30_r3l5" n="N004"/><rs ana="#m_interval">c} : g}}</rs>.
@@ -1719,8 +1719,8 @@
 			</p>
             <p facs="#facs_31_TextRegion_1632838285037_2252 #facs_31_TextRegion_1632838278906_2244 #facs_31_TextRegion_1632838335268_2274 #facs_31_TextRegion_1632838347137_2280 #facs_32_TextRegion_1632838764576_2527 #facs_32_TextRegion_1632838758456_2519">
 				<lb facs="#facs_31_r1l23" n="N001"/>Aus dem in Beziehung auf die Länge der <rs ana="#concept_phy">schwingenden</rs> <rs ana="#concept_mus">Sai<pc>¬</pc>
-				<lb facs="#facs_31_r1l24" n="N002"/>ten</rs> aufgestellten <rs ana="#concept_phy">Zahlenverhältniß</rs><formula notation="tex">$1:\frac{1}{3}$</formula>
-            	<lb facs="#facs_31_r1l26" n="N001"/>entsteht durch Umkehrung des <rs ana="#concept_phy">Bruches</rs>:<formula notation="tex">$1:\frac{3}{1}$</formula>
+				<lb facs="#facs_31_r1l24" n="N002"/>ten</rs> aufgestellten <rs ana="#concept_phy">Zahlenverhältniß</rs>
+            	<lb facs="#facs_31_r1l26" n="N001"/>entsteht durch Umkehrung des <rs ana="#concept_phy">Bruches</rs>:
             	<lb facs="#facs_31_r1l28" n="N001"/>Setzen wir auch hier 1 = <rs ana="#m_note">c}</rs>, d. i. gleich dem angenommenen <rs ana="#m_note">Grund<pc>¬</pc>
 				<lb facs="#facs_31_r1l29" n="N002"/>ton</rs>, so entspricht diesem <rs ana="#concept_phy">Zahlenverhältniß</rs> das nach der Einthei<pc>¬</pc>
 				<lb facs="#facs_31_r1l30" n="N003"/>lung der <rs ana="#m_interval">Octaven</rs> folgendergestalt zu bezeichnende <rs ana="#concept_phy">Tonverhältniß</rs>:
@@ -1733,7 +1733,7 @@
 				<lb facs="#facs_31_line_1632838420596_2361" n="N004"/>in die höhere <rs ana="#m_interval">Octave</rs> verpflanzt werden. In
             	<pb facs="#facs_32" n="27"/>
             	<lb facs="#facs_32_r2l2" n="N001"/>Folge dessen entsteht aus dem vorstehenden das nachfolgende <rs ana="#concept_phy">Zah<pc>¬</pc>
-				<lb facs="#facs_32_r2l3" n="N002"/>lenverhältniß</rs>:<formula notation="tex">$1:\frac{3}{2}$</formula>
+				<lb facs="#facs_32_r2l3" n="N002"/>lenverhältniß</rs>:
             	<lb facs="#facs_32_r2l5" n="N001"/>für das Verhältniß der schon bekannten gleichnamigen, aber um
 				<lb facs="#facs_32_r2l6" n="N002"/>eine <rs ana="#m_interval">Octave</rs> näher gerückten <rs ana="#m_note">Töne</rs>
             	<figure facs="#facs_32_Graphic_1632839182729_2610">
@@ -2014,7 +2014,7 @@
 				<lb facs="#facs_39_r1l5" n="N001"/>Die Bestandtheile <rs ana="#m_chord">b d f</rs> des <rs ana="#m_chord">Accordes</rs> <rs ana="#m_chord">+b</rs> sind es, welche
 				<lb facs="#facs_39_r1l6" n="N002"/>nicht allein die <rs ana="#concept_mus">Terzengestalt</rs> über <rs ana="#m_note">g</rs> hinaus fortsetzen, sondern
 				<lb facs="#facs_39_r1l7" n="N003"/>auch nach der Tabelle für die aufsteigende Reihe den <rs ana="#concept_phy">Nennern</rs> ent<pc>¬</pc>
-				<lb facs="#facs_39_r1l8" n="N004"/>sprechen, welche die gesetzlich entwickelte Reihe <formula notation="tex">$\frac{1}{1} \frac{2}{3} \frac{4}{5} \frac{8}{7} \frac{16}{9} \frac{32}{11}$</formula> u. f. f.
+				<lb facs="#facs_39_r1l8" n="N004"/>sprechen, welche die gesetzlich entwickelte Reihe
             	<lb facs="#facs_39_r1l10" n="N001"/>enthält.
 			</p>
             <p facs="#facs_39_TextRegion_1632842701330_3318">
