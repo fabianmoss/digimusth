@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Index of Works mentioned in texts from project Digimus</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <publisher/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <standOff>
+    <listBibl>
+      <bibl xml:id="W0001">
+        <title level="m">On the Sensation of Tone As a Physiological Basis for the Theory of Music</title>
+        <author xml:id="P0001"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q42193793</idno>
+      </bibl>
+      <bibl xml:id="W0002">
+        <title level="m">Ãœber Zeiteinheit in Bezug auf Konsonanz, Harmonie und TonalitÃ¤t</title>
+        <author xml:id="P0004"/>
+      </bibl>
+      <bibl xml:id="W0003">
+        <title level="m">Ãœber Tonrhythmik und StimmenfÃ¼hrung</title>
+        <author xml:id="P0004"/>
+      </bibl>
+      <bibl xml:id="W0004">
+        <title level="m">DieÂ Natur der Harmonik und der Metrik: zur Theorie der Musik (Hauptmann)</title>
+        <author xml:id="P0007"/>
+      </bibl>
+      <bibl xml:id="W0005">
+        <title level="m">Johannes Gabrieli und sein Zeitalter (Winterfeldt)</title>
+        <author xml:id="P0009"/>
+      </bibl>
+      <bibl xml:id="W0006">
+        <title level="m">Die Lehre von der Harmonik</title>
+        <author xml:id="P0007"/>
+      </bibl>
+      <bibl xml:id="W0007">
+        <title level="u">String Quintet No. 4</title>
+        <author xml:id="P0015"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q3276602</idno>
+      </bibl>
+      <bibl xml:id="W0008">
+        <title level="u">Symphony No. 1</title>
+        <author xml:id="P0016"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q163493</idno>
+      </bibl>
+      <bibl xml:id="W0009">
+        <title level="m">Das Problem des harmonischen Dualismus Ein Beitrag zur Ã„sthetik der Musik</title>
+        <author xml:id="P0017"/>
+      </bibl>
+      <bibl xml:id="W0010">
+        <title level="j">Neue Zeitschrift fÃ¼r Musik</title>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q683159</idno>
+        <note>journal</note>
+      </bibl>
+      <bibl xml:id="W0011">
+        <title level="m">Geschichte der Musiktheorie im 9. - 19. Jahrhundert (Riemann)</title>
+        <author xml:id="P0017"/>
+      </bibl>
+      <bibl xml:id="W0012">
+        <title level="m">Katechismus der Musikwissenschaft (Riemann)</title>
+        <author xml:id="P0017"/>
+      </bibl>
+      <bibl xml:id="W0013">
+        <title level="m">Elemente der musikalischen Ã„sthetik (Riemann)</title>
+        <author xml:id="P0017"/>
+      </bibl>
+      <bibl xml:id="W0014">
+        <title level="m">Die musikalische Akustik als Grundlage... (Capellen) [TEIL 1]</title>
+        <author xml:id="P0006"/>
+      </bibl>
+      <bibl xml:id="W0015">
+        <title level="m">TraitÃ© de l'harmonie rÃ©duite Ã  ses principes naturels</title>
+        <author xml:id="P0005"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q2719456</idno>
+      </bibl>
+      <bibl xml:id="W0016">
+        <title level="m">Istituzioni harmoniche (Zarlino)</title>
+        <author xml:id="P0010"/>
+      </bibl>
+      <bibl xml:id="W0017">
+        <title level="m">Harmoniesystem in Dualer Entwicklung (A. v. Oettingen 1866)</title>
+        <author xml:id="P0018"/>
+      </bibl>
+      <bibl xml:id="W0018">
+        <title level="m">O. Tiersch 1868</title>
+        <author xml:id="P0002"/>
+      </bibl>
+      <bibl xml:id="W0019">
+        <title level="m">Musikalische Syntaxis (H. Riemann 1873)</title>
+        <author xml:id="P0017"/>
+      </bibl>
+      <bibl xml:id="W0020">
+        <title level="m">Die beiden Tongeschlechter und die neuere Musikalische Theorie (ThÃ¼rlings 1877)</title>
+        <author xml:id="P0030"/>
+      </bibl>
+      <bibl xml:id="W0021">
+        <title level="m">HostinskÃ½ 1879</title>
+        <author xml:id="P0003"/>
+      </bibl>
+      <bibl xml:id="W0022">
+        <title level="m">A. Krisper 1882</title>
+        <author xml:id="P0031"/>
+      </bibl>
+      <bibl xml:id="W0023">
+        <title level="m">Zarlino, Opere I</title>
+        <author xml:id="P0010"/>
+      </bibl>
+      <bibl xml:id="W0024">
+        <title level="m">Geschichte der Ã„sthetik in Deutschland (Lotze)</title>
+        <author xml:id="P0033"/>
+      </bibl>
+      <bibl xml:id="W0025">
+        <title level="m">Goethes musikalisches Leben (F. Hiller)</title>
+        <author xml:id="P0035"/>
+      </bibl>
+      <bibl xml:id="W0026">
+        <title level="m">Tonpsychologie (Stumpf)</title>
+        <author xml:id="P0019"/>
+      </bibl>
+      <bibl xml:id="W0027">
+        <title level="m">Musikerkalender 1898 (Riemann Article)</title>
+        <author xml:id="P0017"/>
+        <note>contains a Riemann article vs. Stumpf</note>
+      </bibl>
+      <bibl xml:id="W0028">
+        <title level="m">Riemann's dissertation (1973)</title>
+        <author xml:id="P0017"/>
+      </bibl>
+      <bibl xml:id="W0029">
+        <title level="m">Skizze einer neuen Methode der Harmonielehre (Riemann)</title>
+        <author xml:id="P0017"/>
+      </bibl>
+      <bibl xml:id="W0030">
+        <title level="m">Katechismus der Akustik</title>
+        <author xml:id="P0017"/>
+      </bibl>
+      <bibl xml:id="W0031">
+        <title level="m">Die Freiheit oder Unfreiheit der TÃ¶ne und Intervalle [Capellen] (&quot;Teil 2&quot;)</title>
+        <author xml:id="P0006"/>
+      </bibl>
+      <bibl xml:id="W0032">
+        <title level="j">Orgaan van de Vereeniging van Muziek-Onderwijzers</title>
+        <note>journal</note>
+      </bibl>
+      <bibl xml:id="W0033">
+        <title level="m">De leer der tonalen functien in conflict met die der polaire tegenstelling</title>
+        <author xml:id="P0040"/>
+      </bibl>
+      <bibl xml:id="W0034">
+        <title level="m">Handbuch der Harmonielehre (Riemann)</title>
+        <author xml:id="P0017"/>
+        <note>H.</note>
+      </bibl>
+      <bibl xml:id="W0035">
+        <title level="m">Katechismus des Generalbassspiels (Riemann)</title>
+        <author xml:id="P0017"/>
+      </bibl>
+      <bibl xml:id="W0036">
+        <title level="m">kleine Kompositionslehre (Riemann)</title>
+        <author xml:id="P0017"/>
+      </bibl>
+      <bibl xml:id="W0037">
+        <title level="m">Die Neue Harmonielehre im Streit mit der alten (Weitzmann 61)</title>
+        <author xml:id="P0041"/>
+      </bibl>
+      <bibl xml:id="W0038">
+        <title level="m">Vorlesung Ã¼ber die Geschichte der Harmonie und ihrer Lehre (Weitzmann)</title>
+        <author xml:id="P0041"/>
+        <note>welche in den vier ersten Nummern des 51. Bandes der â€žNeuen Zeitschrift fÃ¼r Musikâ€ (Leipzig bei Kahnt) nachzusehen ist\nW0039\tHarmoniesystem (Weitzmann 1860 Preisschrift)\tP0041\t\nW0040\t[Selmar Bagge, Kritik in der] Deutschen Musikzeitung No. 30 und 31\tP0047\t\nW0041\tC dur-Quartetts (Mozart) &quot;Dissonanz&quot;</note>
+      </bibl>
+      <bibl xml:id="W0042">
+        <title level="m">Theorie der Tonsetzkunst (G. Weber)</title>
+        <author xml:id="P0014"/>
+      </bibl>
+      <bibl xml:id="W0043">
+        <title level="m">Prometheus-Ouverture (Liszt)</title>
+        <author xml:id="P0046"/>
+      </bibl>
+      <bibl xml:id="W0044">
+        <title level="u">Symphony No. 41</title>
+        <author xml:id="P0015"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q232367</idno>
+      </bibl>
+      <bibl xml:id="W0045">
+        <title level="u">Symphony No. 3</title>
+        <author xml:id="P0016"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q157489</idno>
+      </bibl>
+      <bibl xml:id="W0046">
+        <title level="m">Die temperirte Stimmung und die chromatische Tonleiter (Kretschmann)</title>
+        <author xml:id="P0048"/>
+      </bibl>
+      <bibl xml:id="W0047">
+        <title level="m">The Marriage of Figaro</title>
+        <author xml:id="P0015"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q201873</idno>
+        <note>le donne ficcan gli aghi 2c. (Mozart aus Figaro)</note>
+      </bibl>
+      <bibl xml:id="W0048">
+        <title level="m">Don Juan (Mozart)</title>
+        <author xml:id="P0015"/>
+        <note>Kunkel: &quot;Aria: SchmÃ¤le, schmÃ¤le, lieber Junge&quot;</note>
+      </bibl>
+      <bibl xml:id="W0049">
+        <title level="m">AlbumblÃ¤tter zur Emancipation der Quinten (Weitzmann)</title>
+        <author xml:id="P0041"/>
+      </bibl>
+      <bibl xml:id="W0050">
+        <title level="m">Systematische Einleitung in die musikalische Setzkunst nach den LehrsÃ¤tzen des Herrn Rameau (d'Alembert, Ã¼bers. Marpurg)</title>
+        <author xml:id="P0011"/>
+      </bibl>
+      <bibl xml:id="W0051">
+        <title level="m">fÃ¼nfstimmigen Madrigale (Monteverdi)</title>
+        <author xml:id="P0052"/>
+      </bibl>
+      <bibl xml:id="W0052">
+        <title level="m">Biographie universelle des musiciens</title>
+        <author xml:id="P0053"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q28007160</idno>
+      </bibl>
+      <bibl xml:id="W0053">
+        <title level="m">Uebungen zum Studium der Harmonie (F. Hiller)</title>
+        <author xml:id="P0035"/>
+      </bibl>
+      <bibl xml:id="W0054">
+        <title level="m">String Quartet No. 13</title>
+        <author xml:id="P0016"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q175565</idno>
+      </bibl>
+      <bibl xml:id="W0055">
+        <title level="u">Symphony No. 40</title>
+        <author xml:id="P0015"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q231390</idno>
+      </bibl>
+      <bibl xml:id="W0056">
+        <title level="m">Piano Sonata No. 12</title>
+        <author xml:id="P0016"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q146182</idno>
+      </bibl>
+      <bibl xml:id="W0057">
+        <title level="m">Mass in B minor</title>
+        <author xml:id="P0054"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q310549</idno>
+      </bibl>
+      <bibl xml:id="W0058">
+        <title level="u">Symphony No. 5</title>
+        <author xml:id="P0016"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q188709</idno>
+      </bibl>
+      <bibl xml:id="W0059">
+        <title level="u">Symphony No. 9</title>
+        <author xml:id="P0016"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q11989</idno>
+      </bibl>
+      <bibl xml:id="W0060">
+        <title level="m">Musikalische Briefe von Dr. Eduard KrÃ¼ger. MÃ¼nster, 1870</title>
+        <author xml:id="P0055"/>
+      </bibl>
+      <bibl xml:id="W0061">
+        <title level="m">Ã„sthetik (Vischer)</title>
+        <author xml:id="P0056"/>
+      </bibl>
+      <bibl xml:id="W0062">
+        <title level="m">â€žWider die feurigen Kapellmeisterâ€ Aufsatz in: â€žA. Allg. Ztg.â€œ Beilage Nro. 6 vom 6. Jan. 1875 (auch abgedruckt in der Allg. Mus. Ztg., 1875, Nro. 6 und 7)</title>
+        <note>author to be researched</note>
+      </bibl>
+      <bibl xml:id="W0063">
+        <title level="m">Komm, holder Lenz (Hadyn)</title>
+        <author xml:id="P0008"/>
+      </bibl>
+      <bibl xml:id="W0064">
+        <title level="m">â€žDie harmonikale Symbolik des Altertums, Erste Abteilung. Die esoterische Zalenlehre der Pythagoreer in ihrer Beziehung zu Ã¤lteren griechischen und morgenlÃ¤ndischen Quellen, insbesondere zur altsemitisch-hebrÃ¤ischen Ueberlieferungâ€. KÃ¶ln, 1868. (A. v. Thimus)</title>
+        <author xml:id="P0063"/>
+      </bibl>
+      <bibl xml:id="W0065">
+        <title level="m">Die GrundzÃ¼ge der esoterischen Harmonik des Altertums, im Anschlusse an die Schrift des Freiherrn A. v. Thimus Ã¼ber die harmonikale Symbolik des Altertums (Dr. Richard Hasenclever)</title>
+        <author xml:id="P0064"/>
+      </bibl>
+      <bibl xml:id="W0066">
+        <title level="j">Giebel's Zeitschr. f. d. ges. Naturwissenschaften, Bd. XXXII</title>
+        <note>journal</note>
+      </bibl>
+      <bibl xml:id="W0067">
+        <title level="j">GÃ¤a (Zeitschrift, anscheinend)</title>
+        <note>journal</note>
+      </bibl>
+      <bibl xml:id="W0068">
+        <title level="m">Das heraklitische Prinzip und die heutige Naturforschung</title>
+        <note>? to be researched ; from ThÃ¼rlings</note>
+      </bibl>
+      <bibl xml:id="W0069">
+        <title level="m">Die Zukunft der Musiktheorie (Dualismus oder â€žMonismusâ€?) und ihre Einwirkung auf die Praxis (Riemann)</title>
+        <author xml:id="P0017"/>
+      </bibl>
+      <bibl xml:id="W0070">
+        <title level="m">GroÃŸe Kompositionslehre (Riemann 1902)</title>
+        <author xml:id="P0017"/>
+      </bibl>
+      <bibl xml:id="W0071">
+        <title level="m">Die UnmÃ¶glichkeit und ÃœberflÃ¼ssigkeit der dualistischen Molltheorie Riemanns (Capellen)</title>
+        <author xml:id="P0006"/>
+      </bibl>
+      <bibl xml:id="W0072">
+        <title level="m">Die AbhÃ¤ngigkeitsverhÃ¤ltnisse in der Musik (Capellen)</title>
+        <author xml:id="P0006"/>
+      </bibl>
+      <bibl xml:id="W0073">
+        <title level="m">Studien zur Geschichte der Notenschrift (Riemann)</title>
+        <author xml:id="P0017"/>
+      </bibl>
+      <bibl xml:id="W0074">
+        <title level="m">Kurzgefasste Harmonielehre (Riemann)</title>
+        <author xml:id="P0017"/>
+        <note>Kg. H.</note>
+      </bibl>
+      <bibl xml:id="W0075">
+        <title level="m">Modulationslehre (Riemann)</title>
+        <author xml:id="P0017"/>
+        <note>Mod.</note>
+      </bibl>
+      <bibl xml:id="W0076">
+        <title level="m">Akustik (Chladini) [nach Cap.]</title>
+        <author xml:id="P0070"/>
+      </bibl>
+      <bibl xml:id="W0077">
+        <title level="m">Versuch Ã¼ber die musikalische Temperatur (Marpurg)</title>
+        <author xml:id="P0051"/>
+        <note>DOUBLE</note>
+      </bibl>
+      <bibl xml:id="W0078">
+        <title level="m">Capellen Teil 3 &quot;Die Symmetrische Umkehrung&quot;</title>
+        <author xml:id="P0006"/>
+      </bibl>
+      <bibl xml:id="W0079">
+        <title level="m">ElÃ©mens de musique, thÃ©orique et pratique, suivant les principes de M. Rameau</title>
+        <author xml:id="P0011"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q24714998</idno>
+      </bibl>
+      <bibl xml:id="W0080">
+        <title level="m">Wer ist Musikalisch (Billroth 1898)</title>
+        <author xml:id="P0072"/>
+      </bibl>
+      <bibl xml:id="W0081">
+        <title level="m">Sumer is icomen in</title>
+        <note>medieval piece of music</note>
+      </bibl>
+      <bibl xml:id="W0082">
+        <title level="m">Ãœber eigentÃ¼mliche bei Natur- und orientalischen KulturvÃ¶lkern vorkommende Tonreihen (L. Riemann)</title>
+        <author xml:id="P0074"/>
+        <note>Not Hugo Riemannâ€¦</note>
+      </bibl>
+      <bibl xml:id="W0083">
+        <title level="m">Geschichte des Konsonanzbegriffs (Stumpf)</title>
+        <author xml:id="P0019"/>
+      </bibl>
+      <bibl xml:id="W0084">
+        <title level="m">Charakteristik der Tonarten (Henning)</title>
+        <author xml:id="P0077"/>
+      </bibl>
+      <bibl xml:id="W0085">
+        <title level="m">Ich kann's nicht fassen, nicht glauben (Schumann, Lied)</title>
+        <author xml:id="P0043"/>
+      </bibl>
+      <bibl xml:id="W0086">
+        <title level="m">TannhÃ¤user</title>
+        <author xml:id="P0045"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q560619</idno>
+      </bibl>
+      <bibl xml:id="W0087">
+        <title level="m">Harmonie universelle (Mersenne 1638)</title>
+        <author xml:id="P0022"/>
+      </bibl>
+      <bibl xml:id="W0088">
+        <title level="m">Die alte Musiklehre (Marx 1841)</title>
+        <author xml:id="P0078"/>
+      </bibl>
+      <bibl xml:id="W0089">
+        <title level="m">Exotische Mollmusik (Capellen)</title>
+        <author xml:id="P0006"/>
+      </bibl>
+      <bibl xml:id="W0090">
+        <title level="m">Shogaku shoka (Capellen)</title>
+        <author xml:id="P0006"/>
+      </bibl>
+      <bibl xml:id="W0091">
+        <title level="m">Musiktaschenbuch (Riemann)</title>
+        <author xml:id="P0017"/>
+        <note>vielleicht = kurzgefasste Harmonielehre</note>
+      </bibl>
+      <bibl xml:id="W0092">
+        <title level="m">Lehrbuch der musikalischen Harmonik (Mayrberger)</title>
+        <author xml:id="P0083"/>
+      </bibl>
+      <bibl xml:id="W0093">
+        <title level="m">Harmonielehre (E. F. Richter)</title>
+        <author xml:id="P0080"/>
+        <note>Identical to W0156 perhaps?</note>
+      </bibl>
+      <bibl xml:id="W0094">
+        <title level="m">Neue Schule der Melodik (Riemann)</title>
+        <author xml:id="P0017"/>
+        <note>Mel.</note>
+      </bibl>
+      <bibl xml:id="W0095">
+        <title level="m">Konsonanz und Dissonanz (Stumpf, Aufsatz)</title>
+        <author xml:id="P0019"/>
+      </bibl>
+      <bibl xml:id="W0096">
+        <title level="m">Abhandlung Ã¼ber Modulation (Rischbieter 1879)</title>
+        <author xml:id="P0084"/>
+      </bibl>
+      <bibl xml:id="W0097">
+        <title level="m">Ein neuer exotischer Musikstil in Sicht? (Capellen)</title>
+        <author xml:id="P0006"/>
+      </bibl>
+      <bibl xml:id="W0098">
+        <title level="m">Die Symmetrische Umkehrung (H. SchrÃ¶der)</title>
+        <author xml:id="P0071"/>
+      </bibl>
+      <bibl xml:id="W0099">
+        <title level="m">Vorlesungen Ã¼ber die Menschen- und Tierseele (Wundt)</title>
+        <author xml:id="P0086"/>
+      </bibl>
+      <bibl xml:id="W0100">
+        <title level="m">St Matthew Passion</title>
+        <author xml:id="P0054"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q379111</idno>
+      </bibl>
+      <bibl xml:id="W0101">
+        <title level="m">The Well-Tempered Clavier</title>
+        <author xml:id="P0054"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q211971</idno>
+      </bibl>
+      <bibl xml:id="W0102">
+        <title level="m">Dictionaire de Musique (Rousseau 1782)</title>
+        <author xml:id="P0088"/>
+      </bibl>
+      <bibl xml:id="W0103">
+        <title level="m">Fidelio</title>
+        <author xml:id="P0016"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q193778</idno>
+      </bibl>
+      <bibl xml:id="W0104">
+        <title level="m">Piano Sonata No. 21</title>
+        <author xml:id="P0016"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q146535</idno>
+      </bibl>
+      <bibl xml:id="W0105">
+        <title level="m">Kreisleriana</title>
+        <author xml:id="P0043"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q741180</idno>
+      </bibl>
+      <bibl xml:id="W0106">
+        <title level="m">Huldigungs-Marsch (F. Liszt)</title>
+        <author xml:id="P0046"/>
+      </bibl>
+      <bibl xml:id="W0107">
+        <title level="m">Piano Sonata in B Minor</title>
+        <author xml:id="P0046"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q1031890</idno>
+      </bibl>
+      <bibl xml:id="W0108">
+        <title level="m">Sarabande der E moll-Suite, Exercices Op. I, Part. 6 (J.S. Bach)</title>
+        <author xml:id="P0054"/>
+      </bibl>
+      <bibl xml:id="W0109">
+        <title level="m">Klaviersonate Nr. 8 in c-Moll op. 13 (Beethoven)</title>
+        <author xml:id="P0016"/>
+      </bibl>
+      <bibl xml:id="W0110">
+        <title level="m">Naumann Dissertation &quot;Ãœber die verschiedenen Bestimmungen der TonverhÃ¤ltnisse&quot; etc.</title>
+        <author xml:id="P0090"/>
+      </bibl>
+      <bibl xml:id="W0111">
+        <title level="m">Ãœber musikalische Tonbestimmungen und Temperatur (Drobisch 1852)</title>
+        <author xml:id="P0091"/>
+      </bibl>
+      <bibl xml:id="W0112">
+        <title level="m">Allgemeine Theorie der Musik (1852) [Opelt]</title>
+        <author xml:id="P0092"/>
+      </bibl>
+      <bibl xml:id="W0113">
+        <title level="m">die Musik und die musikalischen Instrumente in ihrer Beziehung zu den Gesetzen der Akustik (Zamminer)</title>
+        <author xml:id="P0058"/>
+      </bibl>
+      <bibl xml:id="W0114">
+        <title level="m">Versuch Ã¼ber die musikalische Temperatur (Marpurg 1776)</title>
+        <author xml:id="P0051"/>
+        <note>DOUBLE</note>
+      </bibl>
+      <bibl xml:id="W0115">
+        <title level="m">theor.-prakt. Harmonielehre (S. W. Dehn - Berlin 1840)</title>
+        <author xml:id="P0093"/>
+      </bibl>
+      <bibl xml:id="W0116">
+        <title level="m">Ãœber wissenschaftliche Bestimmung der musikalischen Temperatur (Drobisch)</title>
+        <author xml:id="P0091"/>
+        <note>included in book below, CHANGE ID IN OETTINGEN</note>
+      </bibl>
+      <bibl xml:id="W0117">
+        <title level="m">Annalen der Physik</title>
+        <author xml:id="P0094; P0091"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q275655</idno>
+        <note>contains a text by Drobisch, also cited several times in OET, but not sure which one</note>
+      </bibl>
+      <bibl xml:id="W0118">
+        <title level="m">Tentamen novae theoriae musicae</title>
+        <author xml:id="P0057"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q2403819</idno>
+      </bibl>
+      <bibl xml:id="W0119">
+        <title level="m">zur Theorie der Musik (J. N. MÃ¶hring)</title>
+        <author xml:id="P0095"/>
+      </bibl>
+      <bibl xml:id="W0120">
+        <title level="m">NachtrÃ¤ge zur Theorie der musikalischen TonverhÃ¤ltnisse (Drobisch)</title>
+        <author xml:id="P0091"/>
+      </bibl>
+      <bibl xml:id="W0121">
+        <title level="m">Allgemeine Musiklehre (Marx)</title>
+        <author xml:id="P0078"/>
+      </bibl>
+      <bibl xml:id="W0122">
+        <title level="m">Compositionslehre / Die Lehre der Musikalischen Composition (Marx)</title>
+        <author xml:id="P0078"/>
+      </bibl>
+      <bibl xml:id="W0123">
+        <title level="m">Violinschule (Spohr)</title>
+        <author xml:id="P0097"/>
+      </bibl>
+      <bibl xml:id="W0124">
+        <title level="m">Dell' Origine e delle Regole della Musica (Eximeno)</title>
+        <author xml:id="P0099"/>
+      </bibl>
+      <bibl xml:id="W0125">
+        <title level="m">Ãœber die Tonlehre (Herbart)</title>
+        <author xml:id="P0102"/>
+      </bibl>
+      <bibl xml:id="W0126">
+        <title level="m">Ãœber die mathematische Bestimmung der musikalischen Intervalle (Drobisch)</title>
+        <author xml:id="P0091"/>
+      </bibl>
+      <bibl xml:id="W0127">
+        <title level="m">historisch-kritische BeitrÃ¤ge Bd. V (Marpurg)</title>
+        <author xml:id="P0051"/>
+      </bibl>
+      <bibl xml:id="W0128">
+        <title level="m">Leonore Overture No. 2</title>
+        <author xml:id="P0016"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q11349471</idno>
+      </bibl>
+      <bibl xml:id="W0129">
+        <title level="m">Leonore Overture No. 3</title>
+        <author xml:id="P0016"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q11349472</idno>
+      </bibl>
+      <bibl xml:id="W0130">
+        <title level="m">der neuen Aristoxener zerstreute AufsÃ¤tze Ã¼ber das Irrige der musikalischen Arithmetik und das Eitle ihrer Temperaturrechnungen (Sammelband hg. Von Kiesewetter)</title>
+      </bibl>
+      <bibl xml:id="W0131">
+        <title level="m">De musica libri septem</title>
+        <author xml:id="P0020"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q124863958</idno>
+        <note>Quotations from Riemann p. 6</note>
+      </bibl>
+      <bibl xml:id="W0132">
+        <title level="m">Descartes 1615</title>
+        <author xml:id="P0021"/>
+        <note>Quotations from Riemann p. 6</note>
+      </bibl>
+      <bibl xml:id="W0133">
+        <title level="m">Levens 1743</title>
+        <author xml:id="P0024"/>
+        <note>Quotations from Riemann p. 6</note>
+      </bibl>
+      <bibl xml:id="W0134">
+        <title level="m">Serre 1753</title>
+        <author xml:id="P0025"/>
+        <note>Quotations from Riemann p. 6</note>
+      </bibl>
+      <bibl xml:id="W0135">
+        <title level="m">Tartini 1754</title>
+        <author xml:id="P0023"/>
+        <note>Quotations from Riemann p. 6</note>
+      </bibl>
+      <bibl xml:id="W0136">
+        <title level="m">Blamville 1764</title>
+        <author xml:id="P0026"/>
+        <note>Quotations from Riemann p. 6</note>
+      </bibl>
+      <bibl xml:id="W0137">
+        <title level="m">Jamard 1769</title>
+        <author xml:id="P0027"/>
+        <note>Quotations from Riemann p. 6</note>
+      </bibl>
+      <bibl xml:id="W0138">
+        <title level="m">Vallotti 1779</title>
+        <author xml:id="P0028"/>
+        <note>Quotations from Riemann p. 6</note>
+      </bibl>
+      <bibl xml:id="W0139">
+        <title level="m">Sabbatini 1799</title>
+        <author xml:id="P0029"/>
+        <note>Quotations from Riemann p. 6</note>
+      </bibl>
+      <bibl xml:id="W0140">
+        <title level="m">Timaeus</title>
+        <author xml:id="P0075"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q371884</idno>
+      </bibl>
+      <bibl xml:id="W0141">
+        <title level="m">Musikalische Logik (Riemann)</title>
+        <author xml:id="P0017"/>
+      </bibl>
+      <bibl xml:id="W0142">
+        <title level="m">HÃ¼lfsmittel der Modulation (Riemann - Kassel, 1875)</title>
+        <author xml:id="P0017"/>
+      </bibl>
+      <bibl xml:id="W0143">
+        <title level="m">Musikalische Grammatik (Riemann, only planned?)</title>
+        <author xml:id="P0017"/>
+      </bibl>
+      <bibl xml:id="W0144">
+        <title level="m">Einleitung in die Helmholtz'sche Musiktheorie (Mach)</title>
+        <author xml:id="P0105"/>
+      </bibl>
+      <bibl xml:id="W0145">
+        <title level="m">Die Theorie des Schalls in Beziehung zur Musik (P. Blaserna)</title>
+        <author xml:id="P0106"/>
+      </bibl>
+      <bibl xml:id="W0146">
+        <title level="m">Ueber die Grenzen der Tonwahrnehmung (W. Preyer)</title>
+        <author xml:id="P0109"/>
+      </bibl>
+      <bibl xml:id="W0147">
+        <title level="m">Lehrbuch zur Psychologie (Hg. G. Hartenstein) 1850-52</title>
+      </bibl>
+      <bibl xml:id="W0148">
+        <title level="m">Lehrbuch der Psychologie (von Ph. Dr. Vilhelm Volkmann Ritter von Volkmar)</title>
+        <author xml:id="P0118"/>
+      </bibl>
+      <bibl xml:id="W0149">
+        <title level="m">Die objektive Existenz der UntertÃ¶ne in der Schallwelle (Riemann)</title>
+        <author xml:id="P0017"/>
+      </bibl>
+      <bibl xml:id="W0150">
+        <title level="m">Psychologische Bemerkungen zur Tonlehre (Herbart)</title>
+        <author xml:id="P0102"/>
+      </bibl>
+      <bibl xml:id="W0151">
+        <title level="m">Ueber den Einfluss der Tonlehre auf Herbart's Philosophie (R. Zimmermann) [1873]</title>
+        <author xml:id="P0122"/>
+      </bibl>
+      <bibl xml:id="W0152">
+        <title level="m">Elementa harmonica</title>
+        <author xml:id="P0062"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q22908097</idno>
+      </bibl>
+      <bibl xml:id="W0153">
+        <title level="m">Elementarbuch der musikalischen Harmonie- und Modulationslehre (Tiersch 1874)</title>
+        <author xml:id="P0002"/>
+      </bibl>
+      <bibl xml:id="W0154">
+        <title level="m">LaocoÃ¶n, an essay on the limits of painting and poetry</title>
+        <author xml:id="P0126"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q1805712</idno>
+      </bibl>
+      <bibl xml:id="W0155">
+        <title level="m">Opuscula (Hauptmann 1874)</title>
+        <author xml:id="P0007"/>
+      </bibl>
+      <bibl xml:id="W0156">
+        <title level="m">Lehrbuch der Harmonielehre (E. F. Richter)</title>
+        <author xml:id="P0080"/>
+      </bibl>
+      <bibl xml:id="W0157">
+        <title level="m">Musikalische Studien (Tappert, W.)</title>
+        <author xml:id="P0128"/>
+      </bibl>
+      <bibl xml:id="W0158">
+        <title level="m">Musikalische Accordlehre (Ad. J. Leibrock)</title>
+        <author xml:id="P0129"/>
+      </bibl>
+      <bibl xml:id="W0159">
+        <title level="m">Die Harmonik der Neuzeit erlÃ¤utert von Dr. F. P. Graf Laurencin.</title>
+        <author xml:id="P0130"/>
+      </bibl>
+      <bibl xml:id="W0160">
+        <title level="m">Lohengrin</title>
+        <author xml:id="P0045"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q23085</idno>
+      </bibl>
+      <bibl xml:id="W0161">
+        <title level="m">Zur Lehre vom Quintenverbote (Ambros)</title>
+        <author xml:id="P0131"/>
+      </bibl>
+      <bibl xml:id="W0162">
+        <title level="m">Das Verbot der Quinten-Parallelen (Tappert, W.)</title>
+        <author xml:id="P0128"/>
+      </bibl>
+      <bibl xml:id="W0163">
+        <title level="m">Geschichte des Septimenaccordes (Weitzmann)</title>
+        <author xml:id="P0041"/>
+      </bibl>
+      <bibl xml:id="W0164">
+        <title level="m">Der accordliche Gegensatz und die BegrÃ¼ndung der Skala (Kraushaar)</title>
+        <author xml:id="P0133"/>
+      </bibl>
+      <bibl xml:id="W0165">
+        <title level="m">Ach Gott und Herr (Choral)</title>
+        <note>composer?</note>
+      </bibl>
+      <bibl xml:id="W0166">
+        <title level="m">Kritische Beleuchtung (Kunkel)</title>
+        <author xml:id="P0134"/>
+      </bibl>
+      <bibl xml:id="W0167">
+        <title level="m">Ideen zu einer Theorie der Musik (Kretzschmer)</title>
+        <author xml:id="P0135"/>
+      </bibl>
+      <bibl xml:id="W0168">
+        <title level="m">Anleitung zur Temperaturberechnung (TÃ¼rk)</title>
+        <author xml:id="P0136"/>
+      </bibl>
+      <bibl xml:id="W0169">
+        <title level="m">Ãœbersicht der Schall- und Klanglehre (Chladini)</title>
+        <author xml:id="P0070"/>
+      </bibl>
+      <bibl xml:id="W0170">
+        <title level="m">Elementarbuch der Harmonie (Schneider, F.)</title>
+        <author xml:id="P0137"/>
+      </bibl>
+      <bibl xml:id="W0171">
+        <title level="m">Anweisung zum GeneralbaÃŸspielen (TÃ¼rk)</title>
+        <author xml:id="P0136"/>
+      </bibl>
+      <bibl xml:id="W0172">
+        <title level="m">Harmonielehre (Vogler)</title>
+        <author xml:id="P0139"/>
+      </bibl>
+      <bibl xml:id="W0173">
+        <title level="m">Lehrbuch der Tonsetzkunst (AndrÃ©)</title>
+        <author xml:id="P0140"/>
+      </bibl>
+      <bibl xml:id="W0174">
+        <title level="m">Musikalische Grammatik (Fink)</title>
+        <author xml:id="P0142"/>
+      </bibl>
+      <bibl xml:id="W0175">
+        <title level="m">Heidelberger JahrbÃ¼cher (G. Weber 1811)</title>
+        <author xml:id="P0014"/>
+        <note>see Kunkel p. 15</note>
+      </bibl>
+      <bibl xml:id="W0176">
+        <title level="m">Die neusten und wichtigsten Entdeckungen (Portmann)</title>
+        <author xml:id="P0143"/>
+      </bibl>
+      <bibl xml:id="W0177">
+        <title level="m">Leichtes Lehrbuch der Harmonie (Portmann)</title>
+        <author xml:id="P0143"/>
+        <note>I don't think there is a non &quot;leichtes&quot; lehrbuch, as cited first time</note>
+      </bibl>
+      <bibl xml:id="W0178">
+        <title level="m">Lehrbuch der musikalischen Komposition (Lobe)</title>
+        <author xml:id="P0144"/>
+      </bibl>
+      <bibl xml:id="W0179">
+        <title level="m">Der FreischÃ¼tz</title>
+        <author xml:id="P0050"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q156435</idno>
+        <note>Kunkel: Musik zur Wolfsschlucht-Scene</note>
+      </bibl>
+      <bibl xml:id="W0180">
+        <title level="m">Compositionslehre (SchÃ¼tze, F. W.)</title>
+        <author xml:id="P0145"/>
+      </bibl>
+      <bibl xml:id="W0181">
+        <title level="m">Modulationslehre (Weber)</title>
+        <author xml:id="P0014"/>
+      </bibl>
+      <bibl xml:id="W0182">
+        <title level="m">La muette de Portici</title>
+        <author xml:id="P0147"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q470773</idno>
+      </bibl>
+      <bibl xml:id="W0183">
+        <title level="m">CosÃ¬ fan tutte</title>
+        <author xml:id="P0015"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q207410</idno>
+      </bibl>
+      <bibl xml:id="W0184">
+        <title level="m">Colma (Zumsteeg)</title>
+        <author xml:id="P0148"/>
+        <note>mus. Ballade Ã¼ber ein Gedicht von Goethe</note>
+      </bibl>
+      <bibl xml:id="W0185">
+        <title level="u">Symphony Nr. ?? (Haydn)</title>
+        <author xml:id="P0008"/>
+        <note>exact work to be researched from excerpt, Kunkel p. 40</note>
+      </bibl>
+      <bibl xml:id="W0186">
+        <title level="m">Piano Sonata No. 4</title>
+        <author xml:id="P0016"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q145985</idno>
+      </bibl>
+      <bibl xml:id="W0187">
+        <title level="m">Piano Sonata No. 18</title>
+        <author xml:id="P0016"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q146343</idno>
+      </bibl>
+      <bibl xml:id="W0188">
+        <title level="m">Theorie von der thematischen Arbeit (Lobe)</title>
+        <author xml:id="P0144"/>
+      </bibl>
+      <bibl xml:id="W0189">
+        <title level="m">Die GrundzÃ¼ge der musikalischen Formen (Richter)</title>
+        <author xml:id="P0080"/>
+      </bibl>
+      <bibl xml:id="W0190">
+        <title level="m">Versuch einer Anleitung zur Composition (Koch)</title>
+        <author xml:id="P0141"/>
+      </bibl>
+      <bibl xml:id="W0191">
+        <title level="m">Handbuch bei dem Studium der Harmonie (Koch 1811)</title>
+        <author xml:id="P0141"/>
+      </bibl>
+      <bibl xml:id="W0192">
+        <title level="u">Klavier-Quintett in es-Moll, Allegro (Hummel)</title>
+        <author xml:id="P0150"/>
+      </bibl>
+      <bibl xml:id="W0193">
+        <title level="m">Enharmonischer Tonwechsel (Art. in: Schilling EncyclopÃ¤die)</title>
+        <author xml:id="P0151"/>
+      </bibl>
+      <bibl xml:id="W0194">
+        <title level="j">SÃ¼ddeutsche Musikzeitung</title>
+        <note>journal</note>
+      </bibl>
+      <bibl xml:id="W0195">
+        <title level="m">Ueber Preisausschreiben fÃ¼r musikalische Compositionen</title>
+        <note>SÃ¼ddeutsche Musikzeitung Nr 38-39, 1852</note>
+      </bibl>
+      <bibl xml:id="W0196">
+        <title level="m">VorschlÃ¤ge zur Anregung fÃ¼r das Studium der Musiktheorie</title>
+        <note>SÃ¼ddeutsche Musikzeitung Nr 23, 1853</note>
+      </bibl>
+      <bibl xml:id="W0197">
+        <title level="m">Neues System der Harmonielehre (StÃ¶pel)</title>
+        <author xml:id="P0154"/>
+      </bibl>
+      <bibl xml:id="W0198">
+        <title level="m">Abhandlung in der Leipziger AMZ 1825 (StÃ¶pel)</title>
+        <author xml:id="P0154"/>
+      </bibl>
+      <bibl xml:id="W0199">
+        <title level="m">Allgemeine musikalische Zeitung</title>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q463387</idno>
+      </bibl>
+      <bibl xml:id="W0200">
+        <title level="m">of Vocal Music sounded on the Tonic Solfa Method (Curwen, J.)</title>
+        <author xml:id="P0155"/>
+        <note>cited by OET because he hasn't read them, but assumes they might have similar results</note>
+      </bibl>
+      <bibl xml:id="W0201">
+        <title level="m">The standard course of lessons on the Tonic Solfa Method (Curwen, J.)</title>
+        <author xml:id="P0155"/>
+      </bibl>
+      <bibl xml:id="W0202">
+        <title level="m">Physiologie der menschlichen Sprache (Merkel, C. L. 1866)</title>
+        <author xml:id="P0156"/>
+      </bibl>
+      <bibl xml:id="W0203">
+        <title level="m">Der Contrapunkt (Bellermann)</title>
+        <author xml:id="P0157"/>
+      </bibl>
+      <bibl xml:id="W0204">
+        <title level="m">Das musikalische System der Griechen in seiner Urgestalt (Fortlage)</title>
+        <author xml:id="P0159"/>
+      </bibl>
+      <bibl xml:id="W0205">
+        <title level="m">De divina psalmodia (Bona)</title>
+        <author xml:id="P0161"/>
+      </bibl>
+      <bibl xml:id="W0206">
+        <title level="m">De musica</title>
+        <author xml:id="P0162"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q87198553</idno>
+      </bibl>
+      <bibl xml:id="W0207">
+        <title level="m">Die Tonleitern und Musiknoten der Griechen (Bellermann)</title>
+        <author xml:id="P0157"/>
+      </bibl>
+      <bibl xml:id="W0208">
+        <title level="m">Geschichte der Musik</title>
+        <author xml:id="P0131"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q42190395</idno>
+      </bibl>
+      <bibl xml:id="W0209">
+        <title level="m">Ueber die Musik der Indier (Jones) Ã¼bers. von Dalberg 1802</title>
+        <author xml:id="P0163"/>
+      </bibl>
+      <bibl xml:id="W0210">
+        <title level="m">Egmont Overture</title>
+        <author xml:id="P0016"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q15622682</idno>
+      </bibl>
+      <bibl xml:id="W0211">
+        <title level="m">Valitnita Suomalaisia Kansan-Lauluja</title>
+        <note>Finnish Folk Song collection ??</note>
+      </bibl>
+      <bibl xml:id="W0212">
+        <title level="m">Schottische und Irische Liedbearbeitungen: &quot;Mir trÃ¤umt, ich lag wo Blumen springen&quot; (Beethoven)</title>
+        <author xml:id="P0016"/>
+      </bibl>
+      <bibl xml:id="W0213">
+        <title level="m">O trÃ¶ste mich Harfe, mit TÃ¶nen von Sorgen (Beethoven)</title>
+        <author xml:id="P0016"/>
+      </bibl>
+      <bibl xml:id="W0214">
+        <title level="m">Heimkehr nach Ulster Volksliedbearbeitung (Beethoven)</title>
+        <author xml:id="P0016"/>
+      </bibl>
+      <bibl xml:id="W0215">
+        <title level="m">Die Hochlands Wache Volksliedbearbeitung (Beethoven)</title>
+        <author xml:id="P0016"/>
+      </bibl>
+      <bibl xml:id="W0216">
+        <title level="m">Der Abend Volksliedbearbeitung (Beethoven)</title>
+        <author xml:id="P0016"/>
+      </bibl>
+      <bibl xml:id="W0217">
+        <title level="m">TrÃ¼b, trÃ¼b ist mein Auge (Beethoven)</title>
+        <author xml:id="P0016"/>
+      </bibl>
+      <bibl xml:id="W0218">
+        <title level="m">die holde Maid von Iverness (Beethoven)</title>
+        <author xml:id="P0016"/>
+      </bibl>
+      <bibl xml:id="W0219">
+        <title level="m">Kern des deutschen Kirchengesanges (Layriz)</title>
+        <author xml:id="P0165"/>
+      </bibl>
+      <bibl xml:id="W0220">
+        <title level="m">Wer nur den lieben Gott lÃ¤ÃŸt walten, BWV 93</title>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q1410355</idno>
+      </bibl>
+      <bibl xml:id="W0221">
+        <title level="m">Choral: HÃ¶chster Priester, der du dich</title>
+      </bibl>
+      <bibl xml:id="W0222">
+        <title level="m">371 vierstimmige Chorale</title>
+        <author xml:id="P0054"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q11346142</idno>
+      </bibl>
+      <bibl xml:id="W0223">
+        <title level="m">Choralbuch fÃ¼r vier MÃ¤nnerstimmen (Brenner)</title>
+        <author xml:id="P0016"/>
+      </bibl>
+      <bibl xml:id="W0224">
+        <title level="m">Evangelisches Choralbuch (Punschel)</title>
+        <author xml:id="P0167"/>
+      </bibl>
+      <bibl xml:id="W0225">
+        <title level="m">Piano Quartet No. 1</title>
+        <author xml:id="P0015"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q4383602</idno>
+      </bibl>
+      <bibl xml:id="W0226">
+        <title level="m">Piano Sonata No. 3</title>
+        <author xml:id="P0016"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q145937</idno>
+      </bibl>
+      <bibl xml:id="W0227">
+        <title level="m">String Quartet No. 9</title>
+        <author xml:id="P0016"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q275877</idno>
+      </bibl>
+      <bibl xml:id="W0228">
+        <title level="m">Stabat Mater</title>
+        <author xml:id="P0170"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q11894350</idno>
+      </bibl>
+      <bibl xml:id="W0229">
+        <title level="m">Piano Sonata No. 2</title>
+        <author xml:id="P0016"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q145873</idno>
+      </bibl>
+      <bibl xml:id="W0230">
+        <title level="m">Am Meer (Schubert)</title>
+        <author xml:id="P0085"/>
+      </bibl>
+      <bibl xml:id="W0231">
+        <title level="m">Op. 74 No. 2 (Raff) - Scherzo</title>
+        <author xml:id="P0171"/>
+      </bibl>
+      <bibl xml:id="W0232">
+        <title level="m">Struensee</title>
+        <author xml:id="P0173"/>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q109242144</idno>
+      </bibl>
+      <bibl xml:id="W0233">
+        <title level="m">As-Dur Fuge (Bach)</title>
+        <author xml:id="P0054"/>
+        <note>referenced by Lobe, not sure which one exactly</note>
+      </bibl>
+    </listBibl>
+  </standOff>
+</TEI>

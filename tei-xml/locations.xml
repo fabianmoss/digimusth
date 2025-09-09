@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Index of Locations mentioned in texts from project Digimus</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher />
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<publisher />
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<standOff>
+		<listPlace>
+			<place xml:id="L0001">
+				<placeName>43 Paternoster Row</placeName>
+			</place>
+			<place xml:id="L0002">
+				<placeName>Amsterdam</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4001783-7</idno>
+			</place>
+			<place xml:id="L0003">
+				<placeName>Berlin</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4005728-8</idno>
+			</place>
+			<place xml:id="L0004">
+				<placeName>Braunschweig</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4008065-1</idno>
+			</place>
+			<place xml:id="L0005">
+				<placeName>Cassel</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4356815-4</idno>
+			</place>
+			<place xml:id="L0006">
+				<placeName>Cothen</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4314562-0</idno>
+			</place>
+			<place xml:id="L0007">
+				<placeName>Darmstadt</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4011077-1</idno>
+			</place>
+			<place xml:id="L0008">
+				<placeName>Deutschland</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4011882-4</idno>
+			</place>
+			<place xml:id="L0009">
+				<placeName>Dorpat</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4012804-0</idno>
+			</place>
+			<place xml:id="L0010">
+				<placeName>Dorpater Marienkirche</placeName>
+			</place>
+			<place xml:id="L0011">
+				<placeName>Dresden</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4012995-0</idno>
+			</place>
+			<place xml:id="L0012">
+				<placeName>England</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4014770-8</idno>
+			</place>
+			<place xml:id="L0013">
+				<placeName>Erfurt</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4015240-6</idno>
+			</place>
+			<place xml:id="L0014">
+				<placeName>europaischen</placeName>
+			</place>
+			<place xml:id="L0015">
+				<placeName>Frankfurt am Main</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4018118-2</idno>
+			</place>
+			<place xml:id="L0016">
+				<placeName>Frankreich</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4018145-5</idno>
+			</place>
+			<place xml:id="L0017">
+				<placeName>Graz</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4021912-4</idno>
+			</place>
+			<place xml:id="L0018">
+				<placeName>Hamburg</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4023118-5</idno>
+			</place>
+			<place xml:id="L0019">
+				<placeName>Helsinki</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4024351-5</idno>
+			</place>
+			<place xml:id="L0020">
+				<placeName>Jena</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4028557-1</idno>
+			</place>
+			<place xml:id="L0021">
+				<placeName>Koln</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4031483-2</idno>
+			</place>
+			<place xml:id="L0022">
+				<placeName>Leipzig</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4035206-7</idno>
+			</place>
+			<place xml:id="L0023">
+				<placeName>Lyon</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4036770-8</idno>
+			</place>
+			<place xml:id="L0024">
+				<placeName>Munster</placeName>
+			</place>
+			<place xml:id="L0025">
+				<placeName>Nordlingen</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4042434-0</idno>
+			</place>
+			<place xml:id="L0026">
+				<placeName>Osnabruck</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4043974-4</idno>
+			</place>
+			<place xml:id="L0027">
+				<placeName>Paris</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4044660-8</idno>
+			</place>
+			<place xml:id="L0028">
+				<placeName>Petersburg</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/1244262862</idno>
+			</place>
+			<place xml:id="L0029">
+				<placeName>Prag</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4076310-9</idno>
+			</place>
+			<place xml:id="L0030">
+				<placeName>Reval</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4076684-6</idno>
+			</place>
+			<place xml:id="L0031">
+				<placeName>Schweden</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4077258-5</idno>
+			</place>
+			<place xml:id="L0032">
+				<placeName>Stuttgart</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4058282-6</idno>
+			</place>
+			<place xml:id="L0033">
+				<placeName>Vienne</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4119422-6</idno>
+			</place>
+			<place xml:id="L0034">
+				<placeName>Wien</placeName>
+				<idno type="GND">https://reconcile.gnd.network/gnd/4066009-6</idno>
+			</place>
+		</listPlace>
+	</standOff>
+</TEI>
