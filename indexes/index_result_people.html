@@ -192,7 +192,7 @@ toc_exclude: true
           const regex = new RegExp(`(${escaped})`, "gi");
           const highlighted = snippet.replace(regex, '<mark>$1</mark>');
 
-          const ref = id;
+          const ref = "#" + id;
           const facsValue = encodeURIComponent(facs);
           const hashParams = new URLSearchParams();
           hashParams.set('facs', facsValue);
