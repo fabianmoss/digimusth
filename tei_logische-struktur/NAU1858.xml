@@ -1523,7 +1523,7 @@
             	<lb facs="#facs_25_r2l2" n="N001"/>woraus sich folgende <rs ana="#concept_phy">Reihe</rs> von <rs ana="#concept_phy">Differenzen</rs> ergiebt:
 			</p>
             <p facs="#facs_25_TextRegion_1611337193584_2692">
-				<lb facs="#facs_25_line_1611337348791_2779" n="N001"/>Die <rs ana="#concept_phy">Summe</rs> derselben (<formula notation="tex">$24.\frac{{8}{24}$</formula>) ist <formula notation="tex">$=s$</formula>; <formula notation="tex">$\frac{8}{24}=3^n.2^x$</formula>, und die <rs ana="#concept_phy">Zahlenreihe</rs>: 3, 3, 2, 4,
+				<lb facs="#facs_25_line_1611337348791_2779" n="N001"/>Die <rs ana="#concept_phy">Summe</rs> derselben (<formula notation="tex">$24.\frac{8}{24}$</formula>) ist <formula notation="tex">$=s$</formula>; <formula notation="tex">$\frac{8}{24}=3^n.2^x$</formula>, und die <rs ana="#concept_phy">Zahlenreihe</rs>: 3, 3, 2, 4,
 				<lb facs="#facs_25_r2l12" n="N002"/>4, 5, 3 stellt sich überhaupt als eine Charakteristische für die <rs ana="#concept_phy">absoluten Schwingungsdifferenzen</rs>
 				<lb facs="#facs_25_r2l13" n="N003"/>in der <rs ana="#m_tonality">Durscala</rs> heraus. —
 			</p>
@@ -1533,7 +1533,7 @@
 				<lb facs="#facs_25_r2l16" n="N003"/>dene allgemeine Form der <rs ana="#concept_phy">Differenzreihe</rs> der <rs ana="#concept_phy">absoluten Schwingungszahlen</rs> (<formula notation="tex">$3.\frac{8}{24}$</formula> u. s. w.) gilt
 				<lb facs="#facs_25_line_1611337374417_2812" n="N004"/>dann zwar auch für diese neuen <rs ana="#m_tonality">Scalen</rs>, aber <formula notation="tex">$\frac{8}{24}$</formula> ist nicht mehr <formula notation="tex">$=3^n.2^x$</formula>, sondern <formula notation="tex">$5.3^n.2^x$</formula>,
 				<lb facs="#facs_25_line_1611337382108_2823" n="N005"/>oder (für <rs ana="#m_tonality">Durscalen</rs> der als <rs ana="#m_interval">kl. III</rs> und <rs ana="#m_interval">kl. VI</rs> in der <rs ana="#m_tonality">Molltonleiter</rs> vorkommenden <rs ana="#m_note">Töne</rs>) <formula notation="tex">$=\frac{3^n.2^x}{5}$</formula>.
-				<lb facs="#facs_25_line_1611337392977_2837" n="N006"/>So ist z. B. <formula notation="tex">$3.\rac{8}{24}$</formula> für:
+				<lb facs="#facs_25_line_1611337392977_2837" n="N006"/>So ist z. B. <formula notation="tex">$3.\frac{8}{24}$</formula> für:
 			</p>
          <figure facs="#facs_25_Graphic_1619103005025_205">
                <graphic url="graphic/facs_25_Graphic_1619103005025_205.png"/>
@@ -1588,7 +1588,7 @@
 				<lb facs="#facs_27_r1l76" n="N002"/><rs ana="#m_note">Tönen</rs> beschränkten Uebersicht zeigt es sich, dass einem in der <rs ana="#concept_mus">Musik</rs> gleichbenannten <rs ana="#m_note">Tone</rs>,
 				<lb facs="#facs_27_r1l77" n="N003"/>je nachdem er der einen oder der anderen <rs ana="#m_tonality">Tonart</rs> angehört, verschiedene <rs ana="#concept_phy">relative Schwingungs<pc>¬</pc></rs>
            	 <pb facs="#facs_28" n="13"/>
-            	<lb facs="#facs_28_line_1611341092957_3109" n="N001"/><rs ana="#concept_phy">zahlen</rs> zukommen, z. B. dem <rs ana="#m_note">Tone</rs><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">D</rs></hi>: <formula notation="tex">$\frac{8}{9}$</formula> und <formula notation="tex">$\rac{10}{9}$</formula>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">A</rs></hi>: <formula notation="tex">$\frac{5}{3}$</formula> und <formula notation="tex">$\frac{27}{16}$</formula>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">E</rs></hi>: <formula notation="tex">$\frac{5}{4}$</formula> und <formula notation="tex">$\frac{81}{64}$</formula>, <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">B</hi></rs>: <formula notation="tex">$\frac{16}{9}$</formula> und <formula notation="tex">$\frac{9}{5}$</formula>,
+            	<lb facs="#facs_28_line_1611341092957_3109" n="N001"/><rs ana="#concept_phy">zahlen</rs> zukommen, z. B. dem <rs ana="#m_note">Tone</rs><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">D</rs></hi>: <formula notation="tex">$\frac{8}{9}$</formula> und <formula notation="tex">$\frac{10}{9}$</formula>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">A</rs></hi>: <formula notation="tex">$\frac{5}{3}$</formula> und <formula notation="tex">$\frac{27}{16}$</formula>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">E</rs></hi>: <formula notation="tex">$\frac{5}{4}$</formula> und <formula notation="tex">$\frac{81}{64}$</formula>, <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">B</hi></rs>: <formula notation="tex">$\frac{16}{9}$</formula> und <formula notation="tex">$\frac{9}{5}$</formula>,
 				<lb facs="#facs_28_r1l4" n="N002"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">Es</rs></hi>: <formula notation="tex">$\frac{6}{5}$</formula> und <formula notation="tex">$\frac{32}{27}$</formula>. Es ist nun offenbar, um eine klare Uebersicht über die verschiedenen <rs ana="#m_interval">Intervalle</rs>
 				<lb facs="#facs_28_r1l5" n="N003"/>zu gewinnen, das Zweckmässigste, diese an <rs ana="#concept_phy">Höhe</rs> wirklich ungleichen <rs ana="#concept_phy">akustischen Bestimmungen</rs>
 				<lb facs="#facs_28_r1l6" n="N004"/>desselben <rs ana="#m_note">Tones</rs> auch äusserlich durch eine passende Bezeichnung zu unterscheiden. Die <rs ana="#m_note">Grund<pc>¬</pc>
