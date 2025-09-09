@@ -868,7 +868,7 @@
 				<lb facs="#facs_12_r1l15" n="N009"/>potrà sempre essere cagione di errore.”
             		</quote>
             		<bibl>
-				<lb facs="#facs_12_r1l16" n="N010"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><persName role="author" ref="P0010">Gioseffo Zarlino</persName></hi>, <date when="1559">1559</date>.
+				<lb facs="#facs_12_r1l16" n="N010"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><persName role="author" ref="#P0010">Gioseffo Zarlino</persName></hi>, <date when="1559">1559</date>.
             		</bibl>
             	</cit>
 			</epigraph>
@@ -958,8 +958,8 @@
 				<lb facs="#facs_18_r1l6" n="N006"/>Feststellung aber hat eine <rs ana="#concept_mus">gleichschwebende Temperatur</rs>, selbst
 				<lb facs="#facs_18_r1l7" n="N007"/>in Verbindung mit der <rs ana="#concept_mus">reinen Stimmung</rs>, in welcher z. B. der
 				<lb facs="#facs_18_r1l8" n="N008"/><rs ana="#concept_mus">Sänger</rs> die <rs ana="#m_interval">Terze</rs> oder die <rs ana="#m_interval">Quinte</rs> ertönen läßt, auch das
-				<lb facs="#facs_18_r1l9" n="N009"/>feinste <rs ana="#concept_mus">musikalische Ohr</rs> nicht beleidigen können, denn <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0054">Bach</persName></hi>,
-				<lb facs="#facs_18_r1l10" n="N010"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0008">Haydn</persName></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0015">Mozart</persName></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0016">Beethoven</persName></hi> und fast alle neueren <rs ana="#concept_mus">Meister</rs>
+				<lb facs="#facs_18_r1l9" n="N009"/>feinste <rs ana="#concept_mus">musikalische Ohr</rs> nicht beleidigen können, denn <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="#P0054">Bach</persName></hi>,
+				<lb facs="#facs_18_r1l10" n="N010"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="#P0008">Haydn</persName></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="#P0015">Mozart</persName></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="#P0016">Beethoven</persName></hi> und fast alle neueren <rs ana="#concept_mus">Meister</rs>
 				<lb facs="#facs_18_r1l11" n="N011"/>haben vorzugsweise das <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">temperirte</rs></hi> <rs ana="#concept_mus">Clavier</rs> mit und ohne
 				<lb facs="#facs_18_r1l12" n="N012"/><rs ana="#concept_mus">Begleitung</rs> von <rs ana="#concept_mus">Gesangstimmen</rs> oder <rs ana="#concept_mus">Instrumenten</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">untem<pc>¬</pc></rs></hi>
 				<lb facs="#facs_18_r1l13" n="N013"/><rs ana="#concept_mus"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">perirter</hi> Stimmung</rs> gewählt, um ihre <rs ana="#concept_mus">Tondichtungen</rs> zu Ge<pc>¬</pc>
@@ -1037,8 +1037,8 @@
 				<lb facs="#facs_19_r1l38" n="N018"/>kungsvoll angewendet werden. Ich erinnere hier nur an der<pc>¬</pc>
 				<lb facs="#facs_19_r1l39" n="N019"/>gleichen <rs ana="#concept_mus">Octavenparallelen</rs> des <rs ana="#concept_mus">vierstimmigen</rs> <rs ana="#concept_mus">Canons</rs> in
             	<pb facs="#facs_20" n="5"/>
-            	<lb facs="#facs_20_r1l1" n="N001"/><persName role="composer" ref="P0016"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Beethoven</hi>'s</persName> „<title ana="#music" ref="W0103">Fidelio</title>” und an die <rs ana="#concept_mus">Verdopplungen</rs> einer da<pc>¬</pc>
-				<lb facs="#facs_20_r1l2" n="N002"/>durch mächtig hervortretenden <rs ana="#concept_mus">Melodie</rs> in <persName role="composer" ref="P0046"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Liszt</hi>'schen</persName> <rs ana="#concept_mus">Com<pc>¬</pc>
+            	<lb facs="#facs_20_r1l1" n="N001"/><persName role="composer" ref="#P0016"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Beethoven</hi>'s</persName> „<title ana="#music" ref="#W0103">Fidelio</title>” und an die <rs ana="#concept_mus">Verdopplungen</rs> einer da<pc>¬</pc>
+				<lb facs="#facs_20_r1l2" n="N002"/>durch mächtig hervortretenden <rs ana="#concept_mus">Melodie</rs> in <persName role="composer" ref="#P0046"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Liszt</hi>'schen</persName> <rs ana="#concept_mus">Com<pc>¬</pc>
 				<lb facs="#facs_20_r1l3" n="N003"/>positionen</rs>.
 			</p>
             <p facs="#facs_20_TextRegion_1614088381676_840">
@@ -1063,7 +1063,7 @@
 				<lb facs="#facs_20_r1l20" n="N012"/>unsere anerkanntesten <rs ana="#concept_mus">praktischen Meister</rs> haben sich die Frei<pc>¬</pc>
 				<lb facs="#facs_20_r1l21" n="N013"/>heit genommen, <rs ana="#m_interval">Quinten</rs> in <rs ana="#concept_mus">stufen-</rs> oder <rs ana="#concept_mus">sprungweiser</rs> <rs ana="#concept_mus">Folge</rs>
 				<lb facs="#facs_20_r1l22" n="N014"/>auftreten zu lassen. Statt vieler Beispiele hier nur das folgende:
-				<lb facs="#facs_20_r1l23" n="N015"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><persName role="composer" ref="P0016">Beethoven</persName></hi>, <title ana="#music" ref="W0104">Son. Op. 53</title>.
+				<lb facs="#facs_20_r1l23" n="N015"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><persName role="composer" ref="#P0016">Beethoven</persName></hi>, <title ana="#music" ref="#W0104">Son. Op. 53</title>.
 			</p>
             <p facs="#facs_20_TextRegion_1614088366227_832 #facs_21_TextRegion_1614088598979_957">
 				<lb facs="#facs_20_r1l24" n="N001"/>Die neuere <rs ana="#concept_mus">musikalische Grammatik</rs> kann also ohne Be<pc>¬</pc>
@@ -1632,7 +1632,7 @@
 				<lb facs="#facs_38_r1l11" n="N009"/>bringende Stimmung rechtfertigen, in welcher die Leidenschaft
 				<lb facs="#facs_38_r1l12" n="N010"/>dem Verstande vorauseilt, oder der Eigensinn sich nicht der
 				<lb facs="#facs_38_r1l13" n="N011"/>herkömmlichen Sitte fügen will. Ein interessantes Beispiel
-				<lb facs="#facs_38_r1l14" n="N012"/>hierzu hat <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0043">Schumann</persName></hi> in seinen <title ana="#music" ref="W0105">Kreisleriana</title> geliefert.
+				<lb facs="#facs_38_r1l14" n="N012"/>hierzu hat <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="#P0043">Schumann</persName></hi> in seinen <title ana="#music" ref="#W0105">Kreisleriana</title> geliefert.
 			</p>
          <notatedMusic rend="MEI" facs="#facs_38_Music_1614093442362_2648" source="facs_38_Music_1614093442362_2648.mei"><desc>MUSIK</desc></notatedMusic>
          </div>
@@ -1963,7 +1963,7 @@
 				<lb facs="#facs_51_r1l3" n="N002"/>aufgestellten Fragen, die Antwort schuldig bleiben können,
 				<lb facs="#facs_51_r1l4" n="N003"/>wenn dieselbe nur in dem Folgenden <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">verdeckt</rs></hi> enthalten ist,
 				<lb facs="#facs_51_r1l5" n="N004"/>wie hier z. B.
-				<lb facs="#facs_51_r1l6" n="N005"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><persName role="composer" ref="P0046">F. Liszt</persName></hi>, <title ana="#music" ref="W0106">Huldigungs-Marsch</title>.
+				<lb facs="#facs_51_r1l6" n="N005"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><persName role="composer" ref="#P0046">F. Liszt</persName></hi>, <title ana="#music" ref="#W0106">Huldigungs-Marsch</title>.
 				<notatedMusic rend="MEI" facs="#facs_51_Music_1614165644332_749" source="facs_51_Music_1614165644332_749.mei"><desc>MUSIK</desc></notatedMusic>
             	<lb facs="#facs_51_line_1614165708737_788" n="N001"/>wo dem <rs ana="#m_chord">Dominantseptimenaccorde</rs> <rs ana="#m_chord">c e g b</rs> die <rs ana="#concept_mus">Auflösung</rs> in
 				<lb facs="#facs_51_r1l21" n="N002"/>den <rs ana="#m_chord">F dur-Dreiklang</rs>, dem <rs ana="#m_chord">verminderten Septimenaccorde</rs> <rs ana="#m_chord">gis</rs>
@@ -2299,13 +2299,13 @@
             	<lb facs="#facs_65_r1l2" n="N001"/>gebrochen erscheinen und sogar durch <rs ana="#concept_mus">Vorschläge</rs> und <rs ana="#m_note">Durch<pc>¬</pc>
 				<lb facs="#facs_65_r1l3" n="N002"/>gangstöne</rs> noch <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">verziert</rs></hi> werden, wodurch sodann ein <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">haltendes</rs></hi>
 				<lb facs="#facs_65_r1l4" n="N003"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Motiv</rs></hi> oder eine besondere Art von <rs ana="#concept_mus">Basso ostinato</rs> entsteht,
-				<lb facs="#facs_65_r1l5" n="N004"/>wie ihn namentlich <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0046">Liszt</persName></hi> in neuerer Zeit mit großer Kühnheit
+				<lb facs="#facs_65_r1l5" n="N004"/>wie ihn namentlich <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="#P0046">Liszt</persName></hi> in neuerer Zeit mit großer Kühnheit
 				<lb facs="#facs_65_r1l6" n="N005"/>in Wirksamkeit gesetzt hat; z. B. in dem vorletzten <rs ana="#concept_mus">Tempo</rs> der
-				<lb facs="#facs_65_r1l7" n="N006"/>großen, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0043">Robert Schumann</persName></hi> gewidmeten <title ana="#music" ref="W0107">Sonate</title>. Endlich
-				<lb facs="#facs_65_r1l8" n="N007"/>giebt uns <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0054">Sebastian Bach</persName></hi> in einer <title ana="#music" ref="W0108">Sarabande der E moll-</title>
-				<lb facs="#facs_65_r1l9" n="N008"/><title ana="#music" ref="W0108">Suite, Exercices Op. I, Part. 6</title>, <placeName>Vienne</placeName>, Hoffmeister et C.
-				<lb facs="#facs_65_r1l10" n="N009"/>(s. unten bei 1), und nach ihm <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0016">Beethoven</persName></hi> in seiner <title ana="#music" ref="W0059">neunten</title>
-				<lb facs="#facs_65_r1l11" n="N010"/><title ana="#music" ref="W0059">Symphonie</title>, freilich vor den Worten: O Freunde, nicht diese
+				<lb facs="#facs_65_r1l7" n="N006"/>großen, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="#P0043">Robert Schumann</persName></hi> gewidmeten <title ana="#music" ref="#W0107">Sonate</title>. Endlich
+				<lb facs="#facs_65_r1l8" n="N007"/>giebt uns <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="#P0054">Sebastian Bach</persName></hi> in einer <title ana="#music" ref="#W0108">Sarabande der E moll-</title>
+				<lb facs="#facs_65_r1l9" n="N008"/><title ana="#music" ref="#W0108">Suite, Exercices Op. I, Part. 6</title>, <placeName ref="#L0033">Vienne</placeName>, Hoffmeister et C.
+				<lb facs="#facs_65_r1l10" n="N009"/>(s. unten bei 1), und nach ihm <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="#P0016">Beethoven</persName></hi> in seiner <title ana="#music" ref="#W0059">neunten</title>
+				<lb facs="#facs_65_r1l11" n="N010"/><title ana="#music" ref="#W0059">Symphonie</title>, freilich vor den Worten: O Freunde, nicht diese
 				<lb facs="#facs_65_r1l12" n="N011"/>Töne! sogar das Beispiel von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">drei</hi> gleichzeitigen <rs ana="#m_note">Haltetönen</rs>:
             	<notatedMusic rend="MEI" facs="#facs_65_Music_1614168448956_2017" source="facs_65_Music_1614168448956_2017.mei"><desc>MUSIK</desc></notatedMusic>
 			</p>
@@ -2394,8 +2394,8 @@
 				<lb facs="#facs_70_r1l7" n="N005"/>in Anspruch nehmen soll, ist der Gegenstand der ihm folgenden
 				<lb facs="#facs_70_r1l8" n="N006"/>Besprechung und wird als Hauptsache auch die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_tonality">Haupttonart</rs></hi>
 				<lb facs="#facs_70_r1l9" n="N007"/>in Anspruch nehmen; doch kann das <rs ana="#concept_mus">Tonstück</rs> auch mit einer
-				<lb facs="#facs_70_r1l10" n="N008"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Einleitung</rs></hi> beginnen, wie z. B. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0016">Beethoven</persName></hi>'s <title ana="#music" ref="W0008">erste Sym<pc>¬</pc></title>
-				<lb facs="#facs_70_r1l11" n="N009"/><title ana="#music" ref="W0008">phonie</title>, durch welche der Zuhörer längere Zeit in Ungewißheit
+				<lb facs="#facs_70_r1l10" n="N008"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Einleitung</rs></hi> beginnen, wie z. B. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="#P0016">Beethoven</persName></hi>'s <title ana="#music" ref="#W0008">erste Sym<pc>¬</pc></title>
+				<lb facs="#facs_70_r1l11" n="N009"/><title ana="#music" ref="#W0008">phonie</title>, durch welche der Zuhörer längere Zeit in Ungewißheit
 				<lb facs="#facs_70_r1l12" n="N010"/>über <rs ana="#concept_mus">Thema</rs> und <rs ana="#m_tonality">Tonart</rs> gehalten wird. Unsere heutige <rs ana="#m_tonality">Dur</rs>-
 				<lb facs="#facs_70_r1l13" n="N011"/>oder <rs ana="#m_tonality">Moll-Tonart</rs> bildet nun ihre <rs ana="#concept_mus">Melodien</rs> und <rs ana="#concept_mus">Harmonien</rs>
 				<lb facs="#facs_70_r1l14" n="N012"/>nicht einzig und allein aus ihren sieben <rs ana="#m_note">Stammtönen</rs>, sondern
@@ -2551,7 +2551,7 @@
 				<lb facs="#facs_75_r1l9" n="N008"/>ais eine <rs ana="#concept_mus">harmonische Bedeutung</rs> zu geben versucht.
             	<notatedMusic rend="MEI" facs="#facs_75_Music_1614169816413_2884" source="facs_75_Music_1614169816413_2884.mei"><desc>MUSIK</desc></notatedMusic>
             	<lb facs="#facs_75_r1l25" n="N001"/>Die ältere <rs ana="#concept_mus">Theorie</rs> muß demnach die untenstehenden Beispiele
-				<lb facs="#facs_75_r1l26" n="N002"/>von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0016">Beethoven</persName></hi> und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="P0007">Hauptmann</persName></hi> gänzlich verwerfen, weil
+				<lb facs="#facs_75_r1l26" n="N002"/>von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="#P0016">Beethoven</persName></hi> und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="#P0007">Hauptmann</persName></hi> gänzlich verwerfen, weil
 				<lb facs="#facs_75_r1l27" n="N003"/>sie nicht im Stande ist, die hier zusammentreffenden <rs ana="#m_note">Töne</rs> <rs ana="#m_chord">as,</rs>
 				<lb facs="#facs_75_r1l28" n="N004"/><rs ana="#m_chord">cis, e</rs> bei 1 und ebenso die bei 2: <rs ana="#m_chord">c, eis, gis, h, d</rs> in irgend
 				<lb facs="#facs_75_r1l29" n="N005"/>eine <rs ana="#concept_mus">Beziehung</rs> mit den <rs ana="#concept_mus">Harmonien</rs> einer und derselben <rs ana="#m_tonality">Tonart</rs>
@@ -2574,7 +2574,7 @@
 			</p>
          <pb facs="#facs_76" n="61"/>
             <p facs="#facs_76_r2">
-				<lb facs="#facs_76_r2l1" n="N001"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><persName role="composer" ref="P0016">Beethoven</persName></hi>, <title ana="#music" ref="W0109">Op. 13</title>.
+				<lb facs="#facs_76_r2l1" n="N001"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><persName role="composer" ref="#P0016">Beethoven</persName></hi>, <title ana="#music" ref="#W0109">Op. 13</title>.
 			</p>
          <pb facs="#facs_77" n="62"/>
          <notatedMusic rend="MEI" facs="#facs_77_Music_1614170477677_3023" source="facs_77_Music_1614170477677_3023.mei"><desc>MUSIK</desc></notatedMusic>
