@@ -30,7 +30,7 @@ $(document).on('click', '.clickable', function() {
                 //const facsParam = r.p_facs ? '#facs=' + encodeURIComponent(r.p_facs) : '';
                 //const queryParam = '&q=' + encodeURIComponent(query);
                 var highlightedKWIC = r.kwic.replace(new RegExp(query, 'gi'), '<mark>$&</mark>');
-                container.append('<div class="xml-result"><p>'+highlightedKWIC+' <a href="'+link + '">View full 🡵</a></p></div>');
+                container.append('<div class="xml-result"><p>'+highlightedKWIC+' <a href="'+link + '">View full ↗</a></p></div>');
 
             });
             }

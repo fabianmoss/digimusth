@@ -173,14 +173,14 @@ toc_exclude: true
             <h3>
               <em>${meta.author ? meta.author + ": " : ""}</em>
               ${meta.title} ${meta.year ? `(${meta.year})` : ""}
-              <a href="${link}" target="_blank">🡵</a>
+              <a href="${link}" target="_blank">↗</a>
             </h3>
             <!--<p><em>${source}</em></p>-->
           `;
         } else {
           resultContainer.innerHTML += `
             <h2>
-              ${source} <a href="${link}" target="_blank">🡵</a>
+              ${source} <a href="${link}" target="_blank">↗</a>
             </h2>
           `;
         }
@@ -201,7 +201,7 @@ toc_exclude: true
           const facsLink = `${link}#${hashParams.toString()}`;
 
             resultContainer.innerHTML += `
-            <div class="xml-result"><p>...${highlighted}... <a href="${facsLink}">View full 🡵</a></p></div>`;
+            <div class="xml-result"><p>...${highlighted}... <a href="${facsLink}">View full ↗</a></p></div>`;
 
         
         });
