@@ -65,12 +65,12 @@ Janina Marie Roth is a student of Digital Humanities and English Studies at the 
 
 </table>
 
-
+<br/>
 
 <h2>Acknowledgments</h2>
 <div>
 We thank Felicitas Stickler for her preliminary work studies that have majorly helped the implementation of this project.</div>
 
-
+<br/>
 <h2>Credits</h2>
 <div>The page is built on the Jekyll based theme <a href="https://github.com/minicomp/ed">Ed</a>.</div>
