@@ -360,3 +360,11 @@ margin:auto;}
     line-height: 1;              
     display: block;              
 }
+
+
+
+/*team page css*/
+td {
+  border: 0; 
+  text-align: center;
+}
