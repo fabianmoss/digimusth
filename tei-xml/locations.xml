@@ -68,7 +68,7 @@
 				<idno type="GND">https://reconcile.gnd.network/gnd/4015240-6</idno>
 			</place>
 			<place xml:id="L0014">
-				<placeName>europaischen</placeName>
+				<placeName>europäischen</placeName>
 			</place>
 			<place xml:id="L0015">
 				<placeName>Frankfurt am Main</placeName>
@@ -95,7 +95,7 @@
 				<idno type="GND">https://reconcile.gnd.network/gnd/4028557-1</idno>
 			</place>
 			<place xml:id="L0021">
-				<placeName>Koln</placeName>
+				<placeName>Köln</placeName>
 				<idno type="GND">https://reconcile.gnd.network/gnd/4031483-2</idno>
 			</place>
 			<place xml:id="L0022">
@@ -110,11 +110,11 @@
 				<placeName>Munster</placeName>
 			</place>
 			<place xml:id="L0025">
-				<placeName>Nordlingen</placeName>
+				<placeName>Nördlingen</placeName>
 				<idno type="GND">https://reconcile.gnd.network/gnd/4042434-0</idno>
 			</place>
 			<place xml:id="L0026">
-				<placeName>Osnabruck</placeName>
+				<placeName>Osnabrück</placeName>
 				<idno type="GND">https://reconcile.gnd.network/gnd/4043974-4</idno>
 			</place>
 			<place xml:id="L0027">
