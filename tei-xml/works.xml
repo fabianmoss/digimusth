@@ -25,19 +25,19 @@
         <idno type="wikidata">https://www.wikidata.org/wiki/Q42193793</idno>
       </bibl>
       <bibl xml:id="W0002">
-        <title level="m">Ãœber Zeiteinheit in Bezug auf Konsonanz, Harmonie und TonalitÃ¤t</title>
+        <title level="m">Über Zeiteinheit in Bezug auf Konsonanz, Harmonie und Tonalität</title>
         <author>
           <name ref="./people.xml#P0004" type="person">A. J. Polak</name>
         </author>
       </bibl>
       <bibl xml:id="W0003">
-        <title level="m">Ãœber Tonrhythmik und StimmenfÃ¼hrung</title>
+        <title level="m">Über Tonrhythmik und Stimmenführung</title>
         <author>
           <name ref="./people.xml#P0004" type="person">A. J. Polak</name>
         </author>
       </bibl>
       <bibl xml:id="W0004">
-        <title level="m">DieÂ Natur der Harmonik und der Metrik: zur Theorie der Musik (Hauptmann)</title>
+        <title level="m">Die Natur der Harmonik und der Metrik: zur Theorie der Musik (Hauptmann)</title>
         <author>
           <name ref="./people.xml#P0007" type="person">Moritz Hauptmann</name>
         </author>
@@ -69,13 +69,13 @@
         <idno type="wikidata">https://www.wikidata.org/wiki/Q163493</idno>
       </bibl>
       <bibl xml:id="W0009">
-        <title level="m">Das Problem des harmonischen Dualismus Ein Beitrag zur Ã„sthetik der Musik</title>
+        <title level="m">Das Problem des harmonischen Dualismus Ein Beitrag zur Ästhetik der Musik</title>
         <author>
           <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
         </author>
       </bibl>
       <bibl xml:id="W0010">
-        <title level="j">Neue Zeitschrift fÃ¼r Musik</title>
+        <title level="j">Neue Zeitschrift für Musik</title>
         <idno type="wikidata">https://www.wikidata.org/wiki/Q683159</idno>
         <note>journal</note>
       </bibl>
@@ -92,7 +92,7 @@
         </author>
       </bibl>
       <bibl xml:id="W0013">
-        <title level="m">Elemente der musikalischen Ã„sthetik (Riemann)</title>
+        <title level="m">Elemente der musikalischen Ästhetik (Riemann)</title>
         <author>
           <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
         </author>
@@ -104,7 +104,7 @@
         </author>
       </bibl>
       <bibl xml:id="W0015">
-        <title level="m">TraitÃ© de l'harmonie rÃ©duite Ã  ses principes naturels</title>
+        <title level="m">Traité de l'harmonie réduite à  ses principes naturels</title>
         <author>
           <name ref="./people.xml#P0005" type="person">Jean-Philippe Rameau</name>
         </author>
@@ -135,13 +135,13 @@
         </author>
       </bibl>
       <bibl xml:id="W0020">
-        <title level="m">Die beiden Tongeschlechter und die neuere Musikalische Theorie (ThÃ¼rlings 1877)</title>
+        <title level="m">Die beiden Tongeschlechter und die neuere Musikalische Theorie (Thürlings 1877)</title>
         <author>
           <name ref="./people.xml#P0030" type="person">Adolf Thürlings</name>
         </author>
       </bibl>
       <bibl xml:id="W0021">
-        <title level="m">HostinskÃ½ 1879</title>
+        <title level="m">Hostinský 1879</title>
         <author>
           <name ref="./people.xml#P0003" type="person">Otakar Hostinský</name>
         </author>
@@ -159,7 +159,7 @@
         </author>
       </bibl>
       <bibl xml:id="W0024">
-        <title level="m">Geschichte der Ã„sthetik in Deutschland (Lotze)</title>
+        <title level="m">Geschichte der Ästhetik in Deutschland (Lotze)</title>
         <author>
           <name ref="./people.xml#P0033" type="person">Hermann Lotze</name>
         </author>
@@ -202,7 +202,7 @@
         </author>
       </bibl>
       <bibl xml:id="W0031">
-        <title level="m">Die Freiheit oder Unfreiheit der TÃ¶ne und Intervalle [Capellen] (&quot;Teil 2&quot;)</title>
+        <title level="m">Die Freiheit oder Unfreiheit der Töne und Intervalle [Capellen] (&quot;Teil 2&quot;)</title>
         <author>
           <name ref="./people.xml#P0006" type="person">Georg Capellen</name>
         </author>
@@ -243,11 +243,11 @@
         </author>
       </bibl>
       <bibl xml:id="W0038">
-        <title level="m">Vorlesung Ã¼ber die Geschichte der Harmonie und ihrer Lehre (Weitzmann)</title>
+        <title level="m">Vorlesung über die Geschichte der Harmonie und ihrer Lehre (Weitzmann)</title>
         <author>
           <name ref="./people.xml#P0041" type="person">Carl Friedrich Weitzmann</name>
         </author>
-        <note>welche in den vier ersten Nummern des 51. Bandes der â€žNeuen Zeitschrift fÃ¼r Musikâ€ (Leipzig bei Kahnt) nachzusehen ist\nW0039\tHarmoniesystem (Weitzmann 1860 Preisschrift)\tP0041\t\nW0040\t[Selmar Bagge, Kritik in der] Deutschen Musikzeitung No. 30 und 31\tP0047\t\nW0041\tC dur-Quartetts (Mozart) &quot;Dissonanz&quot;</note>
+        <note>welche in den vier ersten Nummern des 51. Bandes der &quot;Neuen Zeitschrift für Musik&quot; (Leipzig bei Kahnt) nachzusehen ist\nW0039\tHarmoniesystem (Weitzmann 1860 Preisschrift)\tP0041\t\nW0040\t[Selmar Bagge, Kritik in der] Deutschen Musikzeitung No. 30 und 31\tP0047\t\nW0041\tC dur-Quartetts (Mozart) &quot;Dissonanz&quot;</note>
       </bibl>
       <bibl xml:id="W0042">
         <title level="m">Theorie der Tonsetzkunst (G. Weber)</title>
@@ -294,22 +294,22 @@
         <author>
           <name ref="./people.xml#P0015" type="person">Wolfgang Amadeus Mozart</name>
         </author>
-        <note>Kunkel: &quot;Aria: SchmÃ¤le, schmÃ¤le, lieber Junge&quot;</note>
+        <note>Kunkel: &quot;Aria: Schmäle, schmäle, lieber Junge&quot;</note>
       </bibl>
       <bibl xml:id="W0049">
-        <title level="m">AlbumblÃ¤tter zur Emancipation der Quinten (Weitzmann)</title>
+        <title level="m">Albumblätter zur Emancipation der Quinten (Weitzmann)</title>
         <author>
           <name ref="./people.xml#P0041" type="person">Carl Friedrich Weitzmann</name>
         </author>
       </bibl>
       <bibl xml:id="W0050">
-        <title level="m">Systematische Einleitung in die musikalische Setzkunst nach den LehrsÃ¤tzen des Herrn Rameau (d'Alembert, Ã¼bers. Marpurg)</title>
+        <title level="m">Systematische Einleitung in die musikalische Setzkunst nach den Lehrsätzen des Herrn Rameau (d'Alembert, übers. Marpurg)</title>
         <author>
           <name ref="./people.xml#P0011" type="person">Jean Le Rond d' Alembert</name>
         </author>
       </bibl>
       <bibl xml:id="W0051">
-        <title level="m">fÃ¼nfstimmigen Madrigale (Monteverdi)</title>
+        <title level="m">fünfstimmigen Madrigale (Monteverdi)</title>
         <author>
           <name ref="./people.xml#P0052" type="person">Claudio Monteverdi</name>
         </author>
@@ -370,19 +370,19 @@
         <idno type="wikidata">https://www.wikidata.org/wiki/Q11989</idno>
       </bibl>
       <bibl xml:id="W0060">
-        <title level="m">Musikalische Briefe von Dr. Eduard KrÃ¼ger. MÃ¼nster, 1870</title>
+        <title level="m">Musikalische Briefe von Dr. Eduard Krüger. Münster, 1870</title>
         <author>
           <name ref="./people.xml#P0055" type="person">Eduard Krüger</name>
         </author>
       </bibl>
       <bibl xml:id="W0061">
-        <title level="m">Ã„sthetik (Vischer)</title>
+        <title level="m">Ästhetik (Vischer)</title>
         <author>
           <name ref="./people.xml#P0056" type="person"/>
         </author>
       </bibl>
       <bibl xml:id="W0062">
-        <title level="m">â€žWider die feurigen Kapellmeisterâ€ Aufsatz in: â€žA. Allg. Ztg.â€œ Beilage Nro. 6 vom 6. Jan. 1875 (auch abgedruckt in der Allg. Mus. Ztg., 1875, Nro. 6 und 7)</title>
+        <title level="m">&quot;Wider die feurigen Kapellmeister&quot; Aufsatz in: &quot;A. Allg. Ztg.&quot; Beilage Nro. 6 vom 6. Jan. 1875 (auch abgedruckt in der Allg. Mus. Ztg., 1875, Nro. 6 und 7)</title>
         <note>author to be researched</note>
       </bibl>
       <bibl xml:id="W0063">
@@ -392,13 +392,13 @@
         </author>
       </bibl>
       <bibl xml:id="W0064">
-        <title level="m">â€žDie harmonikale Symbolik des Altertums, Erste Abteilung. Die esoterische Zalenlehre der Pythagoreer in ihrer Beziehung zu Ã¤lteren griechischen und morgenlÃ¤ndischen Quellen, insbesondere zur altsemitisch-hebrÃ¤ischen Ueberlieferungâ€. KÃ¶ln, 1868. (A. v. Thimus)</title>
+        <title level="m">&quot;Die harmonikale Symbolik des Altertums, Erste Abteilung. Die esoterische Zalenlehre der Pythagoreer in ihrer Beziehung zu älteren griechischen und morgenländischen Quellen, insbesondere zur altsemitisch-hebräischen Ueberlieferung&quot;. Köln, 1868. (A. v. Thimus)</title>
         <author>
           <name ref="./people.xml#P0063" type="person">Albert von Thimus</name>
         </author>
       </bibl>
       <bibl xml:id="W0065">
-        <title level="m">Die GrundzÃ¼ge der esoterischen Harmonik des Altertums, im Anschlusse an die Schrift des Freiherrn A. v. Thimus Ã¼ber die harmonikale Symbolik des Altertums (Dr. Richard Hasenclever)</title>
+        <title level="m">Die Grundzüge der esoterischen Harmonik des Altertums, im Anschlusse an die Schrift des Freiherrn A. v. Thimus über die harmonikale Symbolik des Altertums (Dr. Richard Hasenclever)</title>
         <author>
           <name ref="./people.xml#P0064" type="person">Richard Hasenclever</name>
         </author>
@@ -408,33 +408,33 @@
         <note>journal</note>
       </bibl>
       <bibl xml:id="W0067">
-        <title level="j">GÃ¤a (Zeitschrift, anscheinend)</title>
+        <title level="j">Gäa (Zeitschrift, anscheinend)</title>
         <note>journal</note>
       </bibl>
       <bibl xml:id="W0068">
         <title level="m">Das heraklitische Prinzip und die heutige Naturforschung</title>
-        <note>? to be researched ; from ThÃ¼rlings</note>
+        <note>? to be researched ; from Thürlings</note>
       </bibl>
       <bibl xml:id="W0069">
-        <title level="m">Die Zukunft der Musiktheorie (Dualismus oder â€žMonismusâ€?) und ihre Einwirkung auf die Praxis (Riemann)</title>
+        <title level="m">Die Zukunft der Musiktheorie (Dualismus oder &quot;Monismus&quot;?) und ihre Einwirkung auf die Praxis (Riemann)</title>
         <author>
           <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
         </author>
       </bibl>
       <bibl xml:id="W0070">
-        <title level="m">GroÃŸe Kompositionslehre (Riemann 1902)</title>
+        <title level="m">Große Kompositionslehre (Riemann 1902)</title>
         <author>
           <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
         </author>
       </bibl>
       <bibl xml:id="W0071">
-        <title level="m">Die UnmÃ¶glichkeit und ÃœberflÃ¼ssigkeit der dualistischen Molltheorie Riemanns (Capellen)</title>
+        <title level="m">Die Unmöglichkeit und Überflüssigkeit der dualistischen Molltheorie Riemanns (Capellen)</title>
         <author>
           <name ref="./people.xml#P0006" type="person">Georg Capellen</name>
         </author>
       </bibl>
       <bibl xml:id="W0072">
-        <title level="m">Die AbhÃ¤ngigkeitsverhÃ¤ltnisse in der Musik (Capellen)</title>
+        <title level="m">Die Abhängigkeitsverhältnisse in der Musik (Capellen)</title>
         <author>
           <name ref="./people.xml#P0006" type="person">Georg Capellen</name>
         </author>
@@ -466,7 +466,7 @@
         </author>
       </bibl>
       <bibl xml:id="W0077">
-        <title level="m">Versuch Ã¼ber die musikalische Temperatur (Marpurg)</title>
+        <title level="m">Versuch über die musikalische Temperatur (Marpurg)</title>
         <author>
           <name ref="./people.xml#P0051" type="person">Friedrich Wilhelm Marpurg</name>
         </author>
@@ -479,7 +479,7 @@
         </author>
       </bibl>
       <bibl xml:id="W0079">
-        <title level="m">ElÃ©mens de musique, thÃ©orique et pratique, suivant les principes de M. Rameau</title>
+        <title level="m">Elémens de musique, théorique et pratique, suivant les principes de M. Rameau</title>
         <author>
           <name ref="./people.xml#P0011" type="person">Jean Le Rond d' Alembert</name>
         </author>
@@ -496,11 +496,11 @@
         <note>medieval piece of music</note>
       </bibl>
       <bibl xml:id="W0082">
-        <title level="m">Ãœber eigentÃ¼mliche bei Natur- und orientalischen KulturvÃ¶lkern vorkommende Tonreihen (L. Riemann)</title>
+        <title level="m">Über eigentümliche bei Natur- und orientalischen Kulturvölkern vorkommende Tonreihen (L. Riemann)</title>
         <author>
           <name ref="./people.xml#P0074" type="person">Ludwig Riemann</name>
         </author>
-        <note>Not Hugo Riemannâ€¦</note>
+        <note>Not Hugo Riemann...</note>
       </bibl>
       <bibl xml:id="W0083">
         <title level="m">Geschichte des Konsonanzbegriffs (Stumpf)</title>
@@ -521,7 +521,7 @@
         </author>
       </bibl>
       <bibl xml:id="W0086">
-        <title level="m">TannhÃ¤user</title>
+        <title level="m">Tannhäuser</title>
         <author>
           <name ref="./people.xml#P0045" type="person">Richard Wagner</name>
         </author>
@@ -585,7 +585,7 @@
         </author>
       </bibl>
       <bibl xml:id="W0096">
-        <title level="m">Abhandlung Ã¼ber Modulation (Rischbieter 1879)</title>
+        <title level="m">Abhandlung über Modulation (Rischbieter 1879)</title>
         <author>
           <name ref="./people.xml#P0084" type="person">Wilhelm Albert Rischbieter</name>
         </author>
@@ -597,13 +597,13 @@
         </author>
       </bibl>
       <bibl xml:id="W0098">
-        <title level="m">Die Symmetrische Umkehrung (H. SchrÃ¶der)</title>
+        <title level="m">Die Symmetrische Umkehrung (H. Schröder)</title>
         <author>
           <name ref="./people.xml#P0071" type="person">Hermann Schroeder</name>
         </author>
       </bibl>
       <bibl xml:id="W0099">
-        <title level="m">Vorlesungen Ã¼ber die Menschen- und Tierseele (Wundt)</title>
+        <title level="m">Vorlesungen über die Menschen- und Tierseele (Wundt)</title>
         <author>
           <name ref="./people.xml#P0086" type="person">Wilhelm Wundt</name>
         </author>
@@ -675,13 +675,13 @@
         </author>
       </bibl>
       <bibl xml:id="W0110">
-        <title level="m">Naumann Dissertation &quot;Ãœber die verschiedenen Bestimmungen der TonverhÃ¤ltnisse&quot; etc.</title>
+        <title level="m">Naumann Dissertation &quot;Über die verschiedenen Bestimmungen der Tonverhältnisse&quot; etc.</title>
         <author>
           <name ref="./people.xml#P0090" type="person">Ernst Naumann</name>
         </author>
       </bibl>
       <bibl xml:id="W0111">
-        <title level="m">Ãœber musikalische Tonbestimmungen und Temperatur (Drobisch 1852)</title>
+        <title level="m">Über musikalische Tonbestimmungen und Temperatur (Drobisch 1852)</title>
         <author>
           <name ref="./people.xml#P0091" type="person">Moritz Wilhelm Drobisch</name>
         </author>
@@ -699,7 +699,7 @@
         </author>
       </bibl>
       <bibl xml:id="W0114">
-        <title level="m">Versuch Ã¼ber die musikalische Temperatur (Marpurg 1776)</title>
+        <title level="m">Versuch über die musikalische Temperatur (Marpurg 1776)</title>
         <author>
           <name ref="./people.xml#P0051" type="person">Friedrich Wilhelm Marpurg</name>
         </author>
@@ -712,7 +712,7 @@
         </author>
       </bibl>
       <bibl xml:id="W0116">
-        <title level="m">Ãœber wissenschaftliche Bestimmung der musikalischen Temperatur (Drobisch)</title>
+        <title level="m">Über wissenschaftliche Bestimmung der musikalischen Temperatur (Drobisch)</title>
         <author>
           <name ref="./people.xml#P0091" type="person">Moritz Wilhelm Drobisch</name>
         </author>
@@ -734,13 +734,13 @@
         <idno type="wikidata">https://www.wikidata.org/wiki/Q2403819</idno>
       </bibl>
       <bibl xml:id="W0119">
-        <title level="m">zur Theorie der Musik (J. N. MÃ¶hring)</title>
+        <title level="m">zur Theorie der Musik (J. N. Möhring)</title>
         <author>
           <name ref="./people.xml#P0095" type="person">Johannes Heinrich Niklas Möhring</name>
         </author>
       </bibl>
       <bibl xml:id="W0120">
-        <title level="m">NachtrÃ¤ge zur Theorie der musikalischen TonverhÃ¤ltnisse (Drobisch)</title>
+        <title level="m">Nachträge zur Theorie der musikalischen Tonverhältnisse (Drobisch)</title>
         <author>
           <name ref="./people.xml#P0091" type="person">Moritz Wilhelm Drobisch</name>
         </author>
@@ -770,19 +770,19 @@
         </author>
       </bibl>
       <bibl xml:id="W0125">
-        <title level="m">Ãœber die Tonlehre (Herbart)</title>
+        <title level="m">Über die Tonlehre (Herbart)</title>
         <author>
           <name ref="./people.xml#P0102" type="person">Johann Friedrich Herbart</name>
         </author>
       </bibl>
       <bibl xml:id="W0126">
-        <title level="m">Ãœber die mathematische Bestimmung der musikalischen Intervalle (Drobisch)</title>
+        <title level="m">Über die mathematische Bestimmung der musikalischen Intervalle (Drobisch)</title>
         <author>
           <name ref="./people.xml#P0091" type="person">Moritz Wilhelm Drobisch</name>
         </author>
       </bibl>
       <bibl xml:id="W0127">
-        <title level="m">historisch-kritische BeitrÃ¤ge Bd. V (Marpurg)</title>
+        <title level="m">historisch-kritische Beiträge Bd. V (Marpurg)</title>
         <author>
           <name ref="./people.xml#P0051" type="person">Friedrich Wilhelm Marpurg</name>
         </author>
@@ -802,7 +802,7 @@
         <idno type="wikidata">https://www.wikidata.org/wiki/Q11349472</idno>
       </bibl>
       <bibl xml:id="W0130">
-        <title level="m">der neuen Aristoxener zerstreute AufsÃ¤tze Ã¼ber das Irrige der musikalischen Arithmetik und das Eitle ihrer Temperaturrechnungen (Sammelband hg. Von Kiesewetter)</title>
+        <title level="m">der neuen Aristoxener zerstreute Aufsätze über das Irrige der musikalischen Arithmetik und das Eitle ihrer Temperaturrechnungen (Sammelband hg. Von Kiesewetter)</title>
       </bibl>
       <bibl xml:id="W0131">
         <title level="m">De musica libri septem</title>
@@ -882,7 +882,7 @@
         </author>
       </bibl>
       <bibl xml:id="W0142">
-        <title level="m">HÃ¼lfsmittel der Modulation (Riemann - Kassel, 1875)</title>
+        <title level="m">Hülfsmittel der Modulation (Riemann - Kassel, 1875)</title>
         <author>
           <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
         </author>
@@ -921,7 +921,7 @@
         </author>
       </bibl>
       <bibl xml:id="W0149">
-        <title level="m">Die objektive Existenz der UntertÃ¶ne in der Schallwelle (Riemann)</title>
+        <title level="m">Die objektive Existenz der Untertöne in der Schallwelle (Riemann)</title>
         <author>
           <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
         </author>
@@ -952,7 +952,7 @@
         </author>
       </bibl>
       <bibl xml:id="W0154">
-        <title level="m">LaocoÃ¶n, an essay on the limits of painting and poetry</title>
+        <title level="m">Laocoön, an essay on the limits of painting and poetry</title>
         <author>
           <name ref="./people.xml#P0126" type="person">Gotthold Ephraim Lessing</name>
         </author>
@@ -983,7 +983,7 @@
         </author>
       </bibl>
       <bibl xml:id="W0159">
-        <title level="m">Die Harmonik der Neuzeit erlÃ¤utert von Dr. F. P. Graf Laurencin.</title>
+        <title level="m">Die Harmonik der Neuzeit erläutert von Dr. F. P. Graf Laurencin.</title>
         <author>
           <name ref="./people.xml#P0130" type="person">Ferdinand Peter Laurencin d'Armond</name>
         </author>
@@ -1014,7 +1014,7 @@
         </author>
       </bibl>
       <bibl xml:id="W0164">
-        <title level="m">Der accordliche Gegensatz und die BegrÃ¼ndung der Skala (Kraushaar)</title>
+        <title level="m">Der accordliche Gegensatz und die Begründung der Skala (Kraushaar)</title>
         <author>
           <name ref="./people.xml#P0133" type="person">Otto Kraushaar</name>
         </author>
@@ -1042,7 +1042,7 @@
         </author>
       </bibl>
       <bibl xml:id="W0169">
-        <title level="m">Ãœbersicht der Schall- und Klanglehre (Chladini)</title>
+        <title level="m">Übersicht der Schall- und Klanglehre (Chladini)</title>
         <author>
           <name ref="./people.xml#P0070" type="person">Ernst Florens Friedrich Chladni</name>
         </author>
@@ -1054,7 +1054,7 @@
         </author>
       </bibl>
       <bibl xml:id="W0171">
-        <title level="m">Anweisung zum GeneralbaÃŸspielen (TÃ¼rk)</title>
+        <title level="m">Anweisung zum Generalbaßspielen (Türk)</title>
         <author>
           <name ref="./people.xml#P0136" type="person">Daniel Gottlob Türk</name>
         </author>
@@ -1066,7 +1066,7 @@
         </author>
       </bibl>
       <bibl xml:id="W0173">
-        <title level="m">Lehrbuch der Tonsetzkunst (AndrÃ©)</title>
+        <title level="m">Lehrbuch der Tonsetzkunst (André)</title>
         <author>
           <name ref="./people.xml#P0140" type="person">Johann Anton André</name>
         </author>
@@ -1078,7 +1078,7 @@
         </author>
       </bibl>
       <bibl xml:id="W0175">
-        <title level="m">Heidelberger JahrbÃ¼cher (G. Weber 1811)</title>
+        <title level="m">Heidelberger Jahrbücher (G. Weber 1811)</title>
         <author>
           <name ref="./people.xml#P0014" type="person">Gottfried Weber</name>
         </author>
@@ -1104,7 +1104,7 @@
         </author>
       </bibl>
       <bibl xml:id="W0179">
-        <title level="m">Der FreischÃ¼tz</title>
+        <title level="m">Der Freischütz</title>
         <author>
           <name ref="./people.xml#P0050" type="person">Carl Maria von Weber</name>
         </author>
@@ -1112,7 +1112,7 @@
         <note>Kunkel: Musik zur Wolfsschlucht-Scene</note>
       </bibl>
       <bibl xml:id="W0180">
-        <title level="m">Compositionslehre (SchÃ¼tze, F. W.)</title>
+        <title level="m">Compositionslehre (Schütze, F. W.)</title>
         <author>
           <name ref="./people.xml#P0145" type="person">Friedrich Wilhelm Schütze</name>
         </author>
@@ -1131,7 +1131,7 @@
         <idno type="wikidata">https://www.wikidata.org/wiki/Q470773</idno>
       </bibl>
       <bibl xml:id="W0183">
-        <title level="m">CosÃ¬ fan tutte</title>
+        <title level="m">Così fan tutte</title>
         <author>
           <name ref="./people.xml#P0015" type="person">Wolfgang Amadeus Mozart</name>
         </author>
@@ -1142,7 +1142,7 @@
         <author>
           <name ref="./people.xml#P0148" type="person">Johann Rudolf Zumsteeg</name>
         </author>
-        <note>mus. Ballade Ã¼ber ein Gedicht von Goethe</note>
+        <note>mus. Ballade über ein Gedicht von Goethe</note>
       </bibl>
       <bibl xml:id="W0185">
         <title level="u">Symphony Nr. ?? (Haydn)</title>
@@ -1172,7 +1172,7 @@
         </author>
       </bibl>
       <bibl xml:id="W0189">
-        <title level="m">Die GrundzÃ¼ge der musikalischen Formen (Richter)</title>
+        <title level="m">Die Grundzüge der musikalischen Formen (Richter)</title>
         <author>
           <name ref="./people.xml#P0080" type="person">Ernst Friedrich Richter</name>
         </author>
@@ -1202,25 +1202,25 @@
         </author>
       </bibl>
       <bibl xml:id="W0194">
-        <title level="j">SÃ¼ddeutsche Musikzeitung</title>
+        <title level="j">Süddeutsche Musikzeitung</title>
         <note>journal</note>
       </bibl>
       <bibl xml:id="W0195">
-        <title level="m">Ueber Preisausschreiben fÃ¼r musikalische Compositionen</title>
-        <note>SÃ¼ddeutsche Musikzeitung Nr 38-39, 1852</note>
+        <title level="m">Ueber Preisausschreiben für musikalische Compositionen</title>
+        <note>Süddeutsche Musikzeitung Nr 38-39, 1852</note>
       </bibl>
       <bibl xml:id="W0196">
-        <title level="m">VorschlÃ¤ge zur Anregung fÃ¼r das Studium der Musiktheorie</title>
-        <note>SÃ¼ddeutsche Musikzeitung Nr 23, 1853</note>
+        <title level="m">Vorschläge zur Anregung für das Studium der Musiktheorie</title>
+        <note>Süddeutsche Musikzeitung Nr 23, 1853</note>
       </bibl>
       <bibl xml:id="W0197">
-        <title level="m">Neues System der Harmonielehre (StÃ¶pel)</title>
+        <title level="m">Neues System der Harmonielehre (Stöpel)</title>
         <author>
           <name ref="./people.xml#P0154" type="person">Franz Stöpel</name>
         </author>
       </bibl>
       <bibl xml:id="W0198">
-        <title level="m">Abhandlung in der Leipziger AMZ 1825 (StÃ¶pel)</title>
+        <title level="m">Abhandlung in der Leipziger AMZ 1825 (Stöpel)</title>
         <author>
           <name ref="./people.xml#P0154" type="person">Franz Stöpel</name>
         </author>
@@ -1287,7 +1287,7 @@
         <idno type="wikidata">https://www.wikidata.org/wiki/Q42190395</idno>
       </bibl>
       <bibl xml:id="W0209">
-        <title level="m">Ueber die Musik der Indier (Jones) Ã¼bers. von Dalberg 1802</title>
+        <title level="m">Ueber die Musik der Indier (Jones) übers. von Dalberg 1802</title>
         <author>
           <name ref="./people.xml#P0163" type="person">William Jones</name>
         </author>
@@ -1304,13 +1304,13 @@
         <note>Finnish Folk Song collection ??</note>
       </bibl>
       <bibl xml:id="W0212">
-        <title level="m">Schottische und Irische Liedbearbeitungen: &quot;Mir trÃ¤umt, ich lag wo Blumen springen&quot; (Beethoven)</title>
+        <title level="m">Schottische und Irische Liedbearbeitungen: &quot;Mir träumt, ich lag wo Blumen springen&quot; (Beethoven)</title>
         <author>
           <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
         </author>
       </bibl>
       <bibl xml:id="W0213">
-        <title level="m">O trÃ¶ste mich Harfe, mit TÃ¶nen von Sorgen (Beethoven)</title>
+        <title level="m">O tröste mich Harfe, mit Tönen von Sorgen (Beethoven)</title>
         <author>
           <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
         </author>
@@ -1334,7 +1334,7 @@
         </author>
       </bibl>
       <bibl xml:id="W0217">
-        <title level="m">TrÃ¼b, trÃ¼b ist mein Auge (Beethoven)</title>
+        <title level="m">Trüb, trüb ist mein Auge (Beethoven)</title>
         <author>
           <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
         </author>
@@ -1352,11 +1352,11 @@
         </author>
       </bibl>
       <bibl xml:id="W0220">
-        <title level="m">Wer nur den lieben Gott lÃ¤ÃŸt walten, BWV 93</title>
+        <title level="m">Wer nur den lieben Gott läßt walten, BWV 93</title>
         <idno type="wikidata">https://www.wikidata.org/wiki/Q1410355</idno>
       </bibl>
       <bibl xml:id="W0221">
-        <title level="m">Choral: HÃ¶chster Priester, der du dich</title>
+        <title level="m">Choral: Höchster Priester, der du dich</title>
       </bibl>
       <bibl xml:id="W0222">
         <title level="m">371 vierstimmige Chorale</title>
@@ -1366,7 +1366,7 @@
         <idno type="wikidata">https://www.wikidata.org/wiki/Q11346142</idno>
       </bibl>
       <bibl xml:id="W0223">
-        <title level="m">Choralbuch fÃ¼r vier MÃ¤nnerstimmen (Brenner)</title>
+        <title level="m">Choralbuch für vier Männerstimmen (Brenner)</title>
         <author>
           <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
         </author>
