@@ -368,3 +368,11 @@ td {
   border: 0; 
   text-align: center;
 }
+
+
+/*index css*/ 
+.letter-heading {
+      font-weight: bold;
+      margin-top: 1em;
+      font-size: 1.2em;
+    }
