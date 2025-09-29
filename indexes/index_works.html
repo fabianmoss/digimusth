@@ -1,0 +1,86 @@
+---
+layout: page
+title: "Works Index"
+toc_exclude: true
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Works Index </title>
+  <style></style>
+</head>
+<body>
+  <div id="letterNav"></div>
+  <ul id="worksList"></ul>
+
+  <script>
+    async function loadXML(url) {
+      const response = await fetch(url);
+      const text = await response.text();
+      return new window.DOMParser().parseFromString(text, "application/xml");
+    }
+
+    function parseTEI(xmlDoc) {
+        const works = [...xmlDoc.querySelectorAll("bibl")];
+        return works.map(p => {
+
+            const id = p.getAttribute("xml:id") || "";
+            const title = p.querySelector("title")?.textContent.trim() || "";
+            const wikidata = p.querySelector('idno[type="wikidata"]')?.textContent.trim() || "";
+            return { id, title, wikidata };
+        });
+    }
+
+    function createSortedList(data) {
+      const list = document.getElementById("worksList");
+      list.innerHTML = "";
+      const letterNav = document.getElementById("letterNav");
+      letterNav.innerHTML = ""; // clear old nav
+
+      // sort alphabetically
+      data.sort((a, b) => a.title.localeCompare(b.title));
+
+       const letters = [...new Set(  data.map(p => p.title.trim().charAt(0).toUpperCase() || "#"))].sort((a, b) => a.localeCompare(b));
+        for (const letter of letters) {
+          const a = document.createElement("a");
+          a.href = `#letter-${letter}`;
+          a.textContent = letter;
+          a.style.margin = "0 0.3em";
+          letterNav.appendChild(a);
+        }
+
+      let currentLetter = "";
+      for (const work of data) {
+        const firstLetter = work.title.trim().charAt(0).toUpperCase() || "";
+
+        if (firstLetter == ""){continue}
+
+        if (firstLetter !== currentLetter) {
+          currentLetter = firstLetter;
+          const header = document.createElement("h5");
+          header.className = "letter-heading";
+          header.id = `letter-${currentLetter}`;
+          header.textContent = currentLetter;
+          list.appendChild(header);
+        }
+
+        const li = document.createElement("li");
+        const a = document.createElement("a");
+        a.href = `../index_result_works?work=${work.id}`;
+        a.textContent = work.title;
+        li.appendChild(a);
+        list.appendChild(li);
+      }
+    }
+
+    // Main
+    (async function () {
+      const xmlDoc = await loadXML('../works.xml'); // file is in same folder as this HTML
+      const works = parseTEI(xmlDoc);
+      console.log(works)
+      createSortedList(works);
+    })();
+  </script>
+</body>
+</html>

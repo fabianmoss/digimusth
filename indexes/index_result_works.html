@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Index Result with gnd"
+title: "Index Result Works"
 toc_exclude: true
 ---
 
 <head>
-  <title>Person Result Page</title>
+  <title>Works Result Page</title>
   <style>
     
   </style>
@@ -33,63 +33,61 @@ toc_exclude: true
 
 
     const currentUrl = new URL(window.location.href);
-    const personId = currentUrl.searchParams.get("person");
+    const workId = currentUrl.searchParams.get("work");
     const resultContainer = document.getElementById("results");
 
-    if (!personId) {
-      resultContainer.innerText = "No person ID provided in URL.";
+    if (!workId) {
+      resultContainer.innerText = "No ID provided in URL.";
     } else {
-      searchPersonInXMLs(personId);
+      searchPlaceInXMLs(workId);
     }
 
-    // -------- Person metadata loader --------
-    async function loadPersonMetadata(id) {
+    // -------- Place metadata loader --------
+    async function loadPlaceMetadata(id) {
       try {
-    const res = await fetch(`{{ site.baseurl }}/indexes/people.xml`);
+    const res = await fetch(`{{ site.baseurl }}/indexes/works.xml`);
      if (!res.ok) return null;
         const text = await res.text();
         const parser = new DOMParser();
         const xmlDoc = parser.parseFromString(text, "application/xml");
 
-        // find person by xml:id
-        let personEl = null;
-        xmlDoc.querySelectorAll("person").forEach(p => {
+        // find work by xml:id
+        let workEl = null;
+        xmlDoc.querySelectorAll("bibl").forEach(p => {
           if (p.getAttribute("xml:id") === id) {
-            personEl = p;
+            workEl = p;
           }
         });
-        if (!personEl) return null;
+        if (!workEl) return null;
 
-        // try structured name, otherwise fallback
-        const forename = personEl.querySelector("persName > forename")?.textContent || "";
-        const surname = personEl.querySelector("persName > surname")?.textContent || "";
-        let fullName = (forename + " " + surname).trim();
-        if (!fullName) {
-          fullName = personEl.querySelector("persName")?.textContent.trim() || "Unknown Person";
-        }
+        const title = workEl.querySelector("title")?.textContent.trim() || "";
+        const wikidata = workEl.querySelector('idno[type="wikidata"]')?.textContent || null;
+        const note = workEl.querySelector("note")?.textContent || null;
+        const author = workEl.querySelector("name")?.textContent || null;
+        const ref = workEl.querySelector("name")?.getAttribute("ref") || null;
+        const author_id = ref ? ref.match(/#(P\d+)/)?.[1] : null;
 
-        const gnd = personEl.querySelector('idno[type="GND"]')?.textContent || null;
-        const note = personEl.querySelector("note")?.textContent || null;
-
-        return { fullName, gnd, note };
+        return {title, wikidata, author, author_id, note };
       } catch (err) {
-        console.error("Error loading person metadata:", err);
+        console.error("Error loading work metadata:", err);
         return null;
       }
     }
 
 
     // -------- Main search --------
-     async function searchPersonInXMLs(id) {
+     async function searchPlaceInXMLs(id) {
       try {
-        const metadata = await loadPersonMetadata(id);
+        const metadata = await loadPlaceMetadata(id);
         if (metadata) {
           const metaDiv = document.createElement("div");
-          const gndNumber = metadata.gnd ? metadata.gnd.split("/").pop() : null;
+          const wikiNumber = metadata.wikidata ? metadata.wikidata.split("/").pop() : null;
           metaDiv.innerHTML = `
-            <h1>${metadata.fullName}</h1>
-            ${metadata.gnd ? `<p><a href="${metadata.gnd}" target="_blank">GND: ${gndNumber}</a></p>` : ""}
+            <h1>${metadata.title}</h1>
+            ${metadata.wikidata ? `<p><a href="${metadata.wikidata}" target="_blank">Wikidata: ${wikiNumber}</a></p>` : ""}
             ${metadata.note ? `<p><em>${metadata.note}</em></p>` : ""}
+            ${metadata.author ? `<p class="author"><em><a href={{ site.baseurl }}/indexes/index_result_people?person=${metadata.author_id}>${metadata.author}</a></em></p>` : ""}
+
             <hr/>
           `;
           resultContainer.innerHTML = "";
@@ -110,10 +108,10 @@ toc_exclude: true
           if (!content) return;
           const parser = new DOMParser();
           const xmlDoc = parser.parseFromString(content, "application/xml");
-          const people = xmlDoc.querySelectorAll(`persName[ref="#${id}"]`);
+          const works = xmlDoc.querySelectorAll(`title[ref="#${id}"]`);
 
-          people.forEach(personEl => {
-            const parent = personEl.closest("p") || personEl.parentNode;
+          works.forEach(workEl => {
+            const parent = workEl.closest("p") || workEl.parentNode;
             const facs = parent.getAttribute("facs") || "";
             const walker = document.createTreeWalker(parent, NodeFilter.SHOW_TEXT, null);
             let charCount = 0;
@@ -122,7 +120,7 @@ toc_exclude: true
 
             while (walker.nextNode()) {
               const node = walker.currentNode;
-              if (personEl.contains(node)) {
+              if (workEl.contains(node)) {
                 if (targetStart === -1) targetStart = charCount;
                 targetEnd = charCount + node.textContent.length;
               }
@@ -152,7 +150,7 @@ toc_exclude: true
     // -------- Display results --------
     async function displayResults(matches, id) {
       if (matches.length === 0) {
-        resultContainer.innerHTML += `<p>No matches found for person ID "${id}".</p>`;
+        resultContainer.innerHTML += `<p>No matches found for work ID "${id}".</p>`;
         return;
       }
 

@@ -1,0 +1,2449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Index of Works mentioned in texts from project Digimus</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <publisher/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <standOff>
+    <listBibl>
+      <bibl xml:id="W0001">
+        <title level="m">On the Sensation of Tone As a Physiological Basis for the Theory of Music</title>
+        <author>
+          <name ref="./people.xml#P0001" type="person">Hermann von Helmholtz</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q42193793</idno>
+      </bibl>
+      <bibl xml:id="W0002">
+        <title level="m">Über Zeiteinheit in Bezug auf Konsonanz, Harmonie und Tonalität</title>
+        <author>
+          <name ref="./people.xml#P0004" type="person">A. J. Polak</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0003">
+        <title level="m">Über Tonrhythmik und Stimmenführung</title>
+        <author>
+          <name ref="./people.xml#P0004" type="person">A. J. Polak</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0004">
+        <title level="m">Die Natur der Harmonik und der Metrik: zur Theorie der Musik</title>
+        <author>
+          <name ref="./people.xml#P0007" type="person">Moritz Hauptmann</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0005">
+        <title level="m">Johannes Gabrieli und sein Zeitalter</title>
+        <author>
+          <name ref="./people.xml#P0009" type="person">Carl von Winterfeld</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0006">
+        <title level="m">Die Lehre von der Harmonik</title>
+        <author>
+          <name ref="./people.xml#P0007" type="person">Moritz Hauptmann</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0007">
+        <title level="u">String Quintet No. 4</title>
+        <author>
+          <name ref="./people.xml#P0015" type="person">Wolfgang Amadeus Mozart</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q3276602</idno>
+      </bibl>
+      <bibl xml:id="W0008">
+        <title level="u">Symphony No. 1</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q163493</idno>
+      </bibl>
+      <bibl xml:id="W0009">
+        <title level="m">Das Problem des harmonischen Dualismus Ein Beitrag zur Ästhetik der Musik</title>
+        <author>
+          <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0010">
+        <title level="j">Neue Zeitschrift für Musik</title>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q683159</idno>
+        <note>journal</note>
+      </bibl>
+      <bibl xml:id="W0011">
+        <title level="m">Geschichte der Musiktheorie im 9. - 19. Jahrhundert</title>
+        <author>
+          <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0012">
+        <title level="m">Katechismus der Musikwissenschaft</title>
+        <author>
+          <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0013">
+        <title level="m">Elemente der musikalischen Ästhetik</title>
+        <author>
+          <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0014">
+        <title level="m">Die musikalische Akustik als Grundlage... [TEIL 1]</title>
+        <author>
+          <name ref="./people.xml#P0006" type="person">Georg Capellen</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0015">
+        <title level="m">Traité de l'harmonie réduite à  ses principes naturels</title>
+        <author>
+          <name ref="./people.xml#P0005" type="person">Jean-Philippe Rameau</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q2719456</idno>
+      </bibl>
+      <bibl xml:id="W0016">
+        <title level="m">Istituzioni harmoniche</title>
+        <author>
+          <name ref="./people.xml#P0010" type="person">Gioseffo Zarlino</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0017">
+        <title level="m">Harmoniesystem in Dualer Entwicklung</title>
+        <author>
+          <name ref="./people.xml#P0018" type="person">Artur Joachim von Oettingen</name>
+        </author>
+        <note>A. v. Oettingen 1866</note>
+      </bibl>
+      <bibl xml:id="W0018">
+        <title level="m">O. Tiersch 1868</title>
+        <author>
+          <name ref="./people.xml#P0002" type="person">Otto Tiersch</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0019">
+        <title level="m">Musikalische Syntaxis</title>
+        <author>
+          <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
+        </author>
+        <note>H. Riemann 1873</note>
+      </bibl>
+      <bibl xml:id="W0020">
+        <title level="m">Die beiden Tongeschlechter und die neuere Musikalische Theorie</title>
+        <author>
+          <name ref="./people.xml#P0030" type="person">Adolf Thürlings</name>
+        </author>
+        <note>Thürlings 1877</note>
+      </bibl>
+      <bibl xml:id="W0021">
+        <title level="m">Hostinský 1879</title>
+        <author>
+          <name ref="./people.xml#P0003" type="person">Otakar Hostinský</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0022">
+        <title level="m">A. Krisper 1882</title>
+        <author>
+          <name ref="./people.xml#P0031" type="person">Anton Krisper</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0023">
+        <title level="m">Zarlino, Opere I</title>
+        <author>
+          <name ref="./people.xml#P0010" type="person">Gioseffo Zarlino</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0024">
+        <title level="m">Geschichte der Ästhetik in Deutschland</title>
+        <author>
+          <name ref="./people.xml#P0033" type="person">Hermann Lotze</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0025">
+        <title level="m">Goethes musikalisches Leben</title>
+        <author>
+          <name ref="./people.xml#P0035" type="person">F. Hiller</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0026">
+        <title level="m">Tonpsychologie</title>
+        <author>
+          <name ref="./people.xml#P0019" type="person">Carl Stumpf</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0027">
+        <title level="m">Musikerkalender 1898</title>
+        <author>
+          <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
+        </author>
+        <note>contains a Riemann article vs. Stumpf</note>
+      </bibl>
+      <bibl xml:id="W0028">
+        <title level="m">Riemann's dissertation</title>
+        <author>
+          <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
+        </author>
+        <note>1973</note>
+      </bibl>
+      <bibl xml:id="W0029">
+        <title level="m">Skizze einer neuen Methode der Harmonielehre</title>
+        <author>
+          <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0030">
+        <title level="m">Katechismus der Akustik</title>
+        <author>
+          <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0031">
+        <title level="m">Die Freiheit oder Unfreiheit der Töne und Intervalle (&quot;Teil 2&quot;)</title>
+        <author>
+          <name ref="./people.xml#P0006" type="person">Georg Capellen</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0032">
+        <title level="j">Orgaan van de Vereeniging van Muziek-Onderwijzers</title>
+        <note>journal</note>
+      </bibl>
+      <bibl xml:id="W0033">
+        <title level="m">De leer der tonalen functien in conflict met die der polaire tegenstelling</title>
+        <author>
+          <name ref="./people.xml#P0040" type="person">Ary Belinfante</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0034">
+        <title level="m">Handbuch der Harmonielehre</title>
+        <author>
+          <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
+        </author>
+        <note>H.</note>
+      </bibl>
+      <bibl xml:id="W0035">
+        <title level="m">Katechismus des Generalbassspiels</title>
+        <author>
+          <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0036">
+        <title level="m">kleine Kompositionslehre</title>
+        <author>
+          <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0037">
+        <title level="m">Die Neue Harmonielehre im Streit mit der alten</title>
+        <author>
+          <name ref="./people.xml#P0041" type="person">Carl Friedrich Weitzmann</name>
+        </author>
+        <note>Weitzmann 61</note>
+      </bibl>
+      <bibl xml:id="W0038">
+        <title level="m">Vorlesung über die Geschichte der Harmonie und ihrer Lehre</title>
+        <author>
+          <name ref="./people.xml#P0041" type="person">Carl Friedrich Weitzmann</name>
+        </author>
+        <note>welche in den vier ersten Nummern des 51. Bandes der &quot;Neuen Zeitschrift für Musik&quot; (Leipzig bei Kahnt) nachzusehen ist\nW0039\tHarmoniesystem (Weitzmann 1860 Preisschrift)\tP0041\t\nW0040\t[Selmar Bagge, Kritik in der] Deutschen Musikzeitung No. 30 und 31\tP0047\t\nW0041\tC dur-Quartetts (Mozart) &quot;Dissonanz&quot;</note>
+      </bibl>
+      <bibl xml:id="W0042">
+        <title level="m">Theorie der Tonsetzkunst</title>
+        <author>
+          <name ref="./people.xml#P0014" type="person">Gottfried Weber</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0043">
+        <title level="m">Prometheus-Ouverture</title>
+        <author>
+          <name ref="./people.xml#P0046" type="person">Franz Liszt</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0044">
+        <title level="u">Symphony No. 41</title>
+        <author>
+          <name ref="./people.xml#P0015" type="person">Wolfgang Amadeus Mozart</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q232367</idno>
+      </bibl>
+      <bibl xml:id="W0045">
+        <title level="u">Symphony No. 3</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q157489</idno>
+      </bibl>
+      <bibl xml:id="W0046">
+        <title level="m">Die temperirte Stimmung und die chromatische Tonleiter</title>
+        <author>
+          <name ref="./people.xml#P0048" type="person">Karl Gottfried Kretschmann</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0047">
+        <title level="m">The Marriage of Figaro</title>
+        <author>
+          <name ref="./people.xml#P0015" type="person">Wolfgang Amadeus Mozart</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q201873</idno>
+        <note>le donne ficcan gli aghi 2c. (Mozart aus Figaro)</note>
+      </bibl>
+      <bibl xml:id="W0048">
+        <title level="m">Don Juan</title>
+        <author>
+          <name ref="./people.xml#P0015" type="person">Wolfgang Amadeus Mozart</name>
+        </author>
+        <note>Kunkel: &quot;Aria: Schmäle, schmäle, lieber Junge&quot;</note>
+      </bibl>
+      <bibl xml:id="W0049">
+        <title level="m">Albumblätter zur Emancipation der Quinten</title>
+        <author>
+          <name ref="./people.xml#P0041" type="person">Carl Friedrich Weitzmann</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0050">
+        <title level="m">Systematische Einleitung in die musikalische Setzkunst nach den Lehrsätzen des Herrn Rameau</title>
+        <author>
+          <name ref="./people.xml#P0011" type="person">Jean Le Rond d' Alembert</name>
+        </author>
+        <note>d'Alembert, übers. Marpurg</note>
+      </bibl>
+      <bibl xml:id="W0051">
+        <title level="m">fünfstimmigen Madrigale</title>
+        <author>
+          <name ref="./people.xml#P0052" type="person">Claudio Monteverdi</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0052">
+        <title level="m">Biographie universelle des musiciens</title>
+        <author>
+          <name ref="./people.xml#P0053" type="person">François-Joseph Fétis</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q28007160</idno>
+      </bibl>
+      <bibl xml:id="W0053">
+        <title level="m">Uebungen zum Studium der Harmonie</title>
+        <author>
+          <name ref="./people.xml#P0035" type="person">F. Hiller</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0054">
+        <title level="m">String Quartet No. 13</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q175565</idno>
+      </bibl>
+      <bibl xml:id="W0055">
+        <title level="u">Symphony No. 40</title>
+        <author>
+          <name ref="./people.xml#P0015" type="person">Wolfgang Amadeus Mozart</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q231390</idno>
+      </bibl>
+      <bibl xml:id="W0056">
+        <title level="m">Piano Sonata No. 12</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q146182</idno>
+      </bibl>
+      <bibl xml:id="W0057">
+        <title level="m">Mass in B minor</title>
+        <author>
+          <name ref="./people.xml#P0054" type="person">J. S. Bach</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q310549</idno>
+      </bibl>
+      <bibl xml:id="W0058">
+        <title level="u">Symphony No. 5</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q188709</idno>
+      </bibl>
+      <bibl xml:id="W0059">
+        <title level="u">Symphony No. 9</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q11989</idno>
+      </bibl>
+      <bibl xml:id="W0060">
+        <title level="m">Musikalische Briefe von Dr. Eduard Krüger. Münster, 1870</title>
+        <author>
+          <name ref="./people.xml#P0055" type="person">Eduard Krüger</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0061">
+        <title level="m">Ästhetik</title>
+        <author>
+          <name ref="./people.xml#P0056" type="person"/>
+        </author>
+        <note>Vischer</note>
+      </bibl>
+      <bibl xml:id="W0062">
+        <title level="m">&quot;Wider die feurigen Kapellmeister&quot; Aufsatz in: &quot;A. Allg. Ztg.&quot; Beilage Nro. 6 vom 6. Jan. 1875 (auch abgedruckt in der Allg. Mus. Ztg., 1875, Nro. 6 und 7)</title>
+        <note>author to be researched</note>
+      </bibl>
+      <bibl xml:id="W0063">
+        <title level="m">Komm, holder Lenz</title>
+        <author>
+          <name ref="./people.xml#P0008" type="person">Joseph Haydn</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0064">
+        <title level="m">Die harmonikale Symbolik des Altertums, Erste Abteilung. Die esoterische Zalenlehre der Pythagoreer in ihrer Beziehung zu älteren griechischen und morgenländischen Quellen, insbesondere zur altsemitisch-hebräischen Ueberlieferung</title>
+        <author>
+          <name ref="./people.xml#P0063" type="person">Albert von Thimus</name>
+        </author>
+        <note>Köln, 1868.</note>
+      </bibl>
+      <bibl xml:id="W0065">
+        <title level="m">Die Grundzüge der esoterischen Harmonik des Altertums, im Anschlusse an die Schrift des Freiherrn A. v. Thimus über die harmonikale Symbolik des Altertums</title>
+        <author>
+          <name ref="./people.xml#P0064" type="person">Richard Hasenclever</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0066">
+        <title level="j">Giebel's Zeitschr. f. d. ges. Naturwissenschaften, Bd. XXXII</title>
+        <note>journal</note>
+      </bibl>
+      <bibl xml:id="W0067">
+        <title level="j">Gäa</title>
+        <note>journal; Zeitschrift, anscheinend</note>
+      </bibl>
+      <bibl xml:id="W0068">
+        <title level="m">Das heraklitische Prinzip und die heutige Naturforschung</title>
+        <note>? to be researched ; from Thürlings</note>
+      </bibl>
+      <bibl xml:id="W0069">
+        <title level="m">Die Zukunft der Musiktheorie (Dualismus oder &quot;Monismus&quot;?) und ihre Einwirkung auf die Praxis</title>
+        <author>
+          <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0070">
+        <title level="m">Große Kompositionslehre</title>
+        <author>
+          <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
+        </author>
+        <note>Riemann 1902</note>
+      </bibl>
+      <bibl xml:id="W0071">
+        <title level="m">Die Unmöglichkeit und Überflüssigkeit der dualistischen Molltheorie Riemanns</title>
+        <author>
+          <name ref="./people.xml#P0006" type="person">Georg Capellen</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0072">
+        <title level="m">Die Abhängigkeitsverhältnisse in der Musik</title>
+        <author>
+          <name ref="./people.xml#P0006" type="person">Georg Capellen</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0073">
+        <title level="m">Studien zur Geschichte der Notenschrift</title>
+        <author>
+          <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0074">
+        <title level="m">Kurzgefasste Harmonielehre</title>
+        <author>
+          <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
+        </author>
+        <note>Kg. H.</note>
+      </bibl>
+      <bibl xml:id="W0075">
+        <title level="m">Modulationslehre</title>
+        <author>
+          <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
+        </author>
+        <note>Mod.</note>
+      </bibl>
+      <bibl xml:id="W0076">
+        <title level="m">Akustik</title>
+        <author>
+          <name ref="./people.xml#P0070" type="person">Ernst Florens Friedrich Chladni</name>
+        </author>
+        <note>Chladini [nach Cap.]</note>
+      </bibl>
+      <bibl xml:id="W0077">
+        <title level="m">Versuch über die musikalische Temperatur</title>
+        <author>
+          <name ref="./people.xml#P0051" type="person">Friedrich Wilhelm Marpurg</name>
+        </author>
+        <note>DOUBLE</note>
+      </bibl>
+      <bibl xml:id="W0078">
+        <title level="m">Teil 3 &quot;Die Symmetrische Umkehrung&quot;</title>
+        <author>
+          <name ref="./people.xml#P0006" type="person">Georg Capellen</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0079">
+        <title level="m">Elémens de musique, théorique et pratique, suivant les principes de M. Rameau</title>
+        <author>
+          <name ref="./people.xml#P0011" type="person">Jean Le Rond d' Alembert</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q24714998</idno>
+      </bibl>
+      <bibl xml:id="W0080">
+        <title level="m">Wer ist Musikalisch</title>
+        <author>
+          <name ref="./people.xml#P0072" type="person">Theodor Billroth</name>
+        </author>
+        <note>Billroth 1898</note>
+      </bibl>
+      <bibl xml:id="W0081">
+        <title level="m">Sumer is icomen in</title>
+        <note>medieval piece of music</note>
+      </bibl>
+      <bibl xml:id="W0082">
+        <title level="m">Über eigentümliche bei Natur- und orientalischen Kulturvölkern vorkommende Tonreihen</title>
+        <author>
+          <name ref="./people.xml#P0074" type="person">Ludwig Riemann</name>
+        </author>
+        <note>Not Hugo Riemann...</note>
+      </bibl>
+      <bibl xml:id="W0083">
+        <title level="m">Geschichte des Konsonanzbegriffs</title>
+        <author>
+          <name ref="./people.xml#P0019" type="person">Carl Stumpf</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0084">
+        <title level="m">Charakteristik der Tonarten</title>
+        <author>
+          <name ref="./people.xml#P0077" type="person">Richard Hennig</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0085">
+        <title level="m">Ich kann's nicht fassen, nicht glauben</title>
+        <author>
+          <name ref="./people.xml#P0043" type="person">Robert Schumann</name>
+        </author>
+        <note>Schumann, Lied</note>
+      </bibl>
+      <bibl xml:id="W0086">
+        <title level="m">Tannhäuser</title>
+        <author>
+          <name ref="./people.xml#P0045" type="person">Richard Wagner</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q560619</idno>
+      </bibl>
+      <bibl xml:id="W0087">
+        <title level="m">Harmonie universelle</title>
+        <author>
+          <name ref="./people.xml#P0022" type="person">Marin Mersenne</name>
+        </author>
+        <note>Mersenne 1638</note>
+      </bibl>
+      <bibl xml:id="W0088">
+        <title level="m">Die alte Musiklehre</title>
+        <author>
+          <name ref="./people.xml#P0078" type="person">Adolf Bernhard Marx</name>
+        </author>
+        <note>Marx 1841</note>
+      </bibl>
+      <bibl xml:id="W0089">
+        <title level="m">Exotische Mollmusik</title>
+        <author>
+          <name ref="./people.xml#P0006" type="person">Georg Capellen</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0090">
+        <title level="m">Shogaku shoka</title>
+        <author>
+          <name ref="./people.xml#P0006" type="person">Georg Capellen</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0091">
+        <title level="m">Musiktaschenbuch</title>
+        <author>
+          <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
+        </author>
+        <note>vielleicht = kurzgefasste Harmonielehre</note>
+      </bibl>
+      <bibl xml:id="W0092">
+        <title level="m">Lehrbuch der musikalischen Harmonik</title>
+        <author>
+          <name ref="./people.xml#P0083" type="person">Karl Mayrberger</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0093">
+        <title level="m">Harmonielehre</title>
+        <author>
+          <name ref="./people.xml#P0080" type="person">Ernst Friedrich Richter</name>
+        </author>
+        <note>Identical to W0156 perhaps?</note>
+      </bibl>
+      <bibl xml:id="W0094">
+        <title level="m">Neue Schule der Melodik</title>
+        <author>
+          <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
+        </author>
+        <note>Mel.</note>
+      </bibl>
+      <bibl xml:id="W0095">
+        <title level="m">Konsonanz und Dissonanz</title>
+        <author>
+          <name ref="./people.xml#P0019" type="person">Carl Stumpf</name>
+        </author>
+        <note>Stumpf, Aufsatz</note>
+      </bibl>
+      <bibl xml:id="W0096">
+        <title level="m">Abhandlung über Modulation</title>
+        <author>
+          <name ref="./people.xml#P0084" type="person">Wilhelm Albert Rischbieter</name>
+        </author>
+        <note>Rischbieter 1879</note>
+      </bibl>
+      <bibl xml:id="W0097">
+        <title level="m">Ein neuer exotischer Musikstil in Sicht?</title>
+        <author>
+          <name ref="./people.xml#P0006" type="person">Georg Capellen</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0098">
+        <title level="m">Die Symmetrische Umkehrung</title>
+        <author>
+          <name ref="./people.xml#P0071" type="person">Hermann Schroeder</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0099">
+        <title level="m">Vorlesungen über die Menschen- und Tierseele</title>
+        <author>
+          <name ref="./people.xml#P0086" type="person">Wilhelm Wundt</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0100">
+        <title level="m">St Matthew Passion</title>
+        <author>
+          <name ref="./people.xml#P0054" type="person">J. S. Bach</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q379111</idno>
+      </bibl>
+      <bibl xml:id="W0101">
+        <title level="m">The Well-Tempered Clavier</title>
+        <author>
+          <name ref="./people.xml#P0054" type="person">J. S. Bach</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q211971</idno>
+      </bibl>
+      <bibl xml:id="W0102">
+        <title level="m">Dictionaire de Musique</title>
+        <author>
+          <name ref="./people.xml#P0088" type="person">J. J. Rousseau</name>
+        </author>
+        <note>Rousseau 1782</note>
+      </bibl>
+      <bibl xml:id="W0103">
+        <title level="m">Fidelio</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q193778</idno>
+      </bibl>
+      <bibl xml:id="W0104">
+        <title level="m">Piano Sonata No. 21</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q146535</idno>
+      </bibl>
+      <bibl xml:id="W0105">
+        <title level="m">Kreisleriana</title>
+        <author>
+          <name ref="./people.xml#P0043" type="person">Robert Schumann</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q741180</idno>
+      </bibl>
+      <bibl xml:id="W0106">
+        <title level="m">Huldigungs-Marsch</title>
+        <author>
+          <name ref="./people.xml#P0046" type="person">Franz Liszt</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0107">
+        <title level="m">Piano Sonata in B Minor</title>
+        <author>
+          <name ref="./people.xml#P0046" type="person">Franz Liszt</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q1031890</idno>
+      </bibl>
+      <bibl xml:id="W0108">
+        <title level="m">Sarabande der E moll-Suite, Exercices Op. I, Part. 6</title>
+        <author>
+          <name ref="./people.xml#P0054" type="person">J. S. Bach</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0109">
+        <title level="m">Klaviersonate Nr. 8 in c-Moll op. 13</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0110">
+        <title level="m">Naumann Dissertation &quot;Über die verschiedenen Bestimmungen der Tonverhältnisse&quot; etc.</title>
+        <author>
+          <name ref="./people.xml#P0090" type="person">Ernst Naumann</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0111">
+        <title level="m">Über musikalische Tonbestimmungen und Temperatur</title>
+        <author>
+          <name ref="./people.xml#P0091" type="person">Moritz Wilhelm Drobisch</name>
+        </author>
+        <note>Drobisch 1852</note>
+      </bibl>
+      <bibl xml:id="W0112">
+        <title level="m">Allgemeine Theorie der Musik</title>
+        <author>
+          <name ref="./people.xml#P0092" type="person">Friedrich Wilhelm Opelt</name>
+        </author>
+        <note>1852</note>
+      </bibl>
+      <bibl xml:id="W0113">
+        <title level="m">die Musik und die musikalischen Instrumente in ihrer Beziehung zu den Gesetzen der Akustik</title>
+        <author>
+          <name ref="./people.xml#P0058" type="person">Friedrich Zamminer</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0114">
+        <title level="m">Versuch über die musikalische Temperatur</title>
+        <author>
+          <name ref="./people.xml#P0051" type="person">Friedrich Wilhelm Marpurg</name>
+        </author>
+        <note>DOUBLE; Marpurg 1776</note>
+      </bibl>
+      <bibl xml:id="W0115">
+        <title level="m">theor.-prakt. Harmonielehre</title>
+        <author>
+          <name ref="./people.xml#P0093" type="person">Siegfried Wilhelm Dehn</name>
+        </author>
+        <note>Berlin 1840</note>
+      </bibl>
+      <bibl xml:id="W0116">
+        <title level="m">Über wissenschaftliche Bestimmung der musikalischen Temperatur</title>
+        <author>
+          <name ref="./people.xml#P0091" type="person">Moritz Wilhelm Drobisch</name>
+        </author>
+        <note>included in book below, CHANGE ID IN OETTINGEN</note>
+      </bibl>
+      <bibl xml:id="W0117">
+        <title level="m">Annalen der Physik</title>
+        <author>
+          <name ref="./people.xml#P0094; P0091" type="person"/>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q275655</idno>
+        <note>contains a text by Drobisch, also cited several times in OET, but not sure which one</note>
+      </bibl>
+      <bibl xml:id="W0118">
+        <title level="m">Tentamen novae theoriae musicae</title>
+        <author>
+          <name ref="./people.xml#P0057" type="person">Leonhard Euler</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q2403819</idno>
+      </bibl>
+      <bibl xml:id="W0119">
+        <title level="m">zur Theorie der Musik</title>
+        <author>
+          <name ref="./people.xml#P0095" type="person">Johannes Heinrich Niklas Möhring</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0120">
+        <title level="m">Nachträge zur Theorie der musikalischen Tonverhältnisse</title>
+        <author>
+          <name ref="./people.xml#P0091" type="person">Moritz Wilhelm Drobisch</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0121">
+        <title level="m">Allgemeine Musiklehre</title>
+        <author>
+          <name ref="./people.xml#P0078" type="person">Adolf Bernhard Marx</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0122">
+        <title level="m">Compositionslehre / Die Lehre der Musikalischen Composition</title>
+        <author>
+          <name ref="./people.xml#P0078" type="person">Adolf Bernhard Marx</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0123">
+        <title level="m">Violinschule</title>
+        <author>
+          <name ref="./people.xml#P0097" type="person">Louis Spohr</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0124">
+        <title level="m">Dell' Origine e delle Regole della Musica</title>
+        <author>
+          <name ref="./people.xml#P0099" type="person">Antonio Eximeno y Pujades</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0125">
+        <title level="m">Über die Tonlehre</title>
+        <author>
+          <name ref="./people.xml#P0102" type="person">Johann Friedrich Herbart</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0126">
+        <title level="m">Über die mathematische Bestimmung der musikalischen Intervalle</title>
+        <author>
+          <name ref="./people.xml#P0091" type="person">Moritz Wilhelm Drobisch</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0127">
+        <title level="m">historisch-kritische Beiträge Bd. V</title>
+        <author>
+          <name ref="./people.xml#P0051" type="person">Friedrich Wilhelm Marpurg</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0128">
+        <title level="m">Leonore Overture No. 2</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q11349471</idno>
+      </bibl>
+      <bibl xml:id="W0129">
+        <title level="m">Leonore Overture No. 3</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q11349472</idno>
+      </bibl>
+      <bibl xml:id="W0130">
+        <title level="m">der neuen Aristoxener zerstreute Aufsätze über das Irrige der musikalischen Arithmetik und das Eitle ihrer Temperaturrechnungen (Sammelband hg. Von Kiesewetter)</title>
+      </bibl>
+      <bibl xml:id="W0131">
+        <title level="m">De musica libri septem</title>
+        <author>
+          <name ref="./people.xml#P0020" type="person">Francisco Salinas</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q124863958</idno>
+        <note>Quotations from Riemann p. 6</note>
+      </bibl>
+      <bibl xml:id="W0132">
+        <title level="m">Descartes 1615</title>
+        <author>
+          <name ref="./people.xml#P0021" type="person"/>
+        </author>
+        <note>Quotations from Riemann p. 6</note>
+      </bibl>
+      <bibl xml:id="W0133">
+        <title level="m">Levens 1743</title>
+        <author>
+          <name ref="./people.xml#P0024" type="person">Charles Levens</name>
+        </author>
+        <note>Quotations from Riemann p. 6</note>
+      </bibl>
+      <bibl xml:id="W0134">
+        <title level="m">Serre 1753</title>
+        <author>
+          <name ref="./people.xml#P0025" type="person"/>
+        </author>
+        <note>Quotations from Riemann p. 6</note>
+      </bibl>
+      <bibl xml:id="W0135">
+        <title level="m">Tartini 1754</title>
+        <author>
+          <name ref="./people.xml#P0023" type="person">Giuseppe Tartini</name>
+        </author>
+        <note>Quotations from Riemann p. 6</note>
+      </bibl>
+      <bibl xml:id="W0136">
+        <title level="m">Blamville 1764</title>
+        <author>
+          <name ref="./people.xml#P0026" type="person">Charles Henri de Blainville</name>
+        </author>
+        <note>Quotations from Riemann p. 6</note>
+      </bibl>
+      <bibl xml:id="W0137">
+        <title level="m">Jamard 1769</title>
+        <author>
+          <name ref="./people.xml#P0027" type="person">Pierre Jamard</name>
+        </author>
+        <note>Quotations from Riemann p. 6</note>
+      </bibl>
+      <bibl xml:id="W0138">
+        <title level="m">Vallotti 1779</title>
+        <author>
+          <name ref="./people.xml#P0028" type="person">Francesco Antonio Vallotti</name>
+        </author>
+        <note>Quotations from Riemann p. 6</note>
+      </bibl>
+      <bibl xml:id="W0139">
+        <title level="m">Sabbatini 1799</title>
+        <author>
+          <name ref="./people.xml#P0029" type="person">Galeazzo Sabbatini</name>
+        </author>
+        <note>Quotations from Riemann p. 6</note>
+      </bibl>
+      <bibl xml:id="W0140">
+        <title level="m">Timaeus</title>
+        <author>
+          <name ref="./people.xml#P0075" type="person"/>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q371884</idno>
+      </bibl>
+      <bibl xml:id="W0141">
+        <title level="m">Musikalische Logik</title>
+        <author>
+          <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0142">
+        <title level="m">Hülfsmittel der Modulation</title>
+        <author>
+          <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
+        </author>
+        <note>Kassel, 1875</note>
+      </bibl>
+      <bibl xml:id="W0143">
+        <title level="m">Musikalische Grammatik</title>
+        <author>
+          <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
+        </author>
+        <note>Riemann, only planned?</note>
+      </bibl>
+      <bibl xml:id="W0144">
+        <title level="m">Einleitung in die Helmholtz'sche Musiktheorie</title>
+        <author>
+          <name ref="./people.xml#P0105" type="person">E. Mach</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0145">
+        <title level="m">Die Theorie des Schalls in Beziehung zur Musik</title>
+        <author>
+          <name ref="./people.xml#P0106" type="person">Pietro Blaserna</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0146">
+        <title level="m">Ueber die Grenzen der Tonwahrnehmung (W. Preyer)</title>
+        <author>
+          <name ref="./people.xml#P0109" type="person">William T. Preyer</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0147">
+        <title level="m">Lehrbuch zur Psychologie (Hg. G. Hartenstein) 1850-52</title>
+      </bibl>
+      <bibl xml:id="W0148">
+        <title level="m">Lehrbuch der Psychologie</title>
+        <author>
+          <name ref="./people.xml#P0118" type="person">Wilhelm Fridolin Volkmann von Volkmar</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0149">
+        <title level="m">Die objektive Existenz der Untertöne in der Schallwelle</title>
+        <author>
+          <name ref="./people.xml#P0017" type="person">Hugo Riemann</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0150">
+        <title level="m">Psychologische Bemerkungen zur Tonlehre</title>
+        <author>
+          <name ref="./people.xml#P0102" type="person">Johann Friedrich Herbart</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0151">
+        <title level="m">Ueber den Einfluss der Tonlehre auf Herbart's Philosophie</title>
+        <author>
+          <name ref="./people.xml#P0122" type="person">Robert von Zimmermann</name>
+        </author>
+        <note>1873</note>
+      </bibl>
+      <bibl xml:id="W0152">
+        <title level="m">Elementa harmonica</title>
+        <author>
+          <name ref="./people.xml#P0062" type="person">Aristoxenos D. Skiadas</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q22908097</idno>
+      </bibl>
+      <bibl xml:id="W0153">
+        <title level="m">Elementarbuch der musikalischen Harmonie- und Modulationslehre</title>
+        <author>
+          <name ref="./people.xml#P0002" type="person">Otto Tiersch</name>
+        </author>
+        <note>1874</note>
+      </bibl>
+      <bibl xml:id="W0154">
+        <title level="m">Laocoön, an essay on the limits of painting and poetry</title>
+        <author>
+          <name ref="./people.xml#P0126" type="person">Gotthold Ephraim Lessing</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q1805712</idno>
+      </bibl>
+      <bibl xml:id="W0155">
+        <title level="m">Opuscula</title>
+        <author>
+          <name ref="./people.xml#P0007" type="person">Moritz Hauptmann</name>
+        </author>
+        <note>1874</note>
+      </bibl>
+      <bibl xml:id="W0156">
+        <title level="m">Lehrbuch der Harmonielehre</title>
+        <author>
+          <name ref="./people.xml#P0080" type="person">Ernst Friedrich Richter</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0157">
+        <title level="m">Musikalische Studien</title>
+        <author>
+          <name ref="./people.xml#P0128" type="person">W. Tappert</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0158">
+        <title level="m">Musikalische Accordlehre</title>
+        <author>
+          <name ref="./people.xml#P0129" type="person">Joseph Adolph Leibrock</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0159">
+        <title level="m">Die Harmonik der Neuzeit erläutert von Dr. F. P. Graf Laurencin.</title>
+        <author>
+          <name ref="./people.xml#P0130" type="person">Ferdinand Peter Laurencin d'Armond</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0160">
+        <title level="m">Lohengrin</title>
+        <author>
+          <name ref="./people.xml#P0045" type="person">Richard Wagner</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q23085</idno>
+      </bibl>
+      <bibl xml:id="W0161">
+        <title level="m">Zur Lehre vom Quintenverbote</title>
+        <author>
+          <name ref="./people.xml#P0131" type="person">August Wilhelm Ambros</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0162">
+        <title level="m">Das Verbot der Quinten-Parallelen</title>
+        <author>
+          <name ref="./people.xml#P0128" type="person">W. Tappert</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0163">
+        <title level="m">Geschichte des Septimenaccordes</title>
+        <author>
+          <name ref="./people.xml#P0041" type="person">Carl Friedrich Weitzmann</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0164">
+        <title level="m">Der accordliche Gegensatz und die Begründung der Skala</title>
+        <author>
+          <name ref="./people.xml#P0133" type="person">Otto Kraushaar</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0165">
+        <title level="m">Ach Gott und Herr (Choral)</title>
+        <note>composer?</note>
+      </bibl>
+      <bibl xml:id="W0166">
+        <title level="m">Kritische Beleuchtung</title>
+        <author>
+          <name ref="./people.xml#P0134" type="person">J. F. Kunckel</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0167">
+        <title level="m">Ideen zu einer Theorie der Musik</title>
+        <author>
+          <name ref="./people.xml#P0135" type="person">Andreas Kretzschmer</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0168">
+        <title level="m">Anleitung zur Temperaturberechnung</title>
+        <author>
+          <name ref="./people.xml#P0136" type="person">Daniel Gottlob Türk</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0169">
+        <title level="m">Übersicht der Schall- und Klanglehre</title>
+        <author>
+          <name ref="./people.xml#P0070" type="person">Ernst Florens Friedrich Chladni</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0170">
+        <title level="m">Elementarbuch der Harmonie</title>
+        <author>
+          <name ref="./people.xml#P0137" type="person">Friedrich Schneider</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0171">
+        <title level="m">Anweisung zum Generalbaßspielen</title>
+        <author>
+          <name ref="./people.xml#P0136" type="person">Daniel Gottlob Türk</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0172">
+        <title level="m">Harmonielehre</title>
+        <author>
+          <name ref="./people.xml#P0139" type="person"/>
+        </author>
+        <note>Vogler</note>
+      </bibl>
+      <bibl xml:id="W0173">
+        <title level="m">Lehrbuch der Tonsetzkunst</title>
+        <author>
+          <name ref="./people.xml#P0140" type="person">Johann Anton André</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0174">
+        <title level="m">Musikalische Grammatik</title>
+        <author>
+          <name ref="./people.xml#P0142" type="person">G. F. W. von Fink</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0175">
+        <title level="m">Heidelberger Jahrbücher</title>
+        <author>
+          <name ref="./people.xml#P0014" type="person">Gottfried Weber</name>
+        </author>
+        <note>see Kunkel p. 15; 1811</note>
+      </bibl>
+      <bibl xml:id="W0176">
+        <title level="m">Die neusten und wichtigsten Entdeckungen</title>
+        <author>
+          <name ref="./people.xml#P0143" type="person">Johann Gottlieb Portmann</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0177">
+        <title level="m">Leichtes Lehrbuch der Harmonie</title>
+        <author>
+          <name ref="./people.xml#P0143" type="person">Johann Gottlieb Portmann</name>
+        </author>
+        <note>I don't think there is a non &quot;leichtes&quot; lehrbuch, as cited first time</note>
+      </bibl>
+      <bibl xml:id="W0178">
+        <title level="m">Lehrbuch der musikalischen Komposition</title>
+        <author>
+          <name ref="./people.xml#P0144" type="person">Johann Christian Lobe</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0179">
+        <title level="m">Der Freischütz</title>
+        <author>
+          <name ref="./people.xml#P0050" type="person">Carl Maria von Weber</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q156435</idno>
+        <note>Kunkel: Musik zur Wolfsschlucht-Scene</note>
+      </bibl>
+      <bibl xml:id="W0180">
+        <title level="m">Compositionslehre</title>
+        <author>
+          <name ref="./people.xml#P0145" type="person">Friedrich Wilhelm Schütze</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0181">
+        <title level="m">Modulationslehre</title>
+        <author>
+          <name ref="./people.xml#P0014" type="person">Gottfried Weber</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0182">
+        <title level="m">La muette de Portici</title>
+        <author>
+          <name ref="./people.xml#P0147" type="person">Daniel-François-Esprit Auber</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q470773</idno>
+      </bibl>
+      <bibl xml:id="W0183">
+        <title level="m">Così fan tutte</title>
+        <author>
+          <name ref="./people.xml#P0015" type="person">Wolfgang Amadeus Mozart</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q207410</idno>
+      </bibl>
+      <bibl xml:id="W0184">
+        <title level="m">Colma</title>
+        <author>
+          <name ref="./people.xml#P0148" type="person">Johann Rudolf Zumsteeg</name>
+        </author>
+        <note>mus. Ballade über ein Gedicht von Goethe</note>
+      </bibl>
+      <bibl xml:id="W0185">
+        <title level="u">Symphony Nr. ??</title>
+        <author>
+          <name ref="./people.xml#P0008" type="person">Joseph Haydn</name>
+        </author>
+        <note>exact work to be researched from excerpt, Kunkel p. 40</note>
+      </bibl>
+      <bibl xml:id="W0186">
+        <title level="m">Piano Sonata No. 4</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q145985</idno>
+      </bibl>
+      <bibl xml:id="W0187">
+        <title level="m">Piano Sonata No. 18</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q146343</idno>
+      </bibl>
+      <bibl xml:id="W0188">
+        <title level="m">Theorie von der thematischen Arbeit</title>
+        <author>
+          <name ref="./people.xml#P0144" type="person">Johann Christian Lobe</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0189">
+        <title level="m">Die Grundzüge der musikalischen Formen</title>
+        <author>
+          <name ref="./people.xml#P0080" type="person">Ernst Friedrich Richter</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0190">
+        <title level="m">Versuch einer Anleitung zur Composition</title>
+        <author>
+          <name ref="./people.xml#P0141" type="person">Heinrich Christoph Koch</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0191">
+        <title level="m">Handbuch bei dem Studium der Harmonie</title>
+        <author>
+          <name ref="./people.xml#P0141" type="person">Heinrich Christoph Koch</name>
+        </author>
+        <note>1811</note>
+      </bibl>
+      <bibl xml:id="W0192">
+        <title level="u">Klavier-Quintett in es-Moll, Allegro</title>
+        <author>
+          <name ref="./people.xml#P0150" type="person">Johann Nepomuk Hummel</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0193">
+        <title level="m">Enharmonischer Tonwechsel (Art. in: Schilling EncyclopÃ¤die)</title>
+        <author>
+          <name ref="./people.xml#P0151" type="person">Gustav Schilling</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0194">
+        <title level="j">Süddeutsche Musikzeitung</title>
+        <note>journal</note>
+      </bibl>
+      <bibl xml:id="W0195">
+        <title level="m">Ueber Preisausschreiben für musikalische Compositionen</title>
+        <note>Süddeutsche Musikzeitung Nr 38-39, 1852</note>
+      </bibl>
+      <bibl xml:id="W0196">
+        <title level="m">Vorschläge zur Anregung für das Studium der Musiktheorie</title>
+        <note>Süddeutsche Musikzeitung Nr 23, 1853</note>
+      </bibl>
+      <bibl xml:id="W0197">
+        <title level="m">Neues System der Harmonielehre</title>
+        <author>
+          <name ref="./people.xml#P0154" type="person">Franz Stöpel</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0198">
+        <title level="m">Abhandlung in der Leipziger AMZ 1825</title>
+        <author>
+          <name ref="./people.xml#P0154" type="person">Franz Stöpel</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0199">
+        <title level="m">Allgemeine musikalische Zeitung</title>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q463387</idno>
+      </bibl>
+      <bibl xml:id="W0200">
+        <title level="m">of Vocal Music sounded on the Tonic Solfa Method</title>
+        <author>
+          <name ref="./people.xml#P0155" type="person">John Curwen</name>
+        </author>
+        <note>cited by OET because he hasn't read them, but assumes they might have similar results</note>
+      </bibl>
+      <bibl xml:id="W0201">
+        <title level="m">The standard course of lessons on the Tonic Solfa Method</title>
+        <author>
+          <name ref="./people.xml#P0155" type="person">John Curwen</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0202">
+        <title level="m">Physiologie der menschlichen Sprache</title>
+        <author>
+          <name ref="./people.xml#P0156" type="person">Carl Ludwig Merkel</name>
+        </author>
+        <note>1866</note>
+      </bibl>
+      <bibl xml:id="W0203">
+        <title level="m">Der Contrapunkt</title>
+        <author>
+          <name ref="./people.xml#P0157" type="person">Johann Friedrich Bellermann</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0204">
+        <title level="m">Das musikalische System der Griechen in seiner Urgestalt</title>
+        <author>
+          <name ref="./people.xml#P0159" type="person">Carl Fortlage</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0205">
+        <title level="m">De divina psalmodia</title>
+        <author>
+          <name ref="./people.xml#P0161" type="person">Nicolaus Johannes de Bona</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0206">
+        <title level="m">De musica</title>
+        <author>
+          <name ref="./people.xml#P0162" type="person"/>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q87198553</idno>
+      </bibl>
+      <bibl xml:id="W0207">
+        <title level="m">Die Tonleitern und Musiknoten der Griechen</title>
+        <author>
+          <name ref="./people.xml#P0157" type="person">Johann Friedrich Bellermann</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0208">
+        <title level="m">Geschichte der Musik</title>
+        <author>
+          <name ref="./people.xml#P0131" type="person">August Wilhelm Ambros</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q42190395</idno>
+      </bibl>
+      <bibl xml:id="W0209">
+        <title level="m">Ueber die Musik der Indier</title>
+        <author>
+          <name ref="./people.xml#P0163" type="person">William Jones</name>
+        </author>
+        <note>übers. von Dalberg 1802</note>
+      </bibl>
+      <bibl xml:id="W0210">
+        <title level="m">Egmont Overture</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q15622682</idno>
+      </bibl>
+      <bibl xml:id="W0211">
+        <title level="m">Valitnita Suomalaisia Kansan-Lauluja</title>
+        <note>Finnish Folk Song collection ??</note>
+      </bibl>
+      <bibl xml:id="W0212">
+        <title level="m">Schottische und Irische Liedbearbeitungen: &quot;Mir träumt, ich lag wo Blumen springen&quot;</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0213">
+        <title level="m">O tröste mich Harfe, mit Tönen von Sorgen</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0214">
+        <title level="m">Heimkehr nach Ulster Volksliedbearbeitung</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0215">
+        <title level="m">Die Hochlands Wache Volksliedbearbeitung</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0216">
+        <title level="m">Der Abend Volksliedbearbeitung</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0217">
+        <title level="m">Trüb, trüb ist mein Auge</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0218">
+        <title level="m">die holde Maid von Iverness</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0219">
+        <title level="m">Kern des deutschen Kirchengesanges</title>
+        <author>
+          <name ref="./people.xml#P0165" type="person">Friedrich Layriz</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0220">
+        <title level="m">Wer nur den lieben Gott läßt walten, BWV 93</title>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q1410355</idno>
+      </bibl>
+      <bibl xml:id="W0221">
+        <title level="m">Choral: Höchster Priester, der du dich</title>
+      </bibl>
+      <bibl xml:id="W0222">
+        <title level="m">371 vierstimmige Chorale</title>
+        <author>
+          <name ref="./people.xml#P0054" type="person">J. S. Bach</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q11346142</idno>
+      </bibl>
+      <bibl xml:id="W0223">
+        <title level="m">Choralbuch für vier Männerstimmen</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0224">
+        <title level="m">Evangelisches Choralbuch</title>
+        <author>
+          <name ref="./people.xml#P0167" type="person">Johann Leberecht Ehregott Punschel</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0225">
+        <title level="m">Piano Quartet No. 1</title>
+        <author>
+          <name ref="./people.xml#P0015" type="person">Wolfgang Amadeus Mozart</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q4383602</idno>
+      </bibl>
+      <bibl xml:id="W0226">
+        <title level="m">Piano Sonata No. 3</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q145937</idno>
+      </bibl>
+      <bibl xml:id="W0227">
+        <title level="m">String Quartet No. 9</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q275877</idno>
+      </bibl>
+      <bibl xml:id="W0228">
+        <title level="m">Stabat Mater</title>
+        <author>
+          <name ref="./people.xml#P0170" type="person">Giovanni Pierluigi da Palestrina</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q11894350</idno>
+      </bibl>
+      <bibl xml:id="W0229">
+        <title level="m">Piano Sonata No. 2</title>
+        <author>
+          <name ref="./people.xml#P0016" type="person">Ludwig van Beethoven</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q145873</idno>
+      </bibl>
+      <bibl xml:id="W0230">
+        <title level="m">Am Meer</title>
+        <author>
+          <name ref="./people.xml#P0085" type="person">Franz Schubert</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0231">
+        <title level="m">Op. 74 No. 2 - Scherzo</title>
+        <author>
+          <name ref="./people.xml#P0171" type="person">Joachim Raff</name>
+        </author>
+      </bibl>
+      <bibl xml:id="W0232">
+        <title level="m">Struensee</title>
+        <author>
+          <name ref="./people.xml#P0173" type="person">Giacomo Meyerbeer</name>
+        </author>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q109242144</idno>
+      </bibl>
+      <bibl xml:id="W0233">
+        <title level="m">As-Dur Fuge</title>
+        <author>
+          <name ref="./people.xml#P0054" type="person">J. S. Bach</name>
+        </author>
+        <note>referenced by Lobe, not sure which one exactly</note>
+      </bibl>
+    </listBibl>
+    <listPerson>
+      <person xml:id="P0001">
+        <persName>
+          <forename>Hermann von</forename>
+          <surname>Helmholtz</surname>
+        </persName>
+      </person>
+      <person xml:id="P0002">
+        <persName>
+          <forename>Otto</forename>
+          <surname>Tiersch</surname>
+        </persName>
+      </person>
+      <person xml:id="P0003">
+        <persName>
+          <forename>Otakar</forename>
+          <surname>Hostinský</surname>
+        </persName>
+      </person>
+      <person xml:id="P0004">
+        <persName>
+          <forename>A. J.</forename>
+          <surname>Polak</surname>
+        </persName>
+      </person>
+      <person xml:id="P0005">
+        <persName>
+          <forename>Jean-Philippe</forename>
+          <surname>Rameau</surname>
+        </persName>
+      </person>
+      <person xml:id="P0006">
+        <persName>
+          <forename>Georg</forename>
+          <surname>Capellen</surname>
+        </persName>
+      </person>
+      <person xml:id="P0007">
+        <persName>
+          <forename>Moritz</forename>
+          <surname>Hauptmann</surname>
+        </persName>
+      </person>
+      <person xml:id="P0008">
+        <persName>
+          <forename>Joseph</forename>
+          <surname>Haydn</surname>
+        </persName>
+      </person>
+      <person xml:id="P0009">
+        <persName>
+          <forename>Carl von</forename>
+          <surname>Winterfeld</surname>
+        </persName>
+      </person>
+      <person xml:id="P0010">
+        <persName>
+          <forename>Gioseffo</forename>
+          <surname>Zarlino</surname>
+        </persName>
+      </person>
+      <person xml:id="P0011">
+        <persName>
+          <forename>Jean Le Rond d'</forename>
+          <surname>Alembert</surname>
+        </persName>
+      </person>
+      <person xml:id="P0012">
+        <persName>
+          <forename>R. G.</forename>
+          <surname>Kiesewetter</surname>
+        </persName>
+      </person>
+      <person xml:id="P0013">
+        <persName>
+          <forename>Georg Wilhelm Friedrich</forename>
+          <surname>Hegel</surname>
+        </persName>
+      </person>
+      <person xml:id="P0014">
+        <persName>
+          <forename>Gottfried</forename>
+          <surname>Weber</surname>
+        </persName>
+      </person>
+      <person xml:id="P0015">
+        <persName>
+          <forename>Wolfgang Amadeus</forename>
+          <surname>Mozart</surname>
+        </persName>
+      </person>
+      <person xml:id="P0016">
+        <persName>
+          <forename>Ludwig van</forename>
+          <surname>Beethoven</surname>
+        </persName>
+      </person>
+      <person xml:id="P0017">
+        <persName>
+          <forename>Hugo</forename>
+          <surname>Riemann</surname>
+        </persName>
+      </person>
+      <person xml:id="P0018">
+        <persName>
+          <forename>Artur Joachim von</forename>
+          <surname>Oettingen</surname>
+        </persName>
+      </person>
+      <person xml:id="P0019">
+        <persName>
+          <forename>Carl</forename>
+          <surname>Stumpf</surname>
+        </persName>
+      </person>
+      <person xml:id="P0020">
+        <persName>
+          <forename>Francisco</forename>
+          <surname>Salinas</surname>
+        </persName>
+      </person>
+      <person xml:id="P0021">
+        <persName/>
+      </person>
+      <person xml:id="P0022">
+        <persName>
+          <forename>Marin</forename>
+          <surname>Mersenne</surname>
+        </persName>
+      </person>
+      <person xml:id="P0023">
+        <persName>
+          <forename>Giuseppe</forename>
+          <surname>Tartini</surname>
+        </persName>
+      </person>
+      <person xml:id="P0024">
+        <persName>
+          <forename>Charles</forename>
+          <surname>Levens</surname>
+        </persName>
+      </person>
+      <person xml:id="P0025">
+        <persName/>
+      </person>
+      <person xml:id="P0026">
+        <persName>
+          <forename>Charles Henri de</forename>
+          <surname>Blainville</surname>
+        </persName>
+      </person>
+      <person xml:id="P0027">
+        <persName>
+          <forename>Pierre</forename>
+          <surname>Jamard</surname>
+        </persName>
+      </person>
+      <person xml:id="P0028">
+        <persName>
+          <forename>Francesco Antonio</forename>
+          <surname>Vallotti</surname>
+        </persName>
+      </person>
+      <person xml:id="P0029">
+        <persName>
+          <forename>Galeazzo</forename>
+          <surname>Sabbatini</surname>
+        </persName>
+      </person>
+      <person xml:id="P0030">
+        <persName>
+          <forename>Adolf</forename>
+          <surname>Thürlings</surname>
+        </persName>
+      </person>
+      <person xml:id="P0031">
+        <persName>
+          <forename>Anton</forename>
+          <surname>Krisper</surname>
+        </persName>
+      </person>
+      <person xml:id="P0032">
+        <persName>
+          <forename>Joseph</forename>
+          <surname>Sauveur</surname>
+        </persName>
+      </person>
+      <person xml:id="P0033">
+        <persName>
+          <forename>Hermann</forename>
+          <surname>Lotze</surname>
+        </persName>
+      </person>
+      <person xml:id="P0034">
+        <persName>
+          <forename>Johann Wolfgang von</forename>
+          <surname>Goethe</surname>
+        </persName>
+      </person>
+      <person xml:id="P0035">
+        <persName>
+          <forename>F.</forename>
+          <surname>Hiller</surname>
+        </persName>
+      </person>
+      <person xml:id="P0036">
+        <persName>
+          <forename>Johann Philipp</forename>
+          <surname>Kirnberger</surname>
+        </persName>
+      </person>
+      <person xml:id="P0037">
+        <persName>
+          <forename>Vladimir Ivanovič</forename>
+          <surname>Rebikov</surname>
+        </persName>
+      </person>
+      <person xml:id="P0038">
+        <persName>
+          <forename>Claude</forename>
+          <surname>Debussy</surname>
+        </persName>
+      </person>
+      <person xml:id="P0039">
+        <persName>
+          <forename>Wouter</forename>
+          <surname>Hutschenruyter</surname>
+        </persName>
+      </person>
+      <person xml:id="P0040">
+        <persName>
+          <forename>Ary</forename>
+          <surname>Belinfante</surname>
+        </persName>
+      </person>
+      <person xml:id="P0041">
+        <persName>
+          <forename>Carl Friedrich</forename>
+          <surname>Weitzmann</surname>
+        </persName>
+      </person>
+      <person xml:id="P0042">
+        <persName/>
+      </person>
+      <person xml:id="P0043">
+        <persName>
+          <forename>Robert</forename>
+          <surname>Schumann</surname>
+        </persName>
+      </person>
+      <person xml:id="P0044">
+        <persName>
+          <forename>Hector</forename>
+          <surname>Berlioz</surname>
+        </persName>
+      </person>
+      <person xml:id="P0045">
+        <persName>
+          <forename>Richard</forename>
+          <surname>Wagner</surname>
+        </persName>
+      </person>
+      <person xml:id="P0046">
+        <persName>
+          <forename>Franz</forename>
+          <surname>Liszt</surname>
+        </persName>
+      </person>
+      <person xml:id="P0047">
+        <persName>
+          <forename>Selmar</forename>
+          <surname>Bagge</surname>
+        </persName>
+      </person>
+      <person xml:id="P0048">
+        <persName>
+          <forename>Karl Gottfried</forename>
+          <surname>Kretschmann</surname>
+        </persName>
+      </person>
+      <person xml:id="P0049">
+        <persName>
+          <forename>Christoph Willibald</forename>
+          <surname>Gluck</surname>
+        </persName>
+      </person>
+      <person xml:id="P0050">
+        <persName>
+          <forename>Carl Maria von</forename>
+          <surname>Weber</surname>
+        </persName>
+      </person>
+      <person xml:id="P0051">
+        <persName>
+          <forename>Friedrich Wilhelm</forename>
+          <surname>Marpurg</surname>
+        </persName>
+      </person>
+      <person xml:id="P0052">
+        <persName>
+          <forename>Claudio</forename>
+          <surname>Monteverdi</surname>
+        </persName>
+      </person>
+      <person xml:id="P0053">
+        <persName>
+          <forename>François-Joseph</forename>
+          <surname>Fétis</surname>
+        </persName>
+      </person>
+      <person xml:id="P0054">
+        <persName>
+          <forename>J. S.</forename>
+          <surname>Bach</surname>
+        </persName>
+      </person>
+      <person xml:id="P0055">
+        <persName>
+          <forename>Eduard</forename>
+          <surname>Krüger</surname>
+        </persName>
+      </person>
+      <person xml:id="P0056">
+        <persName/>
+      </person>
+      <person xml:id="P0057">
+        <persName>
+          <forename>Leonhard</forename>
+          <surname>Euler</surname>
+        </persName>
+      </person>
+      <person xml:id="P0058">
+        <persName>
+          <forename>Friedrich</forename>
+          <surname>Zamminer</surname>
+        </persName>
+      </person>
+      <person xml:id="P0059">
+        <persName>
+          <forename>Claudius</forename>
+          <surname>Ptolemaeus</surname>
+        </persName>
+      </person>
+      <person xml:id="P0060">
+        <persName/>
+      </person>
+      <person xml:id="P0061">
+        <persName>
+          <forename>Johanna</forename>
+          <surname>Kinkel</surname>
+        </persName>
+      </person>
+      <person xml:id="P0062">
+        <persName>
+          <forename>Aristoxenos D.</forename>
+          <surname>Skiadas</surname>
+        </persName>
+      </person>
+      <person xml:id="P0063">
+        <persName>
+          <forename>Albert von</forename>
+          <surname>Thimus</surname>
+        </persName>
+      </person>
+      <person xml:id="P0064">
+        <persName>
+          <forename>Richard</forename>
+          <surname>Hasenclever</surname>
+        </persName>
+      </person>
+      <person xml:id="P0065">
+        <persName/>
+      </person>
+      <person xml:id="P0066">
+        <persName>
+          <forename>Gustav</forename>
+          <surname>Schubring</surname>
+        </persName>
+      </person>
+      <person xml:id="P0067">
+        <persName>
+          <forename>Dr. A.</forename>
+          <surname>Völkel</surname>
+        </persName>
+      </person>
+      <person xml:id="P0068">
+        <persName>
+          <forename>Ephesius</forename>
+          <surname>Heraclitus</surname>
+        </persName>
+      </person>
+      <person xml:id="P0069">
+        <persName>
+          <forename>Heinrich</forename>
+          <surname>Freuler</surname>
+        </persName>
+      </person>
+      <person xml:id="P0070">
+        <persName>
+          <forename>Ernst Florens Friedrich</forename>
+          <surname>Chladni</surname>
+        </persName>
+      </person>
+      <person xml:id="P0071">
+        <persName>
+          <forename>Hermann</forename>
+          <surname>Schroeder</surname>
+        </persName>
+      </person>
+      <person xml:id="P0072">
+        <persName>
+          <forename>Theodor</forename>
+          <surname>Billroth</surname>
+        </persName>
+      </person>
+      <person xml:id="P0073">
+        <persName/>
+      </person>
+      <person xml:id="P0074">
+        <persName>
+          <forename>Ludwig</forename>
+          <surname>Riemann</surname>
+        </persName>
+      </person>
+      <person xml:id="P0075">
+        <persName/>
+      </person>
+      <person xml:id="P0076">
+        <persName/>
+      </person>
+      <person xml:id="P0077">
+        <persName>
+          <forename>Richard</forename>
+          <surname>Hennig</surname>
+        </persName>
+      </person>
+      <person xml:id="P0078">
+        <persName>
+          <forename>Adolf Bernhard</forename>
+          <surname>Marx</surname>
+        </persName>
+      </person>
+      <person xml:id="P0079">
+        <persName>
+          <forename>Johann</forename>
+          <surname>Strauss</surname>
+        </persName>
+      </person>
+      <person xml:id="P0080">
+        <persName>
+          <forename>Ernst Friedrich</forename>
+          <surname>Richter</surname>
+        </persName>
+      </person>
+      <person xml:id="P0081">
+        <persName>
+          <forename>Bernhard</forename>
+          <surname>Ziehn</surname>
+        </persName>
+      </person>
+      <person xml:id="P0082">
+        <persName>
+          <forename>Hermann</forename>
+          <surname>Grädener</surname>
+        </persName>
+      </person>
+      <person xml:id="P0083">
+        <persName>
+          <forename>Karl</forename>
+          <surname>Mayrberger</surname>
+        </persName>
+      </person>
+      <person xml:id="P0084">
+        <persName>
+          <forename>Wilhelm Albert</forename>
+          <surname>Rischbieter</surname>
+        </persName>
+      </person>
+      <person xml:id="P0085">
+        <persName>
+          <forename>Franz</forename>
+          <surname>Schubert</surname>
+        </persName>
+      </person>
+      <person xml:id="P0086">
+        <persName>
+          <forename>Wilhelm</forename>
+          <surname>Wundt</surname>
+        </persName>
+      </person>
+      <person xml:id="P0087">
+        <persName>
+          <forename>Julius</forename>
+          <surname>Röntgen</surname>
+        </persName>
+      </person>
+      <person xml:id="P0088">
+        <persName>
+          <forename>J. J.</forename>
+          <surname>Rousseau</surname>
+        </persName>
+      </person>
+      <person xml:id="P0089">
+        <persName>
+          <forename>M. de</forename>
+          <surname>Morambet</surname>
+        </persName>
+      </person>
+      <person xml:id="P0090">
+        <persName>
+          <forename>Ernst</forename>
+          <surname>Naumann</surname>
+        </persName>
+      </person>
+      <person xml:id="P0091">
+        <persName>
+          <forename>Moritz Wilhelm</forename>
+          <surname>Drobisch</surname>
+        </persName>
+      </person>
+      <person xml:id="P0092">
+        <persName>
+          <forename>Friedrich Wilhelm</forename>
+          <surname>Opelt</surname>
+        </persName>
+      </person>
+      <person xml:id="P0093">
+        <persName>
+          <forename>Siegfried Wilhelm</forename>
+          <surname>Dehn</surname>
+        </persName>
+      </person>
+      <person xml:id="P0094">
+        <persName/>
+      </person>
+      <person xml:id="P0095">
+        <persName>
+          <forename>Johannes Heinrich Niklas</forename>
+          <surname>Möhring</surname>
+        </persName>
+      </person>
+      <person xml:id="P0096">
+        <persName>
+          <forename>Sébastien</forename>
+          <surname>Erard</surname>
+        </persName>
+      </person>
+      <person xml:id="P0097">
+        <persName>
+          <forename>Louis</forename>
+          <surname>Spohr</surname>
+        </persName>
+      </person>
+      <person xml:id="P0098">
+        <persName/>
+      </person>
+      <person xml:id="P0099">
+        <persName>
+          <forename>Antonio</forename>
+          <surname>Eximeno y Pujades</surname>
+        </persName>
+      </person>
+      <person xml:id="P0100">
+        <persName>
+          <forename>Friedrich von</forename>
+          <surname>Drieberg</surname>
+        </persName>
+      </person>
+      <person xml:id="P0101">
+        <persName>
+          <forename>Joseph</forename>
+          <surname>Krieger</surname>
+        </persName>
+      </person>
+      <person xml:id="P0102">
+        <persName>
+          <forename>Johann Friedrich</forename>
+          <surname>Herbart</surname>
+        </persName>
+      </person>
+      <person xml:id="P0103">
+        <persName/>
+      </person>
+      <person xml:id="P0104">
+        <persName>
+          <forename>Christine</forename>
+          <surname>Delezenne</surname>
+        </persName>
+      </person>
+      <person xml:id="P0105">
+        <persName>
+          <forename>E.</forename>
+          <surname>Mach</surname>
+        </persName>
+      </person>
+      <person xml:id="P0106">
+        <persName>
+          <forename>Pietro</forename>
+          <surname>Blaserna</surname>
+        </persName>
+      </person>
+      <person xml:id="P0107">
+        <persName>
+          <forename>Jean-Baptiste</forename>
+          <surname>Lully</surname>
+        </persName>
+      </person>
+      <person xml:id="P0108">
+        <persName>
+          <forename>Johann Heinrich</forename>
+          <surname>Scheibler</surname>
+        </persName>
+      </person>
+      <person xml:id="P0109">
+        <persName>
+          <forename>William T.</forename>
+          <surname>Preyer</surname>
+        </persName>
+      </person>
+      <person xml:id="P0110">
+        <persName>
+          <forename>César Mansuète</forename>
+          <surname>Despretz</surname>
+        </persName>
+      </person>
+      <person xml:id="P0111">
+        <persName>
+          <forename>Alexander John</forename>
+          <surname>Ellis</surname>
+        </persName>
+      </person>
+      <person xml:id="P0112">
+        <persName>
+          <forename>Joseph</forename>
+          <surname>Joachim</surname>
+        </persName>
+      </person>
+      <person xml:id="P0113">
+        <persName>
+          <forename>Jean Baptiste Joseph</forename>
+          <surname>Fourier</surname>
+        </persName>
+      </person>
+      <person xml:id="P0114">
+        <persName>
+          <forename>Georg Simon</forename>
+          <surname>Ohm</surname>
+        </persName>
+      </person>
+      <person xml:id="P0115">
+        <persName>
+          <forename>Georg Andreas</forename>
+          <surname>Sorge</surname>
+        </persName>
+      </person>
+      <person xml:id="P0116">
+        <persName>
+          <forename>Joseph</forename>
+          <surname>Bonnet</surname>
+        </persName>
+      </person>
+      <person xml:id="P0117">
+        <persName>
+          <forename>Etienne Bonnot de</forename>
+          <surname>Condillac</surname>
+        </persName>
+      </person>
+      <person xml:id="P0118">
+        <persName>
+          <forename>Wilhelm Fridolin</forename>
+          <surname>Volkmann von Volkmar</surname>
+        </persName>
+      </person>
+      <person xml:id="P0119">
+        <persName/>
+      </person>
+      <person xml:id="P0120">
+        <persName/>
+      </person>
+      <person xml:id="P0121">
+        <persName/>
+      </person>
+      <person xml:id="P0122">
+        <persName>
+          <forename>Robert von</forename>
+          <surname>Zimmermann</surname>
+        </persName>
+      </person>
+      <person xml:id="P0123">
+        <persName>
+          <forename>Paul</forename>
+          <surname>Marquard</surname>
+        </persName>
+      </person>
+      <person xml:id="P0124">
+        <persName/>
+      </person>
+      <person xml:id="P0125">
+        <persName>
+          <forename>Gottfried Wilhelm</forename>
+          <surname>Leibniz</surname>
+        </persName>
+      </person>
+      <person xml:id="P0126">
+        <persName>
+          <forename>Gotthold Ephraim</forename>
+          <surname>Lessing</surname>
+        </persName>
+      </person>
+      <person xml:id="P0127">
+        <persName>
+          <forename>Immanuel</forename>
+          <surname>Kant</surname>
+        </persName>
+      </person>
+      <person xml:id="P0128">
+        <persName>
+          <forename>W.</forename>
+          <surname>Tappert</surname>
+        </persName>
+      </person>
+      <person xml:id="P0129">
+        <persName>
+          <forename>Joseph Adolph</forename>
+          <surname>Leibrock</surname>
+        </persName>
+      </person>
+      <person xml:id="P0130">
+        <persName>
+          <forename>Ferdinand Peter</forename>
+          <surname>Laurencin d'Armond</surname>
+        </persName>
+      </person>
+      <person xml:id="P0131">
+        <persName>
+          <forename>August Wilhelm</forename>
+          <surname>Ambros</surname>
+        </persName>
+      </person>
+      <person xml:id="P0132">
+        <persName>
+          <forename>Luca</forename>
+          <surname>Marenzio</surname>
+        </persName>
+      </person>
+      <person xml:id="P0133">
+        <persName>
+          <forename>Otto</forename>
+          <surname>Kraushaar</surname>
+        </persName>
+      </person>
+      <person xml:id="P0134">
+        <persName>
+          <forename>J. F.</forename>
+          <surname>Kunckel</surname>
+        </persName>
+      </person>
+      <person xml:id="P0135">
+        <persName>
+          <forename>Andreas</forename>
+          <surname>Kretzschmer</surname>
+        </persName>
+      </person>
+      <person xml:id="P0136">
+        <persName>
+          <forename>Daniel Gottlob</forename>
+          <surname>Türk</surname>
+        </persName>
+      </person>
+      <person xml:id="P0137">
+        <persName>
+          <forename>Friedrich</forename>
+          <surname>Schneider</surname>
+        </persName>
+      </person>
+      <person xml:id="P0138">
+        <persName>
+          <forename>de Sancto Amando</forename>
+          <surname>Hucbaldus</surname>
+        </persName>
+      </person>
+      <person xml:id="P0139">
+        <persName/>
+      </person>
+      <person xml:id="P0140">
+        <persName>
+          <forename>Johann Anton</forename>
+          <surname>André</surname>
+        </persName>
+      </person>
+      <person xml:id="P0141">
+        <persName>
+          <forename>Heinrich Christoph</forename>
+          <surname>Koch</surname>
+        </persName>
+      </person>
+      <person xml:id="P0142">
+        <persName>
+          <forename>G. F. W. von</forename>
+          <surname>Fink</surname>
+        </persName>
+      </person>
+      <person xml:id="P0143">
+        <persName>
+          <forename>Johann Gottlieb</forename>
+          <surname>Portmann</surname>
+        </persName>
+      </person>
+      <person xml:id="P0144">
+        <persName>
+          <forename>Johann Christian</forename>
+          <surname>Lobe</surname>
+        </persName>
+      </person>
+      <person xml:id="P0145">
+        <persName>
+          <forename>Friedrich Wilhelm</forename>
+          <surname>Schütze</surname>
+        </persName>
+      </person>
+      <person xml:id="P0146">
+        <persName>
+          <forename>Johann Georg</forename>
+          <surname>Albrechtsberger</surname>
+        </persName>
+      </person>
+      <person xml:id="P0147">
+        <persName>
+          <forename>Daniel-François-Esprit</forename>
+          <surname>Auber</surname>
+        </persName>
+      </person>
+      <person xml:id="P0148">
+        <persName>
+          <forename>Johann Rudolf</forename>
+          <surname>Zumsteeg</surname>
+        </persName>
+      </person>
+      <person xml:id="P0149">
+        <persName>
+          <forename>Luigi</forename>
+          <surname>Cherubini</surname>
+        </persName>
+      </person>
+      <person xml:id="P0150">
+        <persName>
+          <forename>Johann Nepomuk</forename>
+          <surname>Hummel</surname>
+        </persName>
+      </person>
+      <person xml:id="P0151">
+        <persName>
+          <forename>Gustav</forename>
+          <surname>Schilling</surname>
+        </persName>
+      </person>
+      <person xml:id="P0152">
+        <persName>
+          <forename>Friedrich</forename>
+          <surname>Schiller</surname>
+        </persName>
+      </person>
+      <person xml:id="P0153">
+        <persName>
+          <forename>Aleksandr Dmitrievič</forename>
+          <surname>Ulybyšev</surname>
+        </persName>
+      </person>
+      <person xml:id="P0154">
+        <persName>
+          <forename>Franz</forename>
+          <surname>Stöpel</surname>
+        </persName>
+      </person>
+      <person xml:id="P0155">
+        <persName>
+          <forename>John</forename>
+          <surname>Curwen</surname>
+        </persName>
+      </person>
+      <person xml:id="P0156">
+        <persName>
+          <forename>Carl Ludwig</forename>
+          <surname>Merkel</surname>
+        </persName>
+      </person>
+      <person xml:id="P0157">
+        <persName>
+          <forename>Johann Friedrich</forename>
+          <surname>Bellermann</surname>
+        </persName>
+      </person>
+      <person xml:id="P0158">
+        <persName>
+          <forename>Simon</forename>
+          <surname>Sechter</surname>
+        </persName>
+      </person>
+      <person xml:id="P0159">
+        <persName>
+          <forename>Carl</forename>
+          <surname>Fortlage</surname>
+        </persName>
+      </person>
+      <person xml:id="P0160">
+        <persName/>
+      </person>
+      <person xml:id="P0161">
+        <persName>
+          <forename>Nicolaus Johannes de</forename>
+          <surname>Bona</surname>
+        </persName>
+      </person>
+      <person xml:id="P0162">
+        <persName/>
+      </person>
+      <person xml:id="P0163">
+        <persName>
+          <forename>William</forename>
+          <surname>Jones</surname>
+        </persName>
+      </person>
+      <person xml:id="P0164">
+        <persName/>
+      </person>
+      <person xml:id="P0165">
+        <persName>
+          <forename>Friedrich</forename>
+          <surname>Layriz</surname>
+        </persName>
+      </person>
+      <person xml:id="P0166">
+        <persName>
+          <forename>F.</forename>
+          <surname>Brenner</surname>
+        </persName>
+      </person>
+      <person xml:id="P0167">
+        <persName>
+          <forename>Johann Leberecht Ehregott</forename>
+          <surname>Punschel</surname>
+        </persName>
+      </person>
+      <person xml:id="P0168">
+        <persName/>
+      </person>
+      <person xml:id="P0169">
+        <persName>
+          <forename>Papst</forename>
+          <surname>Johannes XXII.</surname>
+        </persName>
+      </person>
+      <person xml:id="P0170">
+        <persName>
+          <forename>Giovanni Pierluigi da</forename>
+          <surname>Palestrina</surname>
+        </persName>
+      </person>
+      <person xml:id="P0171">
+        <persName>
+          <forename>Joachim</forename>
+          <surname>Raff</surname>
+        </persName>
+      </person>
+      <person xml:id="P0172">
+        <persName>
+          <forename>Otfried</forename>
+          <surname>Rötscher</surname>
+        </persName>
+      </person>
+      <person xml:id="P0173">
+        <persName>
+          <forename>Giacomo</forename>
+          <surname>Meyerbeer</surname>
+        </persName>
+      </person>
+    </listPerson>
+  </standOff>
+</TEI>

@@ -1,0 +1,85 @@
+---
+layout: page
+title: "Location Index"
+toc_exclude: true
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Location Index</title>
+  <style>
+  </style>
+</head>
+<body>
+  <div id="letterNav"></div>
+  <ul id="locationList"></ul>
+
+  <script>
+    async function loadXML(url) {
+      const response = await fetch(url);
+      const text = await response.text();
+      return new window.DOMParser().parseFromString(text, "application/xml");
+    }
+
+    function parseTEI(xmlDoc) {
+        const places = [...xmlDoc.querySelectorAll("place")];
+        return places.map(p => {
+            const id = p.getAttribute("xml:id") || "";
+            const name = p.querySelector("placeName")?.textContent.trim() || "";
+            const gnd = p.querySelector('idno[type="GND"]')?.textContent.trim() || "";
+            return { id, name, gnd };
+            });
+    }
+
+    function createSortedList(data) {
+      const list = document.getElementById("locationList");
+      list.innerHTML = "";
+
+      const letterNav = document.getElementById("letterNav");
+      letterNav.innerHTML = ""; // clear old navigation
+
+      // sort alphabetically
+      data.sort((a, b) => a.name.localeCompare(b.name));
+
+       const letters = [...new Set(  data.map(p => p.name.trim().charAt(0).toUpperCase() || "#"))].sort((a, b) => a.localeCompare(b));
+       for (const letter of letters) {
+          const a = document.createElement("a");
+          a.href = `#letter-${letter}`;
+          a.textContent = letter;
+          a.style.margin = "0 0.3em";
+          letterNav.appendChild(a);
+        }
+
+
+      let currentLetter = "";
+      for (const place of data) {
+        const firstLetter = place.name.trim().charAt(0).toUpperCase() || "#";
+
+        if (firstLetter !== currentLetter) {
+          currentLetter = firstLetter;
+          const header = document.createElement("h5");
+          header.className = "letter-heading";
+          header.id = `letter-${currentLetter}`; // for jump links
+          header.textContent = currentLetter;
+          list.appendChild(header);
+        }
+
+        const li = document.createElement("li");
+        const a = document.createElement("a");
+        a.href = `../index_result_locations?location=${place.id}`;
+        a.textContent = place.name;
+        li.appendChild(a);
+        list.appendChild(li);
+      }
+    }
+
+    // Main
+    (async function () {
+      const xmlDoc = await loadXML('../locations.xml'); // file is in same folder as this HTML
+      const places = parseTEI(xmlDoc);
+      createSortedList(places);
+    })();
+  </script>
+</body>
+</html>

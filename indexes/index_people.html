@@ -7,7 +7,7 @@ toc_exclude: true
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>People Index (TEI)</title>
+  <title>People Index</title>
   <style>
     .letter-heading {
       font-weight: bold;
@@ -17,6 +17,7 @@ toc_exclude: true
   </style>
 </head>
 <body>
+  <div id="letterNav"></div>
   <ul id="personList"></ul>
 
   <script>
@@ -27,66 +28,131 @@ toc_exclude: true
     }
 
     function parseTEI(xmlDoc) {
-  const persons = [...xmlDoc.querySelectorAll("person")];
-  return persons.map(p => {
-    const id = p.getAttribute("xml:id") || "";
+    const persons = [...xmlDoc.querySelectorAll("person")];
+    return persons.map(p => {
+      const id = p.getAttribute("xml:id") || "";
 
-    const persName = p.querySelector("persName");
-    const forename = persName?.querySelector("forename")?.textContent.trim() || "";
-    const surname  = persName?.querySelector("surname")?.textContent.trim() || "";
+      const persName = p.querySelector("persName");
+      const forename = persName?.querySelector("forename")?.textContent.trim() || "";
+      const surname  = persName?.querySelector("surname")?.textContent.trim() || "";
 
-    let name = "";
-    if (surname && forename) {
-      name = `${surname}, ${forename}`;  // "Surname, Forename"
-    } else if (surname) {
-      name = surname;
-    } else if (forename) {
-      name = forename;
-    } else if (persName?.childNodes.length === 1 && persName.firstChild.nodeType === Node.TEXT_NODE) {
-      // handle flat cases like <persName>Plato</persName>
-      name = persName.textContent.trim();
-    } else {
-      name = "[Unnamed Person]";
+      let name = "";
+      if (surname && forename) {
+        name = `${surname}, ${forename}`;  // "Surname, Forename"
+      } else if (surname) {
+        name = surname;
+      } else if (forename) {
+        name = forename;
+      } else if (persName?.childNodes.length === 1 && persName.firstChild.nodeType === Node.TEXT_NODE) {
+        // handle flat cases like <persName>Plato</persName>
+        name = persName.textContent.trim();
+      } else {
+        name = "[Unnamed Person]";
+      }
+
+      const gnd = p.querySelector('idno[type="GND"]')?.textContent.trim() || "";
+      return { id, name, gnd };
+      });
     }
 
-    const gnd = p.querySelector('idno[type="GND"]')?.textContent.trim() || "";
-    return { id, name, gnd };
-  });
-}
+    
 
-    function createSortedList(data) {
+
+function findBibliosByPersonId(xmldoc, personId) {
+      const results = [];
+      const bibls = xmldoc.getElementsByTagName("bibl");
+
+      for (let bibl of bibls) {
+        const biblId = bibl.getAttribute("xml:id");
+        const titleEl = bibl.getElementsByTagName("title")[0];
+        const title = titleEl ? titleEl.textContent.trim() : null;
+
+        const authorNames = bibl.getElementsByTagName("name");
+        for (let nameEl of authorNames) {
+          const ref = nameEl.getAttribute("ref");
+          if (ref) {
+            const refId = ref.split("#")[1]; // take part after '#'
+            if (refId === personId) {
+              results.push({ biblId, title });
+              break; // stop checking other authors in this bibl
+            }
+          }
+        }
+      }
+
+      return results.length > 0 ? results : null;
+    }
+
+   function createSortedList(data, xmldoc_works) {
       const list = document.getElementById("personList");
       list.innerHTML = "";
 
+      const letterNav = document.getElementById("letterNav");
+      letterNav.innerHTML = ""; // clear old navigation
+
       // sort alphabetically
       data.sort((a, b) => a.name.localeCompare(b.name));
+
+      // generate unique letters for navigation
+      const letters = [...new Set(  data.map(p => p.name.trim().charAt(0).toUpperCase() || "#"))].sort((a, b) => a.localeCompare(b));
+      for (const letter of letters) {
+        const a = document.createElement("a");
+        a.href = `#letter-${letter}`;
+        a.textContent = letter;
+        a.style.margin = "0 0.3em";
+        letterNav.appendChild(a);
+      }
 
       let currentLetter = "";
       for (const person of data) {
         const firstLetter = person.name.trim().charAt(0).toUpperCase() || "#";
 
+        // create letter heading if first time
         if (firstLetter !== currentLetter) {
           currentLetter = firstLetter;
           const header = document.createElement("h5");
           header.className = "letter-heading";
+          header.id = `letter-${currentLetter}`; // for jump links
           header.textContent = currentLetter;
           list.appendChild(header);
         }
 
+        // create person list item
         const li = document.createElement("li");
         const a = document.createElement("a");
         a.href = `../index_result_people?person=${person.id}`;
         a.textContent = person.name;
         li.appendChild(a);
+
+        // find works for this person
+        const works_results = findBibliosByPersonId(xmldoc_works, person.id);
+        if (works_results) {
+          const ul = document.createElement("ul");
+          for (const { biblId, title } of works_results) {
+            const workLi = document.createElement("li");
+            const link = document.createElement("a");
+
+            link.href = `index_result_works.html/${biblId}`;
+            link.textContent = title || "(Untitled)";
+
+            workLi.appendChild(link);
+            ul.appendChild(workLi);
+          }
+          li.appendChild(ul); // append works list under person
+        }
+
         list.appendChild(li);
       }
     }
+
+
 
     // Main
     (async function () {
       const xmlDoc = await loadXML('../people.xml'); // file is in same folder as this HTML
       const people = parseTEI(xmlDoc);
-      createSortedList(people);
+      const xmldoc_works = await loadXML("../works.xml")
+      createSortedList(people, xmldoc_works);
     })();
   </script>
 </body>

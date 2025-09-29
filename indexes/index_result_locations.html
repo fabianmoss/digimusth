@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Index Result with gnd"
+title: "Index Result Locations"
 toc_exclude: true
 ---
 
 <head>
-  <title>Person Result Page</title>
+  <title>Locations Result Page</title>
   <style>
     
   </style>
@@ -33,61 +33,54 @@ toc_exclude: true
 
 
     const currentUrl = new URL(window.location.href);
-    const personId = currentUrl.searchParams.get("person");
+    const placeId = currentUrl.searchParams.get("location");
     const resultContainer = document.getElementById("results");
 
-    if (!personId) {
-      resultContainer.innerText = "No person ID provided in URL.";
+    if (!placeId) {
+      resultContainer.innerText = "No place ID provided in URL.";
     } else {
-      searchPersonInXMLs(personId);
+      searchPlaceInXMLs(placeId);
     }
 
-    // -------- Person metadata loader --------
-    async function loadPersonMetadata(id) {
+    // -------- Place metadata loader --------
+    async function loadPlaceMetadata(id) {
       try {
-    const res = await fetch(`{{ site.baseurl }}/indexes/people.xml`);
+    const res = await fetch(`{{ site.baseurl }}/indexes/locations.xml`);
      if (!res.ok) return null;
         const text = await res.text();
         const parser = new DOMParser();
         const xmlDoc = parser.parseFromString(text, "application/xml");
 
-        // find person by xml:id
-        let personEl = null;
-        xmlDoc.querySelectorAll("person").forEach(p => {
+        // find place by xml:id
+        let placeEl = null;
+        xmlDoc.querySelectorAll("place").forEach(p => {
           if (p.getAttribute("xml:id") === id) {
-            personEl = p;
+            placeEl = p;
           }
         });
-        if (!personEl) return null;
+        if (!placeEl) return null;
 
-        // try structured name, otherwise fallback
-        const forename = personEl.querySelector("persName > forename")?.textContent || "";
-        const surname = personEl.querySelector("persName > surname")?.textContent || "";
-        let fullName = (forename + " " + surname).trim();
-        if (!fullName) {
-          fullName = personEl.querySelector("persName")?.textContent.trim() || "Unknown Person";
-        }
+        const placeName = placeEl.querySelector("placeName")?.textContent.trim() || "";
+        const gnd = placeEl.querySelector('idno[type="GND"]')?.textContent || null;
+        const note = placeEl.querySelector("note")?.textContent || null;
 
-        const gnd = personEl.querySelector('idno[type="GND"]')?.textContent || null;
-        const note = personEl.querySelector("note")?.textContent || null;
-
-        return { fullName, gnd, note };
+        return {placeName, gnd, note };
       } catch (err) {
-        console.error("Error loading person metadata:", err);
+        console.error("Error loading place metadata:", err);
         return null;
       }
     }
 
 
     // -------- Main search --------
-     async function searchPersonInXMLs(id) {
+     async function searchPlaceInXMLs(id) {
       try {
-        const metadata = await loadPersonMetadata(id);
+        const metadata = await loadPlaceMetadata(id);
         if (metadata) {
           const metaDiv = document.createElement("div");
           const gndNumber = metadata.gnd ? metadata.gnd.split("/").pop() : null;
           metaDiv.innerHTML = `
-            <h1>${metadata.fullName}</h1>
+            <h1>${metadata.placeName}</h1>
             ${metadata.gnd ? `<p><a href="${metadata.gnd}" target="_blank">GND: ${gndNumber}</a></p>` : ""}
             ${metadata.note ? `<p><em>${metadata.note}</em></p>` : ""}
             <hr/>
@@ -110,10 +103,10 @@ toc_exclude: true
           if (!content) return;
           const parser = new DOMParser();
           const xmlDoc = parser.parseFromString(content, "application/xml");
-          const people = xmlDoc.querySelectorAll(`persName[ref="#${id}"]`);
+          const places = xmlDoc.querySelectorAll(`placeName[ref="#${id}"]`);
 
-          people.forEach(personEl => {
-            const parent = personEl.closest("p") || personEl.parentNode;
+          places.forEach(placeEl => {
+            const parent = placeEl.closest("p") || placeEl.parentNode;
             const facs = parent.getAttribute("facs") || "";
             const walker = document.createTreeWalker(parent, NodeFilter.SHOW_TEXT, null);
             let charCount = 0;
@@ -122,7 +115,7 @@ toc_exclude: true
 
             while (walker.nextNode()) {
               const node = walker.currentNode;
-              if (personEl.contains(node)) {
+              if (placeEl.contains(node)) {
                 if (targetStart === -1) targetStart = charCount;
                 targetEnd = charCount + node.textContent.length;
               }
@@ -152,7 +145,7 @@ toc_exclude: true
     // -------- Display results --------
     async function displayResults(matches, id) {
       if (matches.length === 0) {
-        resultContainer.innerHTML += `<p>No matches found for person ID "${id}".</p>`;
+        resultContainer.innerHTML += `<p>No matches found for place ID "${id}".</p>`;
         return;
       }
 

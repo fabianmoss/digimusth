@@ -5,7 +5,7 @@ title: Research Engagement
 
 ### TEI conference 2025
 
-* Roeder, T., Klinger, J., Stickler, F., Keupp, C., & Moss, F. C. (2025) Multimodality and Minimal Publishing: TEI,MEI and more in 19th-Century Music Treatises. _25th Annual Meeting of the Text Encoding Initiative_. 16–17 September 2025, Kraków, Poland.
+* Roeder, T., Klinger, J., Stickler, F., Keupp, C., & Moss, F. C. (2025) Multimodality and Minimal Publishing: TEI,MEI and more in 19th-Century Music Treatises. _25th Annual Meeting of the Text Encoding Initiative_. 16–17 September 2025, Kraków, Poland. DOI: [10.5281/zenodo.17205769](https://doi.org/10.5281/zenodo.17205769).
 
 ### DH Kolloquium der BBAW | Fabian Moss
 
