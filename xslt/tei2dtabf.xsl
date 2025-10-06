@@ -2,12 +2,12 @@
 
 <!-- Stylesheet zur Transformation der TEI-Digitmus-Texte zu DTABf-konformer Version.
 		Nach der Transformation:
-			1. Prüfen, ob im Front-Bereich alles stimmt (besonders byline und imprint).
-			2. Alle 'tei:' in Elementnamen entfernen und alle ' xmlns:tei="http://www.tei-c.org/ns/1.0"'-Attribute entfernen.
-			3. Whitespace zwischen teiHeader und text-Bereich entfernen.
-			4. Falls Inhaltsverzeichnis: Seitenangaben in ref-Elemente innerhalb der item-Elemente einschließen
-			5. Checken, ob die Verschachtelung der Unter-/Kapitel-Divs stimmt und die @n entsprechend anpassen.
-			6.
+			1. RNG und Schematron einfügen
+			2. Alle 'tei:' in Elementnamen entfernen und alle ' xmlns:tei="http://www.tei-c.org/ns/1.0"'-Attribute entfernen. 
+			3. Leere ' n=""'-Attribute entfernen.
+	  !!	4. Whitespace zwischen teiHeader und text-Bereich entfernen. (Bei Transformation nicht wundern wenn das Ausgabedokument unvollsätndig aussieht und scrollen.)
+			5. $ zu Beginn und Ende einer jeden formula entfernen. (XPath: //formula)
+			
 -->
 <xsl:stylesheet version="3.0"
 	xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
@@ -19,28 +19,44 @@
 	
 	<!-- Suppress or change elements and attributes not allowed in DTABf (in their current form) -->
 	
-	<!-- Suppress facs attribute on div element -->
-	<xsl:template match="tei:div/@facs"/>
+	<!-- Template to suppress facsimile elements -->
+	<xsl:template match="tei:facsimile"/>
 	
-	<!-- Suppress div elements with @rend='GRAPHIC' -->
-	<xsl:template match="tei:div[@rend='GRAPHIC']"/>
+	<!-- Template to suppress figure elements -->
+	<xsl:template match="tei:figure"/>
 	
-	<!-- Suppress div elements with @rend='MEI' -->
-	<xsl:template match="tei:div[@rend='MEI']"/>
+	<!-- Suppress xml:space attribute on text element -->
+	<xsl:template match="tei:text/@xml:space"/>
 	
-	<!-- Suppress type attribute on div element -->
-	<xsl:template match="tei:div/@type"/>
+	<!-- Suppress ana attribute and corresp attribute on titlepart element -->
+	<xsl:template match="tei:titlePart/@ana"/>
+	<xsl:template match="tei:titlePart/@corresp"/>
+	
+	<!-- Suppress attributes from persName -->
+	<xsl:template match="tei:persName">
+		<tei:persName><xsl:apply-templates select="node()"/></tei:persName>
+	</xsl:template>
+	
+	<!-- Suppress ref attribute on docAuthor element -->
+	<xsl:template match="tei:docAuthor/@ref"/>
+	
+	<!-- Suppress title elements within body-->
+	<xsl:template match="tei:body//tei:title"/>
+	
+	<!-- Suppress title elements within back-->
+	<xsl:template match="tei:back//tei:title"/>
+	
+	<!-- Suppress facs attribute on note element -->
+	<xsl:template match="tei:note/@facs"/>
 	
 	<!-- Suppress facs attribute on p element -->
 	<xsl:template match="tei:p/@facs"/>
 	
+	<!-- Suppress facs attribute on list element -->
+	<xsl:template match="tei:list/@facs"/>
+	
 	<!-- Suppress facs attribute on lb element -->
 	<xsl:template match="tei:lb/@facs"/>
-	
-	<!-- Suppress title elements but not their content -->
-	<xsl:template match="tei:text//tei:title">
-		<xsl:apply-templates select="node()"/>
-	</xsl:template>
 	
 	<!-- Suppress rs-elements but not their content -->
 	<xsl:template match="tei:rs">
@@ -52,8 +68,7 @@
 		<xsl:apply-templates select="node()"/>
 	</xsl:template>
 	
-	<!-- Template to suppress facsimile elements -->
-	<xsl:template match="tei:facsimile"/>
+	
 	
 	<xsl:template match="tei:hi">
 		<xsl:copy>
@@ -88,122 +103,29 @@
 		</xsl:copy>
 	</xsl:template>
 	
-	<!-- Suppress first div element of type other-->
-	<xsl:template match="tei:div[@type='other'][1]"/>
-	
-	<!-- Suppress div elements of type TOC-entry -->
-	<xsl:template match="tei:div[@type='TOC-entry']"/>
-	
-	<!-- Suppress div with type heading if it is immediately preceded by a div[@type='other'] -->
-	<xsl:template match="tei:div[@type='heading'][preceding-sibling::tei:div[1][@type='other']]">
+	<!-- Change representation of page numbers @facs attribute -->
+	<xsl:template match="tei:pb">
+		<xsl:variable name="orig" select="@facs"/>
+		<!-- Extract numeric part after 'facs_' -->
+		<xsl:variable name="num" select="replace($orig, '^#facs_(\d+)$', '$1')"/>
+		<!-- Format as 4-digit number with leading zeros -->
+		<tei:pb facs="{concat('#f', format-number(number($num), '0000'))}" n="{./@n}"/>
 	</xsl:template>
 	
-	<!-- Change representation of page numbers to DTABf-structure -->
-	<xsl:template match="tei:pb[following-sibling::*[1][self::tei:div[@type='page-number']]]">
-		<xsl:variable name="new-n" select="normalize-space(string-join((following-sibling::tei:div[@type='page-number'])[1]/tei:p//text(), ''))"/>
-		<tei:pb facs="{replace(@facs, '#facs_', '#f')}" n="{$new-n}"/>
+	<!-- Change representation of notadedMusic -->
+	<xsl:template match="tei:notatedMusic">
+		<tei:figure type="notatedMusic"/>
+	</xsl:template>
+	<!-- Change representation of type attribute in note -->
+	<xsl:template match="tei:note/@type">
+		<xsl:attribute name="type">
+			<xsl:value-of select="string('remarkSource')"/>
+		</xsl:attribute>
 	</xsl:template>
 	
-	<!-- Suppress the <div type='page-number'> -->
-	<xsl:template match="tei:div[@type='page-number']"/>
-	
-	<!-- Suppress attributes from persName -->
-	<xsl:template match="tei:persName">
-		<tei:persName>
-			<xsl:apply-templates select="node()"/>
-		</tei:persName>
-	</xsl:template>
-	
-	<!-- Insert front and fill with titlePage and table of contents -->
-	<!-- Template to modify <tei:text> -->
-	<xsl:template match="tei:text">
-		<xsl:copy>
-			<!-- Copy attributes if any -->
-			<xsl:copy-of select="@*[not(name() = 'xml:space')]"/>
-			
-			<!-- Insert new <front> element before existing children -->
-			<tei:front>
-				<!-- Select all children before the <div type="other"> -->
-				<xsl:apply-templates select="//tei:div[@type='other'][1]/preceding-sibling::tei:pb"/>
-					<tei:titlePage type="main">
-						<tei:docTitle>
-							<tei:titlePart type="main">
-							<!-- Extract the <title> from the first div[@type='other'] -->
-							<xsl:apply-templates select=".//tei:div[@type='other'][1]//tei:title"/>
-							</tei:titlePart>
-						</tei:docTitle>
-					</tei:titlePage>
-				
-					<xsl:call-template name="make-byline"/>
-					<xsl:call-template name="make-docImprint"/>
-					
-					<!-- table of contents -->
-				<xsl:if test=".//tei:div[@type='other' and following-sibling::tei:div[1][@type='heading']]">
-						<tei:div type="contents">
-							<tei:head><xsl:value-of select="//tei:div[@type='other']/following-sibling::tei:div[@type='heading'][1]/tei:p"/></tei:head>
-							<tei:list>
-								<xsl:for-each select=".//tei:div[@type='TOC-entry']/tei:p">
-									<tei:item>
-										<xsl:value-of select="."/>
-									</tei:item>
-								</xsl:for-each>
-							</tei:list>
-						</tei:div>
-					</xsl:if>
-					
-			</tei:front>
-			
-			<!-- Copy existing children (like <body>) -->
-			<xsl:apply-templates select="node()"/>
-		</xsl:copy>
-	</xsl:template>
-	
-	<!-- front: title page -->
-	
-	<!-- create the byline element with content from after the title up until the end of the person-element -->
-	<xsl:template name="make-byline">
-		<xsl:variable name="p" select="//tei:div[@type='other'][1]/tei:p"/>
-		
-		<tei:byline>
-			<xsl:iterate select="$p/tei:title/following-sibling::node()">
-				<xsl:apply-templates select="."/>
-				<xsl:if test="self::tei:persName">
-					<xsl:break/>
-				</xsl:if>
-			</xsl:iterate>
-		</tei:byline>
-	</xsl:template>
-	
-	<!-- create the docImprint element with content from after persName until the end of the paragraph -->
-	<xsl:template name="make-docImprint">
-		<xsl:variable name="p" select="//tei:div[@type='other'][1]/tei:p"/>
-		
-		<tei:docImprint>
-			<xsl:iterate select="$p/tei:persName/following-sibling::node()">
-				<xsl:apply-templates select="."/>
-			</xsl:iterate>
-		</tei:docImprint>
-	</xsl:template>
-	
-	<!-- Change first persName after title to docAuthor -->
-	<xsl:template match="tei:div[@type='other'][1]//tei:persName">
-		<tei:docAuthor>
-			<xsl:apply-templates select="node()"/>
-		</tei:docAuthor>
-	</xsl:template>
-	
-	<!-- Change first placeName after title to pubPlace -->
-	<xsl:template match="tei:div[@type='other'][1]//tei:placeName">
-		<tei:pubPlace>
-			<xsl:apply-templates select="node()"/>
-		</tei:pubPlace>
-	</xsl:template>
-	
-	<!-- Change first date after title to docDate -->
-	<xsl:template match="tei:div[@type='other'][1]//tei:date">
-		<tei:docDate>
-			<xsl:apply-templates select="@* | node()"/>
-		</tei:docDate>
+	<!-- Change representation of mathematical notations -->
+	<xsl:template match="tei:formula">
+		<tei:formula notation="TeX"><xsl:apply-templates select="node()"/></tei:formula>
 	</xsl:template>
 	
 	
