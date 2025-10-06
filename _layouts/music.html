@@ -25,7 +25,14 @@ layout: music_base
   <body>
 	<div id="path" class="hidden">{{ page.name }}</div> <!-- needed for the following logic to identify the path -->
   	<!-- container for TEI document -->
-    <div id="TEI"></div>
+    <div id="container" style="display: flex; align-items: flex-start;">
+		<div id="TEI" style="flex: 2; padding-right: 1em; position: relative;">
+			<!-- CETEIcean renders TEI content here -->
+		</div>
+		<div id="notesSidebar" style="flex: 1; border-left:1px solid #ccc; padding-left:1em;">
+			<!-- Notes will be moved here -->
+		</div>
+	</div>
   	<!-- rendition -->
 	
   	<script>
@@ -292,10 +299,148 @@ layout: music_base
 		}
 		}
 
-		function escapeRegExp(s) {
-		return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+	//footnotes 
+	document.addEventListener("DOMContentLoaded", () => {
+	const mainText = document.getElementById("TEI");
+	const sidebar = document.getElementById("notesSidebar");
+	if (!mainText || !sidebar) return;
+
+	let allMarkers = [];
+	let allNoteEntries = [];
+	let noteCounter = 0;
+
+	function processNotes(notes) {
+		notes.forEach(note => {
+		const n = note.getAttribute("n") || "?";
+		//const safeId = "note-" + n.replace(/[^a-zA-Z0-9_-]/g, "_");
+		noteCounter++;
+		const safeId = "note-" + noteCounter;
+
+		// Insert marker in main text
+		const marker = document.createElement("span");
+		marker.classList.add("note-marker");
+		marker.dataset.note = n;
+		marker.textContent = `${n}`;
+		note.after(marker);
+
+		// Move note to sidebar
+		const noteEntry = document.createElement("div");
+		noteEntry.classList.add("note-entry");
+		noteEntry.id = safeId;
+		noteEntry.dataset.note = n;
+		// add the "n" label at the top of the note entry
+
+			const nSpan = document.createElement("span");
+			nSpan.classList.add("note-label");
+			nSpan.textContent = `${n} `;
+			noteEntry.appendChild(nSpan);
+		while (note.firstChild) noteEntry.appendChild(note.firstChild);
+		sidebar.appendChild(noteEntry);
+		note.remove();
+
+		allMarkers.push(marker);
+		allNoteEntries.push(noteEntry);
+
+		// Click marker highlights note
+		marker.addEventListener("click", () => {
+			document.querySelectorAll(".note-entry").forEach(e => e.classList.remove("active"));
+			noteEntry.classList.add("active");
+			noteEntry.scrollIntoView({ behavior: "smooth", block: "nearest" });
+		});
+		});
+
+		// Wait for content to load, then align
+		setTimeout(() => {
+		waitForImages().then(() => {
+			setTimeout(alignAllNotes, 300);
+		});
+		}, 100);
+	}
+
+	function waitForImages() {
+		const images = mainText.querySelectorAll("img");
+		const svgs = mainText.querySelectorAll("svg");
+		
+		const promises = [];
+		
+		// Wait for images
+		images.forEach(img => {
+		if (!img.complete) {
+			promises.push(new Promise(resolve => {
+			img.addEventListener("load", resolve);
+			img.addEventListener("error", resolve);
+			}));
+		}
+		});
+
+		// Give SVGs time to render
+		if (svgs.length > 0) {
+		promises.push(new Promise(resolve => setTimeout(resolve, 500)));
 		}
 
+		return Promise.all(promises);
+	}
+
+	function alignAllNotes() {
+		if (allMarkers.length === 0) return;
+
+		const sidebarTop = sidebar.getBoundingClientRect().top;
+		
+		// Reset all margins first
+		allNoteEntries.forEach(entry => {
+		entry.style.marginTop = "0";
+		entry.style.marginBottom = "0.5em";
+		});
+
+		// Force reflow
+		sidebar.offsetHeight;
+
+		// Process each note sequentially
+		for (let i = 0; i < allMarkers.length; i++) {
+		const marker = allMarkers[i];
+		const noteEntry = allNoteEntries[i];
+		
+		// Get current positions after previous adjustments
+		const markerTop = marker.getBoundingClientRect().top;
+		const noteTop = noteEntry.getBoundingClientRect().top;
+		
+		// Calculate where marker is relative to sidebar top
+		const markerOffset = markerTop - sidebarTop;
+		// Calculate where note currently is relative to sidebar top
+		const noteOffset = noteTop - sidebarTop;
+		
+		// How much do we need to push this note down?
+		const adjustmentNeeded = markerOffset - noteOffset;
+		
+		// Only push down, never up (which would cause overlap)
+		if (adjustmentNeeded > 0) {
+			noteEntry.style.marginTop = adjustmentNeeded + "px";
+		}
+		
+		console.log(`Note ${i+1} (${noteEntry.dataset.note}): marker @${markerOffset.toFixed(1)}px, note @${noteOffset.toFixed(1)}px, adjustment: ${adjustmentNeeded.toFixed(1)}px`);
+		}
+	}
+
+	// Observe mainText for dynamically loaded notes
+	const observer = new MutationObserver((mutations, obs) => {
+		const notes = mainText.querySelectorAll("tei-note");
+		if (notes.length > 0) {
+		obs.disconnect();
+		processNotes(Array.from(notes));
+		}
+	});
+	observer.observe(mainText, { childList: true, subtree: true });
+
+	// Re-align on window resize
+	let resizeTimer;
+	window.addEventListener("resize", () => {
+		clearTimeout(resizeTimer);
+		resizeTimer = setTimeout(alignAllNotes, 250);
+	});
+
+	// Optional: Add a manual realign button for debugging
+	window.realignFootnotes = alignAllNotes;
+	});
 
 	
 </script>
