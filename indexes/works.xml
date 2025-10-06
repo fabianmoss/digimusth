@@ -390,7 +390,9 @@
       </bibl>
       <bibl xml:id="W0062">
         <title level="m">&quot;Wider die feurigen Kapellmeister&quot; Aufsatz in: &quot;A. Allg. Ztg.&quot; Beilage Nro. 6 vom 6. Jan. 1875 (auch abgedruckt in der Allg. Mus. Ztg., 1875, Nro. 6 und 7)</title>
-        <note>author to be researched</note>
+        <author>
+          <name ref="./people.xml#P0147" type="person">Bernhard Gugler</name>
+        </author>
       </bibl>
       <bibl xml:id="W0063">
         <title level="m">Komm, holder Lenz</title>
@@ -823,6 +825,9 @@
       </bibl>
       <bibl xml:id="W0130">
         <title level="m">der neuen Aristoxener zerstreute Aufsätze über das Irrige der musikalischen Arithmetik und das Eitle ihrer Temperaturrechnungen (Sammelband hg. Von Kiesewetter)</title>
+        <author>
+          <name ref="./people.xml#P0012" type="person">Raphael Georg Kiesewetter</name>
+        </author>
       </bibl>
       <bibl xml:id="W0131">
         <title level="m">De musica libri septem</title>
@@ -935,6 +940,9 @@
       </bibl>
       <bibl xml:id="W0147">
         <title level="m">Lehrbuch zur Psychologie (Hg. G. Hartenstein) 1850-52</title>
+        <author>
+          <name ref="./people.xml#P0102" type="person">Johann Friedrich Herbart</name>
+        </author>
       </bibl>
       <bibl xml:id="W0148">
         <title level="m">Lehrbuch der Psychologie</title>
@@ -1046,6 +1054,9 @@
       </bibl>
       <bibl xml:id="W0165">
         <title level="m">Ach Gott und Herr (Choral)</title>
+        <author>
+          <name ref="./people.xml#P0054" type="person">Johann Sebastian Bach</name>
+        </author>
         <note>composer?</note>
       </bibl>
       <bibl xml:id="W0166">
@@ -1330,6 +1341,9 @@
       </bibl>
       <bibl xml:id="W0211">
         <title level="m">Valitnita Suomalaisia Kansan-Lauluja</title>
+        <author>
+          <name ref="./people.xml#P0175" type="person">Karl Collan</name>
+        </author>
         <note>Finnish Folk Song collection ??</note>
       </bibl>
       <bibl xml:id="W0212">
@@ -1382,10 +1396,16 @@
       </bibl>
       <bibl xml:id="W0220">
         <title level="m">Wer nur den lieben Gott läßt walten, BWV 93</title>
+        <author>
+          <name ref="./people.xml#P0054" type="person">Johann Sebastian Bach</name>
+        </author>
         <idno type="wikidata">https://www.wikidata.org/wiki/Q1410355</idno>
       </bibl>
       <bibl xml:id="W0221">
         <title level="m">Choral: Höchster Priester, der du dich</title>
+        <author>
+          <name ref="./people.xml#P0146" type="person">Max Gulbins</name>
+        </author>      
       </bibl>
       <bibl xml:id="W0222">
         <title level="m">371 vierstimmige Chorale</title>
@@ -1537,7 +1557,7 @@
       </person>
       <person xml:id="P0012">
         <persName>
-          <forename>R. G.</forename>
+          <forename>Raphael Georg</forename>
           <surname>Kiesewetter</surname>
         </persName>
       </person>
@@ -2442,6 +2462,24 @@
         <persName>
           <forename>Giacomo</forename>
           <surname>Meyerbeer</surname>
+        </persName>
+      </person>
+      <person xml:id="P0174">
+        <persName>
+          <forename>Bernhard</forename>
+          <surname>Gugler</surname>
+        </persName>
+      </person>
+      <person xml:id="P0175">
+        <persName>
+          <forename>Karl</forename>
+          <surname>Collan</surname>
+        </persName>
+      </person>
+      <person xml:id="P0176">
+        <persName>
+          <forename>Max</forename>
+          <surname>Gulbins</surname>				
         </persName>
       </person>
     </listPerson>

@@ -96,7 +96,7 @@
 			</person>
 			<person xml:id="P0012">
 				<persName>
-					<forename>R. G.</forename>
+					<forename>Raphael Georg</forename>
 					<surname>Kiesewetter</surname>
 				</persName>
 				<idno type="GND">https://d-nb.info/gnd/118722239</idno>
@@ -382,7 +382,7 @@
 			</person>
 			<person xml:id="P0054">
 				<persName>
-					<forename>J. S.</forename>
+					<forename>Johann Sebastian</forename>
 					<surname>Bach</surname>
 				</persName>
 				<idno type="GND">https://d-nb.info/gnd/4226038-3</idno>
@@ -1193,6 +1193,27 @@
 					<surname>Meyerbeer</surname>
 				</persName>
 				<idno type="GND">https://d-nb.info/gnd/118581945</idno>
+			</person>
+			<person xml:id="P0174">
+				<persName>
+					<forename>Bernhard</forename>
+					<surname>Gugler</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/116920386</idno>
+			</person>
+			<person xml:id="P0175">
+				<persName>
+					<forename>Karl</forename>
+					<surname>Collan</surname>
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/1089226330</idno>
+			</person>
+			<person xml:id="P0176">
+				<persName>
+					<forename>Max</forename>
+					<surname>Gulbins</surname>				
+				</persName>
+				<idno type="GND">https://d-nb.info/gnd/135144949</idno>
 			</person>
 		</listPerson>
 	</standOff>
