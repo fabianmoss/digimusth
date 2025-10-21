@@ -1171,10 +1171,10 @@
 						<lb facs="#facs_13_r1l5" n="N004"/>sie sich <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">neben</hi>einander nach demselben <rs ana="#concept_phy">akustischen</rs> Prinzip zur
 						<lb facs="#facs_13_r1l6" n="N005"/><rs ana="#concept_mus">engeren</rs> und <rs ana="#concept_mus">erweiterten</rs> <rs ana="#m_tonality">Tonart</rs> („<rs ana="#m_tonality">Tonität</rs>” bezw. „<rs ana="#m_tonality">Tonalität</rs>”) zu<pc>¬</pc>
 						<lb facs="#facs_13_r1l7" n="N006"/>sammen. Typen der <rs ana="#concept_mus">Doppelklänge</rs>, also des <rs ana="#concept_mus"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Über</hi>einander</rs>, sind
-						<lb facs="#facs_13_r1l8" n="N007"/>$$GRAPHIC. Typus der den <rs ana="#concept_phy">Natur<pc>¬</pc>
+						<lb facs="#facs_13_r1l8" n="N007"/><figure facs="#facs_13_r1l8" rend="inline"><graphic url="graphic/facs_13_r1l8.png"/></figure>. Typus der den <rs ana="#concept_phy">Natur<pc>¬</pc>
 						<lb facs="#facs_13_r1l9" n="N008"/>klängen</rs> allein entsprechenden <rs ana="#m_tonality"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Dur</hi>tonität</rs>, des <rs ana="#concept_mus"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Neben</hi>einander</rs>,
-						<lb facs="#facs_13_line_1614855629114_1698" n="N009"/>ist die <rs ana="#concept_mus">geschlossene Reihe</rs>: $$GRAPHIC, die auch so notiert
-						<lb facs="#facs_13_line_1614855638923_1709" n="N010"/>werden kann: $$GRAPHIC. M = „<rs ana="#concept_mus">Mittelklang</rs>” (alias <rs ana="#m_chord">Drei<pc>¬</pc>
+						<lb facs="#facs_13_line_1614855629114_1698" n="N009"/>ist die <rs ana="#concept_mus">geschlossene Reihe</rs>: <figure facs="#facs_13_line_1614855629114_1698" rend="inline"><graphic url="graphic/facs_13_line_1614855629114_1698.png"/></figure>, die auch so notiert
+						<lb facs="#facs_13_line_1614855638923_1709" n="N010"/>werden kann: <figure facs="#facs_13_line_1614855638923_1709" rend="inline"><graphic url="graphic/facs_13_line_1614855638923_1709.png"/></figure>. M = „<rs ana="#concept_mus">Mittelklang</rs>” (alias <rs ana="#m_chord">Drei<pc>¬</pc>
 						<lb facs="#facs_13_r1l15" n="N011"/>klang</rs> der <rs ana="#concept_mus">Tonika</rs> oder <rs ana="#concept_mus">tonischer</rs> <rs ana="#m_chord">Dreiklang</rs>), R = „<rs ana="#concept_mus">Rechtsklang</rs>”
 						<lb facs="#facs_13_line_1614855661576_1727" n="N012"/>(<rs ana="#m_chord">Dreiklang</rs> der <rs ana="#concept_mus">Dominante</rs>), L = „<rs ana="#concept_mus">Linksklang</rs>” (<rs ana="#m_chord">Dreiklang</rs> der <rs ana="#concept_mus">Sub<pc>¬</pc>
 						<lb facs="#facs_13_r1l18" n="N013"/>dominante</rs>). L, M, R bilden den Bereich der <rs ana="#m_tonality">engeren Tonart</rs>
@@ -1184,7 +1184,7 @@
          		</item>
          		<item><lb facs="#facs_13_line_1614855690285_1760" n="N017"/>6. Alle <rs ana="#m_note">Töne</rs> und <rs ana="#m_interval">Intervalle</rs> sind <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Klangvertreter</rs></hi> — eine
 						<lb facs="#facs_13_r1l24" n="N018"/>äusserst wichtige, von <persName role="author" ref="#P0017">H. Riemann</persName> angebahnte Lehre. Die <rs ana="#concept_mus"><rs ana="#concept_phy">har<pc>¬</pc>
-						<lb facs="#facs_13_r1l25" n="N019"/>monische Reihe</rs></rs> $$GRAPHIC ist zugleich die Darstellung der
+						<lb facs="#facs_13_r1l25" n="N019"/>monische Reihe</rs></rs> <figure facs="#facs_13_r1l25" rend="inline"><graphic url="graphic/facs_13_r1l25.png"/></figure> ist zugleich die Darstellung der
 						<lb facs="#facs_13_r1l26" n="N020"/><rs ana="#m_tonality">C durtonleiter</rs> gemäss der <rs ana="#concept_mus">Klangvertretung</rs> der <rs ana="#m_note">Töne</rs>. Um die <rs ana="#m_tonality">Ton<pc>¬</pc>
 						<lb facs="#facs_13_r1l27" n="N021"/>leiter</rs> zu erhalten, braucht man nur immer dem Buchstaben links
 						<lb facs="#facs_13_r1l28" n="N022"/>vom vertikalen Teilstrich den entsprechenden rechts folgen zu lassen.
@@ -1192,10 +1192,10 @@
          		<item><lb facs="#facs_13_r1l29" n="N023"/>7. Der <rs ana="#concept_mus">Mollklang</rs>, z. B. <rs ana="#m_chord">a c e</rs> (kurz notiert <rs ana="#m_chord">A<hi rend="fontSize:0.0; kerning:0; subscript:true;">0</hi></rs>, während ein
 						<lb facs="#facs_13_r1l30" n="N024"/>alleinstehendes <rs ana="#m_note">A</rs> den <rs ana="#concept_mus">Durklang</rs> anzeigt) ist je nach dem <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">tonalen</rs><lb facs="#facs_13_r1l31" n="N025"/><rs ana="#concept_mus">Zusammenhange</rs></hi> zu erklären als <rs ana="#m_chord">A ♮cis e</rs>, also als <rs ana="#concept_mus">alterierter</rs>
 						<lb facs="#facs_13_r1l32" n="N026"/>(„getrübter”) <rs ana="#m_chord">Durdreiklang</rs> mit dem <rs ana="#m_note">Grundton</rs> <rs ana="#m_note">a</rs>, oder aber als
-						<lb facs="#facs_13_r1l33" n="N027"/>$$GRAPHIC, also als <rs ana="#concept_mus">Doppelklang</rs> mit den <rs ana="#m_note">Grundtönen</rs> <rs ana="#m_note">a</rs> („<rs ana="#concept_mus">Basis</rs>“)
+						<lb facs="#facs_13_r1l33" n="N027"/><figure facs="#facs_13_r1l33" rend="inline"><graphic url="graphic/facs_13_r1l33.png"/></figure>, also als <rs ana="#concept_mus">Doppelklang</rs> mit den <rs ana="#m_note">Grundtönen</rs> <rs ana="#m_note">a</rs> („<rs ana="#concept_mus">Basis</rs>“)
 						<lb facs="#facs_13_line_1614855703359_1780" n="N028"/>und <rs ana="#m_note">e</rs> (durch diese <rs ana="#concept_mus">Grundtonqualität</rs> gewinnt das <rs ana="#m_note">c</rs> das Übergewicht
 						<lb facs="#facs_13_line_1614855709854_1788" n="N029"/>über die schwächere <rs ana="#m_interval">Basisterz</rs> <rs ana="#m_note">cis</rs>). Weiter kann der <rs ana="#m_chord">Molldreiklang</rs>
-						<lb facs="#facs_13_r1l38" n="N030"/><rs ana="#m_chord">a c e</rs> auch verstanden werden als $$GRAPHIC, also als <rs ana="#concept_mus">Doppelklang</rs>
+						<lb facs="#facs_13_r1l38" n="N030"/><rs ana="#m_chord">a c e</rs> auch verstanden werden als <figure facs="#facs_13_r1l38" rend="inline"><graphic url="graphic/facs_13_r1l38.png"/></figure>, also als <rs ana="#concept_mus">Doppelklang</rs>
 						<lb facs="#facs_13_r1l39" n="N031"/>mit den <rs ana="#m_note">Grundtönen</rs> <rs ana="#m_note">f</rs> und <rs ana="#m_note">c</rs>, oder endlich als <rs ana="#m_chord">(D fis) a c e</rs>, also
 						<lb facs="#facs_13_r1l40" n="N032"/>als <rs ana="#concept_mus">einfacher Klang</rs> mit dem <rs ana="#m_note">Grundton</rs> <rs ana="#m_note">d</rs> als <rs ana="#concept_mus">Fundament</rs> des
 						<lb facs="#facs_13_r1l41" n="N033"/><rs ana="#m_chord">Nonenakkords</rs> <rs ana="#m_chord">D<hi rend="fontSize:0.0; kerning:0; superscript:true;">9</hi></rs>.
@@ -1298,7 +1298,7 @@
 			</p>
         
             <p facs="#facs_15_TextRegion_1614855950359_1998 #facs_16_TextRegion_1614856077229_2104">
-				<lb facs="#facs_15_r1l41" n="N001"/>S. 71: „$$GRAPHIC<note facs="#facs_15_TextRegion_1614855946513_1994" type="foot" n="*)"><lb facs="#facs_15_r1l43" n="N001"/>Der Einfachheit halber habe ich den von <persName role="author" ref="#P0017">Riemann</persName> notierten
+				<lb facs="#facs_15_r1l41" n="N001"/>S. 71: „<figure facs="#facs_15_r1l41" rend="inline"><graphic url="graphic/facs_15_r1l41.png"/></figure><note facs="#facs_15_TextRegion_1614855946513_1994" type="foot" n="*)"><lb facs="#facs_15_r1l43" n="N001"/>Der Einfachheit halber habe ich den von <persName role="author" ref="#P0017">Riemann</persName> notierten
 				<lb facs="#facs_15_r1l44" n="N002"/>ganz gleichartigen <rs ana="#m_chord">Akkord</rs> <rs ana="#m_chord">d f a c</rs> durch <rs ana="#m_chord">a c e g</rs> ersetzt.</note> ist der <rs ana="#concept_mus">Zusammenklang</rs> eines <rs ana="#m_chord">Durakkordes</rs>
 				<lb facs="#facs_15_r1l42" n="N002"/>und eines <rs ana="#m_chord">Mollakkordes</rs>, die im Verhältnis des <rs ana="#concept_mus">Terzwechsels</rs> stehen.
             	<pb facs="#facs_16" n="12"/>
@@ -1423,8 +1423,8 @@
 				<lb facs="#facs_18_line_1614856617727_2384" n="N001"/><persName role="author" ref="#P0007">M. Hauptmann</persName>, der in seiner „<title ana="#text" ref="#W0004">Natur der <rs ana="#concept_mus">Harmonik</rs> und <rs ana="#concept_mus">Metrik</rs></title>”
 				<lb facs="#facs_18_r1l25" n="N002"/>(<date when="1873">1873</date>) das <rs ana="#m_interval">Quintverhältnis</rs> durch II, das <rs ana="#m_interval">Terzverhältnis</rs> durch III
 				<lb facs="#facs_18_r1l26" n="N003"/>bezeichnet, analysiert den <rs ana="#concept_mus">F mollklang</rs> so:
-				<lb facs="#facs_18_r1l27" n="N004"/>$$GRAPHIC, jedoch mit dem Zusatz, es sei dasselbe, als wenn man
-				<lb facs="#facs_18_r1l30" n="N005"/>setze: $$GRAPHIC. <persName role="author" ref="#P0017">Riemann</persName> selbst führt folgende Äusserung <persName role="author" ref="#P0007">Haupt<pc>¬</pc></persName>
+				<lb facs="#facs_18_r1l27" n="N004"/><figure facs="#facs_18_r1l27" rend="inline"><graphic url="graphic/facs_18_r1l27.png"/></figure>, jedoch mit dem Zusatz, es sei dasselbe, als wenn man
+				<lb facs="#facs_18_r1l30" n="N005"/>setze: <figure facs="#facs_18_r1l30" rend="inline"><graphic url="graphic/facs_18_r1l30.png"/></figure>. <persName role="author" ref="#P0017">Riemann</persName> selbst führt folgende Äusserung <persName role="author" ref="#P0007">Haupt<pc>¬</pc></persName>
 				<lb facs="#facs_18_r1l32" n="N006"/><persName role="author" ref="#P0007">manns</persName> an: „Wie im <rs ana="#m_chord">Durakkord</rs> ein <rs ana="#m_note">Ton</rs> (<rs ana="#m_note">c</rs> in <rs ana="#m_chord">c g e</rs>) <rs ana="#m_interval">Terz</rs> und
 				<lb facs="#facs_18_r1l33" n="N007"/><rs ana="#m_interval">Quint</rs> hat, so wird im <rs ana="#m_chord">Mollakkord</rs> ein <rs ana="#m_note">Ton</rs> (<rs ana="#m_note">g</rs> in <rs ana="#m_chord">c es g</rs>) von den
 				<lb facs="#facs_18_r1l34" n="N008"/>beiden andern zur <rs ana="#m_interval">Terz</rs> und <rs ana="#m_interval">Quint</rs><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">gehabt</hi> (<rs ana="#m_interval">es—g</rs>, <rs ana="#m_interval">c—g</rs>).” (!)
@@ -1511,7 +1511,7 @@
             </figure>
             <p facs="#facs_20_TextRegion_1614857136369_2763 #facs_21_TextRegion_1614857291146_2908">
 				<lb facs="#facs_20_line_1614857136402_2766" n="N001"/>Wie gesucht und unnatürlich nimmt sich dagegen <persName role="author" ref="#P0017">Riemanns</persName>
-				<lb facs="#facs_20_r1l14" n="N002"/>Erklärung aus: <rs ana="#m_chord">f as c e</rs> ist ihm = <rs ana="#m_chord">c<hi rend="fontSize:0.0; kerning:0; superscript:true;">VI&lt;</hi></rs>, <rs ana="#m_chord">f as c e g</rs> = <rs ana="#m_chord">$$GRAPHIC</rs>, d. h.
+				<lb facs="#facs_20_r1l14" n="N002"/>Erklärung aus: <rs ana="#m_chord">f as c e</rs> ist ihm = <rs ana="#m_chord">c<hi rend="fontSize:0.0; kerning:0; superscript:true;">VI&lt;</hi></rs>, <rs ana="#m_chord">f as c e g</rs> = <rs ana="#m_chord"><figure facs="#facs_20_r1l14" rend="inline"><graphic url="graphic/facs_20_r1l14.png"/></figure></rs>, d. h.
 				<lb facs="#facs_20_r1l15" n="N003"/><rs ana="#m_chord">f as c</rs> soll von oben nach unten, mit <rs ana="#m_note">e</rs> als <rs ana="#m_note">♮es</rs> gehört werden,
 				<lb facs="#facs_20_r1l16" n="N004"/>obwohl doch <rs ana="#m_note">e</rs> innerhalb <rs ana="#m_tonality">C dur</rs> zweifellos <rs ana="#m_note">Hauptton</rs> ist. Da <rs ana="#m_note">e</rs> und <rs ana="#m_note">g</rs>
 				<lb facs="#facs_20_r1l17" n="N005"/>lediglich <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_note">Zusatztöne</rs></hi> sein sollen, ermangeln sie jedes organischen
@@ -1529,7 +1529,7 @@
 				<lb facs="#facs_20_r1l29" n="N017"/><rs ana="#m_note">gis</rs> als <rs ana="#m_interval">Terz</rs> von <rs ana="#m_note">e</rs> neben die <rs ana="#m_interval">Prim</rs> <rs ana="#m_note">c</rs> die <rs ana="#m_interval">Prime</rs> stelle), durch
 				<lb facs="#facs_20_r1l30" n="N018"/>folgende Erwägung zur Abkehr von jenem Prinzip gekommen ist:
 				<lb facs="#facs_20_r1l31" n="N019"/><rs ana="#m_chord">„f as c e (g)</rs> würde nach der <rs ana="#concept_mus">dualistischen</rs> <rs ana="#concept_mus">Klangauffassung</rs> als
-				<lb facs="#facs_20_r1l32" n="N020"/><rs ana="#concept_mus">Positiv + Negativ</rs>, d. h. als <rs ana="#m_chord">$$GRAPHIC</rs> zu deuten sein, es
+				<lb facs="#facs_20_r1l32" n="N020"/><rs ana="#concept_mus">Positiv + Negativ</rs>, d. h. als <rs ana="#m_chord"><figure facs="#facs_20_r1l32" rend="inline"><graphic url="graphic/facs_20_r1l32.png"/></figure></rs> zu deuten sein, es
 				<lb facs="#facs_20_r1l33" n="N021"/>wäre indessen eine zu starke Zumutung, in ein und demselben
 				<lb facs="#facs_20_r1l34" n="N022"/>Zusammenhange ein Hören nach zwei entgegengesetzten Richtungen
 				<lb facs="#facs_20_r1l35" n="N023"/>zu fordern; somit bleibt nichts übrig, als nur <rs ana="#concept_mus"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">einen</hi> Klang</rs> und
@@ -1538,7 +1538,7 @@
 				<lb facs="#facs_20_r1l38" n="N026"/>führen musste. Noch ein Beispiel aus der <title ana="#text" ref="#W0074">Kurzgefassten Harmonie<pc>¬</pc></title>
 				<lb facs="#facs_20_r1l39" n="N027"/><title ana="#text" ref="#W0074">lehre</title><persName role="author" ref="#P0017">Riemanns</persName> (X), das mit Fingern auf das <rs ana="#concept_mus">Doppelklangprinzip</rs>
 				<lb facs="#facs_20_r1l40" n="N028"/>weist, gleichwohl aber von <persName role="author" ref="#P0017">Riemann</persName> total verkannt wird (Fig. 12).
-				<lb facs="#facs_20_r1l41" n="N029"/>Den zweiten <rs ana="#m_chord">Akkord</rs> analysiert er als <rs ana="#m_chord">$$GRAPHIC</rs>, wo sich die Ziffern
+				<lb facs="#facs_20_r1l41" n="N029"/>Den zweiten <rs ana="#m_chord">Akkord</rs> analysiert er als <rs ana="#m_chord"><figure facs="#facs_20_r1l41" rend="inline"><graphic url="graphic/facs_20_r1l41.png"/></figure></rs>, wo sich die Ziffern
 				<lb facs="#facs_20_r1l42" n="N030"/>auf das <rs ana="#m_note">e</rs> und <rs ana="#m_note">g</rs> beziehen, obwohl diese <rs ana="#m_note">Töne</rs> auch hier ihre
 				<lb facs="#facs_20_r1l43" n="N031"/><rs ana="#concept_mus">C-Klangbedeutung</rs> ganz offensichtlich beibehalten, während die
 				<lb facs="#facs_20_r1l44" n="N032"/><rs ana="#concept_mus">Aussenstimmen</rs> <rs ana="#m_interval">f—a</rs> den <rs ana="#concept_mus">F-Klang</rs> repräsentieren. Bezeichnet doch
@@ -1550,10 +1550,10 @@
             </p>
             <p facs="#facs_21_TextRegion_1614857287494_2900">
 				<lb facs="#facs_21_line_1614857287518_2905" n="N001"/>Beispiele mit der <rs ana="#m_interval">kleinen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Septime</hi></rs> als konkurrierendem
-				<lb facs="#facs_21_r1l6" n="N002"/><rs ana="#m_note">Grundton</rs> bringt Fig. 13, mit der <rs ana="#concept_mus">Analyse:</rs> $$GRAPHIC. An
+				<lb facs="#facs_21_r1l6" n="N002"/><rs ana="#m_note">Grundton</rs> bringt Fig. 13, mit der <rs ana="#concept_mus">Analyse:</rs> <figure facs="#facs_21_r1l6" rend="inline"><graphic url="grpahic/facs_21_r1l6.png"/></figure>. An
 				<lb facs="#facs_21_r1l7" n="N003"/>der möglichen Selbständigkeit auch dieses <rs ana="#concept_mus">Doppelklanges</rs> ist nicht
 				<lb facs="#facs_21_r1l8" n="N004"/>zu zweifeln. Das Beispiel bei c) stammt von <persName role="author" ref="#P0017">Riemann</persName> (a. a. O.),
-				<lb facs="#facs_21_r1l9" n="N005"/>der zweite <rs ana="#concept_mus">Klang</rs> wird von ihm als $$GRAPHIC konstruiert, obwohl die
+				<lb facs="#facs_21_r1l9" n="N005"/>der zweite <rs ana="#concept_mus">Klang</rs> wird von ihm als <figure facs="#facs_21_r1l9" rend="inline"><graphic url="graphic/facs_21_r1l9.png"/></figure> konstruiert, obwohl die
 				<lb facs="#facs_21_r1l10" n="N006"/>herübergebundenen <rs ana="#m_note">Töne</rs> <rs ana="#m_chord">f a c</rs> wirklich als <rs ana="#concept_mus">Vertreter</rs> der <rs ana="#concept_mus">Unter<pc>¬</pc>
 				<lb facs="#facs_21_r1l11" n="N007"/>dominante</rs> vernommen werden. Dass sogar alle 3 konstituierenden
 				<lb facs="#facs_21_r1l12" n="N008"/><rs ana="#concept_mus">Klänge</rs> der <rs ana="#m_tonality">C durtonart</rs> als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Tripelklang</rs></hi> selbständig (d. h. nicht
@@ -1669,7 +1669,7 @@
 				<lb facs="#facs_23_r1l26" n="N024"/>wickelt, gemäss seiner <rs ana="#concept_phy">akustischen</rs> <rs ana="#concept_mus">Doppelklanganalysen</rs>: <rs ana="#m_chord">B d (F a)</rs>
 				<lb facs="#facs_23_r1l27" n="N025"/><rs ana="#m_chord">c es ♭g</rs> oder <rs ana="#m_chord">Es ♭g B d (f as) c</rs> oder <rs ana="#m_chord">(As) c es Ges b ♮des</rs>. In Fig. 21
 				<lb facs="#facs_23_r1l28" n="N026"/>tritt derselbe <rs ana="#m_chord">Akkord</rs> in seinen <rs ana="#concept_mus">enharmonischen</rs> <rs ana="#concept_mus">Gestaltungen</rs> =
-				<lb facs="#facs_23_r1l29" n="N027"/><rs ana="#m_chord">D fis ♯a c ♭e</rs> und <rs ana="#m_chord">$$GRAPHIC</rs> auf, deren <rs ana="#concept_mus">tonale Verwend<pc>¬</pc>
+				<lb facs="#facs_23_r1l29" n="N027"/><rs ana="#m_chord">D fis ♯a c ♭e</rs> und <rs ana="#m_chord"><figure facs="#facs_23_r1l29" rend="inline"><graphic url="graphic/facs_23_r1l29.png"/></figure></rs> auf, deren <rs ana="#concept_mus">tonale Verwend<pc>¬</pc>
 				<lb facs="#facs_23_line_1614857664080_3321" n="N028"/>barkeit</rs> ebenfalls sofort einleuchten muss. Überall spielen in
 				<lb facs="#facs_23_r1l32" n="N029"/>meinen 3 theoretischen Broschüren die <rs ana="#concept_mus">Doppelklänge</rs> eine wichtige
 				<lb facs="#facs_23_r1l33" n="N030"/>Rolle und ich sollte wirklich meinen, dass diese von allen ein<pc>¬</pc>
@@ -1707,9 +1707,9 @@
 				<lb facs="#facs_24_r1l16" n="N015"/>klanges</rs> (d. i. der <rs ana="#concept_mus">Dominante</rs>) mit der <rs ana="#concept_mus">Gegenquint</rs> (<rs ana="#m_note">f</rs>):
 			</p>
             <p facs="#facs_24_TextRegion_1614857765199_3432">
-				<lb facs="#facs_24_line_1614857830961_3492" n="N001"/>$$GRAPHIC.” Der <rs ana="#m_chord">Nonenakkord</rs> <rs ana="#m_chord">g h d f a</rs>
+				<lb facs="#facs_24_line_1614857830961_3492" n="N001"/><figure facs="#facs_24_line_1614857830961_3492" rend="inline"><graphic url="graphic/facs_24_line_1614857830961_3492.png"/></figure>.” Der <rs ana="#m_chord">Nonenakkord</rs> <rs ana="#m_chord">g h d f a</rs>
 				<lb facs="#facs_24_r1l23" n="N002"/>soll nach <persName role="author" ref="#P0017">Riemann</persName> (<title ana="#text" ref="#W0034">Harmonielehre</title> S. 78) „<rs ana="#concept_mus">Zusammenklang</rs> des <rs ana="#m_chord">Dur<pc>¬</pc>
-				<lb facs="#facs_24_r1l24" n="N003"/>septimenakkords</rs> <rs ana="#m_chord">$$GRAPHIC</rs> und des <rs ana="#m_chord">Mollseptimenakkordes</rs> <rs ana="#m_chord">$$GRAPHIC</rs>” sein.
+				<lb facs="#facs_24_r1l24" n="N003"/>septimenakkords</rs> <rs ana="#m_chord"><figure facs="#facs_24_r1l24_1" rend="inline"><graphic url="graphic/facs_24_r1l24_1.png"/></figure></rs> und des <rs ana="#m_chord">Mollseptimenakkordes</rs> <rs ana="#m_chord"><figure facs="#facs_24_r1l24_2" rend="inline"><graphic url="graphic/facs_24_r1l24_2.png"/></figure></rs>” sein.
 			</p>
             <p facs="#facs_24_TextRegion_1614857727575_3419">
 				<lb facs="#facs_24_line_1614857727601_3422" n="N001"/>Wer wird diese gezwungenen Deutungen ohne Staunen hin<pc>¬</pc>
@@ -1765,7 +1765,7 @@
 				<lb facs="#facs_25_r1l23" n="N005"/>ab? Die nächst liegende, daher im Zweifel anzunehmende Be<pc>¬</pc>
 				<lb facs="#facs_25_r1l24" n="N006"/>deutung ist <rs ana="#m_chord">(G) h d f a</rs> (Fig. 27) oder <rs ana="#m_chord">(G) h d F a (c)</rs> (Fig. 28).
 				<lb facs="#facs_25_r1l25" n="N007"/>nicht nur in <rs ana="#m_tonality">C dur</rs>, sondern auch in <rs ana="#m_tonality">A moll</rs>. Ist <rs ana="#m_note">d</rs> <rs ana="#m_note">Grundton</rs>, so
-				<lb facs="#facs_25_r1l26" n="N008"/>kompliziert sich die <rs ana="#concept_mus">Analyse</rs> zu <rs ana="#m_chord">(G) h D F a (c)</rs> (Fig. 29).<note facs="#facs_25_TextRegion_1614857910138_3547" type="foot" n="*)"><lb facs="#facs_25_r1l42" n="N001"/>Auch die <rs ana="#concept_mus">Dualisten</rs> müssen trotz <rs ana="#m_chord">$$GRAPHIC</rs> die <rs ana="#concept_mus">Grundtonqualität</rs>
+				<lb facs="#facs_25_r1l26" n="N008"/>kompliziert sich die <rs ana="#concept_mus">Analyse</rs> zu <rs ana="#m_chord">(G) h D F a (c)</rs> (Fig. 29).<note facs="#facs_25_TextRegion_1614857910138_3547" type="foot" n="*)"><lb facs="#facs_25_r1l42" n="N001"/>Auch die <rs ana="#concept_mus">Dualisten</rs> müssen trotz <rs ana="#m_chord"><figure facs="#facs_25_r1l26" rend="inline"><graphic url="graphic/facs_25_r1l26.png"/></figure></rs> die <rs ana="#concept_mus">Grundtonqualität</rs>
 				<lb facs="#facs_25_r1l43" n="N002"/>des <hi rend="fontSize:0.0; kerning:0; bold:true;"><rs ana="#m_note">d</rs></hi> anerkennen.</note>
 			</p>
             <p facs="#facs_25_TextRegion_1614857919332_3551">
@@ -1777,7 +1777,7 @@
 				<lb facs="#facs_25_r1l32" n="N006"/><rs ana="#m_chord">♮B d F a (c)</rs> möglich (Fig. 33). Die <rs ana="#concept_mus">musikalische</rs> <rs ana="#concept_phy">Akustik</rs> arbeitet
 				<lb facs="#facs_25_r1l33" n="N007"/>also auch bei diesem <rs ana="#concept_mus">Klange</rs> mit einer feinfühligen Differenzierung,
 				<lb facs="#facs_25_r1l34" n="N008"/>welche man bei dem <rs ana="#concept_mus">Dualisten</rs><persName role="author" ref="#P0017">Riemann</persName> vergebens sucht, dem nur
-				<lb facs="#facs_25_r1l35" n="N009"/>die <rs ana="#concept_mus">Analysen</rs> <rs ana="#m_chord">$$GRAPHIC</rs> und <rs ana="#m_chord">$$GRAPHIC</rs> mit dem erzwungenen <rs ana="#m_note">Grund<pc>¬</pc>
+				<lb facs="#facs_25_r1l35" n="N009"/>die <rs ana="#concept_mus">Analysen</rs> <rs ana="#m_chord"><figure facs="#facs_25_r1l35_1" rend="inline"><graphic url="graphic/facs_25_r1l35_1.png"/></figure></rs> und <rs ana="#m_chord"><figure facs="#facs_25_r1l35_2" rend="inline"><graphic url="graphic/facs_25_r1l35_2.png"/></figure></rs> mit dem erzwungenen <rs ana="#m_note">Grund<pc>¬</pc>
 				<lb facs="#facs_25_r1l36" n="N010"/>ton</rs> <rs ana="#m_note">d</rs> zu Gebote stehen. Bei mir ist das <rs ana="#concept_mus">Grundbass-(dur-)prinzip</rs>
 				<lb facs="#facs_25_r1l37" n="N011"/>und der <rs ana="#concept_mus">Terzenbau</rs> konsequent auch hier durchgeführt, der bei
 				<lb facs="#facs_25_r1l38" n="N012"/>dem engen Zusammenhange zwischen <rs ana="#m_tonality">C dur</rs> und <rs ana="#m_tonality">A moll</rs> auffällige
@@ -2620,7 +2620,7 @@
 				<lb facs="#facs_43_r1l9" n="N008"/>mut . . . <rs ana="#m_tonality">Moll</rs> ist nicht gerade bloss das Traurige, Weiche, sondern
 				<lb facs="#facs_43_r1l10" n="N009"/>überhaupt das <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Verhüllte</hi> der Stimmung, das Versenktsein des
 				<lb facs="#facs_43_r1l11" n="N010"/>Subjekts in eine Stimmung.” Die Gegenüberstellung von <rs ana="#m_chord">A cis e</rs>
-				<lb facs="#facs_43_line_1614860922276_5894" n="N011"/>und $$GRAPHIC sagt bereits alles, und die „herabziehende Schwere”,
+				<lb facs="#facs_43_line_1614860922276_5894" n="N011"/>und <figure facs="#facs_43_line_1614860922276_5894" rend="inline"><graphic url="graphic/facs_43_line_1614860922276_5894.png"/></figure> sagt bereits alles, und die „herabziehende Schwere”,
 				<lb facs="#facs_43_r1l16" n="N012"/>die <persName role="author" ref="#P0007">M. Hauptmann</persName> dem <rs ana="#concept_mus">Mollklange</rs> zuschreibt, kommt sogar in
 				<lb facs="#facs_43_r1l17" n="N013"/>zweifacher Weise zum Ausdruck, einmal in dem (<rs ana="#concept_mus">chromatischen</rs>)
 				<lb facs="#facs_43_r1l18" n="N014"/>Herabsteigen der <rs ana="#m_interval">Basisterz</rs> <rs ana="#m_note">cis</rs> zum <rs ana="#m_note">Grundton</rs> <rs ana="#m_note">C</rs>, sodann in dem
