@@ -56,7 +56,7 @@ Corinna Keupp is a research associate at the Research Center for Digital Applica
 <td colspan="2"><h2>
 <a href="https://www.uni-wuerzburg.de/zpd/forschungsstelle-dachs/team/">Janina Marie Roth</a> | Digital Humanities </h2>
 <div class="team_description">
-Janina Marie Roth is a student of Digital Humanities and English Studies at the University of Würzburg. She supported us by transcribing complex data.
+Janina Marie Roth is currently pursuing her master's degree in Interdisciplinary Media Studies at the University of Bielefeld. She supports the projekt by extracting and transcribing complex data.
 </div>
 </td>
 </tr>
