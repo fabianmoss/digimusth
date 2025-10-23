@@ -41,12 +41,12 @@ layout: music_base
   		/* CETEIcean */
 		var CETEIcean = new CETEI()
 
-		/* deal with math elements*/
+		/* Custom Behaviors*/
 		CETEIcean.addBehaviors({
 				
 			"tei": {
+				// handle math expressions
 				"formula": function(el) {
-				// Create a wrapper element to hold raw content
 				let wrapper = document.createElement("span");
 
 				let rawContent = "";
@@ -58,9 +58,27 @@ layout: music_base
 					wrapper.innerHTML = rawContent.replace("ns1-", "");
 				return wrapper;
 				},
+
+				// deal with whitespace issue
+				"pc": function(el) {
+				// Remove <cetei-original> inside pc
+				const original = el.querySelector('cetei-original');
+				if (original) original.remove();
+
+				// Remove any whitespace immediately after this pc
+				let next = el.nextSibling;
+				while (next && next.nodeType === Node.TEXT_NODE && /^\s*$/.test(next.nodeValue)) {
+					let toRemove = next;
+					next = next.nextSibling;
+					toRemove.parentNode.removeChild(toRemove);
+				}
+
+				// Return empty text node so nothing is inserted in place
+				return document.createTextNode('');
+				},
 			
 
-		/* deal with facsimili css elements*/
+				/* deal with facsimili css elements*/
 				"hi": function(el) {
 				let span = document.createElement("span");
 	
