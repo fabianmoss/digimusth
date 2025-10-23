@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Documentation
-author: Corinna Keupp
+author: Jana Klinger and Corinna Keupp
 ---
 
 ## Contents
@@ -20,4 +20,4 @@ author: Corinna Keupp
 
 ## Libraries
 
-This collection uses the Javascript library [CETEIcean](https://github.com/TEIC/CETEIcean) to display TEI-xml documents and [Verovio](https://www.verovio.org/index.xhtml) to transform MEI encoded music scores. 
+This collection uses the Javascript library [CETEIcean](https://github.com/TEIC/CETEIcean) to display TEI-xml documents, [Verovio](https://www.verovio.org/index.xhtml) to transform MEI encoded music scores into svg images and [MathJax](https://www.mathjax.org/) to display encoded mathematical expressions. 
