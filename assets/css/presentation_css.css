@@ -24,8 +24,9 @@ tei-pc {
 .container.content{
   margin: 2em auto;
   position: relative;
-  min-width: 40%;
-  max-width: 60%;
+  /*min-width: 40%;
+  max-width: 60%;*/
+  max-width: 80rem;
 }
 
 #container{
