@@ -399,7 +399,7 @@ margin:auto;}
   border-left: 1px solid #ccc;
   padding-left: 1em;
   display: block;
-  min-width: 25%;        /* protect from content cutoff */
+  max-width: 25%;
   box-sizing: border-box;
 }
 
