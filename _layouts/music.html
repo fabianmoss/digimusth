@@ -127,16 +127,10 @@ layout: music_base
 			/*search parameter*/
 			const query = new URLSearchParams(window.location.search).get("q");
 		})
-		/* Verovio */
+
+		/* initiate Verovio*/
 		var vrvToolkit = new verovio.toolkit()
-			vrvToolkit.setOptions(options = {
-				pageHeight: 500,
-				pageWidth: 1000,
-				ignoreLayout: 1,
-				border: 20,
-				scale: 50,
-				adjustPageHeight: true
-		})
+		
 		/* DOM-Prüfer */
 		function checkDOMAndProcess() {
 			const musicElements = document.querySelectorAll('tei-notatedmusic[rend="MEI"]'); 
@@ -161,10 +155,106 @@ layout: music_base
 							return response.text();
 						})
 						.then(data => {
-							// Render MEI with Verovio
-							const svg = vrvToolkit.renderData(data, {});
-							node.innerHTML = svg;
-						})
+							// Load MEI and set base options
+							vrvToolkit.loadData(data);
+							const pageCount = vrvToolkit.getPageCount();
+							let scale = 80;
+							let pageHeight = 12000;
+							
+							// Adjust scale/pageHeight for readability
+							if (pageCount === 1) {
+								scale = 80;
+								pageHeight = 6000;
+							} else if (pageCount <= 3) {
+								scale = 100;
+								pageHeight = 12000;
+							} else {
+								scale = 120;
+								pageHeight = 20000;
+							}
+							
+							vrvToolkit.setOptions({
+								adjustPageHeight: true,
+								breaks: "auto",
+								pageWidth: 2100,
+								pageHeight,
+								scale
+							});
+							
+							// Render ALL pages
+							node.innerHTML = ''; // Clear container first
+							
+							for (let pageNum = 1; pageNum <= pageCount; pageNum++) {
+								const svg = vrvToolkit.renderToSVG(pageNum, {});
+								
+								// Create wrapper for this page
+								const pageWrapper = document.createElement('div');
+								pageWrapper.className = 'verovio-page';
+								pageWrapper.style.marginBottom = '20px'; // Space between pages
+								pageWrapper.style.cursor = 'pointer'; // Show it's clickable
+								pageWrapper.innerHTML = svg;
+								
+								// Add click handler to open SVG in new tab
+								pageWrapper.addEventListener('click', () => {
+								const svgElement = pageWrapper.querySelector('svg');
+								const svgClone = svgElement.cloneNode(true);
+								// if not cloned then original image gets small after clicked 
+								svgClone.style.height = "100%"; 
+								console.log(svgElement)
+								if (svgClone) {
+									// Serialize the SVG to a string
+									const svgString = new XMLSerializer().serializeToString(svgClone);
+									// Create a blob and open in new tab
+									const blob = new Blob([svgString], { type: 'image/svg+xml' });
+									const url = URL.createObjectURL(blob);
+									window.open(url, '_blank');
+								}
+								});
+
+								
+								//  Select outer and inner SVGs for this page 
+								const outerSvg = pageWrapper.querySelector("svg");
+								const innerSvg = pageWrapper.querySelector("svg.definition-scale");
+								
+								if (outerSvg && innerSvg) {
+								// Compute height from inner viewBox 
+								const viewBox = innerSvg.getAttribute("viewBox");
+								if (viewBox) {
+									const [, , vbWidth, vbHeight] = viewBox.split(" ").map(Number);
+									const ratio = vbHeight / vbWidth;
+									
+									// Use a setTimeout to ensure container is rendered
+									setTimeout(() => {
+									const containerWidth = outerSvg.clientWidth || outerSvg.parentElement.clientWidth;
+									if (containerWidth > 0) {
+										outerSvg.style.height = `${containerWidth * ratio}px`;
+									}
+									}, 0);
+								}
+								
+								//  Make inner SVG fill outer 
+								innerSvg.removeAttribute("width");
+								innerSvg.removeAttribute("height");
+								innerSvg.style.width = "100%";
+								innerSvg.style.height = "100%";
+								innerSvg.style.display = "block";
+								}
+								
+								//  Make outer SVG responsive 
+								if (outerSvg) {
+								outerSvg.removeAttribute("width");
+								outerSvg.removeAttribute("height");
+								outerSvg.style.width = "100%";
+								outerSvg.style.display = "block";
+								}
+								
+								node.appendChild(pageWrapper);
+							}
+							
+							//  Allow vertical scroll for tall scores 
+							node.style.overflowX = "hidden";
+							node.style.overflowY = "auto";
+							})
 						.catch(error => {
 							console.warn("Falling back to PNG for:", fileName, error);
 							// Use PNG fallback
