@@ -8084,14 +8084,14 @@
 				<lb facs="#facs_157_r1l12" n="N006"/><rs ana="#m_interval">Unterterz</rs> von <rs ana="#m_chord">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}</rs>. Die <rs ana="#concept_mus">Folgen</rs>
             </p>
             <p facs="#facs_157_TextRegion_1621253980687_1798">
-				<lb facs="#facs_157_r1l14" n="N001"/>2) Nr. 2 und 6. $$MUSIC und $$MUSIC
+				<lb facs="#facs_157_r1l14" n="N001"/>2) Nr. 2 und 6. <figure facs="#facs_157_r1l14_1" rend="inline" class="musicplaceholder"><graphic url="music/facs_157_r1l14_1.png"/></figure> und <figure facs="#facs_157_r1l14_2" rend="inline" class="musicplaceholder"><graphic url="music/facs_157_r1l14_2.png"/></figure>
 				<lb facs="#facs_157_r1l15" n="N002"/>erscheinen statthaft, namentlich wiederum als <rs ana="#concept_mus">vorgrei<pc>¬</pc>
 				<lb facs="#facs_157_r1l16" n="N003"/>fende</rs> <rs ana="#concept_mus">Klänge</rs>. — <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">c</rs></hi> tritt aus der <rs ana="#concept_mus">tonischen</rs> oder <rs ana="#concept_mus">phonischen</rs>
 				<lb facs="#facs_157_r1l17" n="N004"/>Bedeutung in die eines <rs ana="#concept_mus">Leitklanges</rs> der neuen <rs ana="#m_tonality">Tonart</rs> <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">des</hi>{-</rs>
 				<lb facs="#facs_157_line_1621253976835_1796" n="N005"/><rs ana="#m_tonality">dur</rs> oder <rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}</rs>.
 			</p>
             <p facs="#facs_157_TextRegion_1621253976825_1792">
-				<lb facs="#facs_157_r1l20" n="N001"/>3) Nr. 3 und 7.$$MUSIC und $$MUSIC
+				<lb facs="#facs_157_r1l20" n="N001"/>3) Nr. 3 und 7.<figure facs="#facs_157_r1l20_1" rend="inline" class="musicplaceholder"><graphic url="music/facs_157_r1l20_1.png"/></figure> und <figure facs="#facs_157_r1l20_2" rend="inline" class="musicplaceholder"><graphic url="music/facs_157_r1l20_2.png"/></figure>
 			</p>
             <p facs="#facs_157_TextRegion_1621253909800_1765 #facs_158_TextRegion_1621254176445_2050 #facs_158_TextRegion_1621254169793_2040 #facs_158_TextRegion_1621254161506_2032">
 				<lb facs="#facs_157_r1l26" n="N001"/>Hier haben wir <rs ana="#concept_mus">Folgen</rs> eines <rs ana="#m_chord">Dur-</rs> und des gleichna<pc>¬</pc>
@@ -8687,38 +8687,13 @@
 				<lb facs="#facs_178_r1l18" n="N003"/>eines <rs ana="#concept_mus">Systemes</rs>, durch einen fetteren Strich ausgezeichnet
 				<lb facs="#facs_178_r1l19" n="N004"/>wurden, so z. B. Tab A sub 4
 			</p>
-      	<list facs="#facs_178_TextRegion_1621257360490_3565">
-      		<item>
-      			<lb facs="#facs_178_r1l20" n="N001"/>$$GRAPHIC = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> <rs ana="#m_chord">Hauptaccord</rs> in <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>
-      		</item>
-      		<item>
-      			<lb facs="#facs_178_r1l22" n="N002"/>$$GRAPHIC = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> <rs ana="#m_chord">Nebenaccord</rs> in <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">as</hi>{</rs>
-      		</item>
-      		<item>
-      			<lb facs="#facs_178_r1l23" n="N003"/>$$GRAPHIC = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> <rs ana="#m_chord">Nebenaccord</rs> in <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>
-      		</item>
-      		<item>
-      			<lb facs="#facs_178_line_1621257612884_3654" n="N004"/>$$GRAPHIC = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> <rs ana="#m_chord">Hauptaccord</rs> in <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>}</rs>
-      		</item>
-      		<item>
-      			<lb facs="#facs_178_line_1621257618612_3663" n="N005"/>dagegen auf Tab. C sub 4:
-      		</item>
-      		<item>
-      			<lb facs="#facs_178_line_1621257625681_3674" n="N006"/>$$GRAPHIC = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> <rs ana="#m_chord">Nebenaccord</rs> in <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>
-      		</item>
-      		<item>
-      			<lb facs="#facs_178_r1l34" n="N007"/>$$GRAPHIC = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> <rs ana="#m_chord">Nebenaccord</rs> in <rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">gis</hi>}}</rs>
-      		</item>
-      		<item>
-      			<lb facs="#facs_178_r1l35" n="N008"/>und sub 2;
-      		</item>
-      		<item>
-      			<lb facs="#facs_178_line_1621257640135_3690" n="N009"/>$$GRAPHIC = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> <rs ana="#m_chord">Hauptaccord</rs> in <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>
-      		</item>
-      		<item>
-      			<lb facs="#facs_178_r1l40" n="N010"/>$$GRAPHIC = <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi> <hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> <rs ana="#m_chord">Hauptaccord</rs> in <rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi></rs>
-      		</item>
-      	</list>
+      	<p facs="#facs_178_TextRegion_1621257360490_3565">
+      		<lb facs="#facs_178_r1l20" n="N001"/><figure facs="#facs_178_r1l20"><graphic url="graphic/facs_178_r1l20.png"/></figure>
+      		<lb facs="#facs_178_line_1621257618612_3663" n="N005"/>dagegen auf Tab. C sub 4:
+      		<lb facs="#facs_178_line_1621257625681_3674" n="N006"/><figure facs="#facs_178_line_1621257625681_3674"><graphic url="graphic/facs_178_line_1621257625681_3674.png"/></figure>
+      		<lb facs="#facs_178_r1l35" n="N008"/>und sub 2;
+      		<lb facs="#facs_178_line_1621257640135_3690" n="N009"/><figure facs="#facs_178_line_1621257640135_3690"><graphic url="graphic/facs_178_line_1621257640135_3690.png"/></figure>
+      	</p>
          <pb facs="#facs_179" n="169"/>
             <p facs="#facs_179_TextRegion_1621257684933_3755">
 				<lb facs="#facs_179_r1l2" n="N001"/>Eine ähnliche Unterscheidung gilt für die Bezeichnung
@@ -9528,7 +9503,7 @@
 				<lb facs="#facs_208_r1l16" n="N014"/>geschobenem <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{</rs> hat keinen klaren Sinn, und wenn solch ein
 				<lb facs="#facs_208_r1l17" n="N015"/><rs ana="#concept_mus">Gang</rs> in einem Kunstwerk vorkommt, so wird nicht <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>{</rs>, son<pc>¬</pc>
 				<lb facs="#facs_208_r1l18" n="N016"/>dern <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">dis</hi>}}</rs> verstanden und geschrieben werden müssen. Die
-				<lb facs="#facs_208_line_1621263911339_4903" n="N017"/><rs ana="#concept_mus">Accordfolge</rs> $$GRAPHIC involvirt eine <rs ana="#concept_mus">Modulation</rs>.
+				<lb facs="#facs_208_line_1621263911339_4903" n="N017"/><rs ana="#concept_mus">Accordfolge</rs> <figure facs="#facs_208_line_1621263911339_4903" rend="inline"><graphic url="graphic/facs_208_line_1621263911339_4903.png"/></figure> involvirt eine <rs ana="#concept_mus">Modulation</rs>.
             </p>
             <p facs="#facs_208_TextRegion_1621263862659_4857">
 				<lb facs="#facs_208_r1l27" n="N001"/>Aus demselben Grunde hat die sog. <rs ana="#m_tonality">chromatische Lei<pc>¬</pc>
@@ -9632,10 +9607,10 @@
             </p>
       	<list facs="#facs_212_TextRegion_1621264366577_5221">
       		<item>
-      			<lb facs="#facs_212_r1l11" n="N001"/>zum <rs ana="#concept_mus">transp.</rs> II, 4. $$MUSIC
+      			<lb facs="#facs_212_r1l11" n="N001"/>zum <rs ana="#concept_mus">transp.</rs> II, 4. <figure facs="#facs_212_r1l11" rend="inline" class="musicplaceholder"><graphic url="music/facs_212_r1l11.png"/></figure>
       		</item>
       		<item>
-      			<lb facs="#facs_212_r1l26" n="N002"/>zum <rs ana="#concept_mus">transp.</rs> IV, 1. $$MUSIC
+      			<lb facs="#facs_212_r1l26" n="N002"/>zum <rs ana="#concept_mus">transp.</rs> IV, 1. <figure facs="#facs_212_r1l26" rend="inline" class="musicplaceholder"><graphic url="music/facs_212_r1l26.png"/></figure>
       		</item>
       	</list>
             <p facs="#facs_212_TextRegion_1621264361183_5217">
