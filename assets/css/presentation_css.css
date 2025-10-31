@@ -380,6 +380,11 @@ img {
 display: inherit;
 margin:auto;}
 
+
+tei-facsimile {
+	display: none; 
+}
+
 /*stacked elements */
 [ rend="stacked"] {
     display: inline-flex;       
