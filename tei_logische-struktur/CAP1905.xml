@@ -963,7 +963,7 @@
 			<pb facs="#facs_6"/>
             <pb facs="#facs_7"/>
 			<div type="contents">
-				<head><lb facs="#facs_7_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">Inhaltsübersicht.</hi></head>
+				<head facs="#facs_7_TextRegion_1614847640578_178"><lb facs="#facs_7_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">Inhaltsübersicht.</hi></head>
 				<list>
 					<item>
 						<lb facs="#facs_7_line_1614847795490_311" n="N001"/>I. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Die Zukunft der Musiktheorie</hi> (Dualismus oder
@@ -986,7 +986,7 @@
          <pb facs="#facs_8"/>
          <pb facs="#facs_9"/>
          <div type="chapter" n="1">
-            <head>
+            <head facs="#facs_9_TextRegion_1614848062393_529">
 				<lb facs="#facs_9_line_1614848036384_494" n="N001"/>I.
 				<lb facs="#facs_9_r1l1" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;">Die Zukunft der <rs ana="#concept_mus">Musiktheorie</rs></hi>
 				<lb facs="#facs_9_r1l2" n="N003"/>(<rs ana="#concept_mus">Dualismus</rs> oder „<rs ana="#concept_mus">Monismus</rs>”?)
@@ -2968,13 +2968,13 @@
          <pb facs="#facs_50"/>
         </div>
          <div type="chapter" n="1">
-            <head>
+            <head facs="#facs_50_TextRegion_1614862120717_6979">
 				<lb facs="#facs_50_r1l1" n="N001"/>II.
 				<lb facs="#facs_50_r1l2" n="N002"/><title ana="#text" ref="#W0071">Die Unmöglichkeit und Überflüssigkeit der</title>
 				<lb facs="#facs_50_r1l3" n="N003"/><title ana="#text" ref="#W0071"><rs ana="#concept_mus">dualistischen</rs> <rs ana="#concept_mus">Molltheorie</rs> <persName role="author" ref="#P0017">Riemanns</persName></title>.
 			</head>
          <div type="chapter" n="2">
-            <head>
+            <head facs="#facs_50_TextRegion_1614862130847_6984">
 				<lb facs="#facs_50_r1l4" n="N001"/>Einleitung.
 			</head>
             <p facs="#facs_50_TextRegion_1614862130847_6983">
@@ -3043,7 +3043,7 @@
 			</p>
          </div>
          <div type="chapter" n="2">
-            <head>
+            <head facs="#facs_51_TextRegion_1614868168667_25">
 				<lb facs="#facs_51_r1l29" n="N001"/>§ 1.
 				<lb facs="#facs_51_r1l30" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;">Die Grundzüge des <persName role="author" ref="#P0017">Riemannschen</persName><rs ana="#concept_mus">Mollsystems</rs>.</hi>
             </head>
@@ -3126,7 +3126,7 @@
             </figure>
          </div>
          <div type="chapter" n="2">
-            <head>
+            <head facs="#facs_53_TextRegion_1614868847124_454">
 				<lb facs="#facs_53_r1l58" n="N001"/>§ 2.
 				<lb facs="#facs_53_r1l59" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><rs ana="#concept_phy">Akustische</rs> Widerlegung der <persName role="author" ref="#P0017">Riemannschen</persName><rs ana="#concept_mus">Molltheorie</rs>.</hi>
             </head>
@@ -3170,7 +3170,7 @@
 			</p>
          </div>
          <div type="chapter" n="2">
-            <head>
+            <head facs="#facs_54_TextRegion_1614869234605_611">
 				<lb facs="#facs_54_r1l27" n="N001"/>§ 3.
 				<lb facs="#facs_54_r1l28" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;">Verhältnis zwischen <rs ana="#m_interval">Prim</rs> und <rs ana="#m_note">Grundton</rs>.</hi>
             </head>
@@ -3268,7 +3268,7 @@
 			</p>
          </div>
          <div type="chapter" n="2">
-            <head>
+            <head facs="#facs_56_TextRegion_1614869688358_1073">
 				<lb facs="#facs_56_r1l16" n="N001"/>§ 4.
 				<lb facs="#facs_56_r1l17" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;">Verhältnis zwischen <rs ana="#m_interval">Prim</rs> und <rs ana="#m_interval">Terz</rs>.</hi>
             </head>
@@ -3360,7 +3360,7 @@
             </p>
          </div>
          <div type="chapter" n="2">
-            <head>
+            <head facs="#facs_58_TextRegion_1614870059206_1365">
 				<lb facs="#facs_58_r1l5" n="N001"/>§ 5.
 				<lb facs="#facs_58_r1l6" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;">Der <rs ana="#m_chord">Nonenakkord</rs>.</hi>
             </head>
@@ -3408,12 +3408,12 @@
 			</p>
          </div>
          <div type="chapter" n="2">
-            <head>
+            <head facs="#facs_59_TextRegion_1614870251013_1519">
 				<lb facs="#facs_59_r1l5" n="N001"/>§ 6.
 				<lb facs="#facs_59_line_1614870248666_1516" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><rs ana="#m_tonality">Tonalität</rs>.</hi>
             </head>
          <div type="chapter" n="3">
-            <head>
+            <head facs="#facs_59_TextRegion_1614870248634_1513">
 				<lb facs="#facs_59_r1l7" n="N001"/>I. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Normale <rs ana="#concept_mus">Kadenzen</rs> im <rs ana="#concept_mus">reinen</rs> <rs ana="#m_tonality">Dur</rs> und <rs ana="#m_tonality">Moll</rs></hi>.
 			</head>
             <p facs="#facs_59_TextRegion_1614870245471_1509">
@@ -3504,7 +3504,7 @@
 			</p>
          </div>
          <div type="chapter" n="3">
-            <head>
+            <head facs="#facs_61_TextRegion_1614870815765_1882">
 				<lb facs="#facs_61_r1l18" n="N001"/>II. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Erweiterung der normalen <rs ana="#concept_mus">Kadenzen</rs> durch<lb facs="#facs_61_r1l19" n="N002"/><rs ana="#concept_mus"><rs ana="#concept_phy">dissonante</rs></rs> <rs ana="#m_note">Töne</rs></hi>.
 			</head>
             <p facs="#facs_61_TextRegion_1614870813140_1878">
@@ -3534,7 +3534,7 @@
          </div>
          <pb facs="#facs_62" n="58"/>
          <div type="chapter" n="3">
-            <head>
+            <head facs="#facs_62_TextRegion_1614870991735_2016">
 				<lb facs="#facs_62_r1l2" n="N001"/>III. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Erweiterung der normalen <rs ana="#concept_mus">Kadenzen</rs> durch die<lb facs="#facs_62_line_1614870989861_2014" n="N002"/><rs ana="#concept_mus">Terzwechselklänge</rs></hi>.
 			</head>
             <p facs="#facs_62_TextRegion_1614870989833_2010">
@@ -3617,7 +3617,7 @@
          </div>
          </div>
          <div type="chapter" n="2">
-            <head>
+            <head facs="#facs_63_TextRegion_1614871137204_2137">
 				<lb facs="#facs_63_r1l40" n="N001"/>§ 7.
 				<lb facs="#facs_63_line_1614871133697_2135" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><rs ana="#concept_mus">Verwandtschaft</rs>.</hi>
             </head>
@@ -3693,16 +3693,16 @@
          </div>
          <pb facs="#facs_66" n="62"/>
          <div type="chapter" n="2">
-            <head>
+            <head facs="#facs_66_TextRegion_1614957590029_108">
 				<lb facs="#facs_66_r1l2" n="N001"/>§ 8.
 				<lb facs="#facs_66_line_1614957585169_106" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><rs ana="#concept_mus">Modulationen</rs>.</hi>
             </head>
          <div type="chapter" n="3">
-            <head>
+            <head facs="#facs_66_TextRegion_1614957585115_102">
 				<lb facs="#facs_66_line_1614957580890_99" n="N001"/>I. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Umdeutung</rs> eines <rs ana="#concept_mus">Kadenzmomentes</rs> in ein anderes</hi>.
 			</head>
          <div type="chapter" n="4">
-            <head>
+            <head facs="#facs_66_TextRegion_1614957580841_96">
 				<lb facs="#facs_66_line_1614957577492_93" n="N001"/>1. Die <rs ana="#concept_mus">Tonika</rs> wird <rs ana="#concept_mus">Oberdominante</rs>.
 			</head>
             <p facs="#facs_66_TextRegion_1614957577442_90">
@@ -3728,7 +3728,7 @@
 			</p>
          </div>
          <div type="chapter" n="4">
-            <head>
+            <head facs="#facs_66_TextRegion_1614957556427_46">
 				<lb facs="#facs_66_r1l39" n="N001"/>2. Die <rs ana="#concept_mus">Tonika</rs> wird <rs ana="#concept_mus">Unterdominante</rs>.
 			</head>
             <p facs="#facs_66_TextRegion_1614957554002_40 #facs_66_TextRegion_1614957543229_24">
@@ -3739,7 +3739,7 @@
 			</p>
          </div>
          <div type="chapter" n="4">
-            <head>
+            <head facs="#facs_66_TextRegion_1614958451444_133">
 				<lb facs="#facs_66_r1l58" n="N001"/>3. Die <rs ana="#concept_mus">Unterdominante</rs> wird zweite <rs ana="#concept_mus">Oberdominante</rs>.
 			</head>
             <p facs="#facs_66_TextRegion_1614958451443_132 #facs_67_TextRegion_1614958791507_429">
@@ -3755,11 +3755,11 @@
          </div>
          </div>
          <div type="chapter" n="3">
-            <head>
+            <head facs="#facs_67_TextRegion_1614958784552_417">
 				<lb facs="#facs_67_r1l5" n="N001"/>II. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_tonality">Tonarten</rs> des <rs ana="#concept_mus">zweiten Themas</rs> in <rs ana="#concept_mus">Mollsonaten</rs></hi>.
 			</head>
          <div type="chapter" n="4">
-            <head>
+            <head facs="#facs_67_TextRegion_1614958777946_413">
 				<lb facs="#facs_67_r1l6" n="N001"/>1. Normale <rs ana="#m_tonality">Tonarten</rs>.
 			</head>
             <p facs="#facs_67_TextRegion_1614958769742_409">
@@ -3784,7 +3784,7 @@
          	</list>
          </div>
          <div type="chapter" n="4">
-            <head>
+            <head facs="#facs_67_TextRegion_1614958753032_395">
 				<lb facs="#facs_67_r1l17" n="N001"/>2. Seltenere <rs ana="#m_tonality">Tonarten</rs>.
 			</head>
             <p facs="#facs_67_TextRegion_1614958751044_391">
@@ -3834,7 +3834,7 @@
          </div>
          </div>
          <div type="chapter" n="2">
-            <head>
+            <head facs="#facs_68_TextRegion_1614959121099_619">
 				<lb facs="#facs_68_r1l13" n="N001"/>§ 9.
 				<lb facs="#facs_68_r1l14" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><rs ana="#m_tonality">Durmoll</rs>.</hi>
             </head>
@@ -3935,7 +3935,7 @@
             </p>
          </div>
          <div type="chapter" n="2">
-            <head>
+            <head facs="#facs_70_TextRegion_1614959974823_1020">
 				<lb facs="#facs_70_r1l18" n="N001"/>§ 10.
 				<lb facs="#facs_70_r1l19" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;">Die <rs ana="#concept_mus">Melodik</rs> in <rs ana="#m_tonality">Moll</rs>.</hi>
             </head>
@@ -3945,7 +3945,7 @@
 				<lb facs="#facs_70_r1l22" n="N003"/>anderen) <rs ana="#m_chord">Akkordes</rs> mit verbindenden <rs ana="#m_note">Durchgangstönen</rs>” (<title ana="#text" ref="#W0034">H.</title> S. 112)
 			</p>
          <div type="chapter" n="3">
-            <head>
+            <head facs="#facs_70_TextRegion_1614959974823_1020">
 				<lb facs="#facs_70_r1l23" n="N001"/>I. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_tonality">Tonleiter</rs> des <rs ana="#concept_mus">tonischen</rs> <rs ana="#concept_mus">Klanges</rs></hi>.
 			</head>
             <p facs="#facs_70_TextRegion_1614959971792_1014">
@@ -4018,7 +4018,7 @@
 			</p>
          </div>
          <div type="chapter" n="3">
-            <head>
+            <head facs="#facs_71_TextRegion_1614967793782_1203">
 				<lb facs="#facs_71_line_1614967787852_1201" n="N001"/>II. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_tonality">Tonleiter</rs> der <rs ana="#concept_mus">Unterdominante</rs> in <rs ana="#m_tonality">Moll</rs></hi>.
 			</head>
             <p facs="#facs_71_TextRegion_1614967787725_1197">
@@ -4052,7 +4052,7 @@
 			</p>
          </div>
          <div type="chapter" n="3">
-            <head>
+            <head facs="#facs_72_TextRegion_1614968175819_1497">
 				<lb facs="#facs_72_line_1614968173016_1494" n="N001"/>III. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Die <rs ana="#m_tonality">Tonleiter</rs> der <rs ana="#concept_mus">Molloberdominante</rs> in <rs ana="#m_tonality">Moll</rs></hi>.
 			</head>
             <p facs="#facs_72_TextRegion_1614968172991_1491">
@@ -4079,7 +4079,7 @@
          </div>
          </div>
          <div type="chapter" n="2">
-            <head>
+            <head facs="#facs_72_TextRegion_1614968163027_1479">
 				<lb facs="#facs_72_r1l37" n="N001"/>§ 11.
 				<lb facs="#facs_72_r1l38" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;">Die Lösung des <rs ana="#concept_mus">Mollproblems</rs>.<note facs="#facs_72_TextRegion_1614968155796_1467" type="foot" n="*)"><lb facs="#facs_72_r1l42" n="N001"/>§ 11 ist inzwischen ersetzt durch meine theoretischen Broschüren
 				<lb facs="#facs_72_r1l43" n="N002"/>(<title ana="#text" ref="#W0014">Teil I</title> §§ 6, 7 und Anhang, <title ana="#text" ref="#W0031">Teil II</title> Anhang) sowie durch den Leit<pc>¬</pc>
@@ -4158,7 +4158,7 @@
          </div>
          <pb facs="#facs_76"/>
          <div type="chapter" n="1">
-            <head>
+            <head facs="#facs_76_TextRegion_1614968829646_2007">
 				<lb facs="#facs_76_r1l1" n="N001"/>III.
 				<lb facs="#facs_76_r1l2" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><title ana="#text" ref="#W0098">Die symmetrische Umkehrung</title>.<lb facs="#facs_76_r1l3" n="N003"/>Kritik</hi>
             	<lb facs="#facs_76_r1l4" n="N004"/>der gleichnamigen Broschüre von Prof. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0071">Hermann Schröder</persName></hi>
@@ -4544,7 +4544,7 @@
       </body>
 	  <back>
 			<div type="postface">
-            <head>
+            <head facs="#facs_83_TextRegion_1614970221161_3170">
 				<lb facs="#facs_83_line_1614970215798_3168" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">Nachtrag.</hi>
             </head>
             <p facs="#facs_83_TextRegion_1614970215776_3164">
@@ -4559,7 +4559,7 @@
          </div>
          <pb facs="#facs_84"/>
          <div type="appendix">
-            <head>
+            <head facs="#facs_84_TextRegion_1614973195880_4056">
 				<lb facs="#facs_84_r1l1" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">Anlagen.</hi>
 				<lb facs="#facs_84_r1l2" n="N002"/>Notenbeispiele zu I.
 			</head>
