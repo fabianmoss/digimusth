@@ -383,7 +383,8 @@
    	<front>
    	  <pb facs="#facs_1" n=""/>
          <pb facs="#facs_2" n=""/>
-   	  <titlePage type="main">
+   	  
+   	<titlePage type="main">
    	  	   <byline>
    	  	   		<lb facs="#facs_2_r1l7" n="N001"/><docAuthor ref="#P0017"><hi rend="underlined:true; fontSize:0.0; kerning:0; bold:true;">HUGO RIEMANN</hi></docAuthor>
    	  	   </byline>
@@ -407,7 +408,20 @@
 					<lb facs="#facs_2_r1l17" n="N010"/><publisher>Verlag von C. F. Kahnt Nachfolger</publisher>
 					<lb facs="#facs_2_r1l18" n="N011"/><docDate when="1905">1905</docDate>.
 				</docImprint>
-		  </titlePage>
+		  </titlePage><div type="contents"><list n="1"><item>
+				I. Einleitung.
+			</item><item>
+				II. Sind die Obertöne der „Grund” der Konsonanz?
+			</item><item>
+				III. Intervallverschmelzung oder Klangvertretung?
+			</item><item>
+				IV. Die wahre Wurzel des harmonischen Dualismus.
+			</item><item>
+				V. Das Grundton-Problem.
+			</item></list></div>
+   	  <pb facs="#facs_1" n=""/>
+         <pb facs="#facs_2" n=""/>
+   	  
    	</front>
       <body>
          <pb facs="#facs_3" n=""/>

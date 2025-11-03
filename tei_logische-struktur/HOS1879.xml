@@ -1603,7 +1603,155 @@
    <text xml:space="preserve">
    	<front>
    		<pb facs="#facs_1" n=""/>
-   			<titlePage type="main">
+   			
+         	<pb facs="#facs_2" n=""/>
+         	<pb facs="#facs_3" n=""/>
+   		<div type="preface">
+				<head facs="#facs_3_TextRegion_1626023001914_49"><lb facs="#facs_3_r1l1" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">VORWORT.</hi></head>
+   			<p facs="#facs_3_TextRegion_1626023001914_48">
+					<lb facs="#facs_3_r1l2" n="N001"/>Die vorliegende Schrift versucht es, den namentlich durch
+					<lb facs="#facs_3_r1l3" n="N002"/><persName role="author" ref="#P0001">H. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helmholtz</hi></persName> und <persName role="author" ref="#P0018">A. v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi></persName> zur Geltung gebrachten
+					<lb facs="#facs_3_r1l4" n="N003"/>Zusammenhang zwischen der neueren <rs ana="#concept_phy">akustischen Forschung</rs> und
+					<lb facs="#facs_3_r1l5" n="N004"/>den altbewährten <rs ana="#concept_mus">musikalischen Kunstregeln</rs> in der Weise auszu<pc>¬</pc>
+					<lb facs="#facs_3_r1l6" n="N005"/>beuten, dass dadurch eine <rs ana="#concept_phy">psychologisch-ästhetische</rs> Grundlage für die
+					<lb facs="#facs_3_r1l7" n="N006"/><rs ana="#concept_mus">Harmonielehre</rs> geschaffen würde. Im Verlaufe meiner Studien habe
+					<lb facs="#facs_3_r1l8" n="N007"/>ich nämlich die Ueberzeugung gewonnen, dass das <rs ana="#concept_phy">psychologisch-</rs>
+					<lb facs="#facs_3_r1l9" n="N008"/><rs ana="#concept_phy">ästhetische</rs> Moment in der Behandlung der <rs ana="#concept_mus">harmonischen Grund<pc>¬</pc>
+					<lb facs="#facs_3_r1l10" n="N009"/>probleme</rs> bisher noch nicht so betont worden ist, als es in der
+					<lb facs="#facs_3_r1l11" n="N010"/>That verdiente, zumal der hoch entwickelten <rs ana="#concept_phy">physikalisch-physio<pc>¬</pc>
+					<lb facs="#facs_3_r1l12" n="N011"/>logischen Theorie</rs> <persName role="author" ref="#P0001"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helmholtz</hi>'s</persName> gegenüber. Der „<rs ana="#concept_mus">dualistische</rs>”
+					<lb facs="#facs_3_r1l13" n="N012"/>Standpunct <persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi>'s</persName> musste zwar aufgegeben werden, die
+					<lb facs="#facs_3_r1l14" n="N013"/>mehr <rs ana="#concept_phy">psychologische</rs> Richtung dieses Forschers konnte jedoch im
+					<lb facs="#facs_3_r1l15" n="N014"/>Ganzen und Grossen beibehalten werden. Kritische Bemerkungen
+					<lb facs="#facs_3_r1l16" n="N015"/>über die Theorien <persName role="author" ref="#P0001"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helmholtz</hi>'s</persName> und <persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi>'s</persName> enthalten
+					<lb facs="#facs_3_r1l17" n="N016"/>hauptsächlich die §§ 9 und 10, den Versuch einer Weiterbildung
+					<lb facs="#facs_3_r1l18" n="N017"/>der durch diese Kritik gewonnenen Resultate findet der Leser im
+					<lb facs="#facs_3_r1l19" n="N018"/>darauffolgenden Paragraphen. Als ein nothwendiges Ergebniss der
+					<lb facs="#facs_3_r1l20" n="N019"/>daselbst entwickelten Ansichten über das Wesen der <rs ana="#concept_mus"><rs ana="#concept_phy">Consonanz</rs></rs>
+					<lb facs="#facs_3_r1l21" n="N020"/>und der <rs ana="#concept_mus">Tonverwandtschaft</rs> erschienen mir gewisse mehr oder
+					<lb facs="#facs_3_r1l22" n="N021"/>weniger durchgreifende Aenderungen in der hergebrachten Lehre
+					<lb facs="#facs_3_r1l23" n="N022"/>von der <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs> und ihrer <rs ana="#concept_mus">Auflösung</rs>, sowie von der <rs ana="#concept_mus">Accord<pc>¬</pc>
+					<lb facs="#facs_3_r1l24" n="N023"/>verwandtschaft</rs> und <rs ana="#concept_mus">Accordfolge</rs>.
+				</p>
+   			<p facs="#facs_3_TextRegion_1626022998473_44 #facs_4_TextRegion_1626023173348_68">
+					<lb facs="#facs_3_r1l25" n="N001"/>Vor der Vollendung des Manuscriptes dieser Studie kannte ich
+					<lb facs="#facs_3_r1l26" n="N002"/>von <persName role="author" ref="#P0017">H. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Riemann</hi>'s</persName> Arbeiten blos die „<title ana="#text" ref="#W0141">Musikalische Logik</title>”.
+					<lb facs="#facs_3_r1l27" n="N003"/>Die Bekanntschaft mit den späteren Schriften <persName role="author" ref="#P0017"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Riemann</hi>'s</persName>, vor
+					<lb facs="#facs_3_r1l28" n="N004"/>Allem mit seiner „<title ana="#text" ref="#W0019">Musikalischen Syntaxis</title>” hat meine bisherigen
+					<pb facs="#facs_4" n="IV"/>
+	            	<lb facs="#facs_4_r1l2" n="N001"/>Ansichten in Folge einer erfreulichen Uebereinstimmung sowohl in
+					<lb facs="#facs_4_r1l3" n="N002"/>einzelnen wichtigen Puncten, wie in der allgemeinen Tendenz nur
+					<lb facs="#facs_4_r1l4" n="N003"/>gefestigt, trotz einigen nicht unwesentlichen Differenzen. Ich hielt
+					<lb facs="#facs_4_r1l5" n="N004"/>es deshalb auch jetzt, da ich nach zwei Jahren das Manuscript
+					<lb facs="#facs_4_r1l6" n="N005"/>dem Drucke übergeben habe, nicht für nöthig, an dem Wortlaut
+					<lb facs="#facs_4_r1l7" n="N006"/>des Textes etwas zu ändern und begnügte mich mit wenigen
+					<lb facs="#facs_4_r1l8" n="N007"/>Anmerkungen und Hinweisen unter dem Striche. Hier mögen aber
+					<lb facs="#facs_4_r1l9" n="N008"/>noch einige weitere Bemerkungen Platz finden. Ein Hauptverdienst
+					<lb facs="#facs_4_r1l10" n="N009"/><persName role="author" ref="#P0017"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Riemann</hi>'s</persName> ist die Anerkennung der <rs ana="#concept_mus">Terzverwandtschaft</rs> der
+					<lb facs="#facs_4_r1l11" n="N010"/><rs ana="#m_chord">Dreiklänge</rs> („<title ana="#text" ref="#W0019">Syntaxis</title>”, S. 17), die zur Folge hat, dass er Folgen
+					<lb facs="#facs_4_line_1626023219997_104" n="N011"/>wie: <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> . . <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> . . <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs>; <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> . . <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> . .<rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs>; <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> . . <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> . . <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs>;
+					<lb facs="#facs_4_r1l19" n="N012"/><rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> . . <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">as</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> . . <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> u. s. w. „unbedenklich als einfache Thesen” gelten
+					<lb facs="#facs_4_r1l20" n="N013"/>lässt (<title ana="#text" ref="#W0019">A. a. O.</title> S. 21) <note facs="#facs_4_TextRegion_1626023161681_60" type="foot" n="*)"><lb facs="#facs_4_r1l48" n="N001"/>Nur gegen die <rs ana="#m_interval">kleine Terz</rs> (<rs ana="#m_interval">grosse Sexte</rs>) scheint bei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0017">Riemann</persName></hi>
+				<lb facs="#facs_4_r1l49" n="N002"/>noch ein Rest von Misstrauen zu bestehen, indem er („<title ana="#text" ref="#W0019">Syntaxis</title>”, S. 19
+				<lb facs="#facs_4_r1l50" n="N003"/>dieses <rs ana="#m_interval">Intervall</rs> „eigentlich ein mittelbar verständliches” nennt.</note>. Damit hängt denn auch das Aufgeben
+					<lb facs="#facs_4_r1l21" n="N014"/>des alten <rs ana="#concept_mus">Tonartbegriffes</rs> zusammen (<title ana="#text" ref="#W0019">S. 41</title>), von dem sich selbst
+					<lb facs="#facs_4_r1l22" n="N015"/>noch <persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi></persName> nicht vollständig emancipirt hat (vgl. im
+					<lb facs="#facs_4_r1l23" n="N016"/>Nachfolgenden § 20). Die Andeutungen <persName role="author" ref="#P0017"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Riemann</hi>'s</persName> über seine
+					<lb facs="#facs_4_r1l24" n="N017"/><rs ana="#concept_mus">Dissonanzlehre</rs> (namentlich in der „<title ana="#text" ref="#W0019">Syntaxis</title>”, S. 111 ff.) lassen
+					<lb facs="#facs_4_r1l25" n="N018"/>gleichfalls eine Uebereinstimmung mit den von mir vertretenen
+					<lb facs="#facs_4_r1l26" n="N019"/>Ansichten in mehr als einer Beziehung erwarten.
+	            </p>
+   			<p facs="#facs_4_TextRegion_1626023168090_64 #facs_5_TextRegion_1626023279531_167">
+					<lb facs="#facs_4_r1l27" n="N001"/>Dagegen zeigt sich zwischen uns eine doppelte principielle
+					<lb facs="#facs_4_r1l28" n="N002"/>Differenz: <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0017">Riemann</persName></hi> giebt erstens die natürlichen <rs ana="#concept_mus">Tonverhältnisse</rs>
+					<lb facs="#facs_4_r1l29" n="N003"/>auf und legt seiner Theorie die <rs ana="#concept_mus">gleichschwebende Temperatur</rs> zum
+					<lb facs="#facs_4_r1l30" n="N004"/>Grunde, zweitens hält er streng an dem <rs ana="#concept_mus">Dualismus</rs> <persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi>'s</persName>
+					<lb facs="#facs_4_r1l31" n="N005"/>fest und hegt optimistische Ansichten über die Zukunft desselben.
+					<lb facs="#facs_4_r1l32" n="N006"/>Für die <rs ana="#concept_mus">natürliche Stimmung</rs> als Grundlage der <rs ana="#concept_mus">Harmonielehre</rs>,
+					<lb facs="#facs_4_r1l33" n="N007"/>findet der Leser im Folgenden schwerwiegende Gründe an ver<pc>¬</pc>
+					<lb facs="#facs_4_r1l34" n="N008"/>schiedenen Orten; dass dieser Standpunct die Benützung der <rs ana="#concept_mus">enhar<pc>¬</pc>
+					<lb facs="#facs_4_r1l35" n="N009"/>monischen</rs> <rs ana="#concept_mus">Mehrdeutigkeit</rs> der in der <rs ana="#concept_mus">praktischen Musik</rs> angewandten
+					<lb facs="#facs_4_r1l36" n="N010"/><rs ana="#concept_mus">temperirten</rs> <rs ana="#m_interval">Intervalle</rs> durchaus nicht ausschliesst, vielmehr in
+					<lb facs="#facs_4_r1l37" n="N011"/>gewissen Fällen sogar als Quelle eines eigenthümlichen, sonst nicht
+					<lb facs="#facs_4_r1l38" n="N012"/>zu erklärenden Reizes anerkennt, braucht wohl nicht erst besonders
+					<lb facs="#facs_4_r1l39" n="N013"/>hervorgehoben zu werden. Zunächst geschieht jedoch die Ver<pc>¬</pc>
+					<lb facs="#facs_4_r1l40" n="N014"/>knüpfung der <rs ana="#concept_mus">Klangvorstellungen</rs> von Seiten des Hörers im Sinne
+					<lb facs="#facs_4_r1l41" n="N015"/>der <rs ana="#concept_mus">natürlichen Stimmung</rs>, die auf der Identification verschiedener
+					<lb facs="#facs_4_r1l42" n="N016"/>durch denselben <rs ana="#concept_mus">temperirten</rs> <rs ana="#m_note">Ton</rs> vertretener <rs ana="#concept_mus">Stufen</rs> beruhende
+					<lb facs="#facs_4_r1l43" n="N017"/>Umdeutung ist an und für sich berechtigt, tritt aber nur ausnahms<pc>¬</pc>
+					<lb facs="#facs_4_r1l44" n="N018"/>weise, subsidiär auf, wenn uns entweder der anderweitige, jedoch
+					<lb facs="#facs_4_r1l45" n="N019"/>abermals auf Grund natürlicher <rs ana="#concept_mus">Tonverhältnisse</rs> gedeutete <rs ana="#concept_mus">Zusammen<pc>¬</pc>
+					<lb facs="#facs_4_r1l46" n="N020"/>hang</rs> dazu zwingt, oder wenn die Entfernung zwischen zwei <rs ana="#concept_mus">Klängen</rs>
+					<lb facs="#facs_4_r1l47" n="N021"/>eine so grosse und die <rs ana="#concept_mus">Klangfolge</rs> eine so complicirte ist, dass das
+	            	<pb facs="#facs_5" n="V"/>
+	            	<lb facs="#facs_5_r1l1" n="N001"/>Wiedererkennen des früheren <rs ana="#concept_mus">Klanges</rs> nur noch durch die Erinne<pc>¬</pc>
+					<lb facs="#facs_5_r1l2" n="N002"/>rung an seine absolute <rs ana="#concept_mus">Tonhöhe</rs> ermöglicht wird. Gleichwohl dürfte
+					<lb facs="#facs_5_r1l3" n="N003"/>es nicht empfehlenswerth sein, ein <rs ana="#concept_mus">Tonstück</rs> in <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi>-Dur</rs> zu beginnen
+					<lb facs="#facs_5_r1l4" n="N004"/>und im <rs ana="#concept_mus">Quintenzirkel</rs> fortschreitend mit <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">His</hi>-Dur</rs> zu schliessen; der
+					<lb facs="#facs_5_r1l5" n="N005"/>Fehler liegt aber nicht so sehr in der Identification von <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_tonality">C</rs></hi> und <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_tonality">His</rs></hi>,
+					<lb facs="#facs_5_r1l6" n="N006"/>als vielmehr in der einseitigen Richtung der <rs ana="#concept_mus">Modulation</rs> nach der
+					<lb facs="#facs_5_r1l7" n="N007"/><rs ana="#concept_mus">Oberdominantseite</rs>.
+				</p>
+   			<p facs="#facs_5_TextRegion_1626023279530_166">
+					<lb facs="#facs_5_r1l8" n="N001"/>Die Hoffnung <persName role="author" ref="#P0017"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Riemann</hi>'s</persName>, dass einst doch, wenn auch nach
+					<lb facs="#facs_5_r1l9" n="N002"/>schweren Kämpfen, „die Auffassung des <rs ana="#m_chord">Mollaccordes</rs> in halbem
+					<lb facs="#facs_5_r1l10" n="N003"/><rs ana="#concept_mus">Dursinne</rs> (eine Frucht des <rs ana="#concept_mus">Generalbasses</rs>) aus der <rs ana="#concept_mus">Harmonielehre</rs>
+					<lb facs="#facs_5_r1l11" n="N004"/>ganz ausgemerzt und an die Stelle der Benennung des <rs ana="#m_chord">Molldrei<pc>¬</pc>
+					<lb facs="#facs_5_r1l12" n="N005"/>klanges</rs> nach seinem tiefsten die nach seinem höchsten <rs ana="#m_note">Tone</rs>
+					<lb facs="#facs_5_r1l13" n="N006"/>getreten sein wird” („<title ana="#text" ref="#W0019">Syntaxis</title>”, S. XIII) theile ich durchaus
+					<lb facs="#facs_5_r1l14" n="N007"/>nicht; und wenn im Folgenden die Terminologie und die Tonschrift
+					<lb facs="#facs_5_r1l15" n="N008"/><persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi>'s</persName> zum Theil beibehalten worden ist, so geschah dies
+					<lb facs="#facs_5_r1l16" n="N009"/>aus äusserlichen, praktischen Motiven, unter ausdrücklicher Ver<pc>¬</pc>
+					<lb facs="#facs_5_r1l17" n="N010"/>wahrung gegen eine Anerkennung der principiellen Gleichberech<pc>¬</pc>
+					<lb facs="#facs_5_r1l18" n="N011"/>tigung der <rs ana="#concept_mus">Tonicität</rs> und <rs ana="#concept_mus">Phonicität</rs> (vgl. im Folgenden namentlich
+					<lb facs="#facs_5_r1l19" n="N012"/>§ 17).
+				</p>
+   			<p facs="#facs_5_TextRegion_1626023277134_162">
+					<lb facs="#facs_5_r1l20" n="N001"/>Die vorliegende Schrift ist nicht etwa dazu bestimmt, <persName role="author" ref="#P0017"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Rie<pc>¬</pc>
+					<lb facs="#facs_5_r1l21" n="N002"/>mann</hi>'s</persName> schätzbaren Arbeiten entgegenzutreten; im Gegentheile
+					<lb facs="#facs_5_r1l22" n="N003"/>wünscht sie eher als eine Ergänzung derselben betrachtet zu werden.
+					<lb facs="#facs_5_r1l23" n="N004"/>Weder die „<title ana="#text" ref="#W0142">Hülfsmittel der <rs ana="#concept_mus">Modulation</rs> </title>”, noch die „<title ana="#text" ref="#W0019">Musikalische</title>
+					<lb facs="#facs_5_r1l24" n="N005"/><title ana="#text" ref="#W0019">Syntaxis</title>” verlegen ihren Schwerpunct in diejenigen Probleme, die
+					<lb facs="#facs_5_r1l25" n="N006"/>uns im Folgenden in erster Linie beschäftigen werden; ob dies
+					<lb facs="#facs_5_r1l26" n="N007"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0017">Riemann</persName></hi> in seiner bereits in Aussicht gestellten „<title ana="#text" ref="#W0143">Musikalischen</title>
+					<lb facs="#facs_5_r1l27" n="N008"/><title ana="#text" ref="#W0143">Grammatik</title>” thun und inwieferne er dann von dem hier Gebotenen
+					<lb facs="#facs_5_r1l28" n="N009"/>abweichen wird, lässt sich freilich nicht bestimmt vorhersehen.
+				</p>
+   			<p facs="#facs_5_TextRegion_1626023273376_158">
+					<lb facs="#facs_5_r1l29" n="N001"/>Im ersten Abschnitte musste Vieles wiederholt werden, was
+					<lb facs="#facs_5_r1l30" n="N002"/>wohl den meisten Lesern längst bekannt ist und daher füglich
+					<lb facs="#facs_5_r1l31" n="N003"/>vorausgesetzt werden konnte. Allein Zweck und Plan dieser Schrift
+					<lb facs="#facs_5_r1l32" n="N004"/>forderten, dass in den „<rs ana="#concept_phy">Akustischen</rs> Vorfragen” wenigstens alles
+					<lb facs="#facs_5_r1l33" n="N005"/>Das zusammengestellt wurde, was für die späteren Abschnitte von
+					<lb facs="#facs_5_r1l34" n="N006"/>Wichtigkeit war. Sollte ein mit der einschlägigen Litteratur minder
+					<lb facs="#facs_5_r1l35" n="N007"/>vertrauter Leser sich auf <rs ana="#concept_phy">akustischem Gebiete</rs> noch genauer unter<pc>¬</pc>
+					<lb facs="#facs_5_r1l36" n="N008"/>richten wollen, so thut er am Besten, <persName role="author" ref="#P0001"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helmholtz</hi>'s</persName> classische
+					<lb facs="#facs_5_r1l37" n="N009"/>„<title ana="#text" ref="#W0001">Lehre von den Tonempfindungen</title>” selbst zur Hand zu nehmen<note facs="#facs_5_TextRegion_1626023256657_150" type="foot" n="*)"><lb facs="#facs_5_line_1626023360358_238" n="N001"/>Zur Orientirung dienen auch ganz besonders: <persName role="author" ref="#P0105">E. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Mach</hi></persName>: <title ana="#text" ref="#W0144">Ein<pc>¬</pc></title>
+					<lb facs="#facs_5_line_1626023366973_250" n="N002"/><title ana="#text" ref="#W0144">leitung in die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helmholtz</hi>'sche Musiktheorie</title>. <placeName ref="#L0017">Graz</placeName>, <date when="1867">1867</date> und <persName role="author" ref="#P0106">P. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Bla<pc>¬</pc></hi></persName>
+					<lb facs="#facs_5_r1l44" n="N003"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0106">serna</persName></hi>: <title ana="#text" ref="#W0145">Die Theorie des Schalls in Beziehung zur Musik</title>. <placeName ref="#L0022">Leipzig</placeName>, <date when="1876">1876</date>
+					<lb facs="#facs_5_r1l45" n="N004"/>(Internat. wiss. Bibl. XXIV.).</note>.
+				</p>
+   			<p facs="#facs_5_TextRegion_1626023261956_154 #facs_6_TextRegion_1626023421835_273">
+					<lb facs="#facs_5_r1l38" n="N001"/>Da es sich hier zunächst nur um die ästhetische <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Begrün<pc>¬</pc>
+					<lb facs="#facs_5_r1l39" n="N002"/>dung</hi> der <rs ana="#concept_mus">Harmonielehre</rs> handelte, durfte die weitere Ausführung
+					<pb facs="#facs_6" n="VI"/>
+	            	<lb facs="#facs_6_r1l2" n="N001"/>wohl hier und da etwas skizzenhaft bleiben. Dass schliesslich die
+					<lb facs="#facs_6_r1l3" n="N002"/>Untersuchung über die Gründe des Wohlgefallens an der <rs ana="#concept_mus"><rs ana="#concept_phy">Conso<pc>¬</pc>
+					<lb facs="#facs_6_r1l4" n="N003"/>nanz</rs></rs> sich mit einer einfachen <rs ana="#concept_phy">psychologischen</rs> Erörterung begnügen
+					<lb facs="#facs_6_r1l5" n="N004"/>konnte, ohne an die geheimnissvollen Pforten der Metaphysik zu
+					<lb facs="#facs_6_r1l6" n="N005"/>pochen, wird der Leser mit Rücksicht auf den principiellen Stand<pc>¬</pc>
+					<lb facs="#facs_6_r1l7" n="N006"/>punct dieser Schrift leicht einsehen, hoffentlich auch billigen. Der
+					<lb facs="#facs_6_r1l8" n="N007"/><rs ana="#concept_mus">Musiker</rs> wenigstens, an den ich hier vor Allen gedacht habe,
+					<lb facs="#facs_6_r1l9" n="N008"/>dürfte das Heranziehen entfernter und tiefer liegender philo<pc>¬</pc>
+					<lb facs="#facs_6_r1l10" n="N009"/>sophischer Fragen, die an den Resultaten ohnehin nichts geändert
+					<lb facs="#facs_6_r1l11" n="N010"/>hätten, kaum vermissen.
+	            </p>
+   			<p facs="#facs_6_TextRegion_1626023421835_272">
+					<lb facs="#facs_6_r1l12" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><placeName ref="#L0029">Prag</placeName></hi>, im <date>September 1878</date>.
+					<lb facs="#facs_6_r1l13" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><persName role="author" ref="#P0003">O. H.</persName></hi>
+	            </p>
+   		</div>
+   	<titlePage type="main">
 				<docTitle>
            	 	<titlePart type="main" ana="#text" corresp="#W0021"><lb facs="#facs_1_r1l3" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">DIE LEHRE</hi>
 						<lb facs="#facs_1_r1l4" n="N002"/>VON DEN
@@ -1625,6 +1773,72 @@
 					<lb facs="#facs_1_r1l16" n="N013"/><docDate when="1879">1879</docDate>.
 				</docImprint>
 			</titlePage>
+   		<div type="contents"><list n="1"><item>
+				ERSTER ABSCHNTTT.
+				AKUSTISCHE VORFRAGEN.
+			<list n="2"><item>
+				§ 1. Tonstärke und Tonhöhe.
+			</item><item>
+				§ 2. Klangfarbe.
+			</item><item>
+				§ 3. Schwebungen und Combinationstöne.
+			</item><item>
+				§ 4. Das Hören.
+			</item><item>
+				§ 5. Erregbarkeit der Nachbarnerven.
+			</item><item>
+				§ 6. Subjective Untertöne.
+			</item><item>
+				§. 7. Die Tonreihe.
+			</item></list></item><item>
+				ZWEITER ABSCHNITT.
+				CONSONANZ UND DISSONANZ
+			<list n="2"><item>
+				§ 8. Harmonische Intervalle.
+			</item><item>
+				§. 9. Helmholtz und v. Oettingen.
+			</item><item>
+				§ 10. Kritische Erwägungen.
+			</item><item>
+				§ 11. Resultate. Verwandtschaft und Consonanz.
+			</item><item>
+				§ 12. Die Melodieschritte.
+			</item><item>
+				§ 13. Die Dissonanz. Allgemeines.
+			</item><item>
+				§ 14. Die Auflösung der Dissonanz.
+			</item><item>
+				§ 15. Zweiseitige oder freie Auflösung.
+				(Echte Dissonanz.)
+			</item><item>
+				§ 16. Einseitige oder gebundene Auflösung.
+				(Vorhaltsdissonanz.)
+			</item></list></item><item>
+				DRITTER ABSCHNITT.
+				ACCORDLEHRE.
+			<list n="2"><item>
+				§ 17. Die consonanten Dreiklänge.
+			</item><item>
+				§ 18. Der musikalische Klang als Vorbild des Accordes.
+			</item><item>
+				§ 19. Verwandtschaft der Dreiklänge.
+			</item><item>
+				§ 20. Folgen consonanter Accorde.
+			</item><item>
+				§ 21. Stimmführung.
+			</item><item>
+				§ 22. Mehrstimmige Dissonanzen.
+			</item><item>
+				§ 23. Dissonanzen isolirter, indirect verwandter Klänge.
+			</item><item>
+				§ 24. Dissonanzen verbundener, direct verwandter Klänge.
+			</item><item>
+				§ 25. Zusätze.
+			</item></list></item><item>
+				RÜCKBLICK.
+			</item></list></div>
+   		<pb facs="#facs_1" n=""/>
+   			
          	<pb facs="#facs_2" n=""/>
          	<pb facs="#facs_3" n=""/>
    		<div type="preface">
