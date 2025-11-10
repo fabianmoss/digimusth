@@ -1120,63 +1120,7 @@
 	</facsimile>
    <text xml:space="preserve">
    	<front>
-   	  <pb facs="#facs_8" n=""/>
-         <pb facs="#facs_9" n=""/>
-         <pb facs="#facs_10" n=""/>
-   		
-         <pb facs="#facs_11" n=""/>
-         <pb facs="#facs_12" n=""/>
-   		<div type="dedication">
-   			<p facs="#facs_12_TextRegion_1613651800361_653">
-				<lb facs="#facs_12_line_1611258105344_591" n="N001"/>SEINEN
-				<lb facs="#facs_12_line_1611258115524_599" n="N002"/>HOCHVEREHRTEN LEHRERN.
-				<lb facs="#facs_12_line_1611258124483_607" n="N003"/>DEN HERREN
-				<lb facs="#facs_12_line_1611258135649_615" n="N004"/><persName role="author" ref="#P0091"><hi rend="fontSize:0.0; kerning:0; bold:true;">D</hi><hi rend="fontSize:0.0; kerning:0; superscript:true; bold:true;">R</hi><hi rend="fontSize:0.0; kerning:0; bold:true;">. M. W. DROBISCH</hi></persName><hi>,</hi>
-				<lb facs="#facs_12_line_1611258145870_623" n="N005"/>PROFESSOR, RITTER ETC.
-				<lb facs="#facs_12_line_1611258151065_631" n="N006"/>UND
-				<lb facs="#facs_12_line_1611258166461_639" n="N007"/><persName role="author" ref="#P0007"><hi rend="fontSize:0.0; kerning:0; bold:true;">D</hi><hi rend="fontSize:0.0; kerning:0; superscript:true; bold:true;">R</hi><hi rend="fontSize:0.0; kerning:0; bold:true;">. M. HAUPTMANN</hi></persName><hi>,</hi>
-				<lb facs="#facs_12_line_1611258175855_647" n="N008"/><rs ana="#concept_mus">MUSIKDIRECTOR</rs> ETC.
-				<lb facs="#facs_12_line_1611258188421_655" n="N009"/>GEWIDMET
-				<lb facs="#facs_12_line_1611258194736_663" n="N010"/>VOM
-				<lb facs="#facs_12_line_1611258205848_671" n="N011"/>VERFASSER.
-			</p>
-   		</div>
-         <pb facs="#facs_13" n=""/>
-         <pb facs="#facs_14" n=""/>
-   		<div type="preface">
-   			 <p facs="#facs_14_TextRegion_1611259745179_1139">
-				<lb facs="#facs_14_r1l1" n="N001"/>Der <rs ana="#concept_mus">Theorie</rs> der <rs ana="#concept_mus">musikalischen Tonverhältnisse</rs>, welche man bisher als eine
-				<lb facs="#facs_14_r1l2" n="N002"/>völlig feststehende, abgeschlossene Lehre zu betrachten pflegte, ist <date>in neuester Zeit</date>
-				<lb facs="#facs_14_r1l3" n="N003"/>eine gründliche wissenschaftliche Bearbeitung<note facs="#facs_14_TextRegion_1611259711211_1122" type="foot" n="*)"><lb facs="#facs_14_r1l16" n="N001"/>Durch <persName role="author" ref="#P0091">M. W. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Drobisch</hi></persName> in seinen Abhandlungen: „<title ana="#text" ref="#W0111">über musikalische Tonbestimmung und</title>
-				<lb facs="#facs_14_r1l17" n="N002"/> <title ana="#text" ref="#W0111">Temperatur</title>” (<placeName ref="#L0022">Leipzig</placeName>, <date when="1852">1852</date>) und: „<title ana="#text" ref="#W0120">Nachträge zur Theorie der musikalischen Tonverhältnisse</title>” (<placeName ref="#L0022">Leipzig</placeName>,
-				<lb facs="#facs_14_r1l18" n="N003"/><date when="1855">1855</date>).</note> zu Theil geworden, welche zu dem
-				<lb facs="#facs_14_r1l4" n="N004"/>wichtigen Endresultat geführt hat, dass nicht die seit <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0010">Zarlino</persName></hi> geltenden einfachen
-				<lb facs="#facs_14_r1l5" n="N005"/>Bestimmungen, sondern die des alten <rs ana="#concept_mus">pythagoreischen</rs> oder <rs ana="#concept_mus">reinen Quintensystems</rs>
-				<lb facs="#facs_14_r1l6" n="N006"/>als wahrhaft genügende <rs ana="#concept_phy">akustische Grundlage</rs> unserer <date>heutigen</date><rs ana="#concept_mus">Musik</rs> anzusehen
-				<lb facs="#facs_14_r1l7" n="N007"/>sind. Diesem <rs ana="#concept_mus">System</rs> fehlt das einfache, unabhängige <rs ana="#concept_mus">Grundverhältniss</rs> der <rs ana="#m_interval">grossen</rs>
-				<lb facs="#facs_14_r1l8" n="N008"/><rs ana="#m_interval">Terz</rs>, <rs ana="#m_interval">5:4</rs>, durch dessen Annahme, wie man sich nun vollständig überzeugt, aller
-				<lb facs="#facs_14_r1l9" n="N009"/>Widerspruch zwischen der <rs ana="#concept_mus">musikalischen Praxis</rs> und der <rs ana="#concept_phy">akustischen Theorie</rs>
-				<lb facs="#facs_14_r1l10" n="N010"/>entsteht.
-			</p>
-   			<p facs="#facs_14_TextRegion_1611259745179_1138 #facs_15_TextRegion_1611259966858_1157">
-				<lb facs="#facs_14_r1l11" n="N001"/>Es ist nun gewiss von grösstem Interesse, das durch seine genaue Ueberein<pc>¬</pc>
-				<lb facs="#facs_14_r1l12" n="N002"/>stimmung mit der <rs ana="#concept_mus">freien Intonation</rs> des <rs ana="#concept_mus">Gesangs</rs> und der <rs ana="#concept_mus">Streichinstrumente</rs> sich
-				<lb facs="#facs_14_r1l13" n="N003"/>so sehr empfehlende <rs ana="#concept_mus">pythagoreische System</rs> auch in Bezug auf sein Verhältniss zu
-				<lb facs="#facs_14_r1l14" n="N004"/>den Grundsätzen der <rs ana="#concept_mus">musikalischen Theorie</rs> näher zu prüfen, und dies war eigent<pc>¬</pc>
-				<lb facs="#facs_14_r1l15" n="N005"/>lich der Hauptzweck des folgenden wissenschaftlichen Versuchs. Da es uns aber
-            	<pb facs="#facs_15" n="VI"/>
-            	<lb facs="#facs_15_r1l2" n="N001"/>zugleich daran lag, die Nothwendigkeit der Annahme jenes <rs ana="#concept_mus">Systems</rs>, besonders für
-				<lb facs="#facs_15_r1l3" n="N002"/><rs ana="#concept_mus">Musiker</rs>, möglichst überzeugend darzuthun, so haben wir zunächst (im ersten und
-				<lb facs="#facs_15_r1l4" n="N003"/>zweiten Abschnitt) ziemlich ausführliche allgemeine Betrachtungen über die bisher
-				<lb facs="#facs_15_r1l5" n="N004"/>gültigen <rs ana="#concept_mus">Tonbestimmungen</rs> und die verschiedenen für die <rs ana="#concept_mus">musikalische Praxis</rs> mög<pc>¬</pc>
-				<lb facs="#facs_15_r1l6" n="N005"/>lichen <rs ana="#concept_mus">Tonsysteme</rs>, sowie eine kurze Charakterisirung der hauptsächlichsten, hierbei
-				<lb facs="#facs_15_r1l7" n="N006"/>zu erwähnenden Ansichten <rs ana="#concept_mus">musikalischer Theoretiker</rs> vorangeschickt und sind dann
-				<lb facs="#facs_15_r1l8" n="N007"/>erst (im dritten Abschnitt) zu jener das <rs ana="#concept_mus">reine Quintensystem</rs> speciell betreffenden
-				<lb facs="#facs_15_r1l9" n="N008"/>Erörterung übergegangen, deren Ergebniss wir als ein für dasselbe durchaus günsti<pc>¬</pc>
-				<lb facs="#facs_15_r1l10" n="N009"/>ges bezeichnen zu können glauben.
-			</p>
-   		</div>
-   	<titlePage type="main">
+   	 <titlePage type="main">
 				<docTitle>
            	     <titlePart type="main" ana="#text" corresp="#W0110"><lb facs="#facs_10_r3l1" n="N001"/>ÜBER DIE VERSCHIEDENEN
 					<lb facs="#facs_10_line_1611257421484_55" n="N002"/>BESTIMMUNGEN DER TONVERHÄLTNISSE
@@ -1199,7 +1143,8 @@
 					<lb facs="#facs_10_r3l16" n="N014"/><publisher>DRUCK UND VERLAG VON BREITKOPF UND HÄRTEL</publisher>.
 					<lb facs="#facs_10_r3l17" n="N015"/><docDate when="1858">1858</docDate>.
 				</docImprint>
-			</titlePage><div type="contents"><list n="1"><item>
+			</titlePage>
+   		<div type="contents"><list n="1"><item>
 				Erster Abschnitt.
 				Ueber die Bestimmungen der musikalischen Tonverhältnisse im
 				Allgemeinen.

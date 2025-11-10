@@ -807,59 +807,14 @@
 	</facsimile>
    <text xml:space="preserve">
    	<front>
-   	  <pb facs="#facs_1" n=""/>
-         <pb facs="#facs_2" n=""/>
-         <pb facs="#facs_3" n=""/>
-         <pb facs="#facs_4" n=""/>
-         <pb facs="#facs_5" n=""/>
-         <pb facs="#facs_6" n=""/>
-         <pb facs="#facs_7" n=""/>
-         <pb facs="#facs_8" n=""/>
-   		
-         <pb facs="#facs_9" n=""/>
-         <pb facs="#facs_10" n=""/>
-   		
-         <pb facs="#facs_11" n=""/>
-         <pb facs="#facs_12" n=""/>
-         <div type="preface">
-            <head facs="#facs_12_TextRegion_1614087572792_238">
-				<lb facs="#facs_12_r1l1" n="N001"/>Erklärende Erläuterung
-				<lb facs="#facs_12_r1l2" n="N002"/>und
-				<lb facs="#facs_12_r1l3" n="N003"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><rs ana="#concept_mus">musikalisch-theoretische Begründung</rs></hi>
-				<lb facs="#facs_12_r1l4" n="N004"/>der
-				<lb facs="#facs_12_r1l5" n="N005"/>durch die neuesten Kunstschöpfungen bewirkten Umgestaltung und
-				<lb facs="#facs_12_r1l6" n="N006"/>Weiterbildung der <rs ana="#concept_mus">Harmonik</rs>.
-			</head>
-            <epigraph facs="#facs_12_TextRegion_1614087572791_237">
-            	<cit>
-            		<quote>
-				<lb facs="#facs_12_r1l7" n="N001"/>„Dicemo adunque, che quantunque la scienza
-				<lb facs="#facs_12_r1l8" n="N002"/>della <rs ana="#concept_mus">Musica</rs> habbia avuto origine dal senso
-				<lb facs="#facs_12_r1l9" n="N003"/>dell’udito — non è perciò da dar questo ufficio di
-				<lb facs="#facs_12_r1l10" n="N004"/>giudicare al <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">sentimento</hi> solamente nelle cose
-				<lb facs="#facs_12_r1l11" n="N005"/>dei suoni e delle voci: ma li dovemo accom<pc>¬</pc>
-				<lb facs="#facs_12_r1l12" n="N006"/>pagnar sempre la <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">ragiono</hi>. Ne meno si debbe
-				<lb facs="#facs_12_r1l13" n="N007"/>dare tal giuditio tutto alla <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">ragione</hi>, lassando
-				<lb facs="#facs_12_r1l14" n="N008"/>da parte il <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">senso</hi>: perciochè l’uno senza l'altro
-				<lb facs="#facs_12_r1l15" n="N009"/>potrà sempre essere cagione di errore.”
-            		</quote>
-            		<bibl>
-				<lb facs="#facs_12_r1l16" n="N010"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><persName role="author" ref="#P0010">Gioseffo Zarlino</persName></hi>, <date when="1559">1559</date>.
-            		</bibl>
-            	</cit>
-			</epigraph>
-         </div>
-         <pb facs="#facs_13" n=""/>
-         <pb facs="#facs_14" n=""/>
-   		<!-- Inhaltsverzeichnis nicht transkribiert -->
-         <pb facs="#facs_15" n=""/>
-   	<titlePage type="halftitle">
+   	  <titlePage type="halftitle">
 				<docTitle>
            	 	<titlePart type="main" ana="#text" corresp="#W0039">
            	 		<lb facs="#facs_8_line_1614086869287_111" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><rs ana="#concept_mus">Harmoniesystem</rs>.</hi>
            	 	</titlePart>
 				</docTitle>
-			</titlePage><titlePage type="main">
+			</titlePage>
+   		<titlePage type="main">
 				<docTitle>
 					<titlePart type="desc" ana="#text" corresp="#W0039">
 						<lb facs="#facs_10_r1l1" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">Gekrönte Preisschrift.</hi>
@@ -877,7 +832,8 @@
 					<lb facs="#facs_10_r1l10" n="N005"/><pubPlace>Leipzig</pubPlace>,
 					<lb facs="#facs_10_r1l11" n="N006"/><publisher><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Verlag von C. F. Kahnt</hi></publisher>.
 				</docImprint>
-			</titlePage><div type="contents"><list n="1"><item>
+			</titlePage>
+   		<div type="contents"><list n="1"><item>
 				Tonsystem.
 			</item><item>
 				Consonanzen.
