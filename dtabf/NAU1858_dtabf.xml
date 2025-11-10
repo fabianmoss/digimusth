@@ -1,0 +1,1599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Naumann1858</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>tranScriptorium</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <publisher>TRP document creator: maikkoester@hotmail.de</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+   	<front>
+   	 <titlePage type="main">
+				<docTitle>
+           	     <titlePart type="main"><lb n="N001"/>ÜBER DIE VERSCHIEDENEN
+					<lb n="N002"/>BESTIMMUNGEN DER TONVERHÄLTNISSE
+					<lb n="N003"/>UND DIE BEDEUTUNG
+					<lb n="N004"/>DES
+					<lb n="N005"/>PYTHAGOREISCHEN ODER REINEN QUINTEN-SYSTEMES
+					<lb n="N006"/>FÜR UNSERE HEUTIGE MUSIK.
+	           	 </titlePart>
+				</docTitle>
+				<byline>
+					<lb n="N007"/>ZUR ERLANGUNG DER PHILOSOPHISCHEN DOCTORWÜRDE
+					<lb n="N008"/>AN DER UNIVERSITÄT <placeName ref="#L0022">LEIPZIG</placeName>
+					<lb n="N009"/>GESCHRIEBEN
+					<lb n="N010"/>VON
+					<lb n="N011"/><docAuthor><hi rendition="#b">CARL ERNST NAUMANN</hi>,
+					<lb n="N012"/>DR. PHIL.</docAuthor>
+				</byline>
+				<docImprint>
+					<lb n="N013"/><pubPlace>LEIPZIG</pubPlace>,
+					<lb n="N014"/><publisher>DRUCK UND VERLAG VON BREITKOPF UND HÄRTEL</publisher>.
+					<lb n="N015"/><docDate when="1858">1858</docDate>.
+				</docImprint>
+			</titlePage>
+   		<div type="contents"><list n="1"><item>
+				Erster Abschnitt.
+				Ueber die Bestimmungen der musikalischen Tonverhältnisse im
+				Allgemeinen.
+			</item><item>
+				Zweiter Abschnitt.
+				Ueber die Nothwendigkeit beschränkter Tonsysteme für die ausübende
+				Musik und das Verhalten musikalischer Theoretiker gegenüber den
+				akustischen Bestimmungen.
+			</item><item>
+				Dritter Abschnitt.
+				Ueber das Verhältniss des pythagoreischen Systemes zu den Grundsätzen
+				der musikalischen Theorie.
+			</item></list></div>
+   	  <pb facs="#f0008"/>
+         <pb facs="#f0009"/>
+         <pb facs="#f0010"/>
+   		
+         <pb facs="#f0011"/>
+         <pb facs="#f0012"/>
+   		<div type="dedication">
+   			<p>
+				<lb n="N001"/>SEINEN
+				<lb n="N002"/>HOCHVEREHRTEN LEHRERN.
+				<lb n="N003"/>DEN HERREN
+				<lb n="N004"/><persName><hi rendition="#b">D</hi><hi rendition="#b">R</hi><hi rendition="#b">. M. W. DROBISCH</hi></persName><hi>,</hi>
+				<lb n="N005"/>PROFESSOR, RITTER ETC.
+				<lb n="N006"/>UND
+				<lb n="N007"/><persName><hi rendition="#b">D</hi><hi rendition="#b">R</hi><hi rendition="#b">. M. HAUPTMANN</hi></persName><hi>,</hi>
+				<lb n="N008"/>MUSIKDIRECTOR ETC.
+				<lb n="N009"/>GEWIDMET
+				<lb n="N010"/>VOM
+				<lb n="N011"/>VERFASSER.
+			</p>
+   		</div>
+         <pb facs="#f0013"/>
+         <pb facs="#f0014"/>
+   		<div type="preface">
+   			 <p>
+				<lb n="N001"/>Der Theorie der musikalischen Tonverhältnisse, welche man bisher als eine
+				<lb n="N002"/>völlig feststehende, abgeschlossene Lehre zu betrachten pflegte, ist <date>in neuester Zeit</date>
+				<lb n="N003"/>eine gründliche wissenschaftliche Bearbeitung<note type="remarkSource" n="*)"><lb n="N001"/>Durch <persName>M. W. <hi rendition="#g">Drobisch</hi></persName> in seinen Abhandlungen: „
+				<lb n="N002"/> ” (<placeName ref="#L0022">Leipzig</placeName>, <date when="1852">1852</date>) und: „” (<placeName ref="#L0022">Leipzig</placeName>,
+				<lb n="N003"/><date when="1855">1855</date>).</note> zu Theil geworden, welche zu dem
+				<lb n="N004"/>wichtigen Endresultat geführt hat, dass nicht die seit <hi rendition="#g"><persName>Zarlino</persName></hi> geltenden einfachen
+				<lb n="N005"/>Bestimmungen, sondern die des alten pythagoreischen oder reinen Quintensystems
+				<lb n="N006"/>als wahrhaft genügende akustische Grundlage unserer <date>heutigen</date>Musik anzusehen
+				<lb n="N007"/>sind. Diesem System fehlt das einfache, unabhängige Grundverhältniss der grossen
+				<lb n="N008"/>Terz, 5:4, durch dessen Annahme, wie man sich nun vollständig überzeugt, aller
+				<lb n="N009"/>Widerspruch zwischen der musikalischen Praxis und der akustischen Theorie
+				<lb n="N010"/>entsteht.
+			</p>
+   			<p>
+				<lb n="N001"/>Es ist nun gewiss von grösstem Interesse, das durch seine genaue Ueberein¬
+				<lb n="N002"/>stimmung mit der freien Intonation des Gesangs und der Streichinstrumente sich
+				<lb n="N003"/>so sehr empfehlende pythagoreische System auch in Bezug auf sein Verhältniss zu
+				<lb n="N004"/>den Grundsätzen der musikalischen Theorie näher zu prüfen, und dies war eigent¬
+				<lb n="N005"/>lich der Hauptzweck des folgenden wissenschaftlichen Versuchs. Da es uns aber
+            	<pb facs="#f0015" n="VI"/>
+            	<lb n="N001"/>zugleich daran lag, die Nothwendigkeit der Annahme jenes Systems, besonders für
+				<lb n="N002"/>Musiker, möglichst überzeugend darzuthun, so haben wir zunächst (im ersten und
+				<lb n="N003"/>zweiten Abschnitt) ziemlich ausführliche allgemeine Betrachtungen über die bisher
+				<lb n="N004"/>gültigen Tonbestimmungen und die verschiedenen für die musikalische Praxis mög¬
+				<lb n="N005"/>lichen Tonsysteme, sowie eine kurze Charakterisirung der hauptsächlichsten, hierbei
+				<lb n="N006"/>zu erwähnenden Ansichten musikalischer Theoretiker vorangeschickt und sind dann
+				<lb n="N007"/>erst (im dritten Abschnitt) zu jener das reine Quintensystem speciell betreffenden
+				<lb n="N008"/>Erörterung übergegangen, deren Ergebniss wir als ein für dasselbe durchaus günsti¬
+				<lb n="N009"/>ges bezeichnen zu können glauben.
+			</p>
+   		</div>
+   	</front>
+      <body>
+         <pb facs="#f0016"/>
+         <div type="chapter" n="1">
+            <head>
+				<lb n="N001"/><hi rendition="#b">Erster Abschnitt.</hi>
+				<lb n="N002"/>Ueber die Bestimmungen der musikalischen Tonverhältnisse im
+				<lb n="N003"/>Allgemeinen.
+			</head>
+            <p>
+				<lb n="N001"/>§ 1.
+				<lb n="N002"/>Die in der Akustik und theoretischen Musik geltenden Bestimmungen für die relativen
+				<lb n="N003"/>Schwingungszahlen der verschiedenen Töne gründen sich, wie bekannt, sämmtlich auf die An¬
+				<lb n="N004"/>nahme der Verhältnisse 2:1, 3:2 und 5:4 für die drei wichtigsten consonanten Intervalle:
+				<lb n="N005"/><hi rendition="#g">Octave</hi>, <hi rendition="#g">Quinte</hi> und <hi rendition="#g">grosse Terz</hi>. Es ergeben sich hieraus zunächst die übrigen Consonan¬
+				<lb n="N006"/>zen, nämlich:
+            	<list>
+      		<item>
+      			<lb n="N001"/>die <hi rendition="#g">Quarte</hi> (VIII : V = <formula notation="TeX">$\frac{2}{1} : \frac{3}{2}$</formula>) = 4:3,
+      		</item>
+      		<item>
+      			<lb n="N002"/>die <hi rendition="#g">kleine Terz</hi> (V : gr. III = <formula notation="TeX">$\frac{3}{2} : \frac{5}{4}$</formula>) = 6:5,
+      		</item>
+      		<item>
+      			<lb n="N003"/>die <hi rendition="#g">kleine Sexte</hi> (VIII : gr. III = <formula notation="TeX">$\frac{2}{1} : \frac{5}{4}$</formula>) = 8:5 und
+      		</item>
+      		<item>
+      			<lb n="N004"/>die <hi rendition="#g">grosse Sexte</hi> (gr. III : <formula notation="TeX">$\frac{V}{2}$</formula> oder VIII : kl. III = <formula notation="TeX">$\frac{5}{4} : \frac{3}{4}$</formula> oder <formula notation="TeX">$\frac{2}{1} : \frac{6}{5}$</formula>) = 5:3,
+      		</item>
+      	</list>
+            	<lb n="N001"/>und indem man diese abgeleiteten Verhältnisse sowohl mit den ursprünglichen, als unter einander
+				<lb n="N002"/>in Beziehung bringt, gelangt man weiter zu den Bestimmungen dissonanter Intervalle, wovon
+				<lb n="N003"/>die nächsten sind:
+            	<list>
+      		<item>
+      			<lb n="N001"/>die <hi rendition="#g">grosse Secunde</hi> (V : IV = <formula notation="TeX">$\frac{3}{2} : \frac{4}{3}$</formula>) = 9:8
+      		</item>
+      		<item>
+      			<lb n="N002"/>die <hi rendition="#g">kleine Secunde</hi> (IV : gr. III = <formula notation="TeX">$\frac{4}{3} : \frac{5}{4}$</formula>) = 16:15
+      		</item>
+      		<item>
+      			<lb n="N003"/>die <hi rendition="#g">alterirte grosse Secunde</hi> (gr. VI : V = <formula notation="TeX">$\frac{5}{3} : \frac{3}{2}$</formula>) = 10:9
+      		</item>
+      		<item>
+      			<lb n="N004"/>die <hi rendition="#g">kleine Septime</hi> (VIII : gr. II = <formula notation="TeX">$\frac{2}{1} : \frac{9}{8}$</formula>) = 16:9
+      		</item>
+      		<item>
+      			<lb n="N005"/>die <hi rendition="#g">grosse Septime</hi> (VIII : kl. II = <formula notation="TeX">$\frac{2}{1} : \frac{16}{15}$</formula>) = 15:8
+      		</item>
+      		<item>
+      			<lb n="N006"/>die <hi rendition="#g">alterirte kleine Septime</hi> (VIII : alt. gr. II = <formula notation="TeX">$\frac{2}{1} : \frac{10}{9}$</formula>) = 9:5
+      		</item>
+      		<item>
+      			<lb n="N007"/>die <hi rendition="#g">übermässige Quarte</hi> (V : kl. II = <formula notation="TeX">$\frac{3}{2} : \frac{16}{15}$</formula>) = 45:32
+      		</item>
+      		<item>
+      			<lb n="N008"/>die <hi rendition="#g">verminderte Quinte</hi> (VIII : IV♯ = <formula notation="TeX">$\frac{2}{1} : \frac{45}{32}$</formula>) = 64:45 u. s. w.
+      		</item>
+      	</list>
+			</p>
+         <pb facs="#f0017" n="2"/>
+            <p>
+				<lb n="N001"/>Wir verzichten hier auf eine weitere Aufzählung der übermässigen, verminderten und
+				<lb n="N002"/>alterirten Intervalle<note type="remarkSource" n="*)"><lb n="N001"/>Im ersten Abschnitt von <persName><hi rendition="#g">Drobisch</hi>’s</persName> Abhandlung „”
+				<lb n="N002"/>sind die relativen Schwingungszahlen für 42 verschiedene Intervalle berechnet und nach ihrer Abhängigkeit von
+				<lb n="N003"/>den drei Grundverhältnissen der Octave, der Quinte und der grossen Terz übersichtlich dargestellt.</note>, auf welche man durch die eigentlich ganz unbegrenzte Fortsetzung dieses
+				<lb n="N003"/>Verfahrens kommt, da dieselben in den weiter unten aufzustellenden Quintensystemen sehr zahl¬
+				<lb n="N004"/>reich und zwar nach den verschiedenen Arten ihrer Abhängigkeit von den drei Grundverhältnissen
+				<lb n="N005"/>2:1, 3:2 und 5:4 deutlich gesondert zu finden sein werden. Vor der Hand beschränken wir
+				<lb n="N006"/>uns noch auf die Consonanzen und einfacheren Dissonanzen, welche als hauptsächliche Elemente
+				<lb n="N007"/>aller Harmonie und Melodie in unserer <date>heutigen</date>Musik von so grosser Bedeutung sind. Den
+				<lb n="N008"/>Grund der letzteren hat man meist eben in der Einfachheit der Verhältnisse ihrer Schwingungs¬
+				<lb n="N009"/>zahlen gesucht, und es kann in der That der Natur der Sache ganz angemessen scheinen, dass
+				<lb n="N010"/>dieselben von der vollkommensten Consonanz, der Octave, an immer mehr und mehr wachsen
+				<lb n="N011"/>und demnach für alle dissonirenden Töne complicirtere sind, als für die consonirenden. Die fort¬
+				<lb n="N012"/>laufende Reihe einfacher ganzer Zahlen:
+            	 
+            	<lb n="N001"/>welche bekanntlich den relativen Schwingungszahlen der sogenannten natürlichen Töne der
+				<lb n="N002"/>Hörner und Trompeten oder überhaupt des Grundtones und der harmonischen Oberreihe jedes
+				<lb n="N003"/>beiderseits offenen Blasinstrumentes genau entspricht, enthält zunächst sämmtliche consonante
+				<lb n="N004"/>Intervalle in den Zahlen 1 bis 8, mit Ausschluss der 7, welche eine zu tiefe, musikalisch nicht
+				<lb n="N005"/>brauchbare kleine Septime (4:7), sowie eine eben solche kleine Terz (6:7) und eine zu hohe
+				<lb n="N006"/>grosse Secunde (7:8) giebt<note type="remarkSource" n="**)"><lb n="N001"/>Man hat zu verschiedenen Zeiten der Zahl 7 wenigstens in der Theorie der Musik eine bedeutsame Stelle
+				<lb n="N002"/>zu geben gesucht; es kann darüber <persName>F. W. <hi rendition="#g">Marpurg</hi>’s</persName>  (<date when="1776">1776</date>), §§ 52—
+				<lb n="N003"/>55, 59, 107, verglichen werden. — <hi rendition="#g"><persName>Kirnberger</persName></hi> wollte die natürliche kleine Septime (7:4) als einen neuen Ton <hi rendition="#i">i</hi>
+				<lb n="N004"/>sogar praktisch einführen und sprach von einem consonirenden Vierklang<hi rendition="#i">c e g i</hi> = 4:5:6:7; <hi rendition="#g"><persName>Chladini</persName></hi> behaup¬
+				<lb n="N005"/>tet das öftere Vorkommen dieser zu kleinen Septime in Volksgesängen; <persName>F. <hi rendition="#g">Zamminer</hi></persName> (in seinem <date when="1855">1855</date> erschie¬
+				<lb n="N006"/>nenen Werke: „”,
+				<lb n="N007"/>pag. 119) hält es wenigstens für wahrscheinlich, dass die grosse Bedeutung, welche die kl. VII in unseren Harmo¬
+				<lb n="N008"/>niegeweben erlangt habe, sich auf die Annäherung ihres Schwingungsverhältnisses an die noch ziemlich einfache
+				<lb n="N009"/>Combination <formula notation="TeX">$\frac{7}{4}$</formula> gründe. Man vergleiche auch <persName>F. W. <hi rendition="#g">Opelt</hi>’s</persName>  (<placeName ref="#L0022">Leipzig</placeName>, <date when="1852">1852</date>), § 48
+				<lb n="N010"/>und § 61.</note>. Dissonanzen treten erst mit 9 und 15 ein; den dazwischen lie¬
+				<lb n="N007"/>genden Zahlen 11, 13 und 14 entsprechen aber wieder für die Musik unbrauchbare Töne; denn
+				<lb n="N008"/>der erste ist eine zu hohe Quarte, der zweite eine zu tiefe grosse Sexte, der dritte die höhere
+				<lb n="N009"/>Octave der zur Zahl 7 gehörigen zu kleinen Septime des Grundtones. Man bedient sich daher
+				<lb n="N010"/>zur Entwickelung der Tonverhältnisse besser einer nur aus den Zahlen 1, 2, 3 und 5, ihren Ver¬
+				<lb n="N011"/>doppelungen, Potenzen und wechselseitigen Producten bestehenden Reihe, in welcher jene un¬
+				<lb n="N012"/>brauchbaren Zahlen nicht vorkommen:
+            	<pb facs="#f0018" n="3"/>
+        		 
+			</p>
+         <pb facs="#f0019" n="4"/>
+            <p>
+				<lb n="N001"/>Man erhält die hier noch fehlenden Tonverhältnisse theils durch Fortsetzung der Zahlen¬
+				<lb n="N002"/>reihe, theils dadurch, dass man noch mehrere Intervalle successiv zu Grundtönen macht, wie
+				<lb n="N003"/>z. B. die gr. VII, die IV♯, die V♯ u. s. w. Die Abhängigkeit sämmtlicher Tonbestimmungen von
+				<lb n="N004"/>den drei Grundverhältnissen 2:1, 3:2 und 5:4 spricht sich in dieser Zahlenreihe, wie man
+				<lb n="N005"/>sieht, ganz unmittelbar aus.
+			</p>
+            <p>
+				<lb n="N001"/>§ 2.
+				<lb n="N002"/>Die Consonanz der <hi rendition="#g">Octave</hi> (2:1), welche mit Recht für die vollkommenste gilt<note type="remarkSource" n="*)"><lb n="N001"/>Die <hi rendition="#g">Prime</hi> (1:1) ist als Intervall = 0 und kann daher sehr wohl als Ausgangspunkt an die Spitze
+				<lb n="N002"/>einer Uebersicht über die verschiedenen Intervalle gestellt werden. Als „Consonanz” aber möchten wir dies Ver¬
+				<lb n="N003"/>hältniss zweier akustisch identischer Töne, weil ihnen eben alle Verschiedenheit in dem hier erforderlichen Sinne
+				<lb n="N004"/>fehlt, nicht bezeichnen, sondern als Einklang oder Identität zweier Töne.</note>, unter¬
+				<lb n="N003"/>scheidet sich, wie bekannt, wesentlich von den übrigen Consonanzen dadurch, dass sie als ein
+				<lb n="N004"/>Erklingen zweier einander ähnlicher, obgleich an Höhe sehr verschiedener Töne vernommen
+				<lb n="N005"/>wird; daher es denn auch kommt, dass man den oberen und unteren Octaven eines jeden Tones
+				<lb n="N006"/>dieselbe Benennung, wie diesem selbst, giebt. In dieser periodischen Wiederkehr ähnlicher Töne,
+				<lb n="N007"/>welche unser Ohr in den unter sich gleichen Intervallen vom Grundton zur Octave, von dieser
+				<lb n="N008"/>zur zweiten Octave u. s. w. findet, liegt eine ordnende Maasseinheit für das ganze Reich der
+				<lb n="N009"/>Töne. Jede solche Maasseinheit kann nun auf unendlich mannichfache Weise getheilt werden;
+				<lb n="N010"/>daher die unerschöpfliche Menge von sich paarweise zur Octave ergänzenden Intervallen. Selb¬
+				<lb n="N011"/>ständige Intervalle aber, die grösser, als die Octave, wären, giebt es nicht, weil jedem in beliebi¬
+				<lb n="N012"/>ger Höhe über der Octave seines Grundtones liegenden Tone nothwendig ein ebenso weit von
+				<lb n="N013"/>jenem selbst entfernter Ton als tiefere Octave entsprechen muss. Es bleibt demnach ein Intervall
+				<lb n="N014"/>im Grunde dasselbe, wenn es auch um eine oder mehrere Octaven erweitert wird. —
+			</p>
+            <p>
+				<lb n="N001"/>Diese Aehnlichkeit der Octave mit dem Grundton bewirkt es auch, dass in der Harmonie¬
+				<lb n="N002"/>lehre erstere mit letzterem fast als identisch betrachtet wird, und daher auch die (bekanntlich
+				<lb n="N003"/>aus: I, gr. III und V oder I, kl. III und V gebildeten) consonanten Accorde nur als <hi rendition="#g">Drei¬
+				<lb n="N004"/>klänge</hi> bezeichnet werden, wenn auch die Octave eines der drei Accordtöne als vierter Ton mit¬
+				<lb n="N005"/>erklingt. Es wird dieselbe, sowie jede sonst noch hinzutretende Octave, allezeit nur als Verdoppe¬
+				<lb n="N006"/>lung des betreffenden Accordtones angesehen, durch welche der Harmonie des Dreiklanges nichts
+				<lb n="N007"/>Neues hinzugefügt wird. Es darf daher auch selbstverständlich von den drei Tönen, welche den
+				<lb n="N008"/>Dreiklang bilden, keiner zum anderen in dem Verhältniss 2:1 stehen, weil dies in harmonischer
+				<lb n="N009"/>Bedeutung nur einen Zweiklang geben würde (z. B. <hi rendition="#i">C</hi>, <hi rendition="#i">G</hi>, <hi rendition="#i">c</hi>, oder <hi rendition="#i">C</hi>, <hi rendition="#i">E</hi>, <hi rendition="#i">e</hi>), sondern sie müssen
+				<lb n="N010"/>sich sowohl durch ihre absolute Höhe, als auch durch jene harmonische Divergenz unterscheiden,
+				<lb n="N011"/>welche allen zwischen Grundton und Octave gelegenen Tönen eigen ist<note type="remarkSource" n="**)"><lb n="N001"/>Für I und VIII ist diese Divergenz = 0; in der Mitte des Octavenintervalles erreicht sie ihr Maximum.
+				<lb n="N002"/>— Man vergleiche <hi rendition="#g"><persName>Drobisch</persName></hi>, , § 23 und § 24.</note>. Die Möglichkeit
+				<lb n="N012"/>consonanter Dreiklänge beruht überhaupt darauf, dass nicht nur das Grundintervall der Octave,
+				<lb n="N013"/>sondern auch das der Quinte eine Theilung in zwei consonante Intervalle gestattet, indem
+				<lb n="N014"/>V = gr. III + kl. III ist. Diese Theilung kann natürlich in zweifacher Richtung erfolgen,
+				<pb facs="#f0020" n="5"/>
+            	<lb n="N001"/>nämlich entweder vom Grundton nach oben, oder von der Quinte nach unten; in beiden Fällen
+				<lb n="N002"/>ist die kl. III das als Rest (V — gr. III) sich zuletzt ergebende Intervall. Die erste Art der Thei¬
+				<lb n="N003"/>lung giebt bekanntlich den <hi rendition="#g">Durdreiklang</hi>, dessen Töne in dem einfachen Verhältniss 4:5:6
+				<lb n="N004"/>stehen, die zweite den <hi rendition="#g">Molldreiklang</hi>, welcher durch das Verhältniss 10:12:15 = <formula notation="TeX">$\frac{1}{6}:\frac{1}{5}:\frac{1}{4}$</formula>
+				<lb n="N005"/>sich deutlich als nach entgegengesetzter Richtung gebildeter Durdreiklang zu erkennen giebt<note type="remarkSource" n="*)"><lb n="N001"/>Diese einzig natürliche Auffassung des Molldreiklanges rührt von <persName>M. <hi rendition="#g">Hauptmann</hi></persName> her; man vergleiche
+				<lb n="N002"/>dessen „” (<placeName ref="#L0022">Leipzig</placeName>, <date when="1853">1853</date>).</note>.
+				<lb n="N006"/>Es scheint hier wiederum ganz in der Natur der Sache begründet, dass dem Molldreiklang ein
+				<lb n="N007"/>weniger einfaches Zahlenverhältniss entspricht und derselbe in der oben (§ 1) aufgestellten Reihe
+				<lb n="N008"/>erst <hi rendition="#g">nach</hi> dem Durdreiklang in der Verbindung der Töne<hi rendition="#i">e</hi>, <hi rendition="#i">g</hi> und <hi rendition="#i">h</hi> erscheint. —
+            </p>
+            <p>
+				<lb n="N001"/>Jeder Dreiklang hat zunächst für zwei andere Dreiklänge, nämlich für den auf der oberen
+				<lb n="N002"/>und den auf der unteren Quinte seines Grundtones, die Bedeutung eines <hi rendition="#g">tonischen</hi>, d. h. eines
+				<lb n="N003"/>Central- oder Haupt-Accordes, durch welchen jene beiden vermittelt werden, und auf den sie
+				<lb n="N004"/>sich, indem sie abwechselnd nach ihm erklingen, beide beziehen. Man bezeichnet diese zwei
+				<lb n="N005"/>Dreiklänge als den <hi rendition="#g">Ober</hi>- und den <hi rendition="#g">Unter-Dominantaccord</hi> des tonischen, und es reprä¬
+				<lb n="N006"/>sentiren alle drei Accorde zusammen die <hi rendition="#g">Tonart</hi> in ihren wesentlichsten harmonischen Elemen¬
+				<lb n="N007"/>ten. Diese ist bekanntlich, je nach der Beschaffenheit des Hauptdreiklanges, entweder <hi rendition="#g">Dur</hi>-
+				<lb n="N008"/>oder <hi rendition="#g">Moll-Tonart</hi>; in beiden Fällen ist der Oberdominantaccord stets ein Dur-Dreiklang, weil
+				<lb n="N009"/>seine grosse Terz der nicht zu entbehrende <hi rendition="#g">Leitton</hi> zur Tonica ist; der Unterdominantaccord
+				<lb n="N010"/>dagegen richtet sich nach dem tonischen; nur ist zu bemerken, dass er bisweilen zu einem toni¬
+				<lb n="N011"/>schen Durdreiklang auch in <hi rendition="#g">Moll</hi>, anstatt ebenfalls in <hi rendition="#g">Dur</hi>, genommen wird, wodurch eine Art
+				<lb n="N012"/>gemischter Tonart (von <hi rendition="#g"><persName>Hauptmann</persName></hi> in seiner  als <hi rendition="#g">Moll-Dur-Tonart</hi> bezeichnet)
+				<lb n="N013"/>entsteht, welche aber nicht als herrschende durch ganze Musikstücke hindurch, sondern nur
+				<lb n="N014"/>gelegentlich gebraucht zu werden pflegt. —
+			</p>
+         
+            <p>
+				<lb n="N001"/>§ 3.
+				<lb n="N002"/>Die Töne dieser drei für jede Tonart wesentlichen Accorde, so geordnet, wie sie vom
+				<lb n="N003"/>Grundton bis zu seiner Octave ihrer Höhe nach auf einander folgen, bilden die <hi rendition="#g">Tonleiter</hi> oder
+				<lb n="N004"/><hi rendition="#g">Scala</hi> unserer heutigen Musik, welche, je nach der Beschaffenheit der Tonart, entweder eine
+				<pb facs="#f0021" n="6"/>
+            	<lb n="N001"/><hi rendition="#g">Dur</hi>- oder eine <hi rendition="#g">Moll-Scala</hi> sein kann. Bei dieser Anordnung jener Töne hört die Möglichkeit
+				<lb n="N002"/><hi rendition="#g">gleichzeitigen</hi> Erklingens für je zwei nun neben einander stehende auf, indem dieselben
+				<lb n="N003"/>durchweg verschiedenen Dreiklängen angehören; es tritt die Nothwendigkeit ein, sie <hi rendition="#g">zeitlich<lb n="N004"/>auf einander folgen</hi> zu lassen<note type="remarkSource" n="*)"><lb n="N001"/>Siehe <persName><hi rendition="#g">Hauptmann</hi>'s</persName>  p. 52 ff.</note>. Somit erweist sich die Tonleiter als Grundelement aller
+				<lb n="N005"/><hi rendition="#g">melodischen Folge</hi> von Tönen, und zugleich sieht man, dass diese letztere in steter Bezie¬
+				<lb n="N006"/>hung zu den harmonischen Bestimmungen bleibt, ohne welche Beziehung sie eine unmelodische,
+				<lb n="N007"/>unverständliche werden würde. Indem man z. B. von <hi rendition="#i">C</hi> zu <hi rendition="#i">D</hi> fortschreitet, geht man aus dem
+				<lb n="N008"/>tonischen in dessen Oberdominant-Accord über; der beiden Accorden angehörende Ton<hi rendition="#i">G</hi> bildet
+				<lb n="N009"/>hier die harmonische Vermittelung zwischen <hi rendition="#i">C</hi> und <hi rendition="#i">D</hi>; er ist Quinte des ersteren und Grundton
+				<lb n="N010"/>für den letzteren.
+            </p>
+            <p>
+				<lb n="N001"/>Die Scalen der Dur- und der Moll-Tonart erhalten nun nach Obigem folgende verschie¬
+				<lb n="N002"/>dene Form:
+			</p>
+         
+         
+            <p>
+				<lb n="N001"/>Die Molltonleiter in dieser streng harmonischen Form findet man zwar bisweilen von den
+				<lb n="N002"/>besten Componisten angewandt<note type="remarkSource" n="**)"><lb n="N001"/>Man vergleiche <persName>S. W. <hi rendition="#g">Dehn</hi>'s</persName>  (<placeName ref="#L0003">Berlin</placeName>, <date when="1840">1840</date>) p. 68, 69.</note>, doch ist die als sechste Stufe darin vorkommende übermässige
+				<lb n="N003"/>Secunde ein für die melodische Fortschreitung schwer zu übersteigendes Hinderniss; kl. VI und
+				<pb facs="#f0022" n="7"/>
+            	<lb n="N001"/>gr. VII sind sich nämlich harmonisch schon ziemlich fremd, und es lässt sich kein Vermittelungs¬
+				<lb n="N002"/>ton finden, mit welchem beide in consonantem Verhältniss ständen; daher hat man jene Tonleiter
+				<lb n="N003"/>in bekannter Weise melodisch modificirt:
+            	 
+            </p>
+            <p>
+				<lb n="N001"/>Es ist diese Modification keine willkührliche, künstliche, sondern eine aus den Grund¬
+				<lb n="N002"/>bedingungen der melodischen Folge von selbst erwachsende und in ihrer Verschiedenheit für die
+				<lb n="N003"/>aufwärts und abwärts gehende Scala harmonisch bedingte. Wir möchten es nämlich eine Art
+				<lb n="N004"/>harmonischer Gerechtigkeit nennen, dass, nachdem beim Aufsteigen die kleine Terz des Unter¬
+				<lb n="N005"/>dominant-Dreiklanges ignorirt worden ist, beim Absteigen dasselbe mit der grossen Terz des
+				<lb n="N006"/>Oberdominant-Dreiklanges geschieht. Beide für die Molltonart wesentliche Intervalle sollen aber
+				<lb n="N007"/>dabei eben nur vorübergehend ignorirt, nicht negirt werden; deshalb kann im einen Falle statt
+				<lb n="N008"/><hi rendition="#i">As</hi> nicht <hi rendition="#i">A</hi>(<formula notation="TeX">$\frac{5}{3}$</formula>), die grosse Terz von <hi rendition="#i">F</hi>, sondern nur <hi rendition="#i">A</hi>(<formula notation="TeX">$\frac{27}{16}$</formula>), die Quint der Oberdominantquinte,
+				<lb n="N009"/>im andern statt <hi rendition="#i">H</hi> nicht <hi rendition="#i">B</hi>(<formula notation="TeX">$\frac{9}{5}$</formula>), die kleine Terz von <hi rendition="#i">G</hi>, sondern nur <hi rendition="#i">B</hi>(<formula notation="TeX">$\frac{16}{9}$</formula>), die untere Quint
+				<lb n="N010"/>von <hi rendition="#i">F</hi> eintreten<note type="remarkSource" n="*)"><lb n="N001"/><hi rendition="#g"><persName>Hauptmann</persName></hi> in seinem schon  (p. 60, 61) hat diese harmonischen Unterschiede
+				<lb n="N002"/>zuerst geltend gemacht.</note>. So herrscht also in der Mollscala aufwärts von V — VIII der Durcharakter
+				<lb n="N011"/>der Oberdominante, abwärts von VIII — V der Mollcharakter der Unterdominante, während in
+				<lb n="N012"/>der streng harmonischen Tonfolge:
+            	
+            	<lb n="N001"/>beide unvereinbare Charaktere schroff neben einander stehen. Es sind übrigens, wie man sieht,
+				<lb n="N002"/>sowohl in der Dur-, als in der Moll-Scala die Schwingungsverhältnisse aller Töne zum Grundton
+				<lb n="N003"/>sehr einfache, und es liegt auch hier wiederum die Annahme sehr nahe, es sei das Befriedigende,
+				<lb n="N004"/>welches diese Tonfolgen für das musikalische Ohr haben, in dieser Einfachheit begründet. —
+			</p>
+            <p>
+				<lb n="N001"/>§ 4.
+				<lb n="N002"/>Nicht uninteressant ist es, neben den Schwingungsverhältnissen der Töne unserer Scalen
+				<lb n="N003"/>auch die <hi rendition="#g">Differenzen ihrer absoluten Schwingungszahlen</hi> in Betracht zu ziehen,
+				<lb n="N004"/>indem dieselben, besonders in der Durscala, in ihren allgemeinen Ausdrücken eine Einfachheit
+				<lb n="N005"/>und Regelmässigkeit offenbaren, welche die Gültigkeit der einfachen akustischen Bestimmungen,
+				<lb n="N006"/>auf die auch unsere Tonleitern gegründet sein sollen, ebenfalls zu bestätigen scheint.
+			</p>
+            <p>
+				<lb n="N001"/>Einem Ton <hi rendition="#i">C</hi><hi rendition="#sub">-3</hi>, kommt ziemlich genau die absolute Schwingungszahl 8 zu, seiner Dur¬
+				<lb n="N002"/>scala daher folgende Reihe solcher Zahlen:
+			</p>
+         <pb facs="#f0023" n="8"/>
+         
+            <p>
+				<lb n="N001"/>Die Reihen solcher Differenzen würden in den Durscalen von <hi rendition="#i">D</hi><hi rendition="#sub">-3</hi>, und <hi rendition="#i">F</hi><hi rendition="#sub">-3</hi>, (mit den
+				<lb n="N002"/>absoluten Schwingungszahlen 9 und <formula notation="TeX">$10 \frac{2}{3}$</formula>) folgende sein:
+			</p>
+      	<list>
+      		<item>
+      			<lb n="N001"/>(Durscala von <hi rendition="#i">D</hi><hi rendition="#sub">-3</hi>) <formula notation="TeX">$3.\frac{3}{2^3}$</formula>, <formula notation="TeX">$3.\frac{3}{2^3}$</formula>, <formula notation="TeX">$2.\frac{3}{2^3}$</formula>, <formula notation="TeX">$4.\frac{3}{2^3}$</formula>, <formula notation="TeX">$4.\frac{3}{2^3}$</formula>, <formula notation="TeX">$5.\frac{3}{2^3}$</formula>, <formula notation="TeX">$3.\frac{3}{2^3}$</formula>.
+      		</item>
+      		<item>
+      			<lb n="N002"/>(Durscala von <hi rendition="#i">F</hi><hi rendition="#sub">-3</hi>) <formula notation="TeX">$3.\frac{2^2}{3^2}$</formula>, <formula notation="TeX">$3.\frac{2^2}{3^2}$</formula>, <formula notation="TeX">$2.\frac{2^2}{3^2}$</formula>, <formula notation="TeX">$4.\frac{2^2}{3^2}$</formula>, <formula notation="TeX">$4.\frac{2^2}{3^2}$</formula>, <formula notation="TeX">$5.\frac{2^2}{3^2}$</formula>, <formula notation="TeX">$3.\frac{2^2}{3^2}$</formula>.
+      		</item>
+      	</list>
+            <p>
+				<lb n="N001"/>In den eine Octave höheren Durscalen von <hi rendition="#i">C</hi><hi rendition="#sub">-2</hi>, <hi rendition="#i">D</hi><hi rendition="#sub">-2</hi>, und <hi rendition="#i">F</hi><hi rendition="#sub">-2</hi>, verdoppeln sich natürlich
+				<lb n="N002"/>mit den absoluten Schwingungszahlen auch die Differenzen derselben (<formula notation="TeX">$3.\frac{2}{3}$</formula> etc., <formula notation="TeX">$3.\frac{3}{2^4}$</formula> etc. und
+				<lb n="N003"/><formula notation="TeX">$3.\frac{2^3}{3^2}$</formula> etc.). Dies führt zunächst darauf, die Differenzreihen für die Durscalen aller Töne unab¬
+				<lb n="N004"/>hängig von ihrer höheren oder tieferen Lage zu bestimmen, was in folgender Tabelle für die ge¬
+				<lb n="N005"/>bräuchlichsten Tonarten geschehen ist:
+			</p>
+         
+            <p>
+				<lb n="N001"/>Es ist hier die die Tonhöhe bestimmende Potenz von 2 unbestimmt gelassen; sie kann,
+				<lb n="N002"/>wenn man von den unserem Ohr in der tiefsten und in der höchsten Tonregion gesetzten Schran¬
+				<lb n="N003"/>ken abstrahirt, in jeder Tonart sowohl positive, als negative Exponenten haben; der Uebergang
+				<pb facs="#f0024" n="9"/>
+            	<lb n="N001"/>von jenen zu diesen (durch 2<hi rendition="#sup">0</hi>) tritt aber keineswegs für alle Tonarten in derselben Tonregion
+				<lb n="N002"/>ein, sondern benachbarte Scalen harmonisch weit entfernter Tonarten haben auch in ihren Diffe¬
+				<lb n="N003"/>renzreihen sehr verschiedene Exponenten von 2. So beginnt z. B. diese Reihe für die Durscala von
+				<lb n="N004"/><hi rendition="#i">F</hi><hi rendition="#sub">-2</hi>, dessen absolute Schwingungszahl <formula notation="TeX">$21\frac{1}{3}$</formula>, mit <formula notation="TeX">$3.\frac{2^3}{3^2}$</formula>, für die von <hi rendition="#i">Fis</hi><hi rendition="#sub">-2</hi>. (<formula notation="TeX">$22\frac{1}{2}$</formula>) dagegen
+				<lb n="N005"/>mit <formula notation="TeX">$3.\frac{3^5}{2^8}$</formula>. —
+            </p>
+            <p>
+				<lb n="N001"/>Allgemein ist nun nach der vorigen Tabelle die Reihe der absoluten Schwingungsdiffe¬
+				<lb n="N002"/>renzen jeder Durscala:
+			</p>
+         
+            <p>
+				<lb n="N001"/>Jeder Tonart entspricht eine bestimmte Potenz von 3; der Exponent<hi rendition="#i">n</hi> ist in <hi rendition="#i">G</hi> dur = 0,
+				<lb n="N002"/>in allen weiteren Kreuz-Tonarten positiv, in <hi rendition="#i">C</hi> dur und sämmtlichen <hi rendition="#i">B</hi>-Tonarten negativ.
+				<lb n="N003"/>3. 3<hi rendition="#sup">n</hi>. 2<hi rendition="#sup">0</hi> etc. ist allgemeine Form der Differenzreihe für eine bestimmte Lage einer jeden Durscala;
+				<lb n="N004"/>dagegen 3. 3<hi rendition="#sup">0</hi>. <formula notation="TeX">$2^x$</formula> etc. für alle Lagen der Durscala des bestimmten Tones<hi rendition="#i">G</hi>. Die Differenzen in
+				<lb n="N005"/>den Durscalen je zweier, um gleich viele reine Quinten nach entgegengesetzter Richtung von <hi rendition="#i">G</hi>
+				<lb n="N006"/>entfernter Töne enthalten in den ihnen zukommenden Potenzen von 3 und 2 durchaus reciproke
+				<lb n="N007"/>Werthe, z. B. wenn man von der bestimmten Lage der <hi rendition="#i">G</hi> dur-Scala, für welche die Differenzreihe
+				<lb n="N008"/><formula notation="TeX">$3.\frac{3^0}{2^0}$</formula> etc. sein würde, ausgeht:
+            	
+            	<lb n="N001"/>oder auch allgemein:
+            	
+			</p>
+            <p>
+				<lb n="N001"/>Der Kürze wegen ist hier für die Scala jeder Tonart nur das erste Glied ihrer Differenz¬
+				<lb n="N002"/>reihe angegeben.
+			</p>
+            <p>
+				<lb n="N001"/>Es lassen sich diese Differenzen auch als Bruchtheile der absoluten Schwingungszahl des
+				<lb n="N002"/>Grundtones einer jeden Scala ausdrücken. Ist nämlich dieselbe = s, so bestimmen sich zunächst
+				<lb n="N003"/>die Schwingungszahlen der übrigen Töne der Durscala nach den bekannten Verhältnissen zum
+				<lb n="N004"/>Grundton folgendermaassen:
+            	<pb facs="#f0025" n="10"/>
+            	<lb n="N001"/>woraus sich folgende Reihe von Differenzen ergiebt:
+			</p>
+            <p>
+				<lb n="N001"/>Die Summe derselben (<formula notation="TeX">$24.\frac{8}{24}$</formula>) ist <formula notation="TeX">$=s$</formula>; <formula notation="TeX">$\frac{8}{24}=3^n.2^x$</formula>, und die Zahlenreihe: 3, 3, 2, 4,
+				<lb n="N002"/>4, 5, 3 stellt sich überhaupt als eine Charakteristische für die absoluten Schwingungsdifferenzen
+				<lb n="N003"/>in der Durscala heraus. —
+			</p>
+            <p>
+				<lb n="N001"/>Man könnte auch die in den bisher betrachteten Tonleitern nur als Terzen, Sexten und
+				<lb n="N002"/>grosse Septimen vorkommenden Töne zu Grundtönen von Durscalen erheben; die zuletzt gefun¬
+				<lb n="N003"/>dene allgemeine Form der Differenzreihe der absoluten Schwingungszahlen (<formula notation="TeX">$3.\frac{8}{24}$</formula> u. s. w.) gilt
+				<lb n="N004"/>dann zwar auch für diese neuen Scalen, aber <formula notation="TeX">$\frac{8}{24}$</formula> ist nicht mehr <formula notation="TeX">$=3^n.2^x$</formula>, sondern <formula notation="TeX">$5.3^n.2^x$</formula>,
+				<lb n="N005"/>oder (für Durscalen der als kl. III und kl. VI in der Molltonleiter vorkommenden Töne) <formula notation="TeX">$=\frac{3^n.2^x}{5}$</formula>.
+				<lb n="N006"/>So ist z. B. <formula notation="TeX">$3.\frac{8}{24}$</formula> für:
+			</p>
+         
+            <p>
+				<lb n="N001"/>Weniger einfach sind die allgemeinen Ausdrücke, welche sich für diese Schwingungs¬
+				<lb n="N002"/>differenzen in der <hi rendition="#g">Mollscala</hi> ergeben; wir wollen dieselben, um nicht zu lange bei diesem
+				<lb n="N003"/>Gegenstande zu verweilen, nur für einige solche Scalen entwickeln:
+			</p>
+         <pb facs="#f0026" n="11"/>
+         
+         <pb facs="#f0027" n="12"/>
+            <p>
+				<lb n="N001"/>Hiernach wäre die allgemeine Form für die Differenzreihen aller Mollscalen:
+			</p>
+         
+            <p>
+				<lb n="N001"/>Es gilt hier natürlich für die Exponenten<hi rendition="#i">n</hi>, <hi rendition="#i">x</hi> und <hi rendition="#i">y</hi> ganz dasselbe, wie vorher bei den
+				<lb n="N002"/>Durscalen. Die Summe der Zahlen 15, 9, 16, 20, <formula notation="TeX">$22\frac{1}{2}$</formula>, <formula notation="TeX">$22\frac{1}{2}$</formula>, 15 (oder . . . 12, <formula notation="TeX">$21\frac{1}{3}$</formula>, <formula notation="TeX">$22\frac{2}{3}$</formula>, oder
+				<lb n="N003"/>endlich . . . 12, 33, 15) ist = 120; da nun die absolute Schwingungszahl des Grundtones stets
+				<lb n="N004"/>der Summe der Schwingungsdifferenzen der Scala gleich sein muss, so folgt nothwendig, dass
+				<lb n="N005"/><formula notation="TeX">$3^n.5^y.2^x = \frac{8}{120}$</formula> sei, woraus sich eine noch einfachere allgemeine Form jener Differenzreihen
+				<lb n="N006"/>ergiebt:
+			</p>
+         
+            <p>
+				<lb n="N001"/>§ 5.
+				<lb n="N002"/>Nachdem wir gesehen, wie sich allem Anscheine nach die üblichen Bestimmungen der
+				<lb n="N003"/>Tonverhältnisse sowohl durch ihre Einfachheit an sich, als auch durch die Regelmässigkeit der
+				<lb n="N004"/>von ihnen abhängigen Differenzreihen der absoluten Schwingungszahlen in der noch ganz allge¬
+				<lb n="N005"/>mein betrachteten Tonleiter vortrefflich bewähren, wollen wir jetzt neben der so festgestellten
+				<lb n="N006"/>Dur- und Moll-Scala eines beliebigen Grundtones die gleichen Scalen bestimmter, ihm nächst¬
+				<lb n="N007"/>verwandter Töne bilden, also zunächst die seiner oberen und unteren Quinte. Sei z. B. <hi rendition="#i">C</hi> dieser
+				<lb n="N008"/>Grundton, so ist <hi rendition="#i">G</hi> seine obere und <hi rendition="#i">F</hi><hi rendition="#sub">-1</hi> seine untere Quinte; statt des letzteren wählen wir
+				<lb n="N009"/>lieber die höhere Octave<hi rendition="#i">F</hi> (obere IV von <hi rendition="#i">C</hi>) zum Ausgangspunkt der Scala, um die Octave <hi rendition="#i">C</hi>—<hi rendition="#i">c</hi>
+				<lb n="N010"/>nicht zu unterschreiten. In folgender Uebersicht sind nun die relativen Schwingungszahlen aller
+				<lb n="N011"/>in den Dur- und Moll-Scalen von <hi rendition="#i">F</hi>, <hi rendition="#i">C</hi> und <hi rendition="#i">G</hi> vorkommenden Töne zur Vergleichung zusammen¬
+				<lb n="N012"/>gestellt; sie beziehen sich natürlich insgesammt auf <hi rendition="#i">C</hi>, da auch die Grundtöne<hi rendition="#i">F</hi> und <hi rendition="#i">G</hi> durch
+				<lb n="N013"/>ihr Verhältniss zu jenem bestimmt sind.
+			</p>
+         
+            <p>
+				<lb n="N001"/>Schon in dieser auf die Dur- und Moll-Scalen von nur drei harmonisch nahe verwandten
+				<lb n="N002"/>Tönen beschränkten Uebersicht zeigt es sich, dass einem in der Musik gleichbenannten Tone,
+				<lb n="N003"/>je nachdem er der einen oder der anderen Tonart angehört, verschiedene relative Schwingungs¬
+           	 <pb facs="#f0028" n="13"/>
+            	<lb n="N001"/>zahlen zukommen, z. B. dem Tone<hi rendition="#i">D</hi>: <formula notation="TeX">$\frac{8}{9}$</formula> und <formula notation="TeX">$\frac{10}{9}$</formula>, <hi rendition="#i">A</hi>: <formula notation="TeX">$\frac{5}{3}$</formula> und <formula notation="TeX">$\frac{27}{16}$</formula>, <hi rendition="#i">E</hi>: <formula notation="TeX">$\frac{5}{4}$</formula> und <formula notation="TeX">$\frac{81}{64}$</formula>, <hi rendition="#i">B</hi>: <formula notation="TeX">$\frac{16}{9}$</formula> und <formula notation="TeX">$\frac{9}{5}$</formula>,
+				<lb n="N002"/><hi rendition="#i">Es</hi>: <formula notation="TeX">$\frac{6}{5}$</formula> und <formula notation="TeX">$\frac{32}{27}$</formula>. Es ist nun offenbar, um eine klare Uebersicht über die verschiedenen Intervalle
+				<lb n="N003"/>zu gewinnen, das Zweckmässigste, diese an Höhe wirklich ungleichen akustischen Bestimmungen
+				<lb n="N004"/>desselben Tones auch äusserlich durch eine passende Bezeichnung zu unterscheiden. Die Grund¬
+				<lb n="N005"/>töne, Quinten, Quarten, grossen Secunden, kleinen Septimen, alterirten grossen Sexten und
+				<lb n="N006"/>Octaven in obigen drei Tonreihen enthalten in ihren relativen Schwingungszahlen, neben den
+				<lb n="N007"/>nur die Lage bezeichnenden Potenzen von 2, nur Potenzen des Quintverhältnisses <formula notation="TeX">$\frac{3}{2}$</formula>; (z. B.
+				<lb n="N008"/><formula notation="TeX">$A=(\frac{3}{2})^3.2^{-1}$</formula>, <formula notation="TeX">$B = 2^2.(\frac{3}{2})^{-2}$</formula>, <formula notation="TeX">$C = 2^0.(\frac{3}{2})^0$</formula> etc.); daher wir sie als <hi rendition="#g">einer</hi> Classe von Tönen
+				<lb n="N009"/>angehörig betrachten und, wie bisher, mit <hi rendition="#g">grossen</hi> Buchstaben bezeichnen wollen. Die relativen
+				<lb n="N010"/>Schwingungszahlen der noch übrigen Töne dagegen enthalten ausser Potenzen von 2 und <formula notation="TeX">$\frac{3}{2}$</formula> das
+				<lb n="N011"/>Verhältniss der grossen Terz, <formula notation="TeX">$\frac{5}{4}$</formula>, und zwar die einen (nämlich die der grossen Terzen, grossen
+				<lb n="N012"/>Sexten und grossen Septimen) als Multiplicator (z. B. <formula notation="TeX">$\frac{15}{8} = \frac{5}{4}.\frac{3}{2}$</formula> und <formula notation="TeX">$\frac{5}{3} = \frac{5}{4}.(\frac{3}{2})^{-1}.2$</formula>), die an¬
+				<lb n="N013"/>dern (die der kleinen Terzen und kleinen Sexten) als Divisor (z. B. <formula notation="TeX">$\frac{6}{5} = \frac{3}{2}.$</formula> und <formula notation="TeX">$\frac{8}{5} = 2.\ac{4}{5}.(\frac{3}{2})^0$</formula>).
+				<lb n="N014"/>was auf eine <hi rendition="#g">zweite</hi> und <hi rendition="#g">dritte</hi> Tonclasse schliessen lässt, welche wir von der ersten durch
+				<lb n="N015"/><hi rendition="#g">kleine</hi> Buchstaben und unter sich dadurch unterscheiden wollen, dass wir die die Töne der
+				<lb n="N016"/>dritten Classe bezeichnenden Buchstaben mit einem <hi rendition="#g">Strich</hi> (<hi rendition="#i">b′</hi>, <hi rendition="#i">es′</hi>) versehen. Die Durscala
+				<lb n="N017"/>enthält nur Töne der ersten und zweiten Classe, die Mollscala aufwärts Töne aus allen drei
+				<lb n="N018"/>Classen, abwärts nur aus der ersten und dritten; diese Scalen sind also nun so zu schreiben:
+				
+            </p>
+            <p>
+				<lb n="N001"/>Folgende Tabelle enthält nun die (sämmtlich auf den Centralton<hi rendition="#i">C</hi>=1 sich beziehenden)
+				<lb n="N002"/>relativen Schwingungszahlen der so classificirten Töne, wie sie in den gewöhnlichsten Dur- und
+				<lb n="N003"/>Moll-Scalen vorkommen.
+			</p>
+            
+         <pb facs="#f0029" n="14"/>
+         
+            <p>
+				<lb n="N001"/>§ 6.
+				<lb n="N002"/>Aus vorstehender Tabelle geht nun ganz deutlich hervor, dass jede der von uns gesonderten
+				<lb n="N003"/>drei Tonclassen ein <hi rendition="#g">Quintensystem</hi> bildet, d. h. dass die relativen Schwingungszahlen der
+				<lb n="N004"/>verschiedenen Töne innerhalb einer jeden Classe sich wesentlich nur durch die ihnen zukommen¬
+				<lb n="N005"/>den Potenzen von <formula notation="TeX">$\frac{3}{2}$</formula> unterscheiden. Als <hi rendition="#g">reines</hi> Quintensystem wird aber nur die erste dieser
+				<lb n="N006"/>Classen gelten können, in welcher die Tonverhältnisse neben den accessorischen Potenzen von 2,
+				<lb n="N007"/>welche nur die Lage der Töne feststellen, lediglich Potenzen von <formula notation="TeX">$\frac{3}{2}$</formula> enthalten. Bezeichnet man
+				<lb n="N008"/>die relative Schwingungszahl der Quinte mit <hi rendition="#i">Q</hi> und die der grossen Terz mit <hi rendition="#i">T</hi>, so ist allgemeiner
+				<lb n="N009"/>Ausdruck für die relative Schwingungszahl eines Tones
+            </p>
+      	<list>
+      		<item>
+      			<lb n="N001"/>der 1<hi rendition="#sup">ten</hi> Classe <formula notation="TeX">$=Q^n.2^x$</formula>
+      		</item>
+      		<item>
+      			<lb n="N002"/>der 2<hi rendition="#sup">ten</hi> Classe <formula notation="TeX">$=T.Q^n.2^x$</formula>
+      		</item>
+      		<item>
+      			<lb n="N003"/>der 3<hi rendition="#sup">ten</hi> Classe <formula notation="TeX">$=\frac{Q^n.2^x}{T}$</formula>.
+      		</item>
+      	</list>
+            <p>
+				<lb n="N001"/>Der Exponent<hi rendition="#i">n</hi> hat für jeden Ton in allen seinen Octaven denselben <hi rendition="#g">bestimmten</hi>
+				<lb n="N002"/>Werth; er ist = 0 für den <hi rendition="#g">Ausgangsgrundton</hi> (<formula notation="TeX">$Q^n.2^x$</formula>), welcher der 1<hi rendition="#sup">ten</hi> Classe, für dessen
+				<lb n="N003"/><hi rendition="#g">grosse Terz</hi> (<formula notation="TeX">$T.Q^0.2^x$</formula>), welche der 2<hi rendition="#sup">ten</hi> Classe, und für dessen <hi rendition="#g">untere grosse Terz</hi> (<formula notation="TeX">$\frac{Q^0.2^x}{T}$</formula>),
+				<lb n="N004"/>welche der 3<hi rendition="#sup">ten</hi> Classe angehört. Diese drei Töne bilden also gewissermaassen die Mittelpunkte
+				<lb n="N005"/>jener Quintensysteme. Der Exponent von 2 kann für denselben Ton, je nach dessen höherer oder
+				<pb facs="#f0030" n="15"/>
+            	<lb n="N001"/>tieferer Lage, ein sehr verschiedener, positiver oder negativer sein; für eine bestimmte Lage jedes
+				<lb n="N002"/>Tones ist er = 0. Es verhält sich demnach mit beiden Exponenten, <hi rendition="#i">n</hi> und <hi rendition="#i">x</hi>, ganz so, wie weiter
+				<lb n="N003"/>oben (§ 4) bei den Differenzen der absoluten Schwingungszahlen in den Scalen. —
+            </p>
+            <p>
+				<lb n="N001"/>In folgender Uebersicht haben wir grössere Tonreihen der drei Quintensysteme mit ihren
+				<lb n="N002"/>relativen Schwingungszahlen gesondert neben einander gestellt und die letzteren zugleich sämmt¬
+				<lb n="N003"/>lich durch <hi rendition="#i">Q</hi> und <hi rendition="#i">T</hi> ausgedrückt.
+			</p>
+         
+            <p>
+				<lb n="N001"/>Es zeigt sich hier, dass im reinen Quintensystem die relativen Schwingungszahlen der
+				<lb n="N002"/>Töne <hi rendition="#i">G</hi>, <hi rendition="#i">D</hi> . . . <hi rendition="#i">Cis</hi> und die der eine Octave herabgesetzten Töne <hi rendition="#i">F</hi>, <hi rendition="#i">B</hi> . . . <hi rendition="#i">Ces</hi> reciproke Werthe
+				<lb n="N003"/>sind (<formula notation="TeX">$\frac{9}{8}.\frac{8}{9} = 1$</formula>, <formula notation="TeX">$\frac{243}{128}.\frac{128}{243}=1$</formula>u. s. w.). Dieselbe Reciprocität findet statt für die Töne der
+				<lb n="N004"/>2<hi rendition="#sup">ten</hi> Classe <hi rendition="#i">es</hi> . . . <hi rendition="#i">eis</hi> mit den um eine Octave vertieften 3<hi rendition="#sup">ter</hi> Classe <hi rendition="#i">a′</hi> . . . <hi rendition="#i">asas′</hi>. Jedes der drei
+				<lb n="N005"/>Quintensysteme könnte nach beiden Seiten in's Unendliche fortgeführt werden, ohne dass man
+				<lb n="N006"/>je auf einen schon dagewesenen Ton zurückkäme; denn die Potenzen von <hi rendition="#i">Q</hi> wachsen immer
+				<lb n="N007"/>mehr, je weiter man sich in der einen oder der anderen Richtung vom Ausgangston entfernt,
+            	<pb facs="#f0031" n="16"/>
+            	<lb n="N001"/>und es folgen auf der einen Seite doppelt, dreifach etc. erhöhte, auf der anderen doppelt, drei¬
+				<lb n="N002"/>fach etc. erniedrigte Töne, von denen allerdings in der praktischen Musik nur die doppelt er¬
+				<lb n="N003"/>höhten und erniedrigten noch angewendet werden. —
+			</p>
+            <p>
+				<lb n="N001"/>§ 7.
+				<lb n="N002"/>Es enthalten aber diese drei Classen, obgleich in jeder von ihnen die Bildung neuer Inter¬
+				<lb n="N003"/>valle nach zwei Seiten hin in's Unendliche geht, doch noch nicht alle möglichen Tonbestimmun¬
+				<lb n="N004"/>gen, sondern man findet neue, zum Theil noch ziemlich einfache relative Schwingungszahlen
+				<lb n="N005"/>entweder direct aus den wechselseitigen Verhältnissen der Töne 2<hi rendition="#sup">ter</hi> und 3<hi rendition="#sup">ter</hi> Classe, oder wenn
+				<lb n="N006"/>man, unserem bisherigen Verfahren analog, die Töne dieser Classen zu Grundtönen von Dur-
+				<lb n="N007"/>und Moll-Scalen erhebt, welche man genau nach den für die Tonleiter festgestellten Normal-
+				<lb n="N008"/>Bestimmungen bildet. Schlagen wir, um in der Art und Weise der Entwickelung der Tonver¬
+				<lb n="N009"/>hältnisse consequent zu bleiben, den letzten Weg ein, so findet sich, dass in den Durscalen der
+				<lb n="N010"/>Töne 2<hi rendition="#sup">ter</hi> Classe die grosse Terz, grosse Sexte und grosse Septime, in den Mollscalen der Töne
+				<lb n="N011"/>3<hi rendition="#sup">ter</hi> Classe dagegen die kleine Terz und kleine Sexte neue Verhältnisse zum Central-Grundton
+				<lb n="N012"/>bilden, wie folgende Uebersicht über nur einige solche Scalen zeigt.
+			</p>
+            
+         <pb facs="#f0032" n="17"/>
+         
+            <p>
+				<lb n="N001"/>Die sich hier ergebenden neuen Tonverhältnisse enthalten in ihren allgemeinen Ausdrücken
+				<lb n="N002"/>stets <hi rendition="#i">T</hi><hi rendition="#sup">2</hi>, welches, wie <hi rendition="#i">T</hi> im 2<hi rendition="#sup">ten</hi> und 3<hi rendition="#sup">ten</hi> Quintensysteme, theils als Multiplicator, theils als
+				<lb n="N003"/>Divisor auftritt. Es gehören daher die neu gewonnenen Töne nicht einem einzigen, sondern zwei
+				<lb n="N004"/>neuen Quintensystemen an, einem 4<hi rendition="#sup">ten</hi> und 5<hi rendition="#sup">ten</hi>, weshalb wir sie auch sogleich durch verschie¬
+				<lb n="N005"/>dene Bezeichnung unterschieden haben. Allgemeiner Ausdruck für die relativen Schwingungs¬
+				<lb n="N006"/>zahlen ist im 4<hi rendition="#sup">ten</hi> System: <formula notation="TeX">$T^2.Q^n.2^x$</formula>, im 5<hi rendition="#sup">ten</hi>: <formula notation="TeX">$\frac{Q^n.2^x}{T^2}$</formula>; <formula notation="TeX">$\underline{gis}=T^2.Q^0.2^x$</formula> und <formula notation="TeX">$fes'' = \frac{Q^0.2^x}{T^2}$</formula> (die
+				<lb n="N007"/>zweite obere und die zweite untere grosse Terz des Central-Grundtones<hi rendition="#i">C</hi>) bilden in diesen Sy¬
+				<lb n="N008"/>stemen die Mittelpunkte, von denen aus die Potenzen von <hi rendition="#i">Q</hi> nach entgegengesetzter Richtung
+				<lb n="N009"/>in's Unendliche wachsen. —
+			</p>
+         <pb facs="#f0033" n="18"/>
+            <p>
+				<lb n="N001"/>§ 8.
+				<lb n="N002"/>Es ist nun leicht ersichtlich, dass auf diese Weise die Bildung neuer Quintensysteme und
+				<lb n="N003"/>damit die Bestimmung neuer Tonverhältnisse immer weiter und zwar in's Unendliche fortgesetzt
+				<lb n="N004"/>werden kann. Denn, wenn auch die Verhältnisse der relativen Schwingungszahlen im 4<hi rendition="#sup">ten</hi> Sy¬
+				<lb n="N005"/>stem zu denen im 1<hi rendition="#sup">ten</hi> und 2<hi rendition="#sup">ten</hi>, sowie im 5<hi rendition="#sup">ten</hi> System zu denen im 1<hi rendition="#sup">ten</hi> und 3<hi rendition="#sup">ten</hi> nicht zu neuen
+				<lb n="N006"/>Bestimmungen führen<note type="remarkSource" n="*)"><lb n="N001"/><formula notation="TeX">$\frac{25}{18}:\frac{4}{3} = \frac{25}{24}$</formula>, <formula notation="TeX">$\frac{48}{25}:\frac{3}{2} = \frac{32}{25}$</formula>, <formula notation="TeX">$\frac{25}{16}:\frac{45}{32} = \frac{10}{9}$</formula> und <formula notation="TeX">$\frac{32}{25}:\frac{6}{5}=\frac{16}{15}$</formula>.</note>, so ergeben sich doch solche, wenn wir die Töne des 4<hi rendition="#sup">ten</hi> und 3<hi rendition="#sup">ten</hi>, sowie
+				<lb n="N007"/>die des 5<hi rendition="#sup">ten</hi> und 2<hi rendition="#sup">ten</hi> Systems in Beziehung zu einander setzen, z. B. <formula notation="TeX">$\underline{fis} : es' = \frac{125}{108} = \frac{T^3.2}{Q^3} = dis : C$</formula>;
+				<lb n="N008"/><formula notation="TeX">$fis : des'' = \frac{125}{96} = \frac{T^3}{Q} = eis : C$</formula>; <formula notation="TeX">$b' : gis = \frac{144}{125} = \frac{Q^2}{T^3} = eses''' : C$</formula> und 
+				<lb n="N009"/><formula notation="TeX">$ces'' : e = \frac{192}{125} = \frac{Q . 2}{T^3} = asas''' : C$</formula>.
+			</p>
+            <p>
+				<lb n="N001"/>Hiermit sind zu den bisherigen zwei neue, durch die Potenz<hi rendition="#i">T</hi><hi rendition="#sup">3</hi> charakterisirte Quinten¬
+				<lb n="N002"/>systeme, ein 6<hi rendition="#sup">tes</hi> und 7<hi rendition="#sup">tes</hi>, hinzugekommen. Wir erhalten aber ausserdem noch durch Bestim¬
+				<lb n="N003"/>mung der Verhältnisse, in welchen die relativen Schwingungszahlen der Töne des 4<hi rendition="#sup">ten</hi> zu denen
+				<lb n="N004"/>des 5<hi rendition="#sup">ten</hi> und umgekehrt des 5<hi rendition="#sup">ten</hi> zu denen des 4<hi rendition="#sup">ten</hi> Systemes stehen, ein 8<hi rendition="#sup">tes</hi> und 9<hi rendition="#sup">tes</hi> Quinten¬
+				<lb n="N005"/>system, welchem die Potenz <hi rendition="#i">T</hi><hi rendition="#sup">4</hi> zukommt; z. B. <formula notation="TeX">$\underline{gis}: des'' = \frac{625}{532} = \frac{T^4.2}{Q^3}$</formula> und <formula notation="TeX">$ges'' : \underline{cis} = \frac{864}{625} = \frac{Q^3}{T^4}$</formula>.
+				<lb n="N006"/>So würde man durch Fortsetzung des bisherigen Verfahrens auf immer mehr neue Quintensysteme
+				<lb n="N007"/>(mit <hi rendition="#i">T</hi><hi rendition="#sup">5</hi>, <hi rendition="#i">T</hi><hi rendition="#sup">6</hi> . . . . <hi rendition="#i">T</hi><hi rendition="#sup">m</hi>) kommen. Je höher die Potenzen von <hi rendition="#i">T</hi> werden, desto mehr entfernt sich
+				<lb n="N008"/>der betreffende Ton von dem gleichnamigen des ursprünglichen reinen Quintensystems und zwar
+				<lb n="N009"/>wird er immer tiefer in den Systemen mit <hi rendition="#i">T</hi>, <hi rendition="#i">T</hi><hi rendition="#sup">2</hi>, . . . <hi rendition="#i">T</hi><hi rendition="#sup">m</hi> als Multiplicator, immer höher dagegen
+				<lb n="N010"/>in denen mit <hi rendition="#i">T</hi>, <hi rendition="#i">T</hi><hi rendition="#sup">2</hi> ... <hi rendition="#i">T</hi><hi rendition="#sup">m</hi> als Divisor.
+			</p>
+            <p>
+				<lb n="N001"/>In beistehender, sich auf 7 Quintensysteme erstreckenden Uebersicht haben wir, um die
+				<lb n="N002"/>Form der Abhängigkeit aller Tonbestimmungen von <hi rendition="#i">Q</hi> und <hi rendition="#i">T</hi> recht deutlich hervorzuheben, die
+				<lb n="N003"/>Lage der Töne, als etwas hier nicht Wesentliches, unbestimmt gelassen (<formula notation="TeX">$2^x$</formula>); die beigefügten
+				<lb n="N004"/>Intervall-Benennungen sind zum grossen Theil die allgemein üblichen; für einige selten oder gar
+				<lb n="N005"/>nicht in der praktischen Musik vorkommende Töne haben wir sie nach eigenem Gutdünken ge¬
+				<lb n="N006"/>wählt. Dass man sich die Tonreihe eines jeden Systems nach beiden Seiten weiter und zwar in's
+				<lb n="N007"/>Unendliche fortgehend zu denken hat, versteht sich von selbst. Die Centralpunkte dieser 7,
+				<lb n="N008"/>sowie aller weiteren Quintensysteme bilden eine Reihe reiner grosser Terzen:
+				
+            	<pb facs="#f0034" n="19"/>
+            	<lb n="N001"/>welche nach beiden Seiten ebenso in's Unendliche fortgeht, wie die Tonreihe eines jeden einzelnen
+				<lb n="N002"/>Quintensystemes. —
+            </p>
+         
+         </div>
+         <pb facs="#f0035"/>
+         <div type="chapter" n="1">
+            <head>
+				<lb n="N001"/><hi rendition="#b">Zweiter Abschnitt.</hi>
+				<lb n="N002"/>Ueber die Nothwendigkeit beschränkter Tonsysteme für die ausübende
+				<lb n="N003"/>Musik und das Verhalten musikalischer Theoretiker gegenüber den
+				<lb n="N004"/>akustischen Bestimmungen.
+			</head>
+            <p>
+				<lb n="N001"/>§ 9.
+				<lb n="N002"/>Die in den verschiedenen Quintensystemen enthaltene unendliche Vielheit<note type="remarkSource" n="*)"><lb n="N001"/>Dieselbe ist unendlich aus doppeltem Grunde, nämlich: 1) weil die Zahl der Quintensysteme eine unbe¬
+				<lb n="N002"/>schränkte ist, 2) weil ein jedes solches Quintensystem schon an sich eine unbegrenzte Reihe von Tönen ist.</note> von Ton¬
+				<lb n="N003"/>verhältnissen scheint nun schwerlich dazu geeignet, als Grundlage der praktischen Musik zu
+				<lb n="N004"/>dienen; es haben deshalb auch die Akustiker eine Auswahl aus denselben getroffen und für die
+				<lb n="N005"/>21 gewöhnlichsten Töne folgende Verhältnissbestimmungen als feststehende angenommen:
+			</p>
+            
+         <pb facs="#f0036" n="21"/>
+            <p>
+				<lb n="N001"/>Von den für die Töne<hi rendition="#i">B</hi>, <hi rendition="#i">Des</hi>, <hi rendition="#i">Dis</hi> und <hi rendition="#i">His</hi> angegebenen doppelten Bestimmungen gehö¬
+				<lb n="N002"/>ren die in Haken-Parenthesen eingeschlossenen dem französischen Tonsystem an, welches im
+				<lb n="N003"/>Uebrigen ganz mit dem deutschen übereinstimmt. — Man hat, wie wir sehen, bei Fixirung dieser
+				<lb n="N004"/>21 Töne fast durchgängig die <hi rendition="#g">einfachsten</hi> Verhältnisse gewählt, welche nicht einem einzigen,
+				<lb n="N005"/>sondern mehreren verschiedenen Quintensystemen angehören. Es ist aber schlechterdings un¬
+				<lb n="N006"/>möglich, diese einfachsten Bestimmungen durchweg als allein gültige festzuhalten, ohne gegen
+				<lb n="N007"/>die musikalische Grundforderung absoluter Gleichheit der Tonverhältnisse in allen Dreiklängen
+				<lb n="N008"/>und Scalen einer und derselben Art auf das Mannichfachste zu verstossen; denn es liefern dieselben
+				<lb n="N009"/>eine beträchtliche Zahl von den Normal-Verhältnissen 4:5:6 und <formula notation="TeX">$\frac{1}{6}:\frac{1}{5}:\frac{1}{4}$</formula> abweichender,
+				<lb n="N010"/>also unreiner Dur- und Moll-Dreiklänge (z. B. <hi rendition="#i">D</hi><hi rendition="#i">fis</hi>{ <hi rendition="#i">a</hi>, <hi rendition="#i">es′</hi><hi rendition="#i">G</hi><hi rendition="#i">B</hi>, <hi rendition="#i">D</hi><hi rendition="#i">F</hi><hi rendition="#i">a</hi>, <hi rendition="#i">h</hi><hi rendition="#i">D</hi><hi rendition="#i">fis</hi>), und von den
+				<lb n="N011"/>Scalen, welche man lediglich aus ihnen bilden wollte, würden nur die Dur- und die abwärts
+				<lb n="N012"/>gehende Moll-Scala von C vollkommen rein sein, alle übrigen hingegen grössere oder geringere
+				<lb n="N013"/>Abweichungen von dieser Reinheit zeigen<note type="remarkSource" n="*)"><lb n="N001"/>Man vergleiche <persName><hi rendition="#g">Drobisch</hi>’s</persName> Abhandlung „
+				<lb n="N002"/> ” (in <persName><hi rendition="#g">Poggendorf</hi>’s</persName> , Bd. 90).</note>. Hiermit erweist sich denn die Annahme, man
+				<lb n="N014"/>könne die einfachsten Tonbestimmungen als ausschliesslich gültige, der musikalischen Praxis zu
+				<lb n="N015"/>Grunde liegende betrachten, als unrichtig; es bestimmen sich nicht nur die erhöhten und ernied¬
+				<lb n="N016"/>rigten, sondern auch die 7 einfachen Töne in den verschiedenen Tonarten auf mannichfache
+				<lb n="N017"/>Weise, wie wir ja bereits in § 5 gesehen haben; <hi rendition="#i">a</hi>, die grosse Terz von <hi rendition="#i">F</hi>, giebt keine reine
+				<lb n="N018"/>Quintenconsonanz mit <hi rendition="#i">D</hi>; es muss sich daher z. B. in <hi rendition="#i">D</hi> dur und <hi rendition="#i">G</hi> dur nothwendig in <hi rendition="#i">A</hi>, die
+				<lb n="N019"/>alterirte grosse Terz von <hi rendition="#i">F</hi>, verwandeln; ebenso wird aus <hi rendition="#i">e</hi>, der grossen Terz von <hi rendition="#i">C</hi>, in <hi rendition="#i">A</hi> dur das
+				<lb n="N020"/>etwas höhere <hi rendition="#i">E</hi>, aus <hi rendition="#i">D</hi>, der Quint von <hi rendition="#i">G</hi>, in <hi rendition="#i">B</hi> dur das etwas tiefere <hi rendition="#i">d</hi>, u. s. w.
+			</p>
+            <p>
+				<lb n="N001"/>§ 10.
+				<lb n="N002"/>Wir haben bisher nur die relativen Schwingungszahlen der Töne in Betracht gezogen;
+				<lb n="N003"/>es entspricht aber bekanntlich die wirkliche Schätzung ihrer Höhenunterschiede oder Intervalle
+				<lb n="N004"/>durch das musikalische Gehör nicht den Differenzen dieser Verhältnisszahlen selbst, sondern
+				<lb n="N005"/>denen ihrer Logarithmen <note type="remarkSource" n="**)"><lb n="N001"/>Siehe <persName><hi rendition="#g">Euler</hi>’s</persName><hi rendition="#i"/> (p. 73), <persName><hi rendition="#g">Drobisch</hi>’s</persName> vorstehend citirte  in
+				<lb n="N002"/><persName><hi rendition="#g">Poggendorf</hi>’s</persName> , sowie desselben grössere Schrift „ etc.” §. 14 ff.</note>. Denn wäre das Intervall proportional den Differenzen jener Zahlen
+				<lb n="N006"/>selbst, so müsste es in jeder höheren Octave als ein doppelt so grosses für dasselbe Tonverhältniss
+				<lb n="N007"/>empfunden werden, als in der vorhergehenden tieferen, da <formula notation="TeX">$\frac{9}{8}-1 = \frac{1}{8}$</formula> und <formula notation="TeX">$\frac{18}{8}-2=\frac{1}{4}$</formula>,
+				<lb n="N008"/><formula notation="TeX">$\frac{3}{2}-\frac{5}{4}=\frac{1}{2}$</formula> und <formula notation="TeX">$\frac{6}{2}-\frac{5}{2}=\frac{1}{2}$</formula> etc. Es bleibt aber thatsächlich ein jedes Intervall ganz <hi rendition="#g">das¬
+				<lb n="N009"/>selbe</hi> in  Octaven, woraus folgt, dass, während die relativen Schwingungszahlen aufein¬
+				<lb n="N010"/>anderfolgender Octaven eines Tones die geometrische Progression 1, 2, 4, 8, 16, --- = 2<hi rendition="#sup">0</hi>, 2<hi rendition="#sup">1</hi>,
+				<lb n="N011"/>2<hi rendition="#sup">2</hi>, 2<hi rendition="#sup">3</hi>, 2<hi rendition="#sup">4</hi> --- bilden, die Intervalle den Exponenten dieser Potenzen von 2 entsprechen müssen,
+				<lb n="N012"/>welche in der einfachen arithmetischen Progression 0, 1, 2, 3, 4 --- wachsen. Das Octaven¬
+				<lb n="N013"/>intervall ist sonach immer = 1, also = der relativen Schwingungszahl des angenommenen Grund¬
+				<lb n="N014"/>tones. Wie nun alle selbständigen Tonverhältnisse (§ 2) zwischen 1 und 2 (oder 2<hi rendition="#sup">0</hi> und 2<hi rendition="#sup">1</hi>), so
+				<pb facs="#f0037" n="22"/>
+            	<lb n="N001"/>werden auch alle wirklich verschiedenen Intervalle zwischen 0 und 1 liegen müssen; sie lassen
+				<lb n="N002"/>sich daher auch ganz einfach als die <hi rendition="#g">natürlichen Logarithmen</hi> der relativen Schwingungs¬
+				<lb n="N003"/>zahlen<note type="remarkSource" n="*)"><lb n="N001"/>Denn diese kann man sämmtlich als Potenzen von 2 betrachten.</note> bezeichnen, und dies bietet ein sehr bequemes Mittel, die Grössen der Intervalle direct
+				<lb n="N004"/>zu bestimmen und unter einander zu vergleichen, dessen Anwendung in den bereits wiederholt
+				<lb n="N005"/>erwähnten  von <hi rendition="#g"><persName>Drobisch</persName></hi> der Theorie der Tonverhältnisse neuerdings ganz besonders
+				<lb n="N006"/>reichen Gewinn gebracht hat. Wir werden in den folgenden Untersuchungen öfters Gelegenheit
+				<lb n="N007"/>haben, solche Intervallbestimmungen anzuführen; daher wir hier von einer übersichtlichen Zu¬
+				<lb n="N008"/>sammenstellung derselben<note type="remarkSource" n="**)"><lb n="N001"/>Eine solche findet man in <persName><hi rendition="#g">Drobisch</hi>’s</persName> Abhandlung „”,
+				<lb n="N002"/>pag. 28.</note> füglich absehen können. —
+            </p>
+            <p>
+				<lb n="N001"/>§ 11.
+				<lb n="N002"/>Die Töne werden in der ausübenden Musik theils „frei intonirt”, wie beim Gesang, bei
+				<lb n="N003"/>Anwendung der Naturtöne der Blasinstrumente und auf den Streichinstrumenten <note type="remarkSource" n="***)"><lb n="N001"/>Diese haben nur 4 durch Stimmung in Quinten fixirte Töne, von denen die 3 oberen nebenbei auch frei
+				<lb n="N002"/>gegriffen werden können.</note>, theils sind
+				<lb n="N004"/>sie in bestimmter Höhe und beschränkter Anzahl festgestellt, wie auf der Orgel, dem Klavier,
+				<lb n="N005"/>der Harfe und der Mehrzahl der Blasinstrumente. Es wäre denkbar, dass bei <hi rendition="#g">freier</hi> Intonation
+				<lb n="N006"/>die mannichfachen Tonbestimmungen, welche wir oben in den §§ 5 — 8 kennen gelernt haben,
+				<lb n="N007"/>wirklich Anwendung fänden, soweit sie den gebräuchlicheren Tonarten angehören; wir werden
+				<lb n="N008"/>hierauf später zurückkommen und wenden uns jetzt zunächst zu der <hi rendition="#g">gebundenen</hi> Intonation.
+				<lb n="N009"/>Der musikalischen Grundforderung vollkommener Gleichmässigkeit aller Dur- wie aller Moll-
+				<lb n="N010"/>Dreiklänge und Scalen konnte, wenn jeder Ton nur <hi rendition="#g">einen</hi>, feststehenden Werth zur relativen
+				<lb n="N011"/>Schwingungszahl haben sollte, durch eine Auswahl der einfachsten von den Grundverhältnissen
+				<lb n="N012"/>der Quinte und der grossen Terz abhängigen Tonbestimmungen deshalb nicht genügt werden,
+				<lb n="N013"/>weil das Quintverhältniss zu wesentlich anderen Bestimmungen derselben Töne führte, als das
+				<lb n="N014"/>der grossen Terz. Daraus folgt die Unvereinbarkeit dieser beiden Verhältnisse in ihrer Reinheit
+				<lb n="N015"/>für jedes jener Forderung entsprechende System festbestimmter Töne und die Nothwendigkeit,
+				<lb n="N016"/>entweder das reine Quintverhältniss, oder das der grossen Terz, oder endlich beide zugleich einer
+				<lb n="N017"/>Abänderung zu unterwerfen. Die Erfüllung jener Grundforderung liegt offenbar in der Gleichung
+				<lb n="N018"/><formula notation="TeX">$Q^4=4.T$</formula>, oder, wenn wir die zu <hi rendition="#i">Q</hi> und <hi rendition="#i">T</hi> gehörigen Intervalle mit <hi rendition="#i">q</hi> und <hi rendition="#i">t</hi> bezeichnen,
+				<lb n="N019"/><formula notation="TeX">$4q = 2 + t$</formula>, welcher durch <formula notation="TeX">$Q=\frac{3}{2}$</formula> und <formula notation="TeX">$T=\frac{5}{4}$</formula>, oder <formula notation="TeX">$q = 0,58496$</formula> . . . und <formula notation="TeX">$t=0,32193$</formula> . . . nicht
+				<lb n="N020"/>genügt wird. —
+			</p>
+            <p>
+				<lb n="N001"/>Bestimmt man nun 1) die Quint abhängig von der grossen Terz
+            	
+            	<lb n="N001"/>so führt dies zu einem System <note type="remarkSource" n="†)"><lb n="N001"/>Man vergleiche hierüber <persName>J. N. <hi rendition="#g">Möhring</hi></persName>, „” (III. Abschnitt), und <hi rendition="#g"><persName>Drobisch</persName></hi>,
+				<lb n="N002"/>„”, pag. 20 u. ff.</note>, dessen Töne sich sehr nahe den einfachsten reinen Verhältnissen
+				<lb n="N002"/>anschliessen, was natürlich ist, da unter diesen nur 3 vom Quintverhältniss allein abhängig sind
+            	<pb facs="#f0038" n="23"/>
+            	<lb n="N001"/><formula notation="TeX">$(\frac{4}{3},\frac{9}{8},\frac{16}{9})$</formula>, und das letztere überhaupt nur in niedrigen Potenzen vorkommt, Folgende Ueber¬
+				<lb n="N002"/>sicht diene zur Vergleichung der Intervalle dieses <hi rendition="#g">Systems der reinen grossen Terz</hi> mit
+				<lb n="N003"/>den jenen einfachen Verhältnissen entsprechenden; wir beschränken uns dabei auf die 21 ge¬
+				<lb n="N004"/>wöhnlichsten Töne und geben die Intervallwerthe mit 5 Decimalstellen und in der letzten mög¬
+				<lb n="N005"/>lichst genähert an.
+            </p>
+         
+            <p>
+				<lb n="N001"/>Ganz übereinstimmend sind hier natürlich die Intervallbestimmungen der grossen Terz (<hi rendition="#i">T</hi>),
+				<lb n="N002"/>der kleinen Sexte (<formula notation="TeX">$\frac{2}{T}$</formula>), der übermässigen Quinte (<hi rendition="#i">T</hi><hi rendition="#sup">2</hi>) und der verminderten Quarte (<formula notation="TeX">$\frac{2}{T^2}$</formula>), sowie
+				<lb n="N003"/>auch der übermässigen Septime (<hi rendition="#i">T</hi><hi rendition="#sup">3</hi>); die geringeren Abweichungen treffen die Töne, welche <hi rendition="#i">Q</hi>,
+				<lb n="N004"/>die grösseren diejenigen, welche <hi rendition="#i">Q</hi><hi rendition="#sup">2</hi> in ihren relativen Schwingungszahlen enthalten. Eine Ver¬
+				<lb n="N005"/>minderung trifft die Quinte, gr. II, gr. VII, II♯, kl. III, V♭, VIII♭, eine Vergrösserung die Quarte,
+				<lb n="N006"/>kl. VII, kl. II, gr. VI, IV♯, I♯, VI♯, III♯<note type="remarkSource" n="*)"><lb n="N001"/>Es vergrössern sich natürlicher Weise diejenigen Intervalle, welche die von einer Verminderung betroffe¬
+				<lb n="N002"/>nen zur Octave, der unwandelbaren Maasseinheit, ergänzen. Für II♯, VI♯ und III♯ sind die hier ausgelassenen
+				<lb n="N003"/>Ergänzungen zur Octave: VII♭, III♭ und VI♭, von welchen ersteres eine Vergrösserung, die beiden letzteren
+				<lb n="N004"/>dagegen eine Verminderung erleiden würden.</note>. —
+			</p>
+         <pb facs="#f0039" n="24"/>
+            <p>
+				<lb n="N001"/>§ 12.
+				<lb n="N002"/>Macht man umgekehrt die grosse Terz abhängig von der Quinte (<formula notation="TeX">$T'=\frac{Q^4}{4}=\frac{81}{64}$</formula> oder das
+				<lb n="N003"/>Intervall<hi rendition="#i">t</hi>′ = 4q — 2), so führt dies zu dem <hi rendition="#g">reinen Quintensystem</hi> (siehe § 6), in welchem
+				<lb n="N004"/>die Abweichung der Intervalle von den aus den einfachsten reinen Verhältnissen sich ergebenden
+				<lb n="N005"/>Bestimmungen eine weit grössere ist, als im System der reinen grossen Terz, wie folgende Ueber¬
+				<lb n="N006"/>sicht zeigt:
+			</p>
+         
+            <p>
+				<lb n="N001"/>Es stimmen hier die Intervalle der V, IV, gr. II und kl. VII, deren Verhältnisse nur von
+				<lb n="N002"/><hi rendition="#i">Q</hi> abhängen, genau überein; die geringste Abweichung trifft die Töne, welche <hi rendition="#i">T</hi>, eine grössere
+				<lb n="N003"/>die, welche <hi rendition="#i">T</hi><hi rendition="#sup">2</hi>, eine noch bedeutendere aber die, welche T<hi rendition="#sup">3</hi> in ihren relativen Schwingungszahlen
+				<lb n="N004"/>enthalten. Die gr. VI, gr. III, gr. VII und sämmtliche übermässige Intervalle werden im reinen
+				<lb n="N005"/>Quintensystem grösser, kleiner hingegen die kl. III, kl. VI, kl. II und alle verminderten Inter¬
+				<lb n="N006"/>valle. Während ferner die Aufeinanderfolge der Intervalle ihrer Grösse nach im System der reinen
+				<lb n="N007"/>grossen Terz und den damit verglichenen Bestimmungen nach einfachsten reinen Verhältnissen
+				<lb n="N008"/>ganz dieselbe war, ist sie hier eine wesentlich andere:
+			</p>
+         <pb facs="#f0040" n="25"/>
+         
+            <p>
+				<lb n="N001"/>Die die Octave überschreitende übermässige Septime ist im Grunde kein selbständiges
+				<lb n="N002"/>Intervall, da ihre tiefere Octave schon über dem Grundton liegt und zwar von demselben um das
+				<lb n="N003"/>sogenannte <hi rendition="#g">pythagorische Komma</hi> entfernt ist, als dessen höhere Octave somit die über¬
+				<lb n="N004"/>mässige Septime nur betrachtet werden kann. —
+			</p>
+            <p>
+				<lb n="N001"/>Wir kommen später auf dies, wie wir dann sehen werden, als einzige wahrhaft genügende
+				<lb n="N002"/>Grundlage unserer theoretischen und practischen Musik anzuerkennende System zurück. —
+			</p>
+            <p>
+				<lb n="N001"/>§ 13.
+				<lb n="N002"/>So lange man, der bisher geltenden Ansicht zu Folge, die Verhältnisse 3:2 und 5:4
+				<lb n="N003"/>beide als für die absolute Reinheit<hi rendition="#g">gleich</hi> gültige betrachtet, will es nicht zulässig scheinen, nur
+				<lb n="N004"/>eines von beiden die einmal nöthig gewordene Abänderung erleiden zu lassen. Man wird daher
+				<lb n="N005"/>dem oben (§ 11) bezeichneten dritten Verfahren den Vorzug geben und <hi rendition="#g">beide</hi> Verhältnisse, da
+				<lb n="N006"/>sie unverändert in einem den musikalischen Grundforderungen entsprechenden System festbe¬
+				<lb n="N007"/>stimmter Töne nicht neben einander herrschen können, zugleich von der akustischen Reinheit
+				<lb n="N008"/>abweichen lassen (<formula notation="TeX">$Q'^4 = 4.T'$</formula> oder <formula notation="TeX">$4q = 2+t'$</formula>), woraus dann auch mit Nothwendigkeit die
+				<lb n="N009"/>Aenderung sämmtlicher übrigen Tonverhältnisse (das unveränderliche der Octave ausgenommen)
+				<lb n="N010"/>folgt, da sie alle von <hi rendition="#i">Q</hi> und <hi rendition="#i">T</hi> abhängig sind. Das Resultat dieses Verfahrens ist die <hi rendition="#g">gleich¬
+				<lb n="N011"/>schwebende</hi><note type="remarkSource" n="*)"><lb n="N001"/>Durch die musikalische Grundforderung absoluter Gleichmässigkeit aller Dur- und aller Moll-Dreiklänge
+				<lb n="N002"/>und Scalen ist jede <hi rendition="#g">ungleichschwebende Temperatur</hi> von vorn herein als ganz untauglich ausgeschlossen.
+				<lb n="N003"/>Ueber die von <hi rendition="#g"><persName>Kirnberger</persName></hi>, welche einst in hohem Ansehen stand, vergleiche man <persName><hi rendition="#g">Marpurg</hi>’s</persName> 
+				<lb n="N004"/>  (13. Abschnitt) und <hi rendition="#g"><persName>Drobisch</persName></hi>,  etc., § 32 und 33.</note>, welche im Allgemeinen auf sehr mannichfache Weise entstehen
+				<lb n="N012"/>kann, weil zu jedem alterirten Quintenintervall<hi rendition="#i">q</hi>′ sich das der grossen Terz (<hi rendition="#i">t</hi>′) durch 4 <hi rendition="#i">q</hi>′ — 2
+				<lb n="N013"/>dem geforderten System feststehender Töne genügend bestimmt. Es wird aber, wenn man nicht
+				<lb n="N014"/>gar zu sehr von der ursprünglichen Reinheit abweichen will, hierbei zu berücksichtigen sein,
+				<lb n="N015"/>dass das reine Quintverhältniss durchaus zu <hi rendition="#g">höheren</hi> Bestimmungen derselben Töne führt, als
+				<lb n="N016"/>das der grossen Terz (folglich auch zu <hi rendition="#g">tieferen</hi>, als das der <hi rendition="#g">unteren</hi> gr. Terz), dass also bei
+				<lb n="N017"/>vollkommener Reinheit <formula notation="TeX">$4q&gt;t+2$</formula> und daher das Intervall<hi rendition="#i">q</hi> nur zu <hi rendition="#g">vermindern</hi> sein wird.
+				<lb n="N018"/>Die besten Temperaturen werden demnach die zwischen dem System der reinen grossen Terz und
+				<lb n="N019"/>dem der reinen Quinte liegenden sein, in welchen die letztere abwärts, die grosse Terz aufwärts
+				<lb n="N020"/>schwebt, und, da bekanntlich das musikalische Gehör bei der Quinte weniger grosse Abweichungen
+				<pb facs="#f0041" n="26"/>
+            	<lb n="N001"/>von der Reinheit verträgt, als bei der grossen Terz<note type="remarkSource" n="*)"><lb n="N001"/>Weshalb auch erstere mit Recht als vollkommenere Consonanz gilt.</note>, so muss man auch von diesen temperirten
+				<lb n="N002"/>Systemen diejenigen, in welchen die grössere Abweichung die grosse Terz trifft, als die musika¬
+				<lb n="N003"/>lisch befriedigenderen bezeichnen. Es ist dies Letztere übrigens in den meisten der Fall; die
+				<lb n="N004"/>Quint weicht nur in den dem System der reinen grossen Terz am nächsten kommenden Tempe¬
+				<lb n="N005"/>raturen mehr von der Reinheit ab, als die grosse Terz. —
+            </p>
+            <p>
+				<lb n="N001"/>§ 14.
+				<lb n="N002"/>Im reinen Quintensystem war, wie wir sahen (§ 6), die Zahl der Töne deshalb eine un¬
+				<lb n="N003"/>begrenzte, weil, soweit man auch nach oben oder nach unten in Quinten fortschreiten mochte,
+				<lb n="N004"/>doch nie eine höhere oder tiefere Octave irgend eines schon dagewesenen Tones erreicht werden
+				<lb n="N005"/>konnte, sondern man auf der einen Seite in 3-, 4- und mehr-fach erhöhte, auf der anderen in
+				<lb n="N006"/>3-, 4- und mehr-fach erniedrigte Töne gerieth. Dagegen enthält jedes gleichschwebend temperirte
+				<lb n="N007"/>System, in welchem das Quintenintervall (<hi rendition="#i">q</hi>′) so abgeändert ist, dass es zu dem der Octave in
+				<lb n="N008"/>irgend einem <hi rendition="#g">rationalen</hi> Verhältniss steht, nur eine <hi rendition="#g">endliche</hi> Zahl von verschiedenen Tönen;
+				<lb n="N009"/>denn sei <formula notation="TeX">$1:q'=a:b$</formula>, verhalten sich also die Intervalle der Octave und der Quinte wie zwei
+				<lb n="N010"/>positive ganze Zahlen<hi rendition="#i">a</hi> und <hi rendition="#i">b</hi>, so ist <formula notation="TeX">$q'=\frac{b}{a}$</formula> und <formula notation="TeX">$a.q'=b$</formula>, d. h. die <hi rendition="#i">a</hi><hi rendition="#sup">te</hi> temperirte Quint fällt
+				<lb n="N011"/>zusammen mit der <hi rendition="#i">b</hi><hi rendition="#sup">ten</hi> Octave des Grundtones. Eine auf diese Weise in eine höhere Octave des
+				<lb n="N012"/>Ausgangstones zurückführende Reihe temperirter Quinten nennt man bekanntlich einen <hi rendition="#g">Quin¬
+				<lb n="N013"/>tencirkel</hi>, und da natürlich auch Quarten, Terzen etc. so temperirt werden können, so spricht
+				<lb n="N014"/>man auch von Quarten- und Terzen-Cirkeln. Je kleiner ein solcher Cirkel ist, desto geringer
+				<lb n="N015"/>ist die Zahl der verschiedenen Töne. Da nun für die Instrumente mit gebundener Intonation,
+				<lb n="N016"/>wenn ihr Mechanismus nicht gar zu complicirt und ihre Behandlung für den Spieler nicht gar
+				<lb n="N017"/>zu schwierig werden sollte, eine Beschränkung auf möglichst wenige verschiedene Töne innerhalb
+				<lb n="N018"/>der Octave practisches Bedürfniss war, so hat man für sie den kleinsten brauchbaren Quinten¬
+				<lb n="N019"/>cirkel gewählt und 12 Quinten = 7 Octaven gesetzt, also <formula notation="TeX">$q'=\frac{7}{12}$</formula>, woraus sich die sämmtlichen
+				<lb n="N020"/>Intervalle folgendermaassen bestimmen:
+			</p>
+         
+         <pb facs="#f0042" n="27"/>
+         
+            <p>
+				<lb n="N001"/>Es ist dies die <hi rendition="#g">gewöhnliche gleichschwebende Temperatur</hi>, bei welcher die
+				<lb n="N002"/>Octave in 12 <hi rendition="#g">gleiche</hi> Theile (sogenannte „halbe Töne”) zerfällt, und daher sämmtliche Inter¬
+				<lb n="N003"/>valle <hi rendition="#g">rationale</hi> Grössen werden, die ihnen entsprechenden relativen Schwingungszahlen hin¬
+				<lb n="N004"/>gegen, die der Octave natürlich ausgenommen, <hi rendition="#g">irrationale</hi>. Die geringsten Abweichungen von
+				<lb n="N005"/>der Reinheit erleiden: die Quinte (— 0,00163) und die Quarte (+ 0,00163), sodann die gr. II
+				<lb n="N006"/>(— 0,00325) und die kl. VII (+ 0,00325); im Uebrigen werden, wie im reinen Quintensystem,
+				<lb n="N007"/>alle grossen und übermässigen Intervalle grösser, alle kleinen und verminderten hingegen kleiner;
+				<lb n="N008"/>nur trifft hier die Verkleinerung der letzteren mit der Vergrösserung jener gerade zu einem Ton
+				<lb n="N009"/>zusammen, während im reinen Quintensystem beide über einander hinweg greifen. Bei den
+				<lb n="N010"/>Intervallbestimmungen nach reinen Verhältnissen und im System der reinen grossen Terz dagegen
+				<lb n="N011"/>erreichte der erhöhte Ton die Höhe seiner erniedrigten gr. II noch nicht, sondern blieb stets
+				<lb n="N012"/>tiefer. Somit erweist sich die gewöhnliche gleichschwebende Temperatur als eine <hi rendition="#g">Grenzscheide</hi>
+				<lb n="N013"/>zwischen den dem Systeme der reinen gr. III verwandten Temperaturen, in welchen I♯, II♯ etc.
+				<lb n="N014"/><hi rendition="#g">tiefer</hi>, als kl. II, kl. III etc. liegen (also <formula notation="TeX">$q &lt; \frac{7}{12}$</formula>), und den dem reinen Quintensysteme näher
+				<lb n="N015"/>stehenden, in welchen das Umgekehrte der Fall, also <formula notation="TeX">$q&gt;\frac{7}{12}$</formula> ist, und man hat sie daher sehr
+				<lb n="N016"/>passend als <hi rendition="#g">mittlere</hi> bezeichnet. — Es ist nicht unsere Absicht, einzelne, einer oder der anderen
+				<lb n="N017"/>der durch diese Grenzscheide gesonderten Classen angehörende Temperaturen, von denen man
+				<lb n="N018"/>die wichtigsten in der so überaus reichhaltigen Abhandlung von <hi rendition="#g"><persName>Drobisch</persName></hi>: „
+				<lb n="N019"/> ” berechnet und ausführlich beurtheilt findet, hier speciell in
+				<lb n="N020"/>Betracht zu ziehen; wir wollten nur ganz im Allgemeinen die verschiedenen Wege characteri¬
+				<lb n="N021"/>siren, auf denen man, wenn absolut sich gleich bleibende relative Höhe eines jeden in der
+				<lb n="N022"/>Notenschrift unterschiedenen Tones erforderlich ist, zu musikalisch brauchbareren Tonsystemen
+				<lb n="N023"/>gelangt, als durch Festhalten an einer Auswahl der einfachsten aus der unendlichen Vielheit
+				<lb n="N024"/>von akustisch reinen Bestimmungen der Tonverhältnisse, und haben dabei neben den Syste¬
+				<lb n="N025"/>men der reinen grossen Terz und der reinen Quinte nur die für die Tasteninstrumente (sowie
+				<lb n="N026"/>auch grösstentheils für die Blasinstrumente) unentbehrliche<note type="remarkSource" n="*)"><lb n="N001"/>Die Harfe ist durch die neuere, von <hi rendition="#g"><persName>Erard</persName></hi> herrührende Construction (<hi rendition="#i">à double mouvement</hi>) aus der
+				<lb n="N002"/>Beschränkung der mittleren Temperatur auf nur 12 an Höhe unterschiedene Töne in jeder Octave herausgetreten;
+				<lb n="N001"/>sie hat deren nun 21. Jedes der 7 Pedale dieser neueren Doppelpedalharfen kann nämlich um 2 Stufen abwärts
+				<lb n="N002"/>bewegt werden; die Grundstimmung ist die der <hi rendition="#i">Ces</hi>-dur-Scala, enthält also die 7 erniedrigten Töne; der erste
+				<lb n="N003"/>Niedertritt erhöht diese auf die 7 Grundtöne<hi rendition="#i">C</hi>, <hi rendition="#i">D</hi> etc. und der zweite giebt deren einfache Erhöhungen: <hi rendition="#i">Cis</hi>,
+				<lb n="N004"/><hi rendition="#i">Dis</hi> etc.</note> und daher in practischer Beziehung
+				<pb facs="#f0043" n="28"/>
+            	<lb n="N001"/>so äusserst wichtige mittlere gleichschwebende Temperatur besonders hervorheben zu müssen
+				<lb n="N002"/>geglaubt. —
+            </p>
+            <p>
+				<lb n="N001"/>§ 15.
+				<lb n="N002"/>Fragen wir nun, wie sich die musikalische Theorie der unendlichen Vielheit der akusti¬
+				<lb n="N003"/>schen Bestimmungen gegenüber verhalten hat und ob sie einem oder dem andern der zuletzt
+				<lb n="N004"/>bezeichneten, zu vereinfachten, aber von der akustischen Reinheit mehr oder weniger abweichen¬
+				<lb n="N005"/>den Tonsystemen führenden Wege gefolgt ist, so haben wir zunächst nur zu erwähnen, dass in
+				<lb n="N006"/>manchen theoretischen Werken die, wie wir oben sahen, musikalisch ganz ungenügende Auswahl
+				<lb n="N007"/>der einfachsten Verhältnisse für 21 Töne als unzweifelhafte akustische Grundlage angenommen
+				<lb n="N008"/>wird, dann aber natürlich ohne allen Zusammenhang und Einfluss auf die weitere, eigentlich
+				<lb n="N009"/>musikalische Lehre bleibt. Es bietet dieses als ein durchaus unkritisches zu bezeichnende Ver¬
+				<lb n="N010"/>fahren gar kein weiteres Interesse; daher wir es eben nur erwähnen. —
+			</p>
+            <p>
+				<lb n="N001"/>Bei anderen Theoretikern findet man eine Ueberschätzung der mittleren gleichschweben¬
+				<lb n="N002"/>den Temperatur; sie betrachten deren Tonbestimmungen als die allgemein maassgebenden für
+				<lb n="N003"/>unsere Musik und behaupten demnach die durchgängige Gleichheit der auf den Tasteninstru¬
+				<lb n="N004"/>menten zusammenfallenden Töne für die musikalische Praxis und Theorie, so dass also gar kein
+				<lb n="N005"/>Unterschied zwischen den Intervallen I♯ und kl. II (<hi rendition="#i">c—cis</hi> und <hi rendition="#i">c—des</hi>), IV♯ und V♭ (<hi rendition="#i">c—fis</hi>
+				<lb n="N006"/>und <hi rendition="#i">c—ges</hi>), gr. III und IV♭ (<hi rendition="#i">c—e</hi> und <hi rendition="#i">c—fes</hi>) u. s. w. stattfinden soll <note type="remarkSource" n="*)"><lb n="N001"/>Man vergleiche z. B. <persName>A. B. <hi rendition="#g">Marx</hi></persName>, , pag. 41; <persName>desselben</persName> , Bd. I, pag. 24.
+				<lb n="N002"/>Charakteristisch ist auch der Ausspruch von <hi rendition="#g"><persName>Spohr</persName></hi> auf pag. 3 seiner : „Unter reiner Intonation wird
+				<lb n="N003"/>natürlich die der gleichschwebenden Temperatur verstanden, da es für moderne Musik keine andere giebt. Der
+				<lb n="N004"/>angehende Geiger braucht auch nur diese eine zu kennen; es ist deshalb in dieser Schule von einer ungleich¬
+				<lb n="N005"/>schwebenden Temperatur eben so wenig die Rede, wie von kleinen und grossen halben Tönen, weil durch beides
+				<lb n="N006"/>die Lehre von der völlig gleichen Grösse aller 12 halben Töne nur in Verwirrung gebracht wird.”</note>. Indem sie sich aber
+				<lb n="N007"/>so aus dem unsicheren Labyrinth der mannichfachen Tonbestimmungen nach akustisch reinen
+				<lb n="N008"/>Verhältnissen ganz in die behagliche Beschränktheit dieser temperirten zurückziehen, ignoriren
+				<lb n="N009"/>sie den Unterschied, welcher bei freier Intonation, also im Gesang und auf den Streichinstru¬
+				<lb n="N010"/>menten, thatsächlich zwischen I♯ und kl. II, IV♯ und V♭ etc. gemacht wird, also nicht nur auf
+				<lb n="N011"/>dem Papier, in der Notenschrift, existirt, und überschätzen daher in der That eine Temperatur,
+				<lb n="N012"/>die nur aus dem practischen Bedürfniss möglichster Vereinfachung des Tonsystems für Instru¬
+				<lb n="N013"/>mente mit gebundener Intonation entsprungen ist. Wir fügen nur noch hinzu, dass diese Ansicht
+				<lb n="N014"/>durch den Widerspruch, in welchem sie zur Notenschrift steht, einerseits zu der verwirrenden
+				<lb n="N015"/>Lehre von der Mehrdeutigkeit der Töne führt, andererseits wohl dazu geeignet ist, Versuche
+				<lb n="N016"/>einer Vereinfachung der musikalischen Notation hervorzurufen, wie sie in neuester Zeit wirklich
+				<lb n="N017"/>aufgetaucht sind. —
+			</p>
+         <pb facs="#f0044" n="29"/>
+            <p>
+				<lb n="N001"/>§ 16.
+				<lb n="N002"/>Die Unvereinbarkeit der akustisch reinen Verhältnisse zu einem musikalisch brauchbaren
+				<lb n="N003"/>System festbestimmter Töne hat wohl auch die von einigen musikalischen Schriftstellern vertre¬
+				<lb n="N004"/>tene Ansicht hervorgerufen, dass überhaupt die Anwendung der Mathematik auf die Musik gar
+				<lb n="N005"/>nicht statthaft sei und in Wahrheit gar kein Zusammenhang zwischen beiden bestehe, eine An¬
+				<lb n="N006"/>sicht, welche <date>im Alterthum</date> schon von <hi rendition="#g"><persName>Aristoxenus</persName></hi> ausgesprochen worden ist, den vielleicht
+				<lb n="N007"/>von den Thatsachen der Erfahrung gar zu wenig Notiz nehmende arithmetisch-musikalische
+				<lb n="N008"/>Speculationen der  dazu veranlasst haben mochten. Wir finden dieselbe in der von
+				<lb n="N009"/><persName>R. G. <hi rendition="#g">Kiesewetter</hi></persName> herausgegebenen Schrift: „
+				<lb n="N010"/> ” (<placeName ref="#L0022">Leipzig</placeName>
+				<lb n="N011"/><date when="1846">1846</date>), sehr entschieden durch <persName>D. <hi rendition="#g">Ant</hi>. <hi rendition="#g">Eximeno</hi></persName><note type="remarkSource" n="*)"><lb n="N001"/>Im Cap. II seiner Schrift: „<hi rendition="#i"/>” etc. (<date when="1774">1774</date>), dessen Uebersetzung
+				<lb n="N002"/><hi rendition="#g"><persName>Kiesewetter</persName></hi> den übrigen Abhandlungen vorangehen lässt.</note>, <persName>Fr. v. <hi rendition="#g">Drieberg</hi></persName>, <hi rendition="#g"><persName>Joseph Krieger</persName></hi>
+				<lb n="N012"/>und den <persName>Herausgeber</persName> selbst vertreten. Die von <hi rendition="#g"><persName>Eximeno</persName></hi> gegen die Anwendung der einfachen
+				<lb n="N013"/>Zahlenreihe zur Entwickelung der Tonverhältnisse und gegen die Meinung, dass die möglichste
+				<lb n="N014"/>Einfachheit dieser letzteren überhaupt Bedingung der Consonanz sei, erhobenen Bedenken sind
+				<lb n="N015"/>allerdings nicht ungegründet, und sein Ausspruch, dass es thöricht sei, zu glauben, es habe die
+				<lb n="N016"/>Natur die Musik in gewissen Verhältnissen begründet, welche sie uns aber zu verrücken zwänge,
+				<lb n="N017"/>so oft wir singen oder spielen wollen, möchte von denen beherzigt werden, welche die Temperatur
+				<lb n="N018"/>der Tasteninstrumente zum allein maassgebenden Tonsystem der modernen Musik erheben wol¬
+				<lb n="N019"/>len. Auch scheint er das richtige Gefühl zu haben, dass die Unterschiede der relativen Schwin¬
+				<lb n="N020"/>gungszahlen nicht den vom Ohr vernommenen Höhendifferenzen proportional sind, wenn er
+				<lb n="N021"/>meint, die Saiten in der Musik seien zwar geeignet ein Gegenstand vergleichender Verhältnisse
+				<lb n="N022"/>zu werden, das Vorstellungsvermögen aber wende die Ausdehnung derselben irriger Weise auf
+				<lb n="N023"/>die Klänge und die durch sie hervorgebrachten Eindrücke unmittelbar an; doch geht er viel zu
+				<lb n="N024"/>weit, wenn er daraus die Untauglichkeit aller mathematischen Bestimmungen überhaupt für die
+				<lb n="N025"/>Musik folgert. <hi rendition="#g"><persName>Kiesewetter</persName></hi> und die beiden andern oben genannten <persName>Schriftsteller</persName> greifen die
+				<lb n="N026"/>Verhältnissbestimmungen 3:2 und 4:3 deshalb an, weil die 12<hi rendition="#sup">te</hi> Quinte eines Tones dadurch
+				<lb n="N027"/>höher, die 12<hi rendition="#sup">te</hi> Quarte tiefer zu liegen komme, als seine 7<hi rendition="#sup">te</hi> Octave, was ja doch bei reiner Stim¬
+				<lb n="N028"/>mung nicht der Fall sein dürfe. Der Grundirrthum hierbei ist, dass sie gar keine richtigen
+				<lb n="N029"/>Quinten- und Quarten-Cirkel aufstellen, sondern in jedem den Fortgang der reinen Intervalle
+				<lb n="N030"/>durch eine enharmonische Verwechselung unterbrechen. Sie zeigen sich demnach als entschie¬
+				<lb n="N031"/>dene Anhänger einer, die Temperatur der Tasteninstrumente (welche sie nur eben nicht als
+				<lb n="N032"/>solche, sondern als natürliches, einzig reines Tonsystem betrachtet wissen wollen) überschätzen¬
+				<lb n="N033"/>den Theorie<note type="remarkSource" n="**)"><lb n="N001"/>So sagt z. B. <hi rendition="#g"><persName>Kiesewetter</persName></hi>: „Der Halbton der Klaviere ist kein temperirter; er ist der einzige natür¬
+				<lb n="N002"/>liche Mittelton, den auch alle anderen Instrumente dafür anerkennen.” Das jeweilige Höhernehmen der mit ♯ und
+				<lb n="N003"/>Tiefernehmen der mit ♭ versehenen Töne vom Sänger und Violinisten soll nur eine „zufällige Schattirung” sein. —</note>, nach welcher eine reine Quinte und eine verminderte Sexte, eine reine Quarte
+            	<pb facs="#f0045" n="30"/>
+            	<lb n="N001"/>und eine übermässige Terz ganz dasselbe sind, und die Zeichen ♯ und ♭ nur für die Notirung eine
+				<lb n="N002"/>Bedeutung haben. Das in der Abhandlung <persName>v. <hi rendition="#g">Drieberg</hi>’s</persName> (pag. 31) sich ausserdem noch findende
+				<lb n="N003"/>seltsame Argument gegen die Richtigkeit des reinen Quinten- und Quarten-Verhältnisses beruht
+				<lb n="N004"/>einfach auf einem Uebersehen des Unterschiedes zwischen auf- und ab-steigenden Intervallen,
+				<lb n="N005"/>und die Behauptung <persName>J. <hi rendition="#g">Krieger</hi>’s</persName>, dass die mathematische Theorie ihrem Grundsatze: „die
+				<lb n="N006"/>Schwingungszahlen der Töne verhalten sich umgekehrt, wie ihre Saitenlängen” durch einen
+				<lb n="N007"/>zweiten Satz: „die Anzahl der Schwingungen verhalte sich umgekehrt, wie die <hi rendition="#g">Quadrate</hi> der
+				<lb n="N008"/>Längen der schwingenden Körper selbst”, widerspreche, erweist sich als eine irrige, da bekannt¬
+				<lb n="N009"/>lich dieser zweite Satz nur für die Transversalschwingungen von Stäben gilt, also mit jenem
+				<lb n="N010"/>ersten, sich nur auf schwingende Saiten beziehenden keineswegs collidirt. —
+            </p>
+            <p>
+				<lb n="N001"/>Vergegenwärtigen wir uns also nochmals das bisher betrachtete Verhalten musikalischer
+				<lb n="N002"/>Theoretiker gegenüber den reinen akustischen Bestimmungen der Tonverhältnisse. Es wurde
+				<lb n="N003"/>theils eine Auswahl der einfachsten dieser Bestimmungen für die gebräuchlicheren Töne als un¬
+				<lb n="N004"/>zweifelhaft feststehend angenommen, theils beseitigte man sie ganz und schloss sich entweder
+				<lb n="N005"/>dem bequemeren Tonsystem der mittleren gleichschwebenden Temperatur an, welches man somit
+				<lb n="N006"/>zum maassgebenden für die gesammte practische und theoretische Musik erhob, oder erklärte sich
+				<lb n="N007"/>überhaupt gegen alle Anwendung mathematischer Bestimmungen auf musikalischem Gebiete
+				<lb n="N008"/>und übertrug dem Ohr allein die Feststellung reiner Intervalle, ohne sich dabei über eine ganz
+				<lb n="N009"/>der Temperatur der Tasteninstrumente entsprechende Auffassung der Tonverhältnisse erheben
+				<lb n="N010"/>zu können. —
+			</p>
+            <p>
+				<lb n="N001"/>§ 17.
+				<lb n="N002"/>In einer der vorzüglichsten Schriften auf musikalisch-akustischem Gebiete, in <persName>F. W. <hi rendition="#g">Opelt</hi>’s</persName>
+				<lb n="N003"/>„” (<placeName ref="#L0022">Leipzig</placeName><date when="1852">1852</date>), wird die 19-stufige gleichschwebende Tempe¬
+				<lb n="N004"/>ratur als die der musikalischen Notation zu Grunde liegende bezeichnet. Nachdem nämlich
+				<lb n="N005"/><hi rendition="#g"><persName>Opelt</persName></hi> die Nothwendigkeit einer Temperatur durch die musikalische Grundforderung genauer
+				<lb n="N006"/>Uebereinstimmung aller Dur- wie Moll-Scalen begründet hat, stellt er (im § 86) den Satz auf,
+				<lb n="N007"/>dass für ein gleichschwebendes, practisch ausführbares Tonsystem einzig nur die Temperaturen
+				<lb n="N008"/>von 12 und 19 gleichen Stufen zulässig seien. Wir möchten denselben nur für die Instrumente
+				<lb n="N009"/>mit gebundener Intonation, aber auch hier blos in Bezug auf die 12-stufige Temperatur gelten
+				<lb n="N010"/>lassen. Die 19-stufige, deren Quintenintervall <formula notation="TeX">$q=\frac{11}{19}$</formula>, wird von <hi rendition="#g"><persName>Opelt</persName></hi>, wie es uns scheint,
+				<lb n="N011"/>überschätzt, wenn er sagt, dieselbe könne als erläuternde Grundlage unserer musikalischen
+				<lb n="N012"/>Orthographie dienen, und man könne sich an ihr die Natur der feineren enharmonischen Ueber¬
+				<lb n="N013"/>gänge deutlicher versinnlichen, als an der enharmonischen Tonleiter. Die Intervalle und die
+				<lb n="N014"/>ihnen entsprechenden Töne sind nämlich in dieser Temperatur folgende:
+            	<pb facs="#f0047" n="32"/>
+            	<lb n="N001"/>einfachen, von einander unabhängigen Fundamentalbestimmungen der gesammten Harmonik
+				<lb n="N002"/>anerkennt, einzig würdige Verfahren, den aus solcher Annahme sich ergebenden mehrfachen
+				<lb n="N003"/>Bestimmungen der Töne auch für die Harmonielehre eine wirkliche Bedeutung zu verschaffen
+				<lb n="N004"/>und derselben kein irgend wie beschränktes oder temperirtes Tonsystem zu Grunde zu legen.
+				<lb n="N005"/>Daher geht denn auch <hi rendition="#g"><persName>Hauptmann</persName></hi> in der Unterscheidung der Töne über die Notenschrift
+				<lb n="N006"/>hinaus; er bezeichnet je zwei im Verhältniss 81:80 stehende mit verschiedenen Buchstaben<note type="remarkSource" n="*)"><lb n="N001"/>Man vergleiche pag. 11 der .</note>,
+				<lb n="N007"/>z. B. die Quinte des <hi rendition="#i">A</hi> dur-Dreiklanges mit <hi rendition="#i">E</hi>, die Terz in <hi rendition="#i">C</hi> dur dagegen mit <hi rendition="#i">e</hi>, die Quinte in
+				<lb n="N008"/><hi rendition="#i">G</hi> dur und die kleine Terz in <hi rendition="#i">h</hi> moll mit <hi rendition="#i">D</hi>, die grosse Terz in <hi rendition="#i">B</hi> dur und die Quinte in <hi rendition="#i">g</hi> moll
+				<lb n="N009"/>mit <hi rendition="#i">d</hi>, u. s. w. Das ganze Tonsystem wäre bei strengem Festhalten dieser Unterscheidung in
+				<lb n="N010"/>folgender nach beiden Seiten unendlichen Reihe von Dreiklängen enthalten:
+            	
+            	<lb n="N001"/>oder, wenn man die Dreiklänge sondert:
+            	
+			</p>
+            <p>
+				<lb n="N001"/>Es scheint daher eigentlich nicht zulässig, den Mollaccord auch: <hi rendition="#i">C es G</hi>, <hi rendition="#i">F as C</hi> etc.,
+				<lb n="N002"/>sowie den Duraccord: <hi rendition="#i">as C es</hi>, <hi rendition="#i">es G b</hi> etc. zu schreiben, wie es in <persName><hi rendition="#g">Hauptmann</hi>'s</persName> 
+				<lb n="N003"/>häufig der Fall ist. Denn, da <hi rendition="#i">C</hi>:<hi rendition="#i">es</hi> &lt; <hi rendition="#i">c</hi>:<hi rendition="#i">Es</hi> = <hi rendition="#i">a</hi>:<hi rendition="#i">C</hi> und <hi rendition="#i">es</hi>:<hi rendition="#i">G</hi> &gt; <hi rendition="#i">Es</hi>:<hi rendition="#i">g</hi> = <hi rendition="#i">C</hi>:<hi rendition="#i">e</hi>, so ist der
+				<lb n="N004"/>Mollaccord<hi rendition="#i">C es G</hi> in seinen Verhältnissen ganz verschieden von dem <hi rendition="#i">a C e</hi>; ebenso stimmt, weil
+				<lb n="N005"/><hi rendition="#i">es</hi>:<hi rendition="#i">G</hi> &gt; <hi rendition="#i">C</hi>:<hi rendition="#i">e</hi> und <hi rendition="#i">G</hi>:<hi rendition="#i">b</hi> &lt; <hi rendition="#i">e</hi>:<hi rendition="#i">G</hi>, der Durdreiklang<hi rendition="#i">es G b</hi> nicht überein mit dem normalen
+				<lb n="N006"/><hi rendition="#i">C e G</hi>. Man muss daher, um die Bezeichnungsweise <persName><hi rendition="#g">Hauptmann</hi>'s</persName> nicht misszuverstehen,
+				<lb n="N007"/>den von ihm mit kleinen Buchstaben geschriebenen Tönen nicht blos einerlei akustischen Werth
+				<lb n="N008"/>beilegen, sondern man hat die <hi rendition="#g">grossen</hi> Terzen der gross geschriebenen Töne (welche in Moll¬
+				<lb n="N009"/>accorden als Grundtöne und Quinten auftreten) von den <hi rendition="#g">kleinen</hi> Terzen derselben zu unter¬
+				<lb n="N010"/>scheiden, welche in Duraccorden Grundtöne und Quinten werden können. Letztere sind die
+				<lb n="N011"/>Töne des von uns oben (in § 6) mit aufgeführten dritten Quintensystems, welche wir dort durch
+				<pb facs="#f0048" n="33"/>
+            	<lb n="N001"/>verschiedene Bezeichnung von jenen grossen Terz-Tönen gesondert haben. Es wird sich weiter
+				<lb n="N002"/>unten Gelegenheit bieten, das System <persName><hi rendition="#g">Hauptmann</hi>'s</persName> noch näher zu besprechen; daher wir das¬
+				<lb n="N003"/>selbe jetzt verlassen wollen. —
+            </p>
+            <p>
+				<lb n="N001"/>§ 19.
+				<lb n="N002"/>Die bereits öfters von uns genannte Abhandlung von <hi rendition="#g"><persName>Drobisch</persName></hi> „
+				<lb n="N003"/> ” hat auf musikalisch-akustischem Gebiet eine solche Klarheit
+				<lb n="N004"/>verbreitet und so viele bisher bestehende Irrthümer gründlich widerlegt und berichtigt, dass man
+				<lb n="N005"/>sie unbedingt als die bedeutendste Schrift, welche in neuerer Zeit über diesen Gegenstand er¬
+				<lb n="N006"/>schienen ist, bezeichnen muss. Bei den reichhaltigen Untersuchungen über die verschiedenen
+				<lb n="N007"/>Temperaturen und der Beurtheilung des musikalischen Werthes derselben hat sich aber die Be¬
+				<lb n="N008"/>rücksichtigung als ganz besonders fruchtbringend für die musikalische Akustik erwiesen, welche
+				<lb n="N009"/><hi rendition="#g"><persName>Drobisch</persName></hi> der freien Intonation, wie sie auf den Streichinstrumenten stattfindet, hat wider¬
+				<lb n="N010"/>fahren lassen. Dass nämlich in derselben die Töne<hi rendition="#i">fis</hi>, <hi rendition="#i">cis</hi>, <hi rendition="#i">gis</hi> etc. durchgängig höher liegen, als
+				<lb n="N011"/><hi rendition="#i">ges</hi>, <hi rendition="#i">des</hi>, <hi rendition="#i">as</hi> etc., eine Thatsache, auf welche schon <hi rendition="#g"><persName>Herbart</persName></hi> nachdrücklich hingewiesen hatte<note type="remarkSource" n="*)"><lb n="N001"/>Im §. 89 seiner Abhandlung „” (psycholog. Untersuchungen, Heft I; Werke, heraus¬
+				<lb n="N002"/>gegeben von <hi rendition="#g">Hartenstein</hi>, Bd. 7), einem Versuch, die mathematische Psychologie auf die Tonverhältnisse
+				<lb n="N003"/>anzuwenden, welcher wegen seines ganz esoterischen Charakters auch von musikalischen Theoretikern vielleicht
+				<lb n="N004"/>nur wenig beachtet worden ist. Das neuerdings von <hi rendition="#g"><persName>Zamminer</persName></hi> in seinem bereits pag. 2 von uns citirten 
+				<lb n="N005"/>(pag. 144) über diese <persName><hi rendition="#g">Herbart</hi>'s</persName> gefällte Urtheil zeigt weder von richtigem Verständniss derselben, noch
+				<lb n="N006"/>ist es in einem, dem bedeutenden Philosophen gegenüber angemessenen Tone abgefasst. Es sei nur bemerkt, dass
+				<lb n="N007"/><hi rendition="#g"><persName>Herbart</persName></hi> weder von „einem Consoniren in Liebe”, noch von einem „Gemüth der Quinte, in welchem die Feind¬
+				<lb n="N008"/>schaft eben noch der Liebe Herr geworden”, und ähnlichen seltsamen, von <hi rendition="#g"><persName>Zamminer</persName></hi> berichteten Dingen
+				<lb n="N009"/>spricht, und dass seine Untersuchungen, wenn sie auch noch nicht zu ganz befriedigenden Resultaten geführt
+				<lb n="N010"/>haben, doch keineswegs für „philosophische Seifenblasen” zu erklären sein dürften. Zu klarem Verständniss und
+				<lb n="N011"/>richtiger Würdigung derselben gelangt man am Besten durch das Studium der Abhandlung <persName><hi rendition="#g">Drobisch</hi>’s</persName> 
+				<lb n="N012"/>  (Abhandlungen, herausgegeben von der fürstl. Jablo¬
+				<lb n="N013"/>nowski'schen Gesellschaft, <placeName ref="#L0022">Leipzig</placeName><date when="1846">1846</date>).</note>,
+				<lb n="N012"/>war ja in den musikalisch-theoretischen Schriften bisher merkwürdiger Weise theils in Abrede
+				<lb n="N013"/>gestellt, theils ignorirt, theils wenigstens nicht für so wichtig erachtet worden, als es wirklich
+				<lb n="N014"/>ist. Indem nun <hi rendition="#g"><persName>Drobisch</persName></hi> auf diese Thatsache das gebührende Gewicht legte, musste er den¬
+				<lb n="N015"/>jenigen gleichschwebenden Temperaturen, in welchen die Lage der Töne jener Intonation ent¬
+				<lb n="N016"/>spricht, den Vorzug vor denen mit entgegengesetzter Lage geben, und die 12-stufige Temperatur,
+				<lb n="N017"/>in welcher <hi rendition="#i">fis</hi> = <hi rendition="#i">ges</hi> etc., gewann somit die Bedeutung einer mittleren, wie wir sie oben (§ 14)
+				<lb n="N018"/>charakterisirt haben; zugleich aber war es entschieden, auf welcher Seite von dieser Grenzscheide
+				<lb n="N019"/>die musikalisch brauchbareren Tonsysteme gelegen seien. Die 53-stufige Temperatur, in welcher
+				<lb n="N020"/><formula notation="TeX">$q=\frac{31}{53}$</formula>, wird daher von <hi rendition="#g"><persName>Drobisch</persName></hi> (§ 56) sehr richtig als diejenige bezeichnet, welcher sich die
+				<lb n="N021"/>freie Intonation auf den Streichinstrumenten wohl sehr nahe anschliesse. Es stimmt aber diese
+				<lb n="N022"/>Temperatur fast genau (nämlich noch in den Tausendtheilen der Intervallwerthe) mit dem alten,
+				<lb n="N023"/><hi rendition="#g">pythagoreischen Tonsystem</hi> überein, welches bis in's <date>16. Jahrhundert</date> das herrschende
+				<lb n="N024"/>war und erst durch die von <persName>Zarlino</persName> eingeführte sogenannte reine grosse Terz (5:4) verdrängt
+				<pb facs="#f0049" n="34"/>
+            	<lb n="N001"/>wurde; daher hat Dr. <persName>J. N. <hi rendition="#g">Möhring</hi></persName> in einer kleinen Schrift: „”, dieses
+				<lb n="N002"/>System, welches wir schon oben (§ 12) als „reines Quintensystem” kennen gelernt haben, geradezu
+				<lb n="N003"/>als das für die practische Musik allein taugliche bezeichnet. Er gründet die Nothwendigkeit,
+				<lb n="N004"/>entweder die Quinte von der grossen Terz, oder diese von der Quinte abhängig zu bestimmen,
+				<lb n="N005"/>darauf, dass aus der von grossen und kleinen Terzen gebildeten Fortschreitung durch 2 Octaven,
+				<lb n="N006"/>wie: <hi rendition="#i">CEGHD</hi><hi rendition="#sup">1</hi><hi rendition="#i">F</hi><hi rendition="#sup">2</hi><hi rendition="#i">A</hi><hi rendition="#sup">1</hi><hi rendition="#i">C</hi><hi rendition="#sup">2</hi><note type="remarkSource" n="*)"><lb n="N001"/>Wir möchten hierzu nur beiläufig bemerken, dass eine streng an den reinen akustischen Bestimmungen
+				<lb n="N002"/>festhaltende Theorie diese Reihe gar nicht als eine nur aus grossen und kleinen Terzen bestehende anerkennen
+				<lb n="N003"/>würde; denn, könnte man einwenden, nach <hi rendition="#i">D</hi> wird nothwendig nicht dessen kleine Terz (<hi rendition="#i">f</hi>), sondern die reine
+				<lb n="N004"/>kleine Septime des in den vorhergehenden Tönen enthaltenen <hi rendition="#i">G</hi> dur-Dreiklangs folgen müssen, und dann schliesst
+				<lb n="N005"/>auch die Reihe richtig mit der zweiten Octave von <hi rendition="#i">C</hi>:
+            	
+				<lb n="N001"/>Es würde daher für den vorliegenden Zweck etwa folgender Reihe der Vorzug zu geben sein:
+				
+				<lb n="N001"/>Hier kommt kein Duraccord mit kleiner Septime vor; die Reihe muss als eine in reinen grossen und kleinen Terzen
+				<lb n="N002"/>fortschreitende unbedingt anerkannt werden, und es ergiebt sich aus ihr, dass <formula notation="TeX">$(\frac{5}{4})^3.(\frac{6}{5})^4&gt;2^2$</formula> ist.</note>, unbedingt die Gleichheit von 3 grossen und 4 kleinen Terzen mit dem
+				<lb n="N007"/>Intervall von 2 Octaven folge; nun sei aber <formula notation="TeX">$(\frac{5}{4})^3.(\frac{6}{5})^4&gt;2^2$</formula>, daher müsse entweder die relative
+				<lb n="N008"/>Schwingungszahl der kleinen Terz <formula notation="TeX">$=\frac{4}{5}.\sqrt[4]{5}$</formula> und folglich die der Quinte <formula notation="TeX">$=\sqrt[4]{5}$</formula>, oder die der
+				<lb n="N009"/>grossen Terz <formula notation="TeX">$=\frac{81}{64}$</formula> und daher die der kleinen <formula notation="TeX">$=\frac{3}{2}:\frac{81}{64}=\frac{32}{27}$</formula> gesetzt werden. Das erste führt zum
+				<lb n="N010"/>System der reinen grossen Terz (siehe § 11), das zweite zu dem pythagoreischen oder reinen
+				<lb n="N011"/>Quinten-System. <hi rendition="#g"><persName>Möhring</persName></hi> giebt nun diesem letzteren entschieden den Vorzug, da in ihm die
+				<lb n="N012"/>Lage der erhöhten und erniedrigten Töne ganz der freien Intonation auf den Streichinstrumenten
+				<lb n="N013"/>entspreche, was er aus den Resultaten der mit Herrn Musikdirector<hi rendition="#g"><persName>Meyer</persName></hi> wiederholt auf dem
+				<lb n="N014"/>Contrabass angestellten Versuche nachweist, welche ganz entschieden zu Gunsten des reinen
+				<lb n="N015"/>Quintensystemes ausfielen. Diese Versuche sind deshalb von grossem Werth, weil bisher nur im
+				<lb n="N016"/>Allgemeinen als ausgemachte Sache gelten konnte, dass bei freier Intonation überhaupt <hi rendition="#i">cis</hi>, <hi rendition="#i">dis</hi>
+				<lb n="N017"/>etc. höher sei, als <hi rendition="#i">des</hi>, <hi rendition="#i">es</hi> etc., aber noch gar nicht bestimmt war, wieviel höher, man also eben¬
+				<lb n="N018"/>so gut jedes zwischen der mittleren 12-stufigen Temperatur und dem reinen Quintensystem ge¬
+				<lb n="N019"/>legene temperirte System als das jener Intonation zu Grunde liegende ansehen konnte, während
+				<lb n="N020"/>nun genaue und zuverlässige Messungen auf das Bestimmteste für das der reinen Quint sprechen,
+				<lb n="N021"/>und damit jede Temperatur, ausser der für die Tasteninstrumente unentbehrlichen 12-stufigen,
+				<lb n="N022"/>von der Bedeutung eines in Wirklichkeit consequent befolgten Systems ausgeschlossen ist. —
+				<lb n="N023"/>Nach sorgfältiger Prüfung und Vergleichung der wichtigsten überhaupt in Frage kommenden
+				<lb n="N024"/>Tonsysteme, als: des pythagoreischen, des deutschen, des französischen, des von <hi rendition="#g"><persName>Delezenne</persName></hi>
+				<lb n="N025"/>aufgestellten und des Systemes der reinen grossen Terz, erklärt sich <hi rendition="#g"><persName>Drobisch</persName></hi> in seinen „
+				<lb n="N026"/> ” (<placeName ref="#L0022">Leipzig</placeName><date when="1855">1855</date>) ebenfalls ganz entschieden
+				<pb facs="#f0050" n="35"/>
+            	<lb n="N001"/>für das reine Quintensystem<note type="remarkSource" n="*)"><lb n="N001"/>Recht treffend ist auch der einfache Beweis für dasselbe, welchen <hi rendition="#g"><persName>Möhring</persName></hi> in einer brieflichen Mit¬
+				<lb n="N002"/>theilung an <hi rendition="#g"><persName>Drobisch</persName></hi> erwähnt (man vergleiche des Letzteren „”). Es ist nur dabei nöthig, solche Bei¬
+				<lb n="N003"/>spiele zu wählen, in denen bei gewöhnlicher Applicatur auch die höhere Saite<hi rendition="#g">wirklich leer</hi> genommen werden
+				<lb n="N004"/>muss. Hätten z. B. 3 rein in Quinten zusammen eingestimmte Violinen Folgendes auszuführen:
+				<figure type="notatedMusic"/>
+				<lb n="N001"/>so würde bei der Empfindlichkeit des Ohres gegen unreine Octaven der erste Violinist den Ton <hi rendition="#i">g</hi><hi rendition="#sub">2</hi>, nothwendig in
+				<lb n="N002"/>möglichst vollkommener Uebereinstimmung mit dem <hi rendition="#i">g</hi> der leeren Saite greifen, und so entsteht, indem zugleich
+				<lb n="N003"/>die leere Saite <hi rendition="#i">e</hi><hi rendition="#sub">2</hi>, als unabänderliche reine dritte Quint von <hi rendition="#i">g</hi> ertönt, eine kleine Terz mit dem Verhältniss 32:27,
+				<lb n="N004"/>anstatt 6:5. Ebenso würde sich in anderen Fällen beim Zusammenklang von <hi rendition="#i">c</hi>, der tiefsten leeren Saite der
+				<lb n="N005"/>Bratsche, und <hi rendition="#i">c</hi><hi rendition="#sub">2</hi> mit <hi rendition="#i">e</hi><hi rendition="#sub">2</hi>, als leerer Saite, nothwendig die grosse Terz 81:64 und nicht 5:4 ergeben. Solche Fälle
+				<lb n="N006"/>kommen aber in der Musik für Streichinstrumente gar nicht selten vor, und man müsste also geradezu behaupten
+				<lb n="N007"/>wollen, dass dann jedes Mal die Accorde unrein wären, in welchen die leeren Saiten<hi rendition="#i">C</hi> und <hi rendition="#i">A</hi>, <hi rendition="#i">C</hi> und <hi rendition="#i">E</hi>, oder
+				<lb n="N008"/><hi rendition="#i">G</hi> und <hi rendition="#i">E</hi> gleichzeitig erklingen, was doch gar zu paradox sein dürfte. —</note>; <persName>er</persName> stellt () als das Endergebniss aller in seiner 
+				<lb n="N002"/> , sowie in diesen „” enthaltenen Untersuchungen folgenden Satz hin:
+				<lb n="N003"/>„Die von <hi rendition="#g"><persName>Zarlino</persName></hi> begründete und von den Akustikern anerkannte diatonische Tonleiter mit
+				<lb n="N004"/>der grossen Terz <formula notation="TeX">$\frac{5}{4}$</formula>, der grossen Sexte <formula notation="TeX">$\frac{5}{3}$</formula> und der grossen Septime <formula notation="TeX">$\frac{15}{8}$</formula> kann für unsere heutige
+				<lb n="N005"/>Musik nicht als maassgebend, sondern nur als exceptionell gelten, und alle darauf gebaute Sy¬
+				<lb n="N006"/>steme der 21 bräuchlichen Töne sind für diese Musik weder in theoretischer, noch in practischer
+				<lb n="N007"/>Beziehung brauchbar; das normative System derselben ist vielmehr das reine Quintensystem, also
+				<lb n="N008"/>das alte pythagoreische.”
+            </p>
+            <p>
+				<lb n="N001"/>Mit einer kurzen, aber gehaltvollen Begründung dieses Satzes schliesst <hi rendition="#g"><persName>Drobisch</persName></hi> seine
+				<lb n="N002"/>Erörterungen. —
+			</p>
+            <p>
+				<lb n="N001"/>Nachdem wir bis zu diesem neuesten, von einer wahrhaft wissenschaftlichen Forschung
+				<lb n="N002"/>auf musikalisch-akustischem Gebiete gewonnenen Resultat gelangt sind, wollen wir im folgenden
+				<lb n="N003"/>Abschnitt versuchen, das Verhältniss des pythagoreischen Systems zu den Grundsätzen der musi¬
+				<lb n="N004"/>kalischen Theorie noch näher zu beleuchten und nachzuweisen, wie nur jenes System allein den¬
+				<lb n="N005"/>selben entspricht, und daher mit seiner Wiederannahme Klarheit und logische Folgerichtigkeit
+				<lb n="N006"/>an die Stelle des Dunkels und der Widersprüche treten würden. —
+			</p>
+         </div>
+         <pb facs="#f0051"/>
+         <div type="chapter" n="1">
+            <head>
+				<lb n="N001"/><hi rendition="#b">Dritter Abschnitt.</hi>
+				<lb n="N002"/>Ueber das Verhältniss des pythagoreischen Systemes zu den Grundsätzen
+				<lb n="N003"/>der musikalischen Theorie.
+			</head>
+            <p>
+				<lb n="N001"/>§ 20.
+				<lb n="N002"/>Indem die neue, das reine Quintensystem der <persName>Pythagoreer</persName> wieder aufnehmende Ansicht
+				<lb n="N003"/>von den drei, bisher anerkannten, selbständigen Grundverhältnissen: 2:1, 3:2 und 5:4 das
+				<lb n="N004"/>letzte, seit <hi rendition="#g"><persName>Zarlino</persName></hi> für die grosse Terz geltende wieder aufgiebt und das von dem der Quinte
+				<lb n="N005"/>abgeleitete 81:64 an seine Stelle setzt, tritt sie entschieden in Widerspruch zu dem Satze, dass
+				<lb n="N006"/>das Consoniren oder Dissoniren der Töne mit der grösseren oder geringeren Einfachheit der Ver¬
+				<lb n="N007"/>hältnisse ihrer Schwingungszahlen zusammenhänge (§ 1), welcher noch in neuester Zeit von
+				<lb n="N008"/><hi rendition="#g"><persName>Opelt</persName></hi> und <hi rendition="#g"><persName>Zamminer</persName></hi> (in ihren bereits genannten ) als Grundgesetz der Musik be¬
+				<lb n="N009"/>zeichnet worden ist. Denn es sind die den Terzen und Sexten entsprechenden relativen Schwin¬
+				<lb n="N010"/>gungszahlen<note type="remarkSource" n="*)"><lb n="N001"/>Man vergleiche die Uebersicht in § 6.</note> im pythagoreischen System weniger einfach, als die der grossen Secunde und
+				<lb n="N011"/>kleinen Septime, welche doch bereits dissonante Intervalle sind, die das Verhältniss der Töne
+				<lb n="N012"/>des Dur- wie des Moll-Dreiklangs ausdrückenden Zahlen viel grössere, als nach den bisherigen
+				<lb n="N013"/>akustischen Bestimmungen, und zwar für den ersteren noch grösser, als für den letzteren, wäh¬
+				<lb n="N014"/>rend man das Gegentheil erwarten sollte:
+			</p>
+         
+            <p>
+				<lb n="N001"/>Ebenso ist die allgemeine Form der Dur- und Moll-Tonleiter eine weit weniger einfache
+				<lb n="N002"/>zu nennen, wenn man nämlich Einfachheit nur in der Kleinheit der Verhältnisszahlen sucht:
+			</p>
+         <pb facs="#f0052" n="37"/>
+            
+            <p>
+				<lb n="N001"/>Man kann daher wohl voraussetzen, dass das reine Quintensystem bei denen keinen Bei¬
+				<lb n="N002"/>fall finden werde, welche an jenem Satze festhalten. Ist denn aber die Gültigkeit des letzteren
+				<lb n="N003"/>hinlänglich bewiesen? Wir möchten im Gegentheil meinen, dass der Glaube an dieselbe bedeu¬
+				<lb n="N004"/>tend durch die richtige Erkenntniss erschüttert sein müsste, dass die Intervalle der Töne vom
+				<lb n="N005"/>musikalischen Gehör weder als Differenzen ihrer absoluten, noch ihrer relativen Schwingungs¬
+				<lb n="N006"/>zahlen vernommen werden, sondern den Unterschieden ihrer Logarithmen entsprechen (§ 10).
+				<lb n="N007"/>Denn hiernach scheint die Annahme eines in der Seele unbewusst stattfindenden Vergleichens
+				<lb n="N008"/>jener Schwingungszahlen selbst, deren Verhältniss, je nachdem es leichter oder schwerer aufzu¬
+				<lb n="N009"/>fassen ist, entweder als ein consonirendes, oder als ein dissonirendes wirken soll, nicht mehr
+				<pb facs="#f0053" n="38"/>
+            	<lb n="N001"/>haltbar, sondern es würde beim Erklingen verschiedener Töne zunächst doch wohl auf die Ein¬
+				<lb n="N002"/>fachheit der Differenzen ihrer Intervallwerthe ankommen. Diesen Differenzen kommen aber in
+				<lb n="N003"/>der gemeinen gleichschwebenden Temperatur die einfachsten Zahlenwerthe zu, nämlich: <formula notation="TeX">$\frac{1}{12}$</formula>, <formula notation="TeX">$\frac{1}{6}$</formula>
+				<lb n="N004"/><formula notation="TeX">$\frac{1}{4}$</formula>, <formula notation="TeX">$\frac{1}{3}$</formula>, <formula notation="TeX">$\frac{5}{12}$</formula>, <formula notation="TeX">$\frac{1}{2}$</formula>, <formula notation="TeX">$\frac{7}{12}$</formula>, <formula notation="TeX">$\frac{2}{3}$</formula>, <formula notation="TeX">$\frac{3}{4}$</formula>, <formula notation="TeX">$\frac{5}{6}$</formula> und <formula notation="TeX">$\frac{11}{12}$</formula> des Octavenintervalles, während sie für die nach reinen
+				<lb n="N005"/>akustischen Verhältnissen bestimmten Intervallwerthe, gleich diesen selbst, irrationale Zahlen
+				<lb n="N006"/>sind; man müsste demnach jene temperirten Intervallbestimmungen für die musikalisch befrie¬
+				<lb n="N007"/>digendsten erklären; es zeigt sich hier aber die Unhaltbarkeit jener für die einfachen Zahlen
+				<lb n="N008"/>eingenommenen Theorie deutlich darin, dass die starke Dissonanz der in diesem temperirten
+				<lb n="N009"/>Tonsystem zusammenfallenden übermässigen Quarte und verminderten Quinte gerade den ein¬
+				<lb n="N010"/>fachsten Intervallwerth hat, indem sie genau die Hälfte der Octave ist, der vollkommenen Con¬
+				<lb n="N011"/>sonanz der Quinte dagegen der weniger einfache Werth <formula notation="TeX">$\frac{7}{12}$</formula> entspricht. Die grössere oder geringere
+				<lb n="N012"/>Einfachheit der Schwingungszahlen, sowie der Intervallwerthe, ist daher wohl nicht als die Be¬
+				<lb n="N013"/>dingung des Consonirens oder Dissonirens anzusehen, sondern für diesen musikalisch wichtigsten
+				<lb n="N014"/>Unterschied in der Wirkung der Tonverbindungen gewiss ein anderer, weniger äusserlicher Grund
+				<lb n="N015"/>zu suchen. —
+            </p>
+            <p>
+				<lb n="N001"/>§ 21.
+				<lb n="N002"/>Wir glauben nun, dass man der Lösung dieses schwierigen Problems bei Annahme des
+				<lb n="N003"/>reinen Quintensystems vielleicht noch am nächsten kommen dürfte. Wendet man nämlich dann
+				<lb n="N004"/>die von <hi rendition="#g"><persName>Hauptmann</persName></hi> (pag. 75 der „”) für das Dissoniren der grossen Secunde gegen
+				<lb n="N005"/>den Grundton gegebene harmonische Erklärung (durch einen in widersprechende Bedeutung
+				<lb n="N006"/>tretenden dritten Ton) in ähnlicher Weise auf die Consonanzen und Dissonanzen überhaupt an,
+				<lb n="N007"/>so kommt man auf folgende Betrachtungsweise derselben:
+			</p>
+            
+         <pb facs="#f0054" n="39"/>
+         
+            <p>
+				<lb n="N001"/>Bei der <hi rendition="#g">Octave</hi>, welche wir hier als „Concordanz” bezeichnet haben, ist noch gar kein
+				<lb n="N002"/>dritter Ton vorhanden; der irgend zweifache Bedeutung erhalten könnte; der Zusammenklang
+				<lb n="N003"/>der nächst verwandten, ähnlichen Töne I und VIII ist ein an sich unmittelbar verständlicher
+				<lb n="N004"/>und bedarf keiner Vermittelung durch ein Drittes. In der als „vollkommene Consonanz” be¬
+				<lb n="N005"/>zeichneten <hi rendition="#g">Quinte</hi>, mit welcher der erste vom Grundton wesentlich verschiedene Ton eintritt,
+				<lb n="N006"/>erkennen wir das Intervall des harmonischen Fortschrittes. Die Octave kann für dasselbe als
+				<lb n="N007"/>Beziehungston angesehen werden, welcher die zweifache Bedeutung einer Wiederholung des
+				<lb n="N008"/>Grundtones und eines Grundtones der Quinte erhält; es ist aber diese zweifache Bedeutung
+				<lb n="N009"/>wegen der harmonischen Identität von I und VIII keine widersprechende, und daher das Quin¬
+				<lb n="N010"/>tenintervall ein vollkommen consonantes.
+			</p>
+            <p>
+				<lb n="N001"/>Anders verhält es sich mit der <hi rendition="#g">Quarte</hi> (oder <hi rendition="#g">unteren</hi> Quinte des Grundtones); hier
+				<lb n="N002"/>bekommt die Octave als Beziehungston die Doppelbedeutung einer Wiederholung des Grundtones
+				<lb n="N003"/>und einer Quinte der sich als Grundton geltend machenden Quarte; wir haben dieses Intervall
+				<lb n="N004"/>daher als „unvollkommene Consonanz” bezeichnen zu müssen geglaubt. Es gradezu den Disso¬
+				<lb n="N005"/>nanzen beizuzählen, wie manche Theoretiker gethan haben, scheint uns doch nicht ganz gerecht¬
+				<lb n="N006"/>fertigt; denn die widersprechende Bedeutung der Octave ist keine bleibende, sondern nur eine
+				<lb n="N007"/>momentan auftauchende, indem nun der Grundton sofort auch Quintbedeutung erhält, und die
+				<lb n="N008"/>Quarte somit ganz entschieden Hauptton wird. — Die Zusammenklänge von I und gr. II (<hi rendition="#i">C</hi> und <hi rendition="#i">D</hi>)
+				<lb n="N009"/>und I und kl. VII (<hi rendition="#i">C</hi> und <hi rendition="#i">B</hi>) sind die <hi rendition="#g">ersten</hi> wirklichen <hi rendition="#g">Dissonanzen</hi>. Den Beziehungston
+				<lb n="N010"/>bildet bei der gr. II<hi rendition="#i">G</hi>, die V von <hi rendition="#i">C</hi>, welche nun zugleich Grundton von <hi rendition="#i">D</hi> wird, bei der kl. VII<hi rendition="#i">F</hi>,
+				<lb n="N011"/>der Grundton für <hi rendition="#i">C</hi>, welcher, indem <hi rendition="#i">B</hi> hinzutritt, zugleich die Bedeutung einer Quinte erhält.
+				<lb n="N012"/>Geht man weiter zur 3<hi rendition="#sup">ten</hi> oberen Quinte des Ausgangstones, also zu seiner gr. VI, <hi rendition="#i">A</hi>, so wird <hi rendition="#i">G</hi>
+				<lb n="N013"/>zugleich V und kl. VII (untere gr. II), <hi rendition="#i">D</hi> zugleich gr. II und I. Da nun der Ton<hi rendition="#i">A</hi> mit <hi rendition="#i">C</hi> con¬
+				<lb n="N014"/>sonirt, so muss man annehmen, dass die Zweideutigkeit jener 2 Beziehungstöne sich hier gegen¬
+				<lb n="N015"/>seitig und zwar kreuzweise aufhebe. Analoges würde auch für die untere 3<hi rendition="#sup">te</hi> Quinte, die kl. III,
+				<lb n="N016"/><hi rendition="#i">Es</hi> stattfinden.
+			</p>
+         <pb facs="#f0056" n="41"/>
+            <p>
+				<lb n="N001"/>aber weiterhin (von der VI♯ und III♭ an) keine solche mit beiden consonirende Zwischenquinten
+				<lb n="N002"/>mehr auffinden; die Dissonanzen lösen sich von da an nicht mehr in Consonanzen auf, sondern
+				<lb n="N003"/>in Dissonanzen niederen Grades; sie werden daher musikalisch immer unbrauchbarer. Es scheint
+				<lb n="N004"/>sich dabei eine Art Analogie in den Graden des mehr oder minder guten Zusammenklingens für
+				<lb n="N005"/>folgende Abschnitte der Quintenfortschreitung herauszustellen:
+			</p>
+         
+            <p>
+				<lb n="N001"/>Die Auflösung der 3<hi rendition="#sup">ten</hi> Discordanz führt in die 2<hi rendition="#sup">te</hi>, die der 2<hi rendition="#sup">ten</hi> in die 1<hi rendition="#sup">te</hi> und die der
+				<lb n="N002"/>1<hi rendition="#sup">ten</hi> in eine Dissonanz 1<hi rendition="#sup">ten</hi> (oder auch 2<hi rendition="#sup">ten</hi>) Grades; ebenso lösen sich:
+				<list>
+      		<item>
+      			<lb n="N001"/>die Dissonanzen 4<hi rendition="#sup">ten</hi> Grades in solche des 3<hi rendition="#sup">ten</hi>,
+      		</item>
+      		<item>
+      			<lb n="N002"/>„ „ 3<hi rendition="#sup">ten</hi> „ „ „ „ 2<hi rendition="#sup">ten</hi>,
+      		</item>
+      		<item>
+      			<lb n="N003"/>„ „ 2<hi rendition="#sup">ten</hi> und 1<hi rendition="#sup">ten</hi> Grades in Consonanzen,
+      		</item>
+      	</list>
+            	<lb n="N001"/>wie die folgenden Notenbeispiele zeigen mögen:
+            	<figure type="notatedMusic"/>
+            </p>
+            <p>
+				<lb n="N001"/>Die harmonische Bedeutung jeder Dissonanz richtet sich danach, welcher von beiden
+				<lb n="N002"/>Tönen der eigentlich dissonante ist, d. h. zuerst dem andern weicht; so ist in harmonischem
+           	 <pb facs="#f0057" n="42"/>
+            	<lb n="N001"/>Sinne:  dieselbe Dissonanz der IV♯, dagegen:  lediglich
+				<lb n="N002"/>Dissonanz der V♭. Auf specielle Eigenschaften der verschiedenen Dissonanzen, auf die mannich¬
+				<lb n="N003"/>fachen Modificationen, welche in verschiedener harmonischer Verbindung ihre Auflösungen
+				<lb n="N004"/>betreffen können, auf deren Verzögerung, Uebergehung etc. können wir hier natürlich nicht
+				<lb n="N005"/>eingehen. —
+            </p>
+            <p>
+				<lb n="N001"/>Wir verhehlen uns übrigens keineswegs, dass dieser Versuch, eine Erklärung des Unter¬
+				<lb n="N002"/>schiedes von Consonanz und Dissonanz anzubahnen, nur eine, sichererer Begründung noch sehr
+				<lb n="N003"/>bedürfende Hypothese ist. Es wäre besonders nöthig, volle Klarheit darüber zu erlangen, aus
+				<lb n="N004"/>welchem Grunde manche zweifache harmonische Bedeutungen eines oder zweier Beziehungstöne
+				<lb n="N005"/>sich aufheben, andere dagegen widersprechend bleiben und so Dissonanz hervorrufen. —
+			</p>
+            <p>
+				<lb n="N001"/>§ 22.
+				<lb n="N002"/>Das reine Quintensystem, in welchem die relativen Schwingungszahlen sämmtlicher Töne
+				<lb n="N003"/>eine von dem Grundton (1 = <hi rendition="#i">Q</hi><hi rendition="#sup">0</hi>) nach zwei entgegengesetzten Richtungen, einer positiven und
+				<lb n="N004"/>negativen, in's Unendliche fortlaufende Reihe von Potenzen des Quintverhältnisses (<hi rendition="#i">Q</hi>) bilden,
+				<lb n="N005"/>hat hierdurch den Vorzug des strengsten Zusammenhanges aller seiner Bestimmungen und somit
+				<lb n="N006"/>der <hi rendition="#g">logischen Einfachheit</hi> vor den bisher geltenden, nicht von einheitlicher Wurzel stam¬
+				<lb n="N007"/>menden Tonverhältnissen. Es entspricht auch genau der musikalischen Notation und ihrer in
+				<lb n="N008"/>Quinten fortschreitenden Unterscheidung der Tonarten, kennt daher, wie jene, weder eine wirk¬
+				<lb n="N009"/>liche akustische Verschiedenheit der gr. VI eines Tones von (der tieferen Octave) seiner dritten
+				<lb n="N010"/>oberen Quinte, oder der kl. III von der (2 Octaven erhöhten) dritten unteren Quinte, noch ein
+				<lb n="N011"/>von <hi rendition="#i">Es</hi>-dur, <hi rendition="#i">D</hi>-moll etc. verschiedenes <hi rendition="#i">es</hi>′-dur, <hi rendition="#i">d</hi>-moll u. s. w. Hier ist der Ort, wo wir nochmals
+				<lb n="N012"/>auf die Theorie <persName><hi rendition="#g">Hauptmann</hi>'s</persName> zurückkommen müssen. Indem mit der Wiederaufnahme des
+				<lb n="N013"/>reinen Quintensystems jene mehrfachen akustischen Bestimmungen der in der Notenschrift
+				<lb n="N014"/>gleichbenannten Töne wegfallen, werden die von <hi rendition="#g"><persName>Hauptmann</persName></hi> damit in Verbindung gebrachten
+				<lb n="N015"/>verschiedenen harmonischen Bedeutungen gar nicht wesentlich geändert; für das musikalische
+				<lb n="N016"/>Denken bleiben sie nothwendig verschiedene; man fasst z. B. denselben Ton, <hi rendition="#i">A</hi>, je nachdem er
+				<lb n="N017"/>in dieser oder jener harmonischen Verbindung erscheint, entweder als gr. VI von <hi rendition="#i">C</hi>, oder als V
+				<lb n="N018"/>der gr. II dieses Tones, ebenso denselben Ton<hi rendition="#i">B</hi> entweder als kl. VII von <hi rendition="#i">C</hi>, oder als V seiner
+				<lb n="N019"/>kl. III auf; <hi rendition="#i">A</hi> und <hi rendition="#i">B</hi> bleiben aber in allen harmonischen Verbindungen ihrer Tonhöhe nach
+				<lb n="N020"/>ganz dieselben<note type="remarkSource" n="*)"><lb n="N001"/>Wir sehen hier natürlich von aller zufälligen Nüancirung, von bisweiliger schärferer oder stumpferer
+				<lb n="N002"/>Intonation der Intervalle etc. ab. In der nach idealer Reinheit wohl strebenden, aber sie nie vollständig erreichen¬
+				<lb n="N003"/>den Praxis finden solche kleine Abweichungen nothwendig statt. —</note>; sie machen allerdings einen anderen Effect, je nachdem sie als V, IV, gr. II
+				<lb n="N021"/>und kl. VII, oder als vermittelte Consonanzen (Terzen und Sexten) auftreten; dieser Unterschied
+				<lb n="N022"/>ist aber ein rein geistiger, welcher, um zur Geltung zu kommen, nicht erst des materiellen
+            	<pb facs="#f0058" n="43"/>
+            	<lb n="N001"/>Substrates akustischer Höhendifferenzen bedürfen wird. Die Annahme dieser letzteren hat sich
+				<lb n="N002"/>selbst in dem wegen seines reichen Gehaltes an musikalischen Wahrheiten wahrhaft bewunderns¬
+				<lb n="N003"/>werthen <persName><hi rendition="#g">Hauptmann</hi>'s</persName> bei einzelnen Specialitäten etwas hinderlich erwiesen. Wenn
+				<lb n="N004"/>z. B. (pag. 90) bei Auflösung des Septimenaccordes<hi rendition="#i">c G h D</hi> in den Vorhaltsaccord<hi rendition="#i">e a D</hi> dem
+				<lb n="N005"/>Zusammenklang <hi rendition="#i">D</hi> — <hi rendition="#i">a</hi> für die <hi rendition="#i">C</hi> dur-Tonart Quintbedeutung zugesprochen wird, so scheint dies
+				<lb n="N006"/>nicht vereinbar damit, dass vorher () <hi rendition="#i">D F a</hi> als zur <hi rendition="#i">C</hi> dur-Tonart gehöriger zweiter ver¬
+				<lb n="N007"/>minderter Dreiklang bezeichnet worden ist, weil <hi rendition="#i">D</hi> — <hi rendition="#i">a</hi> ebenso wenig Quint sei, als <hi rendition="#i">h</hi> — <hi rendition="#i">F</hi>. Wir
+				<lb n="N008"/>möchten aber überhaupt den Accord<hi rendition="#i">D F a</hi> wegen seiner grossen Terz <hi rendition="#i">F</hi> — <hi rendition="#i">a</hi> nicht als vermin¬
+				<lb n="N009"/>derten Dreiklang auffassen, welcher doch immer aus gr. III und V eines Duraccords und kl. III
+				<lb n="N010"/>des Mollaccordes auf jener V besteht, also zwei <hi rendition="#g">kleine</hi> Terzen enthalten muss. Mit dem Weg¬
+				<lb n="N011"/>fallen jener akustischen Unterschiede zwischen <hi rendition="#i">D</hi> und <hi rendition="#i">d</hi>, <hi rendition="#i">A</hi> und <hi rendition="#i">a</hi> etc. erhält er aber unzweifel¬
+				<lb n="N012"/>haft die Bedeutung des <hi rendition="#i">D</hi> moll-Dreiklangs, so dass sich das Accordsystem der Tonart <hi rendition="#i">C</hi> dur
+				<lb n="N013"/>folgendermaassen herausstellt:
+            	
+            	<lb n="N001"/>Die Dur-Tonart hätte demnach nur einen verminderten Dreiklang, welcher ihre äussersten
+				<lb n="N002"/>Grenzen vereinigt enthält. Dieselben wirken in ihm zusammenziehend nach der Tonica hin,
+				<lb n="N003"/>eine Wirkung, welche im Accord<hi rendition="#i">D F a</hi> wohl nicht in ähnlicher Weise fühlbar werden dürfte.
+				<lb n="N004"/>— <hi rendition="#g"><persName>Hauptmann</persName></hi> legt aber, obgleich er die akustischen Unterschiede, von denen er ausgegangen
+				<lb n="N005"/>ist, stets beibehält, in der Folge doch ein weit grösseres Gewicht auf die Verschiedenheit der
+				<lb n="N006"/>harmonischen <hi rendition="#g">Bedeutung</hi>; ja er spricht sich über die Nothwendigkeit einer von der akusti¬
+				<lb n="N007"/>schen Reinheit abweichenden, schärferen gr. III und gr. VII und tieferen kl. III und kl. II für
+				<lb n="N008"/>die freie Intonation () in einer Weise aus, welche deutlich zeigt, wie nahe er dem
+				<lb n="N009"/>Gedanken eines gänzlichen Aufgebens der Terzbestimmung 5:4 bereits steht; denn er bezeichnet
+				<lb n="N010"/>das Terzintervall als ein im harmonischen Fortgang bei freier Intonation nothwendig zu alteri¬
+				<lb n="N011"/>rendes, das der Quinte dagegen als ein invariables, stets in vollkommener Reinheit zu intoniren¬
+				<lb n="N012"/>des. Man kann also wohl sagen, dass die theoretische Lehre <persName><hi rendition="#g">Hauptmann</hi>'s</persName><note type="remarkSource" n="*)"><lb n="N001"/>Was die an die Spitze derselben gestellten, der <persName><hi rendition="#g">Hegel</hi>’schen</persName> Denkweise entsprechenden philosophischen
+				<lb n="N002"/>Begriffe anlangt, so scheint es uns, als erschwerten sie nur den Zugang zu dem hier so reichlich fliessenden Quell
+				<lb n="N003"/>musikalisch-theoretischer Belehrung. Für Denjenigen, welcher sich mit der Lehre <persName><hi rendition="#g">Hegel</hi>'s</persName> von der Bewegung der
+				<lb n="N004"/>Begriffe durch die 3 Momente des ununterschiedenen mit sich Eins-seins, des von sich Verschieden-seins und der,
+				<lb n="N005"/>Beides in sich verbunden enthaltenden höheren Einheit nicht befreunden kann, ist es daher mindestens nothwen¬
+				<lb n="N006"/>dig, für jene philosoph. Begriffe analoge, die gewöhnliche Logik nicht übersteigende Gedanken zu substituiren. —</note> im Wesentlichen
+				<lb n="N013"/>sich mit der Annahme des reinen Quintensystems wird vereinigen lassen. Letztere schliesst ja
+				<lb n="N014"/>auch ein exceptionelles Vorkommen der bisherigen gr. III (5:4) und gr. VI (5:3) etc. nicht
+				<lb n="N015"/>absolut aus; denn diese Bestimmungen haben für den Accord in seiner isolirten Einzelheit nichts
+				<lb n="N016"/>Bedenkliches. In folgendem Falle z. B.  würde <hi rendition="#i">E</hi>, die gr. III von <hi rendition="#i">C</hi> (und
+				<lb n="N017"/>gr. VI von <hi rendition="#i">G</hi>) der bisherigen Bestimmung gemäss erklingen können, da kein harmonischer
+				<lb n="N018"/>Fortgang mehr stattfindet, sondern der Dreiklang ruhig austönt. Es ist daher möglich, dass die
+				<pb facs="#f0059" n="44"/>
+            	<lb n="N001"/>gr. III 5:4 bei sanften Schlussaccorden wirklich angewendet wird, und in solchen Fällen etwas
+				<lb n="N002"/>angenehm Beruhigendes für das Ohr hat (im <hi rendition="#i">forte</hi> dürfte wohl die entschiedenere pythagoreische
+				<lb n="N003"/>gr. III 81:64 <note type="remarkSource" n="*)"><lb n="N001"/>Wie man über diese grosse Terz bei Gelegenheit ihres Vorkommens in der <persName><hi rendition="#g">Kirnberger</hi>'schen</persName>Tempe¬
+				<lb n="N002"/>ratur ohne Weiteres abgeurtheilt hat, davon mag nur folgende Aeusserung <persName><hi rendition="#g">Marpurg</hi>’s</persName> (
+				<lb n="N003"/> , § 231) als Beispiel dienen: „Gewiss, mir schaudert das Ohr, wenn ich an das <hi rendition="#i">Es</hi>- und <hi rendition="#i">As</hi>-dur
+				<lb n="N004"/>in der Temperatur des Herrn <persName>Kirnberger</persName> gedenke. Da ist ein Wettstreit von falschen Intervallen” (nämlich die
+				<lb n="N005"/>pythagoreischen grossen Terzen: <hi rendition="#i">B</hi>:<hi rendition="#i">D</hi>, <hi rendition="#i">Es</hi>:<hi rendition="#i">G</hi>, <hi rendition="#i">As</hi>:<hi rendition="#i">C</hi>, <hi rendition="#i">Des</hi>:<hi rendition="#i">F</hi> und kleine Terzen: <hi rendition="#i">D</hi>:<hi rendition="#i">F</hi>, <hi rendition="#i">G</hi>:<hi rendition="#i">B</hi>, <hi rendition="#i">C</hi>:<hi rendition="#i">Es</hi>etc.).
+				<lb n="N006"/>Daher adoptirt auch <hi rendition="#g"><persName>Marpurg</persName></hi> (, pag. 521) auf den Rath eines Ungenannten
+				<lb n="N007"/>die Verhältnisse 32:27 und 81:64 geradezu für verminderte und übermässige Terz.</note> vorgezogen werden), und hierin liegt vielleicht die oft gerühmte Schönheit <note type="remarkSource" n="**)"><lb n="N001"/>So sagt <hi rendition="#g"><persName>Zamminer</persName></hi> (): „Nichts aber gleicht dem Zauber in dem reinen Abfluss der Accorde,
+				<lb n="N002"/>welche nicht temperirt, sondern in mathematisch reinen Verhältnissen mit Hülfe der Schwebungen gestimmt sind.”</note>
+				<lb n="N004"/>des genau nach den Verhältnissen 4:5 und 5:6 gestimmten Duraccordes. Man wird aber bei
+				<lb n="N005"/>der physicalischen Bestimmung der Tonverhältnisse desselben auf den harmonischen Fortgang,
+				<lb n="N006"/>durch welchen die gr. III so häufig die Bedeutung des Leittones erhält, wohl nicht Rücksicht
+				<lb n="N007"/>genommen, sondern eben nur sich bestrebt haben, den isolirten Accord an sich in möglichst be¬
+				<lb n="N008"/>friedigenden Verhältnissen festzustellen, und was war da natürlicher, als dass man ein so ein¬
+				<lb n="N009"/>faches Verhältniss, wie 5:4, indem es sich als wohlgeeignet für die gr. III in reinen Einzel-
+				<lb n="N010"/>Accorden herausstellte, als das überhaupt gültige für dieses wichtige Intervall bezeichnete! —
+			</p>
+            <p>
+				<lb n="N001"/>§ 23.
+				<lb n="N002"/>Wir wollen, im Anschluss an das soeben über die musikalisch nothwendige Lage der
+				<lb n="N003"/>grossen Terz Erwähnte, in Kürze untersuchen, ob die im reinen Quintensystem den verschiedenen
+				<lb n="N004"/>Tönen zukommende Lage sich überhaupt mit den Gesetzen der Stimmenfortschreitung überein¬
+				<lb n="N005"/>stimmend erweist. Es ist hier aber nur die durch die Accordverbindung bedingte <hi rendition="#g">nothwendige</hi>
+				<lb n="N006"/>Fortschreitung eines Tones entweder nach <hi rendition="#g">oben</hi>, oder nach <hi rendition="#g">unten</hi> speciell in's Auge zu fassen,
+				<lb n="N007"/>da andere ungebundene Stimmenführung an sich noch nicht so entschieden auf eine ganz be¬
+				<lb n="N008"/>stimmte Lage der Töne hinweist. Bekanntlich findet jene Nothwendigkeit eines Fortganges in
+				<lb n="N009"/>bestimmter Richtung statt:
+			</p>
+         <figure type="notatedMusic"/>
+            <p>
+				<lb n="N001"/>1) nach <hi rendition="#g">oben</hi>:
+				<lb n="N002"/>a) für die als <hi rendition="#g">Leitton</hi> bezeichnete grosse Terz jedes Accordes, welcher Oberdominant-Dreiklang
+				<lb n="N003"/>des auf ihn folgenden ist, und zwar führt dieselbe der Regel nach in ihre obere kl. II, den
+				<lb n="N004"/>Grundton des zweiten Accordes. Wo hiervon abgewichen wird, geschieht dies
+				<lb n="N005"/>entweder, weil die im folgenden Accord unentbehrliche gr. III von keiner anderen
+				<lb n="N006"/>Stimme übernommen werden kann, oder weil einer solchen bereits ein Vorhalt
+				<lb n="N007"/>vor dem Grundton jenes Accordes gegeben ist, oder auch, weil es die Melodie grade erfordert;
+				<lb n="N008"/>dabei findet aber die Fortbewegung mit seltenen Ausnahmen nur hinaufwärts statt:
+			</p>
+         <figure type="notatedMusic"/>
+         <pb facs="#f0060" n="45"/>
+         <figure type="notatedMusic"/>
+            <p>
+				<lb n="N001"/>Die folgenden Fälle, welche nicht selten sind, scheinen der Regel gänzlich zu wider¬
+				<lb n="N002"/>sprechen; es ist aber zu bemerken, dass bei Nr. 1 der Leitton nur
+				<lb n="N003"/>deshalb sich regelwidrig, anstatt in den Grundton, in die Quinte
+				<lb n="N004"/>des folgenden Accords lösen darf, weil jener Grundton von der
+				<lb n="N005"/>darüber liegenden Oberstimme ergriffen wird, und daher die richtige Lösung wenigstens schein¬
+				<lb n="N006"/>bar, obgleich in zwei Stimmen vertheilt, vorhanden ist. Wollte man die zweite Stimme zur Ober¬
+				<lb n="N007"/>stimme machen, also in die höhere Octave legen, so würde die Stelle schlecht klingen, wenn
+				<lb n="N008"/>auch <hi rendition="#i">D</hi> nach <hi rendition="#i">E</hi> geführt würde, um wenigstens die verdeckten Quinten zu vermeiden. In Nr. 2
+				<lb n="N009"/>ist die natürliche Lösung des Leittones nach <hi rendition="#i">D</hi>, als sich von selbst verstehendes Mittelglied, nur
+				<lb n="N010"/>übergangen:
+			</p>
+         <figure type="notatedMusic"/>
+            <p>
+				<lb n="N001"/>b) für die dem eigentlichen Leitton ähnlichen <hi rendition="#g">Grundtöne</hi> der <hi rendition="#g">verminderten Drei¬
+				<lb n="N002"/>klänge</hi> und daher auch für die Grundtöne und kleinen Terzen in den verminderten Septimen¬
+				<lb n="N003"/>accorden, welche aus der Verbindung zweier verminderten Dreiklänge entstehen. Der Tendenz
+				<lb n="N004"/>dieser Töne, sich in ihre obere kleine Secunde hinaufzubewegen, wird bei vernünftig-gesetzlicher
+				<lb n="N005"/>Accordverbindung fast stets genügt<note type="remarkSource" n="*)"><lb n="N001"/>Als solche sind Aufeinanderfolgen wie  nicht anzusehen;
+				<lb n="N002"/>sie existiren, wie sich <hi rendition="#g"><persName>Hauptmann</persName></hi> treffend ausdrückt, nur im trüben Elemente der Ungenauigkeit einer tem¬
+				<lb n="N003"/>perirten Intonation, welche <hi rendition="#i">gis</hi> = <hi rendition="#i">as</hi>, <hi rendition="#i">f</hi> = <hi rendition="#i">eis</hi> u. s. w. setzt. —</note>, und auch die hier stattfindenden Ausnahmen sind von der
+				<lb n="N006"/>Art, dass sie die Wahrheit der Regel nur noch mehr in's Licht setzen. In folgenden Beispielen
+				<lb n="N007"/>sind die hauptsächlichsten derselben enthalten:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Nr. 1 und 2 erklären sich ganz, wie die entsprechenden Beispiele unter a); in Nr. 3 hat die Lö¬
+				<lb n="N002"/>sung des <hi rendition="#i">H</hi> nach <hi rendition="#i">A</hi>, anstatt nach <hi rendition="#i">C</hi>, nichts abschliessend Befriedigendes; sie zieht nothwendig
+				<lb n="N003"/>die Folge<hi rendition="#i">Gis</hi> - <hi rendition="#i">A</hi> nach sich, oder auch <hi rendition="#i">G</hi> - <hi rendition="#i">Fis</hi> - <hi rendition="#i">G</hi>, d. h. es muss die für den Leitton<hi rendition="#i">H</hi> unter¬
+				<lb n="N004"/>lassene Auflösung bei einem andern kurz darauf eintreten, damit jene Unterlassung gewisser¬
+				<lb n="N005"/>maassen wieder gut gemacht werde. Bei Nr. 4 findet nur eine Hinausschiebung der regelrechten
+				<lb n="N006"/>Lösung desselben Tones statt; ebenso auch im ersten Beispiel von Nr. 5; das zweite ist, wie
+				<lb n="N007"/>Nr. 3, zu erklären. In Fällen wie Nr. 6 endlich ist ein vermittelnder Dreiklang, in welchen die
+				<lb n="N008"/>natürliche Auflösung führen würde, übergangen; der folgende
+				<lb n="N009"/>verminderte Septimenaccord enthält aber wenigstens Terz und
+				<lb n="N010"/>Quint desselben als Grundton und kl. III, seine V♭ und VII♭ aber
+				<lb n="N011"/>sind Grundton und kl. III seines Vorgängers, chromatisch vertieft; beide hätten sich erst in den
+				<lb n="N012"/>Grundton jenes ausgelassenen Dreiklangs lösen sollen. Daher hat eine solche unvermittelte
+           	 <figure type="notatedMusic"/>
+         		<pb facs="#f0061" n="46"/>
+            	<lb n="N001"/>Verbindung von verminderten Septimenaccorden immer etwas Gewaltsames, indem jedes Mal
+				<lb n="N002"/>zwei unerwartete, der strengen harmonischen Folgerichtigkeit nach noch nicht berechtigte Töne
+				<lb n="N003"/>eintreten, die Wirkung kann sich sogar bei längerer Fortsetzung einer solchen Reihe bis zum
+				<lb n="N004"/>Widerwärtigen steigern. —
+			</p>
+            <p>
+				<lb n="N001"/>2) nach <hi rendition="#g">unten</hi>:
+				<lb n="N002"/>a) für die <hi rendition="#g">kleine</hi> und <hi rendition="#g">grosse Septime</hi>, und zwar gilt hier die Regel besonders streng<note type="remarkSource" n="*)"><lb n="N001"/>Von blossen Verzögerungen und melodischen Umschreibungen der Auflösung der Septime, wie:
+				<lb n="N002"/> ist hier natürlich nicht die Rede.</note>; denn
+				<lb n="N003"/>in Fällen wie dieser  liegt gar kein wirklicher Septimenaccord vor, son¬
+				<lb n="N004"/>dern das zum <hi rendition="#i">C</hi> dur-Accord noch erklingende <hi rendition="#i">H</hi> ist ein Vorhalt, eine Verzögerung der regel¬
+				<lb n="N005"/>rechten Hinauflösung des Leittons. Auflösungen von Accorden mit kl. VII wie folgende:
+				<lb n="N006"/> werden immer den Eindruck des Unnatürlichen machen, wenn der
+				<lb n="N007"/>Sänger oder Violinspieler nicht, in Voraussicht des Kommenden,
+				<lb n="N008"/>das <hi rendition="#i">F</hi> in <hi rendition="#i">Eis</hi> und das <hi rendition="#i">Gis</hi> in <hi rendition="#i">As</hi> umwandelt; in beiden Fällen ist dann der sich hinauflösende
+				<lb n="N009"/>Ton der Oberstimme nicht mehr Septime; <hi rendition="#i">G H D F</hi> (<hi rendition="#i">Eis</hi>) ist der verminderte Septimenaccord
+				<lb n="N010"/><hi rendition="#i">Gis H D Eis</hi> mit chromatisch vertiefter Terz als Basston, <hi rendition="#i">Gis</hi> (<hi rendition="#i">As</hi>) <hi rendition="#i">H D Fis</hi> ein eben solcher
+				<lb n="N011"/>Accord<hi rendition="#i">H D F As</hi> mit chromatisch erhöhter Quint als Oberstimme, wie dies ja nicht selten vor¬
+				<lb n="N012"/>kommt. Durch jene in einem Tone vorgehende enharmonische Verwechselung wird eine derartige
+				<lb n="N013"/>Accordverbindung erst verständlich, ja erhält unter Umständen etwas eigen Geheimnissvolles.
+				<lb n="N014"/>Wir wollen nur eine Stelle aus <persName><hi rendition="#g">Beethoven</hi>’s</persName>  (pag. 5 der neuen
+				<lb n="N015"/>Partiturausgabe) anführen, wo übrigens die enharmonische Verwechselung ausdrücklich vorge¬
+				<lb n="N016"/>schrieben ist<note type="remarkSource" n="**)"><lb n="N001"/>Dies Letztere ist in der , wo sich (p. 3 d. Part.) ganz dieselbe Stelle findet, nicht der Fall.</note>:
+				<figure type="notatedMusic"/>
+            	<lb n="N001"/>b) für die der Septime ähnlich wirkende <hi rendition="#g">Quinte</hi> jedes <hi rendition="#g">verminderten Dreiklangs</hi> und
+				<lb n="N002"/>somit auch für die <hi rendition="#g">verminderte Septime</hi>. Die Ausnahmen, welche hier stattfinden, dürften
+				<lb n="N003"/>wohl nur folgende sein:
+            	<figure type="notatedMusic"/>
+        		<pb facs="#f0062" n="47"/>
+            	<lb n="N001"/>Für Nr. 1 und 2 ist nach dem pag. 45 Gesagten keine weitere Erklärung nöthig. Die chroma¬
+				<lb n="N002"/>tische Erhöhung des <hi rendition="#i">F</hi> in <hi rendition="#i">Fis</hi> bei Nr. 3 ist durch die des <hi rendition="#i">D</hi> in <hi rendition="#i">Dis</hi> bedingt, welche entschiedener
+				<lb n="N003"/>nach dem <hi rendition="#i">E</hi>-dur führen soll; deshalb tritt der Accord <hi rendition="#i">dis</hi><hi rendition="#sup">0</hi> stellvertretend für <formula notation="TeX">$h^{0}_7$</formula>; ein. Nr. 4 er¬
+				<lb n="N004"/>klärt sich analog Nr. 6 auf pag. 45; der Accord, in welchen die regelmässige Auflösung führen
+				<lb n="N005"/>würde, ist übergangen, und so wird auch hier harmonisch Frem¬
+				<lb n="N006"/>des unmittelbar verbunden. —
+            </p>
+            <p>
+				<lb n="N001"/>§ 24.
+				<lb n="N002"/>Es hat also thatsächlich jede Oberdominant-Terz (Leitton im engeren Sinne) und jeder
+				<lb n="N003"/>Grundton eines verminderten Dreiklanges die entschiedene Tendenz, sich stets nach oben zu
+				<lb n="N004"/>lösen, während die Septimen und verminderten Quinten ebenso entschieden abwärts streben.
+				<lb n="N005"/>Bei den Ausnahmefällen, wo dieser Tendenz nicht genügt wird, wirken andere Umstände ein,
+				<lb n="N006"/>durch welche die betreffenden Töne zu dem ihnen eigentlich widerstrebenden Fortgange gezwun¬
+				<lb n="N007"/>gen werden. Die Leittöne, wie die Septimen, bewegen sich bekanntlich bei ihrer naturgemässen
+				<lb n="N008"/>Auflösung nach entgegengesetzter Richtung immer um das gleiche Intervall einer kl. II fort.
+				<lb n="N009"/> Stellen wir nun, ganz abgesehen davon, dass die freie Intonation bei diesen Fort¬
+				<lb n="N010"/>schreitungen factisch dem reinen Quintensystem entspricht, die allgemein-theore¬
+				<lb n="N011"/>tische Frage, welche Lage jenen Tönen mit der so entschiedenen Tendenz, sich in ihre obere
+				<lb n="N012"/>oder untere kl. II zu lösen, in Bezug auf diese letztere wohl am natürlichsten zukomme, so ist
+				<lb n="N013"/>die Antwort doch ohne Zweifel: „eine möglichst <hi rendition="#g">nahe</hi>”, d. h. eine so nahe, als es mit unmittel¬
+				<lb n="N014"/>barer harmonischer Verständlichkeit der Fortschreitung noch verträglich ist; denn <hi rendition="#i">C</hi> — <hi rendition="#i">His</hi> und
+				<lb n="N015"/><hi rendition="#i">C</hi> — <hi rendition="#i">D</hi>♭♭ liegen sich allerdings noch näher, es würde aber diese Folge zweier discordanten Töne
+				<lb n="N016"/>eine ganz unverständliche, nie sicher zu intonirende sein. Denken wir uns also innerhalb der
+				<lb n="N017"/>gr. II <hi rendition="#i">C</hi> — <hi rendition="#i">D</hi> zwei jener nothwendigen Fortschreitungen: <hi rendition="#i">Cis</hi> — <hi rendition="#i">D</hi> und <hi rendition="#i">Des</hi> — <hi rendition="#i">C</hi>, so werden, da
+				<lb n="N018"/><hi rendition="#i">Cis</hi> dem <hi rendition="#i">D</hi> und <hi rendition="#i">Des</hi> dem <hi rendition="#i">C</hi> möglichst nahe liegen soll, die Intervalle <hi rendition="#i">C</hi> — <hi rendition="#i">Cis</hi> und <hi rendition="#i">D</hi> — <hi rendition="#i">Des</hi> nicht
+				<lb n="N019"/>füglich kleiner sein können, als <hi rendition="#i">C</hi> — <hi rendition="#i">Des</hi> und <hi rendition="#i">D</hi> — <hi rendition="#i">Cis</hi>, weil es gar nicht einzusehen wäre, warum
+				<lb n="N020"/><hi rendition="#i">Cis</hi>, welches entschiedene Tendenz nach oben hat und, auf <hi rendition="#i">C</hi> folgend, nicht wieder in dieses
+				<lb n="N021"/>zurück, sondern unfehlbar hinaufwärts führt, tiefer sein sollte, als <hi rendition="#i">Des</hi>, welches, auf <hi rendition="#i">D</hi> folgend,
+				<lb n="N022"/> sich ebenso entschieden hinab nach <hi rendition="#i">C</hi> löst. Es ist daher schon aus
+				<lb n="N023"/>einer solchen allgemeinen Betrachtung klar, was die Praxis des
+				<lb n="N024"/>Gesanges und der Streichinstrumente von je her thatsächlich bewiesen hat, und womit nur die
+				<lb n="N025"/>bisherige akustische Theorie noch in Widerspruch stand, dass nämlich alle Töne, welche als
+				<lb n="N026"/>Leittöne die Bestimmung haben, sich aufwärts zu lösen (wie sie sich zunächst in der Vorzeich¬
+				<lb n="N027"/>nung ♯ ausspricht), <hi rendition="#g">höher</hi> liegen, als die ihnen benachbarten, in der gemeinen gleichschweben¬
+				<lb n="N028"/>den Temperatur mit ihnen zusammenfallenden Töne mit entgegengesetzter (durch die Vorzeich¬
+				<lb n="N029"/>nung ♭ angedeuteter) Tendenz, also <hi rendition="#i">Cis</hi> höher, als <hi rendition="#i">Des</hi>, <hi rendition="#i">E</hi> höher, als <hi rendition="#i">Fes</hi> etc., wie es im pytha¬
+				<lb n="N030"/>goreischen System stattfindet. Die grosse Secunde <hi rendition="#i">C</hi> — <hi rendition="#i">D</hi> zerfällt demnach in die unter sich
+				<lb n="N031"/>gleichen kleinen Secunden <hi rendition="#i">C</hi> — <hi rendition="#i">Des</hi> und <hi rendition="#i">Cis</hi> — <hi rendition="#i">D</hi> und das zwischen beiden bleibende kleine
+				<pb facs="#f0063" n="48"/>
+            	<lb n="N001"/>Intervall <hi rendition="#i">Des</hi> — <hi rendition="#i">Cis</hi>, welches = <hi rendition="#i">C</hi> — <hi rendition="#i">His</hi>, da <hi rendition="#i">C</hi> — <hi rendition="#i">Des</hi> = <hi rendition="#i">His</hi> — <hi rendition="#i">Cis</hi>. — Nach bisherigen akusti¬
+				<lb n="N002"/>schen Bestimmungen dagegen ist <hi rendition="#i">Cis</hi>, <hi rendition="#i">Fis</hi> etc. tiefer, als <hi rendition="#i">Des</hi>, <hi rendition="#i">Ges</hi> etc. Gesetzt nun es würden
+				<lb n="N003"/>auf einem ganz genau gestimmten Klavier, ohne irgend Vorhergehendes, die Töne<hi rendition="#i">A</hi>, <hi rendition="#i">C</hi> und
+				<lb n="N004"/><hi rendition="#i">Fis</hi> = <hi rendition="#i">Ges</hi> zusammen angeschlagen, so könnte sich der Spieler diesen Accord als <hi rendition="#i">A C Ges</hi> ge¬
+				<lb n="N005"/>dacht haben, in der Absicht, den <hi rendition="#i">B</hi> moll-Dreiklang folgen zu lassen; zugleich giebt aber vielleicht
+				<lb n="N006"/>ein Zuhörer demselben Accord die andere Deutung eines nach <hi rendition="#i">G</hi>-dur führenden verminderten
+				<lb n="N007"/>Dreiklangs von <hi rendition="#i">Fis</hi> und wird dann unangenehm überrascht werden, wenn der Spieler, statt des
+				<lb n="N008"/>erwarteten <hi rendition="#i">G</hi>-dur-, den <hi rendition="#i">B</hi> moll-Accord anschlägt. Hat er aber das <hi rendition="#i">Fis</hi> = <hi rendition="#i">Ges</hi> des Klaviers in
+				<lb n="N009"/>Gedanken zu reinem <hi rendition="#i">Fis</hi><hi rendition="#g">vertieft</hi>, wie er es nach jenen akustischen Bestimmungen müsste, so
+				<lb n="N010"/>ist es doch seltsam, dass ihn eine in <hi rendition="#g">derselben</hi> Richtung erfolgende Auflösung nicht befriedigt.
+				<lb n="N011"/>Wie klar ist dagegen der Vorgang bei Zugrundlegung des reinen Quintensystems! Der Hörer
+				<lb n="N012"/>verschärft den, doppelter Deutung fähigen temperirten Ton zu <hi rendition="#i">Fis</hi> (denn für Eines von beiden
+				<lb n="N013"/>muss er sich entscheiden), und nun tritt, statt der erwarteten Lösung, die mit seiner Auffassung
+				<lb n="N014"/>in gradem Widerspruch stehende und damit für ihn die Unlust der Täuschung ein. Bei reiner
+				<lb n="N015"/>freier Intonation wird diese Unlust für den Hörer nie entstehen, und es verleiht dieses bestimmte,
+				<lb n="N016"/>klare Wesen dem Gesang und der Musik für Streichinstrumente den hohen Reiz auch in harmo¬
+				<lb n="N017"/>nischer Beziehung; denn, was Schönheit, Dauer und Fülle des Tones, sowie Befähigung zu
+				<lb n="N018"/>warmem, seelenvollem Vortrag anlangt, stehen sie bekanntlich hoch über dem Klavier. —
+            </p>
+            <p>
+				<lb n="N001"/>Es sei nur noch ein Beispiel aus <hi rendition="#g"><persName>Mozart</persName></hi>’s  angeführt, welches recht
+				<lb n="N002"/>unmittelbar die richtige Lage benachbarter erhöhter und erniedrigter Töne fühlen lässt:
+			</p>
+         <figure type="notatedMusic"/>
+            <p>
+				<lb n="N001"/>Wer wollte hier behaupten, dass das <hi rendition="#i">Fis</hi> ein <hi rendition="#g">tieferer</hi> Ton sein müsse, als das vorher¬
+				<lb n="N002"/>gehende <hi rendition="#i">Ges</hi>? Unwillkührlich hat man mit dem Eintritt des ersteren das Gefühl einer Erwei¬
+				<lb n="N003"/>terung in Vergleich mit der vorher gehörten eingeengten VII♭ (<hi rendition="#i">A</hi> — <hi rendition="#i">Ges</hi>), und jeder gute Geiger
+				<lb n="N004"/>wird bei sorgfältiger Intonation diesem Gefühl einen Ausdruck verleihen, indem er eben <hi rendition="#i">Fis</hi>
+				<lb n="N005"/>etwas höher greift, als vorher <hi rendition="#i">Ges</hi>. Hört man die Stelle auf dem Klavier, so wird erst durch das
+				<lb n="N006"/>von einer Mittelstimme festgehaltene <hi rendition="#i">D</hi> die neue Wendung bemerkbar werden. —
+			</p>
+         <pb facs="#f0064" n="49"/>
+            <p>
+				<lb n="N001"/>§ 25.
+				<lb n="N002"/>Für die im reinen Quintensystem statthabende Lage der Töne spricht aber auch sehr
+				<lb n="N003"/>deutlich die sogenannte „enharmonische Verwechselung”, deren verschiedenartige Wirkung, je
+				<lb n="N004"/>nachdem sie ein Ueberspringen aus Tonarten der Oberdominantseite in solche der Unterdominant¬
+				<lb n="N005"/>seite, oder umgekehrt aus diesen in jene ist, bei Festhalten an den bisherigen akustischen Be¬
+				<lb n="N006"/>stimmungen schwerlich zu begreifen sein dürfte. Wir müssen aber zunächst wohl unterscheiden
+				<lb n="N007"/>zwischen dem blos zufälligen <hi rendition="#g">enharmonischen Transponiren</hi>, wie es bisweilen der be¬
+				<lb n="N008"/>quemeren Schreibart wegen, oder zur Erleichterung für die Ausführenden nur vorübergehend
+				<lb n="N009"/>entweder in allen Stimmen zugleich, oder nur in einzelnen vorkommt, und der <hi rendition="#g">eigentlichen
+				<lb n="N010"/>enharmonischen Verwechselung</hi>, d. h. einem wirklichen, definitiven Umwandeln der
+				<lb n="N011"/>Tonart in eine äusserlich nahe liegende, harmonisch aber weit entfernte. Bei jenem zufälligen
+				<lb n="N012"/>Transponiren wird, wenn die Reinheit aufrecht erhalten werden soll, von einer <hi rendition="#g">wirklichen</hi>
+				<lb n="N013"/>Aenderung der Tonhöhe mit Eintritt der enharmonischen Versetzung unbedingt nicht die Rede
+				<lb n="N014"/>sein dürfen; dieselbe hat factisch nur eine Existenz auf dem Papier, als Erleichterung für das
+				<lb n="N015"/>Auge. Denn gesetzt es seien plötzlich erhöhte Töne, anstatt der in die Tonart gehörenden be¬
+				<lb n="N016"/>nachbarten erniedrigten, in einer oder in einigen Stimmen vorgeschrieben, während die übrigen
+				<lb n="N017"/>unterdess ungestört in der Tonart bleiben, so haben doch offenbar Diejenigen, welche die der
+				<lb n="N018"/>Notenschrift nach aus dem einheitlichen Zusammenhang der Tonarten vorübergehend heraus¬
+				<lb n="N019"/>tretenden Stimmen ausführen, dafür zu sorgen, dass sie mit den Uebrigen in Uebereinstimmung
+				<lb n="N020"/>bleiben; sie werden, zunächst durch ihr richtiges Gefühl geleitet, statt jener erhöhten Töne die¬
+				<lb n="N021"/>jenigen intoniren, welche eigentlich an deren Stelle gehören. Unterlassen sie dies, so tritt ent¬
+				<lb n="N022"/>weder Unreinheit während der betreffenden Takte ein, oder es accommodiren sich die Uebrigen
+				<lb n="N023"/>ihrer Intonation, womit die Haupttonart geradezu verlassen würde. Ebenso wenig wird, wenn
+				<lb n="N024"/>alle Stimmen zugleich enharmonisch transponirt sind, die eigentliche Tonart aber schon nach
+				<lb n="N025"/>wenigen Takten wieder eintritt, ein vorübergehendes wirkliches Verlassen derselben durch Aen¬
+				<lb n="N026"/>derung der Intonation statthaft sein, indem es gar keinen vernünftigen Zweck haben und nur
+				<lb n="N027"/>den Eindruck eines unnützen und störenden Hin- und Herrückens machen würde. Dass in sol¬
+				<lb n="N028"/>chen Fällen richtiges Gefühl und einsichtsvolle Beurtheilung des gerade stattfindenden harmo¬
+				<lb n="N029"/>nischen Fortganges von Seiten der Ausführenden oft in hohem Grade erfordert wird, ist gewiss,
+				<lb n="N030"/>daher wir auch Stellen, wie folgende, nicht immer in vollkommen befriedigender Reinheit vor¬
+            	<figure type="notatedMusic"/>
+         	   <pb facs="#f0066" n="51"/>
+            	<lb n="N001"/>tauscht, und es fragt sich nun, welcher Art in beiden Fällen die Aenderung der Tonhöhe ist.
+				<lb n="N002"/>Nach den bisher geltenden akustischen Bestimmungen würde ein erhöhter, für den ihm nächst¬
+				<lb n="N003"/>liegenden erniedrigten durch enharmonische Verwechselung eintretender Ton tiefer, als dieser
+				<lb n="N004"/>zu intoniren sein, also in obigen Beispielen <hi rendition="#i">fis</hi>, <hi rendition="#i">h</hi>, <hi rendition="#i">eis</hi> tiefer, als <hi rendition="#i">ges</hi>, <hi rendition="#i">ces</hi>, <hi rendition="#i">f</hi>. Dies ist aber eine
+				<lb n="N005"/>dem entschiedenen Leitton-Charakter jener Töne durchaus widersprechende Annahme <note type="remarkSource" n="*)"><lb n="N001"/>Denn sie müssen der Natur der Sache nach näher zu <hi rendition="#i">g</hi>, <hi rendition="#i">c</hi> und <hi rendition="#i">fis</hi> liegen, als <hi rendition="#i">ges</hi>, <hi rendition="#i">ces</hi> und <hi rendition="#i">f</hi>.</note> (siehe
+				<lb n="N006"/>§ 24). Umgekehrt kann ebenso wenig ein für <hi rendition="#i">h</hi>, <hi rendition="#i">fis</hi>, <hi rendition="#i">eis</hi> etc. auf jene Weise eintretendes <hi rendition="#i">ces</hi>,
+				<lb n="N007"/><hi rendition="#i">ges</hi>, <hi rendition="#i">f</hi> etc. höher intonirt werden, weil ja diese erniedrigten Töne vermöge ihrer harmonischen
+				<lb n="N008"/>Bedeutung die entschiedene Tendenz haben, sich abwärts fortzubewegen, also nothwendig näher
+				<lb n="N009"/>zu <hi rendition="#i">b</hi>, <hi rendition="#i">f</hi> und <hi rendition="#i">e</hi> liegen müssen, als <hi rendition="#i">h</hi>, <hi rendition="#i">fis</hi> und <hi rendition="#i">eis</hi>. Es zeigt sich also auch hier an dem speciellen
+				<lb n="N010"/>Vorgang der enharmonischen Verwechselung die Nothwendigkeit, eine dem reinen Quinten¬
+				<lb n="N011"/>systeme entsprechende Lage der Töne als einzig richtige anzuerkennen. —
+			</p>
+            <p>
+				<lb n="N001"/>§ 26.
+				<lb n="N002"/>Wenn wir die enharmonische Verwechselung, trotz ihrer oft überraschenden Wirkung
+				<lb n="N003"/>doch nur als eine Erschleichung bezeichnen und ihre gar zu häufige Anwendung in <hi rendition="#g">einem</hi>
+				<lb n="N004"/>Musikstücke für unstatthaft erklären müssen, so scheint Dasselbe, wenn auch vielleicht nicht in
+				<lb n="N005"/>dem Maasse, auch von der, wir möchten sagen <hi rendition="#g">feineren</hi> Vertauschung zu gelten, welche bei
+				<lb n="N006"/>Annahme der im § 22 besprochenen mehrfachen akustischen Bestimmungen für die in der Noten¬
+				<lb n="N007"/>schrift nicht unterschiedenen Töne in der Modulation unvermeidlich wird. Die allernächsten
+				<lb n="N008"/>Modulationen nämlich würden schon eine akustische Veränderung desselben Tones hier und da
+				<lb n="N009"/>erfordern, wie man sich leicht überzeugen kann, wenn man die Scalen nächstverwandter Ton¬
+				<lb n="N010"/>arten nach reinen akustischen Verhältnissbestimmungen bildet:
+			</p>
+         
+            <p>
+				<lb n="N001"/>Wir möchten nun fragen, ob es wohl natürlich sei, wirkliche Höhenunterschiede zwischen
+				<lb n="N002"/>gr. II oder V einer Durtonart und IV oder kl. III ihrer verwandten Molltonart anzunehmen, so
+				<lb n="N003"/>dass bei ganz einfachen Modulationen, wie folgenden:
+            	<figure type="notatedMusic"/>
+         	   <pb facs="#f0067" n="52"/>
+            	<lb n="N001"/>die angegebenen Aenderungen von Tönen, welche der Notation nach ruhig liegen bleiben sollten,
+				<lb n="N002"/>sowie auch Fortschreitungen in unreinen Quinten oder Quarten stattfinden müssten. Wollte
+				<lb n="N003"/>man aber Solches vermeiden, so würde in vielen Fällen der Modulation die Rückkehr in die
+				<lb n="N004"/>ursprüngliche Tonart unmöglich werden, und es müssten ohnedies immer noch abweichende
+				<lb n="N005"/>Intervalle mit eingemischt werden:
+            	<figure type="notatedMusic"/>
+			</p>
+            <p>
+				<lb n="N001"/>Mit Annahme des pythagoreischen Systems dagegen verschwinden alle diese Uebelstände;
+				<lb n="N002"/>der gleichbenannte Ton ist dann in allen Accorden und Scalen, denen er angehört, seiner Tonhöhe
+				<lb n="N003"/>nach derselbe; er hat nur verschiedene harmonische Bedeutung und wird daher bei der Modu¬
+				<lb n="N004"/>lation wohl letztere fortwährend ändern, aber weder eine Erhöhung noch Vertiefung erleiden. —
+			</p>
+            <p>
+				<lb n="N001"/>Indem wir hiermit diesen dritten und letzten Abschnitt unserer Erörterungen beschliessen,
+				<lb n="N002"/>möchten wir noch den Wunsch aussprechen, dass es uns wenigstens durch einige der vorgebrach¬
+				<lb n="N003"/>ten Gründe gelungen sein möge, die vorzügliche Uebereinstimmung des reinen Quintensystems
+				<lb n="N004"/>mit den Grundsätzen der musikalischen Theorie in hinlänglich überzeugender Weise darzuthun
+				<lb n="N005"/>und so nach geringen Kräften Etwas dazu beizutragen, dass dieses System, welches ja ohnehin
+				<lb n="N006"/>erwiesener Maassen das von der Praxis bei freier Intonation befolgte ist, auch die ihm gebührende
+				<lb n="N007"/>Anerkennung als einzige, wahrhaft genügende akustische Grundlage der theoretisch-musikali¬
+				<lb n="N008"/>schen Lehre bald allgemein finde. —
+			</p>
+         </div>
+         <pb facs="#f0068"/>
+         <pb facs="#f0069"/>
+         <pb facs="#f0070"/>
+         <pb facs="#f0071"/>
+         <pb facs="#f0072"/>
+         <pb facs="#f0073"/>
+         <pb facs="#f0074"/>
+         <pb facs="#f0075"/>
+      </body>
+   </text>
+</TEI>

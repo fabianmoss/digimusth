@@ -1,0 +1,1933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Thürlings_1877</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>tranScriptorium</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <publisher>TRP document creator: maikkoester@hotmail.de</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+   	<front>
+   	      <pb facs="#f0001"/>
+             <pb facs="#f0002"/>
+	         <pb facs="#f0003"/>
+	         <pb facs="#f0004"/>
+	         <pb facs="#f0005"/>
+	         <pb facs="#f0006"/>
+	         <pb facs="#f0007"/>
+	         <pb facs="#f0008"/>
+	         <pb facs="#f0009"/>
+	         <pb facs="#f0010"/>
+   		  <titlePage type="main">
+				<docTitle>
+           	 	<titlePart type="main">
+           	 		<lb n="N001"/>Die beiden
+						<lb n="N002"/><hi rendition="#g">TONGESCHLECHTER</hi>
+						<lb n="N003"/>und die
+						<lb n="N004"/>neuere musikalische Theorie.
+           	 	</titlePart>
+				</docTitle>
+				<byline>
+					<lb n="N005"/>Von
+				<lb n="N006"/><docAuthor><hi rendition="#b">ADOLF THÜRLINGS</hi></docAuthor>.
+				</byline>
+				<docImprint>
+					<lb n="N007"/>INAUGURAL-DISSERTATION,
+					<lb n="N008"/><pubPlace>BERLIN</pubPlace>.
+					<lb n="N009"/><publisher>LEO LIEPMANNSSOHN</publisher>.
+					<lb n="N010"/><docDate when="1877">1877</docDate>.
+				</docImprint>
+			</titlePage>
+   	</front>
+      <body>
+         <pb facs="#f0011"/>
+         <pb facs="#f0012"/>
+            <p>
+				<lb n="N001"/>Soweit uns die musikalischen Erzeugnisse der verschieden¬
+				<lb n="N002"/>sten Völker in den verschiedensten Zeitepochen bekannt sind, lässt
+				<lb n="N003"/>sich aus ihnen ein Übergewicht des Durgeschlechts gegenüber
+				<lb n="N004"/>dem Mollgeschlecht nicht nachweisen. Vielleicht ist mehr in Moll,
+				<lb n="N005"/>als in Dur komponirt worden. Ein jeder, dessen musikalisch-
+				<lb n="N006"/>historische Kenntnisse nicht erst bei <persName>Haydn</persName> anfangen, wird hier
+				<lb n="N007"/>übereinstimmen. Was den ästhetischen Wert der beiden Ton¬
+				<lb n="N008"/>geschlechter anlangt, bei welchem es sich zunächst nicht um
+				<lb n="N009"/>auszudrückende Stimmungen oder Gefüle, sondern um Darstellungs¬
+				<lb n="N010"/>fähigkeit bezüglich der Skalen und Accorde, der Melodie und
+				<lb n="N011"/>Harmonie handelt, so zeigen sich beide one allen Zweifel als eben¬
+				<lb n="N012"/>bürtige Töchter der Muse; dem Künstler sind sie gleich will¬
+				<lb n="N013"/>kommene Interpreten seiner Empfindungen, dem Hörer gewären
+				<lb n="N014"/>sie das gleiche Wolgefallen, die gleiche Befriedigung. Wenn
+				<lb n="N015"/><persName>Helmholtz</persName> (, 2. Aufl., S. 328)
+				<lb n="N016"/>sagt, „die neueren Harmoniker sträuben sich meistenteils zuzu¬
+				<lb n="N017"/>geben, dass der Mollaccord weniger konsonant sei als der Dur¬
+				<lb n="N018"/>accord”, so können wir künlich hinzufügen, dass diese Harmoniker
+				<lb n="N019"/>ihr Sträuben mit den praktischen Musikern und Komponisten ge¬
+				<lb n="N020"/>mein haben, und dass sich selbiges nicht bloß auf den Mollaccord,
+				<lb n="N021"/>sondern auf das ganze Mollgeschlecht erstrecke. Es mag man¬
+				<lb n="N022"/>chem in Folge seiner individuellen Anlage oder Stimmung der
+				<lb n="N023"/>starre Ernst des klassischen Moll oder die eigentümliche Senti¬
+				<lb n="N024"/>mentalität des modernen Moll weniger zusagen, ja es mögen sogar
+				<lb n="N025"/>ganze Völker in den aus ihrem innersten Schoße hervorgehenden
+            	<pb facs="#f0013" n="2"/>
+            	<lb n="N001"/>Klängen das Durgeschlecht in auffallendster Weise bevorzugen <note type="remarkSource" n="1)"><lb n="N001"/>Doch ist auch das Gegenteil nicht selten.</note>,
+				<lb n="N002"/>das eine wird vom Standpunkte der musikalischen Praxis nie in
+				<lb n="N003"/>Abrede gestellt werden können, dass das Mollgeschlecht nicht
+				<lb n="N004"/>weniger als das Durgeschlecht im Stande ist, vollkommen be¬
+				<lb n="N005"/>friedigende, wolklingende, schöne Gebilde hervorzubringen.
+			</p>
+            <p>
+				<lb n="N001"/>Die Entwickelung, welche seit dem Beginn des <date>17. Jarhun¬</date>
+				<lb n="N002"/><date>derts</date> die musikalische Theorie genommen hat, tritt nun aber in
+				<lb n="N003"/>einen bemerkenswerten Gegensatz zu der soeben gezeichneten
+				<lb n="N004"/>Erscheinung in der musikalischen Praxis, und dieser Gegensatz
+				<lb n="N005"/>wird durch die neuesten Entdeckungen auf physikalisch-physio¬
+				<lb n="N006"/>logischem Gebiete erst recht in grelles Licht gestellt. Eine Aus¬
+				<lb n="N007"/>gleichung ist bis zur Stunde entweder noch nicht gefunden, oder
+				<lb n="N008"/>wenigstens bei den beteiligten Parteien nicht als solche anerkannt.
+				<lb n="N009"/>Die Hauptmomente dieser historisch-theoretischen Entwickelung,
+				<lb n="N010"/>soweit sie zunächst zur Klarstellung des Gegensatzes und in
+				<lb n="N011"/>zweiter Linie vielleicht zur Ausgleichung dienen können, zu¬
+				<lb n="N012"/>sammenzustellen, sei die Aufgabe dieser Blätter.
+			</p>
+            <p>
+				<lb n="N001"/>Die Anfänge der modernen Theorie fallen zeitlich mit den
+				<lb n="N002"/>Anfängen der neueren Musik zusammen. Das Jar <date when="1600">1600</date> bezeichnet
+				<lb n="N003"/>ungefär den Wendepunkt, wie dies meisterhaft <persName>C. v. <hi rendition="#g">Winter¬</hi></persName>
+				<lb n="N004"/><hi rendition="#g"><persName>feld</persName></hi> in seinem „” (<placeName ref="#L0003">Berlin</placeName>, <date when="1834">1834</date>) auseinander¬
+				<lb n="N005"/>gesetzt hat. Die <date>mittelalterlichen</date> Oktavengattungen machten um
+				<lb n="N006"/>diese Zeit immer mehr einer durch die Grenzen und speziellen
+				<lb n="N007"/>Färbungen dieser Einzelformen nicht mehr beschränkten Anwen¬
+				<lb n="N008"/>dung der beiden Tongeschlechter Platz, und hiemit gleichlaufend
+				<lb n="N009"/>verlor die Skalenlehre an Bedeutung; in den Vordergrund der
+				<lb n="N010"/>musikalischen Theorie trat die Accordlehre. Die ersten Versuche,
+				<lb n="N011"/>bezifferte Bässe zu schreiben, fanden ihre Vervollkommnung wie
+				<lb n="N012"/>auch den Beweis ihrer relativen Berechtigung zunächst in der von
+				<lb n="N013"/><hi rendition="#g"><persName>Rameau</persName></hi> aufgestellten Theorie vom Fundamentalbasse. Die
+				<lb n="N014"/>aus dem <date>Mittelalter</date> herübergeretteten Reste der <date>antiken</date> Zalenlehre
+				<lb n="N015"/>hatten schon dem geistvollen <hi rendition="#g"><persName>Zarlino</persName></hi> die Wichtigkeit der
+				<lb n="N016"/>Tatsache nahe gelegt, dass die Teilung der gespannten Saite nach
+				<lb n="N017"/>den Zalen 1—6 der Reihe nach einem vollständigen Duraccord
+            	<pb facs="#f0014" n="3"/>
+            	<lb n="N001"/>in einer Form entspricht, die wir etwa durch die Noten <hi rendition="#i">C</hi> <hi rendition="#i">c</hi> <hi rendition="#i">g</hi>.
+				<lb n="N002"/><hi rendition="#i">c</hi>} <hi rendition="#i">e</hi>} <hi rendition="#i">g</hi>} bezeichnen können. Auch war ihm nicht entgangen, dass
+				<lb n="N003"/>bei weiterer Teilung nach den Potenzen und Produkten dieser
+				<lb n="N004"/>Zalen auch die übrigen Intervalle eines vollständigen Tonsystemes
+				<lb n="N005"/>sich finden. Da nun diese Ergebnisse genau mit dem zu <persName>Ra¬
+				<lb n="N006"/>meau</persName>'s Zeiten schon bekannten physikalischen Phänomen der har¬
+				<lb n="N007"/>monischen Obertöne übereinstimmen, so waren für letzteren hin¬
+				<lb n="N008"/>reichende Vorbedingungen zu seiner Theorie von den Stammtönen
+				<lb n="N009"/>der Accorde gegeben, welche ihrerseits widerum die Lehre von
+				<lb n="N010"/>der Ableitung und Umlagerung der Accorde bedingt. So bedurfte
+				<lb n="N011"/>es nur eines konsequenten Aufbauens auf dieser Grundlage, und
+				<lb n="N012"/>die moderne Accord- und Harmonielehre war geschaffen.
+            </p>
+            <p>
+				<lb n="N001"/>Doch hatte diese zweifache theoretische Unterlage, die sich
+				<lb n="N002"/>der Harmonik in der Zalenlehre und in der Physik darbot, den
+				<lb n="N003"/>entschiedenen Mangel, dass das Mollgeschlecht sich ihr nicht
+				<lb n="N004"/>unterwerfen wollte. Allerdings ergibt sich bei der Teilung der
+				<lb n="N005"/>Saite in 10, 12 und 15 Teile ein Molldreiklang, der auch physi¬
+				<lb n="N006"/>kalisch sich aus dem 10., 12. und 15. Partialtone eines Klanges
+				<lb n="N007"/>zusammensetzt. Allein dieser erscheint nur als ein abhängiger,
+				<lb n="N008"/>abgeleiteter Accord. Der <hi rendition="#i">c</hi>} - moll - Dreiklang ist nur Zubehör,
+				<lb n="N009"/>Nebenklang zu dem durgeschlechtlichen Stammaccord <hi rendition="#i">C</hi>. Einen
+				<lb n="N010"/>selbständigen, mit dem Duraccord gleichberechtigten Charakter
+				<lb n="N011"/>ist jener aus den angefürten beiden Gesichtspunkten zu gewinnen
+				<lb n="N012"/>nicht im Stande. Die Praxis aber verlangte gebieterisch für Dur
+				<lb n="N013"/>und Moll eine analoge Auffassung, Zergliederung, Behandlung,
+				<lb n="N014"/>und es hat dies weit mehr zu befriedigenden Resultaten gefürt,
+				<lb n="N015"/>als man nach der angenommenen theoretischen Grundlagen hätte
+				<lb n="N016"/>erwarten dürfen. Schon zu <persName>Rameau</persName>'s Zeiten strich sein gelehrter
+				<lb n="N017"/>Interpret <hi rendition="#g"><persName>d’Alembert</persName></hi> die Zalenlehre als unnütz aus dem ganzen
+				<lb n="N018"/>Systeme aus und erkannte nur das Phänomen der Obertöne als
+				<lb n="N019"/>natürliche Grundlage der Accordbildung an, auch dieses jedoch
+				<lb n="N020"/>nur in der Theorie. Indem er für die Praxis der Teilung der
+				<lb n="N021"/>Oktave in 12 gleiche Teile, also der gleichschwebenden Tempe¬
+				<lb n="N022"/>ratur das Wort redete, ging ihm der Sinn für die feinere Nuan¬
+				<lb n="N023"/>cirung der natürlichen Stimmung verloren. So war denn das
+				<lb n="N024"/>Band zwischen dem Konsonanzbegriff und den physikalischen Er¬
+				<pb facs="#f0015" n="4"/>
+            	<lb n="N001"/>scheinungen aufs äußerste gelockert, so dass die Accordlehre
+				<lb n="N002"/>schon gezwungen war, ihren eigenen Weg zu gehen. Jedoch
+				<lb n="N003"/>auch dieses lockere Band erschien noch manchem als ein unbe¬
+				<lb n="N004"/>rechtigter Hemmschuh, und das beharrliche Streben, dasselbe, ge¬
+				<lb n="N005"/>stützt auf die Forderungen der musikalischen Praxis, zu lösen,
+				<lb n="N006"/>steigerte sich bei <hi rendition="#g"><persName>Kiesewetter</persName></hi> und seinen neu-aristoxenischen
+				<lb n="N007"/>Freunden zu einem recht eigentlichen Paroxysmus, und dies zu
+				<lb n="N008"/>einer Zeit, wo die Physik zur Geltendmachung ihrer Ansprüche
+				<lb n="N009"/>schon mit ganz anderen Errungenschaften und Beweisen ins Feld
+				<lb n="N010"/>rücken konnte.
+            </p>
+            <p>
+				<lb n="N001"/>Die fast ganz auf sich selbst angewiesene Harmonie- und
+				<lb n="N002"/>Kompositionslehre fand sich mittlerweile leidlich und zum Teil
+				<lb n="N003"/>sehr gut zurecht. Der Mangel eines rechten theoretischen Unter¬
+				<lb n="N004"/>grundes, namentlich für das Mollgeschlecht, machte sich indessen
+				<lb n="N005"/>doch fülbar, weniger in der Accordlehre, aber entschieden in der
+				<lb n="N006"/>Skalenlehre. Während über die „befriedigendste” Form der Dur¬
+				<lb n="N007"/>tonleiter von vornherein kein Zweifel sein konnte, zeigte sich das
+				<lb n="N008"/>Mollgeschlecht für die Skalenbildung außerordentlich schwierig.
+				<lb n="N009"/>Nur über die untere Hälfte der Skala, vom Grundtone zur Quint,
+				<lb n="N010"/>war man eines Sinnes; bei der übrig bleibenden Quart dagegen
+				<lb n="N011"/>begann man Unterscheidungen zu machen zwischen absteigender
+				<lb n="N012"/>und aufsteigender, zwischen melodischer und harmonischer Leiter,
+				<lb n="N013"/>und so wurden, und werden zum Teil heute noch, drei verschie¬
+				<lb n="N014"/>dene Formen je nach den verschiedenen Gesichtspunkten als Nor¬
+				<lb n="N015"/>malformen angenommen. Das war nun ein trauriger Notbehelf,
+				<lb n="N016"/>welchem einzelne theoretische Kunstgriffe, wie namentlich die
+				<lb n="N017"/>Fiktion eines Leittones in Gestalt des Subsemitoniums, sehr
+				<lb n="N018"/>zweifelhafte Dienste leisten mussten. Wie ganz anders und viel
+				<lb n="N019"/>einfacher gestaltet sich die spiegelblanke Durtonart! Wir wollen
+				<lb n="N020"/>es deshalb neueren Harmonikern nicht verargen, dass sie aus Un¬
+				<lb n="N021"/>behagen über die Schwierigkeiten der Molltonart sich mit fast
+				<lb n="N022"/>unbewusster Vorliebe, besonders in ihren praktischen Nachweisen
+				<lb n="N023"/>theoretischer Regeln, dem so leicht und gesetzmässig dahin¬
+				<lb n="N024"/>fließenden Durgeschlechte zuwandten. Ja selbst den geheimen
+				<lb n="N025"/>Wunsch dürfen wir manchem von ihnen verzeihen, es möge sich
+				<lb n="N026"/>beweisen lassen, dass das Mollgeschlecht nur eine Bastardform
+            	<pb facs="#f0016" n="5"/>
+            	<lb n="N001"/>des Durgeschlechtes sei, beruhend auf einem getrübten oder ver¬
+				<lb n="N002"/>schleierten Wolklang, so dass man hier und da durgeschlechtlicher
+				<lb n="N003"/>Hülfsformen benötigt sei, damit es genießbar werde. Auf diese
+				<lb n="N004"/>Art hätte dann am Ende die Physik oder gar die Zalenlehre wider
+				<lb n="N005"/>in ihr altes Recht eintreten mögen.
+			</p>
+            <p>
+				<lb n="N001"/>Wir wollen beide im Auge behalten, dabei aber nicht ver¬
+				<lb n="N002"/>gessen, dass inzwischen eine , dass <persName>Mozarts</persName> 
+				<lb n="N003"/>, <persName>Beethovens</persName>  und , ungestört durch theo¬
+				<lb n="N004"/>retische Unbequemlichkeiten, fortfaren, die Menschheit zu erschüt¬
+				<lb n="N005"/>tern, und dass die ganze Moll-Sentimentalität der neueren Schule
+				<lb n="N006"/>empfänglichen Seelen zu einem unschätzbaren Gegenstande der
+				<lb n="N007"/>Schwärmerei geworden ist. Mit Rücksicht auf diese großen und
+				<lb n="N008"/>weniger großen Erscheinungen hätte man allerdings wol den For¬
+				<lb n="N009"/>schungen jener Männer, welche — wie der schon genannte <persName>C. v.</persName>
+				<lb n="N010"/><hi rendition="#g"><persName>Winterfeld</persName></hi> — auf Grund der <date>mittelalterlichen</date> Oktavengat¬
+				<lb n="N011"/>tungen one primäre Rücksichtsnahme auf die Accordbildung ver¬
+				<lb n="N012"/>hältnismässig leicht das Nebeneinanderbestehen der beiden Ton¬
+				<lb n="N013"/>geschlechter nachzuweisen und zu erklären vermochten, etwas
+				<lb n="N014"/>mehr Verständnis entgegenbringen dürfen.
+			</p>
+            <p>
+				<lb n="N001"/>Doch können die Freunde des Mollgeschlechts zufrieden sein,
+				<lb n="N002"/>dass wenigstens <hi rendition="#b"><persName>Moritz Hauptmann</persName></hi> <note type="remarkSource" n="1)"><lb n="N001"/>. <placeName ref="#L0022">Leipzig</placeName> <date when="1853">1853</date>. —
+				<lb n="N002"/>, Nachgelassenes Werk, herausg. v. Dr. O. Paul,
+				<lb n="N003"/><placeName ref="#L0022">Leipzig</placeName> <date when="1868">1868</date>.</note> sich entschiedene Anhänger
+				<lb n="N003"/>zu erwerben gewusst hat, der mitten im Gebiet der Accordlehre
+				<lb n="N004"/>selbst einen großen Schritt gethan hat, der ihm nie vergessen
+				<lb n="N005"/>werden darf, wenn auch neuere Forschungen ihn überholt haben,
+				<lb n="N006"/>und wenn er auch selbst die Konsequenzen seiner Theorie wol
+				<lb n="N007"/>nicht vollständig gezogen hat. Der Ausgangspunkt der <persName><hi rendition="#g">Haupt¬
+				<lb n="N008"/>mann</hi>'schen</persName> Theorie ist der Satz, dass das Band, welches den
+				<lb n="N009"/>durch den Zwieklang der Quint in die Erscheinung tretenden Gegen¬
+				<lb n="N010"/>satz zu einer höheren Einheit verbinden müsse, nur die (<hi rendition="#g">große</hi>)
+				<lb n="N011"/>Terz sein könne. Der Dreiklang ist ihm wie ein Begriff, welcher,
+				<lb n="N012"/>um sich seiner vollkommenen Einheitlichkeit nach dem Bewusst¬
+				<lb n="N013"/>sein zu vermitteln, durch die drei Momente des Mit-sich-eins-seins,
+				<lb n="N014"/>des Von-sich-verschieden-seins und der beides in sich verbunden
+				<lb n="N015"/>haltenden höheren Einheit bestimmt werden muss.
+			</p>
+         <pb facs="#f0017" n="6"/>
+            <p>
+				<lb n="N001"/>Dass dieser Grundgedanke nicht der auf Schwingungszalen
+				<lb n="N002"/>oder Saitenlängen gegründeten Zalenlehre, auch nicht der physi¬
+				<lb n="N003"/>kalischen Klanglehre entsprungen ist, liegt auf der flachen Hand.
+				<lb n="N004"/>Der geistvolle Schüler <hi rendition="#g"><persName>Hegel</persName></hi>'s macht hier nur eine einfache
+				<lb n="N005"/>Anwendung der spekulativen Prinzipien seines Meisters auf den
+				<lb n="N006"/>harmonikalen Wolklangsbegriff. Da ihm diese Anwendung aus¬
+				<lb n="N007"/>reichende Resultate zu geben scheint, weist er jede andere Grund¬
+				<lb n="N008"/>lage als überflüssig oder unrichtig ab. Über das erstere wollen
+				<lb n="N009"/>wir nicht mit ihm streiten, in dem letzteren aber hat er ent¬
+				<lb n="N010"/>schieden Unrecht; denn jede Spekulation, die sich über das innere
+				<lb n="N011"/>Seelenleben hinaus erstreckt, kann ihre Gesetzmässigkeit nicht
+				<lb n="N012"/>auf bloß psychologischem Wege nachweisen, sie bedarf dazu not¬
+				<lb n="N013"/>wendig der Beihülfe übereinstimmender oder wenigstens analoger
+				<lb n="N014"/>Resultate der exakten Wissenschaft.
+			</p>
+            <p>
+				<lb n="N001"/>Wir dürfen jedoch an dieser Stelle das eine und das andere
+				<lb n="N002"/>dahingestellt sein lassen und wollen nur dem weiteren Gedanken¬
+				<lb n="N003"/>gange <hi rendition="#g"><persName>Hauptmann</persName></hi>'s nachgehen, um zu zeigen, wie in dem
+				<lb n="N004"/>obigen Hauptsatze ein Kern dualistischer — Dur- und Mollgeschlecht
+				<lb n="N005"/>als Gegensätze betrachtender — Anschauung liegt, der für die
+				<lb n="N006"/>ganze musikalische Theorie fruchtbar und entscheidend hätte wer¬
+				<lb n="N007"/>den können. Da ihm die große Terz das den Dreiklang bestim¬
+				<lb n="N008"/>mende und zu harmonischer Einheit vollendende Moment ist, so
+				<lb n="N009"/>ist der Durdreiklang allerdings die augenfälligste und nächstliegende
+				<lb n="N010"/>Form musikalischen Zusammenklanges. Betrachten wir einen
+				<lb n="N011"/>solchen als <hi rendition="#g">tonischen</hi> <hi>Haupt</hi>-Dreiklang und stellen ihm als
+				<lb n="N012"/><hi rendition="#g">Neben</hi>dreiklänge den unterdominantischen und den oberdominan¬
+				<lb n="N013"/>tischen Durdreiklang gegenüber, so ist die Skala und nach neueren
+				<lb n="N014"/>Begriffen die Tonart vollständig bestimmt, z. B. C-Dur:
+			</p>
+         
+            <p>
+				<lb n="N001"/>Wie sich aber durch den Zusammenklang der Quint <hi rendition="#i">C G</hi>
+				<lb n="N002"/>mit der Terze als sekundäres Intervall die kleine Terz <hi rendition="#i">e G</hi> bildet,
+				<lb n="N003"/>so ergeben sich durch Zusammenstellung des tonischen Durdrei¬
+				<lb n="N004"/>klangs mit seinen durgeschlechtlichen Nebenaccorden noch vier
+				<lb n="N005"/><hi rendition="#g">Zwischen</hi>dreiklänge, nämlich außer den verminderten Drei¬
+            	<pb facs="#f0018" n="7"/>
+            	<lb n="N001"/>klängen <hi rendition="#i">D F a</hi> und <hi rendition="#i">h D F</hi> die ungleich wichtigeren <hi rendition="#i">a C e</hi> und
+				<lb n="N002"/><hi rendition="#i">e G h</hi>, in Bezug auf welche letztere die musikalische Erfarung
+				<lb n="N003"/>uns belehrt, dass sie neben ihrem Charakter als abgeleiteter Zwischen¬
+				<lb n="N004"/>accorde eine selbständige Bedeutung als Skalenbildner zu erlangen
+				<lb n="N005"/>vermögen. Das können sie aber nur vermöge der auch in ihnen
+				<lb n="N006"/>analog den Durdreiklängen durch die Verbindung von Quint und
+				<lb n="N007"/>(großer) Terz verkörperten höheren harmonischen Einheit. Der
+				<lb n="N008"/>Unterschied von den Durdreiklängen besteht nur darin, dass sich
+				<lb n="N009"/>die (große) Terz nicht an den tiefsten, sondern an den höchsten
+				<lb n="N010"/>Ton ansetzt. Dieser letztere, die Dominant, nicht die Tonika,
+				<lb n="N011"/>ist daher bei den Mollaccorden der einheitliche Ausgangspunkt,
+				<lb n="N012"/>der Haupt- und Stammklang, von welchem aus die harmonikalen
+				<lb n="N013"/>Beziehungen, zunächst die von Quint und Terz, nicht aufwärts,
+				<lb n="N014"/>sondern abwärts zu suchen sind. Mit einem Worte: <hi rendition="#g">Der Moll¬</hi>
+				<lb n="N015"/><hi rendition="#g">dreiklang ist das harmonikale Gegenbild des</hi>
+				<lb n="N016"/><hi rendition="#g">Durdreiklanges</hi>.
+            </p>
+            <p>
+				<lb n="N001"/>Was hätte sich nicht alles aus der konsequenten Durchfürung
+				<lb n="N002"/>dieses unbezweifelbar richtigen Satzes herleiten lassen! Denn,
+				<lb n="N003"/>was von den beiden Dreiklängen gilt, muss folgerichtig von den
+				<lb n="N004"/>beiden Tongeschlechtern überhaupt gelten. Die Quint muss im
+				<lb n="N005"/>Mollgeschlechte eine der Durtonika entsprechende Bedeutung haben.
+				<lb n="N006"/>Geht die Durtonleiter von der Tonika aus, so muss die ent¬
+				<lb n="N007"/>sprechende Molltonleiter von der Quint ausgehen; steigt die Dur¬
+				<lb n="N008"/>skala aufwärts, so steigt ihr Gegenbild abwärts; besteht die erstere
+				<lb n="N009"/>aus dem tonischen Durdreiklang nebst dem oberdominantischen
+				<lb n="N010"/>und unterdominantischen, sowie zwei mollartigen Zwischenaccorden:
+				
+            	<lb n="N001"/>so setzt sich die letztere aus dem von der Dominant absteigenden
+				<lb n="N002"/>nebst den beiden von der Tonika und der Oberquint der Dominant
+				<lb n="N003"/>absteigenden Molldreiklängen zusammen und entbehrt auch nicht
+				<lb n="N004"/>jener zwei Zwischenaccorde, die jetzt durartig sind, z. B. C-moll:
+            	
+            </p>
+            <p>
+				<lb n="N001"/>Soweit ist <hi rendition="#g"><persName>Hauptmann</persName></hi> jedoch nicht gekommen. Er setzt
+				<lb n="N002"/>zur Erklärung der Molltonart one genügende Beweisfürung dem
+            	<pb facs="#f0019" n="8"/>
+            	<lb n="N001"/>dominantischen Stammaccorde <hi rendition="#i">C es G</hi> einen tonischen Oberaccord
+				<lb n="N002"/><hi rendition="#i">G h D</hi> zur Seite und sagt nun, dass eine „Weiterbildung” aus
+				<lb n="N003"/>diesem Anfange „nach der Unterdominantseite nur in Durdrei¬
+				<lb n="N004"/>klängen möglich” sei ( S. 19 und 20). Diese
+				<lb n="N005"/>gänzlich ungegründete Behauptung fördert die alle Analogie mit
+				<lb n="N006"/>der Durtonart zerstörende Missgestalt zu Tage:
+            	
+            	<lb n="N001"/>welche bei dann bei der melodischen Zusammenstellung zu einer
+				<lb n="N002"/>Tonleiter (), widerum one zwingenden Grund, den beiden
+				<lb n="N003"/>anderen Formen, einer aufsteigenden Leiter mit <hi rendition="#i">A h</hi> und einer
+				<lb n="N004"/>absteigenden mit <hi rendition="#i">B as</hi> weichen muss. Hier hat, wie man leicht
+				<lb n="N005"/>erkennt, das „natürliche musikalische Gefül”, dem wir bei <hi rendition="#g"><persName>Gott¬
+				<lb n="N006"/>fried Weber</persName></hi> so gern begegnen, ein auf guter Grundlage be¬
+				<lb n="N007"/>gonnenes System zu Falle gebracht, und die Hauptrolle spielt bei
+				<lb n="N008"/>diesem Zerstörungswerke der — Leitton, jene betrübteste Erfin¬
+				<lb n="N009"/>dung der grundsatzlosen modernen Theorie. <hi rendition="#g"><persName>Hauptmann</persName></hi>'s
+				<lb n="N010"/>Molltonart ist in keinem Sinne eine Tonart. Wenn man dieses
+				<lb n="N011"/>Wort nicht in der banalen Bedeutung von „Trope” nimmt, so
+				<lb n="N012"/>muss von einer „Tonart” verlangt werden, dass sie entweder eine
+				<lb n="N013"/>diatonisch verlaufende und zunächst melodisch gegliederte Oktaven¬
+				<lb n="N014"/>gattung sei, oder dass sie nach Wegfall der den Unterschied des
+				<lb n="N015"/>Authentischen und Plagalischen bedingenden Umfangsbegrenzung
+				<lb n="N016"/>ein Oktavengattungspar jener Art vertrete. Eine solche Tonart
+				<lb n="N017"/>hat dann natürlicherweise auch ihr leitereigenes Accordsystem.
+				<lb n="N018"/><persName><hi rendition="#g">Hauptmann</hi>'s</persName> Moll ist aber nur Accordsystem, es ist nicht
+				<lb n="N019"/>melodieenbildnerisch, es produzirt nicht viel mehr, als eine Kadenz.
+				<lb n="N020"/>Auch ein Gegenbild dieses unfruchtbaren Accordsystems hat
+				<lb n="N021"/><hi rendition="#g"><persName>Hauptmann</persName></hi> geschaffen, one aber dessen gegenbildlichen Cha¬
+				<lb n="N022"/>rakter zu erkennen; denn er nennt es „Molldurtonart” (
+				<lb n="N023"/>S. 21 f.; 29):
+            	
+            	<lb n="N001"/>Folgerichtig hätte er seiner Molltonart den Namen „Durmolltonart”
+				<lb n="N002"/>geben müssen. Wir hoffen später auf ein ganz anderes Moll-Dur
+            	<pb facs="#f0020" n="9"/>
+            	<lb n="N001"/>und Dur-Moll wenigstens hinzudeuten, das etwas mehr hervorzu¬
+				<lb n="N002"/>bringen vermag, als blosse aus dem einen Tongeschlecht ins an¬
+				<lb n="N003"/>dere hinübergreifende Kadenzen. Für unsern nächsten Zweck ist
+				<lb n="N004"/>das Ergebnis unserer Kritik dieses, dass <hi rendition="#g"><persName>Hauptmann</persName></hi>'s scharf¬
+				<lb n="N005"/>sinnige Erklärung des Wesens der Dreiklangsharmonie allerdings
+				<lb n="N006"/>für die musikalische Theorie eine dualistische Grundlage geschaffen
+				<lb n="N007"/>hat, dass aber diese in ihren Wirkungen vorläufig noch nicht bis
+				<lb n="N008"/>zur genauen Fixirung der Mollskala durchgedrungen ist.
+			</p>
+            <p>
+				<lb n="N001"/>Schlimmer aber, als die mangelhafte Durchfürung ist für
+				<lb n="N002"/><hi rendition="#g"><persName>Hauptmann</persName></hi>'s dualistische Grundlage der Umstand, dass sie
+				<lb n="N003"/>auf einem spekulativen Satz ruht, dessen Berechtigung lediglich
+				<lb n="N004"/>durch rein musikalisch-ästhetische Empirie nachzuweisen ist.
+				<lb n="N005"/>Wenn die Natur selbst, die uns das Tonmaterial liefert, die psychi¬
+				<lb n="N006"/>sche Reception auch nach der ästhetischen Seite hin nicht bis zu
+				<lb n="N007"/>den Dreiklängen und über dieselben hinaus beeinflusste, so wäre
+				<lb n="N008"/>die Festigkeit dieser Grundlage vielleicht one Hinzunahme der
+				<lb n="N009"/>physikalischen Wissenschaft genügend nachzuweisen. Dem ist
+				<lb n="N010"/>aber nicht so. Die Natur schafft nicht bloß Töne, Einzeltöne,
+				<lb n="N011"/>die der Mensch sich in beliebiger Auswal zusammensetzen kann;
+				<lb n="N012"/>sie schafft auch, und zwar vorwiegend, Zusammenklänge, Tonver¬
+				<lb n="N013"/>bindungen, die als die Produkte von unumstößlichen Naturgesetzen
+				<lb n="N014"/>one Zweifel die einzig richtigen Wegweiser in das Gebiet der
+				<lb n="N015"/>musikalischen Theorie hinein sind. Durch das Zusammentreffen
+				<lb n="N016"/>gewisser Bewegungsformen der Materie mit dem aufnehmenden
+				<lb n="N017"/>und reagirenden Gehörsnerv entsteht in der Phantasie das Tonbild,
+				<lb n="N018"/>dem gegenüber der Geist sich in ein doppeltes Verhältnis setzt.
+				<lb n="N019"/>Mit dem beobachtenden Verstande werden die Klänge nach ihren
+				<lb n="N020"/>drei Momenten, der Stärke, der Höhe, und der „Farbe”<note type="remarkSource" n="1)"><lb n="N001"/>Der Ausdruck „Farbe” ist eigentlich nicht so ganz entsprechend. Den optischen
+				<lb n="N002"/>Farbenerscheinungen entspricht die Tonhöhe; die „Klangfarbe” scheidet die Töne nach
+				<lb n="N003"/>ihrer Mischung.</note> erforscht
+				<lb n="N021"/>und gemessen, mit dem Begehrungsvermögen werden sie entweder
+				<lb n="N022"/>als schön, begehrenswert, erfasst und geliebt, oder <hi rendition="#g">nicht</hi> er¬
+				<lb n="N023"/>fasst und mit Missfallen abgestoßen. Die Verstandesoperationen
+				<lb n="N024"/>verlaufen nur nach einer Richtung und sind ideell nur durch die
+				<lb n="N025"/>Beschränktheit des Reaktionsvermögens des Gehörsnervs begrenzt.
+				<lb n="N026"/>Das Wollen und Wünschen aber stellt eine Grenze auf zwischen
+            	<pb facs="#f0021" n="10"/>
+            	<lb n="N001"/>Begehrenswertem und Unschönem; und je mehr es durch die sitti¬
+				<lb n="N002"/>gende Kultur geläutert ist, mit desto sichererem Geschmacke wird
+				<lb n="N003"/>es die beiden Gebiete scheiden. Das Unschöne ist freilich nicht
+				<lb n="N004"/>wesentlich <hi rendition="#g">hässlich</hi>. Da es sich hier noch um reines Natur¬
+				<lb n="N005"/>produkt handelt, so wont in ihm vollkommene Gesetzmässigkeit,
+				<lb n="N006"/>welche ja das Objektive der Schönheit ist; aber die begehrende
+				<lb n="N007"/>Seite des Menschengeistes vermag nur einen Teil des Gesetz¬
+				<lb n="N008"/>mässigen zu erfassen und, weil sie ihn erfasst, zu lieben.<note type="remarkSource" n="1)"><lb n="N001"/> von <persName>Dr. Eduard <hi rendition="#g">Krüger</hi></persName>. <placeName ref="#L0024">Münster</placeName>, <date when="1870">1870</date>, S. 20: „Aller
+				<lb n="N002"/>Schönheit verborgener Liebeszug offenbart sich in dem Suchen und Finden, dem Mit¬
+				<lb n="N003"/>leben: Die <hi rendition="#g">Symbiosis</hi> der Geschlechtsliebe ist Ur- und Abbild aller Symmetrie, Sym¬
+				<lb n="N004"/>pathie, <hi rendition="#g">Symphonie</hi>”.</note> Un¬
+				<lb n="N009"/>messbares gibt es zuletzt nicht mehr für den forschenden und
+				<lb n="N010"/>rechnenden Verstand; aber manches bleibt für die  <hi rendition="#g">un¬</hi>
+				<lb n="N011"/><hi rendition="#g">fassbar</hi>.<note type="remarkSource" n="2)"><lb n="N001"/> S. 9: „Alles Schöne trägt wie alles Lebendige einen mystischen Ueber¬
+				<lb n="N002"/>schuss des Lebens, der nicht in die Division aufgeht.”</note>
+			</p>
+            <p>
+				<lb n="N001"/>Doch sind die Banen der Tätigkeit des einen und unteilbaren
+				<lb n="N002"/>Geistes one Zweifel nur formell getrennt; die materiellen Resultate
+				<lb n="N003"/>müssen analog und bis zu einem gewissen Punkte übereinstimmend
+				<lb n="N004"/>sein. Zwar decken sich Gesetzmässigkeit und Schönheit nicht,
+				<lb n="N005"/>weil die erstere nur <hi rendition="#g">quantitative</hi> Unterschiede, vom Ein¬
+				<lb n="N006"/>fachsten bis zum Zusammengesetztesten, aufweist, die letzterei da¬
+				<lb n="N007"/>gegen einem <hi rendition="#g">qualitativen</hi> Gegensatze sich gegenüber ge¬
+				<lb n="N008"/>stellt sieht.
+			</p>
+            <p>
+				<lb n="N001"/>Dennoch muss sich die allgemeine Regel auch hier bewar¬
+				<lb n="N002"/>heiten, dass das Schöne aus der einfacheren Gesetzlichkeit resultirt,
+				<lb n="N003"/>wärend diejenigen Naturprodukte, welche komplicirteren Gesetzen
+				<lb n="N004"/>folgen, von einer gewissen, entweder genau oder doch annähernd
+				<lb n="N005"/>bestimmbaren Grenze an das Schönheitsgefül in der Seele nicht
+				<lb n="N006"/>mehr zu erregen vermögen.
+			</p>
+            <p>
+				<lb n="N001"/>Nach diesem teilt sich die musikalische Elementartheorie
+				<lb n="N002"/>in zwei Gebiete, ein <hi rendition="#g">physikalisch-mathematisches</hi>
+				<lb n="N003"/>und ein <hi rendition="#g">ästhetishes</hi>. Erst nachdem das erstere die Gesetz¬
+				<lb n="N004"/>lichkeit der Tonverbindungen geprüft, den Einfluss, welchen die
+				<lb n="N005"/>natürlichen, unvermeidlichen Zusammenklänge auf die nach künst¬
+				<lb n="N006"/>lerischer Entwickelung des Schönen strebende Seele ausüben
+				<lb n="N007"/>müssen, dargelegt, kurz, das ganze natürliche Klangsystem in
+            	<pb facs="#f0022" n="11"/>
+            	<lb n="N001"/>seinen Ursachen und Wirkungen, mit seinen verwandtschaftlichen
+				<lb n="N002"/>und gegensätzlichen Beziehungen klargestellt hat, erst dann darf
+				<lb n="N003"/>die musikalisch-künstlerische Erfarung an die Aufstellung der
+				<lb n="N004"/>Grenze des Schönen gehen, erst dann kann sie auf ihrem Gebiete
+				<lb n="N005"/>mit Sicherheit die musikalische Theorie zur Vollendung bringen.
+			</p>
+            <p>
+				<lb n="N001"/>Doch um gegen die älteren Harmoniker gerecht zu sein,
+				<lb n="N002"/>dürfen wir die Bemerkung nicht unterdrücken, dass die hier aus¬
+				<lb n="N003"/>gesprochene Warheit erst ganz erkannt wurde, als einer der größ¬
+				<lb n="N004"/>ten physikalischen Forscher <date>unserer Zeit</date> die Arbeit schon getan
+				<lb n="N005"/>hatte, die seinem Gebiete oblag. Durch <hi rendition="#b"><persName>Hermann Helmholtz</persName></hi><note type="remarkSource" n="1)"><lb n="N001"/> <placeName ref="#L0004">Braunschweig</placeName> <date when="1865">1865</date>.
+				<lb n="N002"/>Leider ist Ref. nicht in der Lage gewesen, die 3., vor einigen Jaren erschienene
+				<lb n="N003"/>Auflage zu benutzen.</note>
+				<lb n="N006"/>haben wir erst vollkommenen Einblick in die grossen Geheimnisse
+				<lb n="N007"/>der natürlichen Tonwelt bekommen und damit erkannt, wie man¬
+				<lb n="N008"/>ches in der Natur schon vorgebildet ist, was als Kunstgesetz der
+				<lb n="N009"/>musikalisch-ästhetische Sinn seit Jartausenden unverrückt festge¬
+				<lb n="N010"/>halten hat. Die bis ins Kleinste durchgefürten Auseinander¬
+				<lb n="N011"/>setzungen <persName>dieses Gelehrten</persName> über Obertöne und Kombinationstöne
+				<lb n="N012"/>sind in seltenem Masse populär geworden, und gerade diese sind
+				<lb n="N013"/>für unseren Zweck von Wichtigkeit, weil von dem abwechselnden
+				<lb n="N014"/>Auftreten dieser Erscheinungen die Klangfarbe abhängt, in deren
+				<lb n="N015"/>Bereiche die ästhetische Auffassungskraft des Geistes ihre wich¬
+				<lb n="N016"/>tigsten Scheidungen macht. Sieht man von den sogenannten Ge¬
+				<lb n="N017"/>räuschen ab, welche übrigens nicht absolut unmessbar, sondern
+				<lb n="N018"/>nur unfassbar sind, so muss auf dem Gebiete des Naturschönen
+				<lb n="N019"/>der „volle” Ton als das vollkommenste, schönste Gebild gelten.
+				<lb n="N020"/>Ihm gegenüber stehen die zwei Extreme des „dumpfen” und des
+				<lb n="N021"/>„scharfen” Tones. <hi rendition="#g"><persName>Helmholtz</persName></hi> weist nun unwiderleglich nach,
+				<lb n="N022"/>dass der volle Ton sich durch das deutliche Vorherrschen der un¬
+				<lb n="N023"/>teren Partialtöne, etwa vom ersten bis zum sechsten auszeichne.
+				<lb n="N024"/>Bei dem scharfen Tone herrschen die höheren (von <persName>H.</persName> unhar¬
+				<lb n="N025"/>monisch genannten) Obertöne zu sehr vor; der dumpfe Ton ent¬
+				<lb n="N026"/>behrt der Obertöne ganz oder fast ganz. <hi rendition="#g">Der schönste na¬</hi>
+				<lb n="N027"/><hi rendition="#g">türliche Ton ist also gar kein Einzelton, er ist</hi>
+				<lb n="N028"/><hi rendition="#g">ein Accord, und zwar ein Duraccord</hi>. Die Wichtig¬
+				<pb facs="#f0023" n="12"/>
+            	<lb n="N001"/>keit dieser Warheit ist unschwer zu erkennen. Am Schönen und
+				<lb n="N002"/>Schönsten will der Mensch sich ergötzen; in seiner Anschauung
+				<lb n="N003"/>auszuruhen, sich in sie zu versenken, das ist ihm Genuss. Darum
+				<lb n="N004"/>lässt er sich durch den geheimnisvollen Zug der Natur dahin leiten,
+				<lb n="N005"/>das, was den leeren Ton zum vollen, das Unbefriedigende zum
+				<lb n="N006"/>Vollschönen macht, durch eigenes Zutun noch stärker hervorzu¬
+				<lb n="N007"/>heben. Der so entstehende künstliche Duraccord ist dann, wenn
+				<lb n="N008"/>er sich dem natürlichen vollkommen anschließt, nichts anderes,
+				<lb n="N009"/>als der natürliche Klang in potenzirter Fülle. Wir müssen an
+				<lb n="N010"/>diesem Satze festhalten und von ihm ausgehen, wenn wir damit
+				<lb n="N011"/>auch vielleicht <persName><hi rendition="#g">Helmholtz</hi>'</persName> Resultate zum Teil überschreiten,
+				<lb n="N012"/>und wenn auch unserer Neigung, das Mollgeschlecht dem Durge¬
+				<lb n="N013"/>schlecht ebenbürtig zur Seite zu stellen, damit ein schwerer Stoß
+				<lb n="N014"/>versetzt wird. Ist der Einzelklang, sobald er durch seine Fülle
+				<lb n="N015"/>dem Begriffe des Schönen vollkommen entspricht, mit einem Dur¬
+				<lb n="N016"/>accord identisch, so ist andererseits der Duraccord nichts anderes,
+				<lb n="N017"/>als der Einzelklang mit künstlerischer Verstärkung und teilweiser
+				<lb n="N018"/>Ergänzung derjenigen Bestandteile von ihm, die ihm seinen äs¬
+				<lb n="N019"/>thetischen Hauptwert verleihen. Wir fülen es wol, dass die hier
+				<lb n="N020"/>zu Tage tretende Bevorzugung des Durgeschlechtes ans Paradoxe
+				<lb n="N021"/>zu streifen scheint; aber wir müssen es mit den Konsequenzen
+				<lb n="N022"/>exakter Forschungen ganz genau nehmen: <hi rendition="#g">Die Natur kennt</hi>
+				<lb n="N023"/><hi rendition="#g">nur Durklänge</hi>.
+            </p>
+            <p>
+				<lb n="N001"/>Noch mehr! Nehmen wir <hi rendition="#g">künstlich</hi> irgend einen Zu¬
+				<lb n="N002"/>sammenklang, z. B. <hi rendition="#i">c</hi>}—<hi rendition="#i">g</hi>} <note type="remarkSource" n="1)"><lb n="N001"/>Wir verlassen hier wieder die oben zur Andeutung der kommatischen Unter¬
+				<lb n="N002"/>schiede angewendete <persName><hi rendition="#g">Hauptmann</hi>'sche</persName> Bezeichnungsweise und adoptiren die alten
+				<lb n="N003"/>Strichbezeichnungen zur Unterscheidung der Oktaven.</note> oder <hi rendition="#i">c</hi>}—<hi rendition="#i">e</hi>}, so haben wir weiter nichts,
+				<lb n="N003"/>als im ersten Falle den Klang <hi rendition="#i">c</hi>, im zweiten den Klang <hi rendition="#i">C</hi>; von
+				<lb n="N004"/>einem regelrecht angeschlagenen Einzelklange <hi rendition="#i">c</hi> bezw. <hi rendition="#i">C</hi> unter¬
+				<lb n="N005"/>scheiden sich beide Zusammenklänge nur durch die Klangfarbe;
+				<lb n="N006"/>der zweite und dritte, bezw. vierte und fünfte Partialton und
+				<lb n="N007"/>teilweise einige höhere Partialtöne treten außergewönlich stark
+				<lb n="N008"/>hervor. Daraus ergibt sich eine eigentümliche Färbung, aber
+				<lb n="N009"/>keine Wesensänderung des Klanges. Auf das Vorhandensein der
+				<lb n="N010"/>tieferen Partialtöne des Klanges und selbst des Grundtones würde
+				<lb n="N011"/>es hiebei nicht einmal ankommen, aber die Natur tritt auch hier
+            	<pb facs="#f0024" n="13"/>
+            	<lb n="N001"/>nachhelfend ein. Je leerer die angeschlagenen Einzelklänge sind,
+				<lb n="N002"/>je weniger sie einen selbständigen durgeschlechtlichen Charakter
+				<lb n="N003"/>zu offenbaren vermögen, desto deutlicher treten die Kombinations¬
+				<lb n="N004"/>töne hervor, und gerade die stärksten unter ihnen sind Grundton
+				<lb n="N005"/>und tiefere Partialtöne des Klanges. Es ist also gleichsam ein
+				<lb n="N006"/>Bestreben der Natur vorhanden, diese Zusammenklänge zu einem
+				<lb n="N007"/>Durklange mit vollerer Färbung zu verdichten. Nehmen wir
+				<lb n="N008"/>beispielsweise den Dreiklang <hi rendition="#i">c</hi>}—<hi rendition="#i">e</hi>}—<hi rendition="#i">g</hi>}, so erklingen in der Tiefe
+				<lb n="N009"/>deutlich die Töne <hi rendition="#i">c</hi>}—<hi rendition="#i">e</hi>}—<hi rendition="#i">g</hi>}, und zwar der erste am deutlichsten,
+				<lb n="N010"/>der letzte (nur Kombinationston zweiter Ordnung) am schwächsten.
+				<lb n="N011"/>Der Dreiklang <hi rendition="#i">c</hi>}—<hi rendition="#i">e</hi>}—<hi rendition="#i">g</hi>} ist der Klang <hi rendition="#i">C</hi>. Seine Fülle würde
+				<lb n="N012"/>größer sein, wenn wir die tieferen Töne <hi rendition="#i">C</hi>, <hi rendition="#i">c</hi>, <hi rendition="#i">g</hi> künstlich ver¬
+				<lb n="N013"/>stärkten.
+			</p>
+            <p>
+				<lb n="N001"/>So scheint also alles nach einem Prinzip hinzuarbeiten, der
+				<lb n="N002"/>volle Klang, d. h. der Duraccord scheint die einzige „Seele der
+				<lb n="N003"/>Harmonie”, der einzige vollkommene Ruhepunkt, die einzige
+				<lb n="N004"/><hi rendition="#g">Tonika</hi> werden zu wollen.
+			</p>
+            <p>
+				<lb n="N001"/>Man möge nicht übersehen, dass wir uns bei vorstehenden
+				<lb n="N002"/>Ausfürungen keinerlei Abweichungen von den <persName><hi rendition="#g">Helmholtz</hi>'schen</persName>
+				<lb n="N003"/>Resultaten erlaubt haben. Nur Licht und Schatten haben wir
+				<lb n="N004"/>verwechseln zu dürfen geglaubt. Während <hi rendition="#g"><persName>Helmholtz</persName></hi> die
+				<lb n="N005"/>Kombinationstöne hauptsächlich als „Störungen des Zusammen¬
+				<lb n="N006"/>klanges” behandelt, haben wir ihnen dagegen lediglich insoferne
+				<lb n="N007"/>unsere Aufmerksamkeit geschenkt, als sie den Zusammenklang
+				<lb n="N008"/><hi rendition="#g">unterstützen</hi>. Störungen sind fast bei jedem Klange mehr
+				<lb n="N009"/>oder weniger vorhanden. Sofern sie unfassbare Geräusche sind,
+				<lb n="N010"/>können sie dem konsonannten Charakter eines Klanges nicht bei¬
+				<lb n="N011"/>kommen, sind sie bestimmte Töne, und zwar solche, die in fass¬
+				<lb n="N012"/>barem Verhältnis zu den übrigen Tönen des Klanges stehen, so
+				<lb n="N013"/>beeinflussen sie wesentlich die Natur dieses Klanges; sie müssen
+				<lb n="N014"/>mit in Anschlag gebracht werden, wenn man dem Klange das
+				<lb n="N015"/>System anweisen will, innerhalb dessen er eine bestimmte Fär¬
+				<lb n="N016"/>bung repräsentirt. Dies wird vornehmlich bei den Klängen
+				<lb n="N017"/>wichtig, bei denen nicht die Fülle, sondern die Schärfe durch
+				<lb n="N018"/>künstliche Zutat potenzirt erscheint. Was ist beispielsweise der
+				<lb n="N019"/>dissonante Accord <hi rendition="#i">c</hi>} <hi rendition="#i">f</hi>} <hi rendition="#i">g</hi>} <hi rendition="#i">c</hi>}} anders, als ein ziemlich scharf gefärb¬
+				<pb facs="#f0025" n="14"/>
+            	<lb n="N001"/>ter <hi rendition="#i">F</hi>{-Klang? Partialtöne höherer Ordnung sind hier künstlich
+				<lb n="N002"/>verstärkt, nämlich der 6., 8., 9. und 12., während der Grundton
+				<lb n="N003"/>wie der 2.—4. Partialton nur als Differenztöne erster Ordnung
+				<lb n="N004"/>zwar deutlich, aber den ersteren gegenüber nicht mit der erforder¬
+				<lb n="N005"/>lichen Stärke ertönen. Die Schärfe wird noch durch die deut¬
+				<lb n="N006"/>lichen Schwebungen der nahe an einander liegenden Töne <hi rendition="#i">f</hi>} <hi rendition="#i">g</hi>} und
+				<lb n="N007"/>und ihrer Obertöne erheblich vermehrt.<note type="remarkSource" n="1)"><lb n="N001"/>Ein ferneres, auf melodischer Behandlung von f} und g} als selbständigen Klän¬
+				<lb n="N002"/>gen beruhendes Moment muss an dieser Stelle außer Berechnung bleiben.</note> Zu den dissonanten
+				<lb n="N008"/>Accorden in diesem Sinne, d. h. zu den künstlich verschärften
+				<lb n="N009"/>Durklängen gehört unter vielen andern auch der Molldreiklang.
+				<lb n="N010"/>Der Zusammenklang <hi rendition="#i">c</hi>} <hi rendition="#i">es</hi>} <hi rendition="#i">g</hi>} z. B. ist der Klang <hi rendition="#i">As</hi>{{. Der 10.
+				<lb n="N011"/>12. und 15. Partialton sind künstlich hervorgehoben. In der
+				<lb n="N012"/>Tiefe weisen die deutlichen Kombinationstöne <hi rendition="#i">As</hi>{, <hi rendition="#i">Es</hi> <hi rendition="#i">c</hi> (2, 3, 5)
+				<lb n="N013"/>auf den durgeschlechtlichen Zeugerton <hi rendition="#i">As</hi>{{ unwiderstehlich hin.
+				<lb n="N014"/>Die Klangfarbe wird durch sie der vollkommeneren Schönheit des
+				<lb n="N015"/>vollen Tones näher gebracht. Gestört wird der Zusammenklang
+				<lb n="N016"/>durch diese Kombinationstöne keineswegs; im Gegenteil wird die
+				<lb n="N017"/>störende Schärfe dieser von den Elementen der vollen Klangfarbe
+				<lb n="N018"/>schon sehr weit entfernten Klangform durch sie gemildert. Die
+				<lb n="N019"/>Schärfe oder Störung selbst liegt in der hohen Ordnung der ver¬
+				<lb n="N020"/>stärkten Partialtöne. Setzen wir <hi rendition="#i">as</hi>} statt <hi rendition="#i">g</hi>}, so ist die Fülle so¬
+				<lb n="N021"/>fort bedeutend größer. Wir haben jetzt nicht mehr den Klang
+				<lb n="N022"/><hi rendition="#i">As</hi>{{, sondern den Klang <hi rendition="#i">As</hi>{, und <hi rendition="#i">c</hi>} <hi rendition="#i">es</hi>} <hi rendition="#i">as</hi>} bilden nunmehr den 5.
+				<lb n="N023"/>6. und 8. Partialton.
+            </p>
+            <p>
+				<lb n="N001"/>Die an vorstehenden Beispielen illustrirte Regel findet in der
+				<lb n="N002"/>Theorie eigentlich gar keine Einschränkung, weil jedes Intervall,
+				<lb n="N003"/>jeder Accord, sich durch Ganzzalen ausdrücken lässt, deren Diffe¬
+				<lb n="N004"/>renzen solchen Kombinationstönen entsprechen, welche den dur¬
+				<lb n="N005"/>geschlechtlich-einheitlichen Charakter des Klanges mehr oder
+				<lb n="N006"/>weniger hervorheben. Von der ästhetischen Erkennbarkeit des
+				<lb n="N007"/>tonikalen Wesens eines Zusammenklanges wird aber one Zweifel
+				<lb n="N008"/>seine <hi rendition="#g">praktische Anwendbarkeit</hi> abhängen. Doch hier
+				<lb n="N009"/>treten wir aus dem natürlichen Gebiete heraus, innerhalb dessen
+				<lb n="N010"/>es sich nur um Fülle und Schärfe, also um die allgemeinsten
+            	<pb facs="#f0026" n="15"/>
+            	<lb n="N001"/>ästhetischen Begriffe handeln konnte. — Innerhalb der von <hi rendition="#g"><persName>Helm¬
+				<lb n="N002"/>holtz</persName></hi> geltend gemachten Gesichtspunkte wird das Besprochene
+				<lb n="N003"/>so ziemlich hinreichen, um den Anhalt zu kennzeichnen, welchen
+				<lb n="N004"/>die Musik nach Richtung der Tonika und der tonikalen Verwandt¬
+				<lb n="N005"/>schaft in den natürlichen Klangbeziehungen findet.
+			</p>
+            <p>
+				<lb n="N001"/>Fassen wir mit Rücksicht auf das Verhältnis von Dur und
+				<lb n="N002"/>Moll das Resultat in einige Sätze zusammen:
+			</p>
+      	<list>
+      		<item>
+      			<lb n="N001"/>1. Einklang und Zusammenklang sind in ihrem Wesen nicht
+				<lb n="N002"/>verschieden.
+      		</item>
+      		<item>
+      			<lb n="N003"/>2. Jeder Klang ist tonikaler und zwar durgeschlechtlicher
+				<lb n="N004"/>Natur. Die Durtonika ist für jeden Klang von der Natur ge¬
+				<lb n="N005"/>geben.
+      		</item>
+      		<item>
+      			<lb n="N006"/>3. In dem Verhältnisse der einzelnen Töne eines Klanges zur
+				<lb n="N007"/>Durtonika findet jeder Klang einerseits seine Stellung in dem nach
+				<lb n="N008"/>Höhe und Tiefe in unendlicher Abstufung zu denkenden Ton¬
+				<lb n="N009"/>material, andererseits seine ursprünglichste ästhetische Bedeutung
+				<lb n="N010"/>nach Richtung der Fülle und Schärfe.
+      		</item>
+      		<item>
+      			<lb n="N011"/>4. Der Grad der Verwandtschaft eines Einzeltones oder Zu¬
+				<lb n="N012"/>sammenklanges mit seiner Tonika nach der rein elementaren Seite
+				<lb n="N013"/>hin wird bestimmt durch die Rangordnung der bei demselben in
+				<lb n="N014"/>Frage kommenden Partialtöne. Die von der Tonika = 1 in gan¬
+				<lb n="N015"/>zen Zalen aufsteigende arithmetische Reihe bezeichnet diese Rang¬
+				<lb n="N016"/>ordnung, und zugleich drücken alle Zalen dieser Reihe, auf die
+				<lb n="N017"/>Einheit der Tonika bezogen, die Schnelligkeit der Schwingungen
+				<lb n="N018"/>aus, denen der durch sie bezeichnete Ton seine Entstehung
+				<lb n="N019"/>verdankt.
+      		</item>
+      		<item>
+      			<lb n="N020"/>5. Was man in der Musik Konsonanz und Dissonanz nennt,
+				<lb n="N021"/>ist als qualitativer Dualismus aus den natürlichen Klangverhält¬
+				<lb n="N022"/>nissen nicht vollständig zu erklären, da hier nur graduelle Unter¬
+				<lb n="N023"/>schiede aufgezeigt werden.
+      		</item>
+      		<item>
+      			<lb n="N024"/>6. Der sogenannte Molldreiklang ist eine der schärferen, ihrem
+				<lb n="N025"/>tonikalen Wesen nach schwerer zu erkennenden und als schön
+				<lb n="N026"/>zu würdigenden Klangformen, weil seine Tonika schon sehr weit
+				<lb n="N027"/>von denjenigen Partialtönen (10, 12, 15) entfernt ist, deren Ver¬
+				<lb n="N028"/>stärkung ihm seine eigenartige Klangfarbe verleiht.
+      		</item>
+      		<item>
+      			<lb n="N029"/>7. Die Möglichkeit, den Molldreiklang als abgeleiteten Accord
+      			<pb facs="#f0027" n="16"/>
+      			<lb n="N001"/>im Durgeschlechte praktisch anzuwenden, kann aus physikalisch-
+				  <lb n="N002"/>physiologischen Gründen nicht bestritten werden; der Nachweis
+				  <lb n="N003"/>dafür wird durch ästhetische Erwägungen geliefert werden müssen.
+      		</item>
+      		<item>
+      			<lb n="N004"/>8. Wenn die Lehre von der natürlichen Verwandtschaft jedes
+				<lb n="N005"/>Zusammenklanges mit einem bestimmten Stammton für die natur¬
+				<lb n="N006"/>gemäße Bildung künstlerischer Normalformen, als Accorde, Skalen,
+				<lb n="N007"/>entscheidend ist, und wenn sich außer den von <hi rendition="#g"><persName>Helmholtz</persName></hi>
+				<lb n="N008"/>in die Berechnung gezogenen keine anderen Phänomene, oder in
+				<lb n="N009"/>diesen keine neuen Gesichtspunkte darbieten sollten, so ist die
+				<lb n="N010"/>Existenz eines mit dem Durgeschlecht parallelen selbständigen
+				<lb n="N011"/>Mollgeschlechts unmöglich, und selbst als unvollkommene Abart
+				<lb n="N012"/>des Durgeschlechts bleibt letzteres unerklärlich.
+      		</item>
+      	</list>
+            <p>
+				<lb n="N001"/>Dass <hi rendition="#g"><persName>Helmholtz</persName></hi> an ein solches Resultat nicht im ent¬
+				<lb n="N002"/>ferntesten gedacht habe, braucht kaum bemerkt zu werden; aber
+				<lb n="N003"/>die Art und Weise, wie er demselben entgeht, scheint uns mit
+				<lb n="N004"/>Rücksicht auf seine eigenen wissenschaftlichen Entdeckungen nicht
+				<lb n="N005"/>gerechtfertigt. Er hält sich nämlich mit Bezug auf die historisch
+				<lb n="N006"/>vorliegenden Accordbildungen und sonstigen Tonverbindungen und
+				<lb n="N007"/>Klänge nur an den rein elementaren Wolklang und bestimmt den
+				<lb n="N008"/>höheren oder geringeren Grad desselben je nach der durch Schwe¬
+				<lb n="N009"/>bungen und Kombinationstöne hervorgerufenen größeren oder ge¬
+				<lb n="N010"/>ringeren Rauhigkeit, weist aber den Einfluss der natürlichen
+				<lb n="N011"/>Tonika eines Zusammenklanges auf die Begriffe von Konsonanz
+				<lb n="N012"/>und Dissonanz zurück. Damit fallen die künstlerische Tonika
+				<lb n="N013"/>als Moment der Ruhe, und ihre verwandtschaftlichen Gegensätze
+				<lb n="N014"/>als Momente der Bewegung, kurz die ganze Skalenbildung ledig¬
+				<lb n="N015"/>lich einer Art von konventioneller Uebereinkunft anheim, welche
+				<lb n="N016"/>nicht mehr durch die natürlichen Beziehungen der Töne unter
+				<lb n="N017"/>einander, sondern durch die Geschmacksrichtungen der Völker,
+				<lb n="N018"/>also durch solche ästhetische Gesichtspunkte geregelt wird, die
+				<lb n="N019"/>nicht einmal allgemeiner psychologischer Notwendigkeit entsprin¬
+				<lb n="N020"/>gen. Dass gewisse nicht genügend aufgeklärte Erscheinungen in
+				<lb n="N021"/>der heutigen morgenländischen Musik nicht weniger, als die —
+				<lb n="N022"/>übrigens höchst unzuverlässigen — Berichte der meist einer
+				<lb n="N023"/>Periode tiefsten Kunstverfalles angehörigen griechischen Schrift¬
+				<lb n="N024"/>steller diese Auffassung zu unterstützen scheinen, ist zuzugeben.
+            	<pb facs="#f0028" n="17"/>
+            	<lb n="N001"/>Doch zwingen uns auf der anderen Seite unumstößliche musika¬
+				<lb n="N002"/>lische Gesetze, deren allgemeine Gültigkeit von den Schwankun¬
+				<lb n="N003"/>gen des Kunstgeschmackes nicht abhängig sein kann, zu der
+				<lb n="N004"/>Annahme, dass sich die Begriffe von Konsonanz und Dissonanz
+				<lb n="N005"/>nicht aus dem rein elementaren Wol- oder Missklange erklären
+				<lb n="N006"/>lassen, sondern — in <hi rendition="#g">erster</hi> Linie — nur aus der Verwandt¬
+				<lb n="N007"/>schaft mit der natürlichen Tonika, welche den ideellen oder reellen,
+				<lb n="N008"/>psychologischen oder physiologischen Verschmelzungs- oder Eini¬
+				<lb n="N009"/>gungspunkt bildet, durch welchen Klänge, die aus verschiedenen
+				<lb n="N010"/>Quellen stammen, den Eindruck eines einzigen machen.
+			</p>
+            <p>
+				<lb n="N001"/>Wir könnten hier sogar den Umstand geltend machen, dass
+				<lb n="N002"/>der Molldreiklang selbst in der musikalischen Praxis nicht im
+				<lb n="N003"/>Stande ist, seine Verwandtschaft mit einem tonikalen Vollklange
+				<lb n="N004"/>ganz zu verleugnen. In der <hi rendition="#i">As</hi>-dur-Tonart ist der <hi rendition="#i">c</hi>-moll-Dreiklang
+				<lb n="N005"/>ein nicht unwichtiger, leitereigener Accord, und zwar im Verhält¬
+				<lb n="N006"/>nis zum tonikalen Accord kein konsonantischer, sondern ein disso¬
+				<lb n="N007"/>nantischer, welcher der Auflösung bedarf. Als ein unwidersprech¬
+				<lb n="N008"/>licher Beweis, dass der Konsonanzbegriff in erster Linie von dem
+				<lb n="N009"/>Verhältnis eines Klanges zur Durtonika abhängt, muss aber
+				<lb n="N010"/>z. B. die Quart gelten. Diese ist zugestandenermassen eine der
+				<lb n="N011"/>vollkommensten Konsonanzen, so lange man nur nach dem natür¬
+				<lb n="N012"/>lichen Wolklange fragt. In dem Accorde <hi rendition="#i">c</hi>} <hi rendition="#i">f</hi>} <hi rendition="#i">g</hi>} <hi rendition="#i">c</hi>}} aber z. B. ist
+				<lb n="N013"/>sie eine scharfe Dissonanz und kann trotz ihres Wolklanges nicht
+				<lb n="N014"/>als Konsonanz gefült werden. Wenn hier die Schwebungen von
+				<lb n="N015"/><hi rendition="#i">f</hi>} und <hi rendition="#i">g</hi>} und ihren Obertönen gleichzeitig dem Klange eine be¬
+				<lb n="N016"/>deutende elementare Schärfe verleihen, so kann dies nur sekun¬
+				<lb n="N017"/>däres Moment sein; denn sobald nur der C-Klang als Tonica das
+				<lb n="N018"/>Hauptgewicht hat, muss <hi rendition="#i">f</hi>} als fremdes Element dissonantisch wir¬
+				<lb n="N019"/>ken. Dagegen ist die eigentliche Heimat des Accordes <hi rendition="#i">c</hi>} <hi rendition="#i">f</hi>} <hi rendition="#i">g</hi>} <hi rendition="#i">c</hi>}}
+				<lb n="N020"/>der <hi rendition="#i">F</hi>{-Klang, nur ist die Fülung desselben mit seiner Tonika
+				<lb n="N021"/>schon sehr schwach, so dass diese Form im <hi rendition="#i">F</hi>-Klange schon über
+				<lb n="N022"/>die Konsonanzgrenze hinausgeht. Als einheitlicher Klang kann
+				<lb n="N023"/>sie also bei der Unzulänglichkeit der konjunktiven Kraft der
+				<lb n="N024"/>Tonika nicht empfunden werden; sie wird erst wider fassbar,
+				<lb n="N025"/>wenn sie auf künstlerischem Wege, d. h. durch melodische Fort¬
+            	<pb facs="#f0029" n="18"/>
+            	<lb n="N001"/>schreitung, hervorgerufen, und als gemischter, zweifacher Klang
+				<lb n="N002"/>einer höheren Einheit durch „Auflösung” wider zugefürt wird.
+				<lb n="N003"/>Bekanntlich ist über den harmonikalen Charakter der Quart viel
+				<lb n="N004"/>hin und her gestritten worden, man hat nicht einig werden kön¬
+				<lb n="N005"/>nen, ob sie Konsonanz oder Dissonanz sei. Die Antwort hängt
+				<lb n="N006"/>von der künstlerischen Wal der Tonika ab. Im C-Klange ist F
+				<lb n="N007"/>Dissonanz. Kein Mensch auf der Welt kann an einem C-Klange
+				<lb n="N008"/>als Ruhe- und Schlusspunkt einer melodischen Gestaltung Freude
+				<lb n="N009"/>finden, wenn sich ihm ein F beigesellt, gleichviel, ob Schwe¬
+				<lb n="N010"/>bungen vorhanden sind, oder nicht. Konsonanz ist die Quart da¬
+				<lb n="N011"/>gegen, wenn ihr höherer Ton vierter Partialton des Klanges ist.
+				<lb n="N012"/>In dem Klange <hi rendition="#i">C</hi> <hi rendition="#i">c</hi> <hi rendition="#i">g</hi> <hi rendition="#i">c</hi>} wirkt weder <hi rendition="#i">g</hi> noch <hi rendition="#i">c</hi>} als Dissonanz.
+				<lb n="N013"/>Änlich verhält es sich im Grunde genommen mit allen Konso¬
+				<lb n="N014"/>nanzen, die Oktave ausgenommen. Nur wenn sie sich mit den
+				<lb n="N015"/>kleinsten denkbaren Schwingungszalen an die Tonika anlehnen,
+				<lb n="N016"/>tritt ihr Wolklang als musikalische Konsonanz zu Tage.
+			</p>
+            <p>
+				<lb n="N001"/>Nach allen unseren Ausfürungen, zu denen <persName>der große Phy¬</persName>
+				<lb n="N002"/><persName>siker</persName> uns den Weg geebnet hat, müssen wir das positive Moment
+				<lb n="N003"/>der Tonverwandtschaft für gefunden erklären, jedoch hinzufügen,
+				<lb n="N004"/>dass dieses bloß für das Durgeschlecht Raum gibt, und gleich¬
+				<lb n="N005"/>zeitig die Einschränkung machen, dass wir bislang noch ver¬
+				<lb n="N006"/>mieden haben, die <hi rendition="#g">Grenze</hi> der ästhetischen Erkennbarkeit
+				<lb n="N007"/>klanglicher Verwandtschaft aufzustellen.
+			</p>
+            <p>
+				<lb n="N001"/>Ehe wir weiter gehen, müssen wir konstatiren, dass das
+				<lb n="N002"/>Mollgeschlecht bei <hi rendition="#g"><persName>Helmholtz</persName></hi> zwar selbstredend nicht ver¬
+				<lb n="N003"/>schwindet, aber doch in seinen Grundvesten erschüttert dasteht.
+				<lb n="N004"/>Der Durdreiklang allein ist eindeutig ( S. 451); den Moll¬
+				<lb n="N005"/>dreiklang aber kann man als Terzenklang, z. B. <hi rendition="#i">c</hi>} <hi rendition="#i">es</hi>} <hi rendition="#i">g</hi>} als <hi rendition="#i">es</hi>}-Klang
+				<lb n="N006"/>mit fremdem <hi rendition="#i">c</hi>} auffassen, oder aber, was die vorwiegende Deutung
+				<lb n="N007"/>ist, als <hi rendition="#i">c</hi>}-Klang mit fremdem <hi rendition="#i">es</hi>}. So ist er denn nichts, als eine
+				<lb n="N008"/>getrübte, verschleierte Abart, oder besser ein Zerrbild des Dur-
+				<lb n="N009"/>Dreiklanges, dessen Stellung in der Kunst eine mehr als proble¬
+				<lb n="N010"/>matische sein sollte. Wir sind der Meinung, dass, wenn sich für
+				<lb n="N011"/>das Mollgeschlecht nicht ein zweites Verwandtschaftsprinzip auf¬
+				<lb n="N012"/>finden lässt, diesem viel zu viel Ehre angetan wird, wenn <hi rendition="#g"><persName>Helm¬
+				<lb n="N013"/>holtz</persName></hi> ihm die Eigenschaft zuweist, im Gegensatze zu dem uni¬
+            	<pb facs="#f0030" n="19"/>
+            	<lb n="N001"/>versellen Durgeschlechte „unklare, trübe oder rauhe Stimmungen
+				<lb n="N002"/>auszudrücken” (). Noch weniger passt dasjenige, was der
+				<lb n="N003"/>von ihm an derselben Stelle citirte Aesthetiker <hi rendition="#g"><persName>Vischer</persName></hi> sagt,
+				<lb n="N004"/>wenn es gleich von seinem Standpunkte aus sehr prägnant ist,
+				<lb n="N005"/>zu den konsequent aufgefassten <persName><hi rendition="#g">Helmholtz</hi>'schen</persName> Deduktionen.
+				<lb n="N006"/>Wir setzen dessen Worte (, dritter Teil § 772) zur
+				<lb n="N007"/>Vergleichung hierher: „Der innere Unterschied von Dur und Moll
+				<lb n="N008"/>ist so wesentlich, dass jede der beiden Tonweisen eine eigene Art
+				<lb n="N009"/>von Tonsystem, ein eigenes Tongeschlecht, begründet. Beide
+				<lb n="N010"/>Tongeschlechter haben ihre Berechtigung und charakteristische
+				<lb n="N011"/>Bedeutung; aber Dur ist nicht nur das kräftigere und freiere,
+				<lb n="N012"/>sondern auch das einfachere, naturgemäßere, einer weit umfassen¬
+				<lb n="N013"/>deren Anwendung fähige Tongeschlecht, wärend Moll in Folge
+				<lb n="N014"/>seines gedämpften, gedrückten Charakters den Typus abstrakter,
+				<lb n="N015"/>rein in sich und in ihre Zustände versenkter Subjektivität reprä¬
+				<lb n="N016"/>sentirt, und eben darum selbst eine individuellere, beschränktere
+				<lb n="N017"/>Form ist.” Lediglich die rein musikalische Erfarung darf, wie
+				<lb n="N018"/>die Umstände liegen, zur Rechtfertigung dieser beiden Sätze herbei¬
+				<lb n="N019"/>gezogen werden; aber auch von diesem Gesichtspunkte aus wird
+				<lb n="N020"/>man in dem letzteren derselben nur ein Körnchen Warheit finden.
+				<lb n="N021"/>Ein Theoretiker des Jares <date when="1600">1600</date>, der den grossen, bis heute nur
+				<lb n="N022"/>verdrängten, aber keineswegs gehobenen Schatz von Tonwerken
+				<lb n="N023"/>einer der herrlichsten Kunstperioden vor sich liegen hätte, würde
+				<lb n="N024"/>diesen Satz zweifelsone nur mit Staunen und Befremden lesen.
+				<lb n="N025"/>Jedenfalls wird der durch die <persName><hi rendition="#g">Helmholtz</hi>'schen</persName> 
+				<lb n="N026"/> ans Licht gestellte grelle Widerspruch zwischen Theorie und
+				<lb n="N027"/>Praxis durch ihn nicht gehoben. Wir finden es unter diesen Um¬
+				<lb n="N028"/>ständen ganz erklärlich, dass zalreiche Anhänger und Schüler des
+				<lb n="N029"/>grossen <persName>Physiologen</persName> sich freuen, ihn beim Worte nehmen zu
+				<lb n="N030"/>können, und den natürlichen Durklang als die einzige „Seele der
+				<lb n="N031"/>Harmonie” betrachten zu dürfen. Im Gegensatze hiezu kann es
+				<lb n="N032"/>weiterhin nicht befremden, dass <hi rendition="#g"><persName>Moritz Hauptmann</persName></hi> als
+				<lb n="N033"/>strenger Verfechter des Dur- und Moll-Dualismus die <persName><hi rendition="#g">Helm¬
+				<lb n="N034"/>holtz</hi>'schen</persName> Resultate gar nicht verstehen wollte, und sich ihnen
+				<lb n="N035"/>gegenüber mit seltener Entschiedenheit abwehrend verhielt.
+			</p>
+            <p>
+				<lb n="N001"/>Die Brücke war indessen schneller gelegt, als die tiefe Kluft
+            	<pb facs="#f0031" n="20"/>
+            	<lb n="N001"/>hätte hoffen lassen. Beiden großen Männern an Scharfsinn und
+				<lb n="N002"/>Gelehrsamkeit kaum untergeordnet, von der prinzipiellen Richtig¬
+				<lb n="N003"/>keit der beiderseitigen Forschungen tief durchdrungen, gelangte
+				<lb n="N004"/><hi rendition="#b"><persName>Arthur v. Oettingen</persName></hi> <note type="remarkSource" n="1)"><lb n="N001"/>. <placeName ref="#L0009">Dorpat</placeName> und <placeName ref="#L0022">Leipzig</placeName>, <date when="1866">1866</date>.</note>, selbständig weiter bauend, zu einem
+				<lb n="N005"/>doppelten Resultate. Einmal findet er das positive Moment der
+				<lb n="N006"/>Tonverwandtschaft mit Recht in der Zugehörigkeit jedes soge¬
+				<lb n="N007"/>nannten Zusammenklanges zu einem bestimmten Stammklange.
+				<lb n="N008"/>Zweitens sucht er, in der Erkenntnis, dass diese Art von Ver¬
+				<lb n="N009"/>wandtschaft, soweit sie bis dahin geltend gemacht worden war,
+				<lb n="N010"/>nur dem Durgeschlechte eine berechtigte Existenz verleihe, als
+				<lb n="N011"/>Dualist im <persName><hi rendition="#g">Hauptmann</hi>'schen</persName> Sinne nach einem zweiten posi¬
+				<lb n="N012"/>tiven Verwandtschaftsprinzip, wodurch sich auch das Mollgeschlecht
+				<lb n="N013"/>als vollberechtigt nachweisen lasse. Er sucht und findet es. Ist
+				<lb n="N014"/>die Konsonanz einmal ein positiver und zwar psychologischer Be¬
+				<lb n="N015"/>griff, der mit dem Vorhandensein oder Nichtvorhandensein „stö¬
+				<lb n="N016"/>render” Elemente nicht in grundsätzlichem Zusammenhange steht,
+				<lb n="N017"/>so kann durch die Aufstellung, dass in den Grundklang des Moll¬
+				<lb n="N018"/>dreiklanges ein fremdes Element hineingemischt sei, der Konso¬
+				<lb n="N019"/>nanzcharakter desselben nicht nachgewiesen werden. Es muss
+				<lb n="N020"/>vielmehr gezeigt werden, warum — one Rücksicht auf die „Stö¬
+				<lb n="N021"/>rungen”, welche Schwebungen und Kombinationstöne hervorrufen
+				<lb n="N022"/>— gerade dieser eine, bestimmte Ton, z. B. <hi rendition="#i">es</hi> in <hi rendition="#i">c es g</hi>, unter
+				<lb n="N023"/>all den fremden, die man einmischen könnte, der einzig passende,
+				<lb n="N024"/>vollkommen konsonirende ist, welcher den Accord zu einem
+				<lb n="N025"/>selbständigen, nicht auflösungsbedürftigen macht. Wie nun unter
+				<lb n="N026"/>Durverwandtschaft eines Intervalles oder Accordes (von <persName>v. <hi rendition="#g">Oet¬</hi></persName>
+				<lb n="N027"/><hi rendition="#g"><persName>tingen</persName></hi> <hi rendition="#g">Tonicität</hi> genannt) die Eigenschaft desselben zu
+				<lb n="N028"/>verstehen ist, <hi rendition="#g">als Klangbestandteil eines Grund¬</hi>
+				<lb n="N029"/><hi rendition="#g">tones aufgefasst werden zu können</hi> (), so ver¬
+				<lb n="N030"/>steht <persName>v. O.</persName> unter Mollverwandtschaft (<hi rendition="#g">Phonicität</hi>) die Eigen¬
+				<lb n="N031"/>schaft eines Intervalles oder Accordes, <hi rendition="#g">stets irgendwelche</hi>
+				<lb n="N032"/><hi rendition="#g">allen Tönen gemeinsame Partialtöne zu be¬</hi>
+				<lb n="N033"/><hi rendition="#g">sitzen</hi> (). Den tiefsten der allen gemeinsam zukommen¬
+				<lb n="N034"/>den Partialtöne nennt er im Gegensatz zum <hi rendition="#g">tonischen Grund¬</hi>
+				<lb n="N035"/><hi rendition="#g">ton</hi> den coïncidirenden oder <hi rendition="#g">phonischen Oberton</hi> (von
+				<pb facs="#f0032" n="21"/>
+            	<lb n="N001"/>, ich singe), „weil alle den Ton gleichsam singen, d. h.
+				<lb n="N002"/>wirklich angeben”. Das Intervall <hi rendition="#i">c g</hi> z. B. hat zum tonischen
+				<lb n="N003"/>Grundton <hi rendition="#i">C</hi>; es ist ein Bestandteil des <hi rendition="#i">C</hi>-Klanges. Sein phoni¬
+				<lb n="N004"/>scher Oberton aber ist <hi rendition="#i">g</hi>}, weil dies der tiefste coïncidirende Ober¬
+				<lb n="N005"/>ton der beiden Klänge ist. Für den Dreiklang <hi rendition="#i">c es g</hi> ist <hi rendition="#i">g</hi>}} pho¬
+				<lb n="N006"/>nischer Oberton. Er ist das den drei getrennten Klängen gemein¬
+				<lb n="N007"/>same Element, schafft also für dieselben, falls man jeden von
+				<lb n="N008"/>ihnen als selbständigen Klang auffasst, eine neue Verwandtschaft,
+				<lb n="N009"/>die zwar nicht, wie bei der Tonicität dahin fürt, dass die drei
+				<lb n="N010"/>Klänge zu einem werden, dieselben aber doch durch einen in
+				<lb n="N011"/>ihrem Wesen begründeten Einheitspunkt zu einem konsonanten
+				<lb n="N012"/>und selbständigen Prinzipe zusammenfasst. Der phonische Ober¬
+				<lb n="N013"/>ton ist sonach für das Mollgeschlecht, was der tonische Grundton
+				<lb n="N014"/>für das Durgeschlecht. Hiermit ist denn der <persName><hi rendition="#g">Hauptmann</hi>'sche</persName>
+				<lb n="N015"/>Dualismus nicht bloß hergestellt, sondern auch physiologisch be¬
+				<lb n="N016"/>gründet (). Mit der Eindeutigkeit irgend eines Inter¬
+				<lb n="N017"/>valles oder Accordes ist es aber nun zu Ende. Jede Klangver¬
+				<lb n="N018"/>bindung kann — theoretisch genommen — tonisch und phonisch
+				<lb n="N019"/>aufgefasst werden. Sagten wir oben, dass der Molldreiklang <hi rendition="#i">c</hi>} <hi rendition="#i">es</hi>} <hi rendition="#i">g</hi>}
+				<lb n="N020"/>neben seiner jetzt nachgewiesenen phonischen Deutung, tonisch
+				<lb n="N021"/>als abhängiger, im Sinne der Auflösungsbedürftigkeit dissonanter
+				<lb n="N022"/>Accord im <hi rendition="#i">As</hi>{-Systeme zu betrachten sei, so müssen wir nun selbst
+				<lb n="N023"/>dem hellen, reinen Durdreiklange <hi rendition="#i">C</hi> <hi rendition="#i">E</hi> <hi rendition="#i">G</hi> eine dissonantische
+				<lb n="N024"/>Stellung im phonischen (mollgeschlechtlichen) <hi rendition="#i">h</hi>{{-Klange vindiciren.
+				<lb n="N025"/>Zeigte sich uns der Klang <hi rendition="#i">c</hi> <hi rendition="#i">f</hi> <hi rendition="#i">g</hi> <hi rendition="#i">c</hi>} tonisch als Bestandteil oder
+				<lb n="N026"/>besser gesagt als besondere Färbung des Klanges <hi rendition="#i">F</hi>{{, so wird
+				<lb n="N027"/>er durch den gemeinsamen tiefsten Oberton <hi rendition="#i">g</hi>}}} dem phonischen
+				<lb n="N028"/>Systeme (Zusammenklange) gleichen Namens einverleibt.
+			</p>
+            <p>
+				<lb n="N001"/>Auf dieser „dualen” Grundlage baut nun <hi rendition="#g"><persName>von Oettingen</persName></hi>
+				<lb n="N002"/>im <persName><hi rendition="#g">Hauptmann</hi>'schen</persName> Sinne weiter, und zwar insofern konse¬
+				<lb n="N003"/>quenter, als dieser, als er einerseits die phonischen Dreiklänge
+				<lb n="N004"/>nach ihrem Einheitsmomente, der Quint, benennt, andrerseits die
+				<lb n="N005"/>phonische Normalskala aus drei phonischen Dreiklängen zusammen¬
+				<lb n="N006"/>setzt. In Folge der Neuheit der Auffassung und der Bezeich¬
+            	<pb facs="#f0033" n="22"/>
+            	<lb n="N001"/>nungen ist das  nicht eben leicht zu lesen. Doch verdienen
+				<lb n="N002"/>namentlich die speziellen Ausfürungen über Modulation und Klang¬
+				<lb n="N003"/>folge, Verwandtschaftskreis, Dissonanz und Auflösung (3., 4. und
+				<lb n="N004"/>6. Abschn.) alle Beachtung.
+			</p>
+            <p>
+				<lb n="N001"/>Da es uns vornehmlich nur um die Grundlegung des toni¬
+				<lb n="N002"/>schen wie des phonischen Tongeschlechtes zu tun ist, so beschrän¬
+				<lb n="N003"/>ken wir uns auf die Beweisfürung, dass, obgleich die Mollskala
+				<lb n="N004"/>richtig aufgestellt und konsequent behandelt wird, doch die Art
+				<lb n="N005"/>und Weise des Aufbaues nicht unanfechtbar und die Theorie über¬
+				<lb n="N006"/>haupt nicht vollständig ist.
+			</p>
+            <p>
+				<lb n="N001"/>Schon die Zusammensetzung der Skala aus drei Dreiklängen,
+				<lb n="N002"/>die von der Tonika, Dominante und Unterdominante, bezw. von
+				<lb n="N003"/>der Phonika, „Regnante” und „Oberregnante” ausgehen, kann
+				<lb n="N004"/>von dem Vorwurfe der Willkür getroffen werden. Das Ausgehen
+				<lb n="N005"/>von einer bestimmten Tonika oder Phonika, die Bewegung durch
+				<lb n="N006"/>verwandte Klänge (Systeme) hindurch, und endlich das Ausruhen
+				<lb n="N007"/>in dem angenommenen Hauptklange als natürlich schönem, selb¬
+				<lb n="N008"/>ständigem Schlusspunkte, ist das Wesen musikalischer Gestaltung.
+				<lb n="N009"/>Die Elemente der Bewegung, d. h. der Melodie, also die Skala
+				<lb n="N010"/>vor allem, sind eigentlich musikerzeugend; in den harmonischen
+				<lb n="N011"/>Ruhepunkten kehren wir von der musikalischen Kunst wider
+				<lb n="N012"/>zum Naturschönen zurück. Die melodischen Skalenverhältnisse
+				<lb n="N013"/>müssen daher auch <hi rendition="#g">unmittelbar</hi>, nicht erst durch das Me¬
+				<lb n="N014"/>dium der Dreiklänge aus der Theorie entspringen. Es ist ja auch
+				<lb n="N015"/>gar nicht zu erweisen, dass Tonika oder Phonika in solcher Weise
+				<lb n="N016"/>in der Mitte eines Verwandtschaftssystems stehen müsse, dass
+				<lb n="N017"/>auch Ober- und Unterquint derselben Ausgangspunkte einer gleich¬
+				<lb n="N018"/>artigen oder antiphonen Dreiklangsharmonie seien. Und endlich,
+				<lb n="N019"/>was ist der Dreiklang? Dass er keineswegs die vollkommenste,
+				<lb n="N020"/>schönste Form des (Zusammen)-Klanges sei, glauben wir oben
+				<lb n="N021"/>wenigstens bezüglich des durgeschlechtlichen nachgewiesen zu
+				<lb n="N022"/>haben. Nur durch die Forderungen der musikalischen Bewegung
+				<lb n="N023"/>(Melodie) erlangt er einen harmonikalen Wert, den der natürliche
+				<lb n="N024"/>Vollklang ihm nicht streitig machen kann.
+			</p>
+            <p>
+				<lb n="N001"/>Sodann scheint es mir, dass <persName>v. <hi rendition="#g">Oettingen</hi></persName> in Bezug auf
+				<lb n="N002"/>die Begriffe von Konsonanz und Dissonanz das positive und
+				<pb facs="#f0034" n="23"/>
+            	<lb n="N001"/>negative Prinzip zu sehr getrennt behandelt. <hi rendition="#g"><persName>Helmholtz</persName></hi>
+				<lb n="N002"/>musste durch die Erfarung, dass jedem Zusammenklange durch
+				<lb n="N003"/>Schwebungen und Kombinationstöne Störungen erwachsen, die die
+				<lb n="N004"/>Erzeuger grösserer Rauhigkeit sind, konsequent zu der Auffassung
+				<lb n="N005"/>kommen, es gebe eigentlich keine Konsonanz, sondern nur größere
+				<lb n="N006"/>oder geringere Dissonanz. Umgekehrt fürt das von <persName>v. <hi rendition="#g">Oettin¬</hi></persName>
+				<lb n="N007"/><hi rendition="#g"><persName>gen</persName></hi> geltend gemachte positive Verwandtschaftsprinzip mit Not¬
+				<lb n="N008"/>wendigkeit dahin, alle Klangverbindungen als Konsonanzen zu
+				<lb n="N009"/>betrachten, da alle one Ausnahme tonisch und phonisch auf einen
+				<lb n="N010"/>Einheitspunkt hinweisen. Auch diese Betrachtung lässt nur gra¬
+				<lb n="N011"/>duelle Unterschiede zu. Die grundsätzliche Scheidung dieser beiden
+				<lb n="N012"/>Anschauungen liefert daher nur zwei neben einander her laufende
+				<lb n="N013"/>Reihen, die in unversöntem und unversönlichem Gegensatze zu
+				<lb n="N014"/>einander stehen und die Möglichkeit fruchtbarer ästhetischer Kon¬
+				<lb n="N015"/>traste ausschließen. Diese grundsätzliche Scheidung wird aber
+				<lb n="N016"/>durch <persName>v. <hi rendition="#g">Oettingen</hi></persName> vollzogen. „Nimmt man zu den Begriffen
+				<lb n="N017"/>des Klanges die Erscheinungen der Kombinationstöne und der
+				<lb n="N018"/>Schwebungen hinzu, so bilden diese insgesammt die Grundlage
+				<lb n="N019"/>für eine Theorie der <hi rendition="#g">Dissonanz</hi>”, heißt es , und im
+				<lb n="N020"/>folgenden werden dann tonische und phonische Verwandtschaft
+				<lb n="N021"/>als Grundlage für die Theorie der „<hi rendition="#g">Konsonanz</hi>” erklärt. Das
+				<lb n="N022"/>ist aber nicht richtig. Für den qualitativen Unterschied von Kon¬
+				<lb n="N023"/>sonanz und Dissonanz liefert keine von beiden Auffassungen ge¬
+				<lb n="N024"/>nügenden Anhalt. Dagegen liefert die <persName><hi rendition="#g">Helmholtz</hi>'sche</persName> An¬
+				<lb n="N025"/>schauung den nötigen physiologischen Untergrund für das <persName><hi rendition="#g">Oet¬
+				<lb n="N026"/>tingen</hi>'sche</persName> psychologische Verwandtschaftsprinzip, und dieses
+				<lb n="N027"/>letztere kann nicht besser als richtig erwiesen werden, als wenn
+				<lb n="N028"/>man das genaue Zusammenfallen der Verwandtschaftsnähe und
+				<lb n="N029"/>Verwandtschaftsentfernung mit dem geringeren und höheren Grade
+				<lb n="N030"/>der Rauhigkeit dartut.
+            </p>
+            <p>
+				<lb n="N001"/>Allein da die psychische Auffassungsfähigkeit bezüglich jedes
+				<lb n="N002"/>Zusammenklanges eine doppelte ist, so muss auch bei einem
+				<lb n="N003"/>rauhen oder „gestörten” Zusammenklange das störende Element
+				<lb n="N004"/>ein doppeltes sein. Da die Intervalle und Accorde aufgehört
+				<lb n="N005"/>haben, eindeutig zu sein, so muss auch ihre Rauhigkeit immer
+				<lb n="N006"/>zwei Ursachen haben, von denen jedesmal eine <hi rendition="#g">als solche</hi>
+            	<pb facs="#f0035" n="24"/>
+            	<lb n="N001"/>wirksam ist, wärend die andere im Gegenteil ein wesentliches
+				<lb n="N002"/>Unterstützungsmittel der Konsonanzwirkung bildet. Bleiben wir
+				<lb n="N003"/>bei den beiden Dreiklängen stehen, und untersuchen wir die nun¬
+				<lb n="N004"/>mehr allseitig bestimmte Bedeutung ihrer Nebenelemente, der
+				<lb n="N005"/>Kombinations- und Obertöne, so ergibt sich, dass die Kombinations¬
+				<lb n="N006"/>töne beim Molldreiklange eine analoge Stellung einnehmen, wie
+				<lb n="N007"/>die Obertöne beim Durdreiklange, und umgekehrt. Soll der Drei¬
+				<lb n="N008"/>klang <hi rendition="#i">c</hi>} <hi rendition="#i">es</hi>} <hi rendition="#i">g</hi>} bloß in seiner mollgeschlechtlichen Konsonanz be¬
+				<lb n="N009"/>trachtet werden, was allerdings weitaus das Nächstliegende ist,
+				<lb n="N010"/>so wird das tiefe <hi rendition="#i">As</hi>{ als Kombinationston einen fremdartigen,
+				<lb n="N011"/>nicht unmittelbar verständlichen Beigeschmack in den Klang hin¬
+				<lb n="N012"/>eintragen, dessen dunkle Beziehungen zur Tonicität bei dem
+				<lb n="N013"/>psychischen Vorherrschen des Mollcharakters gänzlich verloren
+				<lb n="N014"/>gehen, so dass nur eine gewisse schattenhafte Unklarheit zugleich
+				<lb n="N015"/>mit dem konsonantischen Hauptzusammenklang empfunden wird,
+				<lb n="N016"/>deren Ursache nachzugehen dem bloß ästhetisch Erfassenden nicht
+				<lb n="N017"/>zum Bedürfnis wird. Komme ich dagegen aus dem tonischen As-
+				<lb n="N018"/>Systeme zu demselben Accorde <hi rendition="#i">c</hi>} <hi rendition="#i">es</hi>} <hi rendition="#i">g</hi>} als einer Nebenstufe, so
+				<lb n="N019"/>wirkt das tiefe <hi rendition="#i">As</hi>{ als Wegweiser zu dem <hi rendition="#g">tonischen</hi> Ur¬
+				<lb n="N020"/>sprunge des Klanges zurück. Gleichzeitig aber macht sich die
+				<lb n="N021"/>allzu grosse Entfernung der künstlich verstärkten Klangelemente
+				<lb n="N022"/>von der Tonika geltend. Der Klang erscheint als dissonantisch,
+				<lb n="N023"/>und das Element, welches ihn am meisten verschärft, ist <hi rendition="#i">g</hi>} als
+				<lb n="N024"/>15. Partialton; <hi rendition="#i">g</hi>} wird Leitton.
+            </p>
+            <p>
+				<lb n="N001"/>Der Wirksamkeit der tieferen Kombinationstöne beim Moll¬
+				<lb n="N002"/>dreiklange entspricht beim Durdreiklange die der Obertöne. Die¬
+				<lb n="N003"/>selben geben nämlich, wie leicht nachzuweisen ist, nicht nur zum
+				<lb n="N004"/>Teil außerordentlich scharfe Schwebungen, die den Accord merk¬
+				<lb n="N005"/>lich rauh machen, sondern sie repräsentiren auch in ziemlicher
+				<lb n="N006"/>Verstärkung die Phonika und deren harmonische Untertöne, die
+				<lb n="N007"/>bei der konsonantischen <hi rendition="#g">tonikalen</hi> Auffassung des Klanges
+				<lb n="N008"/>als fremdartiges Zubehör in den Kauf genommen werden müssen,
+				<lb n="N009"/>wärend sie für eine dissonanzartige Verwendung im <hi rendition="#g">phonischen</hi>
+				<lb n="N010"/>Geschlechte einen nicht ganz unwirksamen Anhaltspunkt dar¬
+				<lb n="N011"/>bieten. Dafür, dass die fremdartigen Elemente der Klänge kein
+				<lb n="N012"/>Übergewicht gewinnen, muss zu einem grossen Teil der Tech¬
+            	<pb facs="#f0036" n="25"/>
+            	<lb n="N001"/>niker und auch der eigentliche Tonkünstler mitsorgen. Zum an¬
+				<lb n="N002"/>dern Teil wirkt aber auch die Natur selbst schon dahin, dass die
+				<lb n="N003"/>gleichen Erscheinungen, welche störend in den Klangzusammen¬
+				<lb n="N004"/>hang eingreifen, auf der anderen Seite die Konsonanzwirkung
+				<lb n="N005"/>wesentlich fördern. So ungünstig beim Durdreiklange die Ober¬
+				<lb n="N006"/>töne sind, wie oben schon angedeutet, so günstig sind die Kom¬
+				<lb n="N007"/>binationstöne, welche den Klang um so mehr verbessern und ver¬
+				<lb n="N008"/>schönern, je kräftiger sie sind. Umgekehrt sind beim Molldrei¬
+				<lb n="N009"/>klang die Kombinationstöne ungünstig; die Obertöne aber unter¬
+				<lb n="N010"/>stützen und vervollständigen aufs beste die phonische Konsonanz.
+				<lb n="N011"/>Bei dem Dreiklang <hi rendition="#i">c</hi>} <hi rendition="#i">e</hi>} <hi rendition="#i">g</hi>} sind die unteren Kombinationstöne: <hi rendition="#i">C</hi>, <hi rendition="#i">c</hi>
+				<lb n="N012"/>und <hi rendition="#i">g</hi>. Der erste von ihnen, welcher Grundton des Klanges ist,
+				<lb n="N013"/>entsteht in doppelter Stärke aus <hi rendition="#i">c</hi>} <hi rendition="#i">e</hi>} und aus <hi rendition="#i">e</hi>} <hi rendition="#i">g</hi>}; der zweite
+				<lb n="N014"/>entsteht einfach aus <hi rendition="#i">c</hi>} <hi rendition="#i">g</hi>}; der dritte ist nur zweiter Ordnung. Die
+				<lb n="N015"/>so geregelte Klangfarbe ist aber stark und voll genug, um die
+				<lb n="N016"/>Schärfen und Störungen der Obertöne zu überwinden. Der Moll¬
+				<lb n="N017"/>dreiklang <hi rendition="#i">C</hi> <hi rendition="#i">Es</hi> <hi rendition="#i">G</hi> gestaltet sich dagegen mit seinen wichtigsten
+				<lb n="N018"/>Obertönen folgendermaßen:
+            	
+            	<lb n="N001"/>Hier finden sich zwar bedeutende durch die Schwebungen nah
+				<lb n="N002"/>aneinanderliegender Obertöne hervorgerufene Schärfen. Schon
+				<lb n="N003"/>zwischen den Tönen <hi rendition="#i">b</hi> <hi rendition="#i">c</hi>} <hi rendition="#i">d</hi>} sind dieselben vorhanden. Besonders
+				<lb n="N004"/>aber müssen sie hervortreten bei den Tönen <hi rendition="#i">d</hi>} <hi rendition="#i">es</hi>} <hi rendition="#i">e</hi>} und <hi rendition="#i">b</hi>} <hi rendition="#i">b</hi>} <hi rendition="#i">h</hi>}.
+				<lb n="N005"/>Was aber wird die Wirkung dieser Schärfen sein? Alle Töne
+				<lb n="N006"/>oberhalb <hi rendition="#i">g</hi>} und zwischen <hi rendition="#i">g</hi>} und <hi rendition="#i">g</hi> werden dadurch zu einem un¬
+				<lb n="N007"/>klaren Geschwirre, in welchem nur derjenige die einzelnen Töne
+				<lb n="N008"/>unterscheiden wird, der physiologisch mit Aufmerksamkeit unter¬
+				<lb n="N009"/>sucht. Wer nur den ästhetischen Eindruck auf sich wirken lässt,
+				<lb n="N010"/>dem können die positiven und starken phonischen Hauptelemente
+				<lb n="N011"/>des Klanges durch jene nicht verwischt werden. Die Phonika,
+            	<pb facs="#f0037" n="26"/>
+            	<lb n="N001"/>d. i. der phonische Oberton <hi rendition="#i">g</hi>}, ist dreifach vorhanden, zudem völlig
+				<lb n="N002"/>ungestört durch benachbarte Klänge. Der erste phonische Unter¬
+				<lb n="N003"/>ton <hi rendition="#i">g</hi> ist ebenfalls durch seinen doppelten Ursprung verstärkt.
+				<lb n="N004"/>Der dritte, <hi rendition="#i">c</hi>, ist nur einfach vorhanden. Die Antiphonie dem
+				<lb n="N005"/>Durdreiklange gegenüber erstreckt sich also sogar bis zu der
+				<lb n="N006"/>Stärke der entsprechenden Klangglieder, worauf wir noch beson¬
+				<lb n="N007"/>ders aufmerksam machen, weil <persName>v. <hi rendition="#g">Oettingen</hi></persName> diese Antiphonie
+				<lb n="N008"/>nicht genügend hervorgehoben, vielleicht auch nicht genügend
+				<lb n="N009"/>erkannt hat. Nicht auf die Obertöne der Phonika kommt es an,
+				<lb n="N010"/>wie <persName>v. O.</persName> auf  geltend machen will, sondern auf deren
+				<lb n="N011"/>Untertöne. Die Phonika wächst nach unten, die Tonika nach
+				<lb n="N012"/>oben. Auch die Phonika hat ihre Tonfülle, die aus dem Vor¬
+				<lb n="N013"/>herrschen der sechs ersten Bestandteile des Systems resultirt.
+				<lb n="N014"/>Der volle <hi rendition="#i">C</hi>-Dur-Klang lautet: <hi rendition="#i">C</hi> <hi rendition="#i">c</hi> <hi rendition="#i">g</hi> <hi rendition="#i">c</hi>} <hi rendition="#i">e</hi>} <hi rendition="#i">g</hi>}, und hat die Schwin¬
+				<lb n="N015"/>gungsverhältnisse 1:2:3:4:5:6; der volle <hi rendition="#i">c</hi>-moll-Klang, oder
+				<lb n="N016"/>besser ausgedrückt, der phonische Zusammenklang <hi rendition="#i">g</hi>}} lautet:
+				<lb n="N017"/><hi rendition="#i">g</hi>}} <hi rendition="#i">g</hi>} <hi rendition="#i">c</hi>} <hi rendition="#i">g</hi> <hi rendition="#i">es</hi> <hi rendition="#i">c</hi> und hat die Schwingungszalen (<hi rendition="#i">g</hi>}} = 1) <formula notation="TeX">$\frac{1}{1}:\frac{1}{2}:\frac{1}{3}:\frac{1}{4}:\frac{1}{5}:\frac{1}{6}$</formula>.
+			</p>
+            <p>
+				<lb n="N001"/>Das Grundmaß der durgeschlechtlichen Verwandtschaft ist
+				<lb n="N002"/>also das <hi rendition="#g">arithmetische</hi> Zalenverhältnis, welches einer Zalen¬
+				<lb n="N003"/>reihe zu Grunde liegt, die von der Einheit zur Vielheit aufsteigt,
+				<lb n="N004"/>und deren Glieder bei gleichen Nennern äquidifferente Zäler haben.
+				<lb n="N005"/>Das Grundmaß der mollgeschlechtlichen Verwandtschaft ist da¬
+				<lb n="N006"/>gegen ein Zalenverhältnis, welches wir nach dem Vorgange der
+				<lb n="N007"/>Alten das <hi rendition="#g">harmonische</hi> nennen. Die aus demselben hervor¬
+				<lb n="N008"/>gehende Progression steigt aus der Einheit zu deren Teilen hinab,
+				<lb n="N009"/>und ihre Glieder sind Zalen mit gleichen Zälern und äquidiffe¬
+				<lb n="N010"/>renten Nennern.
+			</p>
+            <p>
+				<lb n="N001"/>Ehe wir zur Besprechung der über die sechs ersten Glieder
+				<lb n="N002"/>der soeben gekennzeichneten doppelten Progression hinausgehenden
+				<lb n="N003"/>Zalenrationen übergehen, welche uns zur Erklärung nicht sym¬
+				<lb n="N004"/>phonischer Intervalle und zur Begründung der Skalenbildung füren
+				<lb n="N005"/>sollen, sei nur mit einem Worte auf die Wertverschiedenheit von
+            	<pb facs="#f0038" n="27"/>
+            	<lb n="N001"/>Dur und Moll aufmerksam gemacht, wie sie sich <hi rendition="#i">in nuce</hi> schon
+				<lb n="N002"/>in den beiden ursprünglichen antiphonen Sechsklängen offenbart.
+				<lb n="N003"/>Der Dur-Sechsklang ist ein Einheitsklang; eine einzige Schall¬
+				<lb n="N004"/>quelle kann ihn vollständig hervorbringen. Der Moll-Sechsklang
+				<lb n="N005"/>dagegen ist und bleibt Zusammenklang, wenn auch symphonischer
+				<lb n="N006"/>Natur. Wir müssen letzteren also künstlich hervorrufen oder
+				<lb n="N007"/>vielmehr auffinden. Wärend wir sonach beim vollen Durklange
+				<lb n="N008"/>gleichsam im Mittelpunkte der ruhenden Naturschönheit verweilen,
+				<lb n="N009"/>bezeichnet dagegen der volle Mollklang den zweiten gegenbild¬
+				<lb n="N010"/>lichen Brennpunkt der Klangschönheit, der als solcher der freien
+				<lb n="N011"/>Anwendung natürlich gegebener Bewegungsgesetze seine Entste¬
+				<lb n="N012"/>hung verdankt. Die Entwickelung, die Bewegung, die Melodie
+				<lb n="N013"/>hat im Mollklange ihren Hauptsitz; der vollendende Abschluss,
+				<lb n="N014"/>die Ruhe, die Harmonie findet ihren Mittelpunkt im Durklange.
+				<lb n="N015"/>Der melodische Charakter des Mollgeschlechts und der harmonische
+				<lb n="N016"/>des Durgeschlechts werden sich auch in den Skalen offenbaren
+				<lb n="N017"/>müssen. Die Erklärung, die wir den Skalen zu geben gedenken,
+				<lb n="N018"/>wird diesem Principe gerecht werden.
+			</p>
+            <p>
+				<lb n="N001"/>Da wir den Weg durch die Dreiklänge zur Skalenbildung
+				<lb n="N002"/>nicht als den richtigen anerkennen konnten, so dürfen wir nicht
+				<lb n="N003"/>zugestehen, dass in dieser Sache <persName>v. <hi rendition="#g">Oettingen</hi></persName> das letzte Wort
+				<lb n="N004"/>gesprochen habe. Das Festhalten an dem von uns oben ange¬
+				<lb n="N005"/>nommenen, wenn auch noch immer nicht genau bestimmten quali¬
+				<lb n="N006"/>tativen Unterschiede zwischen Konsonanz und Dissonanz wird
+				<lb n="N007"/>uns weiter füren. Nach <persName><hi rendition="#g">Helmholtz</hi>’</persName> und <persName>v. <hi rendition="#g">Oettingen</hi>’s</persName>
+				<lb n="N008"/>konsequent durchgefürten Grundsätzen sollte es freilich einen sol¬
+				<lb n="N009"/>chen gar nicht geben; aber letzterer, der in der tieferen <hi rendition="#g">psy¬</hi>
+				<lb n="N010"/><hi rendition="#g">chologischen</hi> Bedeutung der physiologischen Klangerschei¬
+				<lb n="N011"/>nungen deren Hauptwert für die Theorie der Musik erkennt, hätte
+				<lb n="N012"/>doch ein bedeutsames psychologisches Moment nicht übersehen
+				<lb n="N013"/>oder nicht unberücksichtigt lassen sollen, zumal, da es sich ge¬
+				<lb n="N014"/>radezu mit Gewalt zwischen die physiologischen Ergebnisse und
+				<lb n="N015"/>die musikalischen Verwandtschaftsverhältnisse drängt. Wir meinen
+				<lb n="N016"/>die Tatsache, dass sowol Tonicität als Phonicität eines Intervalles
+				<lb n="N017"/>ihre psychologisch-ästhetische Bedeutung gänzlich einbüssen, sobald
+				<lb n="N018"/>Schwingungsverhältnisse in Frage kommen, die über die Prim¬
+            	<pb facs="#f0039" n="28"/>
+            	<lb n="N001"/>zalen 2, 3 und 5 und deren Potenzen und Produkte hinausgehn.
+				<lb n="N002"/>Hier ist offenbar die Grenze der Fassbarkeit eines Intervalles ge¬
+				<lb n="N003"/>geben, oder genauer ausgedrückt, hier ist die Grenze, über welche
+				<lb n="N004"/>hinaus die Seele nicht mehr im Stande ist, tonische und phonische
+				<lb n="N005"/>Verwandtschaft zu erkennen. Alle Schwingungsverhältnisse, in
+				<lb n="N006"/>denen die Zal 7 enthalten ist, überschreiten schon diese Grenze,
+				<lb n="N007"/>welche alle Zusammenklänge in fassbare, also tonisch und phonisch
+				<lb n="N008"/>brauchbare, und in unfassbare, musikalisch unbrauchbare scheidet.
+				<lb n="N009"/>Diese primäre Scheidung verweist eine ganze Reihe von Klang¬
+				<lb n="N010"/>verbindungen, deren „<hi rendition="#i">gradus amoenitates</hi>”, wie <hi rendition="#g"><persName>Euler</persName></hi> sagen
+				<lb n="N011"/>würde, teilweise viel grösser ist, als der anderer, in der Musik
+				<lb n="N012"/>viel gebrauchter Zusammenklänge, in das Gebiet der fremdartigen
+				<lb n="N013"/>Klangaccidentien, die an musikalischem Werte mit formlosen Ge¬
+				<lb n="N014"/>räuschen auf einer Stufe stehen. <hi rendition="#g"><persName>Helmholtz</persName></hi> durfte dies von
+				<lb n="N015"/>seinem Standpunkte aus allerdings bestreiten, denn es handelt sich
+				<lb n="N016"/>hier um eine rein psychologische Erscheinung. Es ist nicht zu
+				<lb n="N017"/>leugnen, dass beispielsweise die durch den 7. Partialton, die sog.
+				<lb n="N018"/>natürliche Septime, gebildeten Intervalle, nach den elementaren
+				<lb n="N019"/>Klangerscheinungen betrachtet, sich von den benachbarten Konso¬
+				<lb n="N020"/>nanzen kaum zu ihren Ungunsten unterscheiden, dagegen auch
+				<lb n="N021"/>die mildesten Dissonanzen mit Bezug auf natürlichen Wolklang
+				<lb n="N022"/>weit hinter sich zurücklassen. Auch ist der 7. Partialton ein in
+				<lb n="N023"/>unsern gebräuchlichsten Klangfarben häufig vorkommender, meist
+				<lb n="N024"/>stark durchdringender Ton, der keineswegs (z. B. beim Pianoforte
+				<lb n="N025"/>durch die richtige Wal der Anschlagstelle des Hammers) künst¬
+				<lb n="N026"/>lich ausgemerzt zu werden pflegt, wie dies, ich meine von <hi rendition="#g"><persName>Zam¬
+				<lb n="N027"/>miner</persName></hi>, behauptet wurde. Wir stehen also hier vor der Frage,
+				<lb n="N028"/>ob wir berechtigt sind, der seelischen Fähigkeit, Tonverwandt¬
+				<lb n="N029"/>schaften zu erkennen, d. h. als Quelle natürlicher Schönheit zu
+				<lb n="N030"/>erfassen, die angegebene Grenze zu vindiciren. Geschichte und
+				<lb n="N031"/>musikalische Erfarung könnten uns mit den geringsten gegentei¬
+				<lb n="N032"/>ligen Resultaten sofort aus dem Felde schlagen. In der Tat sind
+				<lb n="N033"/>die verschiedenen Färbungen () der drei Klanggeschlechter
+				<lb n="N034"/>bei <hi rendition="#g"><persName>Ptolemäus</persName></hi> und anderen griechischen Theoretikern mit den
+				<lb n="N035"/>Zalen 7, 11, 23 reich geschmückt. Jedoch in musikalischen Dingen
+				<lb n="N036"/>trauen wir dem berühmten Astronomen nicht recht. One an dieser
+            	<pb facs="#f0040" n="29"/>
+            	<lb n="N001"/>Stelle näher darauf eingehen zu wollen, dürfen wir kün die meisten
+				<lb n="N002"/>ptolemäischen Intervalle als derart unrein und widerwärtig be¬
+				<lb n="N003"/>trachten, dass gewiss auch der raffinirteste Geschmack eines <date>neu¬</date>
+				<lb n="N004"/><date>hellenischen</date> Zukunftsmusikers auf deren genaue praktische Aus¬
+				<lb n="N005"/>fürung bestens verzichtet haben würde. Ferner kann auch mit
+				<lb n="N006"/>dem Hinweis auf die sog. pythagoreische Terz und auf die der
+				<lb n="N007"/>gleichschwebenden Temperatur die Möglichkeit heterogener Kon¬
+				<lb n="N008"/>sonanzen nicht erwiesen werden. Denn offenbar können diese nur
+				<lb n="N009"/>vermöge ihrer Änlichkeit mit der reinen Terz als Konsonanzen
+				<lb n="N010"/>künstlerisch verwendet werden. Sie sind und bleiben mangelhafte
+				<lb n="N011"/>Surrogate des reinen Intervalls und werden psychisch auch nur
+				<lb n="N012"/>als solche empfunden. So bleiben denn noch <hi rendition="#g"><persName>Kirnberger</persName></hi>
+				<lb n="N013"/>und <hi rendition="#g"><persName>Fasch</persName></hi>, deren Experimente mit dem „Ton <hi rendition="#i">i</hi>” wir indessen
+				<lb n="N014"/>ebenfalls als verunglückt bezeichnen dürfen, um so mehr, da ein
+				<lb n="N015"/>grosser Tonsetzer unserer Tage, der im Punkte der Dissonanzen
+				<lb n="N016"/>ein Übriges geleistet hat, sich nach jarzehndelangem Bemühen,
+				<lb n="N017"/>etwas neues zu schaffen, noch nicht getraut hat, die heilige Zal
+				<lb n="N018"/>7 mit ihrem Anhang seinen für die Unsterblichkeit bestimmten
+				<lb n="N019"/>Werken einzuverleiben. Und doch hat <hi rendition="#g"><persName>Johanna Kinkel</persName></hi>
+				<lb n="N020"/>für spätere Tage schon vorlängst die „Emanzipation der <hi rendition="#g">Vier¬</hi>
+				<lb n="N021"/><hi rendition="#g">telstöne</hi>” gepredigt. Welche Art von Klangverhältnissen mag
+				<lb n="N022"/>sich wol unter diesem Namen verbergen? —
+			</p>
+            <p>
+				<lb n="N001"/>So wird es denn schwer sein, Geschichte und praktische Er¬
+				<lb n="N002"/>farung gegen die Allgemeingültigkeit eines Gesetzes aufzurufen,
+				<lb n="N003"/>welches eine unbestrittene jartausende lange Musikübung zur
+				<lb n="N004"/>Seite hat und ebenso unzweifelhaft durch die Forderungen des
+				<lb n="N005"/>ästhetisch gebildeten Ores unterstützt wird. Wenn nun auch die
+				<lb n="N006"/>physiologische Wissenschaft hier naturgemäss vor einem Rätsel
+				<lb n="N007"/>steht, welches nicht sie, sondern die Psychologie lösen muss, so
+				<lb n="N008"/>muss doch auch erstere bekennen, dass rauhere, natürlich genom¬
+				<lb n="N009"/>men dissonantere Intervalle nur durch die ihnen zu Hülfe kom¬
+				<lb n="N010"/>menden verwandtschaftlichen Verbindungsglieder mit Tonika und
+				<lb n="N011"/>Phonika einen harmonikalen Wert bekommen, der der natürlichen
+				<lb n="N012"/>Septime notwendig abgehen muss. Dennoch möchte ein positives
+				<lb n="N013"/>Beweismoment erwünscht sein, wofür wir einen Anhalt darin
+				<lb n="N014"/>finden, dass eine physikalische Realität unzweifelhaft vorliegt,
+            	<pb facs="#f0041" n="30"/>
+            	<lb n="N001"/>nämlich das zeitliche Zusammentreffen eines Teiles der Schwin¬
+				<lb n="N002"/>gungen (Luftstöße) bei jeder Klangmischung, und zwar eines um
+				<lb n="N003"/>so grösseren Teiles, je kleiner die Zalen sind, welche das Schwin¬
+				<lb n="N004"/>gungsverhältnis ausdrücken, mit anderen Worten, je konsonanter
+				<lb n="N005"/>das Intervall ist. Nun ist zuzugeben, dass wir die Stöße als
+				<lb n="N006"/>solche nicht empfinden, sondern nur ihre Produkte, die Klänge,
+				<lb n="N007"/>also auch nicht das Zusammentreffen der Stöße, aber vielleicht
+				<lb n="N008"/>das Produkt desselben, den Wolklang in seinen verschiedenen
+				<lb n="N009"/>Abstufungen und Graden. Es gibt nun ein der Musik sehr ana¬
+				<lb n="N010"/>loges Gebiet, in welchem die Bewegungsverhältnisse ebenfalls
+				<lb n="N011"/>Erzeuger eines Wolgefüls sind, und zwar mit einer scharf abge¬
+				<lb n="N012"/>steckten Grenze, die nur um einen Grad enger gezogen ist, als
+				<lb n="N013"/>bei der Harmonie. Das ist der Rhythmus. Gehen wir von der
+				<lb n="N014"/>Schnelligkeit der tongebenden Vibrationen abwärts zu langsamerer
+				<lb n="N015"/>Bewegung, so stoßen wir auch hier auf das Gesetz, dass die
+				<lb n="N016"/>Periodicität der Bewegung als rhythmisches Wolgefül empfunden
+				<lb n="N017"/>wird. Periodicität entsteht aber nur durch Gegenüberstellung von
+				<lb n="N018"/>Einheit und Mehrheit. Der Takt ist die Einheit, welche ihre
+				<lb n="N019"/>verwandten Antithesen teils durch Multiplikation mit den Ratio¬
+				<lb n="N020"/>nen der Zwei- und Dreizal (nach Analogie der Tonika), teils durch
+				<lb n="N021"/>Division mit denselben Rationen (nach Analogie der Phonika)
+				<lb n="N022"/>findet. Musikalisch genommen entspricht diese Scheidung der
+				<lb n="N023"/>Satzbildung einerseits und der Takteinteilung andererseits. Doch
+				<lb n="N024"/>ist der Rhythmus nicht bloß musikalisch. Er beruht auf der
+				<lb n="N025"/>Erregung der sensitiven Nerven, welche bei intermittirenden Klang-
+				<lb n="N026"/>(und Licht-) Erscheinungen konkurrirt, aber auch one diese be¬
+				<lb n="N027"/>stehen kann. Sieht man nun von dem Unterschiede ab, dass im
+				<lb n="N028"/>Gegensatze zur Harmonie beim Rhythmus schon die Primzal 5
+				<lb n="N029"/>unverwendbar ist — was manche übrigens mit Unrecht nicht
+				<lb n="N030"/>einmal zugeben wollen —, so beruht die Einwirkung, welche die
+				<lb n="N031"/>langsamen periodischen Bewegungen des Rhythmus auf unsere
+				<lb n="N032"/>Seele üben, und diejenige der schnelleren periodischen Bewegun¬
+				<lb n="N033"/>gen, welche nur in ihrem Produkte, den Klängen, zum Bewusst¬
+				<lb n="N034"/>sein kommen, auf demselben psychologisch-ästhetischen Gesetze.
+				<lb n="N035"/>Wie in der Musik die schärfste Dissonanz verwendet werden
+				<lb n="N036"/>kann, sofern sie durch direkt konsonante Bindeglieder mit der
+            	<pb facs="#f0042" n="31"/>
+            	<lb n="N001"/>tonikalen oder phonikalen Einheit in Verbindung tritt, so kann
+				<lb n="N002"/>man rhythmisch unbedenklich jeden Takt in 6, 8, 9, 12, 16, 18,
+				<lb n="N003"/>24, 27, 32 Teile praktisch zergliedern, weil gleichsam über diesen
+				<lb n="N004"/>Einteilungen die höheren auf die Zalen 2 und 3 zurückfürbaren
+				<lb n="N005"/>Gliederungen schweben, als Vermittlungen mit dem ganzen Takte,
+				<lb n="N006"/>der obersten Einheit, — mit andern Worten: weil die genannten
+				<lb n="N007"/>Zalen nur Potenzen und Produkte von 2 und 3 sind. Ebenso
+				<lb n="N008"/>bauen sich Sätze und Perioden nach analogen Zalenverhältnissen,
+				<lb n="N009"/>wenn auch mit einer noch zu erwänenden Einschränkung, auf der
+				<lb n="N010"/>Takteinheit auf. Der Streit über die Verwendbarkeit pentadischer
+				<lb n="N011"/>Verhältnisse im Rhythmus berürt uns hier nicht. Das Sichere
+				<lb n="N012"/>genügt vollständig. Die Zalen 7, 11, 13 u. s. w. als Grundmaß
+				<lb n="N013"/>des Taktes oder der Periode aufstellen zu wollen, wäre ein Un¬
+				<lb n="N014"/>ding, und selbst unter dem Titel , welchen <hi rendition="#g"><persName>Aristo¬
+				<lb n="N015"/>xenos</persName></hi> und nach ihm andere gewissen schwer qualificirbaren
+				<lb n="N016"/>Taktarten geben, wird niemand sie in die rhythmische Theorie
+				<lb n="N017"/>aufnehmen wollen. Das würde, wie jede Taktlosigkeit, lauter
+				<lb n="N018"/>Gefülsdissonanzen hervorrufen, die im Rhythmus ebenso unbrauch¬
+				<lb n="N019"/>bar sind, wie in der Musik der Ton <hi rendition="#i">i</hi>.
+			</p>
+            <p>
+				<lb n="N001"/>Wenn nun die Bewegungsperioden, welche wir durch das
+				<lb n="N002"/>Medium der sensitiven Nerven als Rhythmus empfinden, immer
+				<lb n="N003"/>kürzer werden, so werden sie zuletzt für das Gefül zu einem
+				<lb n="N004"/>kontinuirlichen Strome, und es beginnen die sensuellen Nerven,
+				<lb n="N005"/>zunächst der Gehörsnerv, die Bewegungen zu empfinden, und die
+				<lb n="N006"/>seelische Anschauung stützt sich nunmehr auf die Gehörsempfin¬
+				<lb n="N007"/>dung, wie vorhin auf die Gefülsnervenerregung; die Seele erfasst
+				<lb n="N008"/>jetzt die Verhältnisse der Klänge zu einander, welche Produkte
+				<lb n="N009"/>der Bewegung sind, wie vorhin die in der Bewegung selbst lie¬
+				<lb n="N010"/>genden Verhältnisse; sie vergleicht, und reducirt unbewusst die
+				<lb n="N011"/>verschiedenen Klänge, soweit sie dazu im Stande ist, auf die
+				<lb n="N012"/>Einheit der Tonika und Phonika, wie vorhin die Teilungs- und
+				<lb n="N013"/>Vervielfältigungsperioden auf die Einheit des Taktes. Und siehe
+				<lb n="N014"/>da, sie findet auch die analoge Grenze ihrer Fähigkeit, die Ver¬
+				<lb n="N015"/>wandtschaft der Töne mit einem Stammklange, der höheren Zal
+				<lb n="N016"/>mit der Einheit zu erfassen. Wenn es nun ein von jeder Ge¬
+				<lb n="N017"/>schmacksrichtung unabhängiges, allgemeines psychologisches Ge¬
+            	<pb facs="#f0043" n="32"/>
+            	<lb n="N001"/>setz ist, dass ein siebenteiliger Rhythmus unfassbar und darum
+				<lb n="N002"/>unschön ist, so wird es auch wol als ein unanfechtbares Gesetz
+				<lb n="N003"/>gelten dürfen, dass die mit der Siebenzal zusammengesetzten
+				<lb n="N004"/>Schwingungsrationen keine Konsonanz erzeugen können, und dar¬
+				<lb n="N005"/>um auch zur Hervorbringung irgend welcher musikalisch ver¬
+				<lb n="N006"/>wendbaren Dissonanz das notwendige Bindeglied nicht haben.
+			</p>
+            <p>
+				<lb n="N001"/>Wir sind uns wol bewusst, dass wir mit diesem Satze un¬
+				<lb n="N002"/>widerstehlich der als <hi rendition="#g">pythagorisch</hi> geltenden, übrigens noch
+				<lb n="N003"/>im ganzen <date>Mittelalter</date> vorherrschenden Auffassung entgegeneilen,
+				<lb n="N004"/>wonach die Musik als Wissenschaft nichts anders ist, als die
+				<lb n="N005"/><hi rendition="#g">Lehre von den Zalenverhältnissen</hi>. Erst wenn wir
+				<lb n="N006"/>unwandelbar daran festhalten, dass jegliche harmonikale Konso¬
+				<lb n="N007"/>nanzabstufung sich in einem mathematischen Gesetze widerspiegeln
+				<lb n="N008"/>muss, und dass auch die Grenze der Harmonie wie der Eurhythmie
+				<lb n="N009"/>durch gewisse Zalenverhältnisse bestimmt wird, finden die Sätze
+				<lb n="N010"/><persName>v. <hi rendition="#g">Oettingen</hi>’s</persName> über tonische und phonische Verwandtschaft
+				<lb n="N011"/>ihre rechte Beleuchtung, wodurch es uns ermöglicht wird, ihnen
+				<lb n="N012"/>auch eine präcisere Fassung zu geben. Bei der Begriffsbestimmung
+				<lb n="N013"/>„Unter Tonicität eines Intervalles oder Accordes versteht man
+				<lb n="N014"/>die Eigenschaft desselben, als Klangbestandteil eines Grundtones
+				<lb n="N015"/>aufgefasst werden zu können”, liegt nunmehr der Hauptnachdruck
+				<lb n="N016"/>auf dem Ausdrucke: „<hi rendition="#g">aufgefasst werden zu können</hi>”;
+				<lb n="N017"/>denn die (direkte oder symphonische) Auffassungsfähigkeit, welche
+				<lb n="N018"/>auf die Rationen der sechs kleinsten Zalen beschränkt ist, be¬
+				<lb n="N019"/>gründet erst diese Verwandtschaft. Der Ausdruck „Grundton”
+				<lb n="N020"/>könnte noch missverstanden werden; wir substituiren ihm einen
+				<lb n="N021"/>anderen, der aus dem früheren verständlich sein wird: „voller
+				<lb n="N022"/>Klang”, und reden bei demselben nicht mehr von „Klangbestand¬
+				<lb n="N023"/>teilen”, sondern einfach von „Teilen”. Sonach würde die Defi¬
+				<lb n="N024"/>nition so lauten:
+			</p>
+            <p>
+				<lb n="N001"/>1) <hi rendition="#g">Unter direkter oder symphonischer Toni¬</hi>
+				<lb n="N002"/><hi rendition="#g">cität zweier oder mehrerer Klänge versteht</hi>
+				<lb n="N003"/><hi rendition="#g">man ihre Eigenschaft, als Teile desselben vol¬</hi>
+				<lb n="N004"/><hi rendition="#g">len Klanges aufgefasst werden zu können</hi>.
+			</p>
+            <p>
+				<lb n="N001"/>In die Erklärung der Phonicität muss ebenfalls der Begriff
+				<lb n="N002"/>der Auffassungsfähigkeit eingefürt werden. Wir nennen den
+            	<pb facs="#f0044" n="33"/>
+            	<lb n="N001"/>phonischen Sechsklang wegen seines streng antiphonen Charakters
+				<lb n="N002"/>gegenüber dem durgeschlechtlichen Vollklange einen „vollen Gegen¬
+				<lb n="N003"/>klang” und reden bei ihm nicht von „Teilen”, weil er kein ein¬
+				<lb n="N004"/>heitlicher Klang, sondern nur ein symphonisches System ist; seine
+				<lb n="N005"/>sechs Einzelelemente nennen wir „Glieder”. Wir sagen also:
+			</p>
+            <p>
+				<lb n="N001"/>2) <hi rendition="#g">Unter direkter oder symphonischer Pho¬</hi>
+				<lb n="N002"/><hi rendition="#g">nicität zweier oder mehrerer Klänge versteht</hi>
+				<lb n="N003"/><hi rendition="#g">man ihre Eigenschaft, als Glieder desselben</hi>
+				<lb n="N004"/><hi rendition="#g">vollen Gegenklanges aufgefasst werden zu</hi>
+				<lb n="N005"/><hi rendition="#g">können</hi>.
+			</p>
+            <p>
+				<lb n="N001"/>Das mehrgenannte Zalengesetz, dem diese Auffassungsfähig¬
+				<lb n="N002"/>keit gehorcht, bedarf noch einer näheren Bestimmung dahin, dass
+				<lb n="N003"/><hi rendition="#g">erstens</hi> auch innerhalb des Senariums die kleinere Zal vor der
+				<lb n="N004"/>grösseren den Vorzug vollkommenerer Verwandtschafts- oder Iden¬
+				<lb n="N005"/>titätsbegründung hat, und dass <hi rendition="#g">zweitens</hi> bei der Zweizal stets
+				<lb n="N006"/>die höhere Potenz Vertreterin der niedern werden, oder harmonikal
+				<lb n="N007"/>ausgedrückt, dass der Tonika (<formula notation="TeX">$1=2^0$</formula>) immer eine höhere, der
+				<lb n="N008"/>Phonika (<formula notation="TeX">$\frac{1}{1}=(\frac{1}{2})^0$</formula>) immer eine tiefere Oktave substituirt werden
+				<lb n="N009"/>kann.
+			</p>
+            <p>
+				<lb n="N001"/>Dieser letztere Satz ist die Grundbedingung der Melodie.
+				<lb n="N002"/>Es werde deshalb dem Zweifler nochmals die Analogie des Rhyth¬
+				<lb n="N003"/>mus vor Augen gehalten. Zweizal und Dreizal sind beide eurhyth¬
+				<lb n="N004"/>misch; aber erstere hat unbestreitbare Vorzüge. Bei der Takt¬
+				<lb n="N005"/>einteilung tritt dies vielleicht nicht so hervor, als beim Satz¬
+				<lb n="N006"/>baue, weil hier alles durch die merkbare Takteinheit umschlossen
+				<lb n="N007"/>wird. Doch ist ein <formula notation="TeX">$\frac{9}{8}$</formula>-Takt one Zweifel weniger fließend, als
+				<lb n="N008"/>ein zweiteiliger, vierteiliger oder auch einfach dreiteiliger Takt.
+				<lb n="N009"/>Wollte man aber jedes Achtel des <formula notation="TeX">$\frac{9}{8}$</formula>-Taktes noch in Triolen ein¬
+				<lb n="N010"/>teilen, so würde dadurch eine Schwerfälligkeit eintreten, die in
+				<lb n="N011"/>einzelnen Fällen durch den besonderen Charakter eines Musik¬
+				<lb n="N012"/>stückes gerechtfertigt sein kann, einer allgemeinen Anwendung
+				<lb n="N013"/>dieser rhythmischen Bewegung aber gebieterisch hindernd in den
+            	<pb facs="#f0045" n="34"/>
+            	<lb n="N001"/>Weg tritt. Dabei brauchen wir die Bemerkung nicht zu unter
+				<lb n="N002"/>drücken, dass rhythmische Schwerfälligkeit Erschwerung des Ver¬
+				<lb n="N003"/>ständnisses im Gefolge hat und daher manchem Komponisten als
+				<lb n="N004"/>Ersatz für mangelnde Gedankentiefe willkommen sein mag<note type="remarkSource" n="1)"><lb n="N001"/>Man findet in der „A. Allg. Ztg.“ Beilage Nro. 6 vom <date>6. Jan. 1875</date> einen vor¬
+				<lb n="N002"/>trefflichen Aufsatz: „” (auch abgedruckt in der Allg.
+				<lb n="N003"/>Mus. Ztg., <date when="1875">1875</date>, Nro. 6 und 7), wo die Empfindlichkeit gewisser Tonstücke, z. B. des
+				<lb n="N004"/><persName><hi rendition="#g">Haydn</hi>'schen</persName>: „” gegen die geringste Verzögerung oder Beschleu¬
+				<lb n="N005"/>nigung des durch ihren Charakter gebotenen Tempo hervorgehoben wird. Der ware
+				<lb n="N006"/>Grund dieser Erscheinung ist dieser. In beiden Fällen wird das rhythmische Verständ¬
+				<lb n="N007"/>nis d. i. die psychische Reduktion aller Perioden auf die Takteinheit erschwert, bei der
+				<lb n="N008"/>Verzögerung das des Satzbaues, bei der Beschleunigung das der Taktteile. Mit der Er¬
+				<lb n="N009"/>kennbarkeit des rhythmischen Ebenmasses ist aber auch die rhythmische Schönheit
+				<lb n="N010"/>dahin. —</note>.
+				<lb n="N005"/>Beim Satzbaue, wo man von der Einheit des Taktes sich immer
+				<lb n="N006"/>weiter entfernt, ist das Vorherrschen der Zweizal bekannt genug,
+				<lb n="N007"/>Auf das Nähere einzugehen ist nicht nötig. Es genügt die Be¬
+				<lb n="N008"/>merkung, dass das achttaktige Thema die Regel ist.
+			</p>
+            <p>
+				<lb n="N001"/>Die symphonische Alleinherrschaft der sechs kleinsten Ganz¬
+				<lb n="N002"/>zalen und ihrer reciproken Werte kann uns den Begriff der Dis¬
+				<lb n="N003"/>sonanz noch nicht geben, sofern dieser ein <hi rendition="#g">positiver</hi>, nach
+				<lb n="N004"/>zwei Seiten begrenzter sein soll, wie jeder zugeben wird. <persName><hi rendition="#g">Haupt¬
+				<lb n="N005"/>mann</hi>'s</persName> Erklärung der Dissonanz aus konkurrirenden Dreiklängen
+				<lb n="N006"/>müssen wir ebenso zurückweisen, wie die Bildung der Skala aus
+				<lb n="N007"/>Dreiklängen. Auch die Begriffsbestimmung <persName>v. <hi rendition="#g">Oettingen</hi>'s</persName>
+				<lb n="N008"/>() wird uns nicht genügen: „Dissonanz ist das gleichzeitige
+				<lb n="N009"/>Bestehen zweier oder mehrerer Klänge”. Hier fehlt ja das so
+				<lb n="N010"/>sehr gesuchte positive Element gänzlich, welches die Grenze
+				<lb n="N011"/>gegen das Gebiet der formlosen Geräusche abstecken muss. Dieses
+				<lb n="N012"/>positive Moment ist aber bei gleichzeitigem Erklingen dissonanter
+				<lb n="N013"/>Klänge eben nicht zu erkennen, weil diesen die unmittelbare,
+				<lb n="N014"/>symphonische Fassbarkeit abgeht. Das oberste, dem musikalischen
+				<lb n="N015"/>Kunsttriebe von der Natur gesetzte Prinzip, die Bewegung durch
+				<lb n="N016"/>eine Aufeinanderfolge von Klängen, gibt der in ihnen ruhenden
+				<lb n="N017"/>indirekten, durch symphonische Bindeglieder vermittelten Tonicität
+				<lb n="N018"/>bezw. Phonicität ihre positive Bedeutung. Wir haben als Bildner
+				<lb n="N019"/><hi rendition="#g">symphoner</hi> Intervalle nur die sechs Teile eines vollen Klan¬
+				<lb n="N020"/>ges und die sechs Glieder eines vollen Gegenklanges anerkannt,
+				<lb n="N021"/>mit der einzigen Maßgabe, dass die Zal 8 die nächstniedere Po¬
+				<lb n="N022"/>tenz der Zweizal — wenn auch unter verminderter Wirksam¬
+            	<pb facs="#f0046" n="35"/>
+            	<lb n="N001"/>keit — vertreten kann. Hieraus folgt notwendig, dass die aus
+				<lb n="N002"/>höherer Zalenordnung resultirenden Intervalle unfassbar, also <hi rendition="#g">dys¬</hi>
+				<lb n="N003"/><hi rendition="#g">phon</hi> werden, <hi rendition="#g">sobald ihre Elemente gleichzeitig</hi>
+				<lb n="N004"/><hi rendition="#g">erklingen</hi>. Doch können unter diesen nur diejenigen als
+				<lb n="N005"/>vollständig <hi rendition="#g">aphon</hi> aus dem Kunstgebiete ausgeschieden werden,
+				<lb n="N006"/>welche, der Tonika oder Phonika = 1 gegenüber den Gesetzen
+				<lb n="N007"/>der höheren Primzalen 7, 11, 13, 17 u. s. w. gehorchen. Bei
+				<lb n="N008"/>den übrigen kommt ihre indirekte Verwandtschaft zunächst in
+				<lb n="N009"/>der melodischen Bewegung als mehr oder weniger vollkommene
+				<lb n="N010"/>Konsonanz zur Geltung. Diese Tatsache überhebt uns noch ein¬
+				<lb n="N011"/>mal der Aufgabe, den Begriff der eigentlichen, auflösungsbedürf¬
+				<lb n="N012"/>tigen Diaphonie zu geben. Die Verwertung der indirekten Ver¬
+				<lb n="N013"/>wandtschaft fürt uns schon zu den Grundprinzipien melodischer
+				<lb n="N014"/>Fortschreitung und Rückschreitung, in deren Bereich die Skalen¬
+				<lb n="N015"/>bildung wenigstens ermöglicht wird, wenn auch die ganze Frucht¬
+				<lb n="N016"/>barkeit einer musikalischen <hi rendition="#g">Tonart</hi> durch sie noch nicht er¬
+				<lb n="N017"/>reicht wird.
+			</p>
+            <p>
+				<lb n="N001"/>Betrachten wir zunächst die drei vollkommensten melodischen
+				<lb n="N002"/>Konsonanzen, den grossen und kleinen Ganzton und den diatoni¬
+				<lb n="N003"/>schen Halbton. Wie die symphonischen Konsonanzen innerhalb
+				<lb n="N004"/>der Fakultätszal 3! = 6 liegen, so liegen die genannten melo¬
+				<lb n="N005"/>dischen Engschritte, und <hi rendition="#g">nur</hi> diese, innerhalb der Fakultätszal
+				<lb n="N006"/>4! = 24. Wir nehmen das Intervall oder vielmehr die beiden
+				<lb n="N007"/>Klänge <hi rendition="#i">c</hi>—<hi rendition="#i">d</hi>. Sie stehen <hi rendition="#g">tonisch</hi> im Verhältnisse 8:9 und
+				<lb n="N008"/>gehören dem System <hi rendition="#i">C</hi>{ = 1 an. Doch sind sie symphonisch
+				<lb n="N009"/>nicht fassbar, sondern nur melodisch, weil sie nicht beide als
+				<lb n="N010"/>Teile desselben Urklanges <hi rendition="#i">C</hi>{{ gefült werden können, sondern nur
+				<lb n="N011"/>als Teile zweier unter sich symphonisch verwandter Klänge.
+				<lb n="N012"/><hi rendition="#i">c</hi> = 8 ist Teil des Klanges <hi rendition="#i">C</hi> = 4 und auch des Klanges <hi rendition="#i">C</hi>{ = 2,
+				<lb n="N013"/>überhaupt wirksame Vertreterin der Tonika vermöge der reinen
+				<lb n="N014"/>Zweizalration. <hi rendition="#i">d</hi> = 9 ist dagegen fassbar als Teil des Klanges
+				<lb n="N015"/><hi rendition="#i">G</hi>{ = 3. Diese beiden Grundklänge aber, <hi rendition="#i">C</hi> (oder <hi rendition="#i">C</hi>{) und <hi rendition="#i">G</hi>{
+				<lb n="N016"/>sind unter sich symphonisch-tonisch verwandt, d. h. sie sind Teile
+				<lb n="N017"/>desselben Klanges <hi rendition="#i">C</hi>{{ = 1. Natürlich ist jeder der beiden Klänge
+				<lb n="N018"/><hi rendition="#i">c</hi> und <hi rendition="#i">d</hi> für sich genommen vieldeutig; ja jeder lässt unendlich
+				<pb facs="#f0047" n="36"/>
+            	<lb n="N001"/>viele Deutungen zu; sobald sie aber einander entgegengesetzt
+				<lb n="N002"/>werden, reihen sie sich einem bestimmten Systeme ein, und <hi rendition="#g">im</hi>
+				<lb n="N003"/><hi rendition="#g">tonischen Geschlechte</hi> kann dies zunächst kein anderes
+				<lb n="N004"/>sein, als das System <hi rendition="#i">C</hi> = 1. Eine weitere Deutung ist durch
+				<lb n="N005"/>die einfache Antithese der beiden Klänge nicht zu ermöglichen.
+				<lb n="N006"/>Es ruhen zwar in ihnen noch andere verwandtschaftliche Be¬
+				<lb n="N007"/>ziehungen, welche auf andere Toniken hinweisen. Das Zalenver¬
+				<lb n="N008"/>hältnis lässt sich ja durch Multiplikation anders ausdrücken, z. B.
+				<lb n="N009"/>24:27, 40:45, 72:81. Doch ist solche Verwandtschaft ungleich
+				<lb n="N010"/>entfernter, und one Hervorhebung einer größeren Anzal verbin¬
+				<lb n="N011"/>dender Mittelglieder wird die Tonika 1 oder deren verjüngte
+				<lb n="N012"/>Formen 16, 32, 64 als solche nicht empfunden werden können.
+				<lb n="N013"/>sondern man wird nur das Nächstliegende fülen und in den drei
+				<lb n="N014"/>angefürten Fällen die Klänge 3, 5, 9 als Toniken auffassen, wobei
+				<lb n="N015"/>die Klänge 24, 40, 72 als verjüngte Formen anzuerkennen sind.
+				<lb n="N016"/>Bei dem Klangpare <hi rendition="#i">d</hi>—<hi rendition="#i">e</hi> = 9:10 verbindet sich nach dem Ge¬
+				<lb n="N017"/>setze des tonischen <hi rendition="#i">C</hi>{{-Systemes die triadische <hi rendition="#i">G</hi>{-Verwandtschaft
+				<lb n="N018"/>mit der verjüngten Form der Fünfzal. <hi rendition="#i">G</hi>{ = 3 und <hi rendition="#i">E</hi> = 5 sind
+				<lb n="N019"/>die Stammklänge, deren verbindende Kraft in ihrer symphonischen
+				<lb n="N020"/>Tonicität im Systeme <hi rendition="#i">C</hi>{{ = 1 begründet ist. In dem Klange
+				<lb n="N021"/><hi rendition="#i">c</hi>} = 16 erscheint die Tonika abermals verjüngt, und der Klang
+				<lb n="N022"/><hi rendition="#i">h</hi> = 15 tritt zu ersterem in doppelte Beziehung. Derselbe hat
+				<lb n="N023"/>nämlich zwei Stammklänge, welche beide mit <hi rendition="#i">C</hi> = 1 sympho¬
+				<lb n="N024"/>nisch verwandt sind, <hi rendition="#i">G</hi>{ = 3 und <hi rendition="#i">E</hi> = 5.
+            </p>
+            <p>
+				<lb n="N001"/><hi rendition="#g">Im phonischen Geschlechte</hi> haben die drei be¬
+				<lb n="N002"/>sprochenen Melodieschritte die entgegengesetzte Bedeutung. <hi rendition="#i">c</hi>—<hi rendition="#i">d</hi> =
+				<lb n="N003"/><formula notation="TeX">$\frac{1}{9}:\frac{1}{8}$</formula> gehört dem phonischen <hi rendition="#i">d</hi>}}}-Systeme an; für <hi rendition="#i">d</hi>—<hi rendition="#i">e</hi> = <formula notation="TeX">$\frac{1}{10}:\frac{1}{9}$</formula>
+				<lb n="N004"/>ist die phonikale Einheit <hi rendition="#i">fis</hi>}}}; für <hi rendition="#i">h</hi>—<hi rendition="#i">c</hi> = <formula notation="TeX">$\frac{1}{16}:\frac{1}{15}$</formula> ist sie <hi rendition="#i">h</hi>}}}}. Im
+				<lb n="N005"/>phonikalen <hi rendition="#i">h</hi>}}}-Systeme lauten die entsprechenden melodisch-diato¬
+				<lb n="N006"/>nischen, innerhalb der Fakultätszal <formula notation="TeX">$\frac{1}{4}! = \frac{1}{24}$</formula> liegenden Schritte
+				<pb facs="#f0048" n="37"/>
+            	<lb n="N001"/>wie folgt: <hi rendition="#i">h</hi>—<hi rendition="#i">a</hi> = <formula notation="TeX">$\frac{1}{8}:\frac{1}{9}$</formula>; <hi rendition="#i">a</hi>—<hi rendition="#i">g</hi> = <formula notation="TeX">$\frac{1}{9}:\frac{1}{10}$</formula>; <hi rendition="#i">c</hi>—<hi rendition="#i">H</hi> = <formula notation="TeX">$\frac{1}{15}:\frac{1}{16}$</formula>. Diese
+				<lb n="N002"/>letztgenannten Tonschritte gehören tonisch genommen den Syste¬
+				<lb n="N003"/>men <hi rendition="#i">A</hi>{{ und bezw. <hi rendition="#i">F</hi>{{ und <hi rendition="#i">C</hi>{{ an.
+            </p>
+            <p>
+				<lb n="N001"/>Zu bemerken bleibt noch zweierlei. <hi rendition="#g">Erstens</hi> wird die
+				<lb n="N002"/>ursprüngliche Tonika durch die verjüngende Kraft der Zweizal
+				<lb n="N003"/>(2 = 2!), welche jede eigentliche Alterirung des Klangwesens
+				<lb n="N004"/>bei den Oktavtönen ausschliefst, in der melodischen Ausgestaltung,
+				<lb n="N005"/>das heißt also in der Kunst überhaupt, überflüssig gemacht. Sie
+				<lb n="N006"/>findet in jeder Oktave ihre Vertreter. Und nicht bloß für die
+				<lb n="N007"/>eigentliche Tonika gilt dies, sondern für jeden Teil des Gesammt¬
+				<lb n="N008"/>klanges. Eigentlich neue Elemente mit bloß melodischer Ver¬
+				<lb n="N009"/>wandtschaft sind bloß die höheren Potenzen der Drei- und Fünf¬
+				<lb n="N010"/>zal und diejenigen Produkte derselben, in welchen die Zweizal
+				<lb n="N011"/>nicht vorkommt, also zunächst die Klänge 9 und 15.
+			</p>
+            <p>
+				<lb n="N001"/>Daher kann die Urtonika unbedenklich in eine Tiefe gelegt
+				<lb n="N002"/>werden, welche ihren Klang zu einem rein idealen, dem Gebiete
+				<lb n="N003"/>des Hörbaren entrückten macht. Die höheren Potenzen der Zwei¬
+				<lb n="N004"/>zal geben genügende tonikale Ruhepunkte, und die Produkte der
+				<lb n="N005"/>Zalen 3 <hi rendition="#g">oder</hi> 5 mit der Zweizal oder deren höheren Potenzen
+				<lb n="N006"/>bilden die symphonischen Knotenpunkte der Skala, die Potenzen
+				<lb n="N007"/>der Zalen 3 und 5 und ihre Produkte werden zu rein melodischen
+				<lb n="N008"/>Zwischenstufen, welche nur durch das höhere, komplicirtere Ge¬
+				<lb n="N009"/>setz der Modulation sich zu dem temporären Range von Knoten¬
+				<lb n="N010"/>und Ruhepunkten emporschwingen können. Diesem entsprechend
+				<lb n="N011"/>kann und muss auch im Interesse der Melodiebildung die Phonika
+				<lb n="N012"/>zu einer idealen werden, indem sie in eine Höhe hinaufsteigt, wo
+				<lb n="N013"/>entweder das Reich der Klänge schon aufhört, oder wo sie wenig¬
+				<lb n="N014"/>stens nicht mehr wirken kann. Ihre Unteroktaven müssen sie
+				<lb n="N015"/>vollinhaltlich ersetzen. <hi rendition="#g">Zweitens</hi> sind, wie wir schon kurz
+				<lb n="N016"/>andeuteten, in der von uns angegebenen Rangordnung der Skalen¬
+				<lb n="N017"/>klänge die Gesetze der melodischen Fort- und Rückschreitung
+				<lb n="N018"/>grundgelegt. Der Melodieschritt <hi rendition="#i">c</hi>—<hi rendition="#i">d</hi> (= 8:9) ist im tonischen
+				<lb n="N019"/><hi rendition="#i">C</hi>{{-Geschlecht Fortschreitung in doppelter Hinsicht, einmal als auf¬
+				<lb n="N020"/>steigender d. h. von der Tonika <hi rendition="#g">nach arithmetischem</hi>
+            	<pb facs="#f0049" n="38"/>
+            	<lb n="N001"/><hi rendition="#g">Maße</hi> sich entfernender Schritt, dann auch insofern, als er <hi rendition="#g">nach</hi>
+				<lb n="N002"/><hi rendition="#g">geometrischem Maße</hi> vom tonikalen Zweizalenverhältnis
+				<lb n="N003"/>ausgeht und zu den höheren Zalen aufsteigt.
+            </p>
+            <p>
+				<lb n="N001"/>Umgekehrt ist im phonischen <hi rendition="#i">d</hi>}}}-Geschlechte derselbe Ton¬
+				<lb n="N002"/>schritt doppelte Rückschreitung. Wir müssen ihn hier mit der
+				<lb n="N003"/>Ration <formula notation="TeX">$\frac{1}{9}:\frac{1}{8}$</formula> bezeichnen. Das Aufsteigen ist im phonischen Ge¬
+				<lb n="N004"/>schlechte schon an sich <hi rendition="#g">harmonische</hi> Annäherung an die
+				<lb n="N005"/>Phonika, und auch <hi rendition="#g">geometrisch</hi> geht der in Rede stehende
+				<lb n="N006"/>Schritt von der Dreizal zur phonikalen Zweizal zurück. Kehren
+				<lb n="N007"/>wir den Schritt um und nehmen wir <hi rendition="#i">d</hi> vor <hi rendition="#i">c</hi>, so ist dies doppelte
+				<lb n="N008"/>tonische Rückschreitung (ein eigentlicher Rück<hi rendition="#g">fall</hi> in die To¬
+				<lb n="N009"/>nika) und doppelte phonische Fortschreitung. Bei dem Intervall
+				<lb n="N010"/><hi rendition="#i">h</hi>—<hi rendition="#i">c</hi>} zeigt sich ein interessantes und lehrreiches Widerspiel des
+				<lb n="N011"/>arithmetischen bezw. harmonischen und des geometrischen Gesetzes.
+				<lb n="N012"/>In harmonikaler Beziehung gibt das letztere den Ausschlag, weil
+				<lb n="N013"/>es jeder Klangbeziehung ihre <hi rendition="#g">specifische</hi> Verwandtschafts¬
+				<lb n="N014"/>stellung gibt. Der genannte Melodieschritt ist also im tonischen
+				<lb n="N015"/><hi rendition="#i">C</hi>{-Geschlecht entschieden Rückschreitung von dem melodischen
+				<lb n="N016"/>Bewegungsmomente der kombinirten Drei- und Fünfzal (15) zu
+				<lb n="N017"/>dem Ruhepunkte der tonikalen Zweizal (16). Dasselbe ist im
+				<lb n="N018"/>phonischen <hi rendition="#i">h</hi>}}}}-Systeme mit dem umgekehrten Schritte <hi rendition="#i">c</hi>}—<hi rendition="#i">h</hi> der
+				<lb n="N019"/>Fall. Aber das arithmetische und das harmonische Maß streiten
+				<lb n="N020"/>dawider. Nach diesen ist jeder Schritt nach oben im tonischen
+				<lb n="N021"/>Geschlecht Fortschreitung, im phonischen Rückschreitung, und
+				<lb n="N022"/>umgekehrt. Durch diesen Widerstand der beiden Zalengesetze
+				<lb n="N023"/>werden jene Rückschreitungen, tonisch <hi rendition="#i">h</hi>—<hi rendition="#i">c</hi>}, phonisch <hi rendition="#i">c</hi>}—<hi rendition="#i">h</hi>,
+				<lb n="N024"/>schwungvoll, kün, und können sogar unter Umständen gewaltsam,
+				<lb n="N025"/>ja unnatürlich werden.<note type="remarkSource" n="1)"><lb n="N001"/>Kennern des gregorianischen Chorals ist es nicht unbekannt, dass der Schritt
+				<lb n="N002"/>h—c} als eigentlicher Schlussfall der Melodie in dieser Art von Musik niemals vorkommt.</note>
+			</p>
+            <p>
+				<lb n="N001"/>Bruchstückweise haben wir in vorstehendem zur Klarlegung
+				<lb n="N002"/>der symphonischen und melodischen Klangbeziehungen im Dur-
+				<lb n="N003"/>und Mollgeschlecht eine Theorie vorgetragen und zum Teil in
+            	<pb facs="#f0050" n="39"/>
+            	<lb n="N001"/>unserer Weise zur Anwendung gebracht, welche in überraschender
+				<lb n="N002"/>Vollständigkeit der <hi rendition="#b"><persName>Freiherr A. v. Thimus</persName></hi><note type="remarkSource" n="1)"><lb n="N001"/>„
+				<lb n="N002"/>
+				<lb n="N003"/>
+				<lb n="N004"/>”. <placeName ref="#L0021">Köln</placeName>, <date when="1868">1868</date>. — Man vergleiche auch: „
+				<lb n="N005"/>
+				<lb n="N006"/>
+				<lb n="N007"/>”. <placeName ref="#L0021">Köln</placeName>, <date when="1870">1870</date>.</note> aus dem Schutte
+				<lb n="N003"/>der <date>mittelalterlichen</date>, altgriechischen und morgenländischen wissen¬
+				<lb n="N004"/>schaftlichen Reliquien mit warem Bienenfleisse hervorgesucht
+				<lb n="N005"/>und widerhergestellt, mit genialem Überblicke ergänzt und ge¬
+				<lb n="N006"/>läutert, und mit Meisterhand niedergeschrieben hat. Obgleich das
+				<lb n="N007"/> dieses <persName>Forschers</persName> zur Zeit noch nicht genügend gewürdigt
+				<lb n="N008"/>ist, auch teils wegen einzelner küner Behauptungen und neben¬
+				<lb n="N009"/>sächlicher Schattenseiten angefochten wird, teils wegen seines
+				<lb n="N010"/>reichen Inhalts und der großen Summe von Detailkenntnissen,
+				<lb n="N011"/>die seine Lektüre voraussetzt, nur langsam durchdringen kann,
+				<lb n="N012"/>so stehen wir doch keinen Augenblick an, unsere Überzeugung
+				<lb n="N013"/>dahin auszusprechen, dass auf der einen Seite für die ganze alte
+				<lb n="N014"/>Musikgeschichte mit dem Erscheinen der „”
+				<lb n="N015"/>eine neue Epoche angebrochen ist, in welcher nicht mehr rein
+				<lb n="N016"/>philologische, sondern vorwiegend historisch-<hi rendition="#g">kritische</hi> For¬
+				<lb n="N017"/>schung die schwere Arbeit wird übernehmen müssen, den gordi¬
+				<lb n="N018"/>schen Knoten der griechischen Musik zu entwirren. Die Erfolge
+				<lb n="N019"/>werden sich ungleich günstiger gestalten. Auf der andern Seite
+				<lb n="N020"/>wird die Lehre von den Zalenverhältnissen wider den Mittelpunkt
+				<lb n="N021"/>der harmonikalen Theorie einnehmen müssen, eine Stellung, die
+				<lb n="N022"/>man ihr <date>vor dritthalbhundert Jaren</date> mit verhältnismässiger Be¬
+				<lb n="N023"/>rechtigung zu rauben begonnen hat, da die verkümmerte Gestalt,
+				<lb n="N024"/>unter welcher sie allein bekannt sein konnte, den Forderungen
+				<lb n="N025"/>der musikalischen Praxis der neu angebrochenen Zeit noch we¬
+				<lb n="N026"/>niger als denen der früheren entsprach. Die Tradition der Ok¬
+				<lb n="N027"/>tavengattungen hat geradezu Jartausende lang die Theorie er¬
+				<lb n="N028"/>setzen müssen, die in einer entschwundenen Kulturepoche in
+				<lb n="N029"/>grauer Vorzeit ihre Entstehung fand, in ihrem eigentlichen
+				<lb n="N030"/>dualistischen Grundzuge aber schon dem <hi rendition="#g"><persName>Aristoteles</persName></hi> und
+				<pb facs="#f0051" n="40"/>
+            	<lb n="N001"/>seinem unverständig reformsüchtigen Schüler <hi rendition="#g"><persName>Aristoxenos</persName></hi>
+				<lb n="N002"/>eine <hi rendition="#i">terra incognita</hi> war. Sich stützend auf die neuesten Er¬
+				<lb n="N003"/>gebnisse der physikalischen Forschung, und unerschütterlich fest¬
+				<lb n="N004"/>haltend an dem Satze, dass die Forderungen des menschlichen
+				<lb n="N005"/>Ores in ästhetischer Beziehung auch durch jartausendelangen
+				<lb n="N006"/>Kampf ums Dasein sich nicht über die psychologisch und physi¬
+				<lb n="N007"/>kalisch notwendigen Zalengesetze hinaus verändern konnten, ist
+				<lb n="N008"/>der <hi rendition="#g"><persName>Freiherr von Thimus</persName></hi> den Spuren dieser Theorie nach¬
+				<lb n="N009"/>gegangen, welche vor allem jener Musik zu Grunde gelegen hat,
+				<lb n="N010"/>die das künstlerisch reifste, also empfindlichste Volk des <date>Alter¬</date>
+				<lb n="N011"/><date>tums</date> zu den überschwenglichsten Lobeserhebungen hinreißen
+				<lb n="N012"/>konnte. Auf diesem Wege erzielte er die erfreulichsten und um¬
+				<lb n="N013"/>fassendsten Resultate. Er fürt uns durch fast alle Kulturvölker
+				<lb n="N014"/>der <date>Vorzeit</date> hindurch, und überall deckt er uns unter dem teils
+				<lb n="N015"/>absichtlich, teils unabsichtlich aufgelagerten Schutte dilettantisch-
+				<lb n="N016"/>exoterischer Spekulation einen waren Goldschatz uralter Weisheit
+				<lb n="N017"/>auf, den <hi rendition="#g">esoterischen Zalen-Dualismus</hi>, welcher
+				<lb n="N018"/>die naturphilosophische Grundlage nicht nur zur Akustik und
+				<lb n="N019"/>Harmonik, sondern auch zu einer allgemeinen kosmischen Be¬
+				<lb n="N020"/>wegungstheorie zu werden vermochte und zum Teil geworden ist,
+				<lb n="N021"/>die den unumstößlichen Beweis ihrer allumfassenden Richtigkeit
+				<lb n="N022"/>erst durch die allerneuesten Errungenschaften der physikalischen
+				<lb n="N023"/>und chemischen Wissenschaft gefunden hat. <note type="remarkSource" n="2)"><lb n="N001"/>Ein Wort von <hi rendition="#g"><persName>Helmholtz</persName></hi> (S. 347): „. . . noch in allerneuester
+				<lb n="N002"/>Zeit ergötzen sich (an den Spekulationen über Sphärenharmonie) einzelne natur¬
+				<lb n="N003"/>philosophische Gemüter, denen Phantasiren bequemer ist, als wissenschaftliche
+				<lb n="N004"/>Arbeit”, wird von dem übrigens um die Berechnung der Tonleiter hochverdienten
+				<lb n="N005"/>Mathematiker <persName>G. <hi rendition="#g">Schubring</hi></persName> mit Unrecht auf <hi rendition="#g"><persName>von Thimus</persName></hi> angewandt
+				<lb n="N006"/>(, <placeName ref="#L0003">Berlin</placeName> <date when="1868">1868</date>,
+				<lb n="N007"/>S. 69 ff). Die „” hat die exakten Wissenschaften keines¬
+				<lb n="N008"/>wegs zu scheuen. Sie verfolgt in erster Linie nur archäologische Zwecke und
+				<lb n="N009"/>benützt dabei die Quellen in so umfassender Weise, und mit so strenger kriti¬
+				<lb n="N010"/>scher Sichtung, dass jeder musikalische Schriftsteller unserer Tage ihren <persName>Ver¬
+				<lb n="N011"/>fasser</persName> darum beneiden darf. Das Resultat fällt dann allerdings für die natur¬
+				<lb n="N012"/>philosophische Spekulation des <date>Altertums</date> nicht gar so absprechend aus, als man
+				<lb n="N013"/>dies seit langem gewont ist. Dass die <date>antiken</date> naturphilosophischen Prinzipien
+				<lb n="N014"/>der heutigen Naturforschung nicht so ganz fremdartig gegenüberstehen, hat in
+				<lb n="N015"/>allerneuester Zeit auch <persName>Dr. A. Völkel</persName> anerkannt, welcher in der „”, De¬
+				<lb n="N016"/>zemberheft <date when="1874">1874</date>, einen diesbezüglichen Aufsatz veröffentlicht, unter dem Titel:
+				<lb n="N017"/>„”. Bei einem Einblick
+				<lb n="N018"/>in gewisse Partieen der „” würde Hr. Dr. <hi rendition="#g"><persName>Völkel</persName></hi> sich one
+				<lb n="N001"/>Zweifel davon überzeugen, einerseits, dass Hr. <persName>v. <hi rendition="#g">Thimus</hi></persName> seinen Gedanken
+				<lb n="N002"/>schon sechs Jare früher ausgesprochen hat, andererseits, dass das von ihm so ge¬
+				<lb n="N003"/>nannte „<persName>heraklitische</persName>” Bewegungsprinzip („ — Alles ist Bewegung”)
+				<lb n="N004"/>keineswegs ausschließliches geistiges Eigentum des dunkeln <persName>ephesinischen Philo¬
+				<lb n="N005"/>sophen</persName> genannt werden darf. Von den in den heiligen Büchern der Chinesen,
+				<lb n="N006"/>Inder, Perser, Hebräer vorfindlichen Apophthegmen und von den <date>altägyptischen</date>
+				<lb n="N007"/>Hieroglyphen-Symbolen bis zu dem <persName>pythagorischen</persName> Zalengegensatze des 
+				<lb n="N008"/>und  und den <persName>pythagorischen</persName> Kategorieen überhaupt, zu dem musi¬
+				<lb n="N009"/>kalisch-kosmogenischen Systeme des <persName>platonischen</persName>  und zu den Philoso¬
+				<lb n="N010"/>phemen der keltischen und britischen Druiden herab beherrscht dieses Prinzip
+				<lb n="N011"/>die ganze Anschauungsweise der zum Teil hochbegabten Denker der <date>Vorzeit</date>.</note>
+			</p>
+         <pb facs="#f0052" n="41"/>
+            <p>
+				<lb n="N001"/>Indem wir sonach den <hi rendition="#g"><persName>Freiherrn von Thimus</persName></hi> unbe¬
+				<lb n="N002"/>denklich als letzten, nicht geringsten, den drei Forschern <hi rendition="#g"><persName>Haupt¬
+				<lb n="N003"/>mann</persName></hi>, <hi rendition="#g"><persName>Helmholtz</persName></hi> und <persName>v. <hi rendition="#g">Oettingen</hi></persName> anreihen, bemerken
+				<lb n="N004"/>wir nur, dass ihm bei seinem zalenharmonikalen Standpunkte die
+				<lb n="N005"/>Berücksichtigung <persName><hi rendition="#g">Hauptmann</hi>'s</persName> ferner gelegen hat, als die
+				<lb n="N006"/>der physikalisch-physiologischen <persName><hi rendition="#g">Helmholtz</hi>'schen</persName> Resultate.
+				<lb n="N007"/>Das  <persName>v. <hi rendition="#g">Oettingen</hi>'s</persName> hat <persName>v. <hi rendition="#g">Thimus</hi></persName> gar nicht gekannt;
+				<lb n="N008"/>zu seinem Dualismus ist er auf anderm Wege als jener, und un¬
+				<lb n="N009"/>abhängig von ihm gelangt.
+			</p>
+            <p>
+				<lb n="N001"/>An diesem Orte haben wir es indessen nur mit dem Wesen
+				<lb n="N002"/>und der Entstehung der Dur- und Mollskala zu tun, wie es
+				<lb n="N003"/><persName>v. <hi rendition="#g">Thimus</hi></persName> aus den einfachsten zalenharmonikalen Prinzipien
+				<lb n="N004"/>entwickelt. One uns mit seiner Darstellung der verschiedenen
+				<lb n="N005"/>Tonarten (Oktavengattungen) von vorneherein ganz einverstanden
+				<lb n="N006"/>zu erklären, setzen wir daher einfach die beiden Zalenreihen, die
+				<lb n="N007"/>arithmetisch-tonische und die harmonisch-phonische hieher, um zu
+				<lb n="N008"/>zeigen, wie in ihnen die beiden Skalen gleichsam geboren wer¬
+				<lb n="N009"/>den. Wir wälen hiebei die Tonika <hi rendition="#i">F</hi>{{{{ und die Phonika <hi rendition="#i">h</hi>}}}}}, weil
+				<lb n="N010"/>aus ihnen die beiden nächstverwandten Skalen entspringen, welche
+				<lb n="N011"/>man gewönlich „parallel” nennt, obgleich sie passender „antiphon”
+				<lb n="N012"/>genannt würden.
+			</p>
+         <pb facs="#f0053" n="42"/>
+         
+         <pb facs="#f0054" n="43"/>
+            <p>
+				<lb n="N001"/>Wenige Andeutungen werden genügen, um den aus dem vor¬
+				<lb n="N002"/>hergehenden im allgemeinen verständlichen Bau dieser Reihen
+				<lb n="N003"/>auch im einzelnen klar zu machen. Das Dur-Trichord umfasst
+				<lb n="N004"/>die beiden Ganztöne, von denen der größere unten, der kleinere
+				<lb n="N005"/>oben liegt. Umgekehrt hat das Moll-Trichord den kleineren Tonus
+				<lb n="N006"/>unten, den größeren oben. Seine Zalen sind <formula notation="TeX">$\frac{1}{8}:\frac{1}{9}:\frac{1}{10}=10$</formula>:
+				<lb n="N007"/><formula notation="TeX">$\frac{80}{9}:8$</formula>, nicht wie die des absteigenden Dur-Trichords 10:9:8.
+				<lb n="N008"/>Durch die Zalen 15:16:18:20 und deren reciproke Werte ent¬
+				<lb n="N009"/>steht das Tetrachord, und zwar in der tonischen Reihe ein moll¬
+				<lb n="N010"/>geschlechtliches, in der phonischen ein durgeschlechtliches; doch
+				<lb n="N011"/>passt ersteres genau genommen nur auf die zweite (untere) Hälfte
+				<lb n="N012"/>der von den Zalen <formula notation="TeX">$\frac{1}{24}-\frac{1}{48}$</formula> in eingeschlossenen Skala, und letz¬
+				<lb n="N013"/>teres nur auf die zweite (obere) Hälfte der entsprechenden Dur¬
+				<lb n="N014"/>skala.
+			</p>
+            <p>
+				<lb n="N001"/>Die Tonstufen 12 bezw. <formula notation="TeX">$\frac{1}{24}$</formula> und 25 bezw. <formula notation="TeX">$\frac{1}{25}$</formula> haben eine be¬
+				<lb n="N002"/>sondere Wichtigkeit, erstere für die Erklärung fünfstufiger Leitern,
+				<lb n="N003"/>letztere für die Chromatik, deren ersten Ansatz sie bildet. Zwischen
+				<lb n="N004"/>den Zalen 24 und 48 bezw. <formula notation="TeX">$\frac{1}{24}$</formula> und <formula notation="TeX">$\frac{1}{48}$</formula> bauen sich nun zwei
+				<lb n="N005"/>Skalen auf, die sich als die einzigen und echten Töchter der
+				<lb n="N006"/>beiden Tongeschlechter darstellen, wärend die gewälten beiden
+				<lb n="N007"/>Einheitspunkte denselben zugleich die größtmögliche gegenseitige
+				<lb n="N008"/>Verwandtschaft verleihen, indem die aus den beiden Einheits¬
+				<lb n="N009"/>punkten <hi rendition="#i">F</hi>{{{{ = n und <hi rendition="#i">h</hi>}}}}} = 1440 n = 2<hi rendition="#sup">5</hi>. 3<hi rendition="#sup">2</hi>. 5<hi rendition="#sup">1</hi> n entstandenen
+				<lb n="N010"/>Skalen sich nicht bloß vollständig antiphon sind, d. h. in gleichen
+				<lb n="N011"/>Verhältnissen auf- bezw. abwärts schreiten, sondern auch mit einer
+				<lb n="N012"/>einzigen Ausnahme völlig dieselben Klangstufen aufweisen,
+			</p>
+         <pb facs="#f0055" n="44"/>
+            <p>
+				<lb n="N001"/>In folgendem dekachordischem Doppelschema:
+            	
+            	<lb n="N001"/>passen die zwischengestellten Verhältniszalen vollständig für beide
+				<lb n="N002"/>Skalen. Auch die Töne selbst sind die gleichen, nur ist die
+				<lb n="N003"/>zweithöchste Stufe der Mollskala um ein Komma tiefer, als die
+				<lb n="N004"/>zweitniedrigste Stufe der Durskala. Die Erniedrigung der Töne
+				<lb n="N005"/>der C-dur-Leiter um ein Komma haben wir nach dem Vorgange
+				<lb n="N006"/>des <hi rendition="#g"><persName>Freiherrn von Thimus</persName></hi> mit dem Zeichen  und die
+				<lb n="N007"/>Erhöhung um das gleiche Intervall mit dem Zeichen  dargestellt,
+				<lb n="N008"/>was sich als praktischer erweist, als die Bezeichnungen <persName><hi rendition="#g">Haupt¬
+				<lb n="N009"/>mann</hi>'s</persName> und <persName>v. <hi rendition="#g">Oettingen</hi>'s</persName>. Am Ende unserer beiden Reihen
+				<lb n="N010"/>haben wir noch das syntonische Komma notirt, die Seele der
+				<lb n="N011"/>eben so feinen als für die edelsten Gebilde musikalischer Kunst
+				<lb n="N012"/>notwendigen enharmonischen Unterscheidungen.
+			</p>
+            <p>
+				<lb n="N001"/>Betrachten wir nunmehr unsere beiden Skalen in ihrer nähe¬
+				<lb n="N002"/>ren Eigentümlichkeit, so zeigt sich sofort, dass wir es hier nicht
+				<lb n="N003"/>mit der gewönlichen Dur- und Mollskala zu tun haben. Die
+				<lb n="N004"/>Durleiter des reinen tonischen F-Systemes hat zwar die Tonstufen
+				<lb n="N005"/>der C-dur-Leiter, aber diese Stufen haben andere Bedeutung.
+			</p>
+            <p>
+				<lb n="N001"/>Die vierte Stufe der Leiter, <hi rendition="#i">f</hi> = 32, hat allein den Wert
+				<lb n="N002"/>der verjüngten Tonika, sie allein kann Ruhepunkt, Schlusspunkt
+				<lb n="N003"/>werden. Die Skala <hi rendition="#i">c</hi> = 24 bis <hi rendition="#i">c</hi>} = 48 wird also nach <date>mittel¬</date>
+				<lb n="N004"/><date>alterlicher</date> Bezeichnungsweise eine hypolydische genannt werden
+				<lb n="N005"/>müssen und entspricht dem gregorianischen VI. Kirchenton. Die
+				<lb n="N006"/>Mollskala <hi rendition="#i">e</hi> = <formula notation="TeX">$\frac{1}{24}$</formula> bis <hi rendition="#i">e</hi> = <formula notation="TeX">$\frac{1}{48}$</formula> hat dagegen zur Phonika <hi rendition="#i">h</hi>}}}}}, deren
+				<lb n="N007"/>verstärkte Form <hi rendition="#i">h</hi> = <formula notation="TeX">$\frac{1}{32}$</formula> ebenfalls vierte Stufe der (diatonischen)
+				<lb n="N008"/>Leiter ist. Legt man, wie dies <persName>v. <hi rendition="#g">Thimus</hi></persName> thut, der Phonika
+				<lb n="N009"/>nur den Wert der Dominant bei, so wäre <hi rendition="#i">e</hi> Grund- d. h. Final¬
+            	<pb facs="#f0056" n="45"/>
+            	<lb n="N001"/>ton, und die Leiter wäre die <hi rendition="#g">authentisch-phrygische</hi>
+				<lb n="N002"/><persName>Glarean's</persName>, oder der III. Kirchenton. Man wird diese beiden Formen
+				<lb n="N003"/>unbedenklich als die einzigen betrachten dürfen, in welchen die
+				<lb n="N004"/>beiden Tongeschlechter in vollkommener Reinheit, d. h. Unge¬
+				<lb n="N005"/>mischtheit, ausgeprägt sind. Nur höhere, bezw. tiefere Oktaven
+				<lb n="N006"/>der beiden Einheitspunkte haben die analoge Bedeutung, und es
+				<lb n="N007"/>ist deshalb auch die Umwandlung des Authentischen in das Pla¬
+				<lb n="N008"/>galische, und umgekehrt, gerechtfertigt. Dagegen ist die Ein¬
+				<lb n="N009"/>fürung der Oberquart und der grossen Obersext der Tonika, der
+				<lb n="N010"/>Unterquart und der grossen Untersext der Phonika durchaus nicht
+				<lb n="N011"/>tunlich, und damit sehen wir uns gleicher Weise in die Unmög¬
+				<lb n="N012"/>lichkeit versetzt, unsere gebräuchlichen Skalen unter den im vor¬
+				<lb n="N013"/>stehenden entwickelten Begriff der beiden Tongeschlechter zu
+				<lb n="N014"/>bringen. Sie müssen aus einem ganz anderen Gesetze hervorge¬
+				<lb n="N015"/>wachsen sein, welches weder rein tonische, noch rein phonische
+				<lb n="N016"/>Verhältnisse in sich birgt.
+            </p>
+            <p>
+				<lb n="N001"/>Obgleich aber <persName>v. <hi rendition="#g">Thimus</hi></persName> dieses dritte Gesetz mit be¬
+				<lb n="N002"/>wunderungswürdiger Schärfe ausfürlich entwickelt hat, so ist er
+				<lb n="N003"/>doch bezüglich der Erklärung unserer gewönlichen Tonarten bei
+				<lb n="N004"/>der alten Anschauung stehen geblieben und hilft sich über die
+				<lb n="N005"/>von uns oben als unüberwindlich bezeichnete Schwierigkeit da¬
+				<lb n="N006"/>durch hinweg, dass er die Skala nach dem kleineren Tetrachord¬
+				<lb n="N007"/>maße zergliedert. Das Tetrachord, welches, der Tonika und Pho¬
+				<lb n="N008"/>nika um vieles näher als die Skala, aus den Zalen 15, 16, 18,
+				<lb n="N009"/>20 und deren reciproken Werten entsteht, ist ihm, wie auch den
+				<lb n="N010"/>Alten, die nächstliegende und kleinste melodische Zusammen¬
+				<lb n="N011"/>fassung (), und darum je für das Dur und Mollgeschlecht
+				<lb n="N012"/>die Urform, aus welcher sich die melodisch-diatonische Oktave
+				<lb n="N013"/>auf vierfache Art zusammensetzt, nämlich durch Verknüpfung
+				<lb n="N014"/>zweier Tetrachorde (, daher ), wo¬
+				<lb n="N015"/>bei zur Vervollständigung der Oktaven ein Ton hinzugefügt werden
+				<lb n="N016"/>muss (), und zwar entweder oben oder unten,
+				<lb n="N017"/>dann durch Trennung zweier gleichartiger Tetrachorde vermittelst
+				<lb n="N018"/>eines in ihre Mitte eingeschobenen, und entweder zum untern,
+				<lb n="N019"/>oder zum obern Tetrachord gerechneten großen Ganztones (
+				<lb n="N020"/>). Durch diese Anschauung lässt sich allerdings die
+            	<pb facs="#f0057" n="46"/>
+            	<lb n="N001"/>hypolydische von den Zalen 24 und 48 eingeschlossene Skala
+				<lb n="N002"/>mit Leichtigkeit nicht nur in eine authentisch-lydische, sondern
+				<lb n="N003"/>auch in eine ionische und hypoionische umwandeln, sowie die als
+				<lb n="N004"/>phrygisch betrachtete Mollskala in eine hypophrygische, hypoäolische
+				<lb n="N005"/>und äolische. Folgendes Schema wird dieses erklären.
+			</p>
+         
+            <p>
+				<lb n="N001"/>Es lässt sich nicht leugnen, dass durch diese Tetrachordein¬
+				<lb n="N002"/>teilung der Charakter der angegebenen acht Oktavengattungen
+				<lb n="N003"/>im wesentlichen aufgedeckt wird. Die beiden Geschlechter haben
+				<lb n="N004"/>ihre besondere Tetrachordform; die Oktave wird arithmetisch
+				<lb n="N005"/>(plagalisch) und harmonisch (authentisch) geteilt; die Anfangs¬
+				<lb n="N006"/>und Endpunkte der Tetrachorde bilden die <hi rendition="#i">chordae stabiles</hi>; die
+				<pb facs="#f0058" n="47"/>
+            	<lb n="N001"/><hi rendition="#i">chorda finalis</hi> befindet sich allenthalben am unteren Ende der
+				<lb n="N002"/>Oktavenquinte, ist also bei den lydischen Oktaven <hi rendition="#i">f</hi>, bei den
+				<lb n="N003"/>ionischen <hi rendition="#i">c</hi>, bei den phrygischen <hi rendition="#i">e</hi> und bei den äolischen <hi rendition="#i">a</hi>.
+            </p>
+            <p>
+				<lb n="N001"/>Indessen wir haben dieser Auffassung gegenüber einige große
+				<lb n="N002"/>Bedenken. Vor allem wird man nicht übersehen dürfen, dass
+				<lb n="N003"/>mit der einfachen Umsetzung der hypolydischen Oktave in eine
+				<lb n="N004"/>ionische und der phrygischen in eine hypoäolische, Tonika und
+				<lb n="N005"/>Phonika ihren prinzipalen Wert einbüßen. Wenn wir in unserer
+				<lb n="N006"/>Skala <hi rendition="#i">c</hi> = 24 bis <hi rendition="#i">c</hi>} = 48 dem Tone <hi rendition="#i">f</hi> = 32 seinen Charakter
+				<lb n="N007"/>als Ruhe- und Schlusspunkt rauben, indem wir den Ton <hi rendition="#i">c</hi> zum
+				<lb n="N008"/>Finalton machen, so tritt das ganze Gebilde aus dem Mutter¬
+				<lb n="N009"/>schooße der arithmetischen Reihe heraus. Das beherrschende Ele¬
+				<lb n="N010"/>ment dieser Reihe, die Zweizal mit ihren Potenzen, muss sich
+				<lb n="N011"/>der ihr naturgemäß untergebenen triadischen <hi rendition="#i">c</hi>-Stufe beugen. Es
+				<lb n="N012"/>ist dies also eine Inversion der natürlichen Verhältnisse, die
+				<lb n="N013"/>durch die zufällige Übereinstimmung des Oktaven-Umfanges und
+				<lb n="N014"/>durch die Möglichkeit, die Oktave auch authentisch zu teilen,
+				<lb n="N015"/>nicht erklärt werden kann. So wenig in einem natürlichen Klange
+				<lb n="N016"/>mit der Tonika zugleich ihre Quart und Sext oder deren höhere
+				<lb n="N017"/>Oktaven vorhanden sein können, so wenig lässt sich die ionische
+				<lb n="N018"/>Tonart aus der lydischen — rein durgeschlechtlichen — Skala
+				<lb n="N019"/>herleiten. Ein anderes Gesetz muss es erklären, warum sich in
+				<lb n="N020"/>der ionischen Tonart Quart und Sext dem Finalton beugen müssen,
+				<lb n="N021"/>der immer Tonika bleiben und mit der Ration der reinen Zwei¬
+				<lb n="N022"/>zalpotenz ausgedrückt werden muss. Dieselbe Unvereinbarkeit
+				<lb n="N023"/>besteht zwischen der phrygischen und äolischen Tonart. <hi rendition="#g">Tonika</hi>
+				<lb n="N024"/><hi rendition="#g">und Phonika müssen stets Finalton bleiben</hi>.
+			</p>
+            <p>
+				<lb n="N001"/>Dies fürt uns auf ein zweites Bedenken. Ist die Skala
+				<lb n="N002"/><hi rendition="#i">e</hi>} = <formula notation="TeX">$\frac{1}{24}$</formula> bis <hi rendition="#i">e</hi>} = <formula notation="TeX">$\frac{1}{48}$</formula> wirklich die phrygische, wie <persName>v. <hi rendition="#g">Thimus</hi></persName>
+				<lb n="N003"/>glaubt? Ich möchte anderer Meinung sein. Nur wenn man
+				<lb n="N004"/>Phonika und Dominant auf eine Stufe stellt, ist die <persName>v. <hi rendition="#g">Thimus</hi>’sche</persName>
+				<lb n="N005"/>Anschauung richtig. Wenn man dagegen der Phonika eine ana¬
+				<lb n="N006"/>loge Stellung im Mollgeschlechte vindicirt, wie der Tonika im
+				<lb n="N007"/>Durgeschlechte, so kann erstere so wenig vom Finaltone getrennt
+            	<pb facs="#f0059" n="48"/>
+            	<lb n="N001"/>werden, wie letztere. Das einheitliche Gemäß der natürlichen
+				<lb n="N002"/>Mollskala, ihr Ruhe- und Finalpunkt, ist <hi rendition="#i">h</hi> = <formula notation="TeX">$\rfac{1}{32}$</formula> und diesem
+				<lb n="N003"/>phonikalen Hauptklange muss die Unterquart und Untersext ebenso
+				<lb n="N004"/>notwendig fehlen, wie der verjüngten Tonika <hi rendition="#i">f</hi> = 32 ihre Ober¬
+				<lb n="N005"/>quart und Obersext. Nun endigen aber die phrygischen Melodieen
+				<lb n="N006"/>bekanntermassen ausnahmslos auf E, sind also nach anderem Ge¬
+				<lb n="N007"/>setze gebildet. Bei der symphonischen Behandlung dieser Tonart
+				<lb n="N008"/>im <hi rendition="#g">Palestrinastil</hi> zeigt sich dies noch prägnanter. Der
+				<lb n="N009"/>Grundaccord, in welchen der melodische Lauf zurückkehren müsste,
+				<lb n="N010"/>ist bei unserer natürlichen Mollskala der Accord <hi rendition="#i">h</hi> <hi rendition="#i">g</hi> <hi rendition="#i">e</hi>, welcher
+				<lb n="N011"/>durch die höheren Oktaven von <hi rendition="#i">h</hi> zu vervollständigen wäre. Die
+				<lb n="N012"/>phrygischen Tonstücke schließen aber alle in <hi rendition="#i">e</hi> <hi rendition="#i">gis</hi> <hi rendition="#i">h</hi>, was nur
+				<lb n="N013"/>möglich ist, wenn man <hi rendition="#i">e</hi> als Einheits- und Ruhepunkt der Skala
+				<lb n="N014"/>betrachtet. Der phonikale Stammaccord H, der ja noch in sich
+				<lb n="N015"/>selbst Bewegung ist, — Symphonie, noch nicht Homophonie —
+				<lb n="N016"/>kann zur Herstellung eines vollkommneren natürlichen Schlusses
+				<lb n="N017"/>wol in den homophonen Klang H oder den H-dur-Accord ver¬
+				<lb n="N018"/>wandelt werden, aber nicht in den E-dur-Accord, der einem ganz
+				<lb n="N019"/>anderen Systeme angehört. Man kann die gegenklangliche —
+				<lb n="N020"/>negative — Phonika wol in die klangliche — positive — Tonika
+				<lb n="N021"/>gleichen Namens und gleicher Bedeutung verwandeln, nicht aber
+				<lb n="N022"/>sie durch Umsetzung in eine triadische (oder pentadische) Ration
+				<lb n="N023"/>zu einem untergeordneten Elemente eines ganz heterogenen toni¬
+				<lb n="N024"/>schen Klanges machen. Hiernach bleibt nichts anderes übrig
+				<lb n="N025"/>als die natürliche Mollskala außerhalb der zwölf Kirchentöne zu
+				<lb n="N026"/>setzen, in eine Region, wo die Phonicität so ausschließlich herrscht,
+				<lb n="N027"/>dass der Phonika auch nicht eine einzige tonische Beziehung mehr
+				<lb n="N028"/>verbleibt. Dann erst ist sie vollkommen der lydischen Hyper-
+				<lb n="N029"/>dur-Skala antiphon, deren Tonika auch der einfachsten und nächst¬
+				<lb n="N030"/>liegenden phonischen Verwandtschaftsstufe, der Unterquint, entbehrt.
+			</p>
+            <p>
+				<lb n="N001"/>Die Ausdehnung eines Tetrachordenpares zu einer Oktave
+				<lb n="N002"/>durch einen  oder einen  hat aber
+				<lb n="N003"/>noch einen andern gewichtigen Umstand gegen sich. Die beiden
+				<lb n="N004"/>Tetrachorde sind nämlich keineswegs gleichartig. Die zweite
+            	<pb facs="#f0060" n="49"/>
+            	<lb n="N001"/>Stufe des zweiten Tetrachords der beiden Naturskalen liegt nämlich
+				<lb n="N002"/>der ersten Stufe um ein Komma näher, als dies im ersten Tetra¬
+				<lb n="N003"/>chorde der Fall ist:
+            	
+			</p>
+            <p>
+				<lb n="N001"/>Erst eine Oktave höher, bezw. tiefer, reihen sich den Stufen
+				<lb n="N002"/><hi rendition="#i">a</hi>} = 80 und <hi rendition="#i">G</hi> = <formula notation="TeX">$\frac{1}{80}$</formula> als sekundäre Nebenformen im Bereich
+				<lb n="N003"/>des Enharmonischen die Stufen  = 81 und  = <formula notation="TeX">$\frac{1}{81}$</formula> an, welche
+				<lb n="N004"/>aber die natürliche diatonische Skala nicht alteriren dürfen.
+			</p>
+            <p>
+				<lb n="N001"/>Wir müssen diese vielmehr als ebenso unmittelbar und not¬
+				<lb n="N002"/>wendig aus den natürlichen Klangverhältnissen hervorgegangen
+				<lb n="N003"/>betrachten, wie die Tetrachorde. Gerade die Ungleichartigkeit
+				<lb n="N004"/>der beiden zu einer Oktave verbundenen Tetrachorde bezeichnet
+				<lb n="N005"/>das innerste Wesen der Naturskalen.
+			</p>
+            <p>
+				<lb n="N001"/>Diese letzteren sind also auch — es geht dies aus allen
+				<lb n="N002"/>unsern Ausfürungen deutlich hervor — die einzigen eingeschlecht¬
+				<lb n="N003"/>lichen Formen, welche eine Oktave ganz mit den Rationen des
+				<lb n="N004"/>großen und kleinen Tonus und des diatonischen Limma ausfüllen.
+				<lb n="N005"/>Sie allein sind aus dem reinen arithmetischen, bezw. harmonischen
+				<lb n="N006"/>Zalenverhältnis herausgeboren, und obgleich die gewönliche Auf¬
+				<lb n="N007"/>fassung dieselben als ein übermäßiges Dur und ein übermässiges
+				<lb n="N008"/>Moll kennzeichnen würde, so sind sie in der Tat die einzigen
+				<lb n="N009"/>Skalen, welche in demselben Sinne Dur und Moll sind, wie die
+				<lb n="N010"/>Dreiklänge <hi rendition="#i">c</hi> <hi rendition="#i">e</hi> <hi rendition="#i">g</hi> und <hi rendition="#i">h</hi> <hi rendition="#i">g</hi> <hi rendition="#i">e</hi>.
+			</p>
+            <p>
+				<lb n="N001"/>Unsere Aufgabe ist erfüllt. Dur und Moll haben sich uns
+				<lb n="N002"/>in ihrer waren Natur gezeigt. Aber statt, dass uns das Durch¬
+				<lb n="N003"/>forschen ihres Wesens mitten in den Bereich der musikalischen
+				<lb n="N004"/>Praxis, der Tonarten und der harmonikalen Gestaltungen gefürt
+				<pb facs="#f0061" n="50"/>
+            	<lb n="N001"/>hätte, sind wir bei zwei divergirenden Polen angelangt, um welche
+				<lb n="N002"/>sich zwei skalenartige Gebilde krystallisirt haben, die aber für
+				<lb n="N003"/>die Praxis unbrauchbar oder wenigstens in hohem Grade unge¬
+				<lb n="N004"/>bräuchlich sind. Wir sagen noch mehr: So weit wir bis jetzt
+				<lb n="N005"/>diese Skalen betrachtet haben, sind sie überhaupt keine Tonarten
+				<lb n="N006"/>im vollen Sinne des Wortes. Wol weisen sie beide wichtige
+				<lb n="N007"/>Elemente musikalischer Bildungen auf: Ruhe, Bewegung, Durch¬
+				<lb n="N008"/>gang, Fort- und Rückschreitung; aber alles dieses nur innerhalb
+				<lb n="N009"/>eines Klangwesens oder eines Gegenklangsystemes. Und hiermit
+				<lb n="N010"/>ist eben das Wesen der Musik nicht erschöpft. Zur Erklärung
+				<lb n="N011"/>der lebensfähigen Oktavengattung, der eigentlichen Tonart ist
+				<lb n="N012"/>auch der Gegensatz von Dur und Moll nicht hinreichend. Unge¬
+				<lb n="N013"/>nügend war zu gleichem Zwecke das <hi rendition="#i">Systema maximum</hi> der
+				<lb n="N014"/>Griechen, welches einseitig auf Molltetrachorde gegründet war;
+				<lb n="N015"/>ungenügend ist auch die moderne, einseitig dem Durgeschlechte
+				<lb n="N016"/>zugewandte Theorie; aber auch der ausgeprägte und konsequent
+				<lb n="N017"/>durchgefürte offene Dualismus fürt uns nur bis an die Grenzen
+				<lb n="N018"/>der Musik.
+            </p>
+            <p>
+				<lb n="N001"/>Der befruchtende Keim für die eigentliche Kunstschönheit
+				<lb n="N002"/>liegt in einer von uns nur flüchtig angedeuteten tieferen Ver¬
+				<lb n="N003"/>wandtschaft <hi rendition="#g">bestimmter</hi> antiphoner Formen, die sich von
+				<lb n="N004"/>selbst zu einer wirksamen Tonart verschmelzen. Nur durch
+				<lb n="N005"/>Kontrastwirkung kann sich die ganze Schönheit einer klingenden
+				<lb n="N006"/>Grundform offenbaren. Darum muss in jede tonische Grundform
+				<lb n="N007"/>ein phonisches, in jede phonische Grundform ein tonisches Gegen¬
+				<lb n="N008"/>system sich gleichsam einschieben, damit durch eine solche
+				<lb n="N009"/>Mischung die Momente der Bewegung innerhalb der Skala einer
+				<lb n="N010"/>eigentlichen Gegenwirkung erst fähig werden.
+			</p>
+            <p>
+				<lb n="N001"/>Die Lehre von den Tonarten überschreitet also unsern der¬
+				<lb n="N002"/>maligen Zweck; denn sie ist nicht mehr Theorie des Dur- oder
+				<lb n="N003"/>Mollgeschlechts, sondern Theorie der natürlichen und künstlichen
+				<lb n="N004"/>Mischung beider Geschlechter. Erst aus der organischen Ver¬
+				<lb n="N005"/>einigung des Tonischen und Phonischen, des arithmetischen und
+				<lb n="N006"/>harmonischen Zalenverhältnisses, des Ruhenden und Bewegten,
+				<lb n="N007"/>des Männlichen und Weiblichen, des positiven und negativen
+            	<pb facs="#f0062" n="51"/>
+            	<lb n="N001"/>Poles springt jener geheimnisvolle elektrische Funke hervor,
+				<lb n="N002"/>welcher in der Phantasie, in dem denkenden und fülenden
+				<lb n="N003"/>Menschengeiste das einheitliche Bild der <hi rendition="#g">Tonart</hi> und damit
+				<lb n="N004"/>die Urquelle des eigentlichen <hi rendition="#g">Kunstschönen</hi> erzeugt.
+			</p>
+         <pb facs="#f0063"/>
+         <pb facs="#f0064"/>
+         <pb facs="#f0065"/>
+         <pb facs="#f0066"/>
+         <pb facs="#f0067"/>
+         <pb facs="#f0068"/>
+         <pb facs="#f0069"/>
+      </body>
+   </text>
+</TEI>

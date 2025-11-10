@@ -1,0 +1,1878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Weitzmann_1860_Harmoniesystem</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>tranScriptorium</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <publisher>TRP document creator: maikkoester@hotmail.de</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+   	<front>
+   	  <titlePage type="halftitle">
+				<docTitle>
+           	 	<titlePart type="main">
+           	 		<lb n="N001"/><hi rendition="#b">Harmoniesystem.</hi>
+           	 	</titlePart>
+				</docTitle>
+			</titlePage>
+   		<titlePage type="main">
+				<docTitle>
+					<titlePart type="desc">
+						<lb n="N001"/><hi rendition="#b">Gekrönte Preisschrift.</hi>
+					</titlePart>
+           	 	<titlePart type="main">
+           	 		
+						<lb n="N002"/>Harmoniesystem
+           	 	</titlePart>
+				</docTitle>
+				<byline>
+					<lb n="N003"/>von
+					<lb n="N004"/><docAuthor><hi rendition="#b">C. F. Weitzmann</hi></docAuthor>.
+				</byline>
+				<docImprint>
+					<lb n="N005"/><pubPlace>Leipzig</pubPlace>,
+					<lb n="N006"/><publisher><hi rendition="#g">Verlag von C. F. Kahnt</hi></publisher>.
+				</docImprint>
+			</titlePage>
+   		<div type="contents"><list n="1"><item>
+				Tonsystem.
+			</item><item>
+				Consonanzen.
+			</item><item>
+				Dur-Tonart.
+			</item><item>
+				Moll-Tonart.
+			</item><item>
+				Dreiklangs-Folgen.
+			</item><item>
+				Verwandtschaft der Accorde und der Tonarten.
+			</item><item>
+				Dissonanzen.
+			</item><item>
+				Vorschläge.
+			</item><item>
+				Durchgangstöne.
+			</item><item>
+				Vorausnahmen.
+			</item><item>
+				Vorhaltsdissonanzen.
+			</item><item>
+				Dissonirende Dreiklänge.
+			</item><item>
+				Septimenaccorde.
+			</item><item>
+				Trugfortschreitung.
+			</item><item>
+				Folgen von Septimenaccorden.
+			</item><item>
+				Orgelpunct.
+			</item><item>
+				Schlußbildung.
+			</item><item>
+				Modulation.
+			</item><item>
+				Die heutige Chromatik und Enharmonik.
+			</item></list></div>
+   	  <pb facs="#f0001"/>
+         <pb facs="#f0002"/>
+         <pb facs="#f0003"/>
+         <pb facs="#f0004"/>
+         <pb facs="#f0005"/>
+         <pb facs="#f0006"/>
+         <pb facs="#f0007"/>
+         <pb facs="#f0008"/>
+   		
+         <pb facs="#f0009"/>
+         <pb facs="#f0010"/>
+   		
+         <pb facs="#f0011"/>
+         <pb facs="#f0012"/>
+         <div type="preface">
+            <head>
+				<lb n="N001"/>Erklärende Erläuterung
+				<lb n="N002"/>und
+				<lb n="N003"/><hi rendition="#b">musikalisch-theoretische Begründung</hi>
+				<lb n="N004"/>der
+				<lb n="N005"/>durch die neuesten Kunstschöpfungen bewirkten Umgestaltung und
+				<lb n="N006"/>Weiterbildung der Harmonik.
+			</head>
+            <epigraph facs="#facs_12_TextRegion_1614087572791_237">
+            	<cit>
+            		<quote>
+				<lb n="N001"/>„Dicemo adunque, che quantunque la scienza
+				<lb n="N002"/>della Musica habbia avuto origine dal senso
+				<lb n="N003"/>dell’udito — non è perciò da dar questo ufficio di
+				<lb n="N004"/>giudicare al <hi rendition="#g">sentimento</hi> solamente nelle cose
+				<lb n="N005"/>dei suoni e delle voci: ma li dovemo accom¬
+				<lb n="N006"/>pagnar sempre la <hi rendition="#g">ragiono</hi>. Ne meno si debbe
+				<lb n="N007"/>dare tal giuditio tutto alla <hi rendition="#g">ragione</hi>, lassando
+				<lb n="N008"/>da parte il <hi rendition="#g">senso</hi>: perciochè l’uno senza l'altro
+				<lb n="N009"/>potrà sempre essere cagione di errore.”
+            		</quote>
+            		<bibl>
+				<lb n="N010"/><hi rendition="#i"><persName>Gioseffo Zarlino</persName></hi>, <date when="1559">1559</date>.
+            		</bibl>
+            	</cit>
+			</epigraph>
+         </div>
+         <pb facs="#f0013"/>
+         <pb facs="#f0014"/>
+   		<!-- Inhaltsverzeichnis nicht transkribiert -->
+         <pb facs="#f0015"/>
+   	</front>
+      <body>
+         <pb facs="#f0016"/>
+            <p>
+				<lb n="N001"/>Der Ton, eine bestimmte Klanghöhe, ist das Material
+				<lb n="N002"/>der Musik. Er wird erzeugt durch einen erzitternden Körper
+				<lb n="N003"/>oder durch eine schwingende Luftsäule, getragen durch die un¬
+				<lb n="N004"/>sichtbaren Schallwellen der Luft, und wir vernehmen ihn mit
+				<lb n="N005"/>dem idealsten unserer Sinne, mit dem Gehöre. Dergleichen
+				<lb n="N006"/>nicht zur äußerlichen Anschauung gelangenden, nichts äußerlich
+				<lb n="N007"/>Anschauliches bezeichnenden Töne als Glieder einer ausdrucks¬
+				<lb n="N008"/>vollen und verständlichen Sprache der Innerlichkeit mit ein¬
+				<lb n="N009"/>ander zu verbinden, aus solchen flüchtig dahin wallenden Tönen
+				<lb n="N010"/>Werke von <hi rendition="#g">bestimmtem Inhalte</hi>, von <hi rendition="#g">schöner Form</hi> zu
+				<lb n="N011"/>schaffen, ist die Aufgabe der Tonkunst. <hi rendition="#g">Melodie</hi>, <hi rendition="#g">Harmonie</hi>
+				<lb n="N012"/>und <hi rendition="#g">Rhythmus</hi>, in unzertrennter Einheit, oder als einzelne
+				<lb n="N013"/>Elemente zur Geltung gelangend, sind die Mittel, einem Ton¬
+				<lb n="N014"/>stücke eine schöne Form zu geben und seinen Inhalt zum
+				<lb n="N015"/>lebendigen, verständlichen Ausdruck zu bringen. Da sich die
+				<lb n="N016"/>vorliegenden Blätter aber hauptsächlich die Aufgabe stellen,
+				<lb n="N017"/>die Gesetze der in neueren Tonwerken anerkannter praktischer
+				<lb n="N018"/>Meister erscheinenden, in früheren theoretischen Werken aber
+				<lb n="N019"/>noch nicht erklärten Zusammenklänge und Accordfolgen zu er¬
+				<lb n="N020"/>gründen und deren natürliche Grenzen aufzufinden, so können
+				<lb n="N021"/>die Lehren der Melodie und des Rhythmus hier nur insofern
+				<lb n="N022"/>in Betracht gezogen werden, als sie mit denen der Harmonie
+				<lb n="N023"/>in Berührung oder Verbindung treten.
+			</p>
+         <div type="chapter" n="1">
+			<head>
+				<lb n="N001"/><hi rendition="#b">Tonsystem.</hi>
+			</head>
+            <p>
+				<lb n="N001"/>Unsere erste Aufgabe wird es sein, aus der fast unzähl¬
+				<lb n="N002"/>baren Menge von möglichen Tönen eine Reihe auszuwählen
+            	<pb facs="#f0017" n="2"/>
+            	<lb n="N001"/>und festzustellen, welche geeignet wäre, den Melodien und Har¬
+				<lb n="N002"/>monien eines kunstgerechten Musikstückes zu Grunde zu liegen.
+				<lb n="N003"/>Nächstverwandte Töne stehen zu einander in dem Verhältniß
+				<lb n="N004"/>einer Octave oder einer Quinte. Bei einer fortgesetzten Reihe
+				<lb n="N005"/>von Octaven erkennen wir stets dieselben, nur in höheren oder
+				<lb n="N006"/>tieferen Lagen erscheinenden Töne: C—c—c}—c}} 2c. Eine ebenso
+				<lb n="N007"/>fortgesetzte Reihe von Quinten aber giebt uns das folgende,
+				<lb n="N008"/>aus unter einander verwandten, verschiedenen Tönen bestehende
+				<lb n="N009"/>Tonsystem:
+            	
+            	<lb n="N001"/>Bis ins Unendliche fortgesetzt, könnte diese Reihe von reinen
+				<lb n="N002"/>Quinten (3:2) dennoch niemals einen Ton erscheinen lassen,
+				<lb n="N003"/>der zu einem der vorhergehenden in dem Verhältnisse einer rei¬
+				<lb n="N004"/>nen Octave (2:1) stände. Ein mit feststehenden Tönen ver¬
+				<lb n="N005"/>sehenes Instrument, wie etwa die Orgel oder das Clavier,
+				<lb n="N006"/>müßte nun dem obigen Systeme nach in jeder seiner Octaven
+				<lb n="N007"/>35 verschiedene Töne enthalten, ohne daß dadurch zugleich eine
+				<lb n="N008"/>Reihe von reinen Octaven gewonnen wäre, denn weder der Ton
+				<lb n="N009"/>his, noch der Ton deses würde die reine Octave des Tones C
+				<lb n="N010"/>ergeben, und ebensowenig würden die Töne fisis oder asas zu
+				<lb n="N011"/>dem Tone G in dem Verhältnisse von 2:1 stehen u. s. f. Da
+				<lb n="N012"/>aber ein jedes praktisch brauchbare System in einer bestimmten
+				<lb n="N013"/>Abgrenzung erscheinen muß, so begnügt sich die heutige Ton¬
+				<lb n="N014"/>kunst mit einem Systeme von 12 verschiedenen Tönen in der
+				<lb n="N015"/>Octave, indem sie eine gleichschwebende Temperatur der obigen
+				<lb n="N016"/>Quintenfolge bei durchgängig reinen Octaven zu Grunde legt,
+				<lb n="N017"/>wobei die obenstehenden „enharmonischen Töne”: his, C und
+				<lb n="N018"/>deses, ebenso hisis, cis und des u. s. f. wie bei einem wohl¬
+				<lb n="N019"/>temperirten Claviere als gleichklingend angenommen werden.
+            	
+			</p>
+         <pb facs="#f0018" n="3"/>
+            <p>
+				<lb n="N001"/>Durch das Aufgeben jener mathematischen Reinheit der
+				<lb n="N002"/>Tonverhältnisse, mit Ausnahme der Octaven, gewinnen wir
+				<lb n="N003"/>die Enharmonik, eins der wirksamsten Mittel der neueren Ton¬
+				<lb n="N004"/>kunst, um auch die entferntesten Tonverwandten mit einander
+				<lb n="N005"/>in Verbindung zu bringen. Seit ihrer praktisch brauchbaren
+				<lb n="N006"/>Feststellung aber hat eine gleichschwebende Temperatur, selbst
+				<lb n="N007"/>in Verbindung mit der reinen Stimmung, in welcher z. B. der
+				<lb n="N008"/>Sänger die Terze oder die Quinte ertönen läßt, auch das
+				<lb n="N009"/>feinste musikalische Ohr nicht beleidigen können, denn <hi rendition="#g"><persName>Bach</persName></hi>,
+				<lb n="N010"/><hi rendition="#g"><persName>Haydn</persName></hi>, <hi rendition="#g"><persName>Mozart</persName></hi>, <hi rendition="#g"><persName>Beethoven</persName></hi> und fast alle neueren Meister
+				<lb n="N011"/>haben vorzugsweise das <hi rendition="#g">temperirte</hi> Clavier mit und ohne
+				<lb n="N012"/>Begleitung von Gesangstimmen oder Instrumenten <hi rendition="#g">untem¬</hi>
+				<lb n="N013"/><hi rendition="#g">perirter</hi> Stimmung gewählt, um ihre Tondichtungen zu Ge¬
+				<lb n="N014"/>hör zu bringen.
+			</p>
+         </div>
+         <div type="chapter" n="1">
+			<head>
+				<lb n="N001"/><hi rendition="#b">Consonanzen.</hi>
+			</head>
+            <p>
+				<lb n="N001"/>Consonanzen nennen wir diejenigen Zusammenklänge,
+				<lb n="N002"/>welche, wenn sie ohne Verbindung mit anderen Harmonien er¬
+				<lb n="N003"/>scheinen, dem Gehöre das Gefühl der <hi rendition="#g">Selbstständigkeit</hi>
+				<lb n="N004"/>und der <hi rendition="#g">Ruhe</hi> gewähren, im Gegensatze zu den unselbststän¬
+				<lb n="N005"/>digen <hi rendition="#g">Dissonanzen</hi>, welchen das <hi rendition="#g">Streben</hi> innewohnt, in
+				<lb n="N006"/>eine Consonanz überzugehen oder sich in eine solche <hi rendition="#g">aufzu¬</hi>
+				<lb n="N007"/><hi rendition="#g">lösen</hi>. Folgt aber statt der erwarteten Auflösung der Disso¬
+				<lb n="N008"/>nanz eine neue Dissonanz, so entsteht eine <hi rendition="#g">Trugfortschrei¬</hi>
+				<lb n="N009"/><hi rendition="#g">tung</hi>. Die zuerst erkannten Consonanzen waren der <hi rendition="#g">Einklang</hi>
+				<lb n="N010"/>und die <hi rendition="#g">Octave</hi>; man empfand als solche sodann auch die
+				<lb n="N011"/><hi rendition="#g">große Quinte</hi> und deren Umkehrung, die <hi rendition="#g">kleine Quarte</hi>;
+				<lb n="N012"/>ferner die <hi rendition="#g">große Terze</hi> und deren Umkehrung, die <hi rendition="#g">kleine</hi>
+				<lb n="N013"/><hi rendition="#g">Sexte</hi> und endlich die <hi rendition="#g">kleine Terze</hi> und deren Umkehrung,
+				<lb n="N014"/>die <hi rendition="#g">große Sexte</hi>. Der <hi rendition="#g">große (Dur-) Dreiklang</hi>, und
+				<lb n="N015"/>ebenso der <hi rendition="#g">kleine (Moll-) Dreiklang</hi>, enthält bei Ver¬
+				<lb n="N016"/>dopplung seiner Töne in höheren Octaven <hi rendition="#g">alle</hi> jene Conso¬
+				<lb n="N017"/>nanzen, und mit den letztgenannten Accorden, welche auch in
+				<lb n="N018"/>der Terzsext- oder Quartsext-Lage ihre consonirende Natur
+				<lb n="N019"/>noch bewahren, ist das Feld der <hi rendition="#g">Consonanzen</hi> für immer
+				<lb n="N020"/>abgegrenzt und abgeschlossen. Alle übrigen Zusammenklänge
+				<lb n="N021"/>aber hat das Ohr von je her als <hi rendition="#g">Dissonanzen</hi> aufgefaßt,
+				<lb n="N022"/>und deren Anzahl hat sich bis auf die <date>heutige Zeit</date> immer mehr
+            	<pb facs="#f0019" n="4"/>
+            	<lb n="N001"/>und mehr vergrößert. Unsere weitere Aufgabe wird es also
+				<lb n="N002"/>vorzüglich sein, die Berechtigung der bisher noch nicht erklärten
+				<lb n="N003"/>Dissonanzen darzuthun und deren natürliche Grenzen festzu¬
+				<lb n="N004"/>stellen.
+			</p>
+            <p>
+				<lb n="N001"/>Ueber die praktische Anwendung der Consonanzen aber
+				<lb n="N002"/>haben wir vorher noch Folgendes zu bemerken. Da ein jeder
+				<lb n="N003"/>consonirende Zusammenklang eine entschiedene Selbstständigkeit
+				<lb n="N004"/>in sich trägt, so kann auch sein Auftreten und das Fortschreiten
+				<lb n="N005"/>der verschiedenen ihn bildenden Stimmen keinen unbedingten
+				<lb n="N006"/>Zwangsregeln unterworfen sein. Mehrere Stimmen können
+				<lb n="N007"/>also mit einem Einklange, mit einer Octave, mit einer Quinte,
+				<lb n="N008"/>Terze oder Sexte und deren Verdopplungen in höheren Octaven,
+				<lb n="N009"/>oder aber mit einem Dreiklange in jeder seiner verschiedenen
+				<lb n="N010"/>Lagen frei auftreten, sie können aus einer Consonanz in eine
+				<lb n="N011"/>jede andere übergehen, nur sollen, den früheren Regeln nach,
+				<lb n="N012"/>parallele Einklänge, Octaven und Quinten gänzlich vermieden
+				<lb n="N013"/>werden, und zwei Stimmen in gerader Bewegung nur unter
+				<lb n="N014"/>gewissen Bedingungen in eine der genannten Consonanzen
+				<lb n="N015"/>übergehen.
+			</p>
+            <p>
+				<lb n="N001"/>Wenn in einem mehrstimmigen Satze zwei oder mehr
+				<lb n="N002"/>Stimmen im Einklange oder in Octaven mit einander fort¬
+				<lb n="N003"/>schreiten, so geben sie ihre harmonische Selbstständigkeit auf,
+				<lb n="N004"/>ohne daß dadurch ein Mißklang entstehen könnte. Geht in
+				<lb n="N005"/>einem vierstimmigen Satze z. B. der Sopran mit dem Tenor
+				<lb n="N006"/>und der Alt mit dem Baß in Octaven einher, so wird aus dem
+				<lb n="N007"/>vierstimmigen ein verdoppelter zweistimmiger Satz; geht ebenso
+				<lb n="N008"/>der Sopran mit dem Tenor in Octaven, während Alt und
+				<lb n="N009"/>Baß ihre harmonische Selbstständigkeit bewahren, so wird da¬
+				<lb n="N010"/>durch der vierstimmige zum dreistimmigen, mit einer verdoppel¬
+				<lb n="N011"/>ten Stimme versehenen Satze; gehen aber ebenso Sopran und
+				<lb n="N012"/>Baß in Octaven, während Alt und Tenor eine eigene Selbst¬
+				<lb n="N013"/>ständigkeit behaupten, so wird das harmonische Gebäude, dessen
+				<lb n="N014"/>Schwerpunct nun in der Basis und im Gipfel zugleich liegt,
+				<lb n="N015"/>wankend und haltlos erscheinen. Doch kann ein absoluter
+				<lb n="N016"/>Mißklang auch dadurch nicht hervorgebracht werden, ein solches
+				<lb n="N017"/>Schwanken oder Emporheben der Basis oft sogar höchst wir¬
+				<lb n="N018"/>kungsvoll angewendet werden. Ich erinnere hier nur an der¬
+				<lb n="N019"/>gleichen Octavenparallelen des vierstimmigen Canons in
+            	<pb facs="#f0020" n="5"/>
+            	<lb n="N001"/><persName><hi rendition="#g">Beethoven</hi>'s</persName> „” und an die Verdopplungen einer da¬
+				<lb n="N002"/>durch mächtig hervortretenden Melodie in <persName><hi rendition="#g">Liszt</hi>'schen</persName> Com¬
+				<lb n="N003"/>positionen.
+			</p>
+            <p>
+				<lb n="N001"/>Den Terzen und Sexten hat man von jeher ein freies
+				<lb n="N002"/>Auftreten und Fortschreiten gestattet, mit Ausnahme des zu¬
+				<lb n="N003"/>weilen versuchten Verbotes der stufenweisen Aufeinanderfolge
+				<lb n="N004"/>zweier großer Terzen, welches indessen von den praktischen
+				<lb n="N005"/>Meistern zu keiner Zeit streng beachtet worden ist.
+			</p>
+            <p>
+				<lb n="N001"/>Nur den consonirenden Quinten verbietet man noch <date>heute</date>,
+				<lb n="N002"/>in denselben Stimmen unmittelbar auf einander zu folgen, und
+				<lb n="N003"/>erst <date>in neuerer Zeit</date> hat man das hierauf bezügliche Gesetz zu¬
+				<lb n="N004"/>weilen etwas freier dahin festgestellt, daß mehrere <hi rendition="#g">stufenweise</hi>
+				<lb n="N005"/>auf einander folgende Quinten unstatthaft seien. So viel ver¬
+				<lb n="N006"/>schiedene Gründe man aber auch aufgesucht hat, parallele
+				<lb n="N007"/>Quinten als naturwidrig zu erklären, so scheint das Verbot
+				<lb n="N008"/>derselben dennoch nur auf Meinung und Vorurtheil, nicht aber
+				<lb n="N009"/>auf Naturnothwendigkeit oder haltbaren Verstandesschlüssen zu
+				<lb n="N010"/>beruhen. Jahrhunderte hindurch hat das musikalische Ohr
+				<lb n="N011"/>Wohlgefallen an fortgesetzten Quintenfolgen gefunden, und
+				<lb n="N012"/>unsere anerkanntesten praktischen Meister haben sich die Frei¬
+				<lb n="N013"/>heit genommen, Quinten in stufen- oder sprungweiser Folge
+				<lb n="N014"/>auftreten zu lassen. Statt vieler Beispiele hier nur das folgende:
+				<lb n="N015"/><hi rendition="#i"><persName>Beethoven</persName></hi>, .
+			</p>
+            <p>
+				<lb n="N001"/>Die neuere musikalische Grammatik kann also ohne Be¬
+				<lb n="N002"/>denken jenes Verbot paralleler Quinten aufheben, umsomehr,
+				<lb n="N003"/>als sich dasselbe niemals auf deren Umkehrung, auf Parallelen
+				<lb n="N004"/>von Quarten, welche doch ganz dieselbe harmonische Bedeutung
+				<lb n="N005"/>haben, ausgedehnt hat. Dem Schüler aber wird der verstän¬
+            	<pb facs="#f0021" n="6"/>
+            	<lb n="N001"/>dige Lehrer eine <hi rendition="#g">unschöne</hi> Quintenfolge ebensowol wie eine
+				<lb n="N002"/>geschmacklose Terzen- oder Sextenfolge verbessern.
+			</p>
+         </div>
+         <div type="chapter" n="1">
+			<head>
+				<lb n="N001"/><hi rendition="#b">Dur-Tonart.</hi>
+			</head>
+            <p>
+				<lb n="N001"/>Die Töne einer jeden verständlichen <hi rendition="#g">Melodie</hi> müssen
+				<lb n="N002"/>rhythmisch geordnet sein und sich um einen bestimmten Mittel¬
+				<lb n="N003"/>punct oder <hi rendition="#g">Hauptton</hi> bewegen. Den Grundpfeiler eines
+				<lb n="N004"/>abgeschlossenen <hi rendition="#g">harmonischen</hi> Tonstückes bildet ebenso ein
+				<lb n="N005"/>bestimmter consonirender Dreiklang, ein <hi rendition="#g">Hauptaccord</hi>. Ein
+				<lb n="N006"/>Ton wird erst durch Nebentöne zum Haupttone, ein Accord
+				<lb n="N007"/>erst durch Nebenaccorde zum Hauptaccord. In der Unter- und
+				<lb n="N008"/>der Oberquinte wird der Hauptton, die Tonica, seine nächsten
+				<lb n="N009"/>Verwandten, seine Dominanten erkennen:
+            	
+            	<lb n="N001"/>und die auf diesen Tönen ruhenden Dreiklänge werden ebenso
+				<lb n="N002"/>die natürlichsten Nebenaccorde des tonischen oder Hauptaccor¬
+				<lb n="N003"/>des bilden:
+            	
+			</p>
+            <p>
+				<lb n="N001"/>Ein auf solche Weise zum Hauptaccorde erhobener Drei¬
+				<lb n="N002"/>klang bildet nun mit seinen beiden Dominantaccorden das
+				<lb n="N003"/><hi rendition="#g">System der Tonart</hi>. Eine Tonart kann demnach nicht durch
+				<lb n="N004"/>einen einzelnen Accord, sondern erst durch eine <hi rendition="#g">Accordfolge</hi>
+				<lb n="N005"/>dargestellt werden. Die <hi rendition="#g">Durtonart</hi> besteht in ihren Haupt¬
+				<lb n="N006"/>momenten aus <hi rendition="#g">großen</hi> oder <hi rendition="#g">Durdreiklängen</hi>, und eine mit
+				<lb n="N007"/>dem Haupttone beginnende <hi rendition="#g">melodische</hi> Folge ihrer Töne giebt
+				<lb n="N008"/>uns die „<hi rendition="#g">diatonische</hi>” <hi rendition="#g">Durtonleiter</hi>:
+				
+            	<lb n="N001"/>Alle übrigen Töne unseres Tonsystemes sind in Beziehung auf
+				<lb n="N002"/>diese <hi rendition="#g">Stammtöne</hi> der Tonart „<hi rendition="#g">chromatische</hi>” oder
+				<lb n="N003"/>Nebentöne.
+            </p>
+            <p>
+				<lb n="N001"/>Die gegenseitigen Tonverhältnisse der Stammtöne einer
+				<lb n="N002"/>jeden Dur- oder Molltonart zeigen jederzeit nur „<hi rendition="#g">große</hi> oder
+				<lb n="N003"/><hi rendition="#g">kleine</hi>” Intervalle auf, und erst mit Benutzung von chroma¬
+				<lb n="N004"/>tischen Tönen können „<hi rendition="#g">übermäßige</hi> oder <hi rendition="#g">verminderte</hi>”
+				<lb n="N005"/>Intervalle gebildet werden. So ist z. B. f—g eine große
+				<lb n="N006"/>Secunde, f—a eine große Terze, f—h eine große Quarte,
+				<pb facs="#f0022" n="7"/>
+            	<lb n="N001"/>f—c eine große Quinte u. s. f. Die Umkehrung dieser Ton¬
+				<lb n="N002"/>verhältnisse giebt kleine Intervalle: g—f eine kleine Septime,
+				<lb n="N003"/>a—f eine kleine Sexte, h—f eine kleine Quinte, c—f eine kleine
+				<lb n="N004"/>Quarte u. s. f., denn aus der Umkehrung eines jeden großen
+				<lb n="N005"/>Intervalles entsteht ein kleines, aus der Umkehrung eines jeden
+				<lb n="N006"/>übermäßigen ein vermindertes Intervall und ebenso umgekehrt.
+            </p>
+            <p>
+				<lb n="N001"/>Außer den beiden mit dem Hauptdreiklange durch je einen
+				<lb n="N002"/>gemeinschaftlichen Ton <hi rendition="#g">verbundenen</hi> Dominantaccorden
+				<lb n="N003"/>F a C und G h D, deren Grundtöne mit der Tonica <hi rendition="#g">quint¬</hi>
+				<lb n="N004"/><hi rendition="#g">verwandt</hi> sind, erscheinen in der Durtonart noch zwei mit
+				<lb n="N005"/>dem tonischen durch je zwei gemeinschaftliche Töne verbundene
+				<lb n="N006"/><hi rendition="#g">kleine</hi> oder <hi rendition="#g">Moll-Dreiklänge</hi> a C e und e G h, deren
+				<lb n="N007"/>Grundtöne mit der Tonica <hi rendition="#g">terzverwandt</hi> sind:
+				
+            	<lb n="N001"/>Mit dem Hauptdreiklange <hi rendition="#g">unverbunden</hi> finden sich noch vor
+				<lb n="N002"/>der „kleine Dreiklang”: D F a und der sogenannte „<hi rendition="#g">vermin¬</hi>
+				<lb n="N003"/><hi rendition="#g">derte Dreiklang</hi>”: h D F. Der letztere ist wegen der
+				<lb n="N004"/>kleinen Quinte h—F, welche nicht zu den Consonanzen gehört,
+				<lb n="N005"/>dissonirend. Die Verbindung der kleinen Terze und kleinen
+				<lb n="N006"/>Quinte aber bildet eine so weiche Dissonanz, daß sowol dieser
+				<lb n="N007"/>Dreiklang, als alle diejenigen Septimenaccorde, in denen er
+				<lb n="N008"/>enthalten ist, jederzeit frei auftreten dürfen, während härtere
+				<lb n="N009"/>Dissonanzen, namentlich in der Vocalmusik, einer Vorberei¬
+				<lb n="N010"/>tung bedürfen.
+            </p>
+            <p>
+				<lb n="N001"/>Um die Durtonart weicher zu stimmen, wird häufig statt
+				<lb n="N002"/>des großen Unterdominantdreiklanges der kleine, und zu dessen
+				<lb n="N003"/>Bildung sodann ein chromatischer Ton (as) benutzt:
+            	
+            	<lb n="N001"/>Da wir aber nur die Schritte eines Ganz- oder Halbtones
+				<lb n="N002"/>als <hi rendition="#g">melodische</hi>, alle übrigen aber als <hi rendition="#g">harmonische</hi>
+				<lb n="N003"/><hi rendition="#g">Schritte</hi> erkennen, so bildet die Tonleiter dieser „<hi rendition="#g">weicheren</hi>
+				<lb n="N004"/><hi rendition="#g">Durtonart</hi>”
+            	
+            	<lb n="N001"/>des Sprunges von as zu h wegen, keine zusammenhängende
+				<lb n="N002"/>melodische Folge, und während eine diatonische Tonleiter zu
+            	<pb facs="#f0023" n="8"/>
+            	<lb n="N001"/>jeder Harmonie der Tonart auftreten kann, würden hier die
+				<lb n="N002"/>Töne as und h entweder zwei verschiedenen Harmonien ange¬
+				<lb n="N003"/>hören (1), oder als Glieder eines gebrochenen Accordes be¬
+				<lb n="N004"/>trachtet (2), oder endlich der eine oder der andere als freier
+				<lb n="N005"/>Durchgangston aufgefaßt werden müssen (3); z. B.
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Das Beispiel 4 aber ist unzulässig, weil die beiden Durch¬
+				<lb n="N002"/>gangstöne as und h hier keinen melodischen Zusammenhang
+				<lb n="N003"/>haben, wie z. B. vier derselben, as, a, b und h bei 5. Aehn¬
+				<lb n="N004"/>lichen Bedingungen würde eine jede mit chromatischen Tönen
+				<lb n="N005"/>versehene hinauf- oder herabsteigende Tonleiter unterworfen sein.
+			</p>
+            <p>
+				<lb n="N001"/>Nur durch einen chromatischen Ton können in der Ton¬
+				<lb n="N002"/>art übermäßige und verminderte Intervalle zur Erscheinung
+				<lb n="N003"/>gebracht werden, welche, wie schon bemerkt, sämmtlich disso¬
+				<lb n="N004"/>nirend sind; so hier z. B. die übermäßige Secunde as—h und
+				<lb n="N005"/>deren Umkehrung, die verminderte Septime h—as, ferner die
+            	<pb facs="#f0024" n="9"/>
+            	<lb n="N001"/>übermäßige Quinte as—e und deren Umkehrung, die vermin¬
+				<lb n="N002"/>derte Quarte e—as. Endlich tritt hier auch neben dem ver¬
+				<lb n="N003"/>minderten Dreiklange d f as der scharf dissonirende „<hi rendition="#g">über¬</hi>
+				<lb n="N004"/><hi rendition="#g">mäßige Dreiklang</hi>” as c e auf, welchen wir nebst den
+				<lb n="N005"/>Septimenaccorden, die durch Benutzung von chromatischen
+				<lb n="N006"/>Tönen entstehen, später noch besonders in Betracht ziehen werden.
+			</p>
+            <p>
+				<lb n="N001"/>Wie aber die weichere Durtonart hier den chromatischen
+				<lb n="N002"/>Ton as benutzte, so kann eine jede Tonart außer ihren Stamm¬
+				<lb n="N003"/>tönen noch alle übrigen Töne unseres Tonsystemes als chro¬
+				<lb n="N004"/>matische Nebentöne in Anwendung bringen, um damit bald
+				<lb n="N005"/>ihre Melodien auszuschmücken, bald ihren Harmonien ein
+				<lb n="N006"/>reicheres Colorit zu geben; z. B.
+			</p>
+         <figure type="notatedMusic"/>
+         </div>
+         <div type="chapter" n="1">
+			<head>
+				<lb n="N001"/><hi rendition="#b">Moll-Tonart.</hi>
+			</head>
+            <p>
+				<lb n="N001"/>Erheben wir einen Molldreiklang zum Hauptaccorde,
+				<lb n="N002"/>indem wir ihn mit den Molldreiklängen seiner Unter- und
+				<lb n="N003"/>Oberdominante in Verbindung bringen, so erhalten wir das
+				<lb n="N004"/>System der Molltonart:
+            	
+            	<lb n="N001"/>Diese, in ihren Hauptmomenten in weichen Dreiklängen auf¬
+				<lb n="N002"/>tretende Tonart ist trüben und schwermüthigen Charakters,
+				<lb n="N003"/>und in melodischer und harmonischer Hinsicht stets der ent¬
+				<lb n="N004"/>schiedene Gegensatz von der klaren und kühn aufstrebenden
+				<lb n="N005"/>Durtonart. Wenn z. B. die letztere ihren bestimmtesten Schluß¬
+				<lb n="N006"/>fall mit dem <hi rendition="#g">Oberdominantaccord</hi> bildet, so bildet ihn die
+				<lb n="N007"/>Molltonart mit ihrem <hi rendition="#g">Unterdominantdreiklange</hi>; wenn
+				<lb n="N008"/>die melodische Durtonleiter mit dem <hi rendition="#g">Grundtone</hi> des Haupt¬
+				<lb n="N009"/>dreiklanges beginnt und stufenweise hinaufsteigend mit einem
+				<lb n="N010"/>Halbtone in die Octave desselben leitet: , so
+				<lb n="N011"/>beginnt die melodische Molltonleiter mit der <hi rendition="#g">Quinte</hi> des
+				<lb n="N012"/>Hauptdreiklanges und steigt stufenweise in denselben Intervallen
+            	<pb facs="#f0025" n="10"/>
+            	<lb n="N001"/>herab, ebenfalls mit einem Halbtone in die Octave ihres Aus¬
+				<lb n="N002"/>gangspunctes leitend:
+            	
+            	<lb n="N001"/>Die Durtonart zeigte zwei quintverwandte <hi rendition="#g">große</hi>, die Moll¬
+				<lb n="N002"/>tonart zeigt ebenso zwei quintverwandte <hi rendition="#g">kleine</hi> Dreiklänge
+				<lb n="N003"/>d F a und e G h auf; wo die Durtonart zwei dem tonischen
+				<lb n="N004"/>terzverwandte Moll-Dreiklänge darbot, da findet die Moll¬
+				<lb n="N005"/>tonart ebenso zwei terzverwandte Dur-Dreiklänge F a C und
+				<lb n="N006"/>C e G vor:
+            	
+            	<lb n="N001"/>Endlich erscheinen in der Molltonart noch, unverbunden mit
+				<lb n="N002"/>dem tonischen Dreiklange, ein Durdreiklang g H D und ein
+				<lb n="N003"/>verminderter Dreiklang H D f.
+			</p>
+            <p>
+				<lb n="N001"/>Wenn, wie oben bemerkt, die Durtonart zuweilen durch
+				<lb n="N002"/>den weichen <hi rendition="#g">Unterdominantdreiklang</hi> milder gestimmt wird,
+				<lb n="N003"/>so wird noch häufiger die Molltonart kräftiger durch einen har¬
+				<lb n="N004"/>ten <hi rendition="#g">Oberdominantdreiklang</hi> gestaltet:
+            	
+            	<lb n="N001"/>Die melodische Tonleiter dieser „härteren Molltonart” ist die
+				<lb n="N002"/>folgende:
+            	
+            	<lb n="N001"/>und ihre harmonische Begleitung ist wegen des unmelodischen
+				<lb n="N002"/>übermäßigen Schrittes gis—f, welcher durch den chromatischen
+				<lb n="N003"/>Ton gis herbeigeführt wurde, denselben Bedingungen unter¬
+				<lb n="N004"/>worfen, wie die der Tonleiter der „weicheren Durtonart”.
+				<lb n="N005"/>Auch hier erscheinen nun übermäßige und verminderte Inter¬
+				<lb n="N006"/>valle, ferner der verminderte Dreiklang gis h d und der über¬
+				<lb n="N007"/>mäßige Dreiklang c e gis, und selbstverständlich kann auch die
+				<lb n="N008"/>Molltonart außer ihren Stammtönen und dem hier auftreten¬
+				<lb n="N009"/>den chromatischen Tone gis noch die sämmtlichen anderen Töne
+				<lb n="N010"/>unseres Tonsystemes als chromatische Nebentöne benutzen.
+			</p>
+         </div>
+         <div type="chapter" n="1">
+			<head>
+				<lb n="N001"/><hi rendition="#b">Dreiklangs-Folgen.</hi>
+			</head>
+            <p>
+				<lb n="N001"/>Zwei auf einander folgende Dreiklänge haben entweder
+            	<pb facs="#f0026" n="11"/>
+            	<lb n="N001"/>alle drei, zwei, einen oder keinen Ton mit einander gemein¬
+				<lb n="N002"/>schaftlich.
+			</p>
+            <p>
+				<lb n="N001"/>Im ersten Falle tritt derselbe Accord zweimal hinter
+				<lb n="N002"/>einander auf, und seine verschiedenen Stimmen können dabei
+				<lb n="N003"/>in einer und derselben Lage verharren, oder dieselbe steigend
+				<lb n="N004"/>oder fallend wechseln; z. B.
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Hierbei ist zu bemerken, daß der Dreiklang in seiner Grund¬
+				<lb n="N002"/>lage die meiste, in der Terzsext-Lage weniger, und in der Quart¬
+				<lb n="N003"/>sext-Lage fast keine Selbstständigkeit mehr zeigt. Ein befrie¬
+				<lb n="N004"/>digender Schluß würde also nur mit dem tonischen Dreiklange
+				<lb n="N005"/>in der <hi rendition="#g">Grundlage</hi>, und zwar auf <hi rendition="#g">accentuirtem</hi> Tacttheile,
+				<lb n="N006"/>gebildet werden können.
+			</p>
+            <p>
+				<lb n="N001"/>Haben zwei auf einander folgende Dreiklänge <hi rendition="#g">zwei</hi> Töne
+				<lb n="N002"/>gemeinschaftlich, so werden eben diese die natürlichsten verbin¬
+				<lb n="N003"/>denden Glieder derselben bilden, und nur eine Stimme wird
+				<lb n="N004"/>dabei melodisch, d. h. stufenweise in den folgenden Accord
+				<lb n="N005"/>übergehen:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Schon bei einer solchen natürlichen Folge von Dreiklängen
+				<lb n="N002"/>wird die Nothwendigkeit einer vierten Stimme fühlbar, um den
+				<lb n="N003"/>folgerichtig auftretenden Accorden, welche dabei die Quartsext¬
+            	<pb facs="#f0027" n="12"/>
+            	<lb n="N001"/>lage nicht vermeiden können, eine festere Basis in dem Grund¬
+				<lb n="N002"/>tone oder in der Terze zu geben; z. B.
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Wie hier durch den <hi rendition="#g">Grundton</hi>, so können diese Dreiklänge
+				<lb n="N002"/>auch durch die <hi rendition="#g">Terze</hi>, oder durch beide Töne abwechselnd basirt
+				<lb n="N003"/>werden; z. B.
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Ein bestimmter <hi rendition="#g">Schlußfall</hi> aber wird durch <hi rendition="#g">terzverwandte</hi>
+				<lb n="N002"/>Dreiklänge nicht herbeigeführt, selbst wenn, wie hier, der Baß
+				<lb n="N003"/>einen Quintenschritt nimmt.
+			</p>
+            <p>
+				<lb n="N001"/>Bei einer Folge von <hi rendition="#g">consonirenden</hi> Accorden ist außer
+				<lb n="N002"/>der hier gegebenen natürlichsten Stimmenführung eine jede
+				<lb n="N003"/>andere für zweckmäßig erachtete zulässig; z. B.
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>wobei noch zu bemerken ist, daß bei <hi rendition="#g">verbundenen</hi> Dreiklängen
+				<lb n="N002"/><hi rendition="#g">verdeckte</hi> Octaven und Quinten selbst im strengsten Style
+				<lb n="N003"/>„erlaubt” sind, da diese schon erscheinen, wenn hier der Terzen¬
+				<lb n="N004"/>schritt des Basses zum Sextenschritt umgekehrt wird:
+			</p>
+         <pb facs="#f0028" n="13"/>
+            <p>
+				<lb n="N001"/>Quintenverwandte Dreiklänge haben jederzeit <hi rendition="#g">einen</hi> Ton
+				<lb n="N002"/>mit einander gemeinschaftlich. Dieser bildet nun die natürlichste
+				<lb n="N003"/>Verbindung solcher Accorde, während zwei Stimmen dabei
+				<lb n="N004"/>melodisch fortschreitend in den folgenden Dreiklang übergehen:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Auch diese Accorde bedürfen, der hier ebenfalls auftretenden
+				<lb n="N002"/>Quartsextaccorde wegen, der Basirung durch eine vierte Stimme,
+				<lb n="N003"/>und diese können sie, wie oben, in dem Grundtone oder in der
+				<lb n="N004"/>Terze finden; z. B.
+            	<figure type="notatedMusic"/>
+			</p>
+            <p>
+				<lb n="N001"/>Die verdeckten Octaven und Quinten sind auch hier, bei natür¬
+				<lb n="N002"/>lichster Stimmenführung, sobald der Quintenschritt des Grund¬
+				<lb n="N003"/>basses zum Quartenschritte umgekehrt wird, unvermeidlich, und
+				<lb n="N004"/>eben deßhalb „erlaubt”; doch ist auch hier eine jede andere
+				<lb n="N005"/>zweckdienliche Stimmenführung anzuwenden; z. B.
+			</p>
+         <pb facs="#f0029" n="14"/>
+         <figure type="notatedMusic"/>
+            <p>
+				<lb n="N001"/>Alle diejenigen Dreiklänge, deren Grundbässe im Verhält¬
+				<lb n="N002"/>nisse einer Secunde zu einander stehen, sind, da sie <hi rendition="#g">keinen</hi>
+				<lb n="N003"/>Ton mit einander gemeinschaftlich haben, unverbunden:
+			</p>
+         <figure type="notatedMusic"/>
+            <p>
+				<lb n="N001"/>Auch bei dieser Accordfolge kann sowol der Grundton als
+				<lb n="N002"/>die Terze zur Basis benutzt werden, wobei jedoch zu bemerken
+				<lb n="N003"/>ist, daß bei Folgen unverbundener Dreiklänge die <hi rendition="#g">verdeckten</hi>
+				<lb n="N004"/>Quinten, besonders beim <hi rendition="#g">stufenweisen Steigen</hi> des Grund¬
+				<lb n="N005"/>basses, ebensowenig wohlklingend als die <hi rendition="#g">offenbaren</hi> Quinten
+				<lb n="N006"/>und deßhalb zu vermeiden sind.
+            	<figure type="notatedMusic"/>
+         	   <pb facs="#f0030" n="15"/>
+         	   <figure type="notatedMusic"/>
+            	<lb n="N001"/>Ebenso klingt die Verdopplung des Grundtones des verminder¬
+				<lb n="N002"/>ten Dreiklanges, auch wenn er nicht als Leiteton erscheint, wie
+				<lb n="N003"/>hier im ersten Beispiele, schärfer als die seiner Terze und
+				<lb n="N004"/>Quinte, wie denn dieser Accord überhaupt in der Terzsextlage
+				<lb n="N005"/>am wohlklingendsten ist.
+			</p>
+         </div>
+         <div type="chapter" n="1">
+			<head>
+				<lb n="N001"/><hi rendition="#b">Verwandtschaft der Accorde und der Tonarten.</hi>
+			</head>
+            <p>
+				<lb n="N001"/>Die bisher betrachteten consonirenden Accorde und deren
+				<lb n="N002"/>natürlichste Fortschreitungen gehören der classischen sowol wie
+				<lb n="N003"/>der romantischen Tonkunst, der Vocal- und der Instrumental¬
+				<lb n="N004"/>musik an; unserer Aufgabe gemäß hatten wir deßhalb nicht
+				<lb n="N005"/>nöthig, eine ausführliche Begründung der dahin gehörenden
+				<lb n="N006"/>Gesetze zu geben. Jetzt aber schreiten wir zur Beantwortung
+				<lb n="N007"/>der Frage: Mit welchem Rechte läßt die neuere Tonkunst zu¬
+				<lb n="N008"/>weilen Accorde auf einander folgen, die nicht einer und dersel¬
+				<lb n="N009"/>ben Tonart, sondern oft den von einander entferntesten Ton¬
+				<lb n="N010"/>arten angehören? Aus der folgenden Untersuchung wird
+				<lb n="N011"/>hervorgehen, daß die Verzweigung der Accorde sowol wie die
+				<lb n="N012"/>der Tonarten einen so weiten Umfang einnimmt, daß zwischen
+				<lb n="N013"/>zwei mit natürlicher Stimmenführung auf einander folgenden
+				<lb n="N014"/>consonirenden Dreiklängen stets eine innere Verbindung oder
+				<lb n="N015"/>Verwandtschaft nachzuweisen sein wird.
+			</p>
+            <p>
+				<lb n="N001"/>Die Verwandtschaft der Tonarten nach Graden ist die¬
+				<lb n="N002"/>jenige, wo die größte Aehnlichkeit derselben in ihren <hi rendition="#g">Stamm¬</hi>
+				<lb n="N003"/><hi rendition="#g">tönen</hi> als maßgebend betrachtet wird. So ist die C dur- von
+				<lb n="N004"/>der G dur-Tonart um einen Grad entfernt, weil in beiden der
+				<lb n="N005"/>Unterschied derselben nur in einem Tone besteht. Ebenso ver¬
+				<lb n="N006"/>hält sich die C dur- zur F dur-Tonart, ferner die A moll- zur
+				<lb n="N007"/>E moll- und zur D moll-Tonart, während die gleiche Stamm¬
+				<lb n="N008"/>töne zeigenden Paralleltonarten, wie C dur und A moll, als
+				<lb n="N009"/>das männliche und weibliche Princip eines und desselben Ver¬
+            	<pb facs="#f0031" n="16"/>
+            	<lb n="N001"/>wandtschaftsgrades angesehen werden. Lassen wir demnach den
+				<lb n="N002"/>Hauptton einer Dur- oder einer Molltonart um eine Quinte
+				<lb n="N003"/>steigen, so gelangen wir zu dem Haupttone einer in Beziehung
+				<lb n="N004"/>auf die erstere um <hi rendition="#g">einen</hi> Grad <hi rendition="#g">erhöhten</hi> Tonart. Lassen wir
+				<lb n="N005"/>ihn ebenso um eine Quinte fallen, so treffen wir hier den Haupt¬
+				<lb n="N006"/>ton einer im Verhältnisse zur ersteren um <hi rendition="#g">einen</hi> Grad <hi rendition="#g">ver¬</hi>
+				<lb n="N007"/><hi rendition="#g">tieften</hi> Tonart an. Die C dur- ist demzufolge von der D dur-
+				<lb n="N008"/>oder B dur-Tonart um zwei Grade entfernt. Nun bleiben diese
+				<lb n="N009"/>im zweiten Verwandtschaftsgrade zu einander stehenden Ton¬
+				<lb n="N010"/>arten aber gerade in der Hauptsache, in ihren tonischen Drei¬
+				<lb n="N011"/>klängen, deren Grundtöne in dem dissonirenden Verhältnisse
+				<lb n="N012"/>einer Secunde zu einander stehen, unverbunden, während die
+				<lb n="N013"/>Hauptdreiklänge der Tonarten dritten und vierten Grades sich
+				<lb n="N014"/>als verbundene, terzverwandte Accorde erweisen.
+            </p>
+            <p>
+				<lb n="N001"/>Nicht die äußere Aehnlichkeit der Stammtöne, sondern die
+				<lb n="N002"/>Verbindungen des Hauptaccordes werden uns also sichere An¬
+				<lb n="N003"/>haltepuncte gewähren, gleichzeitig auch die näheren und entfern¬
+				<lb n="N004"/>teren Verwandten der Tonart zu erforschen. Als nächstver¬
+				<lb n="N005"/>wandte <hi rendition="#g">Accorde</hi> erscheinen uns diejenigen, welche ein und
+				<lb n="N006"/>derselben Tonart angehören und von einander nur in <hi rendition="#g">einem</hi>
+				<lb n="N007"/>Tone unterschieden sind: die <hi rendition="#g">terzverwandten</hi> Accorde. So
+				<lb n="N008"/>sind die nächsten Verwandten des C dur-Dreiklanges der A moll-
+				<lb n="N009"/>und der E moll-Dreiklang. Eine fernere Verwandtschaft erkennen
+				<lb n="N010"/>wir in denjenigen Accorden, welche derselben Tonart angehören
+				<lb n="N011"/>und von einander in <hi rendition="#g">zwei</hi> Tönen unterschieden sind; so der
+				<lb n="N012"/>dem C dur-Dreiklange <hi rendition="#g">quintverwandte</hi> F dur- und G dur-
+				<lb n="N013"/>Dreiklang, und mit Hinzuziehung der weicheren Durtonart auch
+				<lb n="N014"/>der F moll-Dreiklang. Die auf ähnliche Weise noch mit einem
+				<lb n="N015"/>bestimmten Accorde in <hi rendition="#g">Verbindung</hi> stehenden entfernteren
+				<lb n="N016"/>Verwandten finden sich nun nicht mehr in der Tonart des erste¬
+				<lb n="N017"/>ren vor; so die dem C dur-Dreiklange noch verbundenen Accorde:
+				<lb n="N018"/>der C moll-Dreiklang und die ihm terzverwandten Accorde: der
+				<lb n="N019"/>A dur-, E dur-, As dur- und Es dur-Dreiklang.
+			</p>
+            <p>
+				<lb n="N001"/>Ebenso verwandt wie die hier genannten <hi rendition="#g">Accorde</hi> werden
+				<lb n="N002"/>sich auch die <hi rendition="#g">Tonarten</hi> erweisen, deren harmonische Grund¬
+				<lb n="N003"/>pfeiler sie bilden, indem wir sie zu Hauptdreiklängen erheben.
+				<lb n="N004"/>In neuerer Zeit hat man noch einen mystischen Zusammenhang
+				<lb n="N005"/>zwischen denjenigen Tonarten wahrgenommen, deren Haupt¬
+            	<pb facs="#f0032" n="17"/>
+            	<lb n="N001"/>töne im Verhältnisse einer kleinen Unter- oder Oberquinte zu
+				<lb n="N002"/>einander stehen, wie C dur und Fis dur oder Ges dur. Zu
+				<lb n="N003"/>scharfen modulatorischen Gegensätzen eignen sich diese jedenfalls
+				<lb n="N004"/>besser, als die ebenfalls noch als entfernt verwandt betrachteten
+				<lb n="N005"/>Tonarten, deren Haupttöne im Verhältniß einer Secunde zu
+				<lb n="N006"/>einander stehen, wie C dur und D moll, oder A moll und G dur.
+				<lb n="N007"/>Die weiche Tonart der Oberdominante einer Durtonart aber,
+				<lb n="N008"/>und die harte der Unterdominante einer Molltonart, wie C dur
+				<lb n="N009"/>und G moll, oder A moll und D dur, stehen einander trotz der
+				<lb n="N010"/>Verbindung ihrer quintverwandten Dreiklänge so fremd ge¬
+				<lb n="N011"/>genüber, daß sie nicht einmal zu modulatorischen Gegensätzen
+				<lb n="N012"/>zu benutzen sind. Die Folge des C dur- und des G moll-Drei¬
+				<lb n="N013"/>klanges würde uns in die F dur-Tonart, die des A moll- und
+				<lb n="N014"/>des D dur-Dreiklanges in die G dur-Tonart versetzen, denn die
+				<lb n="N015"/>Durtonart kann wol, wie oben bemerkt, mit harter oder weicher
+				<lb n="N016"/>Unterdominante, niemals aber mit weicher Oberdominante, wie
+				<lb n="N017"/>die Molltonart im Gegentheile wol mit weicher oder harter
+				<lb n="N018"/>Oberdominante, niemals aber mit harter Unterdominante zur
+				<lb n="N019"/>Anwendung gebracht werden. Der Dur- und der Molltonart
+				<lb n="N020"/>würden sich also die folgenden Verwandten anschließen:
+            	
+            	<lb n="N001"/>Der C dur-Dreiklang ist, wie bemerkt, <hi rendition="#g">verbunden</hi> mit allen
+				<lb n="N002"/>Hauptdreiklängen der hier angegebenen Verwandten der C dur-
+				<lb n="N003"/>Tonart, er findet sich sogar vollständig vor in der F moll-,
+				<lb n="N004"/>F dur-, A moll-, C dur-, E moll-, G dur- und D moll-Tonart,
+				<lb n="N005"/>und steht also nicht allein mit den tonischen Dreiklängen, son¬
+				<lb n="N006"/>dern auch mit den übrigen Harmonien dieser Tonarten und
+				<lb n="N007"/>deren weiteren Verzweigungen in näherer Beziehung. Zwei
+				<lb n="N008"/>auf einander folgende Accorde wird das Ohr daher nicht in
+				<lb n="N009"/>ihre entfernteste, sondern in ihre nächste Beziehung zu einander
+				<lb n="N010"/>setzen. So wird z. B. bei einer in C dur erscheinenden Accord¬
+				<lb n="N011"/>folge wie:
+            	<pb facs="#f0033" n="18"/>
+         	   <figure type="notatedMusic"/>
+            	<lb n="N001"/>das Ohr nicht in die um fünf Grade entfernte Des dur- oder
+				<lb n="N002"/>B moll-Tonart geführt zu werden vermeinen, sondern mit Auf¬
+				<lb n="N003"/>fassung der Doppelbedeutung des C durdreiklanges diese Accorde
+				<lb n="N004"/>als der verwandten F moll-Tonart angehörig vernehmen. Ist
+				<lb n="N005"/>aber somit das unvermittelte Auftreten des Des dur-Dreiklanges
+				<lb n="N006"/>gerechtfertigt, so kann wiederum auch jede seiner harmonischen
+				<lb n="N007"/>Bedeutungen, wie z. B. die als Unterdominant-Dreiklang von
+				<lb n="N008"/>As dur, als tonischer, als Oberdominant-Dreiklang von Ges dur
+				<lb n="N009"/>u. s. f. benutzt, und demgemäß eine Modulation ausgeführt
+				<lb n="N010"/>werden; z. B.
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Eine ähnliche Erklärung und Anwendung wird ebenso der
+				<lb n="N002"/>obenstehenden Folge des C dur- und B moll-Dreiklanges, wie
+				<lb n="N003"/>auch den nachstehenden Dreiklangsfolgen gegeben werden können.
+            	<figure type="notatedMusic"/>
+        	    <pb facs="#f0034" n="19"/>
+        	    <figure type="notatedMusic"/>
+            	<lb n="N001"/>In welcher Tonart diese Accorde nun auch auftreten mögen,
+				<lb n="N002"/>der innere Zusammenhang derselben wird z. B. folgendermaßen
+				<lb n="N003"/>nachgewiesen werden können: Die Accordfolge 1 findet sich in
+				<lb n="N004"/>F moll, 2 in G dur, 4 in A moll, 5 und 7 in C dur, 10 in
+				<lb n="N005"/>F dur, 11 in E moll; bei 3 kann der Es dur-Dreiklang dem
+				<lb n="N006"/>C dur verwandten As dur angehören; das Beispiel 6 kann den
+				<lb n="N007"/>C dur-Dreiklang der E moll-Tonart bezeichnen, mit deren Ober¬
+				<lb n="N008"/>dominantaccord der Fis dur-Dreiklang in nächster Verbindung
+				<lb n="N009"/>steht; 8 benutzt den As dur-Dreiklang der C dur verwandten
+				<lb n="N010"/>F moll-Tonart; 9 sind terzverwandte, verbundene Dreiklänge
+				<lb n="N011"/>u. s. f., wobei jedoch zu bemerken ist, daß die harmonische Viel¬
+				<lb n="N012"/>deutigkeit der Accorde noch manche andere, durch vorangehende
+				<lb n="N013"/>oder nachfolgende Harmonien bedingte Erklärung zuläßt.
+            </p>
+            <p>
+				<lb n="N001"/>Die neuere Harmonielehre kann demnach mit Recht den
+				<lb n="N002"/>Satz aufstellen: <hi rendition="#g">Einem consonirenden Accorde kann</hi>
+				<lb n="N003"/><hi rendition="#g">jeder andere consonirende Accord folgen</hi>. Selbstver¬
+				<lb n="N004"/>ständlich giebt die oben angewandte natürlichste Stimmenführung
+				<lb n="N005"/>und das Vermeiden der melodisch auftretenden übermäßigen
+				<lb n="N006"/>und verminderten Intervalle, der offenbaren und verdeckten
+				<lb n="N007"/>Quinten- und Octavenparallelen, sowie der unharmonischen
+				<lb n="N008"/>Querstände einer jeden Accordfolge den meisten <hi rendition="#g">äußeren</hi> Zu¬
+				<lb n="N009"/>sammenhang, wie denn endlich auch wohl zu beachten ist, Accorde
+				<lb n="N010"/>von entfernter Verwandtschaft nicht in zu rascher Bewegung
+				<lb n="N011"/>unmittelbar auf einander folgen zu lassen, um dem Ohre Zeit
+				<lb n="N012"/>zu gönnen, auch den <hi rendition="#g">inneren</hi> Zusammenhang der Harmonien
+				<lb n="N013"/>zu erfassen.
+			</p>
+         </div>
+         <pb facs="#f0035" n="20"/>
+         <div type="chapter" n="1">
+			<head>
+				<lb n="N001"/><hi rendition="#b">Dissonanzen.</hi>
+			</head>
+            <p>
+				<lb n="N001"/>Die Dissonanz ist die <hi rendition="#g">melodische</hi> Verzögerung einer
+				<lb n="N002"/>Consonanz und muß als solche jederzeit <hi rendition="#g">stufenweise</hi> auf- oder
+				<lb n="N003"/>abwärts schreitend in die letztere übergehen. Wird das Ohr
+				<lb n="N004"/>welches eine solche „<hi rendition="#g">Auflösung</hi>” der Dissonanz erwartet,
+				<lb n="N005"/>getäuscht, indem diese zwar melodisch fortschreitet, dabei aber
+				<lb n="N006"/>in eine neue Dissonanz tritt, so entsteht eine „<hi rendition="#g">Trugfort¬</hi>
+				<lb n="N007"/><hi rendition="#g">schreitung</hi>”. Wir unterscheiden bei den Dissonanzen: Vor¬
+				<lb n="N008"/>schläge, Durchgangstöne, Vorausnahmen, gebundene Vorhalte,
+				<lb n="N009"/>dissonirende Dreiklänge, frei auftretende und gebundene Sep¬
+				<lb n="N010"/>timenaccorde und endlich Septimenaccorde über einem oder über
+				<lb n="N011"/>mehreren Haltetönen.
+			</p>
+         </div>
+         <div type="chapter" n="1">
+			<head>
+				<lb n="N001"/><hi rendition="#b">Vorschläge.</hi>
+			</head>
+            <p>
+				<lb n="N001"/><hi rendition="#g">Vorschläge</hi> sind melodische Verzierungen eines Accord¬
+				<lb n="N002"/>tones; sie können diesem unten, oben, oder unten und oben bei¬
+				<lb n="N003"/>gegeben werden; s. u. 1, 2, 3, 4. Bei längerem Anhalten,
+				<lb n="N004"/>wie z. B. bei 5, beunruhigen sie das Ohr mehr, als bei schnelle¬
+				<lb n="N005"/>rem Verschwinden, wie in den diesem vorangehenden Beispielen,
+				<lb n="N006"/>besonders wenn der <hi rendition="#g">verzögerte</hi> Accordton gleichzeitig in einer
+				<lb n="N007"/>anderen Stimme schon <hi rendition="#g">vorhanden</hi> ist. Das Beispiel 6 ist
+				<lb n="N008"/>daher wohlklingender, als das bei 5. Auf unaccentuirten
+				<lb n="N009"/>Tacttheilen aber können auch die Vorschläge längerer Dauer
+				<lb n="N010"/>ohne Bedenken Anwendung finden, da sie hier weniger kräftig
+				<lb n="N011"/>hervortreten als auf accentuirten; s. 7 und 8. Im letzteren
+				<lb n="N012"/>Beispiele sind zugleich chromatische Töne zu Vorschlägen, deren
+				<lb n="N013"/>hier auch in zwei und in drei Stimmen gleichzeitig vor einem
+				<lb n="N014"/>und vor mehreren Accordtönen erscheinen, benutzt worden.
+            	<figure type="notatedMusic"/>
+         	   <pb facs="#f0036" n="21"/>
+        	    <figure type="notatedMusic"/>
+            	<lb n="N001"/>Das gleichzeitige Zusammentreffen eines Tones mit seinem
+				<lb n="N002"/>chromatischen Nebentone, wie hier im vorletzten Tacte (a—ais),
+				<lb n="N003"/>gehört zu den schärfsten und gewagtesten Dissonanzen und ist
+				<lb n="N004"/>deßhalb nur in der Instrumental-, nicht aber in der Vocal¬
+				<lb n="N005"/>musik in Anwendung zu bringen, denn den Tönen der Organe
+				<lb n="N006"/>der letzteren fehlt die Festigkeit, um so schwer aufzufassende
+				<lb n="N007"/>dissonirende Verhältnisse mit Sicherheit und Reinheit zur ver¬
+				<lb n="N008"/>ständlichen Erscheinung zu bringen. Zum Beweise aber, daß
+				<lb n="N009"/>allgemein anerkannte musikalische Autoritäten auch von diesen
+				<lb n="N010"/>schärfsten Dissonanzen Gebrauch gemacht haben, möge hier das
+				<lb n="N011"/>folgende Beispiel Platz finden:
+            	<figure type="notatedMusic"/>
+			</p>
+         </div>
+         <div type="chapter" n="1">
+			<head>
+				<lb n="N001"/><hi rendition="#b">Durchgangstöne.</hi>
+			</head>
+            <p>
+				<lb n="N001"/><hi rendition="#g">Durchgangstöne</hi> bilden die melodische Verbindung
+				<lb n="N002"/>zweier Töne eines und desselben Accordes oder verschiedener
+				<lb n="N003"/>consonirender oder dissonirender Accorde; z. B. 1, 2, 5. Sie
+				<lb n="N004"/>können von einer oder von mehreren Stimmen gleichzeitig,
+            	<pb facs="#f0037" n="22"/>
+            	<lb n="N001"/>in der geraden oder der Gegenbewegung benutzt werden: 7, 8,
+				<lb n="N002"/>9; chromatische Töne in Anwendung bringen: 5, und durch
+				<lb n="N003"/>Vorschläge verziert werden: 8. Es können zwar der Durch¬
+				<lb n="N004"/>gangstöne mehrere, stufenweise neben einander liegende auf¬
+				<lb n="N005"/>treten, doch werden sie stets, wie alle Dissonanzen, <hi rendition="#g">melodisch</hi>
+				<lb n="N006"/>auf oder abwärts schreitend in einen Accordton übergehen
+				<lb n="N007"/>müssen. Das Beispiel 6 bildet davon keine Ausnahme, denn
+				<lb n="N008"/><hi rendition="#g">eine</hi> Stimme übernimmt hier <hi rendition="#g">springend</hi> gleichsam die <hi rendition="#g">bei¬</hi>
+				<lb n="N009"/><hi rendition="#g">den</hi> oberen Stimmen des folgenden Beispiels 6 a. Den
+				<lb n="N010"/>Vorschlägen gleich trüben auch Durchgangstöne die Harmonie
+				<lb n="N011"/>eines bestimmten Accordes am wenigsten, wenn sie auf leichten
+				<lb n="N012"/>Tacttheilen oder in schnellerer Bewegung erscheinen. Ebenso
+				<lb n="N013"/>schreiten Durchgangstöne williger aus einem auf ihrem Aus¬
+				<lb n="N014"/>gangspuncte liegen bleibenden Tone <hi rendition="#g">heraus</hi>, wie bei 1 und
+				<lb n="N015"/>2, als in einen in ihrem Zielpuncte liegenden Ton <hi rendition="#g">hinein</hi>,
+				<lb n="N016"/>wie bei 3 und 4.
+			</p>
+         </div>
+         <pb facs="#f0038" n="23"/>
+         <div type="chapter" n="1">
+			<head>
+				<lb n="N001"/><hi rendition="#b">Vorausnahmen.</hi>
+			</head>
+            <p>
+				<lb n="N001"/>Zu einem consonirenden oder dissonirenden Accorde er¬
+				<lb n="N002"/>scheint zuweilen ein seiner Harmonie fremder Ton, der erst in
+				<lb n="N003"/>dem ihm <hi rendition="#g">unmittelbar folgenden</hi> Accorde eine verständliche
+				<lb n="N004"/>harmonische Bedeutung erhält. Solche <hi rendition="#g">Vorausnahmen</hi>
+				<lb n="N005"/>schreiten bald stufenweise, bald sprungweise in einen Ton der
+				<lb n="N006"/>ersteren oder der folgenden Harmonie fort, und mehrere der
+				<lb n="N007"/>unten folgenden Vorausnahmen sind dem Ohre nicht mehr
+				<lb n="N008"/>fremd, andere aber lassen sich nur durch eine zum Ausdruck zu
+				<lb n="N009"/>bringende Stimmung rechtfertigen, in welcher die Leidenschaft
+				<lb n="N010"/>dem Verstande vorauseilt, oder der Eigensinn sich nicht der
+				<lb n="N011"/>herkömmlichen Sitte fügen will. Ein interessantes Beispiel
+				<lb n="N012"/>hierzu hat <hi rendition="#g"><persName>Schumann</persName></hi> in seinen  geliefert.
+			</p>
+         <figure type="notatedMusic"/>
+         </div>
+         <pb facs="#f0039" n="24"/>
+         <div type="chapter" n="1">
+			<head>
+				<lb n="N001"/><hi rendition="#b">Vorhaltsdissonanzen.</hi>
+			</head>
+            <p>
+				<lb n="N001"/>Wenn die Vorschläge und Durchgangstöne ihrer Natur
+				<lb n="N002"/>nach den minder hervortretenden, unaccentuirten Tacttheilen
+				<lb n="N003"/>angehören, und die Vorausnahmen nur als ganz besondere
+				<lb n="N004"/>Abnormitäten betrachtet werden können, so treten die Vor¬
+				<lb n="N005"/>halte, welche ihre dissonirende Erscheinung durch die Verbin¬
+				<lb n="N006"/>dung mit dem Tone eines ihnen vorangehenden Accordes vor¬
+				<lb n="N007"/>bereiten, nunmehr fest und gewichtig auf <hi rendition="#g">accentuirten</hi>
+				<lb n="N008"/>Tacttheilen auf, oder sie stempeln den Tacttheil, auf welchem
+				<lb n="N009"/>sie erscheinen, durch ihr Gewicht zu einem schweren <note type="remarkSource" n="*)"><lb n="N001"/>Hierbei ist zu bemerken, daß das zweitheilige Metrum und
+				<lb n="N002"/>metrische Glied nur einen Accent, das dreitheilige aber deren zwei (einen
+				<lb n="N003"/>Haupt- und einen Nebenaccent) hat; z. B. 
+				<lb n="N004"/></note>. Zur
+				<lb n="N010"/>Bindung oder <hi rendition="#g">Vorbereitung</hi> eines solchen Vorhaltes kann
+				<lb n="N011"/>jeder Ton eines ihm vorangehenden consonirenden oder disso¬
+				<lb n="N012"/>nirenden Accordes benutzt werden, sie kann auf accentuirtem
+				<lb n="N013"/>oder unaccentuirtem Tacttheile stattfinden, nur muß sie, um
+				<lb n="N014"/>der Schwere der folgenden Dissonanz ein Gegengewicht zu
+				<lb n="N015"/>geben, mindestens die Dauer der Dissonanz selbst haben. Ueber
+				<lb n="N016"/>die <hi rendition="#g">Auflösung</hi> der letzteren aber ist Folgendes zu bemerken.
+				<lb n="N017"/>Da die Dissonanz eine melodische Verzögerung der Consonanz
+				<lb n="N018"/>ist, so wird von zwei dissonirend auftretenden Tönen am natür¬
+				<lb n="N019"/>lichsten der eine stufenweise fallend oder steigend in eine Con¬
+				<lb n="N020"/>sonanz übergehen müssen. Bei der Secunde kann nun der
+				<lb n="N021"/>obere Ton nicht fallend, und der untere nicht steigend in den
+				<lb n="N022"/>Einklang übergehen, weil die Dissonanz nicht als Verzögerung
+				<lb n="N023"/>eines schon vorhandenen Tones erscheinen darf:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>wohl aber kann der untere Ton melodisch <hi rendition="#g">abwärts</hi> oder der
+				<pb facs="#f0040" n="25"/>
+            	<lb n="N001"/>obere ebenso <hi rendition="#g">aufwärts</hi> schreitend in die Consonanz der Terze
+				<lb n="N002"/>übergehen:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Bei der Septime kann der obere Ton aus dem angeführten
+				<lb n="N002"/>Grunde nicht stufenweise steigen, der untere ebenso nicht fallen:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Aber die Auflösung der Septime kann stattfinden, wenn sich der
+				<lb n="N002"/>obere Ton melodisch <hi rendition="#g">abwärts</hi> oder der untere ebenso <hi rendition="#g">auf¬</hi>
+				<lb n="N003"/><hi rendition="#g">wärts</hi> fortbewegt:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Die Bemerkung aber, daß die Dissonanz williger herab- als
+				<lb n="N002"/>hinaufsteigt, veranlaßte die früheren Theoretiker, ihr überhaupt
+				<lb n="N003"/>nur die Fortschreitung um eine Stufe <hi rendition="#g">abwärts</hi> zu erlauben,
+				<lb n="N004"/>während die neueren Tonsetzer mit vollem Rechte die melodisch
+				<lb n="N005"/><hi rendition="#g">aufwärts</hi> steigende Dissonanz ebenfalls in Anwendung bringen,
+				<lb n="N006"/>da sie sich auch auf diese Weise als die regelmäßige Verzöge¬
+				<lb n="N007"/>rung einer Consonanz erweist.
+			</p>
+            <p>
+				<lb n="N001"/>Offenbare oder verdeckte Parallelgänge verlieren ihren
+				<lb n="N002"/>Charakter als solche nicht, auch wenn sie durch Vorhalte ver¬
+				<lb n="N003"/>zögert, oder durch eine in der Gegenbewegung dazu auftretende
+				<lb n="N004"/>Stimme weniger auffallend gemacht werden; s. u. 1, 2.
+				<lb n="N005"/>Ebenso ist auf das schwankende Wesen der Dissonanz bei einer
+				<lb n="N006"/>ihrer Dauer nach zu kurzen Vorbereitung (s. 3) schon früher
+				<lb n="N007"/>aufmerksam gemacht worden. Eine Ausnahme aber von der
+				<lb n="N008"/>Regel, daß kein durch eine Bindung <hi rendition="#g">verzögerter</hi> Accordton
+				<lb n="N009"/>in einer anderen Stimme gleichzeitig schon <hi rendition="#g">vorhanden</hi> sein
+				<lb n="N010"/>darf (s. 4, 5, 6), bildet der herabsteigende Nonen- oder der
+            	<pb facs="#f0041" n="26"/>
+            	<lb n="N001"/>hinaufsteigende Septimenvorhalt (s. 7, 8), in welchen Fällen
+				<lb n="N002"/>die tiefste Stimme eine genugsam feste Basis bildet, um die
+				<lb n="N003"/>Erscheinung ihres in höherer Lage gleichzeitig verzögerten
+				<lb n="N004"/>Tones ertragen zu können.
+            	<figure type="notatedMusic"/>
+			</p>
+            <p>
+				<lb n="N001"/>In den folgenden Beispielen ist nun bald der Grundton,
+				<lb n="N002"/>bald die Terze, die Quinte, oder gleichzeitig mehrere dieser
+				<lb n="N003"/>Töne eines Dreiklanges durch melodisch herabsteigende, und
+				<lb n="N004"/>sodann auch durch ebenso hinaufsteigende Vorhaltsdissonanzen
+				<lb n="N005"/>verzögert worden.
+			</p>
+            <p>
+				<lb n="N001"/>Melodisch herabsteigende Vorhalte.
+            	<figure type="notatedMusic"/>
+			</p>
+         <pb facs="#f0042" n="27"/>
+         <figure type="notatedMusic"/>
+            <p>
+				<lb n="N001"/>Melodisch hinaufsteigende Vorhalte.
+            	<figure type="notatedMusic"/>
+         		<pb facs="#f0043" n="28"/>
+         		<figure type="notatedMusic"/>
+			</p>
+            <p>
+				<lb n="N001"/>Durch die Aufnahme dieser letzteren Vorhalte in die prak¬
+				<lb n="N002"/>tische Harmonielehre, die unbedenklich geschehen kann, da auch
+				<lb n="N003"/>sie als regelmäßige Dissonanzbildungen auftreten und fort¬
+				<lb n="N004"/>schreiten, gewinnt dieselbe an Klarheit, Faßlichkeit und Frei¬
+				<lb n="N005"/>heit, denn es finden dadurch, wie wir sogleich sehen werden,
+				<lb n="N006"/>nicht allein alle bisher benutzten, sondern auch die auffallendsten
+				<lb n="N007"/>Zusammenklänge und Accordfolgen der neueren Musik ihre
+				<lb n="N008"/>Rechtfertigung und Erklärung, der Tonsetzer eine bei Weitem
+				<lb n="N009"/>noch nicht erschöpfte Fundgrube neuer und kunstgerechter Har¬
+				<lb n="N010"/>monien und deren Folgen, und endlich die Anzahl theoretisch
+				<lb n="N011"/>zu erklärender und zu billigender Dissonanzen zugleich ihre
+				<lb n="N012"/>natürlichen Grenzen.
+			</p>
+            <p>
+				<lb n="N001"/>Wie wir bisher nämlich die Töne eines Dreiklanges durch
+				<lb n="N002"/>Vorhalte von unten <hi rendition="#g">oder</hi> von oben verzögerten, so können wir
+				<lb n="N003"/>einen jeden derselben auch durch zwei gleichzeitige Vorhalte von
+				<lb n="N004"/>unten <hi rendition="#g">und</hi> von oben verzögern:
+            	<lb n="N001"/>Gleichzeitig melodisch auf- und abwärts schreitende Vorhalte.
+            	<figure type="notatedMusic"/>
+            	<pb facs="#f0044" n="29"/>
+         	   <figure type="notatedMusic"/>
+            	<lb n="N001"/>Hierdurch nun wird bei 1 ein vollständiger Terzquintseptimen-
+				<lb n="N002"/>Accord, bei 2 derselbe in der Terzquartsext-Lage, bei 4 ein
+				<lb n="N003"/>anderer Septimenaccord in der Secundlage hervorgerufen,
+				<lb n="N004"/>und beide finden zugleich eine natürliche, wenn auch bisher noch
+				<lb n="N005"/>nicht beachtete regelmäßige Auflösung in den folgenden conso¬
+				<lb n="N006"/>nirenden Dreiklang.
+			</p>
+            <p>
+				<lb n="N001"/>Haben wir in den vorhergehenden Beispielen <hi rendition="#g">einen</hi> der
+				<lb n="N002"/>Töne eines Dreiklanges durch zwei gleichzeitige Vorhalte ver¬
+				<lb n="N003"/>zögert, so können wir nun auch z. B. den Grundton durch einen
+				<lb n="N004"/>Vorhalt von unten, die Terze aber durch einen von oben, oder
+				<lb n="N005"/>umgekehrt, oder beide Töne gleichzeitig von unten und oben
+				<lb n="N006"/>verzögern. Dieselben Vorhalte könnten ebenso bei der Terze
+				<lb n="N007"/>und Quinte, oder auch bei allen drei Tönen des Accordes in
+				<lb n="N008"/>Anwendung gebracht werden, wobei denn unter vielen anderen
+				<lb n="N009"/>auch die folgenden Vorhaltsbildungen ihre Entstehung finden:
+            	<lb n="N001"/>Accordbildungen durch Vorhalte.
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Bei 1 erhält der Grundton des C dur-Dreiklanges von oben
+				<lb n="N002"/>und unten, die Terze von oben und die Quinte von unten einen
+				<lb n="N003"/>Vorhalt, wodurch das Auftreten und Fortschreiten des disso¬
+				<lb n="N004"/>nirenden verminderten <hi rendition="#g">Dreiklanges</hi> in der C dur-Tonart
+				<lb n="N005"/>seine Rechtfertigung und Erklärung findet; bei 2 erscheint nur
+            	<pb facs="#f0045" n="30"/>
+            	<lb n="N001"/>der Leiteton als Vorhalt eines Moll-Dreiklanges, wodurch der
+				<lb n="N002"/>dissonirende <hi rendition="#g">übermäßige Dreiklang</hi> hervorgerufen wird:
+				<lb n="N003"/>Bei 3 erscheint durch Verzögerung des Grundtones des C dur-
+				<lb n="N004"/>Dreiklanges von oben und unten und der Terze von oben der
+				<lb n="N005"/><hi rendition="#g">Dominantseptimenaccord</hi> der C dur-Tonart; bei 4 ent¬
+				<lb n="N006"/>steht durch den Vorhalt des Grundtones des C dur-Dreiklanges
+				<lb n="N007"/>von unten, der Quinte von oben und der Terze von oben und
+				<lb n="N008"/>unten der auf dem <hi rendition="#g">Leitetone</hi> der C dur-Tonart stehende
+				<lb n="N009"/><hi rendition="#g">Septimenaccord</hi>; bei 5 findet ebenso der <hi rendition="#g">verminderte</hi>
+				<lb n="N010"/><hi rendition="#g">Septimenaccord</hi> der weicheren C dur-Tonart, bei 6 endlich
+				<lb n="N011"/>ein <hi rendition="#g">Septimenaccord</hi> mit <hi rendition="#g">übermäßiger Quinte</hi> in der
+				<lb n="N012"/>härteren A moll-Tonart durch zwei Vorhalte vor der Tonica
+				<lb n="N013"/>seine natürliche Entstehung und Bedeutung.
+			</p>
+         </div>
+         <div type="chapter" n="1">
+			<head>
+				<lb n="N001"/><hi rendition="#b">Dissonirende Dreiklänge.</hi>
+			</head>
+            <p>
+				<lb n="N001"/>Wir haben schon früher die Bemerkung gemacht, daß die
+				<lb n="N002"/>weiche Dissonanz des <hi rendition="#g">verminderten Dreiklanges</hi> keiner
+				<lb n="N003"/>Vorbereitung bedarf. Seine Dissonanz bildet die kleine Quinte
+				<lb n="N004"/>oder deren Umkehrung, die große Quarte. Einer dieser Töne
+				<lb n="N005"/>oder beide gleichzeitig werden also melodisch in eine Consonanz
+				<lb n="N006"/>fortschreiten müssen, während seine Terze, welche mit den beiden
+				<lb n="N007"/>anderen Stimmen consonirt, <hi rendition="#g">wie jede consonirende Stimme</hi>
+				<lb n="N008"/><hi rendition="#g">überhaupt</hi>, also auch eine den folgenden Beispielen noch hin¬
+				<lb n="N009"/>zugefügte consonirende vierte Stimme, eine freie Fortschreitung
+				<lb n="N010"/>hat. Der in der C dur-Tonart erscheinende verminderte Drei¬
+				<lb n="N011"/>klang kann sich auf solche Weise regelmäßig in den C dur-,
+				<lb n="N012"/>F dur-, G dur-, A moll-, E moll-, und D moll-Dreiklang
+				<lb n="N013"/>auflösen:
+            	<lb n="N001"/>Auflösungen des verminderten Dreiklanges in der C dur-Tonart.
+            	 <figure type="notatedMusic"/>
+         		<pb facs="#f0046" n="31"/>
+         		<figure type="notatedMusic"/>
+            	<lb n="N001"/>Der verminderte Dreiklang kann selbstverständlich nicht allein
+				<lb n="N002"/>frei, sondern auch gebunden, auf leichtem oder schwerem Tact¬
+				<lb n="N003"/>theile auftreten, doch wird er sowol wie seine Auflösungen
+				<lb n="N004"/>wohlklingender, wenn er mit einem ihm terzverwandten Drei¬
+				<lb n="N005"/>klange in Verbindung tritt, und damit zum Septimenaccorde
+				<lb n="N006"/>auf dem Leitetone einer Dur- oder Moll-Tonart, oder zu deren
+				<lb n="N007"/>Dominantseptimen-Accord wird. In einer Folge von Drei¬
+				<lb n="N008"/>klängen wird er deßhalb nur als eben <hi rendition="#g">unvermeidlich</hi>, außer¬
+				<lb n="N009"/>dem aber auch in seiner wohlklingendsten, der Terzsext-Lage,
+				<lb n="N010"/>gebraucht.
+			</p>
+            <p>
+				<lb n="N001"/>Der <hi rendition="#g">übermäßige Dreiklang</hi> kann, wie schon bemerkt,
+				<lb n="N002"/>nur durch den chromatischen Ton der weicheren Dur- oder der
+				<lb n="N003"/>härteren Molltonart zur Erscheinung gebracht werden, und
+				<lb n="N004"/>eine Dissonanz, die übermäßige Quinte, ist so scharf, daß sie
+				<lb n="N005"/>entweder regelmäßig vorbereitet, oder aber als melodischer
+				<lb n="N006"/>Durchgangston auftreten muß (s. u. 4, 5, 6, 7). Dieser
+				<lb n="N007"/>Accord ist jedoch so enharmonischer Natur, daß das Ohr durch
+				<lb n="N008"/>seine bloße Erscheinung noch nicht unterrichtet wird, welcher
+				<lb n="N009"/>seiner drei Töne die übermäßige Quinte der Grundlage bildet:
+			</p>
+         <figure type="notatedMusic"/>
+            <p>
+				<lb n="N001"/>Das Ohr wird also durch die Bindung eines jeden dieser
+				<lb n="N002"/>Töne (s. u. 1, 2, 3) oder zweier derselben schon genugsam auf ihn
+				<lb n="N003"/>vorbereitet, und billigt ebenso sein Auftreten auf schweren oder
+				<lb n="N004"/>leichten Tacttheilen. In den folgenden Beispielen löst sich nun
+				<lb n="N005"/>der übermäßige Dreiklang c e gis, welcher z. B. in der A moll-
+				<lb n="N006"/>oder in der C dur-Tonart mit Hülfe eines chromatischen Tones
+				<lb n="N007"/>(gis) hervorgebracht werden kann, bei melodischer Fortschrei¬
+				<lb n="N008"/>tung seiner dissonirenden Stimmen regelmäßig auf in den
+            	<pb facs="#f0047" n="32"/>
+            	<lb n="N001"/>A moll-, D moll-, E moll-, Cis moll-, F dur-, A dur- und
+				<lb n="N002"/>E dur-Dreiklang.
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Ueberall aber wo der hier gewählte übermäßige Dreiklang
+				<lb n="N002"/>c e gis auftreten konnte, wird auch der dem Klange nach ihm
+				<lb n="N003"/>gleiche Accord (seine enharmonische Verwechselung) c e as auf¬
+				<lb n="N004"/>treten und sodann eine Auflösung in den F dur-, C dur-,
+				<lb n="N005"/>G dur-, Des dur-, F moll-, B moll-, C moll- und A moll-
+				<lb n="N006"/>Dreiklang ausführen können, wobei, wie allezeit, offenbare und
+				<lb n="N007"/>verdeckte übelklingende Parallelgänge zu vermeiden sind.
+            	<figure type="notatedMusic"/>
+         	   <pb facs="#f0048" n="33"/>
+            	<lb n="N001"/>Auf ganz ähnliche Weise würde endlich der dritte der oben
+				<lb n="N002"/>neben einander gestellten übermäßigen Dreiklänge e gis his,
+				<lb n="N003"/>welcher ebenfalls eine enharmonische Verwechslung der beiden
+				<lb n="N004"/>vorhergehenden bildet, an deren Stelle auftreten und seine
+				<lb n="N005"/>Auflösung in den Cis dur-, Gis dur-, Dis dur-, A dur-,
+				<lb n="N006"/>Cis moll-, Fis moll-, Gis moll- und Eis moll-Dreiklang neh¬
+				<lb n="N007"/>men können, ohne damit jedoch die Wirksamkeit des übermäßigen
+				<lb n="N008"/>Dreiklanges erschöpft zu haben.
+			</p>
+            <p>
+				<lb n="N001"/>Bei Nr. 4 der obenstehenden Beispiele wird der Grundton
+				<lb n="N002"/>des As dur-Dreiklanges zum Grundton eines übermäßigen
+				<lb n="N003"/>Dreiklanges, und geht sodann <hi rendition="#g">chromatisch</hi> in den des A moll-
+				<lb n="N004"/>Dreiklanges über. Aber nicht der Ton As, sondern Gis bildet
+				<lb n="N005"/>einen <hi rendition="#g">stufenweisen</hi> Vorhalt vor A (s. u. 1), und nur zur
+				<lb n="N006"/>Erleichterung des Lesens wird häufig das Schreiben des <hi rendition="#g">enhar¬</hi>
+				<lb n="N007"/><hi rendition="#g">monischen</hi> Ueberganges eines Accordes in den anderen ver¬
+				<lb n="N008"/>mieden. Ganz ähnlich verhält es sich mit Nr. 6 der den obigen
+				<lb n="N009"/>vorangehenden und mit Nr. 2 der hier folgenden Beispiele.
+				<lb n="N010"/>Im letzteren geht nämlich die Septime F <hi rendition="#g">chromatisch</hi> in den
+				<lb n="N011"/>Ton Fis über, während sie bei richtiger Schreibart vorher
+				<lb n="N012"/><hi rendition="#g">enharmonisch</hi> in den Ton Eis, welcher einen stufenweisen
+				<lb n="N013"/>Vorhalt des folgenden Tones Fis bildet, übergehen mußte,
+				<lb n="N014"/>wie bei 3.
+			</p>
+         <figure type="notatedMusic"/>
+            <p>
+				<lb n="N001"/>Die neuere Tonkunst gebraucht demnach diatonische und
+				<lb n="N002"/>chromatische Vorhalte, und es ergeben sich dadurch zuweilen
+				<lb n="N003"/>Folgen von Accorden, deren <hi rendition="#g">innerer Zusammenhang erst</hi>
+				<lb n="N004"/><hi rendition="#g">aus der enharmonischen Bedeutung derselben her¬</hi>
+				<lb n="N005"/><hi rendition="#g">vorgeht</hi>. Zur Erklärung ähnlicher später anzuführender
+				<lb n="N006"/>Auflösungen dissonirender Accorde möge hier noch das Beispiel
+				<lb n="N007"/>eines chromatischen Vorhaltes und damit zugleich einer Folge
+				<lb n="N008"/>von Accorden Platz finden, welche nur durch ihre enharmonische
+            	<pb facs="#f0049" n="34"/>
+            	<lb n="N001"/>Mehrdeutigkeit in innerem Zusammenhange mit einander stehen.
+				<lb n="N002"/>Bei 1 haben die beiden ersten Accorde, der tonische und der
+				<lb n="N003"/>Dominantseptimenaccord der C dur-Tonart, einen inneren Zu¬
+				<lb n="N004"/>sammenhang, nicht aber der letztere mit dem ihm folgenden
+				<lb n="N005"/>Fis dur-Dreiklange. In der Fis dur-Tonart könnte jedoch der
+				<lb n="N006"/>tonische Dreiklang mit Benutzung von zwei chromatischen Tönen
+				<lb n="N007"/>durch den Accord eis g h d verzögert werden, wie bei 4. Dieser
+				<lb n="N008"/>Zusammenklang aber würde in der C dur-Tonart, wie bei 2,
+				<lb n="N009"/>wiederum mit dem ihm vorangehenden tonischen Dreiklange
+				<lb n="N010"/>derselben keinen harmonischen Zusammenhang zeigen, denn
+				<lb n="N011"/>dieser wird eben nur in der enharmonischen Bedeutung des
+				<lb n="N012"/>Tones F zu suchen sein, wie bei 3. In der C dur-Tonart ist
+				<lb n="N013"/>demnach die Septime des Dominantaccordes bei 1 eine <hi rendition="#g">chro¬</hi>
+				<lb n="N014"/><hi rendition="#g">matische</hi> Verzögerung des folgenden Tones Fis, und der
+				<lb n="N015"/>Accord f g h d wird hier nur durch seine enharmonische Mehr¬
+				<lb n="N016"/>deutigkeit als eis g h d den Uebergang in den Fis dur-Drei¬
+				<lb n="N017"/>klang bewirken können.
+            </p>
+         <figure type="notatedMusic"/>
+         </div>
+         <div type="chapter" n="1">
+			<head>
+				<lb n="N001"/><hi rendition="#b">Septimenaccorde.</hi>
+			</head>
+            <p>
+				<lb n="N001"/>Ein Septimenaccord entsteht, wenn zwei nächst-, also
+				<lb n="N002"/>terzverwandte Dreiklänge statt nach einander zu erscheinen,
+				<lb n="N003"/>gleichzeitig, zusammen auftreten. Seine Dissonanz bildet die
+				<lb n="N004"/>Septime, und in einigen noch besonders zu besprechenden Fällen
+				<lb n="N005"/>außerdem auch die kleine oder die übermäßige Quinte, und in
+				<lb n="N006"/>seinen verschiedenen Lagen als <span type="figured-bass" rend="stacked">6 5</span>, <span type="figured-bass" rend="stacked">4 3</span> und <span type="figured-bass" rend="stacked">4 2</span> Accord auch die Um¬
+				<lb n="N007"/>kehrung der genannten Dissonanzen. Ein jeder Septimenaccord
+            	<pb facs="#f0050" n="35"/>
+            	<lb n="N001"/>erscheint am schwersten, den gebundenen Vorhalten gleich, mit
+				<lb n="N002"/><hi rendition="#g">vorbereiteter Dissonanz</hi> und auf <hi rendition="#g">accentuirtem Tact¬</hi>
+				<lb n="N003"/><hi rendition="#g">theile</hi>, am weichsten aber, einem Durchgangstone gleich, mit
+				<lb n="N004"/>aus dem Grundtone oder aus dessen Octave nachschlagender
+				<lb n="N005"/>Septime, auf leichtem Tacttheile:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Das Vorrecht, frei und ungebunden aufzutreten, räumte man
+				<lb n="N002"/>bisher nur denjenigen Septimenaccorden ein, in denen ein
+				<lb n="N003"/>oder zwei verminderte Dreiklänge enthalten waren, wie in
+				<lb n="N004"/> oder .
+            </p>
+            <p>
+				<lb n="N001"/><hi rendition="#g">Die neuere Tonkunst aber läßt auch die schärfste</hi>
+				<lb n="N002"/><hi rendition="#g">Dissonanz frei auftreten, wenn es durch den Cha¬</hi>
+				<lb n="N003"/><hi rendition="#g">rakter des Tonstückes bedingt wird, und wenn die¬</hi>
+				<lb n="N004"/><hi rendition="#g">selbe eine regelmäßige Auflösung oder Trugfort¬</hi>
+				<lb n="N005"/><hi rendition="#g">schreitung nimmt</hi>. Denn eine Rede darf mit einer Frage
+				<lb n="N006"/>beginnen, wenn nur die Antwort darauf erfolgt, und die
+				<lb n="N007"/>Mathematik darf den combinirtesten Lehrsatz aufstellen, wenn
+				<lb n="N008"/>sie nur den Beweis dafür zu liefern im Stande ist. Sollte
+				<lb n="N009"/>also ein Tonstück nicht, wie folgt, mit einem Septimenaccorde,
+				<lb n="N010"/>in welchem die herbsten Dissonanzen, eine übermäßige Quinte
+				<lb n="N011"/>und eine große Septime, zugleich enthalten sind, beginnen kön¬
+				<lb n="N012"/>nen? Sollte nicht, wie hier im zweiten Tacte, ein schwerer
+				<lb n="N013"/>Secund-Quart-Quint-Vorhalt ungebunden auftreten können,
+				<lb n="N014"/>wenn nur, wie hier z. B., wo im ersten Tact der Grundton,
+				<lb n="N015"/>im zweiten die Terze, im dritten die Quinte des A moll-Drei¬
+				<lb n="N016"/>klanges durch einen Vorhalt von oben und unten verzögert wird,
+				<lb n="N017"/>dem Ohre <hi rendition="#g">durch die folgende Harmonie</hi> auch die Bedeu¬
+				<lb n="N018"/>tung der <hi rendition="#g">vorhergehenden</hi> klar gemacht wird?
+			</p>
+         <figure type="notatedMusic"/>
+         <pb facs="#f0051" n="36"/>
+            <p>
+				<lb n="N001"/>Ja, sollte die Dissonanz nicht zuweilen, gleich den soeben
+				<lb n="N002"/>aufgestellten Fragen, die Antwort schuldig bleiben können,
+				<lb n="N003"/>wenn dieselbe nur in dem Folgenden <hi rendition="#g">verdeckt</hi> enthalten ist,
+				<lb n="N004"/>wie hier z. B.
+				<lb n="N005"/><hi rendition="#i"><persName>F. Liszt</persName></hi>, .
+				<figure type="notatedMusic"/>
+            	<lb n="N001"/>wo dem Dominantseptimenaccorde c e g b die Auflösung in
+				<lb n="N002"/>den F dur-Dreiklang, dem verminderten Septimenaccorde gis
+				<lb n="N003"/>h d f die Auflösung in den A moll-Dreiklang, jedoch mit freiester
+				<lb n="N004"/>Stimmenführung der dissonirenden Harmonien, folgt?
+            </p>
+            <p>
+				<lb n="N001"/>Ueber die Auflösung des Septimenaccordes ist Folgendes
+				<lb n="N002"/>zu bemerken. In einer bestimmten Tonart bleibend wird, wie
+				<lb n="N003"/>schon erwähnt, die Septime sich nicht melodisch steigend, der
+				<lb n="N004"/>Grundton nicht stufenweise fallend auflösen können, weil in
+				<lb n="N005"/>beiden Fällen ein schon vorhandener Ton verzögert werden
+				<lb n="N006"/>würde; wol aber wird die Septime stufenweise fallen, der
+				<lb n="N007"/>Grundton ebenso steigen können, während Terze und Quinte
+				<lb n="N008"/>am natürlichsten melodisch in den folgenden Accord übergehen,
+				<lb n="N009"/>oder als demselben ebenfalls eigene Töne liegen bleiben, oder
+				<lb n="N010"/>wie alle nicht vorhaltenden Töne eine freie Fortschreitung
+				<lb n="N011"/>nehmen. Ein jeder Septimenaccord, der keine chromatischen
+				<lb n="N012"/>Töne benutzt, wird sich demgemäß, in einer bestimmten Tonart
+				<lb n="N013"/>bleibend, jederzeit in diejenigen Dreiklänge auflösen können,
+				<lb n="N014"/>welche in ihm nicht schon vorhanden sind, deren Verzögerung
+				<lb n="N015"/>er also gleichzeitig nicht übernehmen könnte; z. B.
+            	<figure type="notatedMusic"/>
+        	    <pb facs="#f0052" n="37"/>
+         	   <figure type="notatedMusic"/>
+            	<lb n="N001"/>Der hier gewählte Dominantseptimenaccord der C dur-Tonart
+				<lb n="N002"/>kann sich nicht in den G dur- und nicht in den verminderten
+				<lb n="N003"/>Dreiklang h d f, welche beide schon vollständig in ihm enthalten
+				<lb n="N004"/>sind, wol aber in den C dur-, D moll-, E moll-, F dur- und
+				<lb n="N005"/>A moll-Dreiklang auflösen. Eine nicht als Dissonanz erschei¬
+				<lb n="N006"/>nende Stimme hat dabei die freieste Fortschreitung; so bleibt
+				<lb n="N007"/>bei 1 a der Grundton G zu der melodisch fallend sich auflösen¬
+				<lb n="N008"/>den Septime liegen; bei 1 b tritt er in den Grundton, und bei
+				<lb n="N009"/>1 c (in der Oberstimme) in die Terz des folgenden C dur-
+				<lb n="N010"/>Dreiklanges. Die Quinte D des Dominantseptimenaccordes
+				<lb n="N011"/>kann <hi rendition="#g">bei dieser Auflösung</hi> stufenweise steigend oder fallend
+				<lb n="N012"/>als Vorhalt eines Tones des folgenden Accordes erscheinen,
+				<lb n="N013"/>der Leiteton H bei derselben aber nur ebenso <hi rendition="#g">aufwärts</hi>
+				<lb n="N014"/><hi rendition="#g">schreitend</hi> einen solchen erreichen. Bei 1 d nimmt die hier
+				<lb n="N015"/>nicht dissonirende Quinte D des Septimenaccordes eine sprung¬
+				<lb n="N016"/>weise Fortschreitung in einen Ton des folgenden Dreiklanges.
+				<lb n="N017"/>Bei 2 dienen Grundton und Terze als Vorhalte des folgenden
+				<lb n="N018"/>D moll-Dreiklanges, während Quinte und Septime, nur ihre
+				<lb n="N019"/>harmonische Bedeutung verändernd, liegen bleiben. Bei 3 sind
+				<lb n="N020"/>Quinte und Septime als Vorhalte des Grundtones des folgen¬
+				<lb n="N021"/>den E moll-Dreiklanges zu betrachten, während Grundton und
+				<lb n="N022"/>Terze liegen bleiben. Bei 4 bleibt nur die Septime als Grund¬
+				<lb n="N023"/>ton des folgenden F dur-Dreiklanges liegen, während die
+				<lb n="N024"/>übrigen Töne melodisch in die Terze und Quinte desselben
+				<lb n="N025"/>übergehen. Bei 5 endlich sind alle Töne des Dominantsep¬
+				<lb n="N026"/>timenaccordes melodische Verzögerungen des folgenden A moll-
+				<lb n="N027"/>Dreiklanges, wobei zu bemerken ist, daß diese Auflösung am
+				<lb n="N028"/>wohlklingendsten ist, wenn der Grundbaß des Dominantsep¬
+				<lb n="N029"/>timenaccordes als <hi rendition="#g">tiefste Stimme</hi> erscheint, wie umgekehrt
+				<lb n="N030"/>die ähnliche Auflösung des Septimenaccordes auf dem Leitetone
+				<lb n="N031"/>der Dur-Tonart die Septime als <hi rendition="#g">Oberstimme</hi> verlangt; z. B.
+				<pb facs="#f0053" n="38"/>
+         	   <figure type="notatedMusic"/>
+			</p>
+            <p>
+				<lb n="N001"/>Da nun selbst in der classischen Tonkunst dem <hi rendition="#g">Domi¬</hi>
+				<lb n="N002"/><hi rendition="#g">nantseptimenaccorde</hi> ein freies Auftreten gestattet war,
+				<lb n="N003"/>so kann die romantische Tonkunst wol mit Recht die folgenden
+				<lb n="N004"/>Sätze aufstellen:
+			</p>
+      	<list>
+      		<item>
+      			<lb n="N001"/>1) Einem bestimmten Dreiklange (in den nachstehenden
+				  <lb n="N002"/>Beispielen dem C dur-Dreiklange) kann jeder der verschiedenen
+				  <lb n="N003"/>Dominantseptimenaccorde folgen;
+      		</item>
+      		<item>
+      			<lb n="N004"/>2) Jedem Dreiklange kann ein bestimmter Dominant¬
+				  <lb n="N005"/>septimenaccord (hier der der C dur- oder C moll-Tonart)
+				  <lb n="N006"/>folgen; z. B.
+      			<figure type="notatedMusic"/>
+      			<pb facs="#f0054" n="39"/>
+         		 <figure type="notatedMusic"/>
+      		</item>
+      	</list>
+            <p>
+				<lb n="N001"/>In allen diesen Beispielen nimmt der Dominantseptimen¬
+				<lb n="N002"/>accord nur seine <hi rendition="#g">Hauptauflösung</hi>, nämlich die in den
+				<lb n="N003"/>Hauptdreiklang der Tonart, zu welcher er gehört. Er kann
+				<lb n="N004"/>jedoch, wie wir gesehen haben, in seiner Tonart bleibend in
+				<lb n="N005"/>fünf, aus seiner Tonart heraustretend aber in alle Drei¬
+				<lb n="N006"/>klänge, mit Ausnahme von denjenigen übergehen, deren Quinten
+				<lb n="N007"/>denen der Dreiklänge gleich kommen, welchen er seine Erschei¬
+				<lb n="N008"/>nung verdankt. So kann der Dominantseptimenaccord der
+				<lb n="N009"/>C dur-Tonart  sich nicht in den G dur-, G moll-, B dur-
+				<lb n="N010"/>und B moll-Dreiklang, wohl aber in alle übrigen Dreiklänge
+				<lb n="N011"/>auflösen, wenn wir seinen Stimmen dabei zuweilen einen chro¬
+				<lb n="N012"/>matischen oder, wie unten bei 4 und 15, einen enharmonischen
+				<lb n="N013"/>Uebergang gestatten; z. B.
+			</p>
+         <pb facs="#f0055" n="40"/>
+         <figure type="notatedMusic"/>
+            <p>
+				<lb n="N001"/>Der <hi rendition="#g">verminderte Septimenaccord</hi>, welcher durch
+				<lb n="N002"/>das Zusammenauftreten zweier terzverwandter verminderter
+				<lb n="N003"/>Dreiklänge entsteht, benutzt jederzeit einen oder mehrere chro¬
+				<lb n="N004"/>matische Töne. In der weicheren Dur- und in der härteren
+				<lb n="N005"/>Moll-Tonart findet sich derselbe auf dem Leitetone stehend vor.
+				<lb n="N006"/>Er kann, wie bemerkt, seines weich dissonirenden Charakters
+				<lb n="N007"/>wegen unter allen Umständen frei auftreten, und nimmt seine
+				<lb n="N008"/><hi rendition="#g">Hauptauflösung</hi> in den Hauptdreiklang der genannten Ton¬
+				<lb n="N009"/>arten, indem sein Baß in den Grundton, seine Septime in die
+				<lb n="N010"/>Quinte, seine Terze und Quinte am natürlichsten in die Terze
+				<lb n="N011"/>desselben übergehen:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Er kann aber auch eine regelmäßige Auflösung finden, indem
+            	<pb facs="#f0056" n="41"/>
+            	<lb n="N001"/>sein Grundbaß, gleichviel in welcher Stimme derselbe sich be¬
+				<lb n="N002"/>finde, als Verzögerung der Quinte eines Dur- oder Moll-
+				<lb n="N003"/>Dreiklanges einen Halbton aufwärts schreitet, und seine übrigen
+				<lb n="N004"/>Stimmen ebenfalls regelmäßig in denselben übergehen; z. B.
+			</p>
+         <figure type="notatedMusic"/>
+            <p>
+				<lb n="N001"/>In der weicheren Dur- oder härteren Moll-Tonart können
+				<lb n="N002"/>nun auch <hi rendition="#g">Septimenaccorde mit übermäßiger Quinte</hi>
+				<lb n="N003"/>auftreten, und auch diese müssen sich als regelmäßige Verzöge¬
+				<lb n="N004"/>rungen der folgenden Harmonie erweisen, wie z. B. unten
+				<lb n="N005"/>bei 1, 2; denn alle Accorde, sie mögen den chromatischen Ton
+            	<pb facs="#f0057" n="42"/>
+            	<lb n="N001"/>nun in einer der soeben genannten Tonarten vorfinden, wie
+				<lb n="N002"/>bei 3, <hi rendition="#g">oder der Tonart fremde chromatische Töne</hi> be¬
+				<lb n="N003"/>nutzen, wie z. B. <hi rendition="#g">die übermäßigen Sextaccorde</hi> bei 4, 5,
+				<lb n="N004"/>6, sowie die mit <hi rendition="#g">chromatischen Durchgangstönen</hi> in die
+				<lb n="N005"/>folgende Consonanz übergehenden Harmonien bei 7 und 8 fin¬
+				<lb n="N006"/>den ihre Rechtfertigung, wenn ihre vorhaltenden Stimmen nicht
+				<lb n="N007"/>springend fortschreiten, sondern sich als melodische Verzöge¬
+				<lb n="N008"/>rungen folgender Accordtöne erweisen.
+            	<figure type="notatedMusic"/>
+            </p>
+            <p>
+				<lb n="N001"/>Wie die gebundenen Vorhalte bisher als Verzögerungen
+				<lb n="N002"/>eines Dreiklanges benutzt wurden, so kann auch <hi rendition="#g">das Auftre¬</hi>
+				<lb n="N003"/><hi rendition="#g">ten eines Septimenaccordes durch gebundene Vor¬</hi>
+				<lb n="N004"/><hi rendition="#g">halte verzögert</hi> werden, doch werden diese, der ihnen eigenen
+				<lb n="N005"/>Schwere wegen, wie jene, einen accentuirten Tacttheil in An¬
+				<lb n="N006"/>spruch nehmen, oder einen leichten zum schweren umwandeln.
+            	<figure type="notatedMusic"/>
+         	   <pb facs="#f0058" n="43"/>
+         	   <figure type="notatedMusic"/>
+            	<lb n="N001"/>In den vorstehenden Beispielen ist dergestalt bald die Terze,
+				<lb n="N002"/>Quinte oder Septime, bald mehrere dieser Töne eines Sep¬
+				<lb n="N003"/>timenaccordes gleichzeitig verzögert worden, bei 3, 5 und 7
+				<lb n="N004"/>aber wird dieser Accord durch gebundene Consonanzen, bei 8
+				<lb n="N005"/>durch einen übermäßigen Dreiklang vorbereitet.
+			</p>
+            <p>
+				<lb n="N001"/>Diesen melodisch <hi rendition="#g">herabsteigenden</hi> mögen hier noch die
+				<lb n="N002"/>ebenso <hi rendition="#g">hinaufschreitenden Verzögerungen</hi> der Terze,
+				<lb n="N003"/>Quinte und Septime eines Septimenaccordes folgen, mit dem
+				<lb n="N004"/>Bemerken, daß auch hier gleichzeitig steigende und fallende Vor¬
+				<lb n="N005"/>halte anzuwenden sind; vor <hi rendition="#g">einem</hi> seiner Töne jedoch nur,
+				<lb n="N006"/>wenn die Auflösung des Septimenaccordes die Verdopplung
+				<lb n="N007"/>desselben erlaubt.
+			</p>
+         <figure type="notatedMusic"/>
+            <p>
+				<lb n="N001"/>Wie in den vorstehenden Beispielen das Auftreten, so
+				<lb n="N002"/>kann unter gleichen Bedingungen auch die <hi rendition="#g">Auflösung</hi> des
+				<lb n="N003"/>Septimenaccordes verzögert werden; so bekommen in den fol¬
+				<lb n="N004"/>genden Beispielen bald der Grundton, bald die Terze des Drei¬
+				<lb n="N005"/>klanges, in welchen der Septimenaccord übergeht, bald beide
+				<lb n="N006"/>gleichzeitig einen Vorhalt oben, unten, oder oben und unten.
+			</p>
+         <figure type="notatedMusic"/>
+         <pb facs="#f0059" n="44"/>
+         <figure type="notatedMusic"/>
+         </div>
+         <div type="chapter" n="1">
+			<head>
+				<lb n="N001"/><hi rendition="#b">Trugfortschreitung.</hi>
+			</head>
+            <p>
+				<lb n="N001"/>Wenn die Dissonanz eines Accordes <hi rendition="#g">bei ihrer regel¬</hi>
+				<lb n="N002"/><hi rendition="#g">mäßigen Auflösung</hi> in einen neuen dissonirenden Accord
+				<lb n="N003"/>tritt, so entsteht eine Trugfortschreitung. Es kann auf diese
+				<lb n="N004"/>Weise eine Folge von dissonirenden Accorden gehört werden,
+				<lb n="N005"/>deren einer stets die regelmäßige Verzögerung des folgenden
+				<lb n="N006"/>bildet und von denen nur der zuletzt auftretende in einen con¬
+				<lb n="N007"/>sonirenden Accord übergeht. So kann der übermäßige Drei¬
+				<lb n="N008"/>klang z. B. in einen verminderten Septimenaccord (s. u. 1, 2,
+				<lb n="N009"/>3) oder in einen Dominantseptimenaccord übergehen (4, 5, 6),
+				<lb n="N010"/>es kann sogar eine Folge von übermäßigen Dreiklängen gehört
+				<lb n="N011"/>werden, welche an Bitterkeit eine solche von verminderten Sep¬
+				<lb n="N012"/>timenaccorden bei Weitem übertrifft (7).
+            	<figure type="notatedMusic"/>
+         	   <pb facs="#f0060" n="45"/>
+         	   <figure type="notatedMusic"/>
+            	<lb n="N001"/>In Nr. 2 sollte sich der Ton C als Vorhalt der Terze des
+				<lb n="N002"/>folgenden Accordes erweifen, er springt aber in den Grundton
+				<lb n="N003"/>des letzteren, und giebt somit eine <hi rendition="#g">verdeckte</hi> Auflösung, statt
+				<lb n="N004"/>der regelmäßigen.
+			</p>
+         </div>
+         <div type="chapter" n="1">
+			<head>
+				<lb n="N001"/><hi rendition="#b">Folgen von Septimenaccorden.</hi>
+			</head>
+            <p>
+				<lb n="N001"/>Eine Folge gebundener Septimenaccorde einer bestimmten
+				<lb n="N002"/>Tonart entsteht:
+			</p>
+      	<list>
+      		<item>
+      			  <lb n="N001"/>1) wenn die vorbereitete Septime eines Accordes ihre
+					<lb n="N002"/>regelmäßige Auflösung nimmt, die übrigen Stimmen aber auf
+					<lb n="N003"/>ihrer Stelle verharren; sie wird sodann Grundton eines neuen
+					<lb n="N004"/>Septimenaccordes, der nun eine ähnliche Fortschreitung neh¬
+					<lb n="N005"/>men kann; z. B.
+      			  <figure type="notatedMusic"/>
+      		</item>
+      		<item>
+      			  <lb n="N001"/>2) wenn die Quinte und die Septime eines Accordes sich
+					<lb n="N002"/>stufenweise abwärts bewegen, während die anderen Stimmen
+					<lb n="N003"/>ihre Stelle nicht verlassen; sie bilden alsdann Grundton und
+					<lb n="N004"/>Terze eines neuen Septimenaccordes, dessen ähnliche Schritte
+					<lb n="N005"/>eine ähnliche Folge hervorrufen können; z. B.
+      			  <figure type="notatedMusic"/>
+      		</item>
+      		<item>
+      			<lb n="N001"/>3) wenn die Terze, Quinte und Septime eines Septimen¬
+				  <lb n="N002"/>accordes (also der obere Dreiklang desselben) sich in einer sol¬
+      			<pb facs="#f0061" n="46"/>
+      			<lb n="N001"/>chen Lage befinden, daß sie, ohne Quintenparallelen zu bilden,
+				  <lb n="N002"/>stufenweise abwärts schreiten können (der obere Dreiklang kann
+				  <lb n="N003"/>also nicht von der Grundlage, sondern nur von der Terzsext-
+				  <lb n="N004"/>oder Quartsextlage aus eine solche Fortschreitung nehmen),
+				  <lb n="N005"/>während der Grundton seine Stelle nicht verläßt; in diesem
+				  <lb n="N006"/>Falle wird der letztere zur Septime eines neuen Septimen¬
+				  <lb n="N007"/>accordes, der unter denselben Bedingungen ähnlich fortschreiten
+				  <lb n="N008"/>kann; z. B.
+      			<figure type="notatedMusic"/>
+      		</item>
+      	</list>
+            <p>
+				<lb n="N001"/>Bei einer <hi rendition="#g">Folge von Dominantseptimenaccorden</hi>
+				<lb n="N002"/>muß der eine ebenso jederzeit als regelmäßige Verzögerung des
+				<lb n="N003"/>anderen erscheinen; die untenstehenden Beispiele erfüllen diese
+				<lb n="N004"/>Bedingung, und werden deshalb auch in der romantischen Ton¬
+				<lb n="N005"/>kunst, <hi rendition="#g">ähnlichen Folgen verminderter Septimenaccorde</hi>
+				<lb n="N006"/><hi rendition="#g">gleich</hi>, ihre Rechtfertigung finden können.
+			</p>
+         <figure type="notatedMusic"/>
+         <pb facs="#f0062" n="47"/>
+            <p>
+				<lb n="N001"/><hi rendition="#g">Der verminderte Septimenaccord</hi> kann, indem nur
+				<lb n="N002"/>eine seiner Stimmen sich bewegt und einen Halbton abwärts
+				<lb n="N003"/>schreitet, dort zum Grundtone eines Dominantseptimenaccordes
+				<lb n="N004"/>werden, wie unten bei 1; oder es kann eine seiner Stimmen
+				<lb n="N005"/>zum Grundtone eines solchen werden, wenn sie auf ihrer Stelle
+				<lb n="N006"/>verharrt, während die drei anderen einen Halbton aufwärts
+				<lb n="N007"/>schreiten, wie bei 2; oder es kann eine Folge von je einen Halb¬
+				<lb n="N008"/>ton steigenden oder fallenden verminderten Septimenaccorden
+				<lb n="N009"/>ausgeführt werden, wie unten bei 3 u. 4, u. s. f.
+			</p>
+         <figure type="notatedMusic"/>
+         </div>
+         <div type="chapter" n="1">
+			<head>
+				<lb n="N001"/><hi rendition="#b">Orgelpunct.</hi>
+			</head>
+            <p>
+				<lb n="N001"/>Unser Ohr hat sich nicht allein schon an die anhaltende
+				<lb n="N002"/>Spannung einer Folge von Septimenaccorden gewöhnt, es er¬
+				<lb n="N003"/>trägt sogar auch eine Harmonienfolge, welcher als Basis ein
+				<lb n="N004"/><hi rendition="#g">Halteton</hi> hinzugefügt wurde, der nur <hi rendition="#g">mit seinem Anfangs-</hi>
+				<lb n="N005"/><hi rendition="#g">und Ausgangspunkte in verständlicher harmonischer</hi>
+				<lb n="N006"/><hi rendition="#g">Beziehung</hi> zu jener <hi rendition="#g">in sich zusammenhängenden Folge</hi>
+				<lb n="N007"/><hi rendition="#g">von Accorden</hi> steht. Ein solcher „<hi rendition="#g">Orgelpunct</hi>” kann nun
+				<pb facs="#f0063" n="48"/>
+            	<lb n="N001"/>aus zweien oder aus mehreren Accorden bestehen und nach
+				<lb n="N002"/>einem ausgehaltenen Tone der tiefsten Stimme, oder zugleich
+				<lb n="N003"/>mit diesem kann als erster Accord nicht allein eine mit dem¬
+				<lb n="N004"/>selben consonirende, sondern auch eine dissonirende Harmonie
+				<lb n="N005"/>frei auftreten, an welcher ein oder mehrere verminderte Drei¬
+				<lb n="N006"/>klänge theilnehmen, z. B. also ein Dominantseptimenaccord
+				<lb n="N007"/>oder ein verminderter Septimenaccord.
+            </p>
+            <p>
+				<lb n="N001"/>In den folgenden Beispielen entsteht bei 1 der sogenannte
+				<lb n="N002"/>„Nonenaccord”, bei 2 der sogenannte „Undecimenaccord” und
+				<lb n="N003"/>bei 3 der sogenannte „Terzdecimenaccord”, jenachdem die
+				<lb n="N004"/>Quinte, die Terze oder der Grundton eines Dreiklanges als
+				<lb n="N005"/>Halteton zu einem alle Töne desselben verzögernden Accorde
+				<lb n="N006"/>benutzt worden.
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Diese dissonirenden Harmonien sind also vierstimmige Accorde,
+				<lb n="N002"/>welche jede Lage annehmen, und jede regelmäßige Fortschrei¬
+				<lb n="N003"/>tung nehmen können, denen eine fünfte, <hi rendition="#g">tiefste</hi> Stimme als
+				<lb n="N004"/><hi rendition="#g">Halteton</hi> hinzugefügt ist, welche selbstverständlich sich an einer
+				<lb n="N005"/>Versetzung oder Umkehrung des über derselben befindlichen
+				<lb n="N006"/>Accordes nicht betheiligen darf, denn sonst würde der oben bei
+				<lb n="N007"/>1 auftretende „Nonenaccord” z. B. in seiner Secundterz¬
+				<lb n="N008"/>quartsextlage folgende ganz unverständliche Harmonie bilden
+				<lb n="N009"/>können:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Wenn aber der Halteton bei 1 mit der Auflösung der Stimmen
+				<lb n="N002"/>des über ihm stehenden Septimenaccordes zugleich seine Stelle
+				<lb n="N003"/>verläßt und etwa in den Grundton des folgenden Accordes
+				<lb n="N004"/>schreitet:
+            	<figure type="notatedMusic"/>
+         	   <pb facs="#f0064" n="49"/>
+            	<lb n="N001"/>so ist er dazu berechtigt, weil nicht er, sondern der bei dieser
+				<lb n="N002"/>Harmonie betheiligte Septimenaccord eine Verzögerung des
+				<lb n="N003"/>folgenden Accordes bildet, er in diesem Falle also eine freie
+				<lb n="N004"/>Fortschreitung nehmen durfte.
+			</p>
+            <p>
+				<lb n="N001"/>Gewöhnlich macht sich der Orgelpunct gegen das Ende
+				<lb n="N002"/>eines Tonstückes geltend und zwar über der Oberdominante,
+				<lb n="N003"/>um den Schluß aufzuhalten (s. u. 1), oder über der Tonica,
+				<lb n="N004"/>um den Schluß zu verlängern (2); er kann aber auch über
+				<lb n="N005"/>diesen beiden gleichzeitig ausgehaltenen Tönen (3), über jedem
+				<lb n="N006"/>anderen Tone, dem eine solche hervortretende Tragkraft zuge¬
+				<lb n="N007"/>theilt werden soll, zu Anfang oder in der Mitte eines Ton¬
+				<lb n="N008"/>stückes seine Anwendung finden. Die über dem Haltetone auf¬
+				<lb n="N009"/>tretenden consonirenden oder dissonirenden Accorde können nun
+				<lb n="N010"/>einer und derselben Tonart angehören (1), oder auch chroma¬
+				<lb n="N011"/>tische Töne benutzen (2, 3). Der Halteton trägt sogar eine
+				<lb n="N012"/>Folge von verschiedenen Modulationen, sobald er nur <hi rendition="#g">beim</hi>
+				<lb n="N013"/><hi rendition="#g">Ausgange des Orgelpunctes eine verständliche har¬</hi>
+				<lb n="N014"/><hi rendition="#g">monische Bedeutung</hi> erlangt, sei es nun als Ton eines con¬
+				<lb n="N015"/>sonirenden (2) oder dissonirenden Accordes (1), oder als Vor¬
+				<lb n="N016"/>haltsdissonanz, wie bei 3.
+            	<lb n="N001"/>Können nun, wie wir gesehen haben, auch zwei Haltetöne
+				<lb n="N002"/>gleichzeitig auftreten, so dürfen diese auch nach einander oder
+            	<pb facs="#f0065" n="50"/>
+            	<lb n="N001"/>gebrochen erscheinen und sogar durch Vorschläge und Durch¬
+				<lb n="N002"/>gangstöne noch <hi rendition="#g">verziert</hi> werden, wodurch sodann ein <hi rendition="#g">haltendes</hi>
+				<lb n="N003"/><hi rendition="#g">Motiv</hi> oder eine besondere Art von Basso ostinato entsteht,
+				<lb n="N004"/>wie ihn namentlich <hi rendition="#g"><persName>Liszt</persName></hi> in neuerer Zeit mit großer Kühnheit
+				<lb n="N005"/>in Wirksamkeit gesetzt hat; z. B. in dem vorletzten Tempo der
+				<lb n="N006"/>großen, <hi rendition="#g"><persName>Robert Schumann</persName></hi> gewidmeten . Endlich
+				<lb n="N007"/>giebt uns <hi rendition="#g"><persName>Sebastian Bach</persName></hi> in einer 
+				<lb n="N008"/>, <placeName ref="#L0033">Vienne</placeName>, Hoffmeister et C.
+				<lb n="N009"/>(s. unten bei 1), und nach ihm <hi rendition="#g"><persName>Beethoven</persName></hi> in seiner 
+				<lb n="N010"/>, freilich vor den Worten: O Freunde, nicht diese
+				<lb n="N011"/>Töne! sogar das Beispiel von <hi rendition="#g">drei</hi> gleichzeitigen Haltetönen:
+            	<figure type="notatedMusic"/>
+			</p>
+         </div>
+         <div type="chapter" n="1">
+			<head>
+				<lb n="N001"/><hi rendition="#b">Schlußbildung.</hi>
+			</head>
+            <p>
+				<lb n="N001"/>Die harmonische Bedeutung eines Dreiklanges erkennen
+				<lb n="N002"/>wir erst durch seine Verbindung mit anderen Accorden. So
+				<lb n="N003"/>wird ein solcher sich erst zum <hi rendition="#g">Hauptdreiklange</hi> erheben, wenn
+				<lb n="N004"/>seine <hi rendition="#g">beiden Dominantaccorde</hi> ihm vorangehen. Eine
+				<lb n="N005"/>solche Accordfolge nennen wir „Cadenz”, und da mit derselben
+				<lb n="N006"/>alle einer bestimmten Tonart eigenen Töne zu Gehör gebracht
+				<lb n="N007"/>werden, eine „<hi rendition="#g">vollkommene Cadenz</hi>.” Wir wenden dieselbe
+				<lb n="N008"/>an, um einem Tonstücke einen bestimmten <hi rendition="#g">Schluß</hi> in der Haupt¬
+				<lb n="N009"/>tonart zu geben, oder eine in demselben auftretende Neben¬
+				<lb n="N010"/>tonart festzustellen. <hi rendition="#g">Hat sich aber eine Tonart in ihren</hi>
+				<lb n="N011"/><hi rendition="#g">Hauptmomenten bereits kundgegeben, so genügt zum</hi>
+				<lb n="N012"/><hi rendition="#g">Abschlusse in derselben auch eine Accordfolge, über</hi>
+				<lb n="N013"/><hi rendition="#g">deren harmonische Bedeutung wir außerdem in Zwei¬</hi>
+				<lb n="N014"/><hi rendition="#g">fel bleiben würden</hi>; wir können sodann auch eine „<hi rendition="#g">halbe</hi>
+				<lb n="N015"/><hi rendition="#g">Cadenz</hi>”, bei welcher in der <hi rendition="#g">Durtonart</hi> dem tonischen der
+				<lb n="N016"/>Unterdominantdreiklang, oder eine „<hi rendition="#g">ganze Cadenz</hi>”, bei
+				<pb facs="#f0066" n="51"/>
+            	<lb n="N001"/>welcher dem tonischen Durdreiklange der Oberdominantdrei¬
+				<lb n="N002"/>klang vorangeht, oder andere noch besonders zu besprechende
+				<lb n="N003"/>Accordfolgen in Anwendung bringen. Die Molltonart ge¬
+				<lb n="N004"/>braucht, wie schon bemerkt, jederzeit da den Oberdominantdrei¬
+				<lb n="N005"/>klang, wo die Durtonart den Unterdominantaccord benutzt und
+				<lb n="N006"/>umgekehrt, wie aus den folgenden Beispielen zu ersehen.
+            </p>
+         <figure type="notatedMusic"/>
+         <pb facs="#f0067" n="52"/>
+         <figure type="notatedMusic"/>
+            <p>
+				<lb n="N001"/>so bildet diese Folge zwar keinen <hi rendition="#g">Schlußfall</hi>, wol aber einen
+				<lb n="N002"/><hi rendition="#g">Einschnitt</hi>. Terzverwandte Dreiklänge aber, wie der A moll-
+				<lb n="N003"/>und C dur-, oder der E moll- und C dur-Dreiklang, erweisen
+				<lb n="N004"/>sich als so eng verbundene Accorde, daß ihre Folge nicht einmal
+				<lb n="N005"/>den Eindruck einer Cäsur hervorbringt.
+			</p>
+            <p>
+				<lb n="N001"/>Nur der tonische Dreiklang in der Grundlage kann als
+				<lb n="N002"/><hi rendition="#g">Schlußaccord</hi> und auf <hi rendition="#g">accentuirtem Tacttheile</hi> das be¬
+				<lb n="N003"/>friedigende Ende eines Tonstückes herbeiführen. Die oben mit¬
+				<lb n="N004"/>getheilten Cadenzen aber können auf die mannigfaltigste Weise
+				<lb n="N005"/>ausgeschmückt und erweitert werden. Eine besondere Kraft be¬
+				<lb n="N006"/>kommen dieselben, wenn Septimenharmonien sowol auf der
+				<lb n="N007"/>Unter- wie auf der Oberdominante Theil daran nehmen, und
+				<lb n="N008"/>namentlich charakterisirt der Dominantseptimenaccord eine
+				<lb n="N009"/>Tonart sehr bestimmt, indem er die beiden Dominanten der¬
+				<lb n="N010"/>selben mit den beiden Dissonanzen der Tonica, dem Leitetone
+				<lb n="N011"/>und der Secunde, gleichzeitig hören läßt.
+            	<figure type="notatedMusic"/>
+         	   <pb facs="#f0068" n="53"/>
+         	   <figure type="notatedMusic"/>
+            	<lb n="N001"/>So läßt auch die neuere Tonkunst oft hart vor dem Schlusse
+				<lb n="N002"/>noch einen oder mehrere der Tonart nicht eigene, sondern chro¬
+				<lb n="N003"/>matische Töne benutzende Accorde auftreten, um den Schluß¬
+				<lb n="N004"/>accord durch die Spannung, welche der ihm vorangehende
+				<lb n="N005"/>zuckende Strahl erregte, desto befriedigender wirken zu lassen.
+			</p>
+         <pb facs="#f0069" n="54"/>
+         <figure type="notatedMusic"/>
+            <p>
+				<lb n="N001"/>Nochmals ist hier darauf aufmerksam zu machen, daß be¬
+				<lb n="N002"/>sonders da, wo die <hi rendition="#g">innere</hi> harmonische Verbindung plötzlich
+				<lb n="N003"/>auftretender und wieder verschwindender, der Tonart fremder
+				<lb n="N004"/>Accorde augenblicklich schwer zu erfassen ist, die <hi rendition="#g">äußere</hi> Ver¬
+				<lb n="N005"/>bindung derselben <hi rendition="#g">durch eine natürliche Stimmenfüh¬</hi>
+				<lb n="N006"/><hi rendition="#g">rung</hi> um so mehr bewahrt werden muß.
+			</p>
+         </div>
+         <pb facs="#f0070" n="55"/>
+         <div type="chapter" n="1">
+			<head>
+				<lb n="N001"/><hi rendition="#b">Modulation.</hi>
+			</head>
+            <p>
+				<lb n="N001"/>Ein jedes Tonstück, welches einen nachhaltigen Eindruck
+				<lb n="N002"/>hinterlassen soll, wird bei der nothwendigen Einheit in Fär¬
+				<lb n="N003"/>bung und Charakter auch die Einheit einer bestimmten Tonart
+				<lb n="N004"/>bewahren müssen. Der <hi rendition="#g">Hauptsatz</hi>, welcher unser Interesse
+				<lb n="N005"/>in Anspruch nehmen soll, ist der Gegenstand der ihm folgenden
+				<lb n="N006"/>Besprechung und wird als Hauptsache auch die <hi rendition="#g">Haupttonart</hi>
+				<lb n="N007"/>in Anspruch nehmen; doch kann das Tonstück auch mit einer
+				<lb n="N008"/><hi rendition="#g">Einleitung</hi> beginnen, wie z. B. <hi rendition="#g"><persName>Beethoven</persName></hi>'s 
+				<lb n="N009"/>, durch welche der Zuhörer längere Zeit in Ungewißheit
+				<lb n="N010"/>über Thema und Tonart gehalten wird. Unsere heutige Dur-
+				<lb n="N011"/>oder Moll-Tonart bildet nun ihre Melodien und Harmonien
+				<lb n="N012"/>nicht einzig und allein aus ihren sieben Stammtönen, sondern
+				<lb n="N013"/>sie kann, wie wir bemerkt haben, auch alle übrigen Töne unse¬
+				<lb n="N014"/>res Systemes als chromatische Nebentöne benutzen. Um aber
+				<lb n="N015"/>den <hi rendition="#g">Hauptsatz</hi> als solchen auszuzeichnen, und ebenso die
+				<lb n="N016"/><hi rendition="#g">Haupttonart</hi> als solche auftreten zu lassen, wird ein sich in
+				<lb n="N017"/>einer <hi rendition="#g">Nebentonart</hi> bewegender <hi rendition="#g">Gegensatz</hi> nothwendig. Ein
+				<lb n="N018"/>kleineres Tonstück kann sich nun zwar mit einem Hauptsatze
+				<lb n="N019"/>begnügen, und einen modulatorischen Gegensatz schon in dem
+				<lb n="N020"/>bloßen Accorde der Oberdominante finden, bei einem größeren
+				<lb n="N021"/>aber wird sowol der Hauptsatz als der Gegensatz und deren
+				<lb n="N022"/>Tonarten bestimmter hervortreten müssen. Wenn nun die
+				<lb n="N023"/>ältere Tonkunst als modulatorischen Gegensatz fast ausschließ¬
+				<lb n="N024"/>lich die Tonart der Oberdominante erwählte, so ergreift die
+				<lb n="N025"/>neuere Tonkunst zu diesem Zwecke auch jede der oben als ver¬
+				<lb n="N026"/>wandt erkannten Tonarten; sie schmückt ferner ihre Tondich¬
+				<lb n="N027"/>tung nicht nur mit <hi rendition="#g">einer</hi>, sondern auch zuweilen mit <hi rendition="#g">mehre¬</hi>
+				<lb n="N028"/><hi rendition="#g">ren Episoden</hi> aus, und wählt für diese in Beziehung auf
+				<lb n="N029"/>die Haupttonart absichtlich oft die schärfsten modulatorischen
+				<lb n="N030"/>Gegensätze aus. Im ersten Theile eines jeden größeren Ton¬
+				<lb n="N031"/>stückes, in der Exposition, wird also am natürlichsten dem
+				<lb n="N032"/><hi rendition="#g">Hauptsatze</hi> in der Haupttonart ein <hi rendition="#g">Gegensatz</hi> in der Ne¬
+            	<pb facs="#f0071" n="56"/>
+            	<lb n="N001"/>bentonart und ein <hi rendition="#g">Schlußsatz</hi> in derselben Nebentonart folgen.
+				<lb n="N002"/>Im zweiten Theile aber beginnt der Kampf der beiden Gegen¬
+				<lb n="N003"/>sätze; der Knoten wird geschürzt, und die Modulation kann
+				<lb n="N004"/>nun, bei der jetzt beginnenden Durcharbeitung der Motive des
+				<lb n="N005"/>ersten Theiles, in die der Haupttonart entferntesten Töne
+				<lb n="N006"/>hinübergeführt werden. Die Verwicklung aber findet ihre Lö¬
+				<lb n="N007"/>sung, wenn sodann der Hauptsatz, nebst dem Gegensatze des
+				<lb n="N008"/>ersten Theiles, sowie der diesem folgende Schlußsatz in der
+				<lb n="N009"/><hi rendition="#g">Haupttonart</hi> ihre Versöhnung und ihren Vereinigungspunct
+				<lb n="N010"/>finden. Selbstverständlich aber ist die hier angedeutete Form
+				<lb n="N011"/>eines größeren Tonstückes, namentlich wenn dasselbe <hi rendition="#g">mehr</hi> als
+				<lb n="N012"/><hi rendition="#g">eine</hi> Episode auftreten läßt, der mannigfaltigsten Modifica¬
+				<lb n="N013"/>tionen und Erweiterungen fähig. So tritt der Hauptsatz na¬
+				<lb n="N014"/>mentlich im Finale der Sonate öfter als zweimal auf, während
+				<lb n="N015"/>der Gegensatz in dem kürzeren Andante zuweilen nur einmal
+				<lb n="N016"/>erscheint, und das Präludium häufig nur ein einziges Motiv
+				<lb n="N017"/>zur Durchführung benutzt, indem es seinen Gegensatz allein in
+				<lb n="N018"/>einer Nebentonart findet.
+            </p>
+            <p>
+				<lb n="N001"/>Bei der Modulation nun soll der Eindruck einer ersten
+				<lb n="N002"/>Tonart verlöscht und eine zweite in ihren charakteristischen
+				<lb n="N003"/>Momenten festgestellt werden. Einer in Beziehung auf die
+				<lb n="N004"/>erste <hi rendition="#g">erhöhten</hi> Tonart nähern wir uns <hi rendition="#g">gradweise</hi>, wenn
+				<lb n="N005"/>wir den Grundbaß des Dur- oder Moll-Hauptdreiklanges der
+				<lb n="N006"/>ersteren in einer Folge von Dreiklängen quintenweise steigen
+				<lb n="N007"/>(oder quartenweise fallen) lassen, und sodann den erlangten
+				<lb n="N008"/>tonischen Dreiklang der zweiten Tonart durch eine Cadenz als
+				<lb n="N009"/>solchen bezeichnen. Die Cadenz aber kann, wie in dem fol¬
+				<lb n="N010"/>genden Beispiele, ohne die Erscheinung des Hauptdreiklanges
+				<lb n="N011"/>abzuwarten, schon mit dem Auftreten eines der Dominant¬
+				<lb n="N012"/>accorde der neuen Tonart beginnen, doch ist hierbei wohl zu
+				<lb n="N013"/>beachten, daß die <hi rendition="#g">Molltonart</hi> jederzeit nur einen <hi rendition="#g">weichen</hi>
+				<lb n="N014"/>Unterdominantdreiklang benutzt.
+            	<figure type="notatedMusic"/>
+         	   <pb facs="#f0072" n="57"/>
+            	<lb n="N001"/>Wir konnten aber vom B dur-Dreiklange aus sogleich den
+				<lb n="N002"/><hi rendition="#g">weichen</hi> Unterdominantdreiklang der D dur-Tonart erreichen,
+				<lb n="N003"/>und von diesem ausgehend nun die Cadenz der neuen Tonart
+				<lb n="N004"/>beginnen:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Einer in Beziehung auf eine erste <hi rendition="#g">vertieften</hi> Tonart nähern
+				<lb n="N002"/>wir uns ebenso <hi rendition="#g">gradweise</hi>, wenn wir den Grundbaß des
+				<lb n="N003"/>tonischen Dreiklanges der ersteren quintenweise herab- (oder
+				<lb n="N004"/>quartenweise hinauf-) steigen lassen und sodann das ähnliche
+				<lb n="N005"/>oben angedeutete Verfahren beobachten; z. B.
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Auch hier konnten wir den weichen Unterdominantdreiklang der
+				<lb n="N002"/>D dur-Tonart benutzen und damit sogleich in die B dur-Tonart
+				<lb n="N003"/>hineinversetzt werden:
+            	<figure type="notatedMusic"/>
+			</p>
+            <p>
+				<lb n="N001"/>Der <hi rendition="#g">weiche Unterdominant-Dreiklang</hi> eines Dur-
+				<lb n="N002"/>Dreiklanges <hi rendition="#g">vertieft also jederzeit um vier Grad</hi>, wie der
+				<lb n="N003"/><hi rendition="#g">harte Oberdominant-Dreiklang</hi> eines herbeigeführten
+				<lb n="N004"/>Moll-Dreiklanges um <hi rendition="#g">vier Grad erhöhen</hi> wird.
+			</p>
+            <p>
+				<lb n="N001"/>Der Uebergang aus einer Tonart in die andere ist in den
+				<lb n="N002"/>vorstehenden Beispielen nur durch nahe verwandte Dreiklangs¬
+				<lb n="N003"/>harmonien <hi rendition="#g">allmälig</hi> herbeigeführt worden. Andere Mittel
+				<lb n="N004"/>zu dergleichen Modulationen aber bieten uns alle die in dem
+				<lb n="N005"/>Vorhergehenden ausführlich besprochenen Accordfolgen. So
+            	<pb facs="#f0073" n="58"/>
+            	<lb n="N001"/>können wir den tonischen Dreiklang der zu erreichenden Tonart
+				<lb n="N002"/>auch <hi rendition="#g">unvermittelt</hi> auftreten lassen und durch eine Cadenz als
+				<lb n="N003"/>solchen bezeichnen; z. B.
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Oder wir können den Uebergang durch den <hi rendition="#g">Dominantsep¬</hi>
+				<lb n="N002"/><hi rendition="#g">timenaccord der ersten oder der folgenden Tonart</hi>
+				<lb n="N003"/>vermitteln; z. B.
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Oder endlich auch die Vermittlung eines übermäßigen Drei¬
+				<lb n="N002"/>klanges, eines verminderten Septimenaccordes, oder einer her¬
+				<lb n="N003"/>beigeführten Trugfortschreitung in Anspruch nehmen; z. B.
+            	<figure type="notatedMusic"/>
+			</p>
+            <p>
+				<lb n="N001"/>Aber nicht nur, um die Episoden eines Tonstückes entweder
+				<lb n="N002"/>sanft vorbereitet oder plötzlich überraschend einzuführen, son¬
+				<lb n="N003"/>dern auch, um dem Hauptsatze selbst durch eine vorübergehende
+				<lb n="N004"/>Ausweichung ein dunkleres oder ein lebhafteres Colorit zu
+				<lb n="N005"/>verleihen und um die verbindenden Gänge und Passagen har¬
+				<lb n="N006"/>monisch reicher auszustatten, bringt der Tonsetzer bald die eine,
+				<lb n="N007"/>bald die andere der oben angedeuteten Modulationen in Wirk¬
+            	<pb facs="#f0074" n="59"/>
+            	<lb n="N001"/>samkeit. Wie aber die Wahl dieser dem festgehaltenen Charak¬
+				<lb n="N002"/>ter eines sinnigen Tonstückes entsprechenden Ausweichungen und
+				<lb n="N003"/>Uebergänge dem Tonsetzer überlassen bleibt, so muß es ihm
+				<lb n="N004"/>auch vergönnt sein, entweder eine der schon vorhandenen Kunst¬
+				<lb n="N005"/>formen zu benutzen, oder eine ebenso berechtigte neue Form zu
+				<lb n="N006"/>schaffen, um den Inhalt seiner Tondichtung zum lebendigen
+				<lb n="N007"/>und verständlichen Ausdruck zu bringen. Der feinfühlende
+				<lb n="N008"/>Künstler wird — selbst der Wahrheit und Bestimmtheit des
+				<lb n="N009"/>Ausdrucks zu Liebe — niemals die Anmuth und Schönheit zum
+				<lb n="N010"/>Opfer bringen, aber nicht der einseitig befangene Kritiker, son¬
+				<lb n="N011"/>dern eben nur der Geweihte, dessen Brust von dem göttlichen
+				<lb n="N012"/>Funken der Kunst erglüht, ist dazu berufen, die Grenzen des
+				<lb n="N013"/>Schönen zu bestimmen.
+			</p>
+         </div>
+         <div type="chapter" n="1">
+			<head>
+				<lb n="N001"/><hi rendition="#b">Die <date>heutige</date> Chromatik und Enharmonik.</hi>
+			</head>
+            <p>
+				<lb n="N001"/>Die neuere Tonkunst faßt die chromatischen und enhar¬
+				<lb n="N002"/>monischen Töne anders auf als die ältere. Diese betrachtet
+				<lb n="N003"/>jeden chromatischen Ton als Bestandtheil einer Harmonie der¬
+				<lb n="N004"/>jenigen Tonart, in welcher er eben keinen <hi rendition="#g">chromatischen</hi>,
+				<lb n="N005"/>sondern einen <hi rendition="#g">Stammton</hi> bildet; jene aber nimmt die chro¬
+				<lb n="N006"/>matischen Töne so lange als <hi rendition="#g">Nebentöne einer bestimmten</hi>
+				<lb n="N007"/><hi rendition="#g">Tonart</hi>, bis dieselben durch eine Ausweichung sich zu
+				<lb n="N008"/>Stammtönen einer von dieser verschiedenen Tonart erheben.
+				<lb n="N009"/>Die ältere Tonkunst sieht ferner in zwei enharmonischen Tönen,
+				<lb n="N010"/>wie z. B. hier in fis und ges:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>welche sie nur in ihrer <hi rendition="#g">akustisch reinen</hi> Bedeutung gelten
+				<lb n="N002"/>läßt, etwas durchaus Verschiedenes und niemals Zusammen¬
+            	<pb facs="#f0075" n="60"/>
+            	<lb n="N001"/>treffendes; die neuere hingegen erkennt in denselben nur zwei
+				<lb n="N002"/>unter verschiedenen Namen auftretende aber gleichklingende
+				<lb n="N003"/>Töne des <hi rendition="#g">gleichschwebend temperirten</hi> Systemes. So
+				<lb n="N004"/>sieht die letztere in dem bei 1 folgenden Beispiele nur das mit
+				<lb n="N005"/>chromatischen Nebentönen verzierte Beispiel bei 2, während die
+				<lb n="N006"/>ältere Tonkunst jedem der hier zu dem C dur-Dreiklange auf¬
+				<lb n="N007"/>tretenden chromatischen Durchgangstöne fis, cis, gis, dis und
+				<lb n="N008"/>ais eine harmonische Bedeutung zu geben versucht.
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Die ältere Theorie muß demnach die untenstehenden Beispiele
+				<lb n="N002"/>von <hi rendition="#g"><persName>Beethoven</persName></hi> und <hi rendition="#g"><persName>Hauptmann</persName></hi> gänzlich verwerfen, weil
+				<lb n="N003"/>sie nicht im Stande ist, die hier zusammentreffenden Töne as,
+				<lb n="N004"/>cis, e bei 1 und ebenso die bei 2: c, eis, gis, h, d in irgend
+				<lb n="N005"/>eine Beziehung mit den Harmonien einer und derselben Tonart
+				<lb n="N006"/>zu bringen. Die neuere Theorie aber sieht in dem Zusammen¬
+				<lb n="N007"/>klange cis, e, as die regelmäßige chromatische Verzögerung des
+				<lb n="N008"/>folgenden Accordes d, f, as über dem Haltetone g, und in dem
+				<lb n="N009"/>bei 2: d, c, eis, gis, h eine eben solche Verzögerung des Do¬
+				<lb n="N010"/>minantseptimenaccordes d, fis, a, c. Sie findet in dergleichen
+				<lb n="N011"/>chromatischen Zusammenklängen demnach jederzeit nur <hi rendition="#g">Ver¬</hi>
+				<lb n="N012"/><hi rendition="#g">schärfungen</hi> derjenigen Harmonie, welche erkennbar wird, wenn
+				<lb n="N013"/>man ihnen die der Tonart fremden Versetzungszeichen entzieht.
+			</p>
+            <p>
+				<lb n="N001"/>Es lassen sich demgemäß sowol Dreiklänge als Sep¬
+				<lb n="N002"/>timenaccorde durch Harmonien verzögern, welche weder den
+				<lb n="N003"/>früher besprochenen Dreiklängen noch Septimenaccorden zuge¬
+				<lb n="N004"/>zählt werden können, sondern eben nur als <hi rendition="#g">chromatische</hi>
+				<lb n="N005"/><hi rendition="#g">Verzögerungen</hi> der ihnen folgenden Harmonien ihre Bedeu¬
+				<lb n="N006"/>tung und Rechtfertigung finden; z. B.
+			</p>
+         <pb facs="#f0076" n="61"/>
+            <p>
+				<lb n="N001"/><hi rendition="#i"><persName>Beethoven</persName></hi>, .
+			</p>
+         <pb facs="#f0077" n="62"/>
+         <figure type="notatedMusic"/>
+            <p>
+				<lb n="N001"/>Es wäre nicht zu rathen, ein Tonstück mit vielen solcher scharfen
+				<lb n="N002"/>Dissonanzen anzufüllen, namentlich würden dieselben in Vocal¬
+				<lb n="N003"/>compositionen, aus oben angeführten Gründen, zu vermeiden
+				<lb n="N004"/>sein, aber so wenig man das Roth als zu grell hervorstechend
+				<lb n="N005"/>aus der Malerei gänzlich verbannen würde, ebenso wenig wird
+				<lb n="N006"/>man einen haltbaren Grund auffinden können, jene schroff und
+				<lb n="N007"/>seltsam klingenden Harmonien gänzlich zu verwerfen. Wie ge¬
+				<lb n="N008"/>fährlich es wäre, dem Schüler die unbeschränkte Benutzung
+				<lb n="N009"/>solcher scharfen Dissonanzen frei zu geben, braucht hier wol
+				<lb n="N010"/>nicht erst bemerkt zu werden. Dem Meister aber darf kein
+				<lb n="N011"/>seinem Zwecke entsprechendes Mittel einer befangenen Theorie
+				<lb n="N012"/>wegen entzogen werden.
+			</p>
+            <p>
+				<lb n="N001"/>Mit der hier aufgestellten Theorie der hinauf- und herab¬
+				<lb n="N002"/>schreitenden Vorhalte und chromatischen Verzögerungen ist nun
+				<lb n="N003"/>die Möglichkeit der Bildung einer unendlich großen Anzahl
+				<lb n="N004"/><hi rendition="#g">neuer</hi> Accorde und Zusammenklänge eröffnet. Wie aber der
+				<lb n="N005"/>Tonsetzer die Verantwortung seiner neugeschaffenen <hi rendition="#g">Melodien</hi>
+				<lb n="N006"/>auf sich nimmt, so hat er auch seine neu gebildeten <hi rendition="#g">Harmo¬</hi>
+				<lb n="N007"/><hi rendition="#g">nien</hi> zu vertreten. Ein Tonstück wird sich um so reiner und
+				<lb n="N008"/>edler gestalten, je mehr die consonirenden Dreiklangsharmonien
+				<lb n="N009"/>und die der Tonart eigenen gebundenen Vorhalte in demselben
+				<lb n="N010"/>vorherrschen; aber wie der Zweck der Tonkunst nicht ein rein
+				<lb n="N011"/>sinnlicher Ohrenkitzel, ein gedankenloses Schwelgen in wol¬
+				<lb n="N012"/>lüstigen Wohlklängen sein kann, so sollen auch nicht alle Mittel,
+				<lb n="N013"/>deren sie sich zu ihrem wahren Zwecke, <hi rendition="#g">innere Seelenzu¬</hi>
+				<lb n="N014"/><hi rendition="#g">stände treu und wahr zu schildern</hi>, bedient, nur in ange¬
+				<lb n="N015"/>nehm, weich oder schwülstig klingenden Melodien und Harmo¬
+				<lb n="N016"/>nien bestehen. Die Qual des an den Felsen geschmiedeten, den
+				<lb n="N017"/>Göttern trotzenden Titanen verlangt einen anderen Ausdruck,
+				<lb n="N018"/>als das Leiden des am Kreuze schmachtenden, gottergebenen
+				<lb n="N019"/>Heilandes. Es muß also dem wohlleitenden Gefühle des be¬
+				<lb n="N020"/>gabten Tonsetzers überlassen bleiben, seinen Melodien einen
+            	<pb facs="#f0078" n="63"/>
+            	<lb n="N001"/>ruhig dahingleitenden oder einen stürmisch aufbrausenden Gang
+				<lb n="N002"/>zu verleihen. Es muß ihm ebenso überlassen bleiben, zu
+				<lb n="N003"/>seinen Harmonien die weichsten und üppigsten oder die schnei¬
+				<lb n="N004"/>dendsten und rauhesten Accorde, die natürlichsten oder die
+				<lb n="N005"/>schroffsten Fortschreitungen derselben auszuwählen und zu be¬
+				<lb n="N006"/>nutzen. Er muß deßhalb auch die Mittel alle kennen, welche
+				<lb n="N007"/>ihm zu Gebote stehen. Er muß nach eigenem Ermessen harte
+				<lb n="N008"/>Dissonanzen durch Bindungen weicher und fließender machen
+				<lb n="N009"/>können, er muß sinnlose Terzen-, Sexten-, Quinten-, Octaven-,
+				<lb n="N010"/>Secunden- oder Septimenparallelen vermeiden können, aber
+				<lb n="N011"/>er muß auch nicht davor zurückschrecken, eine charakteristisch be¬
+				<lb n="N012"/>zeichnende, zweckentsprechende, den treuen Ausdruck der Wahr¬
+				<lb n="N013"/>heit treffende Melodie oder Accordfolge zu gebrauchen, weil sie
+				<lb n="N014"/>vielleicht nicht den Anforderungen eines verweichlichten Ohres
+				<lb n="N015"/>oder einer herrschenden Theorie entspricht. Mit den zuletzt auf¬
+				<lb n="N016"/>gestellten chromatischen Verzögerungen, und mit dem Bemerken,
+				<lb n="N017"/>daß die oben besprochenen Haltetöne unter den erwähnten Be¬
+				<lb n="N018"/>dingungen auch zuweilen in der Ober- oder in einer Mittel¬
+				<lb n="N019"/>stimme wirkungsvoll angewendet werden können, haben wir aber
+				<lb n="N020"/>zugleich die Möglichkeit zur Bildung solcher dissonirender Zu¬
+				<lb n="N021"/>sammenklänge, welche sich theoretisch erklären und rechtfertigen
+				<lb n="N022"/>lassen, bis auf ihre äußersten Grenzen ausgedehnt. Wir erbitten
+				<lb n="N023"/>also für diese Blätter ein strenges, aber unbefangenes Urtheil
+				<lb n="N024"/>und schließen mit den Worten:
+            	<lb n="N001"/>„<hi rendition="#g">Prüfet Alles, und das Beste behaltet</hi>!”
+			</p>
+         </div>
+         <pb facs="#f0079"/>
+         <pb facs="#f0080"/>
+         <pb facs="#f0081"/>
+         <pb facs="#f0082"/>
+         <pb facs="#f0083"/>
+         <pb facs="#f0084"/>
+         <pb facs="#f0085"/>
+      </body>
+   </text>
+</TEI>

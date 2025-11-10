@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Weitzmann1861</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>tranScriptorium</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <publisher>TRP document creator: maikkoester@hotmail.de</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+   	<front>
+   	  <pb facs="#f0001"/>
+         <pb facs="#f0002"/>
+         <pb facs="#f0003"/>
+         <pb facs="#f0004"/>
+         <pb facs="#f0005"/>
+         <pb facs="#f0006"/>
+   		<titlePage type="main">
+				<docTitle>
+           	 	<titlePart type="main">
+           	 		<lb n="N001"/>Die
+						<lb n="N002"/><hi rendition="#b">Neue Harmonielehre</hi>
+						<lb n="N003"/>im
+						<lb n="N004"/><hi rendition="#g">Streit mit der alten</hi>
+           	 	</titlePart>
+				</docTitle>
+				<byline>
+					<lb n="N005"/>von
+					<lb n="N006"/><docAuthor><hi rendition="#b">C. F. Weitzmann</hi></docAuthor>.
+					<lb n="N007"/><hi rendition="#g">Mit einer musikalischen Beilage:</hi>
+					<lb n="N008"/><hi rendition="#b">Albumblätter zur Emancipation der Quinten,</hi>
+					<lb n="N009"/>und
+					<lb n="N010"/><hi rendition="#b">Anthologie klassischer Quintenparallelen.</hi>
+				</byline>
+				<docImprint>
+					<lb n="N011"/><pubPlace>Leipzig</pubPlace>,
+					<lb n="N012"/><publisher>Verlag von C. F. Kahnt</publisher>.
+				</docImprint>
+			</titlePage>
+   	</front>
+      <body>
+         <pb facs="#f0007"/>
+         <pb facs="#f0008"/>
+            <p>
+				<lb n="N001"/>In einer bei der Tonkünstler-Versammlung zu <placeName ref="#L0022">Leipzig</placeName> am
+				<lb n="N002"/><date>3. Juni 1859</date> gehaltenen  über die Geschichte der
+				<lb n="N003"/>Harmonie und ihrer Lehre, welche in den vier ersten Nummern
+				<lb n="N004"/>des 51. Bandes der „” (<placeName ref="#L0022">Leipzig</placeName>
+				<lb n="N005"/>bei Kahnt) nachzusehen ist, und welcher die Ehre zu Theil ward,
+				<lb n="N006"/>in einer <placeName ref="#L0034">Wiener</placeName> Musik-Zeitung nachgedruckt zu werden, er¬
+				<lb n="N007"/>wähnte ich des von Herrn Dr. <hi rendition="#g"><persName>Brendel</persName></hi> ausgesetzten Preises
+				<lb n="N008"/>für eine theoretische Schrift, in welcher die harmonischen Frei¬
+				<lb n="N009"/>heiten, die anerkannte Tonmeister, wie <hi rendition="#g"><persName>Beethoven</persName></hi>, <hi rendition="#g"><persName>Schu¬
+				<lb n="N010"/>mann</persName></hi>, <hi rendition="#g"><persName>Berlioz</persName></hi>, <hi rendition="#g"><persName>Wagner</persName></hi>, <hi rendition="#g"><persName>Liszt</persName></hi> u. A. bereits erkämpft
+				<lb n="N011"/>haben, nun auch als rechtlich begründet dargestellt werden soll¬
+				<lb n="N012"/>ten. Zugleich deutete ich an, auf welche Weise eine solche
+				<lb n="N013"/>Schrift aufgefaßt werden könnte. Viele der damals dort an¬
+				<lb n="N014"/>wesenden Musiker drückten hierauf den Wunsch aus, daß ich
+				<lb n="N015"/>selbst mich bei der deshalb eröffneten Concurrenz betheiligen
+				<lb n="N016"/>möchte. Auf meine Erwiederung, daß ich schon als Preisrichter
+				<lb n="N017"/>bei dieser Angelegenheit bethätigt sei, wurde mir nachgewiesen,
+				<lb n="N018"/>daß in der Einladung zu dieser Concurrenz etwaige Arbeiten
+				<lb n="N019"/>der drei Preisrichter nicht ausgeschlossen seien, da, wenn auch
+				<lb n="N020"/>einer derselben die Beurtheilung eines bestimmten Werkes ab¬
+				<lb n="N021"/>lehnen sollte, den beiden andern Richtern immer dennoch das
+				<lb n="N022"/>Auszeichnen oder das Verwerfen desselben frei stehe. Hierdurch
+				<lb n="N023"/>ermuthigt, unternahm ich die Ausarbeitung meines Harmonie¬
+				<lb n="N024"/>systemes, welche das Glück hatte, von den beiden anderen
+				<lb n="N025"/>Herren Preisrichtern als die Beste erkannt und mit dem Preise
+				<lb n="N026"/>gekrönt zu werden.
+			</p>
+            <p>
+				<lb n="N001"/>Eine erste wissenschaftliche Grammatik der Tonsprache hat
+				<lb n="N002"/>uns mein hochverehrter Lehrer <persName>M. <hi rendition="#g">Hauptmann</hi></persName> gegeben,
+				<lb n="N003"/>wie ich schon in der oben erwähnten  öffentlich und
+            	<pb facs="#f0009" n="4"/>
+            	<lb n="N001"/>nachdrücklich ausgesprochen habe. <hi rendition="#g">Diese</hi> aber ist nur theore¬
+				<lb n="N002"/>tisch, also ganz abstrakt, auf ein ideales, <hi rendition="#g">reines Tonsystem</hi>
+				<lb n="N003"/>gebaut, und stellte es sich zur Aufgabe, die allgemeinen Natur¬
+				<lb n="N004"/>gesetze der Harmonik und der Metrik zu ergründen, nicht aber eine
+				<lb n="N005"/>praktische Harmonielehre darzubieten. Diese Grundgesetze nun
+				<lb n="N006"/>werden freilich in jeder guten Theorie dieselben sein, denn sie
+				<lb n="N007"/>sind nicht von <hi rendition="#g"><persName>Hauptmann</persName> erfunden</hi>, wie einer meiner
+				<lb n="N008"/>Kritiker behauptete, sondern von ihm zum ersten Male wissen¬
+				<lb n="N009"/>schaftlich festgestellt worden.
+			</p>
+            <p>
+				<lb n="N001"/>Meine Aufgabe dagegen war es, nicht allein jene allge¬
+				<lb n="N002"/>meinen Gesetze und deren praktische Anwendung gedrängt und
+				<lb n="N003"/>präcis gefaßt <hi rendition="#g">vollständig</hi> mitzutheilen, — und daß ich hier¬
+				<lb n="N004"/>bei das so eben erwähnte beste der darüber vorhandenen 
+				<lb n="N005"/>benutzte, wird mir gewiß Niemand zum Vorwurf machen, dem
+				<lb n="N006"/>es wie mir darum zu thun ist, Alles wohl zu prüfen und so¬
+				<lb n="N007"/>dann das Rechte zu bewahren, — sondern auch, und das ist
+				<lb n="N008"/>, <hi rendition="#g">alle</hi>
+				<lb n="N009"/>in der heutigen <hi rendition="#g">gebildeten Tonsprache</hi> gebräuchlichen <hi rendition="#g">Aus¬</hi>
+				<lb n="N010"/><hi rendition="#g">nahmen</hi> von den allgemeinen Regeln zu sammeln, zu sichten,
+				<lb n="N011"/>systematisch zu ordnen und ihre theoretische Berechtigung und
+				<lb n="N012"/>praktische Verwendbarkeit nachzuweisen.
+			</p>
+            <p>
+				<lb n="N001"/> wurde zuerst in der oben erwähnten
+				<lb n="N002"/>, und sodann noch besonders bei dem Verleger der¬
+				<lb n="N003"/>selben abgedruckt. Der Zweck der vorliegenden Blätter aber
+				<lb n="N004"/>ist es, mehrere der dort aufgestellten und von der Kritik ange¬
+				<lb n="N005"/>griffenen Sätze zu vertheidigen, Manches dort zu sehr Ge¬
+				<lb n="N006"/>drängte oder Mißverstandene zu erweitern und klarer darzu¬
+				<lb n="N007"/>stellen, und endlich auch dahin zu wirken, eine <hi rendition="#g">Gleichheit in</hi>
+				<lb n="N008"/><hi rendition="#g">der musikalischen Terminologie</hi> zu erzielen, da fast eine
+				<lb n="N009"/>jede Tonlehre für gewisse <hi rendition="#g">bestimmte Begriffe</hi> ganz <hi rendition="#g">ver¬</hi>
+				<lb n="N010"/><hi rendition="#g">schiedene</hi> Namen aufstellt, so daß die Schüler verschiedener
+				<lb n="N011"/>Lehrer sich über dergleichen Gegenstände niemals verständigen
+				<lb n="N012"/>oder vereinigen können. Diejenige Grammatik aber scheint mir
+				<lb n="N013"/>den Vorzug zu verdienen, welche bei größter Klarheit und Ver¬
+				<lb n="N014"/>ständlichkeit ihre Regeln so bestimmt und zugleich so umfassend
+				<lb n="N015"/>aufstellt, daß sie die früher als Ausnahmen erklärten einzelnen
+				<lb n="N016"/>Fälle zugleich mit in sich begreift, und auch über deren richtige
+				<lb n="N017"/>Anwendung keinen Zweifel übrig läßt. Ob nun mein Harmo¬
+            	<pb facs="#f0010" n="5"/>
+            	<lb n="N001"/>niesystem die Grundzüge einer solchen Grammatik der Ton¬
+				<lb n="N002"/>sprache enthalte, und deshalb wohl geeignet wäre, die frühere
+				<lb n="N003"/>Lehre der Harmonie nicht allein zu vereinfachen und klarer zu
+				<lb n="N004"/>gestalten, sondern auch die bei den besten unserer Tonmeister
+				<lb n="N005"/>vorkommenden, früher aber als Ausnahmen dargestellten Fälle
+				<lb n="N006"/>zu erklären, auf Grund derselben ähnliche, bisher noch nicht
+				<lb n="N007"/>gewagte, neue harmonische Bildungen und Folgen als anwend¬
+				<lb n="N008"/>bar zu rechtfertigen, und zugleich eine allgemein verständliche
+				<lb n="N009"/>und präcise musikalische Terminologie festzustellen, das unbe¬
+				<lb n="N010"/>fangen und vorurtheilsfrei <hi rendition="#g">recht streng und gewissenhaft</hi>
+				<lb n="N011"/><hi rendition="#g">selbst zu untersuchen</hi>, lege ich allen deutschen Tonlehrern
+				<lb n="N012"/>dringend an's Herz.
+            </p>
+            <p>
+				<lb n="N001"/>Wenn ich in dem Folgenden vorzugsweise den Angriffen
+				<lb n="N002"/>des Herrn <hi rendition="#g"><persName>Selmar Bagge</persName></hi> (in der 
+				<lb n="N003"/>) begegne, so geschieht es deshalb, weil dieser
+				<lb n="N004"/>mehr wort- als gedankenscharfe <persName>Kritiker</persName> sich zuerst der, wie er
+				<lb n="N005"/>behauptet, „<hi rendition="#g">der Natur der Sache nach</hi> etwas trockenen
+				<lb n="N006"/>Aufgabe” unterzogen hat,  einer näheren Prüfung
+				<lb n="N007"/>zu unterwerfen, während andere Zeitschriften sich damit be¬
+				<lb n="N008"/>gnügten, zusammenhanglose Auszüge aus jener  zu
+				<lb n="N009"/>geben, oder sich „im Ganzen ganz einverstanden mit den An¬
+				<lb n="N010"/>sichten des <persName>Herrn S. B.</persName>” erklärten.
+			</p>
+            <p>
+				<lb n="N001"/>Zunächst findet es <persName>der genannte Kritiker</persName> „sonderbar”, daß
+				<lb n="N002"/>ich gleich im ersten Satze  gesagt habe: es handle
+				<lb n="N003"/>sich um Errungenschaften, die man in „neueren” Werken „<hi rendition="#g">an¬</hi>
+				<lb n="N004"/><hi rendition="#g">erkannter praktischer Meister</hi>” finde, da doch, was
+				<lb n="N005"/>„anerkannt” sei, nicht erst einer erläuternden Rechtfertigung
+				<lb n="N006"/>bedürfe. Ich erwiedere hierauf, daß neue harmonische Wag¬
+				<lb n="N007"/>nisse, wie wir sie selbst in „älteren” Werken anerkannter prak¬
+				<lb n="N008"/>tischer Meister finden, allerdings so lange einer erläuternden
+				<lb n="N009"/>Rechtfertigung bedürfen, als die Theorie nicht den vernünftigen
+				<lb n="N010"/>Grund derselben erkannt dergleichen Ausnahmen zu neuen
+				<lb n="N011"/>Regeln erhoben, und solche Errungenschaften sodann als ge¬
+				<lb n="N012"/>setzlich giltig dargestellt hat. Ich erinnere hier nur an die
+				<lb n="N013"/>vielen Auslegungen und Erläuterungen der Einleitung des
+				<lb n="N014"/> von <hi rendition="#g"><persName>Mozart</persName></hi> (S. z. B. <persName>G. <hi rendition="#g">Weber</hi></persName>, 
+				<lb n="N015"/>, 3. Aufl., 3. B. Seite 196—266), deren Har¬
+				<lb n="N016"/>monien allen Musikern verständlich erscheinen werden, welche
+            	<pb facs="#f0011" n="6"/>
+            	<lb n="N001"/>zu deren Erklärung meine Theorie der regelmäßigen diatoni¬
+				<lb n="N002"/>schen und chromatischen Verzögerungen der Töne eines Accor¬
+				<lb n="N003"/>des zu Grunde legen, wie ich weiter unten zu beweisen gedenke.
+			</p>
+            <p>
+				<lb n="N001"/>Herr <hi rendition="#g"><persName>Bagge</persName></hi> hält es für „<hi rendition="#g">wenig wissenschaftlich</hi>”
+				<lb n="N002"/>daß ich mich in  ganz auf <hi rendition="#g">allgemeinem</hi> Bo¬
+				<lb n="N003"/>den gehalten und vermieden hätte, bestimmte angefochtene oder
+				<lb n="N004"/>anfechtbare Stellen in den „neuesten Kunstschöpfungen” zu zer¬
+				<lb n="N005"/>gliedern und ihre Correctheit zu beweisen. Dieser Vorwurf
+				<lb n="N006"/>aber ist ganz ungerechtfertigt. Das Zusammenstellen und Er¬
+				<lb n="N007"/>klären einer gewissen Anzahl von Beispielen ist noch keine
+				<lb n="N008"/>Wissenschaft, denn diese soll ja eben alle jene Einzelfälle
+				<lb n="N009"/>zurückführen auf ihre <hi rendition="#g">Principien</hi>, um aus diesen sodann
+				<lb n="N010"/><hi rendition="#g">Lehrsätze</hi> herzuleiten, welche nicht allein auf jene besonderen
+				<lb n="N011"/>Fälle anzuwenden sind, sondern eine <hi rendition="#g">allgemeine</hi> Giltigkeit
+				<lb n="N012"/>haben. In meinem nach solchen Principien geordneten Systeme
+				<lb n="N013"/>aber habe ich Lehrsätze aufgestellt, nach denen ein jeder Musiker
+				<lb n="N014"/>auch die combinirtesten harmonischen Gebilde und Wendungen
+				<lb n="N015"/>in den Werken älterer und neuerer Tonmeister zu erklären
+				<lb n="N016"/>wissen wird.
+			</p>
+            <p>
+				<lb n="N001"/>Herr <persName>S. B.</persName> führt weiterhin nur eine, ihm selbst nach
+				<lb n="N002"/> unerklärbar gebliebene Stelle an,
+				<lb n="N003"/>nämlich den Anfang der  von <hi rendition="#g"><persName>Liszt</persName></hi>.
+				<lb n="N004"/>Abstrahiren wir von der daselbst der Bequemlichkeit der Spieler
+				<lb n="N005"/>wegen gewählten Schreibweise, und führen die contrapunktische
+				<lb n="N006"/>auf die harmonische Stimmenführung zurück, so erscheinen die
+				<lb n="N007"/>drei ersten Zusammenklänge als Verzögerungen der Töne des
+				<lb n="N008"/>gis moll-Dreiklanges (in der Terzsextlage), und der diesem
+				<lb n="N009"/>folgende übermäßige Dreiklang (c e gis) als ähnliche regel¬
+				<lb n="N010"/>mäßige Verzögerung des cis moll-Dreiklanges in der Grund¬
+				<lb n="N011"/>lage):
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Schreiben und hören wir aber auch den dritten Zusammenklang
+				<lb n="N002"/>als den c moll-Accord (in der Quartsextlage), so verwechselt
+				<lb n="N003"/>Herr <persName>B.</persName> dennoch hier, wie an andern Stellen, die Begriffe
+				<lb n="N004"/><hi rendition="#g">Accord</hi> und <hi rendition="#g">Tonart</hi>, wenn er „den schreiendsten Querstand
+            	<pb facs="#f0012" n="7"/>
+            	<lb n="N001"/>des vorhergehenden e und a zu dem es und as der c moll-
+				<lb n="N002"/>Tonart zu vernehmen meint, denn nicht ein <hi rendition="#g">einzelner</hi> Accord,
+				<lb n="N003"/>sondern erst eine gewisse <hi rendition="#g">Folge von Accorden</hi> vermag uns
+				<lb n="N004"/>den Begriff einer bestimmten Tonart zu geben. Wie <hi rendition="#g"><persName>Mozart</persName></hi>
+				<lb n="N005"/>in der oben erwähnten Einleitung seines , so
+				<lb n="N006"/>läßt auch <hi rendition="#g"><persName>Liszt</persName></hi> den Zuhörer längere Zeit in Ungewißheit
+				<lb n="N007"/>über die Tonart seiner .
+			</p>
+            <p>
+				<lb n="N001"/>Zum Beweise aber, daß auch der feinfühlende <hi rendition="#g"><persName>Mozart</persName></hi>
+				<lb n="N002"/>motivirte Querstände und andere harmonische Härten gehörigen
+				<lb n="N003"/>Ortes nicht unschön gefunden hat, möge der vielbesprochene
+				<lb n="N004"/>Anfang jener Einleitung auch hier eine Stelle und zugleich
+				<lb n="N005"/>seine nach <hi rendition="#g">meiner</hi> Theorie sehr einfache Erklärung finden:
+				<figure type="notatedMusic"/>
+            	<lb n="N001"/><persName>Mozart</persName> beginnt mit dem As dur-Dreiklange (in der Terz¬
+				<lb n="N002"/>sextlage), diesem folgt der <span type="figured-bass" rend="stacked"> <span>6</span> <span>5</span></span>-Accord c es g a, der eine regel¬
+				<lb n="N003"/>mäßige Trugfortschreitung in den Secundaccord c d fis a
+				<lb n="N004"/>nimmt und dieser löst sich sodann in den durch zwei Vorhalte
+				<lb n="N005"/>verzögerten G dur-Dreiklang (in der <span type="figured-bass" rend="stacked"> <span>6</span>  <span>3</span></span>-Lage) auf. Das h des
+				<lb n="N006"/>Basses bleibt nun als <hi rendition="#g">Halteton</hi> liegen, über welchem der
+				<lb n="N007"/>h moll-Dreiklang und sodann der verminderte Dreiklang fis a c
+				<lb n="N008"/>erscheint, der endlich regelmäßig in den G dur-Dreiklang über¬
+				<lb n="N009"/>geht:
+            	<figure type="notatedMusic"/>
+            </p>
+         <pb facs="#f0013" n="8"/>
+            <p>
+				<lb n="N001"/>Die hierauf folgende Phrase ist eine Sequenz der vor¬
+				<lb n="N002"/>stehenden. Quarten-Parallelen aber, welche Herr <hi rendition="#g"><persName>Bagge</persName></hi>
+				<lb n="N003"/>oben bei <hi rendition="#g"><persName>Liszt</persName></hi> in einem diesem Meister gegenüber keineswegs
+				<lb n="N004"/>geziemenden Tone rügt, kann derselbe z. B. zu je zweien und
+				<lb n="N005"/>dreien und zwar ganz leer auftretend, in dem Finale der
+				<lb n="N006"/><persName><hi rendition="#g">Mozart</hi>'schen</persName>  nachsehen.
+			</p>
+            <p>
+				<lb n="N001"/>Die ebenfalls oft besprochene Stelle in <hi rendition="#g"><persName>Beethovens</persName></hi>
+				<lb n="N002"/>:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>hat bisher nur bei den <hi rendition="#g">Aesthetikern</hi> eine „Entschuldigung”
+				<lb n="N002"/>finden können. Nach meinem System findet sie eine natürliche
+				<lb n="N003"/><hi rendition="#g">theoretische</hi> Erklärung, wenn man die Töne es und g des
+				<lb n="N004"/>Hornes als <hi rendition="#g">regelmäßige</hi>, aber <hi rendition="#g">frei auftretende</hi> Ver¬
+				<lb n="N005"/>zögerungen der Töne d und f des vom ganzen Orchester an¬
+				<lb n="N006"/>gegebenen, folgenden Dominantseptimenaccordes betrachtet:
+            	<figure type="notatedMusic"/>
+         	   <pb facs="#f0014" n="9"/>
+            	<lb n="N001"/>In die oberen Stimmen gelegt, wie hier im zweiten Beispiele,
+				<lb n="N002"/>sind diese Verzögerungen heut sogar kaum noch auffallend.
+			</p>
+            <p>
+				<lb n="N001"/>Mein  verdankt überhaupt seine Entstehung
+				<lb n="N002"/>nur der Ueberzeugung, daß <hi rendition="#g">geweihte Künstler</hi>, wie
+				<lb n="N003"/><hi rendition="#g"><persName>Mozart</persName></hi>, <hi rendition="#g"><persName>Beethoven</persName></hi>, <hi rendition="#g"><persName>Schumann</persName></hi>, <hi rendition="#g"><persName>Liszt</persName></hi> und <hi rendition="#g"><persName>Wag¬
+				<lb n="N004"/>ner</persName></hi>, nicht unlogisch schreiben können, wenn auch der Sinn des
+				<lb n="N005"/>nur ihnen eigenthümlichen Styles nicht Allen, und besonders,
+				<lb n="N006"/>bei dem bisherigen Stande der Theorie, nicht ohne erläuternde
+				<lb n="N007"/>Erklärung, sogleich verständlich erscheint.
+			</p>
+            <p>
+				<lb n="N001"/><persName>Der genannte Kritiker</persName> scheint übrigens in 
+				<lb n="N002"/>nur anzugreifende Sätze aufgesucht, dieselbe außerdem aber
+				<lb n="N003"/>ganz oberflächlich durchgesehen zu haben, so daß sein Ausspruch:
+				<lb n="N004"/>Alles aus Opposition! wohl mehr auf , als auf
+				<lb n="N005"/> anzuwenden ist. Er behauptet z. B.: „Auch der
+				<lb n="N006"/>Name <hi rendition="#g"><persName>Schumann</persName></hi>, an den sich viele interessante Bemerkungen
+				<lb n="N007"/>hätten anknüpfen lassen” — — „<hi rendition="#g">kommt in der </hi>
+				<lb n="N008"/><hi rendition="#g">nicht vor; ebensowenig irgend einer der neueren</hi>
+				<lb n="N009"/><hi rendition="#g">Tonsetzer</hi>, von welchem eine bemerkenswerthe Erweiterung
+				<lb n="N010"/>und Bereicherung der Harmonik hergeleitet werden kann.”
+				<lb n="N011"/><hi rendition="#g"><persName>Schumann</persName></hi> aber wird Seite 23, und <hi rendition="#g"><persName>Beethoven</persName></hi> Seite 3,
+				<lb n="N012"/>5 (zwei Mal), 21, 50, 55 und 60 citirt. Dem <persName>letzteren</persName>
+				<lb n="N013"/><persName>Meister</persName> aber wird hoffentlich selbst Herr <hi rendition="#g"><persName>Bagge</persName></hi> nicht das
+				<lb n="N014"/>Verdienst nehmen wollen, Schöpfer der Periode der „neueren
+				<lb n="N015"/>Tonkunst” zu sein!
+			</p>
+            <p>
+				<lb n="N001"/>Unser heutiges, von mir vorangestelltes <hi rendition="#g">Zwölfton¬</hi>
+				<lb n="N002"/><hi rendition="#g">system</hi>, auf dem die ganze folgende Lehre gebaut ist, wird
+				<lb n="N003"/>nun von Herrn <persName>B.</persName> ein <hi rendition="#g">irriges</hi>, ein für die Stumpfheit des
+				<lb n="N004"/>menschlichen Gehörsinnes erdachter Nothbehelf genannt, da doch
+				<lb n="N005"/>die wahre und <hi rendition="#g">ideale</hi> Beschaffenheit der Musik keine Tempe¬
+				<lb n="N006"/>ratur kenne; <hi rendition="#g">Unreinheit</hi> sei nur dort giltig, wo sie hinge¬
+				<lb n="N007"/>höre, wo die Natur sie hinstelle (?), nicht wo der Mensch sie
+				<lb n="N008"/>mache. —
+			</p>
+            <p>
+				<lb n="N001"/>Einer theoretisch <hi rendition="#g">idealen</hi>, nicht aber der <hi rendition="#g">praktisch</hi> rea¬
+				<lb n="N002"/>len Musik kann ein <hi rendition="#g">reines</hi> Tonsystem zu Grunde gelegt
+				<lb n="N003"/>werden. Denn wie wir das natürliche, <hi rendition="#g">reine</hi> Gold erst mit
+				<lb n="N004"/>Kupfer versetzen, um es für die Kunst brauchbar herzustellen,
+				<lb n="N005"/>und wie es darum doch seinen Werth und seine Schönheit
+				<lb n="N006"/>nicht einbüßt, so verliert auch die Musik weder ihre Macht,
+            	<pb facs="#f0015" n="10"/>
+            	<lb n="N001"/>noch ihre Würde, wenn sie durch ein abgegrenztes, gleichschwe¬
+				<lb n="N002"/>bend temperirtes System aus ihrem <hi rendition="#g">Naturzustande</hi> in die
+				<lb n="N003"/>Region der <hi rendition="#g">Kunst</hi> emporgehoben wird. Unser Ohr aber ist
+				<lb n="N004"/>heute schon dergestalt an diese kunstvolle (nicht künstliche) Tem¬
+				<lb n="N005"/>peratur gewöhnt, daß selbst der Hornist die Naturtöne seines
+				<lb n="N006"/>Instrumentes temperiren muß, und wir schwerlich drei oder vier
+				<lb n="N007"/>Sänger auffinden möchten, die im Stande wären, den in der
+				<lb n="N008"/>Tonart C dur auftretenden Accord D | F a als einen „<hi rendition="#g">ver¬</hi>
+				<lb n="N009"/><hi rendition="#g">minderten Dreiklang</hi>” hören zu lassen, wie es doch die
+				<lb n="N010"/>Theorie des <hi rendition="#g">reinen</hi> Tonsystemes, in welchem letzeren die
+				<lb n="N011"/>Töne D — a keine reine, sondern eine verminderte Quinte bil¬
+				<lb n="N012"/>den, verlangt. Der gebildete Sänger singt nicht, wie Herr <persName>B.</persName>
+				<lb n="N013"/>meint, nach einer <hi rendition="#g">ungleich schwebenden Temperatur</hi>,
+				<lb n="N014"/>auch nicht <hi rendition="#g">natur</hi>- sondern <hi rendition="#g">kunstrein</hi>, denn er hat bei
+				<lb n="N015"/>einem „reingestimmten”, d. h. gleichschwebend temperirten Cla¬
+				<lb n="N016"/>viere seine jahrelangen Studien gemacht, sein Gehör und seine
+				<lb n="N017"/>Intonation gebildet. Eine neuere gründliche Abhandlung über
+				<lb n="N018"/>diesen Gegenstand: „
+				<lb n="N019"/>” von <persName>C. <hi rendition="#g">Kretschmann</hi></persName>, enthält die <placeName ref="#L0022">Leip¬
+				<lb n="N020"/>ziger</placeName> , Band 53, No. 7, 8, 9.
+			</p>
+            <p>
+				<lb n="N001"/>Den von mir aufgestellten Lehrsatz von der Selbständigkeit
+				<lb n="N002"/>der Consonanzen hat Herr <persName>B.</persName> weder richtig aufgefaßt, noch
+				<lb n="N003"/>dessen consequente Durchführung verfolgt. Nicht die „schlechten
+				<lb n="N004"/>Octaven und Quinten”, wie er sie bezeichnet, habe ich in
+				<lb n="N005"/>Schutz genommen, sondern nur die „guten”, und ebenso beim
+				<lb n="N006"/>Besprechen der verschiedenen Accordfolgen stets gelehrt: ent¬
+				<lb n="N007"/>weder den <hi rendition="#g">inneren</hi> oder den <hi rendition="#g">äußeren</hi> Zusammenhang auf¬
+				<lb n="N008"/>einander folgender Harmonien erkennen zu lassen. Aber der
+				<lb n="N009"/>Contrapunkt, welcher hauptsächlich die <hi rendition="#g">Selbständigkeit</hi> verschie¬
+				<lb n="N010"/>dener <hi rendition="#g">gleichzeitig</hi> auftretender <hi rendition="#g">Melodien</hi> bewahrt wissen
+				<lb n="N011"/>will, nimmt beim Uebergange aus dem einen in den anderen
+				<lb n="N012"/>Accord eine freiere Stimmenführung an, als die Harmonik,
+				<lb n="N013"/>welche die natürlichste Verbindung der <hi rendition="#g">nach einander</hi> auf¬
+				<lb n="N014"/>tretenden <hi rendition="#g">Harmonien</hi> als Hauptsache betrachtet. Daß ich
+				<lb n="N015"/>aber in meinem Systeme jederzeit beide Arten der Stimmen¬
+				<lb n="N016"/>führung berücksichtigt und besprochen habe, wird mir kein Un¬
+				<lb n="N017"/>befangener als Inconsequenz auslegen, denn die musikalische
+				<lb n="N018"/>Logik muß sowohl in dem einen, wie in dem anderen Falle be¬
+            	<pb facs="#f0016" n="11"/>
+            	<lb n="N001"/>wahrt bleiben, wie ich mehrere Male nachdrücklich betont habe,
+				<lb n="N002"/>und alle die von mir aufgestellten Beispiele beweisen.
+			</p>
+            <p>
+				<lb n="N001"/>Kluger Weise läßt sich mein <persName>Kritiker</persName> nicht darauf ein, den
+				<lb n="N002"/>feinen Unterschied, welchen er in der <hi rendition="#g">harmonischen Be¬</hi>
+				<lb n="N003"/><hi rendition="#g">deutung der Quinte</hi> und deren Umkehrung, der <hi rendition="#g">Quarte</hi>,
+				<lb n="N004"/>findet, anzugeben, rügt es aber, daß ich bald wohlklingende
+				<lb n="N005"/>parallele Quinten freigebe, bald auf den Mißklang selbst <hi rendition="#g">ver¬</hi>
+				<lb n="N006"/><hi rendition="#g">deckter</hi> Quinten und Octaven aufmerksam mache. Gerade
+				<lb n="N007"/>diese Bemerkung aber hätte ihn auf die Consequenz meiner
+				<lb n="N008"/>Lehre aufmerksam machen können, nämlich: Bei <hi rendition="#g">unverbunde¬</hi>
+				<lb n="N009"/><hi rendition="#g">nen Harmonien</hi> und Accorden <hi rendition="#g">entfernter</hi> Verwandtschaft
+				<lb n="N010"/><hi rendition="#g">parallele</hi>; ja selbst <hi rendition="#g">verdeckte</hi> Quinten und Octaven und
+				<lb n="N011"/><hi rendition="#g">Querstände</hi> jeder Art zu vermeiden, um ihnen dadurch statt
+				<lb n="N012"/>des fehlenden <hi rendition="#g">inneren</hi> einen <hi rendition="#g">äußeren</hi> Zusammenhang zu
+				<lb n="N013"/>verschaffen.
+			</p>
+            <p>
+				<lb n="N001"/>Da nun selbst <hi rendition="#g"><persName>Hauptmann</persName></hi>, die allgemein anerkannte
+				<lb n="N002"/>theoretische Autorität der klassischen Musik, nur die „<hi rendition="#g">unmittel¬</hi>
+				<lb n="N003"/><hi rendition="#g">bare Folge reiner Quinten in der Secundfort¬</hi>
+				<lb n="N004"/><hi rendition="#g">schreitung, und wo die Töne Accordbedeutung ha¬</hi>
+				<lb n="N005"/><hi rendition="#g">ben</hi>”, unbedingt verwirft (s. die untenstehenden Beispiele), nach
+				<lb n="N006"/>meiner Meinung aber selbst in diesem <hi rendition="#g">einen</hi> Falle jene
+				<lb n="N007"/>Quinten noch wohlklingend sein können, so schien es mir an¬
+				<lb n="N008"/>gemessener, jenes allgemeine Quintenverbot aufzuheben, als
+				<lb n="N009"/>einen einzelnen Ausnahmefall zum Grunde eines Verbotes zu
+				<lb n="N010"/>machen, welches so unzählige Ausnahmen zuläßt. So wenig
+				<lb n="N011"/>aber von der Aufhebung des Preßzwanges irgendwo Anarchie,
+				<lb n="N012"/>eben so wenig ist auch von der allgemeinen Quintenfreiheit
+				<lb n="N013"/>irgend welches Unheil zu befürchten <note type="remarkSource" n="*)"><lb n="N001"/>Nochmals wiederhole ich hier, was ich schon in 
+				<lb n="N002"/>gesagt habe: daß der verständige Lehrer dem <hi rendition="#g">Schüler</hi> eine <hi rendition="#g">unschöne</hi>
+				<lb n="N003"/>Quintenfolge ebensowohl wie eine geschmacklose Terzen- oder Sexten¬
+				<lb n="N004"/>folge verbessern wird, obschon Herr <persName>B.</persName> <hi rendition="#g">ästhetische</hi> Gründe, die er
+				<lb n="N005"/>gleichwohl im Anfange seiner  sehr geltend macht, <hi rendition="#g">hier</hi> un¬
+				<lb n="N006"/>statthaft findet, weil er damit „keinen Hund aus dem Ofen locken
+				<lb n="N007"/>könne”!</note>. Herr <persName>B.</persName> aber hält
+				<lb n="N014"/>eine strenge Strafpredigt über meinen kühnen Staatsstreich,
+				<lb n="N015"/>giebt jedoch sonderbarer Weise gleich darauf selbst sieben Pröb¬
+				<lb n="N016"/>chen paralleler Quinten, in denen er „<hi rendition="#g">aufrichtig gesagt</hi>”,
+				<pb facs="#f0017" n="12"/>
+            	<lb n="N001"/>keinen Uebelklang entdecken kann. Gänzlich mißverstanden aber
+				<lb n="N002"/>hat er <hi rendition="#g"><persName>Hauptmann's</persName></hi> Worte über diesen Gegenstand, wenn
+				<lb n="N003"/>er in dem  desselben eine Entschuldigung
+				<lb n="N004"/>seiner unten folgenden Beispiele zu finden glaubt; es ist ihm
+				<lb n="N005"/>vielmehr gelungen, gerade den einzigen, oben angegebenen, von
+				<lb n="N006"/><hi rendition="#g"><persName>Hauptmann</persName></hi> verworfenen Fall zu treffen, so daß er sich da¬
+				<lb n="N007"/>mit wider Willen mit der Proclamation einer unbegrenzten
+				<lb n="N008"/>Quintenfreiheit einverstanden erklärt. Es lebe die Aufrichtigkeit!
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Das zweite dieser von Herrn <persName>B.</persName> erfundenen Beispiele ist
+				<lb n="N002"/>übrigens nicht nur nach <persName><hi rendition="#g">Hauptmann</hi>'schen</persName>, sondern nach
+				<lb n="N003"/>allen vernünftigen Grundsätzen über gebundene Dissonanzen
+				<lb n="N004"/>überhaupt, auch <hi rendition="#g">metrisch</hi> falsch, obgleich mein <persName>Kritiker</persName> dabei
+				<lb n="N005"/>„keine Ohrfeige gefühlt hat” und soll wohl heißen wie bei 3,
+				<lb n="N006"/>wo sodann „der Keulenschlag” der reinen Quinten in der Se¬
+				<lb n="N007"/>cundfortschreitung noch kräftiger ausfällt. Sehr wenig conse¬
+				<lb n="N008"/>quent macht sich Dem gegenüber der später folgende Vorwurf:
+				<lb n="N009"/>ich hätte in einem Beispiele von Dominantseptimaccordfolgen
+				<lb n="N010"/>parallele Quinten angebracht, da doch in dem von ihm abge¬
+				<lb n="N011"/>druckten Gange nur die sehr unschuldige Folge einer großen
+				<lb n="N012"/>nach einer verminderten Quinte zu ersehen ist. Mit Recht
+				<lb n="N013"/>tadelt dagegen <persName>mein Kritiker</persName> das von mir S. 5 gegebene, zu
+				<lb n="N014"/>wenig antastbare Beispiel solcher Parallelen von <hi rendition="#g"><persName>Beethoven</persName></hi>;
+				<lb n="N015"/>ich wählte es aus, um eben alle Opposition dagegen zu ver¬
+				<lb n="N016"/>meiden, und habe mich geirrt. Um demselben jedoch den Zweifel
+				<lb n="N017"/>an „viele andere solcher Beispiele” anerkannter praktischer
+				<lb n="N018"/>Meister zu benehmen, lasse ich in der Beilage eine Anthologie
+				<lb n="N019"/>klassischer melodischer und harmonischer Quintenparallelen von
+				<lb n="N020"/><hi rendition="#g"><persName>Gluck</persName></hi>, <hi rendition="#g"><persName>Mozart</persName></hi>, <hi rendition="#g"><persName>Weber</persName></hi>, <hi rendition="#g"><persName>Beethoven</persName></hi>, <hi rendition="#g"><persName>Schumann</persName></hi>,
+				<lb n="N021"/><hi rendition="#g"><persName>Hiller</persName></hi> und <hi rendition="#g"><persName>Hauptmann</persName></hi> folgen, empfehle geübten Quin¬
+				<lb n="N022"/>tenjägern noch die Parallelen in <hi rendition="#g"><persName>Mozart's</persName></hi>  bei der
+				<pb facs="#f0018" n="13"/>
+            	<lb n="N001"/>Stelle:  und im Masken-Terzett
+				<lb n="N002"/>des  an zwei verschiedenen Stellen und gebe außer¬
+				<lb n="N003"/>dem noch einige ,
+				<lb n="N004"/>in welchen verbundene und unverbundene, ja sogar doppelte
+				<lb n="N005"/>Quintenparallelen in gerader und in der Gegenbewegung vor¬
+				<lb n="N006"/>kommen und welche bereits die „aufrichtige” Zustimmung
+				<lb n="N007"/>namhafter Musiker gewonnen haben.
+            </p>
+            <p>
+				<lb n="N001"/><persName>Der gelehrte Kritiker</persName> bespricht weiterhin  von
+				<lb n="N002"/>den Tonarten und behauptet mehrere Male, ich hätte die Vor¬
+				<lb n="N003"/>stellung derselben „ganz nach der <persName><hi rendition="#g">Hauptmann</hi>'schen</persName> Weise
+				<lb n="N004"/>gegeben.” Das Verdienst aber, den Begriff der Tonart zuerst
+				<lb n="N005"/>festgestellt zu haben, gebührt dem berühmten Theoretiker <hi rendition="#g"><persName>Ra¬
+				<lb n="N006"/>meau</persName></hi>, der schon <date>vor mehr als hundert Jahren</date> geschrieben hat.
+				<lb n="N007"/>Das Werk seines Interpreten, <hi rendition="#g"><persName>d'Alembert</persName></hi>, wurde unter
+				<lb n="N008"/>dem Titel: „
+				<lb n="N009"/>” von <hi rendition="#g"><persName>Mar¬
+				<lb n="N010"/>purg</persName></hi> ins Deutsche übersetzt (<placeName ref="#L0022">Leipzig</placeName>, <date when="1757">1757</date> bei Breitkopf) und
+				<lb n="N011"/>das 4. Cap. des ersten Buches „”
+				<lb n="N012"/>beginnt folgendermaßen:
+			</p>
+            <p>
+				<lb n="N001"/>„Durch Tonart (Modus) versteht man nichts anders, als
+				<lb n="N002"/>eine gewisse, vermittelst der Progression der Quinten, sowohl
+				<lb n="N003"/>in der Harmonie als Melodie, unter den Tönen festgestellte
+				<lb n="N004"/>Ordnung. Also machen die drei Töne: F—C—G <hi rendition="#g">und die</hi>
+				<lb n="N005"/><hi rendition="#g">harmonischen Töne derselben, d. i. ihre großen</hi>
+				<lb n="N006"/><hi rendition="#g">Terzen und Quinten die ganze Tonart C aus</hi>. Es
+				<lb n="N007"/>kann also durch den Grundbaß oder die Fortschreitung F—C—G,
+				<lb n="N008"/>worinnen das C in der Mitte steht, die Tonart C gleichsam
+				<lb n="N009"/><hi rendition="#g">abgebildet</hi> werden.”
+			</p>
+            <p>
+				<lb n="N001"/>Diese deutlich beschriebene Abbildung der Durtonart ist
+				<lb n="N002"/>demnach die folgende:
+			</p>
+         
+            <p>
+				<lb n="N001"/>Das System der Molltonart aber gebe ich abweichend von
+				<lb n="N002"/><hi rendition="#g"><persName>Rameau</persName></hi> und <hi rendition="#g"><persName>Hauptmann</persName></hi> wie folgt:
+				
+            	<lb n="N001"/>indem ich den weichen Hauptdreiklang A c E in Verbindung
+            	<pb facs="#f0019" n="14"/>
+            	<lb n="N001"/>setze mit seinen beiden <hi rendition="#g">weichen</hi> Dominantaccorden D f A und
+				<lb n="N002"/>E g H. — Die <hi rendition="#g">Tonleiter</hi> bezeichne ich als „die melodische
+				<lb n="N003"/>Folge aller Töne der Tonart” und beginne die aufsteigende
+				<lb n="N004"/>Durtonleiter mit dem Haupttone, die absteigende Molltonleiter
+				<lb n="N005"/>mit der Quinte des Hauptdreiklanges derselben, aus den in
+				<lb n="N006"/> angegebenen Ursachen.
+            	
+            	<lb n="N001"/>Wir sehen hier die <hi rendition="#g">Stammtöne</hi> der Dur- und der Moll¬
+				<lb n="N002"/>tonart vor uns, und nennen solche aus <hi rendition="#g">gleichen Stamm¬</hi>
+				<lb n="N003"/><hi rendition="#g">tönen</hi> bestehenden Tonarten <hi rendition="#g">parallele</hi>. Dabei bemerke ich
+				<lb n="N004"/>in : Die gegenseitigen Tonverhältnisse der
+				<lb n="N005"/>Stammtöne einer jeden Dur- oder Molltonart zeigen jederzeit
+				<lb n="N006"/>nur „große oder kleine” Intervalle auf, und erst mit Be¬
+				<lb n="N007"/>nutzung von chromatischen Tönen können „übermäßige oder
+				<lb n="N008"/>verminderte” Intervalle gebildet werden. So ist z. B. f — g
+				<lb n="N009"/>eine große Secunde, f — a eine große Terze, f — h <hi rendition="#g">eine</hi>
+				<lb n="N010"/><hi rendition="#g">große Quarte</hi>, f — c <hi rendition="#g">eine große Quinte</hi> u. s. f. Ab¬
+				<lb n="N011"/>sichtlich habe ich hier die alte, richtigere Benennung für den
+				<lb n="N012"/>Tritonus oder die aus drei Ganztönen bestehende Quarte wie¬
+				<lb n="N013"/>der aufgenommen, weil nun consequenter Weise fortgefahren
+				<lb n="N014"/>werden kann: Die Umkehrung dieser Tonverhältnisse ergiebt
+				<lb n="N015"/>„kleine” Intervalle: g — f eine kleine Septime, a — f eine
+				<lb n="N016"/>kleine Sexte, h — f <hi rendition="#g">eine kleine Quinte</hi>, c — f <hi rendition="#g">eine kleine</hi>
+				<lb n="N017"/><hi rendition="#g">Quarte</hi> u. s. f., denn aus der Umkehrung eines jeden großen
+				<lb n="N018"/>Intervalles entsteht ein kleines, aus der Umkehrung eines jeden
+				<lb n="N019"/>übermäßigen ein vermindertes Intervall und ebenso umgekehrt.
+				<lb n="N020"/>Eine andere, heut gebräuchliche, <hi rendition="#g">unrichtige</hi> Benennung der
+				<lb n="N021"/>oben genannten Quarten und Quinten aber hebt diese ganze
+				<lb n="N022"/>so einfache Regel auf.
+            </p>
+            <p>
+				<lb n="N001"/>Beispiel von den verschiedenen Gattungen der Quarte;
+			</p>
+         <figure type="notatedMusic"/>
+         <pb facs="#f0020" n="15"/>
+            <p>
+				<lb n="N001"/>Im Fortgange  bemerke ich ferner: um die
+				<lb n="N002"/>Durtonart weicher zu stimmen, wird häufig statt des großen
+				<lb n="N003"/>Unterdominant-Dreiklanges der kleine, und zu dessen Bildung
+				<lb n="N004"/>sodann ein <hi rendition="#g">chromatischer</hi> Ton (as) benutzt. Da wir aber
+				<lb n="N005"/>nur die Schritte eines Ganz- oder Halbtones als <hi rendition="#g">melodische</hi>,
+				<lb n="N006"/>alle übrigen aber als <hi rendition="#g">harmonische</hi> Schritte erkennen, so
+				<lb n="N007"/>bildet die <hi rendition="#g">Tonleiter</hi> dieser „weicheren Durtonart”
+				
+            	<lb n="N001"/>des Sprunges von as zu h wegen, keine zusammenhängende
+				<lb n="N002"/><hi rendition="#g">melodische</hi> Folge. Daß und wie sie aber zu gebrauchen,
+				<lb n="N003"/>und harmonisch zu begleiten ist, lehre ich durch mehrere Bei¬
+				<lb n="N004"/>spiele S. 8. — Bei der Molltonart bemerke ich ebenso: Wie
+				<lb n="N005"/>die Durtonart zuweilen durch den weichen <hi rendition="#g">Unterdominant-</hi>
+				<lb n="N006"/><hi rendition="#g">Dreiklang</hi> weicher gestimmt wird, so wird noch häufiger die
+				<lb n="N007"/>Molltonart kräftiger durch einen harten <hi rendition="#g">Oberdominant-</hi>
+				<lb n="N008"/><hi rendition="#g">Dreiklang</hi> (e gis h) gestaltet, und die harmonische Beglei¬
+				<lb n="N009"/>tung der Tonleiter dieser „härteren Molltonart” ist wegen des
+				<lb n="N010"/>darin erscheinenden unmelodischen Schrittes, welcher durch den
+				<lb n="N011"/>Ton gis herbeigeführt wurde, denselben Bedingungen unterwor¬
+				<lb n="N012"/>fen, wie die der Tonleiter der „weicheren Durtonart”. Es ist
+				<lb n="N013"/>demnach ein etwas starker Irrthum, wenn Herr <persName>B.</persName> behauptet,
+				<lb n="N014"/>ich hätte die so eben besprochenen Tonleitern anfangs aufgestellt,
+				<lb n="N015"/>später aber wieder verworfen! Schließlich erwähne ich noch, daß
+				<lb n="N016"/>beide Tonarten außer den hier genannten chromatischen Tönen,
+				<lb n="N017"/>noch die sämmtlichen anderen Töne unseres Tonsystemes als
+				<lb n="N018"/><hi rendition="#g">chromatische Nebentöne</hi> benutzen können (s. S. 10).
+            </p>
+            <p>
+				<lb n="N001"/>Diese doch gewiß sehr klare Darlegung der <hi rendition="#g">Tonart</hi>, der
+				<lb n="N002"/><hi rendition="#g">Tonleiter</hi>, der <hi rendition="#g">Stammtöne</hi> und der <hi rendition="#g">chromatischen</hi>
+				<lb n="N003"/><hi rendition="#g">Nebentöne</hi> bezeichnet mein, wie es scheint nicht allezeit auf¬
+				<lb n="N004"/>richtiger <persName>Kritiker</persName> als „eine Verwirrung” und „verwunderliche
+				<lb n="N005"/>Vermengung der Begriffe Tonart und Tonleiter” und fabelt
+				<lb n="N006"/>weiter ich hätte den eben erst ausgewiesenen (?? er meint
+				<lb n="N007"/>wohl den von mir gar nicht als Stammton angenommenen)
+				<lb n="N008"/>Ton gis später als <hi rendition="#g">chromatische</hi> Contrebande wieder einge¬
+				<lb n="N009"/>schmuggelt. Herr <persName>B.</persName> vergißt, daß er in einen zweiten Theil
+				<lb n="N010"/>seiner „<hi rendition="#g">alle Töne der Tonart</hi> enthaltenden Melodie”:
+				<pb facs="#f0021" n="16"/>
+         	   <figure type="notatedMusic"/>
+            	<lb n="N001"/>höchst wahrscheinlich, in einem ganzen Tonstücke aus A moll
+				<lb n="N002"/>aber ganz sicher den dieser Tonart sehr nothwendigen Ton g
+				<lb n="N003"/>als <hi rendition="#g">chromatischen</hi> „einschmuggeln” müßte:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>daß ferner in seiner Tonart, die doch nothwendigerweise den
+				<lb n="N002"/>Ton gis als Vorzeichnung bekäme, da er diesen zu deren
+				<lb n="N003"/><hi rendition="#g">Stammtönen</hi> rechnet, der C durdreiklang ein <hi rendition="#g">chromatischer</hi>
+				<lb n="N004"/><hi rendition="#g">Accord</hi> wäre, und daß endlich die Tonarten C dur und A moll
+				<lb n="N005"/>keine <hi rendition="#g">Paralleltonarten</hi> sein könnten, wenn sie aus <hi rendition="#g">ver¬</hi>
+				<lb n="N006"/><hi rendition="#g">schiedenen</hi> Stammtönen beständen.
+            </p>
+            <p>
+				<lb n="N001"/>Wenn <persName>mein Kritiker</persName> aber wähnt: ich sei der erste Theore¬
+				<lb n="N002"/>tiker, welcher dem verminderten Dreiklange (den er, wo es ihm
+				<lb n="N003"/>paßt, als <formula notation="TeX">$\frac{3}{4}$</formula> eines Dominantseptimaccordes oder als <formula notation="TeX">$\frac{3}{5}$</formula> eines
+				<lb n="N004"/>sogenannten Nonenaccordes betrachtet) die Freiheit einräumt,
+				<lb n="N005"/><hi rendition="#g">jederzeit</hi> ungebunden auftreten zu dürfen, und aus Beispielen
+				<lb n="N006"/>wie die folgenden:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>die seit Anerkennung der Fortschritte des <hi rendition="#g"><persName>Monteverde</persName></hi> um
+				<lb n="N002"/><date when="1600">1600</date> <note type="remarkSource" n="*)"><lb n="N001"/>Im 5. Buche der  (<date when="1604">1604</date>) gebraucht
+				<lb n="N002"/><hi rendition="#g"><persName>Monteverde</persName> ohne Vorbereitung</hi> die Septime und None der
+				<lb n="N003"/>Dominante, den <hi rendition="#g">Tritonus</hi>, die <hi rendition="#g">kleine Quinte</hi> und Sexte, und die
+				<lb n="N004"/>verminderte Septime — — er schuf damit ein neues (unser heutiges)
+				<lb n="N005"/>Harmoniesystem. <persName>S. <hi rendition="#g">Fétis</hi></persName>, , Art. <persName>Monteverde</persName>.</note> bis auf den heutigen Tag als correct gegolten haben <note type="remarkSource" n="**)"><lb n="N001"/>In dem <hi rendition="#g">so eben</hi> erschienenen Werke: 
+				<lb n="N002"/> von <persName>F. <hi rendition="#g">Hiller</hi></persName>, <placeName ref="#L0021">Köln</placeName>, <date when="1860">1860</date>, pag. 7, kann Herr <hi rendition="#g"><persName>Bagge</persName></hi>
+				<lb n="N003"/>z. B. die von ihm so gründlich angefochtene „fundamentlose” Accordfolge
+				<lb n="N004"/>ebenfalls vorfinden.</note>,
+            	<pb facs="#f0022" n="17"/>
+            	<lb n="N001"/>den Beweis ziehen will, daß meinem Gebäude das „<hi rendition="#g">Funda¬</hi>
+				<lb n="N002"/><hi rendition="#g">ment</hi>” (?!) fehle, so kann ich Herrn <hi rendition="#g"><persName>Bagge</persName></hi> nur rathen,
+				<lb n="N003"/>recht bald einen Blick in solche historische und theoretische musi¬
+				<lb n="N004"/>kalische Werke zu werfen, die er nicht gerade aus Princip ge¬
+				<lb n="N005"/>ringzuschätzen Willens ist, um nicht noch ein Mal in derglei¬
+				<lb n="N006"/>chen Absurditäten zu verfallen. Mein unparteiischer <persName>Kritiker</persName>
+				<lb n="N007"/>scheint ferner übersehen zu haben, daß ich S. 30 
+				<lb n="N008"/> die regelmäßigen Auflösungen jenes Accordes bespro¬
+				<lb n="N009"/>chen, und S. 31 auch jenes sogenannten „Fundamentes” fol¬
+				<lb n="N010"/>gendermaßen erwähnt habe: „Der verminderte Dreiklang kann
+				<lb n="N011"/>selbstverständlich nicht allein frei, sondern auch gebunden, auf
+				<lb n="N012"/>leichtem oder schwerem Takttheile auftreten, doch wird er
+				<lb n="N013"/>sowohl wie seine Auflösungen wohlklingender, wenn er mit
+				<lb n="N014"/>einem ihm terzverwandten Dreiklange in Verbindung tritt,
+				<lb n="N015"/>und damit zum <hi rendition="#g">Septimenaccorde</hi> auf <hi rendition="#g">dem Leitetone</hi>
+				<lb n="N016"/>einer Dur- oder Moll-Tonart, oder zu deren <hi rendition="#g">Dominant¬</hi>
+				<lb n="N017"/><hi rendition="#g">septimen</hi>-Accord wird. In einer Folge von Dreiklängen
+				<lb n="N018"/>wird er deshalb nur als eben <hi rendition="#g">unvermeidlich</hi>, außerdem
+				<lb n="N019"/>aber auch in seiner wohlklingendsten, der Terzsext-Lage, ge¬
+				<lb n="N020"/>braucht.”
+			</p>
+            <p>
+				<lb n="N001"/>Mein geneigter <persName>Kritiker</persName> fährt fort: „In einem weiteren
+				<lb n="N002"/>Kapitel, <hi rendition="#g">Verwandtschaft der Accorde und Ton¬</hi>
+				<lb n="N003"/><hi rendition="#g">arten</hi>, bringt der <persName>Verfasser</persName> längst bekannte Dinge, die <hi rendition="#g">in</hi>
+				<lb n="N004"/><hi rendition="#g">jeder</hi> vernünftigen Harmonielehre stehen.” Diese Behauptung
+				<lb n="N005"/>muß ich so lange in Zweifel stellen, bis <persName>derselbe</persName> mir wenigstens
+				<lb n="N006"/>eine Harmonielehre näher bezeichnet, in welcher jener Gegen¬
+				<lb n="N007"/>stand sowohl wie die mit demselben zusammenhängende <hi rendition="#g">Mo¬</hi>
+				<lb n="N008"/><hi rendition="#g">dulation</hi> eben so erschöpfend als in  besprochen
+				<lb n="N009"/>worden ist. — Er bemerkt ferner: „<persName>Der Verfasser</persName> fabelt von
+				<lb n="N010"/>einem „mystischen” Zusammenhang der „Tonart” C dur mit
+				<lb n="N011"/>Fis- oder gar Ges dur und vergißt hierüber die in 
+				<lb n="N012"/> zu suchende Aufklärung zu geben.” — Der Entdecker
+				<lb n="N013"/>dieser der musikalischen Welt schon längst nicht mehr als
+				<lb n="N014"/>„Fabel” erscheinenden Verwandtschaft ist, soviel ich weiß,
+				<lb n="N015"/><hi rendition="#g"><persName>Beethoven</persName></hi>. In seinem so großartig angelegten 
+				<lb n="N016"/>, dessen verschiedene Theile im innigsten
+				<lb n="N017"/>verwandtschaftlichen Zusammenhange miteinander stehen, schließt
+				<lb n="N018"/>z. B. das Andante con moto in <hi rendition="#g">Des</hi> dur, und der folgende
+				<pb facs="#f0023" n="18"/>
+            	<lb n="N001"/>Satz beginnt unmittelbar nach demselben in G dur. Schwer¬
+				<lb n="N002"/>lich aber würde dieser feinfühlende Tonmeister nach jenem An¬
+				<lb n="N003"/>dante in Des dur ein Tonstück in einer dieser fast gar nicht
+				<lb n="N004"/>mehr verwandten Tonart, wie H dur oder Es dur haben folgen
+				<lb n="N005"/>lassen, während er hier die „Tonart der Mitte” mit Be¬
+				<lb n="N006"/>stimmtheit als Verwandte der ersteren bezeichnet. — Von einer
+				<lb n="N007"/>solchen, absichtlich von mir als „mystisch” bezeichneten Ver¬
+				<lb n="N008"/>wandtschaft ist eigentlich Niemand berechtigt, eine nähere „Auf¬
+				<lb n="N009"/>klärung” zu verlangen, doch aber ergiebt sich diese durch die
+				<lb n="N010"/>Betrachtung der vom Verstande leicht zu fassenden „geometri¬
+				<lb n="N011"/>schen Theilung der Octave”: . Die Töne
+				<lb n="N012"/>dieses Verhältnisses haben nämlich gewiß ein eben so gutes
+				<lb n="N013"/>Recht zur Tonica erhoben und sodann zu modulatorischen
+				<lb n="N014"/>Gegensätzen benutzt zu werden, als die der „harmonischen”:
+				<lb n="N015"/>C — G — C und der „arithmetischen Theilung der Octave”:
+				<lb n="N016"/>C — F — C.
+            </p>
+            <p>
+				<lb n="N001"/>Weiterhin belehrt mich <persName>mein Kritiker</persName>, daß <hi rendition="#g"><persName>Beethoven</persName></hi> im
+				<lb n="N002"/> die Tonarten G moll und C dur auf ein¬
+				<lb n="N003"/>ander folgen lasse, „freilich in künstlerischer Weise durch einen
+				<lb n="N004"/>einzelnen Halteton vermittelt”; er vergißt aber dabei, daß die
+				<lb n="N005"/>Haupttonart dieses Musikstückes Es dur ist, mit welcher sowohl
+				<lb n="N006"/>G moll wie C dur terzverwandt sind <note type="remarkSource" n="*)"><lb n="N001"/>S. in  S. 17 und vergleiche das Beispiel No. 19,
+				<lb n="N002"/>S. 19.</note>, während 
+				<lb n="N007"/>nur die Bemerkung gemacht habe, daß man in einem Tonstücke
+				<lb n="N008"/>aus C dur nicht die Tonart G moll als <hi rendition="#g">modulatorischen</hi>
+				<lb n="N009"/><hi rendition="#g">Gegensatz</hi> (also für das zweite Thema desselben) wählen
+				<lb n="N010"/>würde, da die Durtonart jederzeit einen <hi rendition="#g">harten Ober¬</hi>
+				<lb n="N011"/><hi rendition="#g">dominantdreiklang</hi>, wie die Molltonart stets einen
+				<lb n="N012"/><hi rendition="#g">weichen Unterdominantdreiklang</hi> bewahren müsse.
+			</p>
+            <p>
+				<lb n="N001"/>Herr <persName>B.</persName> macht ferner eine ironische Bemerkung über die
+				<lb n="N002"/> befindlichen Accordfolgen: „C, Des, Ges, Ces”, vergißt
+				<lb n="N003"/>aber den Zweck derselben und den dazu gehörenden Schluß¬
+				<lb n="N004"/>accord „<hi rendition="#g">Ges</hi>” anzugeben, was fast den Anschein einer —
+				<lb n="N005"/>Nachlässigkeit hat. Der Zweck dieses sowie der 
+				<lb n="N006"/>gegebenen 23 Beispiele ist es nämlich, auf die harmonische
+            	<pb facs="#f0024" n="19"/>
+            	<lb n="N001"/>Mehrdeutigkeit der Accorde aufmerksam zu machen, aus welcher
+				<lb n="N002"/>Betrachtung ich sodann den Schluß ziehe:
+            </p>
+            <p>
+				<lb n="N001"/>„<hi rendition="#g">Einem consonirenden Accorde kann jeder an¬</hi>
+				<lb n="N002"/><hi rendition="#g">dere consonirende Accord folgen</hi>. Selbstverständlich
+				<lb n="N003"/>giebt die oben (in den Beispielen) angewandte natürlichste
+				<lb n="N004"/>Stimmenführung und das Vermeiden der melodisch auftreten¬
+				<lb n="N005"/>den übermäßigen und verminderten Intervalle, der offenbaren
+				<lb n="N006"/>und verdeckten Quinten- und Octavenparallelen, sowie der un¬
+				<lb n="N007"/>harmonischen Querstände einer jeden Accordfolge den meisten
+				<lb n="N008"/><hi rendition="#g">äußeren Zusammenhang</hi>, wie denn endlich auch wohl zu
+				<lb n="N009"/>beachten ist, Accorde von entfernter Verwandtschaft nicht in zu
+				<lb n="N010"/>rascher Bewegung unmittelbar auf einander folgen zu lassen,
+				<lb n="N011"/>um dem Ohre Zeit zu gönnen, auch den <hi rendition="#g">inneren Zusam¬</hi>
+				<lb n="N012"/><hi rendition="#g">menhang</hi> der Harmonien zu erfassen.”
+			</p>
+            <p>
+				<lb n="N001"/>Hierüber nun äußert sich <persName>Herr B.</persName> folgendermaßen:
+				<lb n="N002"/>„Das <persName>Weitzmann'sche</persName> Grundgesetz ist ein wahrhaft auf¬
+				<lb n="N003"/>lösendes, vernichtet die Bande der <hi rendition="#g">Tonart</hi>, hebt allen <hi rendition="#g">Zu¬</hi>
+				<lb n="N004"/><hi rendition="#g">sammenhang</hi> auf und ist ein ächtes Kind <date>unserer Zeit</date>“ 2c.
+			</p>
+            <p>
+				<lb n="N001"/>Den logischen Zusammenhang aufeinander folgender Har¬
+				<lb n="N002"/>monien zu bewahren, habe ich nicht allein in dem hier ange¬
+				<lb n="N003"/>fochtenen Satze selbst, sondern gehörigen Ortes stets in 
+				<lb n="N004"/> gelehrt; die Behauptung, daß obiges „Grundgesetz”
+				<lb n="N005"/>allen Zusammenhang aufhebe, ist also völlig grundlos. Ebenso
+				<lb n="N006"/>unbegründet aber ist auch die Befürchtung, daß dasselbe die
+				<lb n="N007"/>Bande der <hi rendition="#g">Tonart</hi> vernichte. Nur von aufeinander folgenden
+				<lb n="N008"/><hi rendition="#g">Accorden</hi> spricht der von mir aufgestellte Lehrsatz und Herr
+				<lb n="N009"/><hi rendition="#g"><persName>Bagge</persName></hi> verwechselt hier augenscheinlich wiederum die Begriffe
+				<lb n="N010"/>„Accord” und „Tonart”. Ueber die Nothwendigkeit des Fest¬
+				<lb n="N011"/>haltens einer Einheit der Tonart spricht sich die Einleitung zu
+				<lb n="N012"/> folgendermaßen aus: Ein
+				<lb n="N013"/>jedes Tonstück, welches einen nachhaltigen Eindruck hinterlassen
+				<lb n="N014"/>soll, wird bei der nothwendigen Einheit in Färbung und Cha¬
+				<lb n="N015"/>rakter auch die Einheit einer bestimmten Tonart bewahren
+				<lb n="N016"/>müssen. Herr <persName>B.</persName> mag aus diesem „Glaubensbekenntniß”, wie
+				<lb n="N017"/>aus jedem Lehrsatze , den er nicht mit den „neue¬
+				<lb n="N018"/>sten Kunstschöpfungen” in Einklang zu bringen vermag, ersehen,
+				<lb n="N019"/>daß ich in meinem Systeme zwar die äußersten Grenzen einer
+				<lb n="N020"/>zulässigen, vernünftigen Freiheit in der Harmonielehre ange¬
+            	<pb facs="#f0025" n="20"/>
+            	<lb n="N001"/>geben, damit aber zugleich auch der <hi rendition="#g">Willkür Schranken</hi>
+				<lb n="N002"/><hi rendition="#g">gesetzt</hi> und ihr keineswegs das Wort geredet habe. Wenn sich
+				<lb n="N003"/>derselbe also „fuchswild” gebärdet über meine Worte: „Der
+				<lb n="N004"/>feinfühlende Künstler wird — selbst der Wahrheit und Be¬
+				<lb n="N005"/>stimmtheit des Ausdrucks zu Liebe — niemals die Anmuth und
+				<lb n="N006"/>Schönheit zum Opfer bringen, aber nicht der <hi rendition="#g">einseitig be¬</hi>
+				<lb n="N007"/><hi rendition="#g">fangene Kritiker</hi>, sondern eben nur <hi rendition="#g">der Geweihte</hi>, dessen
+				<lb n="N008"/>Brust von dem göttlichen Funken der Kunst erglüht, ist dazu
+				<lb n="N009"/>berufen, die Grenzen des Schönen zu bestimmen” — so kann
+				<lb n="N010"/>ich die Ursache davon nur darin finden, daß er dem grübelnden
+				<lb n="N011"/>Kritiker das Richteramt über den schaffenden Künstler unter
+				<lb n="N012"/>jeder Bedingung zuerkannt wissen möchte — eine Meinung, die
+				<lb n="N013"/>gewiß nicht einmal seine gläubigsten Anhänger mit ihm theilen
+				<lb n="N014"/>werden.
+			</p>
+            <p>
+				<lb n="N001"/>In dem Capitel von den Dissonanzen findet Herr <persName>B.</persName> „im
+				<lb n="N002"/>Interesse einer gleichmäßigen Theorie” nur <hi rendition="#g">einen</hi> Irrthum
+				<lb n="N003"/>zu berichtigen. Er behauptet nämlich, daß die <hi rendition="#g">Vorschläge</hi>
+				<lb n="N004"/>nicht den <hi rendition="#g">unaccentuirten</hi>, sondern den <hi rendition="#g">accentuirten</hi>
+				<lb n="N005"/>Takttheilen angehörten, weil der Unterschied zwischen Vorhalt
+				<lb n="N006"/>und Vorschlag nur darin bestehe, daß der erstere <hi rendition="#g">vorbereitet</hi>
+				<lb n="N007"/>sei, der zweite aber nicht. Meiner Meinung nach aber können
+				<lb n="N008"/>die Vorschläge wohl mit den Durchgangstönen, niemals aber
+				<lb n="N009"/>mit den gebundenen Vorhalten in eine Klasse gestellt werden.
+				<lb n="N010"/>Denn Vorschläge sowohl wie Durchgangstöne dürfen jederzeit
+				<lb n="N011"/>Dissonanzen bilden, deren Auflösung in einer anderen Stimme
+				<lb n="N012"/>gleichzeitig schon vorhanden ist, bei den Vorhalten jedoch ge¬
+				<lb n="N013"/>nießt nur die None das Recht, einem im Basse <hi rendition="#g">schon vor¬</hi>
+				<lb n="N014"/><hi rendition="#g">handenen</hi> Tone gleichzeitig als Verzögerung zu dienen.
+				<lb n="N015"/>Das folgende Beispiel bei 1 enthält nach Herrn <hi rendition="#g"><persName>Bagge's</persName></hi>
+				<lb n="N016"/>Theorie <hi rendition="#g">regelmäßige</hi>, nach der meinen jedoch <hi rendition="#g">unrichtige</hi>
+				<lb n="N017"/><hi rendition="#g">Vorhalte</hi>:
+            	<figure type="notatedMusic"/>
+         	   <pb facs="#f0026" n="21"/>
+         	   <figure type="notatedMusic"/>
+            	<lb n="N001"/>Das zweite Beispiel bietet dagegen <hi rendition="#g">regelmäßige</hi>, d. h. auf
+				<lb n="N002"/><hi rendition="#g">unaccentuirten</hi> Takttheilen erscheinende <hi rendition="#g">Vorschläge</hi>
+				<lb n="N003"/>dar. Durchgangstöne und Vorschläge aber, welche ihrer eigent¬
+				<lb n="N004"/>lichen Natur zuwider, auf <hi rendition="#g">accentuirten</hi> Tacttheilen auf¬
+				<lb n="N005"/>treten, bilden sodann auch schärfere Dissonanzen, ohne jedoch
+				<lb n="N006"/>die Kraft und Reinheit der gebundenen Vorhaltsdissonanzen,
+				<lb n="N007"/>welche eben diesen accentuirten Takttheilen angehören, auf¬
+				<lb n="N008"/>zuzeigen.
+			</p>
+            <p>
+				<lb n="N001"/>Hätte weiterhin mein wohlmeinender <persName>Kritiker</persName> den von ihm
+				<lb n="N002"/>mitgetheilten Beispielen von „Accordbildungen durch Vorhalte”
+				<lb n="N003"/>meine denselben unmittelbar folgende Erklärung  bei¬
+				<lb n="N004"/>gegeben, so würde deren Bedeutung jedem unbefangenen Leser
+				<lb n="N005"/>klarer geworden sein, als durch die dafür von ihm hingestellten
+				<lb n="N006"/>Bemerkungen, welche sich auf die alte, wirre Lehre von unsicht¬
+				<lb n="N007"/>baren und unhörbaren Grundbässen stützen. Solche „Grund¬
+				<lb n="N008"/>bässe” haben nicht einmal bei der früher allein als regelmäßig
+				<lb n="N009"/>geltenden Auflösung eines Septimenaccordes eine sinnvolle Be¬
+				<lb n="N010"/>deutung, denn selbst in diesem Falle machen sie einen natürli¬
+				<lb n="N011"/>chen Septimenaccord zum Scheinaccord (zum sogenannten
+				<lb n="N012"/>Nonenaccord); in den von mir mitgetheilten mannigfaltigen
+				<lb n="N013"/>Fortschreitungen eines Septimenaccordes aber erscheinen die¬
+				<lb n="N014"/>selben als völlig sinnlose Anhängsel.
+			</p>
+            <p>
+				<lb n="N001"/>Der alten Lehre nach hat z. B. der Accord h — d — f — a
+				<lb n="N002"/>den Ton G als hinzu zu denkenden Grundbaß, dieser paßt ihm
+				<lb n="N003"/>aber so wenig, daß er entsetzliche Harmonien wie z. B. f — 
+				<lb n="N004"/>g — a — h — d hervorrufen würde, wenn er sich bei einer
+				<lb n="N005"/>Umkehrung des genannten Accordes betheiligen wollte. Jener
+				<lb n="N006"/>sogenannte Grundbaß muß vielmehr, wenn er hörbar gemacht
+				<lb n="N007"/>wird, jederzeit <hi rendition="#g">tiefste</hi> Stimme bleiben und erzeigt sich eben
+				<lb n="N008"/>dadurch als <hi rendition="#g">Halteton</hi>, welcher nur in seltenen Ausnahme¬
+				<lb n="N009"/>fällen auch einmal einer Mittel- oder Oberstimme zuertheilt
+				<lb n="N010"/>wird. Wollten wir aber auch annehmen, daß der dem Accorde
+				<lb n="N011"/>h — d — f — a hinzugefügte „Grundbaß” G eine Auflösung
+            	<pb facs="#f0027" n="22"/>
+            	<lb n="N001"/>in den C durdreiklang andeuten könnte, so wird dessen Bedeu¬
+				<lb n="N002"/>tung doch völlig unverständlich in allen anderen Auflösungen
+				<lb n="N003"/>oder Trugfortschreitungen des genannten Accordes; wie z. B.
+				<lb n="N004"/>in den folgenden:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Bleibt nun der alten Lehre nach in allen diesen Fällen der
+				<lb n="N002"/>Grundbaß des Accordes h —d — f — a ein und derselbe,
+				<lb n="N003"/>nämlich G? Oder muß dieser hier bald als C, E, H, Gis u. s. f.
+				<lb n="N004"/>gedacht werden? In keinem Falle kann eine auf so unsicherer
+				<lb n="N005"/>Basis beruhende Lehre dem Schüler oder dem Musiker über¬
+				<lb n="N006"/>haupt irgendwie zum Nutzen gereichen. Der <hi rendition="#g">Grundbaß</hi>
+				<lb n="N007"/><hi rendition="#g">eines jeden Accordes</hi> ist vielmehr stets der seiner
+				<lb n="N008"/><hi rendition="#g">Grundlage</hi>; der des Septimenaccordes h — d — f — a
+				<lb n="N009"/>ist demnach h, gleich dem der Accorde h — dis — fis — a,
+				<lb n="N010"/>h — d — f — as, h — dis — fis, h — d — fis, h — d
+				<lb n="N011"/>— f, h — dis — fisis 2c.
+            </p>
+            <p>
+				<lb n="N001"/><persName>Mein Kritiker</persName> fährt in seinen Ausstellungen fort: „Ueber
+				<lb n="N002"/>Orgelpunkt wird sehr wenig und nur Bekanntes gesagt. Ein¬
+				<lb n="N003"/>zelner liegenden Töne, die nicht grade 1. oder 5. Stufe zu sein
+				<lb n="N004"/>brauchen, <hi rendition="#g">wird nicht gedacht</hi>.” — Auch diese Beschuldi¬
+				<lb n="N005"/>gungen sind völlig grundlos. Denn wenn ich mit <hi rendition="#g">wenigen</hi>
+				<lb n="N006"/>Worten die Bedingungen des Anfanges, des Fortganges und
+				<lb n="N007"/>des Ausganges eines Orgelpunkts gegeben habe, so ist das
+				<lb n="N008"/>gerade ein Beweis, daß ich zum ersten Male die eigentliche
+				<lb n="N009"/>Bedeutung desselben richtig erfaßt habe. Herrn <hi rendition="#g"><persName>Bagge's</persName></hi>
+				<lb n="N010"/>zweiter Satz aber enthält wiederum eine — Ungenauigkeit,
+				<lb n="N011"/>denn S. 49  sage ich nach Erwähnung der Be¬
+				<lb n="N012"/>deutung eines Orgelpunktes auf der Oberdominante und der
+				<lb n="N013"/>Tonica gegen das Ende eines Tonstückes: „Der Orgelpunkt
+				<lb n="N014"/>kann auch über diesen beiden gleichzeitig ausgehaltenen Tönen
+            	<pb facs="#f0028" n="23"/>
+            	<lb n="N001"/>(s. Beisp. 3), <hi rendition="#g">über jedem anderen Tone, dem eine</hi>
+				<lb n="N002"/><hi rendition="#g">solche hervortretende Tragkraft zugetheilt wer¬</hi>
+				<lb n="N003"/><hi rendition="#g">den soll,</hi> zu Anfang oder in der Mitte eines Tonstückes
+				<lb n="N004"/>seine Anwendung finden.”  werden ferner Beispiele
+				<lb n="N005"/><hi rendition="#g">dreier gleichzeitigen Haltetöne</hi> von <hi rendition="#g"><persName>Bach</persName></hi> und
+				<lb n="N006"/><hi rendition="#g"><persName>Beethoven</persName></hi> angegeben, und  steht die Bemerkung:
+				<lb n="N007"/>„daß die oben besprochenen Haltetöne unter den erwähnten Be¬
+				<lb n="N008"/>dingungen auch zuweilen <hi rendition="#g">in der Ober- oder in einer</hi>
+				<lb n="N009"/><hi rendition="#g">Mittelstimme</hi> wirkungsvoll angewendet werden können.”
+            </p>
+            <p>
+				<lb n="N001"/>Dies zur ferneren Andeutung, mit welcher Redlichkeit und
+				<lb n="N002"/>Aufrichtigkeit Herr <persName>B.</persName> und seine Partei an die Beurtheilung
+				<lb n="N003"/>der Werke ihrer vermeintlichen Gegner gehen.
+			</p>
+            <p>
+				<lb n="N001"/><persName>Mein Kritiker</persName> belehrt mich weiterhin, daß man „in der
+				<lb n="N002"/>ganzen Welt unter <hi rendition="#g">Halbcadenz</hi> einen Schluß auf der
+				<lb n="N003"/>Oberdominante verstehe”. Wie nennt denn in diesem Falle die
+				<lb n="N004"/>ganze Welt des Herrn <persName>B.</persName> die Schlüsse auf der Unterdominante,
+				<lb n="N005"/>der Unterterz, der Oberterz u. s. f., die doch nicht minder häufig
+				<lb n="N006"/>vorkommen? Nach meiner Meinung geben die folgenden Bei¬
+				<lb n="N007"/>spiele <hi rendition="#g">Ganzschlüsse</hi> in G dur, F dur, A moll und E moll, weil
+				<lb n="N008"/>sie die <hi rendition="#g">Oberdominantaccorde</hi> dieser Tonarten benutzen:
+				<figure type="notatedMusic"/>
+            	<lb n="N001"/>während die nachstehenden <hi rendition="#g">Halbschlüsse</hi> in den genannten
+				<lb n="N002"/>Tonarten bilden, weil sie die <hi rendition="#g">Unterdominantaccorde</hi> der¬
+				<lb n="N003"/>selben dazu in Anspruch nehmen:
+            	<pb facs="#f0029" n="24"/>
+         	   <figure type="notatedMusic"/>
+            	<lb n="N001"/>Wie hier in der angenommenen Haupttonart C dur, so würden
+				<lb n="N002"/>diese Accordfolgen, auch wenn sie in jeder anderen Tonart
+				<lb n="N003"/>aufträten, dennoch ganz dieselbe Bedeutung und Benennung
+				<lb n="N004"/>behalten. Wenn Herr <persName>B.</persName> in den so ganz verschiedenen Bei¬
+				<lb n="N005"/>spielen 1 und 5, seiner obigen Aussage nach <hi rendition="#g">Halbcadenzen</hi>
+				<lb n="N006"/>sieht, so müßte er die übrigen consequenter Weise <hi rendition="#g">Viertel-,</hi>
+				<lb n="N007"/><hi rendition="#g">Achtel-, Sechszehntelcadenzen</hi> u. s. f., deren Auftreten
+				<lb n="N008"/>in anderen Tonarten aber wieder anders benennen, eine Lehre,
+				<lb n="N009"/>die unter den denkenden Musikern <date>heutigen Tages</date> sicher keine
+				<lb n="N010"/>Anhänger mehr finden wird.
+            </p>
+            <p>
+				<lb n="N001"/>Bei Besprechung der Schlußbildung stelle ich den Satz
+				<lb n="N002"/>auf: Hat sich eine Tonart in ihren Hauptmomenten bereits
+				<lb n="N003"/>kundgegeben, so genügt zum Abschlusse in derselben auch eine
+				<lb n="N004"/>Accordfolge, über deren harmonische Bedeutung wir außerdem
+				<lb n="N005"/>in Zweifel bleiben würden. Und weiterhin bemerke ich: wie
+				<lb n="N006"/>schon die ältere Tonkunst zur Aufhaltung des Schlusses eines
+				<lb n="N007"/>Tonstücks die <hi rendition="#g">vermiedene</hi> Cadenz (s. die Beisp.) anwandte,
+				<lb n="N008"/>so läßt auch die neuere oft hart vor dem Schlusse noch einen
+				<lb n="N009"/>oder mehrere, chromatische Töne benutzende Accorde auftreten,
+				<lb n="N010"/>um den Schlußaccord durch eine solche Spannung desto befrie¬
+				<lb n="N011"/>digender wirken zu lassen (Beisp. folgen i. m. S.). Herr <persName>B.</persName>
+				<lb n="N012"/>bemerkt dabei, daß andere Menschen wohl statt der Befriedi¬
+				<lb n="N013"/>gung Ueberdruß und Grauen empfinden würden, wenn ihnen
+				<lb n="N014"/>dergleichen oft aufgetischt würde. Daß eine fortgesetzte Span¬
+				<lb n="N015"/>nung endlich Ueberdruß und Abspannung erzeugt, ist eine be¬
+				<lb n="N016"/>kannte Thatsache, hier aber ist ja eben nur von einer schnell
+				<lb n="N017"/>vorübergehenden die Rede; denn wie es Herr <persName>B.</persName> anfangen
+            	<pb facs="#f0030" n="25"/>
+            	<lb n="N001"/>will, ein Tonstück <hi rendition="#g">oft</hi> zu schließen, das ist mir aus seinen
+				<lb n="N002"/>Worten nicht klar geworden.
+			</p>
+            <p>
+				<lb n="N001"/>Herrn <persName>B.</persName> ist es unverstandlich geblieben, wenn ich im letz¬
+				<lb n="N002"/>ten Abschnitte  behaupte, daß die neuere Ton¬
+				<lb n="N003"/>kunst die chromatischen und enharmonischen Töne anders auf¬
+				<lb n="N004"/>fasse als die ältere. Er bekennt nicht zu wissen, daß die
+				<lb n="N005"/>ältere jeden chromatischen Ton als Bestandtheil einer Harmonie
+				<lb n="N006"/>derjenigen Tonart betrachte, in welcher er eben keinen <hi rendition="#g">chro¬</hi>
+				<lb n="N007"/><hi rendition="#g">matischen</hi>, sondern einen <hi rendition="#g">Stammton</hi> bilde. Da ihm
+				<lb n="N008"/>nun <hi rendition="#g"><persName>Hauptmann</persName></hi> in dieser Angelegenheit doch gewiß als
+				<lb n="N009"/>Autorität gelten wird, so führe ich dessen meinen oben aufge¬
+				<lb n="N010"/>stellten Satz beweisende Worte aus  (S. 164)
+				<lb n="N011"/>hier an: „— es kann eben kein melodischer Ton anders eine
+				<lb n="N012"/>Bestimmtheit erhalten haben, als daß er als Grundton, Terz
+				<lb n="N013"/>oder Quint eines Dreiklanges gefaßt wurde. Ebenso wird die
+				<lb n="N014"/><hi rendition="#g">chromatische</hi> über dem liegenden Dreiklange sich bewegende
+				<lb n="N015"/>Tonleiter sich nur durch eine von diesem Accorde <hi rendition="#g">unab¬</hi>
+				<lb n="N016"/><hi rendition="#g">hängige</hi> Verbindung construiren können, in welcher die
+				<lb n="N017"/>chromatischen Töne ihre zusammenhängende Fortschreitung fin¬
+				<lb n="N018"/>den, und zwar in einer Weise, daß auch die mit den Stufen
+				<lb n="N019"/>des liegenden Dreiklanges zusammentreffenden Töne ihre Be¬
+				<lb n="N020"/>deutung <hi rendition="#g">nicht aus diesem Accorde</hi> erhalten, sondern die,
+				<lb n="N021"/>welche ihnen durch die Accorde des verbundenen Fortganges
+				<lb n="N022"/>zukommt, die mit jener zusammenfallen, aber auch verschieden
+				<lb n="N023"/>sein kann.”
+			</p>
+            <p>
+				<lb n="N001"/>Mein dem oben erwähnten folgender Satz sagt nun, daß
+				<lb n="N002"/>die <hi rendition="#g">neuere</hi> Harmonielehre, im Gegensatze zur <hi rendition="#g">älteren</hi>, die
+				<lb n="N003"/>chromatischen Töne so lange als <hi rendition="#g">Nebentöne</hi> einer bestimm¬
+				<lb n="N004"/>ten Tonart auffasse, bis sich dieselben durch eine <hi rendition="#g">Auswei¬</hi>
+				<lb n="N005"/><hi rendition="#g">chung</hi> zu Stammtönen einer von dieser verschiedenen Tonart
+				<lb n="N006"/>erheben. Nur nach dieser Lehre sind die von mir mitgetheilten
+				<lb n="N007"/>Beispiele von <hi rendition="#g"><persName>Beethoven</persName></hi> und <hi rendition="#g"><persName>Hauptmann</persName></hi> zu erklären,
+				<lb n="N008"/>und dieselbe liegt auch den weiterhin von mir gegebenen Zu¬
+				<lb n="N009"/>sammenklängen zu Grunde. Diese letzteren haben jedoch nur
+				<lb n="N010"/>den Zweck, dergleichen von anerkannten Tonmeistern absichtlich
+				<lb n="N011"/>aufgesuchte Härten zu erklären und zu rechtfertigen, und erhal¬
+				<lb n="N012"/>ten eine verständliche Bedeutung erst, wenn sie als organische
+				<lb n="N013"/>Glieder einer musikalischen Phrase auftreten. So z. B. der
+            	<pb facs="#f0031" n="26"/>
+            	<lb n="N001"/>letzte der von Herrn <persName>B.</persName> als überhart ausgesuchten Zusam¬
+				<lb n="N002"/>menklänge:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Der unten folgende Zusammenklang der Töne g — h — gis
+				<lb n="N002"/>— es, welchen der stets von richtigem Gefühl geleitete <hi rendition="#g"><persName>Mo¬
+				<lb n="N003"/>zart</persName></hi> in seiner  gebraucht, wirkt vielleicht noch
+				<lb n="N004"/>schärfer als die von mir gegebenen Beispiele; er tritt <hi rendition="#g">ganz</hi>
+				<lb n="N005"/><hi rendition="#g">frei</hi> auf, und findet nach meiner Theorie seine einfache Erklä¬
+				<lb n="N006"/>rung in der Verzögerung des Accordes D — fis — a — c
+				<lb n="N007"/>durch chromatische Töne, welche regelmäßig stufenweise in diesen
+				<lb n="N008"/>fortschreiten:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Herr <persName>B.</persName> mag aus diesem Beispiele wiederum ersehen, daß
+				<lb n="N002"/>nicht allein die „<hi rendition="#g">neuesten</hi>”, sondern auch die <hi rendition="#g">älteren</hi> „<hi rendition="#g">an¬</hi>
+				<lb n="N003"/><hi rendition="#g">erkannten</hi>” Tonmeister zuweilen eines „advocatus diaboli”
+				<lb n="N004"/>bedürfen, um solche von ihnen gewagte, bisher aber noch in
+				<lb n="N005"/>keiner Harmonielehre besprochene Zusammenklänge zu <hi rendition="#g">recht¬</hi>
+				<lb n="N006"/><hi rendition="#g">fertigen</hi>.
+			</p>
+            <p>
+				<lb n="N001"/>Herr <persName>B.</persName> theilt übrigens meine Meinung, daß es zwar
+            	<pb facs="#f0032" n="27"/>
+            	<lb n="N001"/>nicht gerathen wäre, ein Tonstück mit vielen solchen harten
+				<lb n="N002"/>Dissonanzen anzufüllen, daß aber dem <hi rendition="#g">Meister</hi> kein seinem
+				<lb n="N003"/>Zwecke entsprechendes Mittel einer befangenen Theorie wegen
+				<lb n="N004"/>entzogen werden dürfe; nur fügt er hinzu: den „<hi rendition="#g">falschen</hi>
+				<lb n="N005"/><hi rendition="#g">Propheten</hi>” gegenüber müsse man „<hi rendition="#g">jedes Stückelchen</hi>
+				<lb n="N006"/><hi rendition="#g">des Gesetzes</hi>” aufrecht erhalten. Auch hierin stimmen wir
+				<lb n="N007"/>beide vollkommen überein, sofern Herr <persName>B.</persName> nur nicht alle <hi rendition="#g">le¬</hi>
+				<lb n="N008"/><hi rendition="#g">benden</hi> Meister als falsche Propheten, und das <hi rendition="#g">alte Testa¬</hi>
+				<lb n="N009"/><hi rendition="#g">ment</hi> als das allein giltige Gesetz betrachtet.
+			</p>
+            <p>
+				<lb n="N001"/>Wenn endlich mein aufrichtiger <persName>Kritiker</persName> behauptet, daß er
+				<lb n="N002"/>von dem wirklich der <hi rendition="#g">neuesten</hi> Schule Angehörigen (aus
+				<lb n="N003"/>Grundsatz!) herzlich wenig behalten möchte (denn diese muß
+				<lb n="N004"/>unter jeder Bedingung stets Unrecht haben!), so stimmt er doch
+				<lb n="N005"/>schließlich wider Willen in den Hauptsachen mit den von mir
+				<lb n="N006"/>vertretenen Lehrsätzen überein, und so scharf er anfangs auch
+				<lb n="N007"/> anzugreifen versuchte, weil sie auf ein
+				<lb n="N008"/><hi rendition="#g">temperirtes Tonsystem</hi> gebaut sei, so sagt er wiederum
+				<lb n="N009"/>doch am Schlusse seiner Recension, daß man eigentlich „kein
+				<lb n="N010"/>unbedingter Gegner der Enharmonik sein könne, weil die Mei¬
+				<lb n="N011"/>ster auf Grundlage des <hi rendition="#g">im Gebrauch</hi> (warum also nicht auch
+				<lb n="N012"/>von der Theorie) festgestellten temperirten Systemes sehr viel
+				<lb n="N013"/>Geistreiches aus ihr herausgebildet hätten, und nur ihr <hi rendition="#g">Miß¬</hi>
+				<lb n="N014"/><hi rendition="#g">brauch</hi> sei verwerflich.” Vor dem Mißbrauch aller starken
+				<lb n="N015"/>Ausdrucksmittel habe ich ebenfalls an verschiedenen Stellen
+				<lb n="N016"/> gewarnt; wenn aber Herr <persName>B.</persName> weiterhin meint,
+				<lb n="N017"/>„alle neueren <hi rendition="#g">guten</hi> Componisten bis zu <hi rendition="#g"><persName>Schumann</persName></hi>
+				<lb n="N018"/>(NB. bis zu dem letzten <hi rendition="#g">Todten</hi>) hätten die Enharmonik nur
+				<lb n="N019"/>in witziger Weise benutzt”, so ist dies wiederum ein auf¬
+				<lb n="N020"/>fallender Irrthum, und es klingt komisch, wenn er einen dem
+				<lb n="N021"/>Zuhörer ganz unmerklichen enharmonischen Uebergang mit dem
+				<lb n="N022"/>sehr bemerklichen Blech und der großen Trommel des Orche¬
+				<lb n="N023"/>sters vergleicht. Der Trauermarsch 
+				<lb n="N024"/>von <hi rendition="#g"><persName>Beethoven</persName></hi> (in ) enthält Takt 9 einen enharmo¬
+				<lb n="N025"/>nischen Uebergang, indem der Tonsetzer den hier natürlich fol¬
+				<lb n="N026"/>genden Ces molldreiklang in den H molldreiklang umwandelt.
+				<lb n="N027"/>Kein Musiker aber wird darin einen „Witz” erkennen oder
+				<lb n="N028"/>denselben gar mit Pauken und Trompeten vergleichen wollen.
+				<lb n="N029"/>Der Zuhörer vernimmt vielmehr gar nicht den H moll-, son¬
+            	<pb facs="#f0033" n="28"/>
+            	<lb n="N001"/>dern den gleichklingenden Ces molldreiklang. Verfolgt er von
+				<lb n="N002"/>diesem letzteren aus die ferneren Harmonien, so vernimmt er
+				<lb n="N003"/>beim Schlusse nicht den As moll-, sondern den gleichklingenden
+				<lb n="N004"/>bbb moll-Dreiklang. Der kühne Enharmoniker beginnt dem¬
+				<lb n="N005"/>nach seinen  in As moll und schließt ihn in bbb moll,
+				<lb n="N006"/>indem er beide Tonarten als völlig identisch, und nur der
+				<lb n="N007"/>Schreibart nach verschieden betrachtet.
+			</p>
+            <p>
+				<lb n="N001"/>In meinem  habe ich jederzeit die Bedeu¬
+				<lb n="N002"/>tung des <hi rendition="#g">alten Gesetzes</hi> seinem ganzen Umfange nach ange¬
+				<lb n="N003"/>geben und die auf Naturnothwendigkeit gegründeten Gebote
+				<lb n="N004"/>desselben gehörigen Ortes ihrer ganzen Strenge nach festgehal¬
+				<lb n="N005"/>ten. Aber auch die Erweiterungen desselben, welche die größten
+				<lb n="N006"/>unserer dahingeschiedenen und noch lebenden Tonmeister als
+				<lb n="N007"/>vernünftige und zweckentsprechende anerkannt und in Ausübung
+				<lb n="N008"/>gebracht haben, habe ich, ebenfalls ihrem ganzen Umfange nach,
+				<lb n="N009"/>gesammelt, geordnet, begründet und als <hi rendition="#g">neue Gesetze</hi> den
+				<lb n="N010"/>älteren zur Ergänzung beigegeben.
+			</p>
+            <p>
+				<lb n="N001"/>Die vorliegenden Blätter haben den Zweck, einige in 
+				<lb n="N002"/> nur gedrängt gegebene Sätze weiter auszuführen
+				<lb n="N003"/>und eine gerechte Entscheidung über die Zulässigkeit oder Un¬
+				<lb n="N004"/>zulässigkeit einiger neuerer Lehrsätze herbeizuführen, die den
+				<lb n="N005"/>älteren, welche bisher als unfehlbar gegolten hatten, zu wider¬
+				<lb n="N006"/>sprechen scheinen. Also nicht gegen einen <persName>einzelnen Kritiker</persName>,
+				<lb n="N007"/>sondern gegen die von ihm vertheidigten Sätze der alten Lehre
+				<lb n="N008"/>habe ich gekämpft, und nicht ohne Widerwillen habe ich zuwei¬
+				<lb n="N009"/>len die mir gebotenen, dem Ernste der Sache aber eigentlich
+				<lb n="N010"/>nicht entsprechenden Waffen dabei gebraucht.
+			</p>
+            <p>
+				<lb n="N001"/>Gegen fernere oberflächliche und grundlose Angriffe aufzu¬
+				<lb n="N002"/>treten halte ich mich nicht für verpflichtet, da ich die Entschei¬
+				<lb n="N003"/>dung der hier angeregten Streitfragen nicht dem „einseitig be¬
+				<lb n="N004"/>fangenen Kritiker”, sondern dem unbefangenen und <hi rendition="#g">selbst</hi>
+				<lb n="N005"/><hi rendition="#g">prüfenden</hi> praktischen Musiker anheimstelle.
+			</p>
+         <pb facs="#f0034"/>
+         <figure type="notatedMusic"/>
+         <pb facs="#f0035"/>
+         <figure type="notatedMusic"/>
+         <pb facs="#f0036"/>
+         <pb facs="#f0037"/>
+         <pb facs="#f0038"/>
+         <pb facs="#f0039"/>
+      </body>
+   </text>
+</TEI>

@@ -2,11 +2,13 @@
 
 <!-- Stylesheet zur Transformation der TEI-Digitmus-Texte zu DTABf-konformer Version.
 		Nach der Transformation:
-			1. RNG und Schematron einfügen
+			1. RNG und Schematron einfügen:
+				<?xml-model href="basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+				<?xml-model href="basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 			2. Alle 'tei:' in Elementnamen entfernen und alle ' xmlns:tei="http://www.tei-c.org/ns/1.0"'-Attribute entfernen. 
 			3. Leere ' n=""'-Attribute entfernen.
 	  !!	4. Whitespace zwischen teiHeader und text-Bereich entfernen. (Bei Transformation nicht wundern wenn das Ausgabedokument unvollsätndig aussieht und scrollen.)
-			5. $ zu Beginn und Ende einer jeden formula entfernen. (XPath: //formula)
+		??  5. $ zu Beginn und Ende einer jeden formula entfernen. (XPath: //formula)
 			
 -->
 <xsl:stylesheet version="3.0"
@@ -40,6 +42,9 @@
 	<!-- Suppress ref attribute on docAuthor element -->
 	<xsl:template match="tei:docAuthor/@ref"/>
 	
+	<!-- Suppress title elements within front-->
+	<xsl:template match="tei:front//tei:title"/>
+	
 	<!-- Suppress title elements within body-->
 	<xsl:template match="tei:body//tei:title"/>
 	
@@ -48,6 +53,9 @@
 	
 	<!-- Suppress facs attribute on note element -->
 	<xsl:template match="tei:note/@facs"/>
+	
+	<!-- Suppress facs attribute on head element -->
+	<xsl:template match="tei:head/@facs"/>
 	
 	<!-- Suppress facs attribute on p element -->
 	<xsl:template match="tei:p/@facs"/>

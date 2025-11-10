@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
@@ -129,7 +129,8 @@
 				<lb n="N012"/>der Musiktheorie ist <date>in den letzten Jahrzehnten</date> ein Problem ge¬
 				<lb n="N013"/>worden, das man am besten mit „Dualismus oder Monismus?” be¬
 				<lb n="N014"/>zeichnen kann. Neuerdings hat <persName>Hugo Riemann</persName> dieser Frage eine
-				<lb n="N015"/>Spezialstudie gewidmet im „<hi rendition="#g"><lb n="N016"/></hi>”, abgedruckt in der <date when="1905">1905</date>
+				<lb n="N015"/>Spezialstudie gewidmet im „<hi rendition="#g">
+				<lb n="N016"/></hi>”, abgedruckt in der <date when="1905">1905</date>
 				<lb n="N017"/>Nr. 1—4. Darin hat er mit allen ihm zu Gebote stehenden
 				<lb n="N018"/>Mitteln der Dialektik seine dualistische Klangauffassung, gipfelnd
 				<lb n="N019"/>in seiner Unterton-Molltheorie, gegen den von <persName>A. J. Polak</persName><note type="remarkSource" n="*)"><lb n="N001"/>Zur Richtigstellung sei bemerkt, dass <persName>Polak</persName> und ich nur auf
@@ -138,7 +139,8 @@
 				<lb n="N020"/><persName>mir</persName> vertretenen „Monismus” zu verteidigen gesucht, wie ich nach¬
 				<lb n="N021"/>weisen werde, ohne jeden Erfolg. Schon <date when="1901">1901</date> hatte ich in
 				<lb n="N022"/>No. 44—50 der gleichen  eine Monographie geschrieben,
-				<lb n="N023"/>betitelt: „<hi rendition="#g"><lb n="N024"/></hi>.” Ich hatte mich
+				<lb n="N023"/>betitelt: „<hi rendition="#g">
+				<lb n="N024"/></hi>.” Ich hatte mich
 				<lb n="N025"/>damals bemüht, in aller Ausführlichkeit die Auffassung <persName>Riemanns</persName>
 				<lb n="N026"/>praktisch zu widerlegen und zwar durch <hi rendition="#g">dessen eigene Schriften</hi>,
 				<lb n="N027"/>aus denen ich eine ganze Reihe von Stellen zu zitieren vermochte,
@@ -179,7 +181,15 @@
 				<lb n="N004"/>auszugsweisen Darstellung begnügen, da inzwischen im Verlage von
 				<lb n="N005"/>C. F. Kahnt Nachf. <placeName ref="#L0022">Leipzig</placeName><date when="1903">1903</date> bezw. <date when="1904">1904</date> mein musiktheoretisches
 				<lb n="N006"/>Reformwerk in 3 Broschüren erschienen ist, und zwar Teil I
-				<lb n="N007"/>unter dem Titel: <hi rendition="#g"><lb n="N008"/>, Teil II: <lb n="N009"/><lb n="N010"/><lb n="N011"/><lb n="N012"/>, Teil III: <lb n="N013"/><lb n="N014"/><lb n="N015"/></hi>.
+				<lb n="N007"/>unter dem Titel: <hi rendition="#g">
+				<lb n="N008"/>, Teil II: 
+				<lb n="N009"/>
+				<lb n="N010"/>
+				<lb n="N011"/>
+				<lb n="N012"/>, Teil III: 
+				<lb n="N013"/>
+				<lb n="N014"/>
+				<lb n="N015"/></hi>.
 			</p>
             <p>
 				<lb n="N001"/>Wenn auch <persName>H. Riemann</persName> übergangen hat,
@@ -201,7 +211,8 @@
 				<lb n="N001"/>Behält doch auch die <date>heutige</date>Naturwissenschaft ihr monistisches
 				<lb n="N002"/>Gepräge trotz des Gegensatzes z. B. von positiver und negativer
 				<lb n="N003"/>Elektrizität, desgleichen die Philosophie trotz des Gegensatzes von
-				<lb n="N004"/>Willen und Vorstellung. <hi rendition="#g">In der Musik ist das monistische<lb n="N005"/>Grundprinzip die Erklärung aller Klänge von unten<lb n="N006"/>nach oben, mithin das Durprinzip, das der natür¬
+				<lb n="N004"/>Willen und Vorstellung. <hi rendition="#g">In der Musik ist das monistische
+				<lb n="N005"/>Grundprinzip die Erklärung aller Klänge von unten<lb n="N006"/>nach oben, mithin das Durprinzip, das der natür¬
 				<lb n="N007"/>lichen Obertonreihe allein entspricht</hi>. Um die Trag¬
 				<lb n="N008"/>weite dieses musikalischen Monismus recht deutlich zu enthüllen,
 				<lb n="N009"/>führe ich aus meinen theoretischen Reformschriften folgende
@@ -257,10 +268,10 @@
 						<lb n="N004"/>sie sich <hi rendition="#g">neben</hi>einander nach demselben akustischen Prinzip zur
 						<lb n="N005"/>engeren und erweiterten Tonart („Tonität” bezw. „Tonalität”) zu¬
 						<lb n="N006"/>sammen. Typen der Doppelklänge, also des <hi rendition="#g">Über</hi>einander, sind
-						<lb n="N007"/>$$GRAPHIC. Typus der den Natur¬
+						<lb n="N007"/>. Typus der den Natur¬
 						<lb n="N008"/>klängen allein entsprechenden <hi rendition="#g">Dur</hi>tonität, des <hi rendition="#g">Neben</hi>einander,
-						<lb n="N009"/>ist die geschlossene Reihe: $$GRAPHIC, die auch so notiert
-						<lb n="N010"/>werden kann: $$GRAPHIC. M = „Mittelklang” (alias Drei¬
+						<lb n="N009"/>ist die geschlossene Reihe: , die auch so notiert
+						<lb n="N010"/>werden kann: . M = „Mittelklang” (alias Drei¬
 						<lb n="N011"/>klang der Tonika oder tonischer Dreiklang), R = „Rechtsklang”
 						<lb n="N012"/>(Dreiklang der Dominante), L = „Linksklang” (Dreiklang der Sub¬
 						<lb n="N013"/>dominante). L, M, R bilden den Bereich der engeren Tonart
@@ -270,18 +281,19 @@
          		</item>
          		<item><lb n="N017"/>6. Alle Töne und Intervalle sind <hi rendition="#g">Klangvertreter</hi> — eine
 						<lb n="N018"/>äusserst wichtige, von <persName>H. Riemann</persName> angebahnte Lehre. Die har¬
-						<lb n="N019"/>monische Reihe $$GRAPHIC ist zugleich die Darstellung der
+						<lb n="N019"/>monische Reihe  ist zugleich die Darstellung der
 						<lb n="N020"/>C durtonleiter gemäss der Klangvertretung der Töne. Um die Ton¬
 						<lb n="N021"/>leiter zu erhalten, braucht man nur immer dem Buchstaben links
 						<lb n="N022"/>vom vertikalen Teilstrich den entsprechenden rechts folgen zu lassen.
          		</item>
          		<item><lb n="N023"/>7. Der Mollklang, z. B. a c e (kurz notiert A<hi rendition="#sub">0</hi>, während ein
-						<lb n="N024"/>alleinstehendes A den Durklang anzeigt) ist je nach dem <hi rendition="#g">tonalen<lb n="N025"/>Zusammenhange</hi> zu erklären als A ♮cis e, also als alterierter
+						<lb n="N024"/>alleinstehendes A den Durklang anzeigt) ist je nach dem <hi rendition="#g">tonalen
+				<lb n="N025"/>Zusammenhange</hi> zu erklären als A ♮cis e, also als alterierter
 						<lb n="N026"/>(„getrübter”) Durdreiklang mit dem Grundton a, oder aber als
-						<lb n="N027"/>$$GRAPHIC, also als Doppelklang mit den Grundtönen a („Basis“)
+						<lb n="N027"/>, also als Doppelklang mit den Grundtönen a („Basis“)
 						<lb n="N028"/>und e (durch diese Grundtonqualität gewinnt das c das Übergewicht
 						<lb n="N029"/>über die schwächere Basisterz cis). Weiter kann der Molldreiklang
-						<lb n="N030"/>a c e auch verstanden werden als $$GRAPHIC, also als Doppelklang
+						<lb n="N030"/>a c e auch verstanden werden als , also als Doppelklang
 						<lb n="N031"/>mit den Grundtönen f und c, oder endlich als (D fis) a c e, also
 						<lb n="N032"/>als einfacher Klang mit dem Grundton d als Fundament des
 						<lb n="N033"/>Nonenakkords D<hi rendition="#sup">9</hi>.
@@ -311,7 +323,8 @@
 				<lb n="N014"/>linksstehenden Wurzeltonarten), sondern <hi rendition="#g">Basis</hi>dur die Vorherr¬
 				<lb n="N015"/>schaft hat, als primus inter pares, so dass alle Klänge und Töne
 				<lb n="N016"/>in Dur<hi rendition="#g">und</hi> Moll von der gemeinsamen Basis aus beurteilt und
-				<lb n="N017"/>bezeichnet werden dürfen. Alles Nähere über die <hi rendition="#g">vierfache<lb n="N018"/>Wurzel des Mollklanges und der Molltonalität</hi> in
+				<lb n="N017"/>bezeichnet werden dürfen. Alles Nähere über die <hi rendition="#g">vierfache
+				<lb n="N018"/>Wurzel des Mollklanges und der Molltonalität</hi> in
 				<lb n="N019"/>, insbesondere § 7 und Anhang („Zukunftsmusik?”), s. auch
 				<lb n="N020"/> S. 57—63! Nur das äusserst wichtige Ergebnis der neuen
 				<lb n="N021"/>Auffassung sei hier mitgeteilt: <hi rendition="#g">Der Mollklang und die Moll¬
@@ -382,7 +395,7 @@
 			</p>
         
             <p>
-				<lb n="N001"/>S. 71: „$$GRAPHIC<note type="remarkSource" n="*)"><lb n="N001"/>Der Einfachheit halber habe ich den von <persName>Riemann</persName> notierten
+				<lb n="N001"/>S. 71: „<note type="remarkSource" n="*)"><lb n="N001"/>Der Einfachheit halber habe ich den von <persName>Riemann</persName> notierten
 				<lb n="N002"/>ganz gleichartigen Akkord d f a c durch a c e g ersetzt.</note> ist der Zusammenklang eines Durakkordes
 				<lb n="N002"/>und eines Mollakkordes, die im Verhältnis des Terzwechsels stehen.
             	<pb facs="#f0016" n="12"/>
@@ -507,8 +520,8 @@
 				<lb n="N001"/><persName>M. Hauptmann</persName>, der in seiner „”
 				<lb n="N002"/>(<date when="1873">1873</date>) das Quintverhältnis durch II, das Terzverhältnis durch III
 				<lb n="N003"/>bezeichnet, analysiert den F mollklang so:
-				<lb n="N004"/>$$GRAPHIC, jedoch mit dem Zusatz, es sei dasselbe, als wenn man
-				<lb n="N005"/>setze: $$GRAPHIC. <persName>Riemann</persName> selbst führt folgende Äusserung <persName>Haupt¬</persName>
+				<lb n="N004"/>, jedoch mit dem Zusatz, es sei dasselbe, als wenn man
+				<lb n="N005"/>setze: . <persName>Riemann</persName> selbst führt folgende Äusserung <persName>Haupt¬</persName>
 				<lb n="N006"/><persName>manns</persName> an: „Wie im Durakkord ein Ton (c in c g e) Terz und
 				<lb n="N007"/>Quint hat, so wird im Mollakkord ein Ton (g in c es g) von den
 				<lb n="N008"/>beiden andern zur Terz und Quint<hi rendition="#g">gehabt</hi> (es—g, c—g).” (!)
@@ -521,9 +534,11 @@
 				<lb n="N015"/>erscheinen lassen.” (!) Eine „monistische” Neigung im Sinne des
 				<lb n="N016"/>Typus A C e (g) ist also auch bei <persName>Hauptmann</persName> unverkennbar. Selbst
 				<lb n="N017"/>die Typen (G h) d f a und (C) e G h (d) waren ihm geläufig, wie
-				<lb n="N018"/>folgende Stelle beweist (): „Es ist der Akkord auf der <hi rendition="#g">Quinte<lb n="N019"/>der Oberdominante</hi> der Durtonart, D | F a, nicht zu ver¬
+				<lb n="N018"/>folgende Stelle beweist (): „Es ist der Akkord auf der <hi rendition="#g">Quinte
+				<lb n="N019"/>der Oberdominante</hi> der Durtonart, D | F a, nicht zu ver¬
 				<lb n="N020"/>wechseln mit dem Molldreiklang d F a, wie er, die untere Grenze
-				<lb n="N021"/>des Systems der C durtonart überschreitend, sich aus der <hi rendition="#g">Terz<lb n="N022"/>von B mit Grundton und Terz des F durdreiklanges</hi>
+				<lb n="N021"/>des Systems der C durtonart überschreitend, sich aus der <hi rendition="#g">Terz
+				<lb n="N022"/>von B mit Grundton und Terz des F durdreiklanges</hi>
 				<lb n="N023"/>bildet.” (!)
 			</p>
             <p>
@@ -593,7 +608,7 @@
          
             <p>
 				<lb n="N001"/>Wie gesucht und unnatürlich nimmt sich dagegen <persName>Riemanns</persName>
-				<lb n="N002"/>Erklärung aus: f as c e ist ihm = c<hi rendition="#sup">VI&lt;</hi>, f as c e g = $$GRAPHIC, d. h.
+				<lb n="N002"/>Erklärung aus: f as c e ist ihm = c<hi rendition="#sup">VI&lt;</hi>, f as c e g = , d. h.
 				<lb n="N003"/>f as c soll von oben nach unten, mit e als ♮es gehört werden,
 				<lb n="N004"/>obwohl doch e innerhalb C dur zweifellos Hauptton ist. Da e und g
 				<lb n="N005"/>lediglich <hi rendition="#g">Zusatztöne</hi> sein sollen, ermangeln sie jedes organischen
@@ -611,7 +626,7 @@
 				<lb n="N017"/>gis als Terz von e neben die Prim c die Prime stelle), durch
 				<lb n="N018"/>folgende Erwägung zur Abkehr von jenem Prinzip gekommen ist:
 				<lb n="N019"/>„f as c e (g) würde nach der dualistischen Klangauffassung als
-				<lb n="N020"/>Positiv + Negativ, d. h. als $$GRAPHIC zu deuten sein, es
+				<lb n="N020"/>Positiv + Negativ, d. h. als  zu deuten sein, es
 				<lb n="N021"/>wäre indessen eine zu starke Zumutung, in ein und demselben
 				<lb n="N022"/>Zusammenhange ein Hören nach zwei entgegengesetzten Richtungen
 				<lb n="N023"/>zu fordern; somit bleibt nichts übrig, als nur <hi rendition="#g">einen</hi> Klang und
@@ -620,7 +635,7 @@
 				<lb n="N026"/>führen musste. Noch ein Beispiel aus der 
 				<lb n="N027"/><persName>Riemanns</persName> (X), das mit Fingern auf das Doppelklangprinzip
 				<lb n="N028"/>weist, gleichwohl aber von <persName>Riemann</persName> total verkannt wird (Fig. 12).
-				<lb n="N029"/>Den zweiten Akkord analysiert er als $$GRAPHIC, wo sich die Ziffern
+				<lb n="N029"/>Den zweiten Akkord analysiert er als , wo sich die Ziffern
 				<lb n="N030"/>auf das e und g beziehen, obwohl diese Töne auch hier ihre
 				<lb n="N031"/>C-Klangbedeutung ganz offensichtlich beibehalten, während die
 				<lb n="N032"/>Aussenstimmen f—a den F-Klang repräsentieren. Bezeichnet doch
@@ -632,10 +647,10 @@
             </p>
             <p>
 				<lb n="N001"/>Beispiele mit der kleinen <hi rendition="#g">Septime</hi> als konkurrierendem
-				<lb n="N002"/>Grundton bringt Fig. 13, mit der Analyse: $$GRAPHIC. An
+				<lb n="N002"/>Grundton bringt Fig. 13, mit der Analyse: . An
 				<lb n="N003"/>der möglichen Selbständigkeit auch dieses Doppelklanges ist nicht
 				<lb n="N004"/>zu zweifeln. Das Beispiel bei c) stammt von <persName>Riemann</persName> (a. a. O.),
-				<lb n="N005"/>der zweite Klang wird von ihm als $$GRAPHIC konstruiert, obwohl die
+				<lb n="N005"/>der zweite Klang wird von ihm als  konstruiert, obwohl die
 				<lb n="N006"/>herübergebundenen Töne f a c wirklich als Vertreter der Unter¬
 				<lb n="N007"/>dominante vernommen werden. Dass sogar alle 3 konstituierenden
 				<lb n="N008"/>Klänge der C durtonart als <hi rendition="#g">Tripelklang</hi> selbständig (d. h. nicht
@@ -751,7 +766,7 @@
 				<lb n="N024"/>wickelt, gemäss seiner akustischen Doppelklanganalysen: B d (F a)
 				<lb n="N025"/>c es ♭g oder Es ♭g B d (f as) c oder (As) c es Ges b ♮des. In Fig. 21
 				<lb n="N026"/>tritt derselbe Akkord in seinen enharmonischen Gestaltungen =
-				<lb n="N027"/>D fis ♯a c ♭e und $$GRAPHIC auf, deren tonale Verwend¬
+				<lb n="N027"/>D fis ♯a c ♭e und  auf, deren tonale Verwend¬
 				<lb n="N028"/>barkeit ebenfalls sofort einleuchten muss. Überall spielen in
 				<lb n="N029"/>meinen 3 theoretischen Broschüren die Doppelklänge eine wichtige
 				<lb n="N030"/>Rolle und ich sollte wirklich meinen, dass diese von allen ein¬
@@ -789,9 +804,9 @@
 				<lb n="N015"/>klanges (d. i. der Dominante) mit der Gegenquint (f):
 			</p>
             <p>
-				<lb n="N001"/>$$GRAPHIC.” Der Nonenakkord g h d f a
+				<lb n="N001"/>.” Der Nonenakkord g h d f a
 				<lb n="N002"/>soll nach <persName>Riemann</persName> ( S. 78) „Zusammenklang des Dur¬
-				<lb n="N003"/>septimenakkords $$GRAPHIC und des Mollseptimenakkordes $$GRAPHIC” sein.
+				<lb n="N003"/>septimenakkords  und des Mollseptimenakkordes ” sein.
 			</p>
             <p>
 				<lb n="N001"/>Wer wird diese gezwungenen Deutungen ohne Staunen hin¬
@@ -843,11 +858,11 @@
 				<lb n="N001"/>Ich komme nunmehr zu dem dualistischen Akkorde par ex¬
 				<lb n="N002"/>cellence, dem Gegenbilde des Durseptimenakkordes, nämlich zu dem
 				<lb n="N003"/>von oben nach unten gebildeten „<hi rendition="#g">Mollseptimenakkorde</hi>”
-				<lb n="N004"/>h d f a<persName>Riemanns</persName>. Wie findet sich der Monismus mit diesem Klange
+				<lb n="N004"/>h d f a <persName>Riemanns</persName>. Wie findet sich der Monismus mit diesem Klange
 				<lb n="N005"/>ab? Die nächst liegende, daher im Zweifel anzunehmende Be¬
 				<lb n="N006"/>deutung ist (G) h d f a (Fig. 27) oder (G) h d F a (c) (Fig. 28).
 				<lb n="N007"/>nicht nur in C dur, sondern auch in A moll. Ist d Grundton, so
-				<lb n="N008"/>kompliziert sich die Analyse zu (G) h D F a (c) (Fig. 29).<note type="remarkSource" n="*)"><lb n="N001"/>Auch die Dualisten müssen trotz $$GRAPHIC die Grundtonqualität
+				<lb n="N008"/>kompliziert sich die Analyse zu (G) h D F a (c) (Fig. 29).<note type="remarkSource" n="*)"><lb n="N001"/>Auch die Dualisten müssen trotz  die Grundtonqualität
 				<lb n="N002"/>des <hi rendition="#b">d</hi> anerkennen.</note>
 			</p>
             <p>
@@ -859,7 +874,7 @@
 				<lb n="N006"/>♮B d F a (c) möglich (Fig. 33). Die musikalische Akustik arbeitet
 				<lb n="N007"/>also auch bei diesem Klange mit einer feinfühligen Differenzierung,
 				<lb n="N008"/>welche man bei dem Dualisten<persName>Riemann</persName> vergebens sucht, dem nur
-				<lb n="N009"/>die Analysen $$GRAPHIC und $$GRAPHIC mit dem erzwungenen Grund¬
+				<lb n="N009"/>die Analysen  und  mit dem erzwungenen Grund¬
 				<lb n="N010"/>ton d zu Gebote stehen. Bei mir ist das Grundbass-(dur-)prinzip
 				<lb n="N011"/>und der Terzenbau konsequent auch hier durchgeführt, der bei
 				<lb n="N012"/>dem engen Zusammenhange zwischen C dur und A moll auffällige
@@ -893,7 +908,8 @@
 				<lb n="N024"/>Prof. <persName>H. Schröder</persName> vergleichen und betreffs der reinen Molltypen
 				<lb n="N025"/>in  den Anhang (Zukunftsmusik?) sowie in  S. 57—63
 				<lb n="N026"/>durchlesen, wo entwickelt ist, dass eine neue Kunst der Harmonik
-				<lb n="N027"/>und Melodik geboren werden wird, wenn <hi rendition="#g">die vierfache Wurzel<lb n="N028"/>des Mollklanges und der Molltonalität</hi> als wahre Tat¬
+				<lb n="N027"/>und Melodik geboren werden wird, wenn <hi rendition="#g">die vierfache Wurzel
+				<lb n="N028"/>des Mollklanges und der Molltonalität</hi> als wahre Tat¬
 				<lb n="N029"/>sache anerkannt wird und dann in der Phantasie des Komponisten
 				<lb n="N030"/>Blüten treibt.
 			</p>
@@ -901,7 +917,8 @@
 				<lb n="N001"/>Die Geringschätzung, die <persName>H. Riemann</persName> in seiner 
 				<lb n="N002"/> gegen meine <hi rendition="#b">Experimente am Klavier</hi> in  äussert,
 				<lb n="N003"/>veranlasst mich, der auch von andern gestellten Frage näher zu
-				<lb n="N004"/>treten, ob denn das <hi rendition="#g">Klavier mit seiner temperierten<lb n="N005"/>Stimmung</hi> das geeignete Instrument für Experimente ist, ob diese
+				<lb n="N004"/>treten, ob denn das <hi rendition="#g">Klavier mit seiner temperierten
+				<lb n="N005"/>Stimmung</hi> das geeignete Instrument für Experimente ist, ob diese
 				<lb n="N006"/>temperierte Stimmung überhaupt die Grundlage der musikalischen
 				<lb n="N007"/>Akustik sein kann? Ich bejahe diese Fragen aus folgenden Gründen:
 			</p>
@@ -917,7 +934,8 @@
             	<lb n="N001"/>das grosse c anschlägt. Bei <persName>Stumpf</persName> () findet man
 				<lb n="N002"/>u. a. folgende Stelle: „Man gebe C auf dem Klavier oder Cello
 				<lb n="N003"/>an; fast immer wird man ohne Schwierigkeiten den 7. Teilton (b″)
-				<lb n="N004"/>und wahrscheinlich auch den 9. (d″) heraushören.” Selbst <hi rendition="#g"><persName>Rie¬</persName><lb n="N005"/><persName>mann</persName></hi> hat das Klavier zu einem Untertonexperiment herangezogen,
+				<lb n="N004"/>und wahrscheinlich auch den 9. (d″) heraushören.” Selbst <hi rendition="#g"><persName>Rie¬
+				<lb n="N005"/>mann</persName></hi> hat das Klavier zu einem Untertonexperiment herangezogen,
 				<lb n="N006"/>auf das ich unten weiter eingehen werde.
 			</p>
             <p>
@@ -973,7 +991,8 @@
 				<lb n="N004"/>menten besonders geeignet erscheinen. Entscheidend ist das von
 				<lb n="N005"/>mir angegebene chromatische Experiment in Fig. 35: Zu dem
 				<lb n="N006"/>stummen grossen C (Des, D) wird man nach Abspielen des chro¬
-				<lb n="N007"/>matischen Laufes einen <hi rendition="#g">von unharmonischen Obertönen<lb n="N008"/>freien Durnonenakkord</hi> hören, obwohl doch jene Obertöne,
+				<lb n="N007"/>matischen Laufes einen <hi rendition="#g">von unharmonischen Obertönen
+				<lb n="N008"/>freien Durnonenakkord</hi> hören, obwohl doch jene Obertöne,
 				<lb n="N009"/>z. B. zum grossen C: 11 (f″ und fis″), 13 (a″ und as″), 15 (h″)
 				<lb n="N010"/>zum Erklingen gebracht werden (!). <hi rendition="#g">Perzipiert</hi> werden zwar
 				<lb n="N011"/>auch diese höheren Obertöne, aber zum Bewusstsein kommen sie
@@ -990,7 +1009,8 @@
 			</p>
             <p>
 				<lb n="N001"/>6. Überhaupt kommen wir mit dem rein sinnlichen Ein¬
-				<lb n="N002"/>druck in der Musik nicht aus, da er durch <hi rendition="#g">psychologische<lb n="N003"/>Verarbeitung</hi> modifiziert werden kann,  dass jedoch der
+				<lb n="N002"/>druck in der Musik nicht aus, da er durch <hi rendition="#g">psychologische
+				<lb n="N003"/>Verarbeitung</hi> modifiziert werden kann,  dass jedoch der
 				<lb n="N004"/>sinnliche Eindruck aufhört, die Grundlage unseres Hörens zu bleiben.
 				<lb n="N005"/>In der „” habe ich bereits psychologischen
 				<lb n="N006"/>Begriffen wie „Auffassung, Verschmelzung, Zusammenhang, Gedanken¬
@@ -1010,7 +1030,8 @@
 				<lb n="N023"/>gleichenden apperzipierenden Geistes. Denn das musikalische Hören
 				<lb n="N024"/>ist selbst bei dem nicht durch fachmännische Schulung oder durch
             	<pb facs="#f0029" n="25"/>
-            	<lb n="N001"/>Gewöhnung speziell gebildeten Hörer<hi rendition="#g">nicht nur ein physisches<lb n="N002"/>Erleiden</hi>, sondern eine , ein fort¬
+            	<lb n="N001"/>Gewöhnung speziell gebildeten Hörer<hi rendition="#g">nicht nur ein physisches
+				<lb n="N002"/>Erleiden</hi>, sondern eine , ein fort¬
 				<lb n="N003"/>gesetztes <hi rendition="#g">Vergleichen und Verknüpfen</hi> der einander fol¬
 				<lb n="N004"/>genden Töne und Zusammenklänge. Darin allein liegt die Erklärung
 				<lb n="N005"/>dafür, dass die effektive akustische Stimmung eines Intervalls
@@ -1415,7 +1436,7 @@
 				<lb n="N001"/>Wenn also weder der Wohlklang noch der Mangel des Auf¬
 				<lb n="N002"/>lösungsbedürfnisses ein Merkmal der Konsonanz ist, so ist es wohl
 				<lb n="N003"/>die psychologische Tatsache der <hi rendition="#g">Verschmelzung</hi>? Bekannt
-				<lb n="N004"/>sind die Versuche<persName>Stumpfs</persName> an Unmusikalischen, denen er zwei Töne
+				<lb n="N004"/>sind die Versuche <persName>Stumpfs</persName> an Unmusikalischen, denen er zwei Töne
 				<lb n="N005"/>zu gleicher Zeit angab, ohne sie wissen zu lassen, ob ein oder
 				<lb n="N006"/>zwei verschiedene Töne an das Ohr traten. Die Versuchspersonen
 				<lb n="N007"/>mussten jedesmal angeben, ob sie einen oder zwei Töne gehört
@@ -1433,7 +1454,8 @@
 				<lb n="N004"/>so vollkommener, je höher die Verschmelzungsstufe steht. — Auf¬
 				<lb n="N005"/>fallend ist die Übereinstimmung dieser Stufenfolge mit der Rang¬
 				<lb n="N006"/>ordnung der Schwingungszahlen in der Obertonreihe. Der Kausal¬
-				<lb n="N007"/>zusammenhang ist unverkennbar, so dass man die <hi rendition="#g">Verschmelzung<lb n="N008"/>eine Funktion der Schwingungsverhältnisse</hi> nennen darf.
+				<lb n="N007"/>zusammenhang ist unverkennbar, so dass man die <hi rendition="#g">Verschmelzung
+				<lb n="N008"/>eine Funktion der Schwingungsverhältnisse</hi> nennen darf.
 				<lb n="N009"/>Sagt doch auch <persName>Stumpf</persName>: „Wir haben anzunehmen, dass beim gleich¬
 				<lb n="N010"/>zeitigen Erklingen oder blossen Vorstellen zweier Töne, die ein
 				<lb n="N011"/><hi rendition="#g">relativ-einfaches</hi> Schwingungsverhältnis zu einander haben,
@@ -1602,7 +1624,8 @@
 				<lb n="N004"/>Gassenhauern ist hier hinzuweisen.
             </p>
             <p>
-				<lb n="N001"/><hi rendition="#g">Nunmehr ist auch das Rätsel der Mollkonsonanz<lb n="N002"/>gelöst</hi>. In Fig. 41 haben wir ja den A mollseptimenakkord
+				<lb n="N001"/><hi rendition="#g">Nunmehr ist auch das Rätsel der Mollkonsonanz
+				<lb n="N002"/>gelöst</hi>. In Fig. 41 haben wir ja den A mollseptimenakkord
 				<lb n="N003"/>a c e g und dieser wird als A C e g gehört, also als Doppelklang
 				<lb n="N004"/>mit a und c als Grundtönen(!). Dem Durdreiklang steht dieser
 				<lb n="N005"/>Akkord der Konsonanzwirkung nach am nächsten, weil das g als
@@ -1655,7 +1678,7 @@
 				<lb n="N010"/>klang als „getrübter” Durdreiklang = A ♮cis e, wegen des durch
 				<lb n="N011"/>die Terzenkollision entstehenden dissonanten Intervalles c—cis. Mit
 				<lb n="N012"/>Recht wendet sich hier <persName>Riemann</persName> gegen <persName>Helmholtz</persName>, der durch die
-				<lb n="N013"/>Erniedrigung der Terz um <formula notation="TeX">\frac{1}{2}</formula> Ton die Konsonanz des Durakkordes
+				<lb n="N013"/>Erniedrigung der Terz um <formula notation="TeX">$\frac{1}{2}$</formula> Ton die Konsonanz des Durakkordes
 				<lb n="N014"/>nur getrübt, aber nicht aufgehoben wissen will ( S. 5).
 				<lb n="N015"/>Der grosse Fortschritt gegen den „Monisten” <persName>Helmholtz</persName> ist, dass
 				<lb n="N016"/>ich nicht wie dieser den Mollakkord c es g<hi rendition="#g">entweder</hi> als einen
@@ -1702,7 +1725,7 @@
 				<lb n="N008"/>mut . . . Moll ist nicht gerade bloss das Traurige, Weiche, sondern
 				<lb n="N009"/>überhaupt das <hi rendition="#g">Verhüllte</hi> der Stimmung, das Versenktsein des
 				<lb n="N010"/>Subjekts in eine Stimmung.” Die Gegenüberstellung von A cis e
-				<lb n="N011"/>und $$GRAPHIC sagt bereits alles, und die „herabziehende Schwere”,
+				<lb n="N011"/>und  sagt bereits alles, und die „herabziehende Schwere”,
 				<lb n="N012"/>die <persName>M. Hauptmann</persName> dem Mollklange zuschreibt, kommt sogar in
 				<lb n="N013"/>zweifacher Weise zum Ausdruck, einmal in dem (chromatischen)
 				<lb n="N014"/>Herabsteigen der Basisterz cis zum Grundton C, sodann in dem
@@ -1816,7 +1839,7 @@
 				<lb n="N001"/>Wie steht es aber mit dem <hi rendition="#g">übermässigen Dreiklange</hi>
 				<lb n="N002"/>c e gis? Man hat sich den Kopf darüber zerbrochen, wie bei
 				<lb n="N003"/>temperierter Stimmung der Komplex der <hi rendition="#g">konsonanten</hi> Intervalle
-				<lb n="N004"/>c—e, e—gis, $$GRAPHIC einen dissonanten Totaleffekt erzeugen kann?
+				<lb n="N004"/>c—e, e—gis,  einen dissonanten Totaleffekt erzeugen kann?
 				<lb n="N005"/>Die richtige Antwort ist folgende: Der übermässige Dreiklang kann
 				<lb n="N006"/>entweder als einfacher alterierter Klang C e ♯g — analog dem
 				<lb n="N007"/>Mollklange A ♮cis e — oder als Doppelklang C E gis (h) — analog
@@ -1859,20 +1882,21 @@
 				<lb n="N007"/>Dennoch bleibt die Auffassung von g—h als G h (d) auch hier
 				<lb n="N008"/>bestehen. Mit diesem paradoxen Sachverhalt stimmt die Moll¬
 				<lb n="N009"/>analyse E G h (d) vortrefflich überein, ganz und gar nicht dagegen
-				<lb n="N010"/>E ♮gis h und $$GRAPHIC.
+				<lb n="N010"/>E ♮gis h und .
 			</p>
             <p>
 				<lb n="N001"/>Endlich sei die Konsonanzfrage betreffs des Dur- und Moll¬
 				<lb n="N002"/>klanges gegenüber den Dualisten nochmals genau präzisiert: Sie
 				<lb n="N003"/>ist nicht im Anschluss an die Gegenüberstellung <persName>v. Oettingens</persName>
-				<lb n="N004"/>(tonischer Grundton $$GRAPHIC phonischer Oberton)
+				<lb n="N004"/>(tonischer Grundton  phonischer Oberton)
 				<lb n="N005"/>so zu entscheiden: „Der Durakkord ist tonisch konsonant und
 				<lb n="N006"/>phonisch dissonant, der Mollakkord ist phonisch konsonant und
 				<lb n="N007"/>tonisch dissonant” (wie auch <persName>Riemann</persName>,  S. 24, be¬
 				<lb n="N008"/>hauptet), sondern so: <hi rendition="#g">Der Durakkord c e g ist (in Grund¬
 				<lb n="N009"/>stellung) in jedem tonalen Zusammenhange kon¬
 				<lb n="N010"/>sonant, der Mollakkord a c e ist konsonant als Doppel¬
-				<lb n="N011"/>klang A C e (g) und als einfacher Klang (D fis) a c e,<lb n="N012"/>dagegen dissonant als Doppelklang (F) a C e (g) und<lb n="N013"/>als einfacher Klang A ♮cis e. Dur und Moll sind stets<lb n="N014"/>„monistisch”, d. h. von der Grundbassperspektive<lb n="N015"/>aus zu betrachten, entsprechend dem tatsächlichen<lb n="N016"/>Hören.</hi>
+				<lb n="N011"/>klang A C e (g) und als einfacher Klang (D fis) a c e,<lb n="N012"/>dagegen dissonant als Doppelklang (F) a C e (g) und<lb n="N013"/>als einfacher Klang A ♮cis e. Dur und Moll sind stets<lb n="N014"/>„monistisch”, d. h. von der Grundbassperspektive
+				<lb n="N015"/>aus zu betrachten, entsprechend dem tatsächlichen<lb n="N016"/>Hören.</hi>
             </p>
             <p>
 				<lb n="N001"/>Dieses in Wahrheit <hi rendition="#g">monistische</hi> Glaubensbekenntnis werden
@@ -1990,7 +2014,8 @@
 				<lb n="N017"/>parallelen denkt man jetzt milder und lässt sie durchpassieren,
 				<lb n="N018"/>so sie durch Gegenbewegung (!) oder Dissonanz verdeckt sind . . . .
 				<lb n="N019"/>Schlecht klingen an und für sich weder parallele Oktaven noch
-				<lb n="N020"/>parallele Quinten . . . <hi rendition="#g">Es gibt viele Fälle, wo der Satz<lb n="N021"/>mit Quintenparallelen wohlklingender ist, als ohne<lb n="N022"/>dieselben</hi>”(!).
+				<lb n="N020"/>parallele Quinten . . . <hi rendition="#g">Es gibt viele Fälle, wo der Satz
+				<lb n="N021"/>mit Quintenparallelen wohlklingender ist, als ohne<lb n="N022"/>dieselben</hi>”(!).
 			</p>
             <p>
 				<lb n="N001"/>Mit der <persName>Riemannschen</persName> Begründung vereinigen sich diese Zu¬
@@ -2104,7 +2129,7 @@
 				<lb n="N003"/>Natur gegeben, durch das akustische Phänomen der Obertöne (Teil¬
 				<lb n="N004"/>töne). Die Nachbildung des Oberklanges durch wirkliche Hervor¬
 				<lb n="N005"/>bringung der ersten Teiltöne heisst in der Musikpraxis „Durakkord”
-				<lb n="N006"/>$$GRAPHIC = C-Oberklang, C durklang, abgek. durch c +).
+				<lb n="N006"/> = C-Oberklang, C durklang, abgek. durch c +).
 			</p>
             <p>
 				<lb n="N001"/>„Der Unterklang hat sein Vorbild nicht so direkt in der
@@ -2122,7 +2147,7 @@
 				<lb n="N007"/>heraus zu streben, sondern sich selbst zu genügen. Diese zweite
 				<lb n="N008"/>Art konsonierender Akkorde, bestehend aus den ersten Teiltönen
 				<lb n="N009"/>des Unterklangs, nennen die Musiker Mollakkord (der A mollklang
-				<lb n="N010"/>$$GRAPHIC = E-Unterklang, abgek. durch <hi rendition="#sup">0</hi>e) —  S. 2 ff.
+				<lb n="N010"/> = E-Unterklang, abgek. durch <hi rendition="#sup">0</hi>e) —  S. 2 ff.
 			</p>
             <p>
 				<lb n="N001"/>Nach dem Prinzip der Oktavenvertretung ( S. 4, 5) ist im
@@ -2320,7 +2345,7 @@
 				<lb n="N002"/><hi rendition="#b">Verhältnis zwischen Prim und Terz.</hi>
             </head>
             <p>
-				<lb n="N001"/>Wenn Prim und Quint im dualistischen Klangsystem<persName>R.s</persName> eine
+				<lb n="N001"/>Wenn Prim und Quint im dualistischen Klangsystem <persName>R.s</persName> eine
 				<lb n="N002"/>höchst zweideutige, wenig beneidenswerte Rolle spielen, so sollte
 				<lb n="N003"/>man meinen, dass doch wenigstens die Terz im Reiche der Ober-
 				<lb n="N004"/>und Untertöne eine sichere unabhängige Existenz führe, da die
@@ -2338,7 +2363,7 @@
 				<lb n="N001"/> S. 60: Neue Harmonieschritte entstehen dadurch nicht,
 				<lb n="N002"/>wohl aber neue Harmoniewirkungen, die darauf basieren, dass die
 				<lb n="N003"/>(konsonanten) Bildungen (d+ und <hi rendition="#sup">0</hi>fis) eigentlich <hi rendition="#g">dissonante</hi>
-				<lb n="N004"/>sind (fis = $$GRAPHIC).”
+				<lb n="N004"/>sind (fis = ).”
 			</p>
             <p>
 				<lb n="N001"/> S. 91: „Einzig die Einführung der kleinen Terz statt der
@@ -2414,8 +2439,8 @@
             <p>
 				<lb n="N001"/>Interessant ist die Betrachtung des Nonenakkordes in beiden
 				<lb n="N002"/>Geschlechtern, da g<hi rendition="#sup">9</hi> in C dur und a<hi rendition="#sup">IX</hi> in A moll identisch sind
-				<lb n="N003"/>$$GRAPHIC, desgl. der elliptische kleine Nonenakkord in A moll¬
-				<lb n="N004"/>dur und A durmoll $$GRAPHIC. Letzteres Gebilde ist unter
+				<lb n="N003"/>, desgl. der elliptische kleine Nonenakkord in A moll¬
+				<lb n="N004"/>dur und A durmoll . Letzteres Gebilde ist unter
 				<lb n="N005"/>dem Namen „Verminderter Septimenakkord” bekannt. Sehen wir
 				<lb n="N006"/>nunmehr, wie sich <persName>R.</persName> zum <hi rendition="#g">Unter</hi>nonenakkord stellt:
 			</p>
@@ -2521,7 +2546,7 @@
 				<lb n="N001"/>Ich glaube, jeder wird mir darin beistimmen, dass diese von
 				<lb n="N002"/><persName>R.</persName> als natürlich bezeichnete tonale Mollfolge mit der als durchaus
 				<lb n="N003"/>normal empfundenen tonalen Durkadenz gar nicht verglichen werden
-				<lb n="N004"/>kann! In Wahrheit entspricht der „normalen” Mollkadenz<persName>R.s</persName> nicht
+				<lb n="N004"/>kann! In Wahrheit entspricht der „normalen” Mollkadenz <persName>R.s</persName> nicht
 				<lb n="N005"/>die Durkadenz c+ — f+ — g+ — c+, sondern c+ — g+ — f+
 				<lb n="N006"/>— c+, wegen der durchaus gleichen Wirkung, welche wiederum
 				<lb n="N007"/>auf der gleichen Verwandtschaft der einander folgenden Klänge
@@ -2545,7 +2570,7 @@
 				<lb n="N007"/>zu diesem Ergebnis bei.
 			</p>
             <p>
-				<lb n="N001"/><hi rendition="#b">Somit scheitert die Untertontheorie<persName>R.s</persName> nicht bloss<lb n="N002"/>in ihrer Anwendung auf den Bau der drei Mollklänge,<lb n="N003"/>sondern auch in ihrer Anwendung auf die organische<lb n="N004"/>Verbindung dieser drei Mollklänge, ein um so wichtigeres<lb n="N005"/>Resultat, als <persName>R.</persName> gerade der Kadenzparallele die grösste<lb n="N006"/>Bedeutung beilegt</hi> (siehe ).
+				<lb n="N001"/><hi rendition="#b">Somit scheitert die Untertontheorie <persName>R.s</persName> nicht bloss<lb n="N002"/>in ihrer Anwendung auf den Bau der drei Mollklänge,<lb n="N003"/>sondern auch in ihrer Anwendung auf die organische<lb n="N004"/>Verbindung dieser drei Mollklänge, ein um so wichtigeres<lb n="N005"/>Resultat, als <persName>R.</persName> gerade der Kadenzparallele die grösste<lb n="N006"/>Bedeutung beilegt</hi> (siehe ).
 			</p>
          </div>
          <div type="chapter" n="3">
@@ -2572,7 +2597,8 @@
 				<lb n="N007"/>dominante etwas so Alltägliches, dass wir die Formel „Durakkord
 				<lb n="N008"/>mit Sexte” meist als gleichbedeutend ansehen können mit Dur¬
 				<lb n="N009"/>akkord als Unterdominante, z. B. g<hi rendition="#sup">6</hi> als Unterdominante in D dur.
-				<lb n="N010"/><hi rendition="#b">Der Mollakkord mit Untersexte müsste folgerichtig die<lb n="N011"/>Bedeutung des Mollakkordes als Oberdominante in Moll<lb n="N012"/>nahe legen; derselbe ist uns aber, wie die Mollober¬
+				<lb n="N010"/><hi rendition="#b">Der Mollakkord mit Untersexte müsste folgerichtig die<lb n="N011"/>Bedeutung des Mollakkordes als Oberdominante in Moll
+				<lb n="N012"/>nahe legen; derselbe ist uns aber, wie die Mollober¬
 				<lb n="N013"/>dominante überhaupt, durchaus ungeläufig.”</hi>
 			</p>
          </div>
@@ -2641,8 +2667,8 @@
             <p>
 				<lb n="N001"/>Wir antworten: Ganz und gar nicht Sache der Gewohnheit,
 				<lb n="N002"/>sondern der Unmöglichkeit des Untertonsystems. Die Darstellung
-				<lb n="N003"/>des C durklanges in Moll als $$GRAPHIC oder h<hi rendition="#sup">VII&gt;</hi> des F Durklanges als
-				<lb n="N004"/>e<hi rendition="#sup">VII&gt;</hi> oder $$GRAPHIC, endlich des G durklanges als $$GRAPHIC, wie sie <persName>R.</persName>
+				<lb n="N003"/>des C durklanges in Moll als  oder h<hi rendition="#sup">VII&gt;</hi> des F Durklanges als
+				<lb n="N004"/>e<hi rendition="#sup">VII&gt;</hi> oder , endlich des G durklanges als , wie sie <persName>R.</persName>
 				<lb n="N005"/>analog den Terzwechselklängen in C dur gibt, widerspricht so sehr
 				<lb n="N006"/>jedem gesunden Gefühl, dass jede weitere Erörterung überflüssig
 				<lb n="N007"/>ist. Übrigens scheint <persName>R.</persName> selbst vor den gezogenen Konsequenzen
@@ -2728,11 +2754,11 @@
             <p>
 				<lb n="N001"/>Trotzdem wir den E dur- und E mollklang zweifellos auf die¬
 				<lb n="N002"/>selbe Basis e beziehen, hören wir nach <persName>R.</persName> nur bei a) den schlichten
-				<lb n="N003"/>Terzschritt, bei b) aber einen Leittonwechsel $$GRAPHIC.
+				<lb n="N003"/>Terzschritt, bei b) aber einen Leittonwechsel .
 			</p>
             <p>
 				<lb n="N001"/>Bei c) hören wir den Gegenterzschritt, bei d) angeblich einen
-				<lb n="N002"/>Gegenkleinterzwechsel $$GRAPHIC (?). 
+				<lb n="N002"/>Gegenkleinterzwechsel  (?). 
 			</p>
          </div>
          <pb facs="#f0066" n="62"/>
@@ -2779,7 +2805,7 @@
 				<lb n="N001"/>Folgende Modulationen sollten einander entsprechen:
             	 <figure type="notatedMusic"/>
             	<lb n="N001"/>Auch hier hat indessen <persName>R.</persName> das reine Moll übergangen und die
-				<lb n="N002"/>Umdeutung nach Dur (Durmoll) unternommen mit $$GRAPHIC.
+				<lb n="N002"/>Umdeutung nach Dur (Durmoll) unternommen mit .
 			</p>
          </div>
          <div type="chapter" n="4">
@@ -2861,7 +2887,9 @@
 				<lb n="N009"/>Widerspruch? Durch das melodische Prinzip! „Die elementare
 				<lb n="N010"/>Wirkung des Melodischen gegenüber dem Harmonischen macht
             	<pb facs="#f0068" n="64"/>
-            	<lb n="N001"/>sich auch für Mollmodulationen geltend und lässt den <hi rendition="#b">Übergang<lb n="N002"/>in die Unterdominanttonart, obgleich derselbe harmonisch<lb n="N003"/>die natürlichste Weiterentwicklung (der schlichte Quint¬
+            	<lb n="N001"/>sich auch für Mollmodulationen geltend und lässt den <hi rendition="#b">Übergang
+				<lb n="N002"/>in die Unterdominanttonart, obgleich derselbe harmonisch
+				<lb n="N003"/>die natürlichste Weiterentwicklung (der schlichte Quint¬
 				<lb n="N004"/>schritt) ist, als ein </hi> erscheinen” . . . (
 				<lb n="N005"/>S. 138).
 			</p>
@@ -2907,13 +2935,13 @@
 				<lb n="N004"/>„Beim Übergange von der Unterdominante zur Oberdominante (resp.
 				<lb n="N005"/>deren Quartsextakkord) erscheint eine neue Zwischenharmonie, die
 				<lb n="N006"/>durch chromatische Erhöhung des Grundtones der Unterdominante
-				<lb n="N007"/>entsteht ($$GRAPHIC), aber ohne alle Schwierigkeit auch gemäss der da¬
+				<lb n="N007"/>entsteht (), aber ohne alle Schwierigkeit auch gemäss der da¬
 				<lb n="N008"/>durch entstandenen neuen Tonkombinationen als zweite Ober¬
 				<lb n="N009"/>dominante (d<hi rendition="#sup">7</hi>) verstanden werden kann; die letztere Auffassung
 				<lb n="N010"/>muss Platz greifen, wo die Komponisten diese Zwischenharmonie
 				<lb n="N011"/>in der Gestalt eines kleinen Terznonenakkordes (verminderten
 				<lb n="N012"/>Septimenakkordes der alten Terminologie) einführen, z. B. in C dur
-				<lb n="N013"/>fis a c es = d<hi rendition="#sup">9&gt;</hi> (statt des selteneren fis ac dis = $$GRAPHIC).
+				<lb n="N013"/>fis a c es = d<hi rendition="#sup">9&gt;</hi> (statt des selteneren fis ac dis = ).
 			</p>
             <p>
 				<lb n="N001"/>Endlich  S. 86: „Die Einführung des <hi rendition="#g">Seitenwechsel</hi>¬
@@ -2928,10 +2956,10 @@
 				<lb n="N008"/>an Stelle des Terzwechselklanges der Tonika (<hi rendition="#sup">0</hi>e) einrückt und
 				<lb n="N009"/>auch direkt als Unterterzklang der Tonika verständlich ist; weitere
 				<lb n="N010"/>Konsequenzen sind der Unterseptimenakkord des Seitenwechsel¬
-				<lb n="N011"/>klanges mit erhöhter Quint ($$GRAPHIC, der aber auch als 2. Ober¬
-				<lb n="N012"/>dominante mit erniedrigter Quint verstanden werden kann (= $$GRAPHIC),
+				<lb n="N011"/>klanges mit erhöhter Quint (, der aber auch als 2. Ober¬
+				<lb n="N012"/>dominante mit erniedrigter Quint verstanden werden kann (= ),
 				<lb n="N013"/>der Unterterzklang mit übermässiger Sexte (resp. Terznonenakkord
-				<lb n="N014"/>der 2. Oberdominante mit erniedrigter Quint, as<hi rendition="#sup">6&lt;</hi> = $$GRAPHIC) und
+				<lb n="N014"/>der 2. Oberdominante mit erniedrigter Quint, as<hi rendition="#sup">6&lt;</hi> = ) und
 				<lb n="N015"/>der Leittonwechselklang des Seitenwechselklanges, der durch Vor¬
 				<lb n="N016"/>halt der kleinen Obersekunde vor der Mollprim entsteht, d. h. nichts
 				<lb n="N017"/>anderes ist, als der uns aus der Molltonart bekannte Akkord der
@@ -2968,7 +2996,9 @@
             	<lb n="N001"/><hi rendition="#b">Wenn nunmehr ein so wichtiger Bundesgenosse wie Dur¬
 				<lb n="N002"/>moll sich von dem <persName>R.schen</persName>reinen Moll gänzlich los¬
 				<lb n="N003"/>gesagt und die Verbindung mit Dur vollständig her¬
-				<lb n="N004"/>gestellt hat, so fällt jeder Anlass weg, jenes reine Moll<lb n="N005"/>noch als lebensfähigen, ebenbürtigen Gegner des reinen<lb n="N006"/>Dur zu betrachten. Oder soll nunmehr für Moll ein<lb n="N007"/>zweifaches Klangprinzip, im Ober- und Untertonsinne,<lb n="N008"/>neben einander bestehen?</hi> Das wäre doch höchst unnatürlich
+				<lb n="N004"/>gestellt hat, so fällt jeder Anlass weg, jenes reine Moll
+				<lb n="N005"/>noch als lebensfähigen, ebenbürtigen Gegner des reinen
+				<lb n="N006"/>Dur zu betrachten. Oder soll nunmehr für Moll ein<lb n="N007"/>zweifaches Klangprinzip, im Ober- und Untertonsinne,<lb n="N008"/>neben einander bestehen?</hi> Das wäre doch höchst unnatürlich
 				<lb n="N009"/>und unerspriesslich.
             </p>
          </div>
@@ -3074,7 +3104,7 @@
 				<lb n="N003"/>Notierung mit Obertonzahlen geschehen sollen. Weshalb die beiden
 				<lb n="N004"/>Lizenzen bedenklich sein sollen, ist nicht recht verständlich (vgl. den
 				<lb n="N005"/>neapolitanischen Sextakkord o. § 3, Nr. 3 und die <hi rendition="#g">grosse</hi> Unter¬
-				<lb n="N006"/>septime in der phrygischen Mollleiter<persName>Riemanns</persName> S. 67!).
+				<lb n="N006"/>septime in der phrygischen Mollleiter <persName>Riemanns</persName> S. 67!).
 			</p>
          </div>
          <div type="chapter" n="3">
@@ -3144,10 +3174,11 @@
 				<lb n="N004"/>ersichtlich: <hi rendition="#b">Die Analogie zwischen beiden Ge¬
 				<lb n="N005"/>schlechtern besteht nicht in der gegensätz¬
 				<lb n="N006"/>lichen Gleichheit, vermittelt durch das Ober¬
-				<lb n="N007"/>ton- und Untertonprinzip, sondern in der<lb n="N008"/>grundsätzlichen Gleichheit, vermittelt allein<lb n="N009"/>durch das Oberton-(Grundbass-)prinzip. Das<lb n="N010"/>übliche Durmoll ist nicht aus dem reinen<lb n="N011"/>Moll als Spezialtypus, sondern dieses aus Dur¬
+				<lb n="N007"/>ton- und Untertonprinzip, sondern in der<lb n="N008"/>grundsätzlichen Gleichheit, vermittelt allein<lb n="N009"/>durch das Oberton-(Grundbass-)prinzip. Das<lb n="N010"/>übliche Durmoll ist nicht aus dem reinen
+				<lb n="N011"/>Moll als Spezialtypus, sondern dieses aus Dur¬
 				<lb n="N012"/>moll als allgemeinem Typus abgeleitet; denn<lb n="N013"/>das reine Moll ist nur ein Bestandteil (eine<lb n="N014"/>Wurzel) desselben.</hi><note type="remarkSource" n="*)"><lb n="N001"/>Es ist wohl zu beachten, dass in <hi rendition="#g">diesem</hi> reinen A moll das
 				<lb n="N002"/>c als Nebentonika und zwar als Neben-<hi rendition="#g">Grundton</hi> auftritt. Die Kopfton¬
-				<lb n="N003"/>leiter<persName>Riemanns</persName> von e—e ist dagegen in Wahrheit nicht eine von Tonika
+				<lb n="N003"/>leiter <persName>Riemanns</persName> von e—e ist dagegen in Wahrheit nicht eine von Tonika
 				<lb n="N004"/>zu Tonika, sondern eine von <hi rendition="#g">Quint</hi> zu Quint laufende A mollskala.
 				<lb n="N005"/>Der Name jeder Tonleiter richtet sich nach ihrem Verhältnis zur Basis.
 				<lb n="N006"/>Das ist hier a, wir haben also den <hi rendition="#g">äolischen</hi> Typus, nicht den <hi rendition="#g">phry¬
@@ -3166,7 +3197,7 @@
 			</p>
             <p>
 				<lb n="N001"/>— So glaube ich denn wirklich, zutreffend bewiesen zu haben,
-				<lb n="N002"/>dass die dualistische Molltheorie<persName>R.s</persName>akustisch und praktisch un¬
+				<lb n="N002"/>dass die dualistische Molltheorie <persName>R.s</persName>akustisch und praktisch un¬
 				<lb n="N003"/>haltbar, auch ganz überflüssig ist, da alle harmonischen und
 				<lb n="N004"/>melodischen Vorkommnisse in Moll sich vollständig im Grundbass¬
             	<pb facs="#f0075" n="71"/>
@@ -3261,7 +3292,8 @@
             <p>
 				<lb n="N001"/>: „Entweder muss der Schlussakkord in der Quintlage
 				<lb n="N002"/>stehen, damit in der symmetrischen Umkehrung ein Stammakkord
-				<lb n="N003"/>in gleicher Lage daraus wird, oder es muss ein kurzer <hi rendition="#g">ergänzender<lb n="N004"/>Schluss</hi> (Komplementär-Schluss) angefügt werden.”
+				<lb n="N003"/>in gleicher Lage daraus wird, oder es muss ein kurzer <hi rendition="#g">ergänzender
+				<lb n="N004"/>Schluss</hi> (Komplementär-Schluss) angefügt werden.”
 			</p>
             <p>
 				<lb n="N001"/>: „<hi rendition="#g">Selten</hi> findet man Originalsätze, welche sich ohne
@@ -3357,7 +3389,8 @@
 			</p>
             <p>
 				<lb n="N001"/>Dagegen ist dem <persName>Verfasser</persName> zuzugeben, dass die symmetrische
-				<lb n="N002"/>Umkehrung zur Gewinnung <hi rendition="#g">neuer Melodien, zur Variation<lb n="N003"/>und Parodie</hi> sehr wohl dienen kann (cf. ).
+				<lb n="N002"/>Umkehrung zur Gewinnung <hi rendition="#g">neuer Melodien, zur Variation
+				<lb n="N003"/>und Parodie</hi> sehr wohl dienen kann (cf. ).
 				<lb n="N004"/>Durch die Feststellung der Regeln, welche nötig sind, um einen
 				<lb n="N005"/>Originalsatz von vornherein für die Kopfstellung geschickt zu
 				<lb n="N006"/>machen, hat sich der <persName>Verfasser</persName> ein Verdienst erworben ().
@@ -3397,7 +3430,8 @@
 				<lb n="N003"/>sondern ein Vorzug; denn hierdurch bekommt die Inversio stricta
 				<lb n="N004"/>als kontrapunktische Stilform erst Wert und Berechtigung und
 				<lb n="N005"/>verliert das Schematische und Schablonenhafte, das sonst einer
-				<lb n="N006"/>solchen Umkehrung anhaften würde. <hi rendition="#b">Der Konflikt zwischen<lb n="N007"/>Auge und Ohr ist also die Rettung für die symmetrische<lb n="N008"/>Umkehrung</hi> — diese paradox klingende Behauptung bedarf nun
+				<lb n="N006"/>solchen Umkehrung anhaften würde. <hi rendition="#b">Der Konflikt zwischen<lb n="N007"/>Auge und Ohr ist also die Rettung für die symmetrische
+				<lb n="N008"/>Umkehrung</hi> — diese paradox klingende Behauptung bedarf nun
 				<lb n="N009"/>wohl keiner Begründung mehr.
 			</p>
             <p>
@@ -3467,15 +3501,15 @@
 				<lb n="N002"/>der Mehrklänge! Der Akkord g h d f a wird sowohl mit folgendem
 				<lb n="N003"/>C dur- wie A mollklange allemal von unten nach oben gehört, nie
 				<lb n="N004"/>umgekehrt, obwohl das Auge die gegensätzliche Gleichheit von
-				<lb n="N005"/>$$GRAPHIC und $$GRAPHIC aufzufassen vermag. Nicht anders verhält
-				<lb n="N006"/>es sich mit den Klängen $$GRAPHIC und $$GRAPHIC, $$GRAPHIC und
-				<lb n="N007"/>$$GRAPHIC, $$GRAPHIC und $$GRAPHIC, $$GRAPHIC und $$GRAPHIC.
+				<lb n="N005"/> und  aufzufassen vermag. Nicht anders verhält
+				<lb n="N006"/>es sich mit den Klängen  und ,  und
+				<lb n="N007"/>,  und ,  und .
 				<lb n="N008"/>Die akustischen Deutungen im Grundbasssinne sind: g h d f a und
 				<lb n="N009"/>h d f a g = G<hi rendition="#sup">9</hi>, h g d f as und h d f as g = G<hi rendition="#sup">♭9</hi>?; die übrigen
 				<lb n="N010"/>Akkorde sind Doppelklänge, nämlich a g h d f = G h d F a (c),
-				<lb n="N011"/>gis h d a f = $$GRAPHIC, a gis h d f ebenso oder =
-				<lb n="N012"/>$$GRAPHIC, as g h d f = $$GRAPHIC oder =
-				<lb n="N013"/>$$GRAPHIC, h d f a gis = $$GRAPHIC. Man erkennt,
+				<lb n="N011"/>gis h d a f = , a gis h d f ebenso oder =
+				<lb n="N012"/>, as g h d f =  oder =
+				<lb n="N013"/>, h d f a gis = . Man erkennt,
 				<lb n="N014"/>dass hier überall entsprechend der Auffassung des Ohres gemäss
 				<lb n="N015"/>dem Naturgesetze das Oberton-(Dur-)prinzip gewahrt und die Unter¬
 				<lb n="N016"/>tonhypothese überflüssig ist (vgl. S. 8, 9 vorliegender Broschüre).
@@ -3509,7 +3543,7 @@
             <p>
 				<lb n="N001"/>Beiläufig bemerkt, sollte es bei unserer fortgeschrittenen
 				<lb n="N002"/>harmonischen Erkenntnis nicht mehr vorkommen, dass ein Theoretiker
-				<lb n="N003"/>die Akkordfolgen $$GRAPHIC und IV<hi rendition="#sup">7</hi> — VII<hi rendition="#sup">0</hi> als <hi rendition="#g">regelmässige</hi>
+				<lb n="N003"/>die Akkordfolgen  und IV<hi rendition="#sup">7</hi> — VII<hi rendition="#sup">0</hi> als <hi rendition="#g">regelmässige</hi>
 				<lb n="N004"/>Auflösungen erklärt ().
 			</p>
             <p>

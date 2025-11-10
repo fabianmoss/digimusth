@@ -1,0 +1,1541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Riemann_Problem_split</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>tranScriptorium</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <publisher>TRP document creator: maikkoester@hotmail.de</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+   	<front>
+   	  <pb facs="#f0001"/>
+         <pb facs="#f0002"/>
+   	  
+   	<titlePage type="main">
+   	  	   <byline>
+   	  	   		<lb n="N001"/><docAuthor><hi rendition="#b">HUGO RIEMANN</hi></docAuthor>
+   	  	   </byline>
+				<docTitle>
+           	 	<titlePart type="main">
+						<lb n="N002"/><hi rendition="#b">Das Problem</hi>
+						<lb n="N003"/>des
+						<lb n="N004"/><hi rendition="#b">harmonischen Dualismus</hi>
+           	 	</titlePart>
+					<titlePart type="sub">
+						<lb n="N005"/>Ein Beitrag
+						<lb n="N006"/>zur Ästhetik der Musik
+					</titlePart>
+				</docTitle>
+				<byline>
+					<lb n="N007"/>Separatabdruck
+					<lb n="N008"/>aus der , <date when="1905">1905</date> No. 1—4
+				</byline>
+				<docImprint>
+					<lb n="N009"/><pubPlace>Leipzig</pubPlace>
+					<lb n="N010"/><publisher>Verlag von C. F. Kahnt Nachfolger</publisher>
+					<lb n="N011"/><docDate when="1905">1905</docDate>.
+				</docImprint>
+		  </titlePage>
+   		<div type="contents"><list n="1"><item>
+				I. Einleitung.
+			</item><item>
+				II. Sind die Obertöne der „Grund” der Konsonanz?
+			</item><item>
+				III. Intervallverschmelzung oder Klangvertretung?
+			</item><item>
+				IV. Die wahre Wurzel des harmonischen Dualismus.
+			</item><item>
+				V. Das Grundton-Problem.
+			</item></list></div>
+   	</front>
+      <body>
+         <pb facs="#f0003"/>
+         <pb facs="#f0004"/>
+         <div rend="TEI" facs="#facs_4_TextRegion_1622740935039_243" type="chapter" n="1">
+			<head>
+				<lb n="N001"/><hi rendition="#b">I. Einleitung.</hi>
+			</head>
+            <p>
+				<lb n="N001"/>Laufende Arbeiten, die meine Zeit restlos in An¬
+				<lb n="N002"/>spruch nahmen, haben mich verhindert, schon früher
+				<lb n="N003"/>dem Drängen meiner Freunde zu willfahren und in
+				<lb n="N004"/>einer Spezialstudie die Frage zu behandeln, welche
+				<lb n="N005"/>den eigentlichen Kern der in meinen harmonietheo¬
+				<lb n="N006"/>retischen Arbeiten vertretenen Reformen bedeutet. Aller¬
+				<lb n="N007"/>dings glaubte ich, durch die Schlusskapitel meiner
+				<lb n="N008"/><date when="1898">1898</date> erschienenen „
+				<lb n="N009"/>” (S. 369—406 Kap. 13 „<persName>Zarlino</persName>
+				<lb n="N010"/>und die Aufdeckung der dualen Natur der Harmonie”
+				<lb n="N011"/>und S. 450—509 Kap. 15 „Musikalische Logik”) sowie
+				<lb n="N012"/>schon durch den „”
+				<lb n="N013"/>(<date when="1891">1891</date>; besonders Kap. II „Tonkomplexe” [physiologisch-
+				<lb n="N014"/>psychologisch und Kap. III „Tonvorstellungen”) und
+				<lb n="N015"/>neuestens durch die „”
+				<lb n="N016"/>(<date when="1900">1900</date>; S. 83 ff. besonders S. 103) die Geschichte und
+				<lb n="N017"/>die naturwissenschaftliche, logische und ästhetische Be¬
+				<lb n="N018"/>gründung des harmonischen Dualismus mit genügender
+				<lb n="N019"/>Ausführlichkeit behandelt zu haben, um den zufolge
+				<lb n="N020"/>Gewöhnung an die herkömmlichen Begriffe des General¬
+				<lb n="N021"/>basses sich regenden Bedenken gegen die neuen Formu¬
+				<lb n="N022"/>lierungen der Satzlehre zu begegnen, und die schnelle
+				<lb n="N023"/>Verbreitung meiner Bücher (auch in fremdsprachigen
+				<lb n="N024"/>Ausgaben) schien die Berechtigung dieser Annahme
+				<lb n="N025"/>darzutun. Wenn nun aber dennoch gerade aus dem
+				<lb n="N026"/>Kreise der speziellen Freunde meiner Reform der
+				<lb n="N027"/>Harmonielehrmethode immer wieder an mich die Auf¬
+				<lb n="N028"/>forderung ergeht, die ersten Prinzipienfragen einmal in
+				<lb n="N029"/>einer ausführlichen Darstellung zu erörtern, so erscheint
+				<lb n="N030"/>es doch, dass da noch ein Prellstein im Wege steht,
+				<lb n="N031"/>den ich nicht hinlänglich belichtet habe, um Unfälle
+				<lb n="N032"/>zu verhüten.
+			</p>
+         <pb facs="#f0005" n="4"/>
+            <p>
+				<lb n="N001"/>Dieser Prellstein ist der „<hi rendition="#g">Grundton</hi>” <hi rendition="#g">des Moll¬</hi>
+				<lb n="N002"/><hi rendition="#g">akkords</hi>.
+			</p>
+            <p>
+				<lb n="N001"/>Von den Musikern, welche sich mit der neueren
+				<lb n="N002"/>Harmonielehre eingehender beschäftigt und davon durch
+				<lb n="N003"/>eigene Bücher oder Aufsätze Zeugnis abgelegt haben,
+				<lb n="N004"/>glauben einige, allen Schwierigkeiten aus dem Wege zu
+				<lb n="N005"/>gehen, wenn sie zwar die umgekehrte <hi rendition="#g">Deutung</hi> des
+				<lb n="N006"/>Mollakkordes als notwendig anerkennen, aber dem
+				<lb n="N007"/>„Gefühle des Musikers” gerecht werden durch <hi rendition="#g">Be¬</hi>
+				<lb n="N008"/><hi rendition="#g">nennung und Bezeichnung</hi> des Mollakkordes
+				<lb n="N009"/>nach seinem <hi rendition="#g">Grundtone</hi>. Ob sie dabei die beiden
+				<lb n="N010"/><persName>Oettingenschen</persName> Zeichen <hi rendition="#sup">+</hi> und <hi rendition="#sup">0</hi> beibehalten und mit
+				<lb n="N011"/>a<hi rendition="#sup">+</hi> den A dur-Akkord und mit a<hi rendition="#sup">0</hi> den A moll-Akkord be¬
+				<lb n="N012"/>zeichnen oder aber statt des von <persName>Oettingen</persName> der schärferen
+				<lb n="N013"/>Unterscheidung der Typen wegen gewählten <hi rendition="#sup">0</hi> das dem
+				<lb n="N014"/><hi rendition="#sup">+</hi> (= positiv) usuell gegensätzliche <hi rendition="#sup">–</hi> (= negativ) ver¬
+				<lb n="N015"/>wenden (a<hi rendition="#sup">–</hi> = A moll-Akkord), ist natürlich ganz be¬
+				<lb n="N016"/>langlos; höchstens könnte man sagen, dass der Gebrauch
+				<lb n="N017"/>des <hi rendition="#sup">0</hi> in einem anderen Sinne als dem von <persName>Oettingen</persName>
+				<lb n="N018"/>und mir eingeführten ohne Not Verwirrung veranlasst,
+				<lb n="N019"/>die durch Wahl eines anderen Zeichens vermieden wird.
+				<lb n="N020"/>Doch sind das Nebendinge. Jeder Erfinder einer neuen
+				<lb n="N021"/>Bezifferung rechnet natürlich mit der Möglichkeit all¬
+				<lb n="N022"/>gemeiner Annahme derselben; erfolgt dieselbe, so ge¬
+				<lb n="N023"/>rät der abweichende Sinn, in welchem andere dieselben
+				<lb n="N024"/>Zeichen vor ihm gebraucht haben, schnell in Vergessen¬
+				<lb n="N025"/>heit. Nicht der Ausbau solcher neuen Bezifferungs¬
+				<lb n="N026"/>systeme soll uns daher beschäftigen <note type="remarkSource" n="*)"><lb n="N001"/>Ich denke hier z. B. an <persName>G. Capellens</persName> neue Bezifferung
+				<lb n="N002"/>(M, L, R [Mittelklang, Linksklang, Rechtsklang] statt meines
+				<lb n="N003"/>T, S, D), auch an Ansätze zu dergleichen bei <persName>A. J. Polak</persName> u. s. f.).</note>, sondern lediglich
+				<lb n="N027"/>die Frage, ob das Bedenken, welches den einen Theo¬
+				<lb n="N028"/>retiker abhält, sich ganz und uneingeschränkt der
+				<lb n="N029"/>dualistisch fundamentierten Theorie anzuschliessen, und
+				<lb n="N030"/>den anderen zu nachträglicher Skepsis führt, ihn wanken
+				<lb n="N031"/>und zuletzt abfallen macht, begründet ist oder nicht.
+				<lb n="N032"/>Ich werde dazu etwas weit ausholen müssen, ohne als
+				<lb n="N033"/>bekannt vorauszusetzen, was ich anderswo geschrieben
+				<lb n="N034"/>habe; denn wenn z. B. <persName>Georg Capellen</persName>, „
+				<lb n="N035"/>
+				<lb n="N036"/>” (<date when="1903">1903</date>) S. 54 <persName>Rameau</persName> noch unter die „Monisten”
+				<pb facs="#f0006" n="5"/>
+            	<lb n="N001"/>rechnet, so beweist das die völlige Unbekanntschaft
+				<lb n="N002"/>mit meinem Nachweise ( S. 457), dass
+				<lb n="N003"/><persName>Rameau</persName> seinen im  (<date when="1722">1722</date>) versuchten
+				<lb n="N004"/>Widerspruch gegen <persName>Zarlino</persName> bereits <date when="1737">1737</date> definitiv auf¬
+				<lb n="N005"/>gegeben hat (Génération harmonique) und mit klingen¬
+				<lb n="N006"/>dem Spiele zu den Dualisten übergegangen ist. Ich
+				<lb n="N007"/>darf daher auch nicht erwarten, dass diejenigen, welche
+				<lb n="N008"/>jetzt in den Musikzeitungen und in Broschüren mit
+				<lb n="N009"/>mehr oder minder Geschick als Wortführer gegen die
+				<lb n="N010"/>duale Begründung der Harmonik auftreten, genauer
+				<lb n="N011"/>mit den Einwänden vertraut sind, welche ich z. B. gegen
+				<lb n="N012"/><persName>Helmholtz</persName> und <persName>Stumpfs</persName> fundamentale Aufstellungen
+				<lb n="N013"/>vorgebracht habe. Wenn ich auch nicht hier zu wieder¬
+				<lb n="N014"/>holen gedenke, was ich <date>seit 30 Jahren</date> zu dieser Frage
+				<lb n="N015"/>geschrieben habe, so wird es doch unerlässlich sein,
+				<lb n="N016"/>eine in sich lückenlose Folge von Schlüssen zu geben.
+				<lb n="N017"/>wenn nicht der gekennzeichnete Zweck dieser kleinen
+				<lb n="N018"/>Studie verfehlt werden soll.
+            </p>
+         </div>
+         <div rend="TEI" facs="#facs_6_TextRegion_1622741389110_596" type="chapter" n="1">
+			<head>
+				<lb n="N001"/><hi rendition="#b">II. Sind die Obertöne der „Grund” der Konsonanz?</hi>
+			</head>
+            <p>
+				<lb n="N001"/>Der erste Widerspruch gegen die <date when="1558">1558</date> durch <persName>Gioseffo</persName>
+				<lb n="N002"/><persName>Zarlino</persName> in seinen  (Lib. I. Cap. 30
+				<lb n="N003"/>und Lib. III. Cap. 31) aufgestellte und eigentlich von
+				<lb n="N004"/>allen Theoretikern der Folgezeit (,
+				<lb n="N005"/>, , <persName>Rameau</persName> [<date>seit 1737</date>,]
+				<lb n="N006"/>, , , ,
+				<lb n="N007"/>, , , <persName/>
+				<lb n="N008"/><date> </date>, , , <persName/>
+				<lb n="N009"/><date> </date>, , , <persName/>
+				<lb n="N010"/><date> </date> u. s. w.) festgehaltene Gegenüberstellung der beiden,
+				<lb n="N011"/>die Durkonsonanz und die Mollkonsonanz mathematisch
+				<lb n="N012"/>definierenden Reihen:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>erfolgte, als man nach <persName>Sauveurs</persName> (<date when="1700">1700</date>) Aufweisung
+				<lb n="N002"/>der Zusammensetzung der Klänge der Saiten aus einer
+				<lb n="N003"/>endlosen Reihe von Partialtönen, in dieser die <hi rendition="#g">eigent¬</hi>
+            	<pb facs="#f0007" n="6"/>
+            	<lb n="N001"/><hi rendition="#g">liche Ursache der Konsonanz</hi> entdeckt zu haben
+				<lb n="N002"/>glaubte. Bekanntlich war <persName>Rameau</persName> (gleichviel ob mit
+				<lb n="N003"/>oder ohne Kenntnis der Nachweise <persName>Sauveurs</persName>) derjenige,
+				<lb n="N004"/>welcher die von ihm allein als neben dem Grundtone (1)
+				<lb n="N005"/>hörbar behaupteten Obertöne 3 und 5 (Quinte der Oktav
+				<lb n="N006"/>und Terz der Doppeloktav) zur Grundlage eines neuen
+				<lb n="N007"/>Systems der Harmonielehre machte, indem er den Grund¬
+				<lb n="N008"/>ton als den <hi rendition="#g">Erzeuger</hi> (générateur) des Quinttones
+				<lb n="N009"/>(douzième) und Terztones (dix-septième) ansah. Heute
+				<lb n="N010"/>wissen wir freilich, dass von einem Erzeugen der höheren
+				<lb n="N011"/>Töne durch den tiefsten zu reden, eine durchaus dilet¬
+				<lb n="N012"/>tantische Ausdrucksweise ist, welche den tatsächlichen
+				<lb n="N013"/>physisch-mechanischen Vorgängen durchaus nicht ent¬
+				<lb n="N014"/>spricht. Der Grundton sogut, wie die Obertöne und
+				<lb n="N015"/>zwar nicht nur der 3. und 5., sondern alle die von
+				<lb n="N016"/><persName>Sauveur</persName> aufgewiesenen der natürlichen Zahlenreihe bis
+				<lb n="N017"/>an die Grenze des Tongebietes entsprechenden Töne
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>werden vielmehr <hi rendition="#g">gleichzeitig</hi> durch den Anschlag
+				<lb n="N002"/>des Hammers, das Anreissen mit dem Finger oder
+				<lb n="N003"/>einem Plektrum, durch den Angriff des Bogens u. s. w.
+				<lb n="N004"/>hervorgebracht und zwar je nach der Anschlagstelle in
+				<lb n="N005"/>verschiedener relativen Stärke; nur ist im allgemeinen
+				<lb n="N006"/>der tiefste der stärkste der Teiltöne. Wohl vermögen
+				<lb n="N007"/>dagegen mehrere gleichzeitig angegebene Einzeltöne
+				<lb n="N008"/>der Reihe den Grundton zu <hi rendition="#g">erzeugen</hi> (als <hi rendition="#g">Kom¬</hi>
+				<lb n="N009"/><hi rendition="#g">binationston</hi>). Auch auf den Blasinstrumenten
+				<lb n="N010"/>kann von einem Hervorgehen der höheren Töne aus
+				<lb n="N011"/>dem Grundtone nicht gesprochen werden; wohl aber
+				<lb n="N012"/>kann durch die Art des Anblasens bewirkt werden,
+				<lb n="N013"/>dass einer der höheren Töne vollständig Hauptton
+				<lb n="N014"/>wird und nur mehr seine eigene Oberreihe über sich
+				<lb n="N015"/>hat, während alle anderen Töne der Reihe vollständig
+				<lb n="N016"/>verschwinden. Der „son générateur” <persName>Rameaus</persName> ist also
+				<lb n="N017"/>zunächst gänzlich aus dem Spiele zu lassen, und es
+				<lb n="N018"/>kann nur insofern von einer <hi rendition="#g">zusammengehörigen</hi>
+            	<pb facs="#f0008" n="7"/>
+            	<lb n="N001"/>Reihe von Tönen gesprochen werden, als dieselbe Saite
+				<lb n="N002"/>oder dieselbe in einer Röhre schwingende Luftsäule sie
+				<lb n="N003"/><hi rendition="#g">gleichzeitig</hi> hervorzubringen vermag. Die Töne
+				<lb n="N004"/>dieser Reihe mag man darum wohl mit einander <hi rendition="#g">ver¬</hi>
+				<lb n="N005"/><hi rendition="#g">wandt</hi> nennen, und wenn man den tiefsten derselben
+				<lb n="N006"/>den <hi rendition="#g">Hauptton</hi> nennt, so ist das hinlänglich dadurch
+				<lb n="N007"/>motiviert, dass derselbe für gewöhnlich der <hi rendition="#g">stärkste</hi>,
+				<lb n="N008"/>ja sogar der meist <hi rendition="#g">allein</hi> vom Ohr <hi rendition="#g">identifizierte</hi>
+				<lb n="N009"/>ist, über welchen man die andern überhört.
+			</p>
+            <p>
+				<lb n="N001"/>Aber schon der Versuch, die <hi rendition="#g">Konsonanz des</hi>
+				<lb n="N002"/><hi rendition="#g">Durakkordes</hi> durch die Obertonreihe zu begründen,
+				<lb n="N003"/>erfordert ein ganz willkürliches <hi rendition="#g">Absehen von allen</hi>
+				<lb n="N004"/><hi rendition="#g">den oberhalb des sechsten folgenden Tönen</hi>,
+				<lb n="N005"/>da ein grosser Teil derselben dem Durakkorde des Grund¬
+				<lb n="N006"/>tons nicht angehört. Die Experimente „am Klavier”
+				<lb n="N007"/>mit denen <persName>G. Capellen</persName> (, S. 12 u. ö.)
+				<lb n="N008"/>die „Natürlichkeit” des Durakkords, Durseptimenakkords
+				<lb n="N009"/>und Durnonenakkords erweist, sind für einen sehr
+				<lb n="N010"/>kindlichen Standpunkt physikalischer Bildung berechnet;
+				<lb n="N011"/>denn auf einem Instrumente mit <hi rendition="#g">genau in den</hi>
+				<lb n="N012"/><hi rendition="#g">natürlichen Verhältnissen der Obertöne ein¬</hi>
+				<lb n="N013"/><hi rendition="#g">gestimmten Saiten</hi> würde man ebenso die Natür¬
+				<lb n="N014"/>lichkeit einer grossen Zahl von andern Zusammen¬
+				<lb n="N015"/>klängen, z. B. des Akkordes 7:9:11:13 „beweisen”
+				<lb n="N016"/>können:
+			</p>
+         <figure type="notatedMusic"/>
+            <p>
+				<lb n="N001"/>Freilich die „<hi rendition="#g">Konsonanz</hi>” hat ja auch <persName>Capellen</persName>
+				<lb n="N002"/>nicht einmal für 5:6:7:9 aus dem Nachklingen unter
+				<lb n="N003"/>solchen Umständen zu folgern gewagt, sondern nur die
+				<lb n="N004"/>„Natürlichkeit”. Dass aber die „Natürlichkeit” des Moll¬
+				<lb n="N005"/>akkords sich ebenfalls durch solche „Experimente” und
+				<lb n="N006"/>zwar sogar <hi rendition="#g">ohne</hi> „<hi rendition="#g">doppeltes Fundament</hi>” „be¬
+				<lb n="N007"/>weisen“ lässt, ist ihm anscheinend ganz entgangen,
+				<lb n="N008"/>nämlich für die Töne 10:12:15
+            	<pb facs="#f0009" n="8"/>
+         	   <figure type="notatedMusic"/>
+            	<lb n="N001"/>Nein, damit ist nichts zu machen, was ernst genommen
+				<lb n="N002"/>werden könnte; wohl aber bleibt im Gegenteil das
+				<lb n="N003"/>unbestreitbare Faktum, dass die Obertöne die nahe
+				<lb n="N004"/>„Verwandtschaft” von Tönen belegen, welche das Ohr als
+				<lb n="N005"/>Konsonanzen <hi rendition="#g">nicht</hi> anerkennt. Mit diesen Tönen, für
+				<lb n="N006"/>C: 7 b<hi rendition="#sup">1</hi>, 11 fis<hi rendition="#sup">2</hi>, 13 as<hi rendition="#sup">3</hi> u. s. w. [17, 19, 23, 29, 31 etc.]
+				<lb n="N007"/>wird sich natürlich jede Theorie abzufinden haben, die
+				<lb n="N008"/>überhaupt einen Zusammenhang zwischen den einfachen
+				<lb n="N009"/>Schwingungsverhältnissen und der Konsonanzempfindung
+				<lb n="N010"/>annimmt; es stellt sich da aber heraus, dass auf rein
+				<lb n="N011"/><hi rendition="#g">physikalisch-akustischem</hi> Wege mit denselben
+				<lb n="N012"/>überhaupt nicht fertig zu werden ist, sondern nur auf
+				<lb n="N013"/>eigentlich musikalischem Boden, von fertig ge¬
+				<lb n="N014"/>gebenen musikalischen Begriffen aus. Das Ohr weiss
+				<lb n="N015"/>da mindestens ebenso bequem mit diesen ihm nicht
+				<lb n="N016"/>konvenabeln Beitönen fertig zu werden, wie etwa mit
+				<lb n="N017"/>den dem Sinne des Akkords widersprechenden dritten
+				<lb n="N018"/>und fünften Obertönen eines verminderten Dreiklangs:
+            	<figure type="notatedMusic"/>
+            </p>
+            <p>
+				<lb n="N001"/>Welches Chaos störender Elemente (fis′ a′ c<hi rendition="#sup">2</hi> dis<hi rendition="#sup">2</hi>
+				<lb n="N002"/>fis<hi rendition="#sup">2</hi> a<hi rendition="#sup">2</hi>)! Dieselben können aber nicht verhindern, dass
+				<lb n="N003"/>dennoch das H d f in C dur als ein elliptischer <hi rendition="#g">G dur¬</hi>
+				<lb n="N004"/><hi rendition="#g">Akkord</hi> (!) mit Septime gehört wird.
+			</p>
+            <p>
+				<lb n="N001"/>Steht es also schon um die Ableitung der <hi rendition="#g">Dur</hi>¬
+				<lb n="N002"/>konsonanz aus der Obertonreihe nicht allzugut, so ist
+				<lb n="N003"/>vollends die „Erklärung” der <hi rendition="#g">Mollkonsonanz</hi> durch
+				<lb n="N004"/>die Obertöne eine Unmöglichkeit.
+			</p>
+            <p>
+				<lb n="N001"/><persName>Helmholtz</persName> hat geglaubt, mit dem Schlagworte der
+				<lb n="N002"/>„getrübten Konsonanz” sich aus der Affäre ziehen zu
+            	<pb facs="#f0010" n="9"/>
+            	<lb n="N001"/>können, eine Notlüge der sich zwar auch schon
+				<lb n="N002"/><persName>Rameau</persName> (im ) bediente, deren er sich aber bald
+				<lb n="N003"/>schämte und die er widerrief. Dass der Mollakkord
+				<lb n="N004"/>traurig klingt, weiss auch schon <persName>Zarlino</persName> (er nennt
+				<lb n="N005"/>ihn „mesto”), spricht sogar auch schon davon, dass er
+				<lb n="N006"/>weniger direkt von der Natur gegeben scheine,
+				<lb n="N007"/>weist aber den Gedanken weit von sich (, S. 221),
+				<lb n="N008"/>dass er eine gegenüber derjenigen des Durakkords
+				<lb n="N009"/>„alterierte” Terz habe. Wenn nach <persName>Helmholtz</persName> die Er¬
+				<lb n="N010"/>niedrigung der Terz um ½ Ton die Konsonanz des Dur¬
+				<lb n="N011"/>akkords nur „trübt”, ohne sie aufzuheben, so ist doch
+				<lb n="N012"/>gar nicht zu begreifen, weshalb nicht z. B. auch eine
+				<lb n="N013"/>solche Stimmungsänderung der Quinte ähnlich nur
+				<lb n="N014"/>trübend wirkt, und warum der 7. oder 9. Oberton, die
+				<lb n="N015"/>nicht einmal die Konsonanz trüben (sofern sie der
+				<lb n="N016"/>Naturtonreihe nicht widersprechen), doch sogar bestimmt
+				<lb n="N017"/>als Dissonanz qualifiziert werden, sobald sie in den
+				<lb n="N018"/>Akkord gestellt werden. Mit Recht hat der Versuch
+				<lb n="N019"/><persName>Helmholtz</persName>’, mit solchen Ausflüchten grundlegende Be¬
+				<lb n="N020"/>griffe zu erklären, schon durch <persName>A. v. Oettingen</persName> (
+				<lb n="N021"/>, <date when="1866">1866</date>), und <persName>Hermann Lotze</persName>
+				<lb n="N022"/>(, <date when="1868">1868</date>) scharfe
+				<lb n="N023"/>Abweisung erfahren. <persName>Helmholtz</persName> hätte aber schon von
+				<lb n="N024"/><hi rendition="#g"><persName>Goethe</persName></hi> (vgl. <persName>F. Hiller</persName>, „”
+				<lb n="N025"/><date when="1883">1883</date>) lernen können, dass es um nichts törichter er¬
+				<lb n="N026"/>scheinen würde; wenn man den Durakkord durch Er¬
+				<lb n="N027"/>höhung der Terz vom Mollakkord ableiten wollte! Das
+				<lb n="N028"/>gesunde natürliche Musikgefühl verlangt eben für den
+				<lb n="N029"/>Mollakkord <hi rendition="#g">unumwundene Anerkennung seiner</hi>
+				<lb n="N030"/><hi rendition="#g">Konsonanz</hi>, eine offene und ehrliche <hi rendition="#g">Koordination</hi>
+				<lb n="N031"/>mit dem Durakkorde als eine der beiden bedeutsamen For¬
+				<lb n="N032"/>men der Konsonanz, neben denen es <hi rendition="#g">ein Drittes nicht</hi>
+				<lb n="N033"/><hi rendition="#g">gibt</hi> und nicht geben kann! Alle Erklärungen, welche
+				<lb n="N034"/>die primäre und bedingungslose Konsonanz des Moll¬
+				<lb n="N035"/>akkords verneinen, sind für den Musiker von vornherein
+				<lb n="N036"/>anstössig und Verdacht erweckend. Wäre die Moll¬
+				<lb n="N037"/>konsonanz gegenüber der Durkonsonanz etwas Künst¬
+				<lb n="N038"/>liches, Abgeleitetes, Sekundäres, so müsste es doch
+				<lb n="N039"/>auch als selbstverständlich scheinen, dass Moll <hi rendition="#g">jünger</hi>,
+				<lb n="N040"/><hi rendition="#g">später aufgekommen</hi> wäre als Dur, während
+				<lb n="N041"/>gerade das Gegenteil sich aus der Musikgeschichte
+				<lb n="N042"/>ergibt.
+			</p>
+         <pb facs="#f0011" n="10"/>
+            <p>
+				<lb n="N001"/>Neben der einfachen <hi rendition="#g">Ableitung des Moll¬</hi>
+				<lb n="N002"/><hi rendition="#g">akkords vom Durakkorde</hi> durch „Trübung” taucht
+				<lb n="N003"/>aber bereits bei <persName>Helmholtz</persName> auch die Idee auf (
+				<lb n="N004"/> 4. Aufl. S. 355), die Konsonanz
+				<lb n="N005"/>des Mollakkords durch <hi rendition="#g">Doppel-Fundamentierung</hi>
+				<lb n="N006"/>aus zwei Obertonreihen zu begründen. Damit betritt
+				<lb n="N007"/><persName>Helmholtz</persName> einen Pfad, der zu den allerbedenklichsten
+				<lb n="N008"/>Konsequenzen führen muss. Seine Nachfolger auf diesem
+				<lb n="N009"/>Wege wurden <persName>O. Tiersch</persName>, <persName>O. Hostinský</persName> und neuestens
+				<lb n="N010"/><persName>G. Capellen</persName> und <persName>A. J. Polak</persName> („
+				<lb n="N011"/>”, <date when="1900">1900</date>, und „
+				<lb n="N012"/>”, <date when="1903">1903</date>). Die Idee, dass
+				<lb n="N013"/>der C moll-Akkord Elemente des C dur-Akkords (c—g),
+				<lb n="N014"/>Es dur-Akkords (es—g) und wohl gar auch noch des
+				<lb n="N015"/>As dur-Akkords (c—es) zu einer <hi rendition="#g">künstlichen Ein¬</hi>
+				<lb n="N016"/><hi rendition="#g">heit</hi> verbinde, widerspricht nicht nur dem Grund¬
+				<lb n="N017"/>gedanken des <persName>Rameauschen</persName> Systems (Konsonanz als
+				<lb n="N018"/>Komplex der von demselben „son générateur” erzeugten
+				<lb n="N019"/>Töne), sondern überhaupt einer kategorischen Forderung
+				<lb n="N020"/>des musikalischen Gemeinbewusstseins, so dass man
+				<lb n="N021"/>nicht begreifen kann, wie ein Denker von der Logik
+				<lb n="N022"/>eines <persName>Helmholtz</persName> sie im Ernste vortragen konnte.
+				<lb n="N023"/>Darüber ist doch wohl ein Zweifel ausgeschlossen, dass
+				<lb n="N024"/>Konsonanz nichts anderes sein kann als <hi rendition="#g">Verbindung</hi>
+				<lb n="N025"/><hi rendition="#g">zu einer </hi> <hi rendition="#b">einheitlichen</hi> <hi rendition="#g"> Vorstellung</hi>; deshalb kann
+				<lb n="N026"/>es auch nur humoristisch wirken, wenn <persName>Georg Capellen</persName>
+				<lb n="N027"/>sich als Vertreter eines harmonischen „<hi rendition="#g">Monismus</hi>” (!)
+				<lb n="N028"/>aufspielt, indem er sich <persName>Helmholtz</persName> und <persName>Hostinský</persName> mit
+				<lb n="N029"/>der Beziehung des Mollakkords auf ein doppeltes
+				<lb n="N030"/>oder dreifaches Fundament anschliesst. Die Dualität
+				<lb n="N031"/>der harmonischen Beziehungen, welche für die prin¬
+				<lb n="N032"/>zipielle Scheidung von Dur und Moll sich so einfach
+				<lb n="N033"/>und natürlich überzeugend darbietet, wird mit über¬
+				<lb n="N034"/>legenem Lächeln beiseite geschoben, um auf dem iso¬
+				<lb n="N035"/>ierten Gebiete der Begründung der Mollkonsonanz in
+				<lb n="N036"/>desto bedenklicherer Form als Duplizität oder gar
+				<lb n="N037"/><hi rendition="#g">Triplizität der Fundamentierung</hi> neu zu er¬
+				<lb n="N038"/>stehen.
+			</p>
+            <p>
+				<lb n="N001"/>Übrigens stammt aber die Beziehung des Moll¬
+				<lb n="N002"/>akkords auf ein doppeltes Fundament sogar aus <persName>Haupt¬
+				<lb n="N003"/>mann</persName>s <date when="1853">1853</date> erschienener „
+				<lb n="N004"/>” und ist erst aus dieser in 
+            	<pb facs="#f0012" n="11"/>
+            	<lb n="N001"/>übergegangen. In dem Bestreben, für den oberen Ton
+				<lb n="N002"/>des Mollakkordes (g in c es g) die Bedeutung als <hi rendition="#g">Zen¬</hi>
+				<lb n="N003"/><hi rendition="#g">trum der Beziehungen der drei Töne</hi> zu er¬
+				<lb n="N004"/>weisen, greift <persName>Hauptmann</persName> <persName>Rameaus</persName> Idee des son géné¬
+				<lb n="N005"/>rateur auf und gibt dem C moll-Akkorde die <hi rendition="#g">beiden</hi>
+				<lb n="N006"/>générateurs c und es, so dass g ein <hi rendition="#g">doppelt er¬</hi>
+				<lb n="N007"/><hi rendition="#g">zeugter</hi> Ton wird; er drückt das so aus (S. 32): Wie
+				<lb n="N008"/>im Durakkord ein Ton (c in c g e) „Terz und Quint
+				<lb n="N009"/><hi rendition="#g">hat</hi>” (c e, c g), so <hi rendition="#g">wird</hi> im Mollakkorde ein Ton (g
+				<lb n="N010"/>in c es g) von den beiden andern „zur Terz und Quint
+				<lb n="N011"/><hi rendition="#g">gehabt</hi>” (es—g, c—g). Auch <persName>A. v. Oettingens</persName> Erklä¬
+				<lb n="N012"/>rung ist mit derjenigen <persName>Hauptmanns</persName> vollkommen iden¬
+				<lb n="N013"/>tisch, da er dem „phonischen Obertone”, d. h. dem ersten
+				<lb n="N014"/>Tone, der sich in den <hi rendition="#g">Obertonreihen</hi> der 3 Töne
+				<lb n="N015"/>des Mollakkords findet, die Bedeutung des Zentrums
+				<lb n="N016"/>der Tonbeziehungen zuschreibt:
+            	
+            	<lb n="N001"/>Also auch <persName>Oettingen</persName> hält schliesslich doch an der <hi rendition="#g">Be¬</hi>
+				<lb n="N002"/><hi rendition="#g">gründung der Mollkonsonanz durch das</hi>
+				<lb n="N003"/><hi rendition="#g">Phänomen der Obertöne</hi> fest und gibt dem
+				<lb n="N004"/>Mollakkorde sogar drei Grundtöne, um mittelbar den
+				<lb n="N005"/><hi rendition="#g">einigenden gemeinsamen Ton</hi> zu erhalten.
+				<lb n="N006"/>Dass er dann sozusagen <hi rendition="#g">nachträglich die Ober¬</hi>
+				<lb n="N007"/><hi rendition="#g">tonreihe eliminiert</hi> und von dem auf diese
+				<lb n="N008"/>Manier gefundenen <hi rendition="#g">phonischen Zentraltone</hi> aus
+				<lb n="N009"/>rückblickend (S. 31) die ganze Reihe der <hi rendition="#g">Töne, von</hi>
+				<lb n="N010"/><hi rendition="#g">denen derselbe Oberton ist</hi>, mit <persName>Helmholtz’</persName>
+				<lb n="N011"/>Terminus (S. 76) als Reihe der <hi rendition="#g">harmonischen</hi>
+				<lb n="N012"/><hi rendition="#g">Untertöne</hi> einführt:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>sieht zwar dann aus wie eine prinzipielle Beziehung
+				<lb n="N002"/>der Mollkonsonanz auf diese Reihe, ist das aber doch
+				<lb n="N003"/>tatsächlich nicht. Ich gestehe offen, dass die Pseudo¬
+				<lb n="N004"/>logik dieser <hi rendition="#g">aus Obertonreihen heraus kon¬</hi>
+				<lb n="N005"/><hi rendition="#g">struierten Untertonreihe</hi> mich selbst längere
+				<lb n="N006"/>Zeit getäuscht hat und auch in meinen ersten harmonie¬
+            	<pb facs="#f0013" n="12"/>
+            	<lb n="N001"/>theoretischen Schriften noch zu spüren ist. Doch
+				<lb n="N002"/>hat <persName>Oettingen</persName> selbst schon anderweit in bestimmtester
+				<lb n="N003"/>Weise (S. 46) auf die Notwendigkeit einer <hi rendition="#g">Verall¬</hi>
+				<lb n="N004"/><hi rendition="#g">gemeinerung des Prinzips der Verwandt¬</hi>
+				<lb n="N005"/><hi rendition="#g">schaft der Klänge</hi> hingewiesen und betont, dass
+				<lb n="N006"/>dasselbe „<hi rendition="#g">nicht von der reellen Existenz der</hi>
+				<lb n="N007"/><hi rendition="#g">Obertöne abhängig sei</hi>”; er hat uns selbst den
+				<lb n="N008"/>Weg gewiesen, der aus diesem Labyrinth herausführt,
+				<lb n="N009"/>nämlich durch seine diejenige <persName>Helmholtzs</persName> siegreich
+				<lb n="N010"/>aus dem Felde schlagende Definition der Dissonanz
+				<lb n="N011"/>(S. 228): „<hi rendition="#g">Dissonanz ist das gleichzeitige Be¬</hi>
+				<lb n="N012"/><hi rendition="#g">stehen zweier oder mehrerer Klänge</hi> (das
+				<lb n="N013"/>Wort Klang nicht als einzelner Ton, sondern im Sinne
+				<lb n="N014"/>der <hi rendition="#g">Klangvertretung</hi> gefasst)”. Leider hat er nur
+				<lb n="N015"/>den Circulus vitiosus übersehen, der in seiner <hi rendition="#g">Ableitung</hi>
+				<lb n="N016"/><hi rendition="#g">der Untertonreihe aus gemeinsamen Ober¬</hi>
+				<lb n="N017"/><hi rendition="#g">tönen</hi> liegt; nach seiner eigenen Aufweisung müsste
+				<lb n="N018"/>ja doch auch der Mollakkord als „Zugleichbestehen
+				<lb n="N019"/>zweier (oder gar dreier) Klänge Dissonanz sein, was er
+				<lb n="N020"/>zwar in der Tat für besondere Fälle höchst zutreffend
+				<lb n="N021"/>statuiert (für die „Nebendreiklänge”), aber im Prinzip
+				<lb n="N022"/>(für die Moll-Hauptklänge) doch in Abrede stellt. Sein
+				<lb n="N023"/>Kardinalsatz (S. 45): „<hi rendition="#g">Der Durakkord ist tonisch</hi>
+				<lb n="N024"/><hi rendition="#g">konsonant und phonisch dissonant; der Moll¬</hi>
+				<lb n="N025"/><hi rendition="#g">akkord ist phonisch konsonant und tonisch</hi>
+				<lb n="N026"/><hi rendition="#g">dissonant</hi>”, der in nuce meine gesamte Harmonie¬
+				<lb n="N027"/>lehrmethode enthält (nämlich die Fundamentierung der
+				<lb n="N028"/>Theorie der Parallelklänge und Leittonwechselklänge in
+				<lb n="N029"/>Dur und Moll), ist ohne allen Zweifel richtig; aber
+				<lb n="N030"/>er ist leider in <persName>Oettingens</persName>  selbst unbewiesen. <hi rendition="#g">Es</hi>
+				<lb n="N031"/><hi rendition="#g">fehlt durchaus der Nachweis selbständiger</hi>
+				<lb n="N032"/><hi rendition="#g">Bedeutung der Mollverwandtschaft</hi>. Der
+				<lb n="N033"/>fehlerhafte Kreisschluss, mit dem <persName>Oettingen</persName> operiert,
+				<lb n="N034"/>spricht sich am deutlichsten aus in dem Satze ():
+				<lb n="N035"/>„wir müssen den Mollakkorden . . ihre phonisch kon¬
+				<lb n="N036"/>sonierende Eigenschaft zuerkennen. Die <hi rendition="#g">ursprüng¬</hi>
+				<lb n="N037"/><hi rendition="#g">lich aus physiologisch begründeten Phäno¬</hi>
+				<lb n="N038"/><hi rendition="#g">menen entwickelte Auffassung</hi> wird jetzt bei
+				<lb n="N039"/>dem Mollakkorde sogar verständlicher; <hi rendition="#g">denn der</hi>
+				<lb n="N040"/><hi rendition="#g">phonische Oberton</hi> (des Mollakkords, z. B. g<hi rendition="#sup">2</hi> für
+				<lb n="N041"/>c es g) <hi rendition="#g">existiert reell, der tonische Grundton</hi>
+				<lb n="N042"/>(z. B. <hi rendition="#sub">2</hi>As als der Ton, von dem c es und g Obertöne
+            	<pb facs="#f0014" n="13"/>
+            	<lb n="N001"/>sind) <hi rendition="#g">existiert nicht</hi> . . . . . der tonische Grundton
+				<lb n="N002"/>ist nur ein <hi rendition="#g">virtueller</hi>, der phonische Oberton ein
+				<lb n="N003"/><hi rendition="#g">reeller</hi> Klang”.
+            </p>
+            <p>
+				<lb n="N001"/>Es leuchtet ein, dass die somit auch schon von
+				<lb n="N002"/><persName>Oettingen</persName> als notwendig erkannte <hi rendition="#g">Emanzipation</hi>
+				<lb n="N003"/><hi rendition="#g">der Konsonanzlehre von den realen Ober¬</hi>
+				<lb n="N004"/><hi rendition="#g">tönen</hi> in der Tat ganz unerlässlich ist, wenn man
+				<lb n="N005"/>solchen Kreisschlüssen entrinnen will. Denn nicht genug,
+				<lb n="N006"/>dass der phonische Oberton g<hi rendition="#sup">2</hi> für c es g durch seine
+				<lb n="N007"/>Ableitung aus den Obertonreihen von c, es (und g) doch
+				<lb n="N008"/>tatsächlich schon dem Akkord zwei oder drei <hi rendition="#g">eigent¬</hi>
+				<lb n="N009"/><hi rendition="#g">liche Grundtöne</hi> gibt — nun kommt dazu auch noch
+				<lb n="N010"/>der tonische Grundton <hi rendition="#sub">2</hi>As, der Ton 1, von welchem
+				<lb n="N011"/>alle drei Töne Obertöne (10. 12. und 15.) sind, als
+				<lb n="N012"/><hi rendition="#g">vierter recht eigentlicher Grundton</hi>, wenn
+				<lb n="N013"/>auch nur „virtuell” (der aber als <hi rendition="#g">Kombinationston</hi>
+				<lb n="N014"/>bei <hi rendition="#g">reiner Stimmung</hi> der Intervalle doch ebenfalls
+				<lb n="N015"/>eine unangenehme Realität gewinnen kann). So hübsch
+				<lb n="N016"/>daher bei <persName>Oettingen</persName> die Gegenüberstellung aussieht
+            	
+            	<lb n="N001"/>sie beruht auf Trugschlüssen, so lange sie mit der
+				<lb n="N002"/>realen Existenz der Obertöne als eigentlichem Beweis¬
+				<lb n="N003"/>mittel der Beziehungen der Töne rechnet. Der Gedanke,
+				<lb n="N004"/>ernstlich auch die Konsonanz des Mollakkords einfach
+				<lb n="N005"/>aus der Obertonreihe ableiten zu wollen, nämlich mit
+				<lb n="N006"/>Ignorierung des „tonischen” Grundtones (C) aus der
+				<lb n="N007"/>Koexistenz der Töne 3, 5 und 15 (g e′ h<hi rendition="#sup">2</hi>), ist natürlich
+				<lb n="N008"/>durchaus abzuweisen, da ja mit derselben Evidenz sich
+				<lb n="N009"/>auch die Konsonanz der folgenden Tonkombinationen
+				<lb n="N010"/>dann würde beweisen lassen:
+            	<list>
+         	<item>
+         		<lb n="N001"/>e′ (5) .. g′(6) .. *b′ (7) = verminderter Dreiklang mit
+				<lb n="N002"/>dem zu tiefen 7. Partialtone,
+         	</item>
+         	<item>
+         		<lb n="N003"/>g′ (6) .. *b′ (7) .. d<hi rendition="#sup">2</hi> (9) = ein Mollakkord mit zu tiefer
+				<lb n="N004"/>kleiner Terz
+         	</item>
+         	<item>
+         		<lb n="N005"/>*b′ (7) .. d<hi rendition="#sup">2</hi> (9) .. *fis<hi rendition="#sup">2</hi> (11) = ein übermässiger Dreiklang,
+				<lb n="N006"/>der aus einer zu grossen Terz
+				<lb n="N007"/>(7:9) und einer zu grossen
+				<lb n="N008"/>Quinte (7:11) besteht.
+         	</item>
+         	</list>
+            	<lb n="N001"/>Überhaupt ergäbe sich aber die Konsonanz aller be¬
+				<lb n="N002"/>liebigen Kombinationen von drei oder auch vier und
+            	<pb facs="#f0015" n="14"/>
+            	<lb n="N001"/>noch mehr verschiedenen Tönen der Reihe (natürlich
+				<lb n="N002"/>nicht auf einem temperiert gestimmten Klaviere, das
+				<lb n="N003"/>hier nichts beweist, sondern auf einem Instrument, das
+				<lb n="N004"/>die reinen Verhältnisse der Naturtöne gibt) mit gleicher
+				<lb n="N005"/>Beweiskraft wie für <persName>Capellens</persName> durch dilettantische Ex¬
+				<lb n="N006"/>perimente „am Klavier” demonstrierte Fälle.
+			</p>
+            <p>
+				<lb n="N001"/>Darum ist also unumwunden anzuerkennen, dass
+				<lb n="N002"/><persName>Stumpf</persName> mit der kategorischen Ablehnung der Ober¬
+				<lb n="N003"/>töne als <hi rendition="#g">Beweismittel der Konsonanz</hi> den rech¬
+				<lb n="N004"/>ten Weg eingeschlagen hat; es mag hart klingen, wenn
+				<lb n="N005"/><persName>Stumpf</persName> die <persName>Helmholtzsche</persName> Fundamentierung der Musik¬
+				<lb n="N006"/>theorie als einen <hi rendition="#g">überwundenen Standpunkt</hi> be¬
+				<lb n="N007"/>zeichnet — sie ist es tatsächlich, und alle Versuche
+				<lb n="N008"/>auf sie zurückzugreifen, können nur alte Notlügen und
+				<lb n="N009"/>Ausflüchte erneuern. Um uns den definitiven Abschied
+				<lb n="N010"/>von der Begründung der Harmonie durch die Obertöne
+				<lb n="N011"/>(und auch durch die Kombinationstöne) zu erleichtern,
+				<lb n="N012"/>sei noch ein Beispiel angeführt, nämlich das e′ g′ im
+				<lb n="N013"/>folgenden zweistimmigen Sätzchen:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Die nächsten Obertöne dieser beiden Töne bringen
+				<lb n="N002"/>h<hi rendition="#sup">2</hi> d<hi rendition="#sup">3</hi> gis<hi rendition="#sup">3</hi> in den Zusammenklang, was aber nicht ver¬
+				<lb n="N003"/>hindern kann, dass wir das e′ g′ als Vertretung der
+				<lb n="N004"/>Subdominante, nämlich des g moll-Akkordes (!) hören,
+				<lb n="N005"/>also entsprechend dem vierstimmigen Satze:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Dass solche Hörvorgänge sich weder aus den Obertönen
+				<lb n="N002"/>noch aus den Kombinationstönen erklären lassen, ist
+				<lb n="N003"/>wohl ohne weitere Ausführung ersichtlich. Hier versagt
+				<lb n="N004"/>die Physik gänzlich und nur die musikalische Psychologie
+				<lb n="N005"/>(Musikästhetik) kann Aufschluss geben.
+			</p>
+         </div>
+         <pb facs="#f0016" n="15"/>
+         <div rend="TEI" facs="#facs_16_TextRegion_1622743377258_1816" type="chapter" n="1">
+			<head>
+				<lb n="N001"/><hi rendition="#b">III. Intervallverschmelzung oder Klangvertretung?</hi>
+			</head>
+            <p>
+				<lb n="N001"/>Wir verdanken also <persName>Stumpf</persName> die <hi rendition="#g">Emanzipation</hi>
+				<lb n="N002"/><hi rendition="#g">der Musiktheorie von den akustischen Phä¬</hi>
+				<lb n="N003"/><hi rendition="#g">nomenen</hi>. Die real existierenden Obertöne sind nicht
+				<lb n="N004"/>der Grund der Konsonanz, sondern sie sind nur ein
+				<lb n="N005"/><hi rendition="#g">Hinweis</hi> auf einen <hi rendition="#g">viel allgemeineren Zu¬</hi>
+				<lb n="N006"/><hi rendition="#g">sammenhang der Töne unter einander durch</hi>
+				<lb n="N007"/><hi rendition="#g">die Kommensurabilität</hi> der <hi rendition="#g">Entstehungs</hi>-
+				<lb n="N008"/><hi rendition="#g">und Verlaufsbedingungen der sie hervor¬</hi>
+				<lb n="N009"/><hi rendition="#g">bringenden Schwingungen</hi> elastischer Körper
+				<lb n="N010"/>und der durch sie <hi rendition="#g">bewirkten Funktionen der sie</hi>
+				<lb n="N011"/><hi rendition="#g">apperzipierenden Organe des menschlichen</hi>
+				<lb n="N012"/><hi rendition="#g">Gehörs</hi>. Welcher Art die letzten Umsetzungsformen
+				<lb n="N013"/>der Tonschwingungen in Affektionen des Zentralorgans
+				<lb n="N014"/>sein mögen, wird sich wohl ewig dem wissenschaft¬
+				<lb n="N015"/>lichen Nachweise entziehen; zum mindesten kann heute
+				<lb n="N016"/>von irgend welcher bestimmten Angabe darüber noch gar
+				<lb n="N017"/>nicht die Rede sein. Wenn nun auch die Brücke von den
+				<lb n="N018"/>nach ihrer mechanischen Abhängigkeit von den Schall¬
+				<lb n="N019"/>bewegungen wohlverständlichen Apparaten des äusseren
+				<lb n="N020"/>Ohres (Trommelfell, Gehörknöchelchen, zu den Tonvor¬
+				<lb n="N021"/>stellungen bei dem gegenwärtigen Stande der Wissen¬
+				<lb n="N022"/>schaft im Dunkel liegt (ob <persName>Helmholtz’</persName> Deutung der Funk¬
+				<lb n="N023"/>tionen der Membrana basilaris richtig ist oder nicht, ändert
+				<lb n="N024"/>nicht viel an der Sachlage), die <hi rendition="#g">Abhängigkeit der</hi>
+				<lb n="N025"/><hi rendition="#g">Tonvorstellungen von den Tonschwingungen</hi>
+				<lb n="N026"/>steht ausser <hi rendition="#g">Zweifel</hi> und liegt derart klar zu Tage, dass
+				<lb n="N027"/>von erstern aus letztere bestimmte Schlüsse gemacht
+				<lb n="N028"/>werden können. Aber — und damit stehen wir an der wich¬
+				<lb n="N029"/>tigen Schwelle, welche vom physischen oder physikalischen
+				<lb n="N030"/>Hören zum musikalischen Hören überführt: <hi rendition="#g">die Ab¬</hi>
+				<lb n="N031"/><hi rendition="#g">hängigkeit der Tonvorstellungen von den</hi>
+				<lb n="N032"/><hi rendition="#g">Tonschwingungen ist nicht eine absolute</hi>,
+				<lb n="N033"/>derart, dass alle bei eingehender Einzeluntersuchung nach¬
+				<lb n="N034"/>weisbaren Elemente der das Ohr treffenden Klänge
+				<lb n="N035"/>bestimmenden Einfluss auf die Gestaltung und Verket¬
+				<lb n="N036"/>tung der Tonvorstellung gewännen, sondern sie ist
+				<lb n="N037"/><hi rendition="#g">beschränkt durch eine auswählende und</hi>
+				<lb n="N038"/><hi rendition="#g">ordnende Tätigkeit</hi> des die einander folgenden
+				<lb n="N039"/>oder zugleich angegebenen Töne mit einander ver¬
+            	<pb facs="#f0017" n="16"/>
+            	<lb n="N001"/>gleichenden apperzipierenden Geistes. Denn das musi¬
+				<lb n="N002"/>kalische Hören ist selbst bei dem nicht durch fach¬
+				<lb n="N003"/>männische Schulung oder durch Gewöhnung speziell
+				<lb n="N004"/>gebildeten Hörer <hi rendition="#g">nicht nur ein physisches Er¬</hi>
+				<lb n="N005"/><hi rendition="#g">leiden</hi>, sondern eine <hi rendition="#g">psychische Aktivität</hi>, ein
+				<lb n="N006"/>fortgesetztes <hi rendition="#g">Vergleichen und Verknüpfen</hi> der
+				<lb n="N007"/>einander folgenden Töne und Zusammenklänge. Darin
+				<lb n="N008"/>allein liegt die Erklärung dafür, dass die effektive
+				<lb n="N009"/>akustische Stimmung eines Intervalls, durchaus nicht
+				<lb n="N010"/>die Auffassung desselben in dem durch diese Stimmung
+				<lb n="N011"/>bedingten Sinne zu erzwingen vermag, dass vielmehr der
+				<lb n="N012"/>„musikalische Zusammenhang”, die Beziehungen der
+				<lb n="N013"/>Töne auf einander nach Prinzipien grösster Einfach¬
+				<lb n="N014"/>heit, möglichster „<hi rendition="#g">Ökonomie</hi>” <hi rendition="#g">des Vorstellens</hi>
+				<lb n="N015"/>entscheiden. Die real hervorgebrachten Klänge sind für
+				<lb n="N016"/>das musikalische Hören schliesslich nur eine Art Roh¬
+				<lb n="N017"/>material, ein grober Stoff, aus welchem der vorstellende
+				<lb n="N018"/>Geist in allerdings beschränkter aber nicht absoluter
+				<lb n="N019"/>Abhängigkeit die Gebilde formt, an denen er sich er¬
+				<lb n="N020"/>freut. Darin, dass das <hi rendition="#g">musikalische Hören</hi> tat¬
+				<lb n="N021"/>sächlich fortgesetzt ein <hi rendition="#g">auswählendes, Ordnung</hi>
+				<lb n="N022"/><hi rendition="#g">und Konsequenz aufsuchendes, psychisch-</hi>
+				<lb n="N023"/><hi rendition="#g">aktives</hi> und nicht ein physisch-passives ist, liegt
+				<lb n="N024"/>allein die Erklärung, wie dasselbe sich mit (tempe¬
+				<lb n="N025"/>rierten) Annäherungswerten statt der absolut reinen
+				<lb n="N026"/>Intonationen abfindet und wie es im stande ist, nicht
+				<lb n="N027"/>in der künstlerischen Absicht liegende aber durch die
+				<lb n="N028"/>Natur der Klänge unserer Musikinstrumente bedingte
+				<lb n="N029"/>Beitöne von manchmal sehr beträchtlicher Stärke zu
+				<lb n="N030"/><hi rendition="#g">überhören, vollständig zu ignorieren</hi>.
+			</p>
+            <p>
+				<lb n="N001"/>Die Erkenntnis, dass das musikalische Hören nicht
+				<lb n="N002"/>ein passives, sondern ein aktives ist, schlägt aber zu¬
+				<lb n="N003"/>gleich die Brücke von den physiologischen Unter¬
+				<lb n="N004"/>suchungen herüber zu den Tatsachen des eigentlichen
+				<lb n="N005"/>musikalischen Hörens. Jeder, der sich mit dieser
+				<lb n="N006"/>Frage überhaupt beschäftigt hat, kennt die gähnende
+				<lb n="N007"/>Kluft zwischen der 2. und der 3. Abteilung von <persName>Helm¬
+				<lb n="N008"/>holtz’</persName> „” dort Beob¬
+				<lb n="N009"/>achtungen objektiver Vorgänge auf dem Gebiete der
+				<lb n="N010"/>physikalischen und physiologischen Akustik, hier die
+				<lb n="N011"/>Beschäftigung mit den Problemen der durchaus auf
+				<lb n="N012"/>psychologisch-ästhetischem Gebiete sich abspielenden
+            	<pb facs="#f0018" n="17"/>
+            	<lb n="N001"/>Vorgänge des musikalischen Hörens. Der Versuch
+				<lb n="N002"/><persName>Stumpfs</persName>, die beiden getrennten Gebiete durch eine <hi rendition="#g">Ton¬</hi>
+				<lb n="N003"/><hi rendition="#g">psychologie</hi> zu verbinden, kann bis jetzt nicht als
+				<lb n="N004"/>gelungen bezeichnet werden. Denn die den Gegenstand
+				<lb n="N005"/>der neuen Wissenschaft bildenden <hi rendition="#g">Ton-Urteile</hi> sind
+				<lb n="N006"/>dem Gebiete der eigentlich musikalischen Hörvorgänge
+				<lb n="N007"/>noch ungefähr ebenso fernstehend wie die Ergebnisse
+				<lb n="N008"/>des ersten und zweiten Teils der „
+				<lb n="N009"/>”. Dass das musikalische Hören auch
+				<lb n="N010"/>bereits in seinen primitivsten Elementen ein aktives,
+				<lb n="N011"/>auswählendes d. h. für manche Dinge des physischen
+				<lb n="N012"/>Klanges geradezu ein <hi rendition="#g">Überhören</hi>, ein <hi rendition="#g">Nichthören</hi>
+				<lb n="N013"/>ist, hat <persName>Stumpf</persName>, haben alle Tonpsychologen viel zu
+				<lb n="N014"/>wenig beachtet; aber ohne diese Erkenntnis, ohne die
+				<lb n="N015"/>fortgesetzte Würdigung dieser grundlegenden Tatsache
+				<lb n="N016"/>ist von der physikalischen und physiologischen Akustik
+				<lb n="N017"/>zu den Anfängen der Musik überhaupt nicht hinüber¬
+				<lb n="N018"/>zufinden!
+			</p>
+            <p>
+				<lb n="N001"/><persName>Stumpf</persName> hat den Versuch gemacht und hat ihn
+				<lb n="N002"/>aufgegeben (die Fortsetzung der  wird
+				<lb n="N003"/>nicht erscheinen [1.—2. Bd. <date when="1889">1889</date>, <date when="1892">1892</date>]). Er ist von
+				<lb n="N004"/>der Untersuchung der Einzelklänge und ihrer Unter¬
+				<lb n="N005"/>scheidung zur Untersuchung von Zweiklängen und ihrer
+				<lb n="N006"/>grösseren oder geringeren Verschmelzung fortgeschritten
+				<lb n="N007"/>und hat dabei eine Stufenleiter von Verschmelzungs¬
+				<lb n="N008"/>graden aufgestellt, welche ganz allmählich von den
+				<lb n="N009"/>Konsonanzen zu Dissonanzen und Diskordanzen über¬
+				<lb n="N010"/>führt, hat einen prinzipiellen Unterschied zwischen Kon¬
+				<lb n="N011"/>sonanz und Dissonanz nicht gefunden und den Unter¬
+				<lb n="N012"/>schied zwischen Dissonanz und (musikalisch sinnloser)
+				<lb n="N013"/>Diskordanz ganz verwischt, hat also in Summa die
+				<lb n="N014"/>Hauptfehler der <persName>Helmholtz’schen</persName> Fundamentierung der
+				<lb n="N015"/>Musiktheorie durch Andersformulierung erneuert. Eine
+				<lb n="N016"/>befriedigende Erklärung der <hi rendition="#g">Mollkonsonanz</hi> hat er
+				<lb n="N017"/>so wenig gefunden wie <persName>Helmholtz</persName>, ist sogar überhaupt
+				<lb n="N018"/>bis zum Akkordbegriff und zur prinzipiellen Scheidung
+				<lb n="N019"/>von Dur und Moll <hi rendition="#g">nicht</hi> vorgedrungen. Denn die Defi¬
+				<lb n="N020"/>nition, dass <hi rendition="#g">Zusammenklänge von mehr als</hi>
+				<lb n="N021"/><hi rendition="#g">zwei Tönen konsonant sind, wenn keins der</hi>
+				<lb n="N022"/><hi rendition="#g">durch je zwei derselben gebildeten Inter¬</hi>
+				<lb n="N023"/><hi rendition="#g">valle</hi> ein dissonantes ist, kann doch nur als Versuch
+				<lb n="N024"/>einer negativen Umschreibung gelten; derselbe ergibt
+            	<pb facs="#f0019" n="18"/>
+            	<lb n="N001"/>eine grosse Zahl möglicher Kombinationen, die man wohl
+				<lb n="N002"/>mit Hilfe unserer gewohnten Begriffe in Durakkorde und
+				<lb n="N003"/>Mollakkorde auseinander sortieren kann, doch ohne
+				<lb n="N004"/>eigentlich zu begreifen, warum. Beiläufig habe ich vor
+				<lb n="N005"/>einigen Jahren durch eine höchst unbequeme Querfrage
+				<lb n="N006"/><persName>Stumpf</persName> in grosse Verlegenheit gebracht (
+				<lb n="N007"/>), nämlich die Frage, warum uns auf einem tempe¬
+				<lb n="N008"/>riert gestimmten Klaviere der <hi rendition="#g">übermässige Drei¬</hi>
+				<lb n="N009"/><hi rendition="#g">klang</hi> c e gis (as) als Dissonanz erscheint, obgleich
+				<lb n="N010"/>doch die drei Tonpaare
+            	
+            	<lb n="N001"/>als konsonant verstanden werden. <persName>Stumpfs</persName> Ausflucht,
+				<lb n="N002"/>dass man doch unmöglich vom Ohre verlangen könne,
+				<lb n="N003"/>dass es denselben Ton in demselben Zusammenklange
+				<lb n="N004"/>als gis und als as höre, ist natürlich zurückzuweisen,
+				<lb n="N005"/>da dieselbe sich auf Begriffe stützt, mit denen zu ope¬
+				<lb n="N006"/>rieren er nach seinen bisherigen Aufweisen eben noch kein
+				<lb n="N007"/>Recht hat. Die Tatsache, dass das Ohr jedem der drei
+				<lb n="N008"/>Zweiklänge willig Konsonanz zuspricht (trotz der tem¬
+				<lb n="N009"/>perierten Stimmung!), ihre Verbindung zum Dreiklange
+				<lb n="N010"/>aber ganz entschieden als Dissonanz qualifiziert, ist
+				<lb n="N011"/>eben von der blossen Untersuchung der Zweiklänge aus
+				<lb n="N012"/>überhaupt nicht zu erklären. Ich habe aber bereits
+				<lb n="N013"/>seit dem Erscheinen des zweiten Bandes der 
+				<lb n="N014"/> <persName>Stumpf</persName> vorausgesagt, dass derselbe nie¬
+				<lb n="N015"/>mals zu einem befriedigenden Schlussresultat kommen
+				<lb n="N016"/>könne, wenn er nicht beizeiten von der Untersuchung
+				<lb n="N017"/>von Zweiklängen zur <hi rendition="#g">Fundamentierung des har¬</hi>
+				<lb n="N018"/><hi rendition="#g">monischen Hörens durch Dreiklänge</hi> fort
+				<lb n="N019"/>schreite; meine Prophezeiung, dass er auf dem ein¬
+				<lb n="N020"/>geschlagenen Wege nicht weiter kommen könne, hat
+				<lb n="N021"/>sich in vollem Umfange bewahrheitet.
+            </p>
+            <p>
+				<lb n="N001"/>Ich will meine Darstellung nicht unnötig in die
+				<lb n="N002"/>Breite ziehen, sondern kurz und gut sagen, dass es ein
+				<lb n="N003"/><hi rendition="#g">Hören von Tönen im Sinne von Intervallen</hi>
+				<lb n="N004"/>(Zweiklängen) überhaupt gar <hi rendition="#g">nicht gibt</hi>, dass da¬
+				<lb n="N005"/>gegen ein <hi rendition="#g">Hören im Sinne von Dreiklängen</hi>
+				<lb n="N006"/><hi rendition="#g">das </hi> <hi rendition="#i">A</hi> <hi rendition="#g"> und </hi> <hi rendition="#i">Ω</hi> <hi rendition="#g"> aller Musik ist</hi>. Auch die absolut
+				<lb n="N007"/>einstimmige Melodie hört zweifellos der Hörer <date>von</date>
+				<lb n="N008"/><date>heute</date>, wahrscheinlich aber der Hörer <date>aller Zeiten</date>
+				<lb n="N009"/><hi rendition="#g">im Sinne von Harmonien</hi> (<hi rendition="#g">Tonkomplexen</hi>).
+				<pb facs="#f0020" n="19"/>
+            	<lb n="N001"/>Die beiden einzigen Arten von Komplexen aber, in
+				<lb n="N002"/>deren Sinne man Einzeltöne sogut wie zwei- drei- und
+				<lb n="N003"/>mehrtönige Akkorde hören kann, sind der <hi rendition="#g">Dur¬</hi>
+				<lb n="N004"/><hi rendition="#g">akkord</hi> und der <hi rendition="#g">Mollakkord</hi> (<persName>Zarlino</persName>, ,
+				<lb n="N005"/>S. 222 „Da questa varietà dipende tutta la diversità e
+				<lb n="N006"/>perfettione dell' harmonie”). Der Durakkord und der
+				<lb n="N007"/>Mollakkord sind nicht zwei zufällige Konglomerate
+				<lb n="N008"/>von Tönen, die neben so und so vielen andern möglichen
+				<lb n="N009"/><hi rendition="#g">inter pares</hi> stehen, sondern sie sind <hi rendition="#g">die beiden</hi>
+				<lb n="N010"/><hi rendition="#g">einzigen prinzipiell verschiedenen</hi>, in deren
+				<lb n="N011"/>Sinne alle weiter möglichen Kombinationen gehört
+				<lb n="N012"/>werden. Voraussetzung für diese Erkenntnis ist natür¬
+				<lb n="N013"/>lich der engere <hi rendition="#g">Zusammenschluss aller Oktav¬</hi>
+				<lb n="N014"/><hi rendition="#g">töne zum Begriff des Tones im weiteren</hi>
+				<lb n="N015"/><hi rendition="#g">Sinne</hi>, wie ich ihn bereits <date when="1877">1877</date> in meiner „
+				<lb n="N016"/>” aufgestellt habe und wie ihn <persName>Stumpf</persName>
+				<lb n="N017"/>in der „” <date when="1892">1892</date> unter dem Namen „Er¬
+				<lb n="N018"/>weiterungsbegriff” ebenfalls angenommen hat. Steht der
+				<lb n="N019"/>Begriff der <hi rendition="#g">engeren Zusammengehörigkeit</hi>
+				<lb n="N020"/><hi rendition="#g">aller Oktaven</hi> fest — ihn zu leugnen wäre unsinnig,
+				<lb n="N021"/>aber seine vollständige Erklärung oder Motivierung ist
+				<lb n="N022"/>bekanntlich unmöglich — so reduzieren sich tatsäch¬
+				<lb n="N023"/>lich durch Zusammenrücken in engste Lage alle als
+				<lb n="N024"/>konsonant qualifizierten Kombinationen auf die beiden
+				<lb n="N025"/>Formeln:
+            	<list>
+         		<item>
+         			<lb n="N001"/>1. Prim mit (grosser) Oberterz und Oberquint,
+         		</item>
+         		<item>
+         			<lb n="N002"/>2. Prim mit (grosser) Unterterz und Unterquint.
+         		</item>
+         	</list>
+            </p>
+            <p>
+				<lb n="N001"/>Zunächst wäre natürlich nichts dagegen einzu¬
+				<lb n="N002"/>wenden, wenn man statt dieser Formulierung die andere
+				<lb n="N003"/>vorzöge:
+				<lb n="N004"/><hi rendition="#g">Prim mit (kleiner oder grosser) Oberterz</hi>
+				<lb n="N005"/><hi rendition="#g">und reiner Oberquint</hi>
+				<lb n="N006"/>wie das alle Welt gewohnt ist; nur dürfen diejenigen,
+				<lb n="N007"/>welche dieser Fassung den Vorzug geben, dann nicht
+				<lb n="N008"/>mehr von der <hi rendition="#g">Begründung der Harmonie durch</hi>
+				<lb n="N009"/><hi rendition="#g">die Obertöne</hi> reden, da jede derartige Bezugnahme
+				<lb n="N010"/>sofort die Mollkonsonanz in Frage stellt, sie zum un¬
+				<lb n="N011"/>lösbaren Problem macht. Dass wir aber tatsächlich alles,
+				<lb n="N012"/>was sich musikalisch ereignen kann, in jedem Moment
+				<lb n="N013"/>entweder im Sinne eines Durakkords oder eines Moll¬
+            	<pb facs="#f0021" n="20"/>
+            	<lb n="N001"/>akkords hören, spricht sich unzweidentig genug darin
+				<lb n="N002"/>aus, dass es neben der Durtonalität und Molltonalität,
+				<lb n="N003"/>d. h. der Beziehung einer Melodie oder Akkordfolge
+				<lb n="N004"/>auf einen Durakkord oder einen Mollakkord als zen¬
+				<lb n="N005"/>tralen Klang (Rameaus „Centre harmonique”), etwas
+				<lb n="N006"/>drittes nicht gibt und nicht geben kann.
+            </p>
+         </div>
+         <div rend="TEI" facs="#facs_21_TextRegion_1622744264857_2415" type="chapter" n="1">
+			<head>
+				<lb n="N001"/><hi rendition="#b">IV. Die wahre Wurzel des harmonischen Dualismus.</hi>
+			</head>
+            <p>
+				<lb n="N001"/>Damit kommen wir endlich zu unserer Hauptfrage.
+				<lb n="N002"/>Warum sollen wir uns den Bau des Mollakkordes um¬
+				<lb n="N003"/>gekehrt denken als den des Durakkordes? Wenn wir
+				<lb n="N004"/>doch definitiv davon absehen, irgendwie die Oberton¬
+				<lb n="N005"/>reihe als <hi rendition="#g">Grund</hi> der Konsonanz in Frage zu ziehen,
+				<lb n="N006"/>was kann uns dann hindern, zweierlei Aufbau konso¬
+				<lb n="N007"/>nanter Verhältnisse nebeneinander <hi rendition="#g">nach oben</hi> anzu¬
+				<lb n="N008"/>nehmen?
+            	<list>
+         		<item>
+         			<lb n="N001"/>1. Prim, <hi rendition="#g">grosse</hi> Terz Quint.
+         		</item>
+         		<item>
+         			<lb n="N002"/>2. Prim, <hi rendition="#g">kleine</hi> Terz Quint.
+         		</item>
+         	</list>
+            	<lb n="N001"/>Dagegen ist zunächst einzuwenden, dass die Beschrän¬
+				<lb n="N002"/>kung auf <hi rendition="#g">eine</hi> Art der Erklärung durch mathematische
+				<lb n="N003"/>Definition beider Verhältnisse notwendig für den <hi rendition="#g">einen</hi>
+				<lb n="N004"/>oder den <hi rendition="#g">anderen</hi> Akkord kompliziertere Zahlen be¬
+				<lb n="N005"/>dingt, nämlich
+            	
+            	<lb n="N001"/>d. h. die Definition nach <hi rendition="#g">Schwingungszahlen</hi> stellt
+				<lb n="N002"/>den <hi rendition="#g">Mollakkord</hi>, die nach <hi rendition="#g">Saitenlängen</hi> den
+				<lb n="N003"/><hi rendition="#g">Durakkord</hi> als eine <hi rendition="#g">minder einfache Bildung</hi>
+				<lb n="N004"/>hin, so dass dieser einfache Vergleich lehrt, dass
+				<lb n="N005"/>die <hi rendition="#g">Mollkonsonanz richtiger aus der rela¬</hi>
+				<lb n="N006"/><hi rendition="#g">tiven Grösse der Schallwellen</hi> (Saitenlängen,
+				<lb n="N007"/>Pfeifengrössen), <hi rendition="#g">die Durkonsonanz dagegen aus</hi>
+				<lb n="N008"/><hi rendition="#g">den relativen Schwingungsgeschwindigkeiten</hi>
+				<lb n="N009"/><hi rendition="#g">abgeleitet wird</hi>. Erinnern wir uns hierzu der fein¬
+				<lb n="N010"/>sinnigen Ausführungen <persName>Lotzes</persName> (
+				<lb n="N011"/>, S. 272) über die <hi rendition="#g">Zusammensetzung</hi>
+           	 <pb facs="#f0022" n="21"/>
+            	<lb n="N001"/><hi rendition="#g">der Qualitätsempfindung der Tonhöhe aus den</hi>
+				<lb n="N002"/><hi rendition="#g">beiden quantitativen Faktoren der Inten¬</hi>
+				<lb n="N003"/><hi rendition="#g">sität</hi> (Schwingungsgeschwindigkeit, Zahl der Schwin¬
+				<lb n="N004"/>gungen in einer bestimmten Zeiteinheit) und des <hi rendition="#g">Volu¬</hi>
+				<lb n="N005"/><hi rendition="#g">mens</hi> (Schallwellenlänge, überhaupt Grösse des schwin¬
+				<lb n="N006"/>genden elastischen Körpers), so ist unschwer zu er¬
+				<lb n="N007"/>kennen, <hi rendition="#g">dass die Aufsuchung der einfachsten</hi>
+				<lb n="N008"/><hi rendition="#g">Zahlenverhältnisse für beide Quantitäts¬</hi>
+				<lb n="N009"/><hi rendition="#g">bestimmungen ganz von selbst auf den Dua¬</hi>
+				<lb n="N010"/><hi rendition="#g">lismus der harmonischen Grundlage führt</hi>.
+				<lb n="N011"/>Vielleicht ist aber noch niemand auf den Gedanken
+				<lb n="N012"/>gekommen (mir selbst erschliesst sich diese Erkenntnis
+				<lb n="N013"/>erst durch diese Kette von Folgerungen), dass <hi rendition="#g">der</hi>
+				<lb n="N014"/><hi rendition="#b">unterscheidende Charakter von Dur und Moll</hi>
+				<lb n="N015"/><hi rendition="#g">geradezu darauf zurückzuführen ist</hi>, dass
+				<lb n="N016"/>die <hi rendition="#b">Durkonsonanz</hi> in den <hi rendition="#b">einfachsten Verhältnissen</hi>
+				<lb n="N017"/><hi rendition="#b">der Steigerung der Schwingungsgeschwindigkeit</hi>
+				<lb n="N018"/>ihr Wesen hat, die <hi rendition="#b">Mollkonsonanz</hi> dagegen auf den
+				<lb n="N019"/><hi rendition="#b">einfachsten Verhältnissen der Vergrösserung der</hi>
+				<lb n="N020"/><hi rendition="#b">schwingenden Masse</hi> (der Schallwellenlänge, Saiten¬
+				<lb n="N021"/>länge etc.) beruht, so dass man kurzweg das Dur¬
+				<lb n="N022"/>prinzip in der <hi rendition="#b">wachsenden Intensität</hi> und das Moll¬
+				<lb n="N023"/>prinzip in dem <hi rendition="#b">zunehmenden Volumen</hi> sehen kann.
+				<lb n="N024"/><hi rendition="#g">Dass diese neue Definition in der Tat dem</hi>
+				<lb n="N025"/><hi rendition="#g">Charakter der beiden Tongeschlechter</hi>
+				<lb n="N026"/><hi rendition="#g">bestens entspricht</hi>, möchte ich ganz besonders
+				<lb n="N027"/>betonen; <persName>Hauptmanns</persName> „herabziehende Schwere” des
+				<lb n="N028"/>Mollakkordes ist erst vollständig zu begreifen, wenn
+				<lb n="N029"/>man dabei die wachsende Masse der auf den Ton 1
+				<lb n="N030"/>bezogenen tieferen Töne ins Auge fasst, wie der auf¬
+				<lb n="N031"/>strebende, helle, lichte Charakter der Durkonsonanz
+				<lb n="N032"/>bestens damit erklärt ist, dass alle auf den Ton 1 (die
+				<lb n="N033"/>Prim) bezogenen Töne Steigerungen der Schwingungs¬
+				<lb n="N034"/>geschwindigkeit ihre Entstehung verdanken. Also noch¬
+				<lb n="N035"/>mals kurz und gut: Das Durprinzip ist die Steigerung
+				<lb n="N036"/>der Schwingungsgeschwindigkeit (<hi rendition="#g">Aufsteigen</hi> zu
+				<lb n="N037"/>nächstverwandten Tönen), das Mollprinzip das An¬
+				<lb n="N038"/>wachsen der Schallwellenlängen (<hi rendition="#g">Herabsteigen</hi> zu
+				<lb n="N039"/>nächstverwandten Tönen); daher sind beide zahlen¬
+				<lb n="N040"/>mässig am besten durch dieselbe einfache Zahlenreihe
+				<lb n="N041"/>auszudrücken:
+            	<pb facs="#f0023" n="22"/>
+         	   
+            	<lb n="N001"/>und die seit <persName>Zarlino</persName> übliche Heranziehung der Reihe
+				<lb n="N002"/>der einfachen Brüche (Gegenüberstellung der harmo¬
+				<lb n="N003"/>nischen und arithmetischen Teilung) kann als nur die
+				<lb n="N004"/>Tatsache absolut gleicher Einfachheit und Ursprünglich¬
+				<lb n="N005"/>keit beider Reihen verdunkelnd künftig ein für allemal
+				<lb n="N006"/>unterbleiben.
+			</p>
+            <p>
+				<lb n="N001"/>Weiter ist nun aber zu bemerken, dass <hi rendition="#g">nur die</hi>
+				<lb n="N002"/><hi rendition="#g">Mehrstimmigkeit das dem Musiker <date>von heute</date></hi>
+				<lb n="N003"/><hi rendition="#g">naheliegende Bedürfnis eingebürgert hat,</hi>
+				<lb n="N004"/><hi rendition="#g">alle Zusammenklänge von unten herauf sich</hi>
+				<lb n="N005"/><hi rendition="#g">aufbauend vorzustellen</hi>. Ja für <date>die ersten Jahr¬</date>
+				<lb n="N006"/><date>hunderte</date> der Übung mehrstimmiger Musik (<date>9.—11. Jahr¬</date>
+				<lb n="N007"/><date>hundert</date>) ist sogar noch die umgekehrte Art der Vor¬
+				<lb n="N008"/>stellung das gewöhnliche; das ältere „Organum” be¬
+				<lb n="N009"/>wegt sich prinzipiell <hi rendition="#g">unterhalb</hi> der Hauptstimme
+				<lb n="N010"/>und erst das <date>Zeitalter des Déchant</date> bringt allmählich
+				<lb n="N011"/>die andere Auffassungsweise. (Auch der Fauxbourdon
+				<lb n="N012"/>wird noch im <date>15. Jahrhundert</date> in Unterterzen <hi rendition="#g">vor¬</hi>
+				<lb n="N013"/><hi rendition="#g">gestellt</hi>.) Für <hi rendition="#g">homophone</hi>, d. h. <hi rendition="#g">absolut ein¬</hi>
+				<lb n="N014"/><hi rendition="#g">stimmige</hi> Musik kann aber von einem solchen
+				<lb n="N015"/>Begriff überhaupt gar nicht die Rede sein und auch
+				<lb n="N016"/>für heute muss konstatiert werden, dass der Sänger
+				<lb n="N017"/>jedes beliebige Intervall von oben nach unten genau
+				<lb n="N018"/>ebenso leicht vorstellt wie von unten nach oben (dass
+				<lb n="N019"/>er erstere sogar durchschnittlich leichter singen kann,
+				<lb n="N020"/>hat freilich einen andern Grund). Wenn wir heute ge¬
+				<lb n="N021"/>wöhnlich die Intervalle von unten nach oben zählen,
+				<lb n="N022"/>so ist das doch durchaus keine natürliche Notwendigkeit
+				<lb n="N023"/>und z. B. die Araber verfuhren im <date>14. Jahrhundert</date> und
+				<lb n="N024"/>wohl noch viel früher umgekehrt, d. h. sie entwickelten
+				<lb n="N025"/>die Reihe der Intervalle (fortschreitend von der Oktave
+				<lb n="N026"/>zu immer kleineren und komplizierteren) an der Teilung
+				<lb n="N027"/>der Saite in 12 gleiche Teile:
+            	
+            	<lb n="N001"/>Auch den Griechen schien die absteigende Ordnung
+				<lb n="N002"/>der Tonverhältnisse das entschieden natürlichere und
+            	<pb facs="#f0024" n="23"/>
+            	<lb n="N001"/>allein selbstverständliche. Während wir heute als Grund¬
+				<lb n="N002"/>skala die Reihe
+            	
+            	<lb n="N001"/>zu betrachten gewohnt sind, rechneten dagegen die
+				<lb n="N002"/>Griechen umgekehrt:
+            	
+            	<lb n="N001"/>Überhaupt darf man nur ja nicht die Frage der ge¬
+				<lb n="N002"/>schichtlichen Entwicklung anrühren, wenn man gegen
+				<lb n="N003"/>die Schlichtheit und Natürlichkeit der Mollharmonie
+				<lb n="N004"/>angehen will. Aber auch wenn man von geschicht¬
+				<lb n="N005"/>licher Entwicklung ganz absieht, ist die Gegensätzlich¬
+				<lb n="N006"/>keit der Dur- und der Mollbeziehungen vielfach so auf¬
+				<lb n="N007"/>fällig hervortretend, dass man die Augen absichtlich
+				<lb n="N008"/>schliessen muss, um sie nicht zu sehen.
+			</p>
+            <p>
+				<lb n="N001"/>Nachdem wir hiermit die wahre Wurzel des har¬
+				<lb n="N002"/>monischen Dualismus aufgedeckt, bleibt als Problem
+				<lb n="N003"/>zunächst noch die <hi rendition="#g">Beschränkung des Konso¬</hi>
+				<lb n="N004"/><hi rendition="#g">nanzbegriffs in seinen beiden Formen auf</hi>
+				<lb n="N005"/><hi rendition="#g">das Quintverhältnis und das Terzverhältnis</hi>.
+				<lb n="N006"/>Warum erscheinen nicht auch die noch weiter als die 5
+				<lb n="N007"/>von der Einheit abliegenden, Primzahlen entsprechenden
+				<lb n="N008"/>Töne (7, 11, 13 etc.) in derselben Weise mit dem Tone 1
+				<lb n="N009"/>zur Einheit des Klangs verbunden? Die Antwort kann
+				<lb n="N010"/>sich ebenso wie die auf die Frage nach der Sonder¬
+				<lb n="N011"/>stellung der Oktave nur auf eine <hi rendition="#g">Tatsache unseres</hi>
+				<lb n="N012"/><hi rendition="#g">musikalischen Hörens</hi> berufen, wenn auch viel¬
+				<lb n="N013"/>leicht mit etwas mehr von einer Art Motivierung.
+				<lb n="N014"/>Niemals wird es gelingen, eine volle Erklärung dafür
+				<lb n="N015"/>beizubringen, warum die Oktave der Oktave uns durch¬
+				<lb n="N016"/>aus als <hi rendition="#g">derselbe Ton</hi> erscheint wie der Ton 1, und
+				<lb n="N017"/>warum auch die Unteroktave und jede beliebige weitere
+				<lb n="N018"/>Oktaverweiterung nach oben oder unten uns mit dem
+				<lb n="N019"/>Tone 1 harmonisch durchaus identisch erscheint, und
+				<lb n="N020"/>warum auch beliebige Oktavversetzungen des Quint¬
+				<lb n="N021"/>tones oder Terztones deren harmonische Qualität unver¬
+				<lb n="N022"/>ändert lassen, während jede Potenzierung eines der
+				<lb n="N023"/>beiden andern Intervalle und auch jede Kombination
+				<lb n="N024"/>derselben sofort vom Ohre als Dissonanz qualifiziert
+				<lb n="N025"/>wird, z. B. von c aus die Quint der Quint d′ oder die
+				<lb n="N026"/>Terz der Terz gis oder die Terz der Quint (Quint der
+				<pb facs="#f0025" n="24"/>
+            	<lb n="N001"/>Terz) h. Wohl lässt sich begreifen, dass solche Inter¬
+				<lb n="N002"/>valle, die eine <hi rendition="#g">vermittelte Beziehung auf die</hi>
+				<lb n="N003"/><hi rendition="#g">Prim durch Zerlegung in zwei einfachere</hi>
+				<lb n="N004"/><hi rendition="#g">Intervalle</hi> zulassen, eben wegen dieser Möglichkeit
+				<lb n="N005"/>der Vermittelung überhaupt nicht mehr direkt bezogen
+				<lb n="N006"/>werden, sondern in dem vermittelnden Tone neben die
+				<lb n="N007"/>Prim eine zweite Prim stellen, und dass diese <hi rendition="#g">selb¬</hi>
+				<lb n="N008"/><hi rendition="#g">ständige Ableitung das Wesen der Dissonanz</hi>
+				<lb n="N009"/>ausmacht (d′ als Quint von g, und h′ als Terz von g
+				<lb n="N010"/>stellen neben die Prim c eine zweite Prim g, gis als
+				<lb n="N011"/>Terz von e stellt ebenso neben die Prim c die Prim e).
+				<lb n="N012"/>Rätselhaft ist und bleibt aber, dass das einfachste, erste
+				<lb n="N013"/>aller Intervalle, die Oktave, von der Möglichkeit solcher
+				<lb n="N014"/>Verselbständigung völlig ausgeschlossen ist, dass die
+				<lb n="N015"/>Quint der Oktave und die Terz der Oktave nicht ebenso
+				<lb n="N016"/>den Oktavton verselbständigen. Die Notwendigkeit, den
+				<lb n="N017"/>„erweiterten Tonbegriff” als ein <hi rendition="#g">psychologisches</hi>
+				<lb n="N018"/><hi rendition="#g">Faktum</hi> anzuerkennen, ist also nicht in Abrede zu
+				<lb n="N019"/>stellen; sie ist eine fundamentale Tatsache des Hörens,
+				<lb n="N020"/>die anerkannt werden muss und jederzeit ohne Versuch
+				<lb n="N021"/>eines Widerspruchs anerkannt worden ist. Sämtliche Ok¬
+				<lb n="N022"/>taven, nicht nur diejenige der Prim, sondern auch die der
+				<lb n="N023"/>Quint und der Terz, scheiden also damit aus den beiden
+				<lb n="N024"/>zu betrachtenden Reihen aus. Alle Töne, deren Ord¬
+				<lb n="N025"/>nungszahlen in den Reihen sich als <hi rendition="#g">Produkte</hi> definieren
+				<lb n="N026"/>lassen (abgesehen ein für allemal von <hi rendition="#g">sämtlichen</hi>
+				<lb n="N027"/><hi rendition="#g">geradzahligen</hi>, die ja eben nur Oktaven bedeuten,
+				<lb n="N028"/>d. h. mit den halb so grossen harmonisch identisch
+				<lb n="N029"/>sind), sind gegen die Prim dissonant (9 = 3.3, 15 =
+				<lb n="N030"/>3.5, 25 = 5.5, 27 = 3.3.3 u. s. w.). So bleiben also
+				<lb n="N031"/>nur die <hi rendition="#g">Primzahlen</hi> 7, 11, 13, 17, 19 etc. übrig,
+				<lb n="N032"/>deren Ignorierung durch das Ohr natürlich ebenfalls
+				<lb n="N033"/>eine Erklärung fordert. Dass der dem Verhältnis des
+				<lb n="N034"/>7. Tons der Reihe entsprechende Ton unter Umständen
+				<lb n="N035"/>wirklich als noch zum Klang zugehörig musikalisch
+				<lb n="N036"/>verstanden werden kann, ist längst bemerkt und
+				<lb n="N037"/>z. B. von <persName>Tartini</persName> und <persName>Kirnberger</persName> für harmonische
+				<lb n="N038"/>Experimente verwertet worden; auch mit dem 11. und
+				<lb n="N039"/>13. Obertone macht man neuerdings ähnliche Versuche
+				<lb n="N040"/>(<persName>Cl. Debussy</persName>, <persName>W. Rebikoff</persName>). <hi rendition="#g">Ich glaube aber den¬</hi>
+				<lb n="N041"/><hi rendition="#g">noch nicht, dass irgendwelche Aussicht ist,</hi>
+				<lb n="N042"/><hi rendition="#g">diese Versuche könnten zu einer Erweite¬</hi>
+            	<pb facs="#f0026" n="25"/>
+            	<lb n="N001"/><hi rendition="#g">rung des Konsonanzbegriffes führen</hi>, aus
+				<lb n="N002"/>dem einfachen Grunde, weil die Ursachen, welche bis
+				<lb n="N003"/>jetzt zur Verleugnung der direkten Beziehbarkeit dieser
+				<lb n="N004"/>entfernteren Primzahlen entsprechenden Töne der Reihen
+				<lb n="N005"/>auf die Prim Anlass gegeben haben, auch fernerhin
+				<lb n="N006"/>ihre zwingende Kraft geltend machen werden. Der
+				<lb n="N007"/>Grund ist die<hi rendition="#g"> Möglichkeit der Deutung dieser</hi>
+				<lb n="N008"/><hi rendition="#g">Töne im Sinne anders bezogener, mit denen</hi>
+				<lb n="N009"/><hi rendition="#g">sie annähernd der Tonhöhe nach zusammen¬</hi>
+				<lb n="N010"/><hi rendition="#g">fallen</hi>. Der 7. Ton der Oberreihe entspricht annähernd
+				<lb n="N011"/>dem 9. der Unterreihe (2. Unterquint), der Ton 11 der
+				<lb n="N012"/>Oberreihe dem Tone 3 der Unterreihe (1. Unterquint),
+				<lb n="N013"/>der Ton 13 der Oberreihe dem Tone 5 der Unterreihe
+				<lb n="N014"/>(Unterterz); desgleichen entspricht der Ton 7 der Unter¬
+				<lb n="N015"/>reihe dem Tone 9 der Oberreihe, der Ton 11 der Unter¬
+				<lb n="N016"/>reihe dem Tone 3 der Oberreihe und der Ton 11 der
+				<lb n="N017"/>Unterreihe dem Tone 5 der Oberreihe. Der scheinbar
+				<lb n="N018"/>weite Abstand des hier mit in Frage kommenden
+				<lb n="N019"/>Tones 9 von der 1 wird in beiden Fällen dadurch
+				<lb n="N020"/>reduziert, dass derselbe nicht bei der <hi rendition="#g">Tonika</hi>, sondern
+				<lb n="N021"/>bei einer der Dominanten erfahrungsmässig seine Haupt¬
+				<lb n="N022"/>rolle spielt; z. B. hat c e g b den Sinn einer Dominant¬
+				<lb n="N023"/>harmonie, deren Tonika der F dur-Akkord ist. Der bei
+				<lb n="N024"/>dem C dur-Akkorde auftretende Ton b ist zwar tatsäch¬
+				<lb n="N025"/>lich der 9. Unterton von c, aber nur der 3. von f, dem
+				<lb n="N026"/>eigentlichen Zentraltone. Ebenso entspricht die beim
+				<lb n="N027"/>c moll-Akkorde auftretende Unterseptime a dem 9. Ober¬
+				<lb n="N028"/>tone von g; aber da der Akkord speziell nach g moll
+				<lb n="N029"/>gehört, so ist dieses zwei Quinten von g abliegende a
+				<lb n="N030"/>nur der 3. Oberton der Tonika-Prim d. Die beiden
+				<lb n="N031"/>andern Beispiele sind entsprechend zu beurteilen, aber
+				<lb n="N032"/>viel leichter verständlich, weil sie eine entferntere Be¬
+				<lb n="N033"/>ziehung durch eine <hi rendition="#g">nähere</hi> der andern Seite ersetzen
+				<lb n="N034"/>(3 statt 11, 5 statt 13).
+            </p>
+            <p>
+				<lb n="N001"/>Fassen wir die bisherigen Ergebnisse unserer Schluss¬
+				<lb n="N002"/>kette noch einmal kurz zusammen, so können wir sagen:
+				<lb n="N003"/><hi rendition="#g">Es gibt zwei Arten der Verwandtschaft</hi>, der
+				<lb n="N004"/>Vereinbarkeit von Tönen, der Bezogenheit von Ton¬
+				<lb n="N005"/>komplexen auf einem Einigungspunkt:
+            	<list>
+         		<item>
+         			<lb n="N001"/>a) <hi rendition="#g">die Reihe der einfachen Vielfachen be¬</hi>
+					 <lb n="N002"/><hi rendition="#g">züglich der Schwingungszahlen</hi> (Ober¬
+					 <lb n="N003"/>reihe),
+         		</item>
+         		<pb facs="#f0027" n="26"/>
+         		<item>
+         			<lb n="N001"/>b) <hi rendition="#g">die Reihe der einfachen Vielfachen be¬</hi>
+					 <lb n="N002"/><hi rendition="#g">züglich der Saitenlängen</hi> (Unterreihe).
+         		</item>
+         	</list>
+            	<lb n="N001"/><hi rendition="#g">Diese Reihen bedürfen nicht der Belegung</hi>
+				<lb n="N002"/><hi rendition="#g">durch die akustischen Phänomene</hi>, deren Heran¬
+				<lb n="N003"/>ziehung im Gegenteil nur das Verständnis der an sich
+				<lb n="N004"/>sehr einfach liegenden Verhältnisse erschwert und ver¬
+				<lb n="N005"/>wickelt.
+			</p>
+            <p>
+				<lb n="N001"/>Durch die <hi rendition="#g">Identität der Oktavtöne</hi> rücken
+				<lb n="N002"/>nach Belieben die Töne beider Reihen in <hi rendition="#g">nächste</hi>
+				<lb n="N003"/><hi rendition="#g">Nähe</hi> zusammen:
+			</p>
+         
+            <p>
+				<lb n="N001"/>Wie der Zusammenschluss von Tönen verschiedener
+				<lb n="N002"/>Höhe zur engeren Einheit des <hi rendition="#g">Tonbegriffs</hi> schon
+				<lb n="N003"/>bei der Oktave Halt macht, so ist der <hi rendition="#g">Klangbegriff</hi>
+				<lb n="N004"/>auf die drei Töne (nebst beliebigen Oktaven) <hi rendition="#g">Prim</hi>,
+				<lb n="N005"/>(gr.) <hi rendition="#g">Terz</hi> und <hi rendition="#g">Quint</hi> beschränkt. <hi rendition="#g">Alle weiter ab¬</hi>
+				<lb n="N006"/><hi rendition="#g">stehenden</hi>, grösseren Ordnungszahlen entsprechenden
+				<lb n="N007"/>Töne unterliegen entweder der <hi rendition="#g">Doppelbeziehung</hi>
+				<lb n="N008"/>über einen vermittelnden Zwischenton (sind dissonant)
+				<lb n="N009"/>oder werden <hi rendition="#g">mit Tönen der gegensätzlichen</hi>
+				<lb n="N010"/><hi rendition="#g">Reihe verwechselt und vom Ohre als Be¬</hi>
+				<lb n="N011"/><hi rendition="#g">standteil des Einzelklanges verleugnet und</hi>
+				<lb n="N012"/><hi rendition="#g">gänzlich ignoriert</hi>.
+			</p>
+            <p>
+				<lb n="N001"/>Der nächst <hi rendition="#g">höhere bezw. weitere Begriff</hi>
+				<lb n="N002"/>über demjenigen des <hi rendition="#g">Tones</hi> (nebst seinen Oktaven!)
+				<lb n="N003"/>ist also der des <hi rendition="#g">Klanges</hi>, dessen alleinige drei Ele¬
+				<lb n="N004"/>mente die Töne <hi rendition="#g">Prim</hi>, <hi rendition="#g">Terz</hi> und <hi rendition="#g">Quint</hi> sind.
+				<lb n="N005"/>Alle musikalisch überhaupt verständlichen Töne oder
+				<lb n="N006"/>Zusammenklänge werden als Vertreter solcher Drei¬
+				<lb n="N007"/>klänge gehört und miteinander verbunden und ver¬
+				<lb n="N008"/>glichen. Neben den solchergestalt aus 3 konstituierenden
+				<lb n="N009"/>Tönen bestehenden Klängen <hi rendition="#g">Zusammenklänge</hi>
+				<lb n="N010"/><hi rendition="#g">von nur zwei Tönen</hi> (Intervalle) als besonderen
+				<lb n="N011"/>Begriff aufzustellen, <hi rendition="#g">liegt keinerlei Grund vor</hi>,
+				<lb n="N012"/>da sogar auch Einzeltöne stets nur im Sinne von
+				<lb n="N013"/>Klängen gehört werden. Die Ungewissheit über die
+				<lb n="N014"/>Klangbedeutung eines ein Tonstück beginnenden Tones
+				<lb n="N015"/>oder auch eines zweitönigen Intervalls, welche schnell
+				<lb n="N016"/>durch die Fortsetzung aufgehoben wird, kann keinen
+				<lb n="N017"/>Grund geben, noch besondere <hi rendition="#g">Intervallbegriffe</hi>
+            	<pb facs="#f0028" n="27"/>
+            	<lb n="N001"/>in Mittelstellung zwischen Einzelton und Klang anzu¬
+				<lb n="N002"/>nehmen. <hi rendition="#g">Die Konsonanz der Intervalle be¬</hi>
+				<lb n="N003"/><hi rendition="#g">ruht in der Zusammengehörigkeit zum</hi>
+				<lb n="N004"/><hi rendition="#g">Klange</hi> und es hat daher auch gar keinen Wert,
+				<lb n="N005"/>mehrere <hi rendition="#g">Stufen der Konsonanz</hi> für die verschie¬
+				<lb n="N006"/>denen Intervalle zu unterscheiden, welche die zu einem
+				<lb n="N007"/>Klange gehörigen Töne bilden können; natürlich kann
+				<lb n="N008"/>man aber wohl von einer deutlichern oder minder deut¬
+				<lb n="N009"/>lichen Repräsentation des Klanges durch nur einen oder
+				<lb n="N010"/>zwei der konstituierenden Töne reden. Seit der Er¬
+				<lb n="N011"/>kenntnis des Klangbegriffs redet man von <hi rendition="#g">Klang¬</hi>
+				<lb n="N012"/><hi rendition="#g">vertretung</hi> und das musikalische Gemeingefühl hat
+				<lb n="N013"/>sich schon <date>seit Jahrhunderten</date> gewöhnt, <hi rendition="#g">Einzeltöne</hi>
+				<lb n="N014"/><hi rendition="#g">als Elemente von Akkorden</hi> anzusehen. Diese
+				<lb n="N015"/>„Auffassung im Sinne der Klangvertretung” kennt aber
+				<lb n="N016"/>keinen andern Akkord, der durch Töne oder Intervalle
+				<lb n="N017"/>„vertreten” werden könnte, als den Durakkord und
+				<lb n="N018"/>Mollakkord. Denn wenn man z. B. sagt, dass in C dur
+				<lb n="N019"/>f als Dominantseptime gehört werden kann, so heisst
+				<lb n="N020"/>das doch nur, dass f gehört wird als Zusatzton zum
+				<lb n="N021"/>G dur-Akkord (g h d f). Niemanden wird es aber ein¬
+				<lb n="N022"/>fallen, zu verlangen, dass g oder h in einer einstimmigen
+				<lb n="N023"/>C dur-Melodie als Vertreter des <hi rendition="#g">Dominantseptimen¬</hi>
+				<lb n="N024"/><hi rendition="#g">akkords</hi> g h d f gehört wird; nur f selbst kann als
+				<lb n="N025"/>solcher wirken. Ebenso kann d in C dur bald als
+				<lb n="N026"/>Quinte des G dur-Akkords, bald als Sexte beim F dur-
+				<lb n="N027"/>Akkord zu verstehen sein, also als <hi rendition="#g">Zusatzton</hi> zu
+				<lb n="N028"/>einem Akkord, der gar nicht selbst erklingt. Diese
+				<lb n="N029"/>Tatsachen sind längst bekannt; ihre Erklärung würde
+				<lb n="N030"/>hier zu weit führen.<note type="remarkSource" n="*)"><lb n="N001"/>Auch darauf kann ich hier nicht näher eingehen,
+				<lb n="N002"/>warum die Aufstellung von Doppelklängen seitens der neuen
+				<lb n="N003"/>„Monisten” (<persName>Capellen</persName>, <persName>Polak</persName>) ein Rückschritt ist. Man schlage
+				<lb n="N004"/>meine  (<date when="1873">1873</date>) und meine „”
+				<lb n="N005"/>(<date when="1877">1877</date>) auf und man wird finden, dass ich mich da noch mit
+				<lb n="N006"/>Doppelklängen mühselig herumschlage (z. B. c e gis als ein
+				<lb n="N007"/>Stück A moll-Akkord und ein Stück E dur-Akkord, c e g h als
+				<lb n="N008"/>C dur-Akkord mit einem Stück G dur-Akkord u. s. w.). Das
+				<lb n="N009"/>Aufgeben von Akkorden, in denen zwei Harmonievertretungen
+				<lb n="N010"/>koordiniert wären, an deren Stelle ich seit der „
+				<lb n="N011"/>” (<date when="1880">1880</date>) vielmehr die abso¬
+				<lb n="N012"/>lute <hi rendition="#g">Unterordnung der einen Klangvertretung unter</hi>
+				<lb n="N013"/><hi rendition="#g">die andere</hi> und ihre Qualifizierung als (dissonante) Stufen
+            	<lb n="N001"/>innerhalb der Skala der dominierenden Harmonie setze, halte
+				<lb n="N002"/>ich für einen der allerwichtigsten Fortschritte der Erkenntnis,
+				<lb n="N003"/>welche ich im Verlaufe meiner Arbeiten gemacht habe. Wäre
+				<lb n="N004"/>das Wort nicht überhaupt zu beanstanden, so hätte ich zweifel¬
+				<lb n="N005"/>los ganz anders begründete Ansprüche darauf, als „Monist” zu
+				<lb n="N006"/>gelten, als die Pseudotheoretiker, welche dem Dualismus da,
+				<lb n="N007"/>wo er unentbehrlich und vom Musikgefühl kategorisch gefordert
+				<lb n="N008"/>ist, aus dem Wege gehen und ihn dafür in die einzelnen Klang¬
+				<lb n="N009"/>vorstellungen, wo er alle Logik zerstört, an allen Ecken und
+				<lb n="N010"/>Enden hineintragen.</note> Ich führe sie nur an, um zu
+            	<pb facs="#f0029" n="28"/>
+            	<lb n="N001"/>belegen, dass uns ein <hi rendition="#g">Hören von Einzeltönen</hi> oder
+				<lb n="N002"/>auch von „<hi rendition="#g">Zweiklängen</hi>” <hi rendition="#g">im Sinne von voll¬</hi>
+				<lb n="N003"/><hi rendition="#g">ständigen aus Prim, Terz und Quinte be¬</hi>
+				<lb n="N004"/><hi rendition="#g">stehenden Harmonien</hi> geläufig ist, dass dagegen
+				<lb n="N005"/>von einem <hi rendition="#g">Hören einer einstimmigen Melodie</hi>
+				<lb n="N006"/><hi rendition="#g">im Sinne von Zweiklängen</hi> (Intervallen) <hi rendition="#g">gar</hi>
+				<lb n="N007"/><hi rendition="#g">nicht die Rede sein kann</hi>. So lange daher <persName>Stumpf</persName>
+				<lb n="N008"/>und seine Schule über die Untersuchung von Zwei¬
+				<lb n="N009"/>klängen nicht hinauskommen, befinden sie sich überhaupt
+				<lb n="N010"/>noch nicht auf dem Gebiete des musikalischen Hörens,
+				<lb n="N011"/>was ja übrigens zur Genüge durch die Wichtigkeit
+				<lb n="N012"/>bekräftigt wird, welche sie den Schwebungen und
+				<lb n="N013"/>Nebentönen aller Art beilegten, die das musikalische
+				<lb n="N014"/>Ohr <hi rendition="#g">wegzuhören</hi> hat.
+            </p>
+         </div>
+         <div rend="TEI" facs="#facs_29_TextRegion_1622745439609_3408" type="chapter" n="1">
+			<head>
+				<lb n="N001"/><hi rendition="#b">V. Das Grundton-Problem.</hi>
+			</head>
+            <p>
+				<lb n="N001"/>Ich hoffe, dass es mir mit den vorstehenden Ausfüh¬
+				<lb n="N002"/>rungen gelungen ist, zu beweisen, dass wir, um zum
+				<lb n="N003"/>Verständnis der dualen Grundlage der Harmonie zu
+				<lb n="N004"/>gelangen, unsere Kenntnis der akustischen Phänomene
+				<lb n="N005"/>zunächst geradezu verleugnen müssen, da dieselben,
+				<lb n="N006"/>weit entfernt, für dieses Verständnis den Schlüssel zu
+				<lb n="N007"/>geben, vielmehr in hohem Grade dasselbe zu behindern
+				<lb n="N008"/>geeignet sind. Ich selbst habe mich lange genug mit
+				<lb n="N009"/>diesen <hi rendition="#g">Scheinbeweisen durch die Phänomene</hi>
+				<lb n="N010"/>herumgeschlagen und manche Seite geschrieben, manche
+				<lb n="N011"/>umständliche Folgerung gezogen, die ich heute nicht
+				<lb n="N012"/>gerade zu widerrufen habe, auf die ich aber hinweisen
+				<lb n="N013"/>darf als Beleg, zu welchen künstlichen Windungen und
+				<lb n="N014"/>Winkelzügen die Ableitung der Konsonanz aus den
+				<lb n="N015"/>Phänomenen zwingt. Von dem versuchten Nachweise der
+				<lb n="N016"/><hi rendition="#g">Erzeugung der Untertöne im Ohr</hi> durch die die
+				<pb facs="#f0030" n="29"/>
+            	<lb n="N001"/>Membrana basilaris treffenden Schallwellen (i. m. 
+				<lb n="N002"/> <date when="1873">1873</date>), über die <hi rendition="#g">behauptete objektive</hi>
+				<lb n="N003"/><hi rendition="#g">Existenz derselben</hi> (<date when="1875">1875</date>) bis zum Nachweise der
+				<lb n="N004"/><hi rendition="#g">trotz mehrfacher Erzeugung jedes Tons der</hi>
+				<lb n="N005"/><hi rendition="#g">Untertonreihe</hi> durch den faktisch erklingenden
+				<lb n="N006"/>Ton (gemäss seiner Ordnungszahl 2, 3, 4 und mehrfach)
+				<lb n="N007"/><hi rendition="#g">durch Interferenz erfolgenden Vernichtung</hi>
+				<lb n="N008"/><hi rendition="#g">derselben</hi> ( <date when="1891">1891</date>) habe ich
+				<lb n="N009"/>dauernd mit den akustischen Phänomenen als <hi rendition="#g">Grund</hi>
+				<lb n="N010"/>der Konsonanz gerungen, bis mir endlich in <persName>Stumpfs</persName>
+				<lb n="N011"/> der wenigstens mich (nicht auch <persName>Stumpf</persName>
+				<lb n="N012"/>selbst) befreiende Satz einleuchtete, dass <hi rendition="#g">wir von dem</hi>
+				<lb n="N013"/><hi rendition="#g">Versuche einer Begründung der Konsonanz</hi>
+				<lb n="N014"/><hi rendition="#g">durch die Obertöne und Kombinationstöne</hi>
+				<lb n="N015"/><hi rendition="#g">Abstand nehmen müssen</hi>. Hat man die erlösende
+				<lb n="N016"/>Bedeutung dieses Kardinalsatzes in seiner ganzen Trag¬
+				<lb n="N017"/>weite begriffen, so steht man aber nach wie vor vor der
+				<lb n="N018"/><hi rendition="#g">Notwendigkeit, mit der durch kein Raison¬</hi>
+				<lb n="N019"/><hi rendition="#g">nement wegzuleugnenden objektiven Exi¬</hi>
+				<lb n="N020"/><hi rendition="#g">stenz der Beitöne dieser Kategorien zu</hi>
+				<lb n="N021"/><hi rendition="#g">rechnen, sich mit ihnen abzufinden</hi>. Wenn
+				<lb n="N022"/>auch die Obertöne und Kombinationstöne ganz gewiss
+				<lb n="N023"/>nicht die Ursache der Konsonanz sind, so steht doch
+				<lb n="N024"/>ausser Frage, <hi rendition="#g">dass sie durch ihre manchmal</hi>
+				<lb n="N025"/><hi rendition="#g">recht beträchtliche Stärke sich derart be¬</hi>
+				<lb n="N026"/><hi rendition="#g">merklich machen, dass man gezwungen ist</hi>
+				<lb n="N027"/><hi rendition="#g">(besonders für die mehrstimmige Musik)</hi>
+				<lb n="N028"/><hi rendition="#g">mit ihm zu rechnen</hi>. Dabei stellt sich heraus,
+				<lb n="N029"/><hi rendition="#g">dass sie in manchen Fällen für das musi¬</hi>
+				<lb n="N030"/><hi rendition="#g">kalische Hören auch eine nicht gering an¬</hi>
+				<lb n="N031"/><hi rendition="#g">zuschlagende Unterstützung</hi> bedeuten und auf
+				<lb n="N032"/>alle Fälle an der Klangfülle und Klangfarbe einen ganz
+				<lb n="N033"/>bedeutenden Anteil haben. Besonders können die Ober¬
+				<lb n="N034"/>töne durch ihre effektive Stärke <hi rendition="#g">für den mehr¬</hi>
+				<lb n="N035"/><hi rendition="#g">stimmigen Satz</hi> eine Bedeutung erlangen, welche es
+				<lb n="N036"/>nicht nur unmöglich macht, sie wegzuhören, sondern so¬
+				<lb n="N037"/>gar zwingt, ihre Existenz für den <hi rendition="#g">Tonsatz</hi> selbst in
+				<lb n="N038"/>Rechnung zu ziehen, für die <hi rendition="#g">Regelstellungen der</hi>
+				<lb n="N039"/><hi rendition="#g">Stimmführung</hi> auf sie zu reflektieren. Besonders
+				<lb n="N040"/>sind es zwei Erfahrungen des praktischen Tonsatzes, die
+				<lb n="N041"/>mit Fingern auf die real existierenden Obertöne hin¬
+				<lb n="N042"/>weisen: 1. die <hi rendition="#g">hässlichen Wirkungen soge¬</hi>
+            	<pb facs="#f0031" n="30"/>
+            	<lb n="N001"/><hi rendition="#g">nannter falschen Parallelen und 2. die Be¬</hi>
+				<lb n="N002"/><hi rendition="#g">handlung des 3. Tones der Unterreihe als</hi>
+				<lb n="N003"/><hi rendition="#g">Grundton</hi>. Was zunächst die falschen Oktaven und
+				<lb n="N004"/>Quinten anlangt, so dürften sich wohl nicht allzuviele
+				<lb n="N005"/>Musiker dem radikalen Reformator Herrn <persName>Capellen</persName> an¬
+				<lb n="N006"/>schliessen, der das Quinten- und Oktavenverbot für einen
+				<lb n="N007"/>lächerlichen alten Zopf hält („
+				<lb n="N008"/>” [<date when="1904">1904</date>] S. 25). Ich halte
+				<lb n="N009"/>es nicht für erforderlich, seine Ausführungen hier wieder¬
+				<lb n="N010"/>zugeben und ihnen entgegenzutreten; mag er dieselben,
+				<lb n="N011"/>so gut er kann, gegen andere verteidigen. Inbezug auf
+				<lb n="N012"/>reine Quinten- und Oktavenfolgen zwischen realen Stim¬
+				<lb n="N013"/>men bin ich Rigorist und scheue dieselben sogar in Gegen¬
+				<lb n="N014"/>bewegung. Hier sei nur bemerkt, dass <hi rendition="#g">das Oktaven - </hi>
+				<lb n="N015"/><hi rendition="#g">und Quintenverbot in der realen Existenz</hi>
+				<lb n="N016"/><hi rendition="#g">der Obertöne seinen Grund hat</hi>, weil nämlich
+				<lb n="N017"/>zwei Stimmen, die sich (stufenweise) in solchen Intervallen
+				<lb n="N018"/>bewegen, Gefahr laufen, für eine gehalten zu werden,
+				<lb n="N019"/>sofern die Töne der höheren Stimmen mit Obertönen
+				<lb n="N020"/>derjenigen der tieferen zusammenfallen und als solche
+				<lb n="N021"/>gehört werden können. Gegen blosse Mixturquinten
+				<lb n="N022"/>oder Verstärkungsoktaven hat wohl niemand etwas ein¬
+				<lb n="N023"/>zuwenden (<persName>Capellen</persName> verteidigt aber gerade die Quinten,
+				<lb n="N024"/>bei denen solche Deutung ausgeschlossen ist; diese
+				<lb n="N025"/>Partien seiner  sind nach meinem Urteil direkt
+				<lb n="N026"/>kunstwidrig und mit schärfstem Protest zurückzu¬
+				<lb n="N027"/>weisen).
+            </p>
+            <p>
+				<lb n="N001"/>Ganz anderer Art ist der Einfluss der real existie¬
+				<lb n="N002"/>renden Obertöne auf die Stimmführung bezüglich
+				<lb n="N003"/>der <hi rendition="#g">Fundamentierung des Mollakkords</hi>.
+			</p>
+            <p>
+				<lb n="N001"/>Mit Recht fragen diejenigen, welche der Harmonie¬
+				<lb n="N002"/>lehre, wie ich sie darstelle, näher getreten sind: „<hi rendition="#g">Wie</hi>
+				<lb n="N003"/><hi rendition="#g">kommt es, dass im Mollakkord die (Unter)-</hi>
+				<lb n="N004"/><hi rendition="#g">Quinte der gute Basston und für Schluss¬</hi>
+				<lb n="N005"/><hi rendition="#g">bildungen der allein gute bestimmt schlies¬</hi>
+				<lb n="N006"/><hi rendition="#g">sende Basston ist</hi>?” und die Gegner und Ab¬
+				<lb n="N007"/>trünnigen fragen etwas schärfer: „<hi rendition="#g">Wie kann man</hi>
+				<lb n="N008"/><hi rendition="#g">den Mollakkord nach seinem obersten Tone</hi>
+				<lb n="N009"/><hi rendition="#g">benennen, wenn doch sein tiefster Grund¬</hi>
+				<lb n="N010"/><hi rendition="#g">ton sein muss</hi>?”
+			</p>
+            <p>
+				<lb n="N001"/>Gegen die letztere allzuscharfe und darum schartige
+				<lb n="N002"/>Schneidigkeit ist zunächst kurzer Hand zu erwidern, dass
+            	<pb facs="#f0032" n="31"/>
+            	<lb n="N001"/><hi rendition="#g">ein Akkord nach demjenigen Ton benannt</hi>
+				<lb n="N002"/><hi rendition="#g">werden muss von welchem aus die andern</hi>
+				<lb n="N003"/><hi rendition="#g">als nächste Verwandten (Terz, Quinte etc.)</hi>
+				<lb n="N004"/><hi rendition="#g">bestimmt werden</hi>, und dass doch die Behauptung,
+				<lb n="N005"/><hi rendition="#g">dass Hauptton</hi> (Prim) <hi rendition="#g">und Grundton unter</hi>
+				<lb n="N006"/><hi rendition="#g">allen Umständen dasselbe seien</hi>, erst zu be¬
+				<lb n="N007"/>weisen wäre. Doch damit werden sich die Gegner des
+				<lb n="N008"/>Dualismus noch nicht für überwunden geben. Es wird
+				<lb n="N009"/>nötig sein, die Frage etwas eingehender zu behandeln,
+				<lb n="N010"/>und zwar so, dass auch die Bedenken der Freunde
+				<lb n="N011"/>behoben werden.
+			</p>
+            <p>
+				<lb n="N001"/><hi rendition="#g">Was ist ein Grundton</hi>? Nach gewöhnlicher
+				<lb n="N002"/>Terminologie der Harmoniebücher ganz allgemein der
+				<lb n="N003"/>Ton, welcher bei <hi rendition="#g">terzenweiser Übereinander¬</hi>
+				<lb n="N004"/><hi rendition="#g">stellung</hi> der Töne des Akkords <hi rendition="#g">der tiefste</hi> ist.
+				<lb n="N005"/>Vielleicht ist es nicht überflüssig, vorzumerken, dass
+				<lb n="N006"/>diese Theorie der Auffindung der Grundakkorde durch
+				<lb n="N007"/>Sortierung und terzenweise Aufschichtung der Töne
+				<lb n="N008"/>von demselben genialen Theoretiker <persName>J. Ph. Rameau</persName>
+				<lb n="N009"/>herrührt, der dieses von der Mit- und Nachwelt wegen
+				<lb n="N010"/>seiner plumpen Einfachheit sofort begriffene und all¬
+				<lb n="N011"/>gemein adoptierte System des Terzenaufbaues selbst
+				<lb n="N012"/>zuerst durchlöchert hat, z. B. durch Aufstellung des
+				<lb n="N013"/>Akkords der hinzugefügten Sexte (Accord de sixte
+				<lb n="N014"/>ajoutée), nämlich des Subdominantakkordes mit Sexte
+				<lb n="N015"/>(f a c d in C dur), dessen Grundton nach <persName>Rameau</persName> (wenn
+				<lb n="N016"/>auch nicht immer, so doch in vielen Fällen) nicht d
+				<lb n="N017"/>ist (d f a c), sondern vielmehr f. Derselbe <persName>Rameau</persName> hat
+				<lb n="N018"/>aber auch bereits in seiner 
+				<lb n="N019"/>, in der er noch strenger „Monist” à la
+				<lb n="N020"/><persName>Capellen</persName> und fanatischer Gegner des <persName>Zarlinoschen</persName> Dua¬
+				<lb n="N021"/>lismus ist, sogar entdeckt, dass h d f a in A moll eigent¬
+				<lb n="N022"/>lich ein D moll-Akkord mit einer daruntergestellten (!)
+				<lb n="N023"/>Terz ist; er begnügt sich also nicht einmal, auch für
+				<lb n="N024"/>diesen Fall die Sixte ajoutée anzunehmen, die ja auch
+				<lb n="N025"/>dem D moll-Akkorde seinen „Grundton” gelassen hätte,
+				<lb n="N026"/>sondern erfindet gar noch eine Terz <hi rendition="#g">unter dem als</hi>
+				<lb n="N027"/><hi rendition="#g">solcher weiter geltenden Grundtone</hi>! Doch
+				<lb n="N028"/>genug der historischen Seitenblicke; wer sich für die
+				<lb n="N029"/>Geschichte des harmonischen Dualismus und die Ent¬
+				<lb n="N030"/>wicklung der <hi rendition="#g">Lehre von der Klangbedeutung</hi>
+				<lb n="N031"/><hi rendition="#g">der Akkorde</hi> interessiert, findet in meiner Geschichte
+            	<pb facs="#f0033" n="32"/>
+            	<lb n="N001"/> das wichtigste übersicht¬
+				<lb n="N002"/>lich zusammengestellt.
+			</p>
+            <p>
+				<lb n="N001"/>Ich habe nur noch ohne weitere Abschweifung die
+				<lb n="N002"/>Hauptfrage zu behandeln, <hi rendition="#g">warum im Mollakkorde</hi>
+				<lb n="N003"/><hi rendition="#g">der untere und nicht der obere Ton des</hi>
+				<lb n="N004"/><hi rendition="#g">Quintintervalls die Rolle der Fundamen¬</hi>
+				<lb n="N005"/><hi rendition="#g">tierung der Harmonie im praktischen mehr¬</hi>
+				<lb n="N006"/><hi rendition="#g">stimmigen Tonsatze zu übernehmen hat</hi>?
+				<lb n="N007"/>„Monisten” wie <persName>Capellen</persName> und <persName>Polak</persName> könnten auch ernst¬
+				<lb n="N008"/>lich in Frage ziehen, warum nicht die Terz des Moll¬
+				<lb n="N009"/>akkordes sein Grundton sein kann?
+			</p>
+            <p>
+				<lb n="N001"/>Nun, ich denke, der Grund ist einfach genug. <hi rendition="#g">Alle</hi>
+				<lb n="N002"/><hi rendition="#g">die scheinbaren Widersprüche der prak¬</hi>
+				<lb n="N003"/><hi rendition="#g">tischen Behandlung des Mollakkordes gegen</hi>
+				<lb n="N004"/><hi rendition="#g">seine theoretische Ableitung erklären sich</hi>
+				<lb n="N005"/><hi rendition="#g">in der ungezwungensten Weise aus der ob¬</hi>
+				<lb n="N006"/><hi rendition="#g">jektiven Existenz der Obertöne</hi>. Die Terz in
+				<lb n="N007"/>den Bass zu legen und etwa die den Zahlen 1, 3, 5 der
+				<lb n="N008"/>Unterreihe entsprechende Lage des Mollakkords als die
+				<lb n="N009"/>eigentlich normale anzusehen:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>verbietet sich <hi rendition="#g">wegen der fast in allen Klang¬</hi>
+				<lb n="N002"/><hi rendition="#g">farben sehr grossen Stärke des 3. Obertones</hi>
+				<lb n="N003"/>von C, welche die Gefahr bringt, ein g für mit ange¬
+				<lb n="N004"/>geben zu halten. Ebenso würde aber E als Basston
+				<lb n="N005"/>durch den 3. Oberton h′ die Auffassung des A moll-
+				<lb n="N006"/>Akkords stark stören:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/>Es ergibt sich also sehr einfach, dass die Verlegung
+				<lb n="N002"/>von A in den Bass <hi rendition="#g">die deutlichste, die störenden</hi>
+				<lb n="N003"/><hi rendition="#g">Obertöne am wenigsten fühlbar machende</hi>
+				<lb n="N004"/><hi rendition="#g">Lage des Akkords ist</hi>, da das als starker Haupt¬
+				<lb n="N005"/>ton gegebene c selbst in den Fällen, wo es in unmittel¬
+				<lb n="N006"/>bare Nachbarschaft mit dem 5. Obertone von A (cis)
+				<lb n="N007"/>kommen sollte, diesen zufolge der meist nicht allzu¬
+            	<pb facs="#f0034" n="33"/>
+            	<lb n="N001"/>grossen Stärke desselben siegreich überwindet, ihn
+				<lb n="N002"/>überhören macht:
+            	<figure type="notatedMusic"/>
+            	<lb n="N001"/><hi rendition="#g">Dass aber sogar die Prim des Mollakkords</hi>
+				<lb n="N002"/><hi rendition="#g">ganz fehlen kann und besonders bei Schlüssen</hi>
+				<lb n="N003"/><hi rendition="#g">sehr oft fehlt</hi> (wenigstens wenn der Dominant¬
+				<lb n="N004"/>septimenakkord den Schluss vollzieht), erklärt sich
+				<lb n="N005"/>gleichfalls vollkommen genügend aus der <hi rendition="#g">Stärke des</hi>
+				<lb n="N006"/><hi rendition="#g">dritten Obertons</hi> von A, vollends im vierstimmigen
+				<lb n="N007"/>Satze, wo dann a von drei Stimmen angegeben wird.
+				<figure type="notatedMusic"/>
+            	<lb n="N001"/>Hier haben wir sogar e dreimal als 3. Oberton! Die
+				<lb n="N002"/>ausserhalb des Akkordes fallenden 5. Obertöne der drei
+				<lb n="N003"/>a (cis<hi rendition="#sup">2</hi>, cis<hi rendition="#sup">3</hi>, cis<hi rendition="#sup">1</hi>) werden durch die Oktavtöne des c<hi rendition="#sup">1</hi>
+				<lb n="N004"/>paralysiert und nicht bemerkt. (Von der durch die
+				<lb n="N005"/>Schwebungen der c gegen die cis bedingten Dissonanz¬
+				<lb n="N006"/>wirkung bemerkt das <hi rendition="#g">musikalische Ohr nichts</hi>.)
+			</p>
+            <p>
+				<lb n="N001"/>Hat man sich nur erst einmal ernstlich von der
+				<lb n="N002"/>Idee losgemacht, aus den Phänomenen die Prinzipien
+				<lb n="N003"/>der Konsonanz und Dissonanz ableiten zu wollen, so
+				<lb n="N004"/>gibt es tatsächlich nichts eigentlich Problematisches
+				<lb n="N005"/>mehr an dem Gegensatze von Dur und Moll. Da es eine
+				<lb n="N006"/>grundlegende und durch keine Schlüsse aus der Welt
+				<lb n="N007"/>zu schaffende Tatsache unseres Musikhörens ist, dass
+				<lb n="N008"/>wir Oktavtöne zu einer engeren Einheit verbinden als alle
+				<lb n="N009"/>sonstigen gegen einander verständlichen Töne, so ist es
+				<lb n="N010"/>übrigens auch in keiner Weise geboten, als Grundform
+				<lb n="N011"/>der beiden Arten der Konsonanz die gespreizte Lage
+				<lb n="N012"/>1:3:5 anzunehmen, vielmehr liegt es im Hinblick auf
+				<lb n="N013"/>den beschränkten Umfang der Singstimmen nahe, als
+				<lb n="N014"/><hi rendition="#g">Prototyp</hi> beider die <hi rendition="#g">enge Lage</hi> als 4:5:6 anzusehen,
+				<lb n="N015"/>wenn auch mit dem Seitenblick auf die einigende 1:
+            	<pb facs="#f0035" n="34"/>
+         	   <figure type="notatedMusic"/>
+            	<lb n="N001"/>sodass der Kinder, überhaupt Anfänger in den Anfangs¬
+				<lb n="N002"/>gründen der Harmonie unterweisende Lehrer gar nicht
+				<lb n="N003"/>nötig hat, von den akustischen Phänomenen zu sprechen,
+				<lb n="N004"/>so lange er nicht Rätsel erklären muss, wie z. B. die
+				<lb n="N005"/>Wohlverständlichkeit eines ohne den obern Ton des
+				<lb n="N006"/>Quintintervalls (5, I) abschliessenden tonischen Akkords.
+			</p>
+            <p>
+				<lb n="N001"/>Zweifellos steht ja in meinen Harmonielehrbüchern,
+				<lb n="N002"/>die alle noch <hi rendition="#g">Kampfstellung gegen die alte</hi>
+				<lb n="N003"/><hi rendition="#g">Methode</hi> einnehmen, vieles für den Elementarschüler
+				<lb n="N004"/>im Tonsatz durchaus entbehrliche, ja geradezu schäd¬
+				<lb n="N005"/>liche, weil verwirrende; ein rechtes <hi rendition="#g">Elementarbuch</hi>
+				<lb n="N006"/><hi rendition="#g">der Harmonie auf dualistischer Grundlage</hi>
+				<lb n="N007"/>wird sich aller spekulativ-theoretischen Motivierungen
+				<lb n="N008"/>und vollends aller aggressiven oder defensiven Polemik
+				<lb n="N009"/>durchaus enthalten und nur ohne Umschweife dem
+				<lb n="N010"/>Schüler vorschreiben, was er zu tun und zu lassen hat.
+				<lb n="N011"/>Der Elementarschüler braucht nicht <hi rendition="#g">Gründe</hi>, sondern
+				<lb n="N012"/>nur möglichst knapp und bestimmt gefasste <hi rendition="#g">Defini¬</hi>
+				<lb n="N013"/><hi rendition="#g">tionen</hi> und <hi rendition="#g">Regelstellungen</hi>; reift er später zum
+				<lb n="N014"/>Frager nach dem Warum? heran, so wird er neben dem
+				<lb n="N015"/>Elementarbuch ein spekulativ-theoretisches Buch ver¬
+				<lb n="N016"/>langen, dann aber auch, da er sich bereits in den
+				<lb n="N017"/>praktischen Schulapparat eingelebt hat, besser imstande
+				<lb n="N018"/>sein, die Probleme berührenden Ausführungen zu ver¬
+				<lb n="N019"/>stehen.
+			</p>
+            <p>
+				<lb n="N001"/>Auf Grund der Erfahrungen einer ausgedehnten
+				<lb n="N002"/>Lehrtätigkeit während eines <date>Vierteljahrhunderts</date> darf ich
+				<lb n="N003"/>mit einigem Anspruch auf Glaubwürdigkeit versichern,
+				<lb n="N004"/>dass die Benennung des Mollakkords nach seinem
+				<lb n="N005"/>obersten Tone den Elementarschüler (auch im Kindes¬
+				<lb n="N006"/>alter) in keiner Weise irritiert; im Gegenteil leuchtet
+				<lb n="N007"/>ihm die volle Gegensätzlichkeit des Aufbaues der beiden
+				<lb n="N008"/>grundlegenden Gebilde sofort ein, und er freut sich bei
+				<lb n="N009"/>jedem weitern Schritte vorwärts über die Nachweisbar¬
+				<lb n="N010"/>keit entsprechender Bildungen in Moll und in Dur. Es
+				<lb n="N011"/>ist darum durchaus allein korrekt und pädagogisch, von
+				<lb n="N012"/>allem Anfange an Dur und Moll nebeneinander zu lehren
+            	<pb facs="#f0036" n="35"/>
+            	<lb n="N001"/>und nicht erst längere Zeit sich auf Dur zu beschränken.
+				<lb n="N002"/><hi rendition="#g">Es muss von vornherein jeder Schein ver¬</hi>
+				<lb n="N003"/><hi rendition="#g">mieden werden, dass Moll auf irgend welche</hi>
+				<lb n="N004"/><hi rendition="#g">Weise von Dur abgeleitet wäre, durch Um¬</hi>
+				<lb n="N005"/><hi rendition="#g">kehrung der Verhältnisse von Dur zu er¬</hi>
+				<lb n="N006"/><hi rendition="#g">klären sei</hi>.
+			</p>
+            <p>
+				<lb n="N001"/>Nicht ganz verständlich ist mir, wie mehrere meiner
+				<lb n="N002"/>Theorie näher stehende Männer in der <hi rendition="#g">Einführung</hi>
+				<lb n="N003"/><hi rendition="#g">der Funktionsbezeichnung</hi> (T S D etc.) etwas
+				<lb n="N004"/>wie einen <hi rendition="#g">Rückzug vom Boden des harmo¬</hi>
+				<lb n="N005"/><hi rendition="#g">nischen Dualismus</hi> haben erblicken können. In
+				<lb n="N006"/>dem von <persName>W. Hutschenruyter</persName> in <placeName ref="#L0002">Amsterdam</placeName> herausge¬
+				<lb n="N007"/>gebenen „
+				<lb n="N008"/>” (<date>15. Okt. 1904</date>) hat <hi rendition="#g"><persName>Ary Belinfante</persName></hi>
+				<lb n="N009"/>in einem Aufsatze „
+				<lb n="N010"/>” die Behauptung
+				<lb n="N011"/>aufgestellt, dass die Lehre von den Funktionen tatsächlich
+				<lb n="N012"/>einen Widerruf der Polarität von Dur und Moll bedeute,
+				<lb n="N013"/>und bedauert, dass ich „zu einem ehrlichen Widerruf
+				<lb n="N014"/>nicht die Kraft besessen habe”. Ich habe keinerlei
+				<lb n="N015"/>Grund, hier näher auf die schwächliche Logik einzu¬
+				<lb n="N016"/>gehen, mit welcher <persName>Herr Belinfante</persName> einen Widerspruch
+				<lb n="N017"/>zwischen der Funktionsbezeichnung und der dualen
+				<lb n="N018"/>Begründung der Harmonie entdeckt zu haben glaubt
+				<lb n="N019"/>und meine Sinnesänderung nachzuweisen versucht. Es
+				<lb n="N020"/>genüge zu versichern, <hi rendition="#g">dass ich noch durchaus</hi>
+				<lb n="N021"/><hi rendition="#g">auf dem alten Boden stehe</hi>, und dass die Ein¬
+				<lb n="N022"/>arbeitung der Funktionsbezeichnung in Neuauflagen
+				<lb n="N023"/>älterer Bücher („”, „
+				<lb n="N024"/>”, „
+				<lb n="N025"/>”) zu keinerlei weiteren Textänderungen Anlass ge¬
+				<lb n="N026"/>geben hat als einer selbstverständlich unentbehrlichen
+				<lb n="N027"/>Erklärung der neuen Zeichen. Wenn <persName>Herr Belinfante</persName>
+				<lb n="N028"/>Widersprüche gefunden hat, so beruhen dieselben auf
+				<lb n="N029"/>gänzlichem Missverstehen meiner Ausführungen. Nach
+				<lb n="N030"/>seiner (und vielleicht auch noch einiger anderen Herren)
+				<lb n="N031"/>Ansicht hätte ich, wenn ich „konsequent” geblieben
+				<lb n="N032"/>wäre, in A moll den D moll-Akkord Dominante und den
+				<lb n="N033"/>E moll-Akkord Subdominante nennen und daher die
+				<lb n="N034"/>Zeichen S und D in Moll in umgekehrtem Sinne an¬
+				<lb n="N035"/>wenden müssen als in Dur. <persName>Herr Belinfante</persName> übersieht
+				<lb n="N036"/>dabei ganz, dass doch wohl ganz derselbe Grund für
+            	<pb facs="#f0037" n="36"/>
+            	<lb n="N001"/> <date>seit 1873</date>
+				<lb n="N002"/>den Gebrauch dieser Bezeichnungen im umgekehrten
+				<lb n="N003"/>Sinne bedingt hätte; er vergisst, dass diese Namen gar
+				<lb n="N004"/>nicht von mir gewählte, sondern seit <persName>Rameau</persName> allgemein
+				<lb n="N005"/>gebräuchliche sind, und ich sie mit demselben Rechte
+				<lb n="N006"/>und aus denselben Gründen beibehalten habe wie die
+				<lb n="N007"/>Bezeichnungen Dur, Moll, Parallele, Grundton und eine
+				<lb n="N008"/>Menge anderer, und dass ich deshalb von allem An¬
+				<lb n="N009"/>fange an und auch in den allerneuesten Arbeiten zur
+				<lb n="N010"/>Klarstellung des gänzlich verschiedenen Sinnes der
+				<lb n="N011"/>Dominanten in Dur und in Moll die scharf präzisierten
+				<lb n="N012"/>Bestimmungen schlichter Quintklang, Gegenquintklang,
+				<lb n="N013"/>Seitenwechselklang und die gesamte Terminologie der
+				<lb n="N014"/>Schritte (Gegenquintschritt etc.) eingeführt habe. Ob¬
+				<lb n="N015"/>gleich mir einmal einer meiner persönlichen Schüler
+				<lb n="N016"/>versichert hat, dass er sich mit der Terminologie der
+				<lb n="N017"/>Schritte nicht mehr den Kopf beschwere, seit ich die
+				<lb n="N018"/>Funktionsbezeichnung eingeführt habe, so weiss ich
+				<lb n="N019"/>doch ganz genau, dass der Betreffende sich nur nicht
+				<lb n="N020"/>mehr um die Namen sorgte, aber weit entfernt war,
+				<lb n="N021"/>nunmehr die Dominanten in Dur und in Moll für gleich¬
+				<lb n="N022"/>bedeutend anzusehen. Dass das beim Studium nach
+				<lb n="N023"/>meiner Methode nicht geschehen kann, dafür sorgt vor
+				<lb n="N024"/>allem der Ausbau der Bezifferung, in welcher z. B. die
+				<lb n="N025"/>Prim der Molltonika und die Prim der Durdominante
+				<lb n="N026"/>derselbe Ton sind. Also mit dem Widerruf ist es ganz
+				<lb n="N027"/>und gar nichts. Ich stehe heute noch auf demselben
+				<lb n="N028"/>Standpunkte wie <date>vor 30 Jahren</date>; nur habe ich mich
+				<lb n="N029"/>endlich ganz von der <hi rendition="#g">Begründung der </hi> <hi rendition="#b">Prinzipien</hi>
+				<lb n="N030"/><hi rendition="#g">der Harmonie durch die akustischen Phä¬</hi>
+				<lb n="N031"/><hi rendition="#g">nomene</hi> freigemacht und die <hi rendition="#g">eigentlichen Wur¬</hi>
+				<lb n="N032"/><hi rendition="#g">zeln des Dualismus</hi> freigelegt, nach denen <persName>Stumpf</persName>
+				<lb n="N033"/>grub, die er aber mit immer mehr Schutt bedeckte, je
+				<lb n="N034"/>länger er arbeitete.
+			</p>
+            <p>
+				<lb n="N001"/>Damit sei diese Studie beschlossen. Hoffentlich
+				<lb n="N002"/>ist es mir gelungen, einige Sätze zu formulieren, welche
+				<lb n="N003"/>die von meinen Freunden ausgesprochenen Wünsche zu
+				<lb n="N004"/>erfüllen geeignet sind.
+			</p>
+         </div>
+         <pb facs="#f0038"/>
+         <pb facs="#f0039"/>
+         <pb facs="#f0040"/>
+         <pb facs="#f0041"/>
+         <pb facs="#f0042"/>
+      </body>
+   </text>
+</TEI>
