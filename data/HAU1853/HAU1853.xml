@@ -4538,8 +4538,7 @@
 	</facsimile>
    <text xml:space="preserve">
    	<front>
-   	 	<pb facs="#facs_1" n="1"/>
-			<titlePage type="main">
+   	 	<titlePage type="main">
 				<docTitle>
            	 	<titlePart type="main" ana="#text" corresp="#W0004"><lb facs="#facs_1_r2l1" n="N001"/>DIE NATUR
 				<lb facs="#facs_1_r2l2" n="N002"/>DER
@@ -4557,6 +4556,451 @@
 					<lb facs="#facs_1_r2l13" n="N003"/><docDate when="1853">1853</docDate>.
 				</docImprint>
 			</titlePage>
+   		<div type="contents"><list n="1"><item>
+				EINLEITUNG.
+            </item><item>
+				IHARMONIK.
+            <list n="2"><item>
+				Klang.
+			</item><item>
+				Dur-Dreiklang.
+			</item><item>
+				Dur-Tonart.
+			</item><item>
+				Moll-Dreiklang.
+			</item><item>
+				Moll-Tonart.
+			</item><item>
+				Moll-Dur-Tonart.
+			</item><item>
+				Verminderte Dreiklänge.
+			</item><item>
+				Das Tonartsystem nach der einen oder anderen
+				Dominantseite übergreifend.
+			<list n="3"><item>
+				Die Grenzverbindungs- oder verminderten Dreiklänge
+				an diesem Systeme.
+			</item><item>
+				a) In der Dur-Tonart.
+			</item><item>
+				b) In der Moll-Tonart.
+			</item><item>
+				c) In der Moll-Dur-Tonart.
+			</item><item>
+				1) Im Vorhalte.
+			</item><item>
+				2) Im Septimenaccorde.
+			</item><item>
+				I. Dominant-Septimenaccord.
+			</item><item>
+				II. Septimenaccord auf der Ober-Dominant-Terz.
+			<list n="4"><item>
+				a) In der Dur-Tonart.
+			</item><item>
+				b) In der Moll-Tonart.
+			</item></list></item><item>
+				III. Septimenaccord auf der Ober-Dominant-Quint.
+			</item><item>
+				a) Diatonische.
+			</item><item>
+				b) Chromatische.
+			</item><item>
+				I. Zweizeitiges. (Octav.)
+			</item><item>
+				II. Dreizeitiges. (Quint.)
+			</item><item>
+				III. Vierzeitiges. (Terz.)
+			</item><item>
+				Gliedaccent.
+			<list n="4"><item>
+				a) Im zweizeitigen Metrum.
+			</item><item>
+				b) Im dreizeitigen Metrum.
+			</item><item>
+				c) Im vierzeitigen Metrum.
+			</item></list></item><item>
+				a) Zweifach, im dreizeitigen Metrum.
+			</item><item>
+				b) Dreifach, im vierzeitigen Metrum.
+			</item><item>
+				a) Im zweizeitigen Metrum.
+			</item><item>
+				b) Im doppel-zweizeitigen Metrum.
+			</item><item>
+				c) Im dreizeitigen Metrum, auf das doppel-zweizeitigebezogen.
+			</item><item>
+				d) Im vierzeitigen Metrum.
+			</item><item>
+				a) Im zweizeitigen Metrum.
+			</item><item>
+				b) Im dreizeitigen Metrum.
+			</item><item>
+				c) Im vierzeitigen Metrum.
+			</item><item>
+				Die metrischen Bestimmungen mit dem Räumlichenverglichen.
+			</item><item>
+				Analoges in harmonisch-melodischer Bestimmung.
+			</item><item>
+				Analoges in der räumlichen Bestimmung.
+			</item><item>
+				Fuss. — Versmaass.
+				Dipodie — Tripodie — Tetrapodie. Dimeter — Trimeter —
+				Tetrameter.
+			</item><item>
+				Unterschied des metrischen und rhythmischen oder
+				des spondeïschen und trochäischen Daktylus.
+			</item><item>
+				Die metrische Bezeichnung.
+			</item><item>
+				Katalektisches und akatalektisches Metrum.
+			<list n="4"><item>
+				Die sprach-metrische und die musikalisch-metrischeAusführung.
+			</item></list></item><item>
+				Quantität und Accent.
+			<list n="4"><item>
+				Unterschied des antiken und des modernen Verses.
+			</item></list></item><item>
+				a) Im Vorhaltsaccorde.
+			</item><item>
+				b) Im Septimenaccorde.
+			<list n="4"><item>
+				α) Im unverwendeten Tonartsysteme.
+			</item><item>
+				β) Im verwendeten Tonartsysteme.
+			</item></list></item></list></item><item>
+				Verminderte Dreiklänge des übergreifenden
+				Systemes.
+			<list n="3"><item>
+				a) In der Dur-Tonart.
+			</item><item>
+				b) In der Moll-Tonart.
+			</item><item>
+				c) In der Moll-Dur-Tonart.
+			</item></list></item><item>
+				Tonleiter der Dur-Tonart.
+			</item><item>
+				Tonleiter der Moll-Tonart.
+			</item><item>
+				Tonleiter der Moll-Dur-Tonart.
+			</item><item>
+				Accordfolge.
+			</item><item>
+				Dissonanz.
+			</item><item>
+				Septimenaccord.
+			</item><item>
+				Auflösung der Dissonanz.
+			<list n="3"><item>
+				1) Im Vorhalte.
+			</item><item>
+				2) Im Septimenaccorde.
+			</item></list></item><item>
+				Stimmen-Fortschreitung für die Septimenharmonie.
+			</item><item>
+				Folge von Septimenaccorden.
+			</item><item>
+				Septimenaccorde des in sich übergehenden
+				Tonartsystemes.
+			<list n="3"><item>
+				I. Dominant-Septimenaccord.
+			</item><item>
+				II. Septimenaccord auf der Ober-Dominant-Terz.
+			<list n="4"><item>
+				a) In der Dur-Tonart.
+			</item><item>
+				b) In der Moll-Tonart.
+			</item></list></item><item>
+				III. Septimenaccord auf der Ober-Dominant-Quint.
+			</item></list></item><item>
+				Verschiedenheit der Dissonanzwirkung.
+			</item><item>
+				Chromatische Auflösung der Dissonanz.
+			</item><item>
+				Wesentliche Verschiedenheit der Septimenharmonie
+				des unverwendeten und des verwendeten Systemes
+				in Bezug auf die Accordlage.
+			</item><item>
+				Septimen-Accorde, welche durch die Grenzverbindung
+				des übergreifenden Tonartsystemes entstehen, und
+				Septimen-Accorde mit übermässigem Dreiklange.
+			</item><item>
+				Der übermässige Dreiklang und sein Vorkommen im
+				Septimenaccorde.
+			</item><item>
+				Die sogenannten Nonen-, Undecimen- und Terz¬
+				decimen-Accorde betreffend. Orgelpunct.
+			</item><item>
+				Nonenvorhalt vor dem Basstone.
+			</item><item>
+				Durchgangs-Töne.
+			<list n="3"><item>
+				a) Diatonische.
+			</item><item>
+				b) Chromatische.
+			</item></list></item><item>
+				Modulation.
+			</item><item>
+				Enharmonische Verwechslung.
+			</item><item>
+				Schluss.
+			</item><item>
+				Metrum und Rhythmus.
+			</item><item>
+				Metrum.
+			<list n="3"><item>
+				I. Zweizeitiges. (Octav.)
+			</item><item>
+				II. Dreizeitiges. (Quint.)
+			</item><item>
+				III. Vierzeitiges. (Terz.)
+			</item></list></item><item>
+				Unterschied des doppel-zweizeitigen und des
+				vierzeitigen Metrums.
+			</item><item>
+				Fünf- und siebenzeitige Formation, als zusammen¬
+				gesetzte, unorganische.
+			</item><item>
+				Combinirtes Metrum.
+			</item><item>
+				Accent.
+			<list n="3"><item>
+				Gliedaccent.
+			<list n="4"><item>
+				a) Im zweizeitigen Metrum.
+			</item><item>
+				b) Im dreizeitigen Metrum.
+			</item><item>
+				c) Im vierzeitigen Metrum.
+			</item></list></item></list></item><item>
+				Combinirte Accente.
+			<list n="3"><item>
+				a) Zweifach, im dreizeitigen Metrum.
+			</item><item>
+				b) Dreifach, im vierzeitigen Metrum.
+			</item></list></item><item>
+				Dur- und Moll-Begriff als metrische Bestimmung.
+			</item><item>
+				Accente die aus dieser doppelten Bestimmung
+				hervorgehen.
+			<list n="3"><item>
+				a) Im zweizeitigen Metrum.
+			</item><item>
+				b) Im doppel-zweizeitigen Metrum.
+			</item><item>
+				c) Im dreizeitigen Metrum, auf das doppel-zweizeitigebezogen.
+			</item><item>
+				d) Im vierzeitigen Metrum.
+			</item><item>
+				a) Im zweizeitigen Metrum.
+			</item><item>
+				b) Im dreizeitigen Metrum.
+			</item><item>
+				c) Im vierzeitigen Metrum.
+			</item><item>
+				Die metrischen Bestimmungen mit dem Räumlichenverglichen.
+			</item><item>
+				Analoges in harmonisch-melodischer Bestimmung.
+			</item><item>
+				Analoges in der räumlichen Bestimmung.
+			</item></list></item><item>
+				Zusammenfassende Darstellung aller Accentbestim¬
+				mungen im zweizeitigen, doppel-zweizeitigen, drei-
+				und vierzeitigen Metrum.
+			</item><item>
+				Accente im combinirten Metrum.
+			</item><item>
+				Rhythmus im Metrum.
+			</item><item>
+				Der rhythmische Schluss.
+			</item><item>
+				Erfüllung der metrischen Form. Pause.
+			<list n="3"><item>
+				a) Im zweizeitigen Metrum.
+			</item><item>
+				b) Im dreizeitigen Metrum.
+			</item><item>
+				c) Im vierzeitigen Metrum.
+			</item></list></item><item>
+				Fernere vergleichende Zusammenstellung der harmo¬
+				nischen und metrischen Bestimmungsmomente.
+			</item><item>
+				Metrische Bildung nach Innen und Aussen.
+			</item><item>
+				Ungleichzeitige Gliederung des metrischen Gliedes.
+			<list n="3"><item>
+				Die metrischen Bestimmungen mit dem Räumlichenverglichen.
+			</item></list></item><item>
+				Positive und negative Form der ungleichzeitigen
+				Gliederung.
+			</item><item>
+				Die drei Momente der ungleichzeitigen Gliederung,
+				entsprechend den drei metrischen Momenten der
+				zwei-, drei- und vierzeitigen Einheit; ebenso den
+				harmonischen der Octav, Quint und Terz.
+			</item><item>
+				Die punctirte Bewegung.
+			</item><item>
+				Sprachmetrum.
+			<list n="3"><item>
+				Fuss. — Versmaass.
+				Dipodie — Tripodie — Tetrapodie. Dimeter — Trimeter —
+				Tetrameter.
+			</item><item>
+				Unterschied des metrischen und rhythmischen oder
+				des spondeïschen und trochäischen Daktylus.
+			</item><item>
+				Die metrische Bezeichnung.
+			</item><item>
+				Katalektisches und akatalektisches Metrum.
+			<list n="4"><item>
+				Die sprach-metrische und die musikalisch-metrischeAusführung.
+			</item></list></item><item>
+				Quantität und Accent.
+			<list n="4"><item>
+				Unterschied des antiken und des modernen Verses.
+			</item></list></item></list></item><item>
+				Harmonisch-metrische Bestimmung.
+			</item><item>
+				Metrische Stellung der Dissonanz.
+			</item><item>
+				Uebersicht des Vorstehenden über metrische
+				Dissonanzstellung.
+			</item><item>
+				Die Dissonanz im drei- und vierzeitigen Metrum.
+			</item><item>
+				Synkope.
+			</item><item>
+				Der metrisch-synkopirten Reihe entspricht harmonisch
+				die Folge verketteter Septimenaccorde.
+			</item></list></item><item>
+				II
+				METRIK.
+			<list n="2"><item>
+				Metrum und Rhythmus.
+			</item><item>
+				Metrum.
+			<list n="3"><item>
+				I. Zweizeitiges. (Octav.)
+			</item><item>
+				II. Dreizeitiges. (Quint.)
+			</item><item>
+				III. Vierzeitiges. (Terz.)
+			</item></list></item><item>
+				Unterschied des doppel-zweizeitigen und des
+				vierzeitigen Metrums.
+			</item><item>
+				Fünf- und siebenzeitige Formation, als zusammen¬
+				gesetzte, unorganische.
+			</item><item>
+				Combinirtes Metrum.
+			</item><item>
+				Accent.
+			<list n="3"><item>
+				Gliedaccent.
+			<list n="4"><item>
+				a) Im zweizeitigen Metrum.
+			</item><item>
+				b) Im dreizeitigen Metrum.
+			</item><item>
+				c) Im vierzeitigen Metrum.
+			</item></list></item></list></item><item>
+				Combinirte Accente.
+			<list n="3"><item>
+				a) Zweifach, im dreizeitigen Metrum.
+			</item><item>
+				b) Dreifach, im vierzeitigen Metrum.
+			</item></list></item><item>
+				Dur- und Moll-Begriff als metrische Bestimmung.
+			</item><item>
+				Accente die aus dieser doppelten Bestimmung
+				hervorgehen.
+			<list n="3"><item>
+				a) Im zweizeitigen Metrum.
+			</item><item>
+				b) Im doppel-zweizeitigen Metrum.
+			</item><item>
+				c) Im dreizeitigen Metrum, auf das doppel-zweizeitigebezogen.
+			</item><item>
+				d) Im vierzeitigen Metrum.
+			</item><item>
+				a) Im zweizeitigen Metrum.
+			</item><item>
+				b) Im dreizeitigen Metrum.
+			</item><item>
+				c) Im vierzeitigen Metrum.
+			</item><item>
+				Die metrischen Bestimmungen mit dem Räumlichenverglichen.
+			</item><item>
+				Analoges in harmonisch-melodischer Bestimmung.
+			</item><item>
+				Analoges in der räumlichen Bestimmung.
+			</item></list></item><item>
+				Zusammenfassende Darstellung aller Accentbestim¬
+				mungen im zweizeitigen, doppel-zweizeitigen, drei-
+				und vierzeitigen Metrum.
+			</item><item>
+				Accente im combinirten Metrum.
+			</item><item>
+				Rhythmus im Metrum.
+			</item><item>
+				Der rhythmische Schluss.
+			</item><item>
+				Erfüllung der metrischen Form. Pause.
+			<list n="3"><item>
+				a) Im zweizeitigen Metrum.
+			</item><item>
+				b) Im dreizeitigen Metrum.
+			</item><item>
+				c) Im vierzeitigen Metrum.
+			</item></list></item><item>
+				Fernere vergleichende Zusammenstellung der harmo¬
+				nischen und metrischen Bestimmungsmomente.
+			</item><item>
+				Metrische Bildung nach Innen und Aussen.
+			</item><item>
+				Ungleichzeitige Gliederung des metrischen Gliedes.
+			<list n="3"><item>
+				Die metrischen Bestimmungen mit dem Räumlichenverglichen.
+			</item></list></item><item>
+				Positive und negative Form der ungleichzeitigen
+				Gliederung.
+			</item><item>
+				Die drei Momente der ungleichzeitigen Gliederung,
+				entsprechend den drei metrischen Momenten der
+				zwei-, drei- und vierzeitigen Einheit; ebenso den
+				harmonischen der Octav, Quint und Terz.
+			</item><item>
+				Die punctirte Bewegung.
+			</item><item>
+				Sprachmetrum.
+			<list n="3"><item>
+				Fuss. — Versmaass.
+				Dipodie — Tripodie — Tetrapodie. Dimeter — Trimeter —
+				Tetrameter.
+			</item><item>
+				Unterschied des metrischen und rhythmischen oder
+				des spondeïschen und trochäischen Daktylus.
+			</item><item>
+				Die metrische Bezeichnung.
+			</item><item>
+				Katalektisches und akatalektisches Metrum.
+			<list n="4"><item>
+				Die sprach-metrische und die musikalisch-metrischeAusführung.
+			</item></list></item><item>
+				Quantität und Accent.
+			<list n="4"><item>
+				Unterschied des antiken und des modernen Verses.
+			</item></list></item></list></item></list></item><item>
+				III
+				METRISCHE HARMONIK.
+				HARMONISCHE METRIK.
+            <list n="2"><item>
+				Harmonisch-metrische Bestimmung.
+			</item><item>
+				Metrische Stellung der Dissonanz.
+			</item></list></item></list></div>
+   	 	<pb facs="#facs_1" n="1"/>
+			
 			<pb facs="#facs_2" n="2"/>
 			<pb facs="#facs_3" n="3"/>
 			<div type="preface">
@@ -4609,7 +5053,8 @@
 					</p>
 					<p rend="TEI" facs="#facs_5_TextRegion_1612352910666_406 #facs_6_TextRegion_1612353046991_485">
 						<lb facs="#facs_5_r1l5" n="N001"/>Es ist vor Kurzem eine kleine Schrift unter dem
-						<lb facs="#facs_5_r1l6" n="N002"/>Titel: „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><title ana="#text" ref="#W0164">Der accordliche Gegensatz und die</title><lb facs="#facs_5_r1l7" n="N003"/> <title ana="#text" ref="#W0164">Begründung der Scala</title></hi> ”, bei  in
+						<lb facs="#facs_5_r1l6" n="N002"/>Titel: „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><title ana="#text" ref="#W0164">Der accordliche Gegensatz und die</title>
+						<lb facs="#facs_5_r1l7" n="N003"/><title ana="#text" ref="#W0164">Begründung der Scala</title></hi> ”, bei  in
 						<lb facs="#facs_5_r1l8" n="N004"/><placeName ref="#L0005">Cassel</placeName> erschienen. Der Verfasser derselben, Herr
 						<lb facs="#facs_5_r1l9" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0133">Otto Kraushaar</persName></hi>, bekennt in einer Zuschrift, mit
 						<lb facs="#facs_5_r1l10" n="N006"/>welcher er das Werkchen mir übersendet, dass die
@@ -5339,7 +5784,8 @@
 				<lb facs="#facs_30_r1l5" n="N001"/>5. Es ist die bestimmte <rs ana="#concept_phy">Klanghöhe</rs> vielmehr die Mani<pc>¬</pc>
 				<lb facs="#facs_30_r1l6" n="N002"/>festation eines bestimmten Grades der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_phy">Spannung</rs></hi>, die im
 				<lb facs="#facs_30_r1l7" n="N003"/><rs ana="#concept_phy">elastischen Material</rs> vorhanden ist. Die <rs ana="#concept_phy">Spannung</rs> aber kön<pc>¬</pc>
-				<lb facs="#facs_30_r1l8" n="N004"/>nen wir betrachten als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">eine in einem <rs ana="#concept_phy">Widerstande</rs><lb facs="#facs_30_r1l9" n="N005"/>fixirte <rs ana="#concept_phy">Kraftwirkung</rs></hi>, die als eine , im Ver<pc>¬</pc>
+				<lb facs="#facs_30_r1l8" n="N004"/>nen wir betrachten als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">eine in einem <rs ana="#concept_phy">Widerstande</rs>
+				<lb facs="#facs_30_r1l9" n="N005"/>fixirte <rs ana="#concept_phy">Kraftwirkung</rs></hi>, die als eine , im Ver<pc>¬</pc>
 				<lb facs="#facs_30_r1l10" n="N006"/>hältniss zum <rs ana="#concept_phy">Widerstande</rs>, sich klingend äussert im <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">höhe<pc>¬</pc>
 				<lb facs="#facs_30_r1l11" n="N007"/>ren</hi>, als eine , im <rs ana="#concept_mus">Klange</rs>.
 			</p>
@@ -5906,7 +6352,7 @@
 				<lb facs="#facs_44_line_1612371442982_5039" n="N003"/>klanges</rs>, der sich mit <formula notation="tex">$\frac{4:5:6}{1}$</formula> bezeichnen lässt, in ent<pc>¬</pc>
 				<lb facs="#facs_44_r1l9" n="N004"/>gegengesetzter Ordnung wieder erhalten, so wie beide gegen
 				<lb facs="#facs_44_r1l10" n="N005"/>einander auch als positive und negative <rs ana="#concept_phy">Potenz</rs> auszudrücken
-				<lb facs="#facs_44_r1l11" n="N006"/>sein würden, denn es ist $$GRAPHIC
+				<lb facs="#facs_44_r1l11" n="N006"/>sein würden, denn es ist <figure facs="#facs_44_r1l11"><graphic url="graphic/facs_44_r1l11.png"/></figure>
             </p>
             <p facs="#facs_44_TextRegion_1612370571519_4885">
 				<lb facs="#facs_44_r1l19" n="N001"/>34. So wird die wesentliche Bedeutung des <rs ana="#m_chord">Molldrei<pc>¬</pc>
@@ -6413,7 +6859,8 @@
 			</head>
          <div rend="TEI" facs="#facs_56_TextRegion_1612389539896_442" type="chapter" n="3">
 			<head facs="#facs_56_TextRegion_1612389539896_442">
-				<lb facs="#facs_56_r1l22" n="N001"/><hi rend="italic:true; fontSize:0.0; kerning:0;">Die <rs ana="#m_chord">Grenzverbindungs-</rs> oder <rs ana="#m_chord">verminderten Dreiklänge</rs><lb facs="#facs_56_r1l23" n="N002"/>an diesem <rs ana="#concept_mus">Systeme</rs>.</hi>
+				<lb facs="#facs_56_r1l22" n="N001"/><hi rend="italic:true; fontSize:0.0; kerning:0;">Die <rs ana="#m_chord">Grenzverbindungs-</rs> oder <rs ana="#m_chord">verminderten Dreiklänge</rs>
+				<lb facs="#facs_56_r1l23" n="N002"/>an diesem <rs ana="#concept_mus">Systeme</rs>.</hi>
 			</head>
             <p facs="#facs_56_TextRegion_1612389528567_438 #facs_57_TextRegion_1612390097752_667">
 				<lb facs="#facs_56_r1l24" n="N001"/>54. Nachdem alle <rs ana="#m_chord">Dreiklangsharmonieen</rs>, die innerhalb
@@ -6827,7 +7274,7 @@
 				<lb facs="#facs_66_r1l30" n="N017"/>je nachdem sie ihre Bedeutung als dritte oder vierte der
 				<lb facs="#facs_66_r1l31" n="N018"/><rs ana="#concept_mus">Hexachordleiter</rs>, als <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">mi</rs></hi> oder <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">fa</rs></hi> erhält, zwischen <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">h</rs></hi> und <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">B</rs></hi>
 				<lb facs="#facs_66_r1l32" n="N019"/>wechselt, zwischen <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">B-durus</rs></hi> und <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">B-mollis</rs></hi>. Ersteres ward,
-				<lb facs="#facs_66_r1l33" n="N020"/>im Sinne der Härte, eckig $$GRAPHIC (<hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">B-quadratum</rs></hi>) bezeichnet,
+				<lb facs="#facs_66_r1l33" n="N020"/>im Sinne der Härte, eckig <figure facs="#facs_66_r1l33" rend="inline"><graphic url="graphic/facs_66_r1l33.png"/></figure> (<hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">B-quadratum</rs></hi>) bezeichnet,
 				<lb facs="#facs_66_r1l34" n="N021"/>schriftverwandt und gleichbedeutend mit ♯ und ♮; aus
 				<lb facs="#facs_66_r1l35" n="N022"/>welchem Letzteren vielleicht unser, nur in der deutschen
 				<lb facs="#facs_66_r1l36" n="N023"/>Bezeichnung eingeführtes, in der <rs ana="#concept_mus">Tonfolge</rs> ausser aller al<pc>¬</pc>
@@ -8499,17 +8946,17 @@
 			</p>
             <p facs="#facs_106_TextRegion_1612545581023_1204">
 				<lb facs="#facs_106_r1l29" n="N001"/>146. Die <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs> als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Vorhalt</rs></hi> wird in allgemeiner Be<pc>¬</pc>
-				<lb facs="#facs_106_line_1612545661783_1267" n="N002"/>zeichnung sein: entweder <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>) $$GRAPHIC oder <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>) $$GRAPHIC
+				<lb facs="#facs_106_line_1612545661783_1267" n="N002"/>zeichnung sein: entweder <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>) <figure facs="#facs_106_line_1612545661783_1267_1" rend="inline"><graphic url="graphic/facs_106_line_1612545661783_1267_1.png"/></figure> oder <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>) <figure facs="#facs_106_line_1612545661783_1267_2" rend="inline"><graphic url="graphic/facs_106_line_1612545661783_1267_2.png"/></figure>
 			</p>
             <p facs="#facs_106_TextRegion_1612545578564_1200">
 				<lb facs="#facs_106_r1l33" n="N001"/>Zu <hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>) kann die <rs ana="#concept_mus">Auflösung</rs> auf zwei verschiedene Arten
-				<lb facs="#facs_106_r1l34" n="N002"/>geschehen; nämlich, dass die <rs ana="#concept_mus">Doppelbedeutung</rs> in $$GRAPHIC sich
+				<lb facs="#facs_106_r1l34" n="N002"/>geschehen; nämlich, dass die <rs ana="#concept_mus">Doppelbedeutung</rs> in <figure facs="#facs_106_r1l34" rend="inline"><graphic url="graphic/facs_106_r1l34.png"/></figure> sich
 				<lb facs="#facs_106_r1l35" n="N003"/>zu I, oder zu II bestimme.
 			</p>
          <pb facs="#facs_107" n="97"/>
             <p facs="#facs_107_TextRegion_1612545760913_1306 #facs_107_TextRegion_1612545832445_1319">
 				<lb facs="#facs_107_r1l2" n="N001"/>Zu <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>) ist nur eine Art der <rs ana="#concept_mus">Auflösung</rs> möglich: die,
-				<lb facs="#facs_107_r1l3" n="N002"/>dass $$GRAPHIC die Bedeutung der I aufgebe; indem für die Be<pc>¬</pc>
+				<lb facs="#facs_107_r1l3" n="N002"/>dass <figure facs="#facs_107_r1l3" rend="inline"><graphic url="graphic/facs_107_r1l3.png"/></figure> die Bedeutung der I aufgebe; indem für die Be<pc>¬</pc>
 				<lb facs="#facs_107_r1l4" n="N003"/>deutung II schon die im <rs ana="#concept_mus">Zusammenklange</rs> enthaltene <rs ana="#m_interval">Terz</rs>
 				<lb facs="#facs_107_r1l5" n="N004"/>(III) spricht, welche selbst nicht <rs ana="#concept_mus">melodisch</rs> <rs ana="#concept_mus">fortschreiten</rs>
 				<lb facs="#facs_107_r1l6" n="N005"/>kann, ohne gegen den mittleren <rs ana="#m_note">Ton</rs> in ein <rs ana="#concept_mus"><rs ana="#concept_phy">dissonantes</rs></rs>
@@ -8524,7 +8971,7 @@
             	</figure>
 			</p>
             <p facs="#facs_107_TextRegion_1612545727476_1296">
-				<lb facs="#facs_107_line_1612546022083_1382" n="N001"/>147. Die erste Form $$GRAPHIC ergibt den sogenannten
+				<lb facs="#facs_107_line_1612546022083_1382" n="N001"/>147. Die erste Form <figure facs="#facs_107_line_1612546022083_1382" rend="inline"><graphic url="graphic/facs_107_line_1612546022083_1382.png"/></figure> ergibt den sogenannten
 				<lb facs="#facs_107_r1l26" n="N002"/><rs ana="#m_chord">Quart-Quint-Accord</rs>, in welchem die <rs ana="#m_interval">Quart</rs> als <rs ana="#concept_mus">Vorhalt</rs> der
 				<lb facs="#facs_107_r1l27" n="N003"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">Terz</rs></hi> enthalten ist. (<rs ana="#concept_mus">Auflösung</rs><hi rend="italic:true; fontSize:0.0; kerning:0;">α</hi>) Der Grund, weshalb die
 				<lb facs="#facs_107_r1l28" n="N004"/><rs ana="#concept_mus">Auflösung</rs><hi rend="italic:true; fontSize:0.0; kerning:0;">β</hi>, in welcher die <rs ana="#m_interval">Quint</rs> als <rs ana="#concept_mus">Vorhalt</rs> der <rs ana="#m_interval">Sext</rs>
@@ -8532,7 +8979,7 @@
 				<lb facs="#facs_107_r1l31" n="N006"/>kommt, ist schon früher (125) erwähnt.
 			</p>
             <p facs="#facs_107_TextRegion_1612545724073_1292">
-				<lb facs="#facs_107_line_1612546043104_1409" n="N001"/>Die zweite Form $$GRAPHIC ergibt den <rs ana="#concept_mus">Vorhalt</rs> vor
+				<lb facs="#facs_107_line_1612546043104_1409" n="N001"/>Die zweite Form <figure facs="#facs_107_line_1612546043104_1409" rend="inline"><graphic url="graphic/facs_107_line_1612546043104_1409.png"/></figure> ergibt den <rs ana="#concept_mus">Vorhalt</rs> vor
 				<lb facs="#facs_107_r1l36" n="N002"/>dem <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_note">Grundtone</rs></hi>: die <rs ana="#m_interval">Septime</rs> als <rs ana="#concept_mus">Vorhalt</rs> der <rs ana="#m_interval">Sext</rs> im
 				<lb facs="#facs_107_r1l37" n="N003"/><rs ana="#m_chord">Terz-Sext-Accorde</rs>. Ein <rs ana="#concept_mus">Vorhalt</rs> vor der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">Quint</rs></hi> wird als <rs ana="#concept_mus"><rs ana="#concept_phy">Dis<pc>¬</pc>
 				<lb facs="#facs_107_r1l38" n="N004"/>sonanz</rs></rs> erst beim <rs ana="#m_chord">Septimenaccorde</rs> vorhanden sein können;
@@ -8596,7 +9043,7 @@
 				<lb facs="#facs_109_r1l13" n="N001"/>Bei <hi rend="italic:true; fontSize:0.0; kerning:0;">α</hi> schreitet die <rs ana="#m_interval">Septime</rs> <rs ana="#concept_mus">chromatisch</rs> aufwärts,
 				<lb facs="#facs_109_r1l14" n="N002"/>bei <hi rend="italic:true; fontSize:0.0; kerning:0;">β</hi> der <rs ana="#m_note">Grundton</rs> <rs ana="#concept_mus">chromatisch</rs> abwärts. Hier hat das
 				<lb facs="#facs_109_r1l15" n="N003"/>mittlere <rs ana="#m_interval">Intervall</rs> im <rs ana="#m_chord">Septimenaccorde</rs> die <rs ana="#concept_mus">Doppelbedeutung</rs>
-				<lb facs="#facs_109_line_1612546718352_1717" n="N004"/>$$GRAPHIC; bei der ersten <rs ana="#concept_mus">Auflösung</rs> entscheidet es sich für
+				<lb facs="#facs_109_line_1612546718352_1717" n="N004"/><figure facs="#facs_109_line_1612546718352_1717" rend="inline"><graphic url="graphic/facs_109_line_1612546718352_1717.png"/></figure>; bei der ersten <rs ana="#concept_mus">Auflösung</rs> entscheidet es sich für
 				<lb facs="#facs_109_r1l18" n="N005"/>I-III, bei der zweiten für III-II.
 			</p>
             <p facs="#facs_109_TextRegion_1612546587865_1644">
@@ -8712,12 +9159,12 @@
 				<lb facs="#facs_112_r1l4" n="N003"/>aber nicht der zunächst darunter liegende. Jener ist allezeit
 				<lb facs="#facs_112_r1l5" n="N004"/>ein Positives, Erstes, ein <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_note">Grundton</rs></hi>; dieser ein Relatives,
 				<lb facs="#facs_112_r1l6" n="N005"/>ein Zweites, eine <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">Quint</rs></hi>. Daher unter allen Umständen
-				<lb facs="#facs_112_r1l7" n="N006"/>die Form $$GRAPHIC eine richtige, die entgegengesetzte
-				<lb facs="#facs_112_r1l8" n="N007"/>$$GRAPHIC nur unter besonderen Bedingungen eine
+				<lb facs="#facs_112_r1l7" n="N006"/>die Form <figure facs="#facs_112_r1l7" rend="inline" class="musicplaceholder"><graphic url="music/facs_112_r1l7.png"/></figure> eine richtige, die entgegengesetzte
+				<lb facs="#facs_112_r1l8" n="N007"/><figure facs="#facs_112_r1l8" rend="inline" class="musicplaceholder"><graphic url="music/facs_112_r1l8.png"/></figure> nur unter besonderen Bedingungen eine
 				<lb facs="#facs_112_r1l9" n="N008"/>zulässige sein wird. Der <rs ana="#concept_mus">Zusammenklang</rs> zweier neben<pc>¬</pc>
 				<lb facs="#facs_112_r1l10" n="N009"/>einanderliegender <rs ana="#m_note">Töne</rs> wird, wenn der tiefere nach dem.
 				<lb facs="#facs_112_r1l11" n="N010"/>höheren folgt, besondere Vorkommenheiten ausgenommen,
-				<lb facs="#facs_112_r1l12" n="N011"/>nur in der Form $$GRAPHIC erscheinen können.
+				<lb facs="#facs_112_r1l12" n="N011"/>nur in der Form <figure facs="#facs_112_r1l12" rend="inline" class="musicplaceholder"><graphic url="music/facs_112_r1l12.png"/></figure> erscheinen können.
 			</p>
             <p facs="#facs_112_TextRegion_1612547244040_138 #facs_113_TextRegion_1612547346211_224 #facs_113_TextRegion_1612547334150_216 #facs_113_TextRegion_1612547325610_208">
 				<lb facs="#facs_112_r1l13" n="N001"/>153. Hieraus wird sich erweisen, warum von den
@@ -8812,7 +9259,7 @@
 				<pb facs="#facs_115" n="105"/>
             	<lb facs="#facs_115_r1l2" n="N001"/>wenn sie dem Gehöre sich rechtfertigt, aus einer anderen
 				<lb facs="#facs_115_r1l3" n="N002"/><rs ana="#concept_mus">Verbindung</rs> zu erklären sein müssen, als der oben verzeich<pc>¬</pc>
-				<lb facs="#facs_115_r1l4" n="N003"/>neten: $$GRAPHIC,
+				<lb facs="#facs_115_r1l4" n="N003"/>neten: <figure facs="#facs_115_r1l4" rend="inline"><graphic url="graphic/facs_115_r1l4.png"/></figure>,
 				<lb facs="#facs_115_r1l5" n="N004"/>denn diese enthält vom ersten zum letzten <rs ana="#m_chord">Accorde</rs> die
 				<lb facs="#facs_115_r1l6" n="N005"/><rs ana="#concept_mus">Quintfortschreitung</rs><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_interval">C-G</rs>...<rs ana="#m_interval">D-a</rs></hi>.
             </p>
@@ -9822,7 +10269,8 @@
 			</head>
             <p facs="#facs_141_TextRegion_1612565339083_2379">
 				<lb facs="#facs_141_r1l5" n="N001"/>199. In der <rs ana="#m_tonality">Molltonart</rs> steht an der Stelle des <rs ana="#m_chord">Sep<pc>¬</pc>
-				<lb facs="#facs_141_r1l6" n="N002"/>timenaccordes</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_chord">h-D|F-a</rs></hi> der sogenannte <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_chord">verminderte</rs><lb facs="#facs_141_r1l7" n="N003"/><rs ana="#m_chord">Septimenaccord</rs></hi>, . Er ist seiner organischen
+				<lb facs="#facs_141_r1l6" n="N002"/>timenaccordes</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_chord">h-D|F-a</rs></hi> der sogenannte <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_chord">verminderte</rs>
+				<lb facs="#facs_141_r1l7" n="N003"/><rs ana="#m_chord">Septimenaccord</rs></hi>, . Er ist seiner organischen
 				<lb facs="#facs_141_r1l8" n="N004"/>Beschaffenheit nach in Bezug auf das <rs ana="#m_tonality">Mollsystem</rs> ganz das<pc>¬</pc>
 				<lb facs="#facs_141_r1l9" n="N005"/>selbe, was jener in Bezug auf das <rs ana="#m_tonality">Dursystem</rs>. Der <rs ana="#m_chord">vermin<pc>¬</pc>
 				<lb facs="#facs_141_r1l10" n="N006"/>derte Septimenaccord</rs> ist aber einer zweifelhaften Deutung
@@ -10343,7 +10791,7 @@
 				<lb facs="#facs_154_r1l25" n="N004"/>für die <rs ana="#m_chord">Septimenaccorde</rs> des <rs ana="#concept_mus">unverwendeten Systemes</rs>,
 				<lb facs="#facs_154_r1l26" n="N005"/>wo sie nicht durch bedingte <rs ana="#concept_mus">Folge</rs> entstanden ist, ungehörig
 				<lb facs="#facs_154_r1l27" n="N006"/>erscheint, so ist er eben in dem Begriffe jener Verwendung
-				<lb facs="#facs_154_r1l28" n="N007"/>$$GRAPHIC selbst zu suchen. Indem hier das ent<pc>¬</pc>
+				<lb facs="#facs_154_r1l28" n="N007"/><figure facs="#facs_154_r1l28" rend="inline"><graphic url="graphic/facs_154_r1l28.png"/></figure> selbst zu suchen. Indem hier das ent<pc>¬</pc>
 				<lb facs="#facs_154_r1l29" n="N008"/>schieden <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Getrennte</hi> verbunden als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Mitte</hi>, die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Einheits-<lb facs="#facs_154_r1l30" n="N009"/>Mitte</hi> getrennt als  auseinandergesetzt ist, das ganze
 				<lb facs="#facs_154_r1l31" n="N010"/><rs ana="#concept_mus">verwendete System</rs> in Allem, was sich auf seine Mitte bezieht,
 				<lb facs="#facs_154_r1l32" n="N011"/>oder Theil an ihr nimmt, <rs ana="#concept_mus">System</rs> der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs></hi> ist, so
@@ -10430,10 +10878,10 @@
             	<lb facs="#facs_157_r1l2" n="N001"/>aus dem <rs ana="#m_interval">Intervalle</rs><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_interval">D—a</rs></hi> in die <rs ana="#m_interval">Quint</rs><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_interval">C—G</rs></hi> enthält, unzuläs<pc>¬</pc>
 				<lb facs="#facs_157_r1l3" n="N002"/>sig finden werden. Der Unterschied von <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">a</rs></hi> und <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">A</rs></hi> würde auch
 				<lb facs="#facs_157_r1l4" n="N003"/>fühlbar werden müssen, wenn wir die ersten vier <rs ana="#m_note">Töne</rs>
-				<lb facs="#facs_157_r1l5" n="N004"/>des <rs ana="#concept_mus">Chorales</rs> „<title ana="#music" ref="#W0165">Ach Gott und Herr</title>:” $$GRAPHIC erst mit der
-				<lb facs="#facs_157_r1l6" n="N005"/><rs ana="#concept_mus">Grundharmonie</rs> $$GRAPHIC, und sodann mit der <rs ana="#concept_mus">Harmonie</rs>
-				<lb facs="#facs_157_r1l7" n="N006"/>$$GRAPHIC begleiten wollten. In der letzten wird die <rs ana="#concept_mus">Cho<pc>¬</pc>
-				<lb facs="#facs_157_r1l8" n="N007"/>ralmelodie</rs> $$GRAPHIC ihren <rs ana="#m_note">Terzton</rs><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">a</rs></hi> in den <rs ana="#m_note">Quintton</rs><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">A</rs></hi>
+				<lb facs="#facs_157_r1l5" n="N004"/>des <rs ana="#concept_mus">Chorales</rs> „<title ana="#music" ref="#W0165">Ach Gott und Herr</title>:” <figure facs="#facs_157_r1l5" rend="inline"><graphic url="graphic/facs_157_r1l5.png"/></figure> erst mit der
+				<lb facs="#facs_157_r1l6" n="N005"/><rs ana="#concept_mus">Grundharmonie</rs> <figure facs="#facs_157_r1l6" rend="inline"><graphic url="graphic/facs_157_r1l6.png"/></figure>, und sodann mit der <rs ana="#concept_mus">Harmonie</rs>
+				<lb facs="#facs_157_r1l7" n="N006"/><figure facs="#facs_157_r1l7" rend="inline"><graphic url="graphic/facs_157_r1l7.png"/></figure> begleiten wollten. In der letzten wird die <rs ana="#concept_mus">Cho<pc>¬</pc>
+				<lb facs="#facs_157_r1l8" n="N007"/>ralmelodie</rs> <figure facs="#facs_157_r1l8" rend="inline"><graphic url="graphic/facs_157_r1l8.png"/></figure> ihren <rs ana="#m_note">Terzton</rs><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">a</rs></hi> in den <rs ana="#m_note">Quintton</rs><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">A</rs></hi>
 				<lb facs="#facs_157_r1l9" n="N008"/>verändern und die <rs ana="#concept_mus">Intonation</rs> desselben wird für den <rs ana="#concept_mus">Sänger</rs>
 				<lb facs="#facs_157_r1l10" n="N009"/>eine anders bestimmte, höhere sein, als die <rs ana="#concept_mus">Terzintonation</rs>
 				<lb facs="#facs_157_r1l11" n="N010"/>des <rs ana="#m_note">Tones</rs><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">a</rs></hi> zu dem <rs ana="#m_chord">Dreiklange</rs><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_chord">F-a-C</rs></hi>.
@@ -10528,7 +10976,8 @@
 				<lb facs="#facs_159_r1l9" n="N008"/>In den <rs ana="#concept_mus">verbundenen Grenzen</rs> des nach der <rs ana="#concept_mus">Oberdominant<pc>¬</pc>
 				<lb facs="#facs_159_r1l10" n="N009"/>seite</rs> <rs ana="#concept_mus">übergreifenden Systemes</rs> der <rs ana="#m_tonality">Molltonart</rs> aber, und
 				<lb facs="#facs_159_r1l11" n="N010"/>der in Hinsicht der <rs ana="#concept_mus">Dominanten</rs> ihr gleichen <rs ana="#m_tonality">Moll-Durtonart</rs>,
-				<lb facs="#facs_159_r1l12" n="N011"/>erhalten wir das <rs ana="#m_interval">Intervall</rs> der sogenannten <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">verminderten</rs><lb facs="#facs_159_r1l13" n="N012"/><rs ana="#m_interval">Terz</rs></hi>, . Ihr <rs ana="#concept_phy">Schwingungsverhältniss</rs>, das wir aus
+				<lb facs="#facs_159_r1l12" n="N011"/>erhalten wir das <rs ana="#m_interval">Intervall</rs> der sogenannten <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">verminderten</rs>
+				<lb facs="#facs_159_r1l13" n="N012"/><rs ana="#m_interval">Terz</rs></hi>, . Ihr <rs ana="#concept_phy">Schwingungsverhältniss</rs>, das wir aus
 				<lb facs="#facs_159_r1l14" n="N013"/>zweimaliger <rs ana="#concept_mus">Leittonsfortschreitung</rs> leicht erfahren können,
 				<lb facs="#facs_159_r1l15" n="N014"/>ergibt sich als 225:256; denn es ist:
             	<figure facs="#facs_159_Graphic_1612631549596_818">
@@ -10927,7 +11376,8 @@
 				<lb facs="#facs_168_r1l19" n="N004"/>hervortreten zu lassen, als den <rs ana="#m_chord">Molldreiklang</rs><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_chord">A-c-E</rs></hi>. So
 				<lb facs="#facs_168_r1l20" n="N005"/>lernen wir aber in diesem <rs ana="#concept_mus">Zusammenklange</rs> einen <rs ana="#m_chord">Accord</rs>
 				<lb facs="#facs_168_r1l21" n="N006"/>theoretisch kennen, der praktisch die häufigste Anwendung
-				<lb facs="#facs_168_r1l22" n="N007"/>findet: den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_chord">Dominantseptimenaccord</rs> der <rs ana="#m_tonality">Durtonart</rs><lb facs="#facs_168_r1l23" n="N008"/>mit <rs ana="#concept_mus">chromatisch erhöheter</rs> <rs ana="#m_interval">Quint</rs></hi>. Die in ihm ent<pc>¬</pc>
+				<lb facs="#facs_168_r1l22" n="N007"/>findet: den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_chord">Dominantseptimenaccord</rs> der <rs ana="#m_tonality">Durtonart</rs>
+				<lb facs="#facs_168_r1l23" n="N008"/>mit <rs ana="#concept_mus">chromatisch erhöheter</rs> <rs ana="#m_interval">Quint</rs></hi>. Die in ihm ent<pc>¬</pc>
 				<lb facs="#facs_168_r1l24" n="N009"/>haltene <rs ana="#m_interval">verminderte Terz</rs> unterwirft ihn einer bedingten
 				<lb facs="#facs_168_r1l25" n="N010"/><rs ana="#concept_mus">Lage</rs> und verlangt allezeit die <rs ana="#concept_mus">Umkehrung</rs> dieses <rs ana="#m_interval">Intervalles</rs>.
 			</p>
@@ -11824,7 +12274,8 @@
 				<lb facs="#facs_191_r1l19" n="N001"/>272. Wenn wir die <rs ana="#concept_mus">Tonartverwandtschaft</rs> hauptsäch<pc>¬</pc>
 				<lb facs="#facs_191_r1l20" n="N002"/>lich am <rs ana="#m_tonality">tonischen</rs> <rs ana="#m_chord">Dreiklange</rs> zu suchen haben, und wenn
 				<lb facs="#facs_191_r1l21" n="N003"/>sie bei den <rs ana="#m_tonality">Dominanttonarten</rs> darin besteht, dass der
-				<lb facs="#facs_191_r1l22" n="N004"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_note">Grundton</rs></hi> jenes <rs ana="#m_chord">Dreiklanges</rs><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">Quint</rs></hi>, oder dessen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">Quint</rs><lb facs="#facs_191_r1l23" n="N005"/><rs ana="#m_note">Grundton</rs></hi> des neuen <rs ana="#concept_mus">tonischen</rs> werden kann, so wird
+				<lb facs="#facs_191_r1l22" n="N004"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_note">Grundton</rs></hi> jenes <rs ana="#m_chord">Dreiklanges</rs><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">Quint</rs></hi>, oder dessen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">Quint</rs>
+				<lb facs="#facs_191_r1l23" n="N005"/><rs ana="#m_note">Grundton</rs></hi> des neuen <rs ana="#concept_mus">tonischen</rs> werden kann, so wird
 				<lb facs="#facs_191_r1l24" n="N006"/>auch eine <rs ana="#concept_mus">Verwandtschaft</rs> darin enthalten sein können,
 				<lb facs="#facs_191_r1l25" n="N007"/>dass der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_note">Grundton</rs></hi> oder die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">Quint</rs></hi> des <rs ana="#concept_mus">tonischen</rs> <rs ana="#m_chord">Drei<pc>¬</pc>
 				<lb facs="#facs_191_r1l26" n="N008"/>klanges</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">Terz</rs></hi>, dessen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">Terz</rs></hi> aber <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_note">Grundton</rs></hi> oder <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">Quint</rs></hi>
@@ -15627,7 +16078,7 @@
 			</p>
             <p facs="#facs_297_TextRegion_1612734493078_5336 #facs_297_TextRegion_1612734471301_5328 #facs_298_TextRegion_1612736136406_5485">
 				<lb facs="#facs_297_r1l22" n="N001"/>Daher können metrische Formen wie diese:
-				<lb facs="#facs_297_r1l23" n="N002"/>(S. 282. <hi rend="italic:true; fontSize:0.0; kerning:0;">B</hi>. <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;">a-β</hi>) $$GRAPHIC (S. 281. <hi rend="italic:true; fontSize:0.0; kerning:0;">B</hi>. <hi rend="italic:true; fontSize:0.0; kerning:0;">α</hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;">β</hi>) $$GRAPHIC,
+				<lb facs="#facs_297_r1l23" n="N002"/>(S. 282. <hi rend="italic:true; fontSize:0.0; kerning:0;">B</hi>. <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;">a-β</hi>) <figure facs="#facs_297_r1l23_1" rend="inline" class="musicplaceholder"><graphic url="music/facs_297_r1l23.png"/></figure> (S. 281. <hi rend="italic:true; fontSize:0.0; kerning:0;">B</hi>. <hi rend="italic:true; fontSize:0.0; kerning:0;">α</hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;">β</hi>) <figure facs="#facs_297_r1l23_2" rend="inline" class="musicplaceholder"><graphic url="music/facs_297_r1l23.png"/></figure>,
 				<lb facs="#facs_297_r1l24" n="N003"/>nicht die Tactbestimmung
             	<figure facs="#facs_297_Graphic_1616259453994_5300">
                <graphic url="graphic/facs_297_Graphic_1616259453994_5300.png"/>
@@ -15992,7 +16443,7 @@
 				<lb facs="#facs_307_r1l21" n="N003"/>ses steht als solches hier nicht in der Bedeutung der zwei<pc>¬</pc>
 				<lb facs="#facs_307_r1l22" n="N004"/>ten Hälfte des Ganzen, sondern nur in der des ersten
 				<lb facs="#facs_307_r1l23" n="N005"/>Theiles in dieser zweiten Hälfte. Der Schluss ist daher nicht
-				<lb facs="#facs_307_r1l24" n="N006"/>$$GRAPHIC, sondern $$GRAPHIC;
+				<lb facs="#facs_307_r1l24" n="N006"/><figure facs="#facs_307_r1l24_1" rend="inline" class="musicplaceholder"><graphic url="music/facs_307_r1l24_1.png"/></figure>, sondern <figure facs="#facs_307_r1l24_2" rend="inline" class="musicplaceholder"><graphic url="music/facs_307_r1l24_2.png"/></figure>;
 				<lb facs="#facs_307_r1l25" n="N007"/>wie er eben auch praktisch von selbst sich also ausfüh<pc>¬</pc>
 				<lb facs="#facs_307_r1l26" n="N008"/>ren wird.
 			</p>
@@ -17555,7 +18006,7 @@
 				<lb facs="#facs_347_r1l32" n="N009"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Erstes</hi> und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Zweites</hi> nacheinander setzt, sondern <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Länge</hi>
 				<lb facs="#facs_347_r1l33" n="N010"/>und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Kürze</hi>. Wir kennen diese Form in der Sprachmetrik,
 				<lb facs="#facs_347_r1l34" n="N011"/>als rhythmisch-<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">positive</hi>, unter dem Namen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Trochäus</hi>,
-				<lb facs="#facs_347_r1l35" n="N012"/>$$GRAPHIC, als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">negative</hi> unter dem Namen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Jambus</hi>, $$GRAPHIC.
+				<lb facs="#facs_347_r1l35" n="N012"/><figure facs="#facs_347_r1l35_1" rend="inline"><graphic url="graphic/facs_347_r1l35_1.png"/></figure>, als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">negative</hi> unter dem Namen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Jambus</hi>, <figure facs="#facs_347_r1l35_2" rend="inline"><graphic url="graphic/facs_347_r1l35_2.png"/></figure>.
 			</p>
          <p rend="TEI" facs="#facs_347_TextRegion_1612905875406_5718 #facs_348_TextRegion_1612906035430_5871">
 				<lb facs="#facs_347_r1l36" n="N001"/>149. Dieser rhythmischen Zweiheitsbestimmung, wel<pc>¬</pc>
@@ -17775,7 +18226,7 @@
 			</p>
             <p facs="#facs_355_TextRegion_1612985439900_520 #facs_355_TextRegion_1612985385139_493">
 				<lb facs="#facs_355_r1l5" n="N001"/>Wenn nun beide Formen des Daktylus, die erste
-				<lb facs="#facs_355_r1l6" n="N002"/>$$GRAPHIC, und diese $$GRAPHIC,
+				<lb facs="#facs_355_r1l6" n="N002"/><figure facs="#facs_355_r1l6_1" rend="inline" class="musicplacholder"><graphic url="music/facs_355_r1l6_1.png"/></figure>, und diese <figure facs="#facs_355_r1l6_2" rend="inline" class="musicplaceholder"><graphic url="music/facs_355_r1l6_2.png"/></figure>,
 				<lb facs="#facs_355_r1l7" n="N003"/>nebeneinander bestehen sollen, so haben wir zuerst zu
 				<lb facs="#facs_355_r1l8" n="N004"/>unterscheiden, dass die letztere nicht in dem Sinne <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Fuss</hi>
 				<lb facs="#facs_355_r1l9" n="N005"/>zu nennen ist, wie die erste, die eben nur eine Gliederung
@@ -17801,7 +18252,7 @@
             </figure>
             	<lb facs="#facs_355_r1l27" n="N001"/>und bringt diesen sowohl mit Spondeen, als mit Trochäen
 				<lb facs="#facs_355_r1l28" n="N002"/>in Verbindung; mit letzteren kann aber nur der rhyth<pc>¬</pc>
-				<lb facs="#facs_355_r1l29" n="N003"/>mische Daktylus, $$GRAPHIC, zusammengestellt werden,
+				<lb facs="#facs_355_r1l29" n="N003"/>mische Daktylus, <figure facs="#facs_355_r1l29" rend="inline"><graphic url="graphic/facs_355_r1l29.png"/></figure>, zusammengestellt werden,
             	<figure facs="#facs_355_Graphic_1612985530493_562">
                <graphic url="graphic/facs_355_Graphic_1612985530493_562.png"/>
             </figure>

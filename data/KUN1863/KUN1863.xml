@@ -794,8 +794,7 @@
 	</facsimile>
    <text xml:space="preserve">
       <front>
-      	<pb facs="#facs_1" n=""/>
-      	<titlePage type="main">
+      	 <titlePage type="main">
 				<docTitle>
            	 	<titlePart type="main" ana="#text" corresp="#W0166"><lb facs="#facs_1_line_1614370941339_8" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">Kritische Beleuchtung</hi>
 						<lb facs="#facs_1_r1l4" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">des</hi>
@@ -815,10 +814,6 @@
 					<lb facs="#facs_1_r1l14" n="N011"/><docDate when="1863">1863</docDate>.
 				</docImprint>
 			</titlePage>
-         <pb facs="#facs_2" n=""/>
-         <pb facs="#facs_3" n=""/>
-         <pb facs="#facs_4" n=""/>
-         <pb facs="#facs_5" n=""/>
       	<titlePage type="halftitle">
       		<docTitle>
       			<titlePart type="desc">
@@ -840,6 +835,42 @@
       			</titlePart>
       		</docTitle>
       	</titlePage>
+      	<div type="contents"><list n="1"><item>
+				I.
+            </item><item>
+				II.
+            </item><item>
+				III.
+            </item><item></item><item></item><item>
+				VI.
+            </item><item>
+				VII.
+            </item><item>
+				VIII.
+            </item><item>
+				IX.
+            </item><item>
+				X.
+            </item><item>
+				XI.
+            </item><item>
+				XII.
+            </item><item>
+				XIII.
+            </item><item>
+				Nachtrag
+				zu der vorstehenden
+				„Kritischen Beleuchtung”
+				des
+				C. F. Weitzmann'schenHarmoniesystems.
+            </item></list></div>
+      	<pb facs="#facs_1" n=""/>
+      	
+         <pb facs="#facs_2" n=""/>
+         <pb facs="#facs_3" n=""/>
+         <pb facs="#facs_4" n=""/>
+         <pb facs="#facs_5" n=""/>
+      	
          <pb facs="#facs_6" n=""/>
          <pb facs="#facs_7" n=""/>
          <div type="preface">
@@ -890,7 +921,8 @@
 				<lb facs="#facs_8_r1l6" n="N005"/><title ana="#text" ref="#W0039"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">läuterung und musikalisch-theoretische Begründung</hi> der durch die neuesten Kunst<pc>¬</pc></title>
 				<lb facs="#facs_8_r1l7" n="N006"/><title ana="#text" ref="#W0039">schöpfungen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">bewirkten Umgestaltung und Weiterbildung der Harmonik</hi></title>” in
 				<lb facs="#facs_8_r1l8" n="N007"/>Aussicht gestellt und in der Einleitung wird sogar die Ergründung der „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Gesetze</hi>” versprochen,
-				<lb facs="#facs_8_r1l9" n="N008"/>nach welchen die in „<rs ana="#concept_mus">neueren Tonwerken</rs>” erscheinenden, aber in „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">früheren <rs ana="#concept_mus">theoretischen</rs><lb facs="#facs_8_r1l10" n="N009"/><rs ana="#concept_mus">Werken</rs> noch nicht erklärten <rs ana="#concept_mus">Zusammenklänge</rs> und <rs ana="#concept_mus">Accordfolgen</rs></hi>” zur klaren
+				<lb facs="#facs_8_r1l9" n="N008"/>nach welchen die in „<rs ana="#concept_mus">neueren Tonwerken</rs>” erscheinenden, aber in „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">früheren <rs ana="#concept_mus">theoretischen</rs>
+				<lb facs="#facs_8_r1l10" n="N009"/><rs ana="#concept_mus">Werken</rs> noch nicht erklärten <rs ana="#concept_mus">Zusammenklänge</rs> und <rs ana="#concept_mus">Accordfolgen</rs></hi>” zur klaren
 				<lb facs="#facs_8_r1l11" n="N010"/>Erkenntniß zu bringen wären. —
 			</p>
             <p facs="#facs_8_TextRegion_1614371679349_372">
@@ -918,7 +950,8 @@
 			</p>
             <p facs="#facs_8_TextRegion_1614371666617_364">
 				<lb facs="#facs_8_r1l33" n="N001"/>Der „<title ana="#text" ref="#W0166">Kritischen Beleuchtung</title>” ist am Schlusse auch noch von uns eine Beurtheilung
-				<lb facs="#facs_8_line_1614371754194_446" n="N002"/>des, auf das „<title ana="#text" ref="#W0039">Harmoniesystem</title>” <persName role="author" ref="#P0041">Weitzmann's</persName> beziehlichen Schriftchens: „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><title ana="#text" ref="#W0037">Die neue</title><lb facs="#facs_8_r1l36" n="N003"/><title ana="#text" ref="#W0037">Harmonielehre im Streit mit der alten</title></hi>” von demselben <persName role="author" ref="#P0041">Verfasser</persName> als „Nachtrag”
+				<lb facs="#facs_8_line_1614371754194_446" n="N002"/>des, auf das „<title ana="#text" ref="#W0039">Harmoniesystem</title>” <persName role="author" ref="#P0041">Weitzmann's</persName> beziehlichen Schriftchens: „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><title ana="#text" ref="#W0037">Die neue</title>
+				<lb facs="#facs_8_r1l36" n="N003"/><title ana="#text" ref="#W0037">Harmonielehre im Streit mit der alten</title></hi>” von demselben <persName role="author" ref="#P0041">Verfasser</persName> als „Nachtrag”
 				<lb facs="#facs_8_r1l37" n="N004"/>beigefügt. —
 			</p>
             <p facs="#facs_8_TextRegion_1614371658237_360">
@@ -1293,7 +1326,8 @@
 				<lb facs="#facs_15_r1l30" n="N029"/><rs ana="#concept_mus">Tonfolge</rs><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_interval">gis f</rs></hi> in seiner <rs ana="#m_tonality">Molltonleiter</rs> Nr. 2 hat der <persName role="author" ref="#P0041">Verfasser</persName> kein Beispiel gegeben —), so ist man zu jener
 				<lb facs="#facs_15_r1l31" n="N030"/>Annahme noch mehr berechtigt. — Insbesondere ist die vom <persName role="author" ref="#P0041">Verfasser</persName> als <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">A</hi>-<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Molltonleiter</hi></rs> Nr. 1 auf<pc>¬</pc>
 				<lb facs="#facs_15_r1l32" n="N031"/>gestellte <rs ana="#concept_mus">Tonfolge</rs> keine neue Erfindung; denn die Entstehung und der erste Gebrauch dieser <rs ana="#m_tonality">Leiter</rs> ist uralt,
-				<lb facs="#facs_15_r1l33" n="N032"/>und die Physionomie derselben orientalischen Gepräges. Es ist nämlich dieselbe, entweder die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_tonality">authentisch-</rs><lb facs="#facs_15_r1l34" n="N033"/><rs ana="#m_tonality">phrygische</rs></hi>, oder die  (<rs ana="#m_tonality">Hypo-äolische</rs>) <rs ana="#m_tonality">Leiter</rs>, der man aber auch aufwärts fortzu<pc>¬</pc>
+				<lb facs="#facs_15_r1l33" n="N032"/>und die Physionomie derselben orientalischen Gepräges. Es ist nämlich dieselbe, entweder die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_tonality">authentisch-</rs>
+				<lb facs="#facs_15_r1l34" n="N033"/><rs ana="#m_tonality">phrygische</rs></hi>, oder die  (<rs ana="#m_tonality">Hypo-äolische</rs>) <rs ana="#m_tonality">Leiter</rs>, der man aber auch aufwärts fortzu<pc>¬</pc>
 				<lb facs="#facs_15_r1l35" n="N034"/>schreiten gestattete <note facs="#facs_15_TextRegion_1614381904337_1829" type="foot" n="**)"><lb facs="#facs_15_line_1614382113251_2003" n="N001"/>Man sehe hierüber die betreffenden Abhandlungen in älteren Lehrbüchern, z. B. <persName role="author" ref="#P0142"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Fink</hi>'s</persName> „<title ana="#text" ref="#W0174">Musi<pc>¬</pc></title>
 				<lb facs="#facs_15_r1l58" n="N002"/><title ana="#text" ref="#W0174">kalische Grammatik</title>”, 30. Kap.; <persName role="author" ref="#P0140"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">André</hi>'s</persName> „<title ana="#text" ref="#W0173">Lehrbuch der Tonsetzkunst</title>”, 1. Band, 19. Kap.;
 				<lb facs="#facs_15_r1l59" n="N003"/>„<title ana="#text" ref="#W0122">Kompositionslehre</title>” von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0078">Marx</persName></hi>, 1. Band, 2. Buch, 2. Abtheilung; „<title ana="#text" ref="#W0042">Versuch einer geordneten</title>
@@ -1363,7 +1397,8 @@
 				<lb facs="#facs_16_r2l41" n="N004"/>weßhalb die <rs ana="#concept_mus">alten Tonlehrer</rs> auch diese <rs ana="#concept_mus">Harmonieen</rs> zu den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_chord">Hauptaccorden</rs></hi> und nicht zu der Kategorie
 				<lb facs="#facs_16_r2l42" n="N005"/>der übrigen, der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_chord">Nebenaccorde</rs></hi>, wie <persName role="author" ref="#P0041">Weitzmann</persName>, zählen. Die <rs ana="#concept_mus">Harmonieen</rs> I, IV, V und V<hi rend="fontSize:0.0; kerning:0; superscript:true;">7</hi> in <rs ana="#m_tonality">Dur</rs>
 				<lb facs="#facs_16_r2l43" n="N006"/>und i, iv, V und V<hi rend="fontSize:0.0; kerning:0; superscript:true;">7</hi> in <rs ana="#m_tonality">Moll</rs> sind dann durch ihre besondere Benennungen von einander unterschieden.
-				<lb facs="#facs_16_r2l44" n="N007"/>Noch weniger ist die abweichende Benennung: „<rs ana="#m_note">Stammtöne</rs>” für unsere <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">leitereigene</rs> oder <rs ana="#concept_mus">leitertreue</rs><lb facs="#facs_16_r2l45" n="N008"/><rs ana="#m_note">Töne</rs></hi> und „<rs ana="#m_note">Nebentöne</rs>” für  zu billigen, da <rs ana="#m_note">Stammtöne</rs> und <rs ana="#m_note">Nebentöne</rs> in unserer alten
+				<lb facs="#facs_16_r2l44" n="N007"/>Noch weniger ist die abweichende Benennung: „<rs ana="#m_note">Stammtöne</rs>” für unsere <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">leitereigene</rs> oder <rs ana="#concept_mus">leitertreue</rs>
+				<lb facs="#facs_16_r2l45" n="N008"/><rs ana="#m_note">Töne</rs></hi> und „<rs ana="#m_note">Nebentöne</rs>” für  zu billigen, da <rs ana="#m_note">Stammtöne</rs> und <rs ana="#m_note">Nebentöne</rs> in unserer alten
 				<lb facs="#facs_16_r2l46" n="N009"/>Terminologie in anderer Bedeutung aufgenommen sind, daher diese Abänderung Begriffsverwechslungen zur
 				<lb facs="#facs_16_r2l47" n="N010"/>Folge haben könnte. —
 			</p>
@@ -1424,7 +1459,8 @@
 				<lb facs="#facs_17_r1l117" n="N002"/>menklang</rs> der fraglichen Art, wird er kunstgemäß eingeführt, d. h. seine <rs ana="#m_interval">Septime</rs> <rs ana="#concept_mus">vorbereitet</rs>:
 				<notatedMusic rend="MEI" facs="#facs_18_Music_1614383368541_2702" source="facs_18_Music_1614383368541_2702.mei"><desc>MUSIK</desc></notatedMusic>
 				<lb facs="#facs_18_r1l84" n="N001"/>nach einer oder der anderen der oben bei a oder b angedeuteten <rs ana="#concept_mus">Weiterführungen</rs> benutzt werden kann,
-				<lb facs="#facs_18_r1l85" n="N002"/>wird kein Kunstverständiger leugnen wollen. Aber diese <rs ana="#concept_mus">Weiterführungen</rs><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">sind keine <rs ana="#concept_mus">leitereigene</rs><lb facs="#facs_18_r1l86" n="N003"/><rs ana="#concept_mus">Auflösungen</rs> einer <rs ana="#m_interval">Grundseptime</rs></hi>. Wir müssen gestehen, daß uns diese Stelle in dem sonst so
+				<lb facs="#facs_18_r1l85" n="N002"/>wird kein Kunstverständiger leugnen wollen. Aber diese <rs ana="#concept_mus">Weiterführungen</rs><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">sind keine <rs ana="#concept_mus">leitereigene</rs>
+				<lb facs="#facs_18_r1l86" n="N003"/><rs ana="#concept_mus">Auflösungen</rs> einer <rs ana="#m_interval">Grundseptime</rs></hi>. Wir müssen gestehen, daß uns diese Stelle in dem sonst so
 				<lb facs="#facs_18_r1l87" n="N004"/>viel Wahres enthaltenen <title ana="#text" ref="#W0039">Buche</title> unangenehm berührte, mehr aber noch, daß man die „Nothwendigkeit” einer
 				<lb facs="#facs_18_r1l88" n="N005"/>kunstvernünftigeren Erklärung nicht einsehen will. —</p></note>.</note>
 				<lb facs="#facs_17_r1l6" n="N005"/>Und wie steht es insbesondere um die <rs ana="#concept_mus">Harmoniebildung</rs> in den durch <persName role="author" ref="#P0007">Hauptmann's</persName><title ana="#text" ref="#W0004">Buch</title> veranlaßten, aber
@@ -1702,7 +1738,9 @@
             <p facs="#facs_23_TextRegion_1614385371298_3947">
 				<lb facs="#facs_23_r1l25" n="N001"/>Nach dem aufgestellten Princip der <rs ana="#concept_mus">Ton-</rs> oder <rs ana="#concept_mus">Klangabstammung</rs> und der in Folge derselben größten Ge<pc>¬</pc>
 				<lb facs="#facs_23_r1l26" n="N002"/>meinschaftlichkeit der <rs ana="#m_note">Töne</rs> und <rs ana="#concept_mus">Harmonieen</rs> für die Feststellung der <rs ana="#concept_mus">Verwandtschaft</rs> der <rs ana="#m_tonality">Tonarten</rs> bestimmt sich
-				<lb facs="#facs_23_r1l27" n="N003"/>dann auch von selbst die Gradation dieser <rs ana="#concept_mus">Verwandtschaft</rs>, wie in nachstehender Fig. 20 aufgestellt, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">und es läßt<lb facs="#facs_23_r1l28" n="N004"/>sich aus Lust oder Laune an dem ewig feststehenden Gesetzmäßigen dieser Gradation<lb facs="#facs_23_r1l29" n="N005"/>eben so wenig etwas abändern, als man in einer <rs ana="#concept_phy">arithmetischen</rs> oder <rs ana="#concept_phy">geometrischen</rs><lb facs="#facs_23_r1l30" n="N006"/><rs ana="#concept_phy">Zahlenreihe</rs> Glieder herausreißen oder versetzen kann, ohne Störung der <rs ana="#concept_phy">Reihe</rs><lb facs="#facs_23_line_1614385366086_3941" n="N007"/>selbst.</hi>
+				<lb facs="#facs_23_r1l27" n="N003"/>dann auch von selbst die Gradation dieser <rs ana="#concept_mus">Verwandtschaft</rs>, wie in nachstehender Fig. 20 aufgestellt, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">und es läßt<lb facs="#facs_23_r1l28" n="N004"/>sich aus Lust oder Laune an dem ewig feststehenden Gesetzmäßigen dieser Gradation<lb facs="#facs_23_r1l29" n="N005"/>eben so wenig etwas abändern, als man in einer <rs ana="#concept_phy">arithmetischen</rs> oder <rs ana="#concept_phy">geometrischen</rs>
+				<lb facs="#facs_23_r1l30" n="N006"/><rs ana="#concept_phy">Zahlenreihe</rs> Glieder herausreißen oder versetzen kann, ohne Störung der <rs ana="#concept_phy">Reihe</rs>
+				<lb facs="#facs_23_line_1614385366086_3941" n="N007"/>selbst.</hi>
             </p>
          <figure facs="#facs_23_Graphic_1614385435253_3963">
                <graphic url="graphic/facs_23_Graphic_1614385435253_3963.png"/>
@@ -1838,7 +1876,9 @@
 				<lb facs="#facs_27_line_1614521945044_221" n="N003"/>rigen</hi> wagrechten Reihen besteht. —</note>, so erhalten wir <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>-moll</rs>, welche <rs ana="#m_tonality">Tonart</rs> demnach mit
 				<lb facs="#facs_26_r1l14" n="N011"/><rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi>-dur</rs> im <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">vierten</hi> Grade — conform der <persName role="author" ref="#P0078">Marx'schen</persName> Zeichnung (Fig. 26) — stände, während sie in der
 				<lb facs="#facs_26_r1l15" n="N012"/>nächsten Nähe neben <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_tonality">C</rs></hi> doch <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">erst</hi>gradig figurirt!! Noch mehr! Schreiten wir von dem in den vierten Grad
-				<lb facs="#facs_26_r1l16" n="N013"/>degradirten <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_tonality">c</rs></hi> (unterhalb <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_tonality">g</rs></hi>) noch einen Schritt weiter rechts, so erhalten wir <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_tonality">C</rs></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">so daß dann <rs ana="#m_tonality">C-dur</rs><lb facs="#facs_26_r1l17" n="N014"/>mit <rs ana="#m_tonality">C-dur</rs> — also eine <rs ana="#m_tonality">Tonart</rs> mit sich selbst — im fünften <rs ana="#concept_mus">Verwandtschaftsgrade</rs><lb facs="#facs_26_r1l18" n="N015"/>stände</hi>!!! — <persName role="author" ref="#P0014">Weber</persName> glaubte nun, das Gewirr geordnet zu haben, indem er die <rs ana="#m_tonality">Tonarten</rs>, die auf solche
+				<lb facs="#facs_26_r1l16" n="N013"/>degradirten <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_tonality">c</rs></hi> (unterhalb <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_tonality">g</rs></hi>) noch einen Schritt weiter rechts, so erhalten wir <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_tonality">C</rs></hi>, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">so daß dann <rs ana="#m_tonality">C-dur</rs>
+				<lb facs="#facs_26_r1l17" n="N014"/>mit <rs ana="#m_tonality">C-dur</rs> — also eine <rs ana="#m_tonality">Tonart</rs> mit sich selbst — im fünften <rs ana="#concept_mus">Verwandtschaftsgrade</rs>
+				<lb facs="#facs_26_r1l18" n="N015"/>stände</hi>!!! — <persName role="author" ref="#P0014">Weber</persName> glaubte nun, das Gewirr geordnet zu haben, indem er die <rs ana="#m_tonality">Tonarten</rs>, die auf solche
 				<lb facs="#facs_26_r1l19" n="N016"/>Weise nach irgend welcher Seite hin — also gradlinig oder im Zickzack — zum ersten Male auftreten, festhalten,
 				<lb facs="#facs_26_r1l20" n="N017"/>ihr wiederholtes Auftreten nach andern Seiten hin dagegen unbeachtet fallen, somit keine Degradation, sondern
 				<lb facs="#facs_26_r1l21" n="N018"/>nur Avancement gelten lassen will. Wenn sich hiernach z. B. die in Fig. 27 am weitesten vom <rs ana="#concept_mus">Centrum</rs>
@@ -2064,16 +2104,21 @@
 				<lb facs="#facs_30_r1l45" n="N002"/><date>vor mehr als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">vierzig Jahren</hi></date> erschienen, bringen wir aus <persName role="author" ref="#P0014">dessen</persName><title ana="#text" ref="#W0181">Modulationslehre</title>, allwo von
 				<lb facs="#facs_30_r1l46" n="N003"/>der „<rs ana="#concept_mus">Stimmung</rs> des Gehörs in eine <rs ana="#m_tonality">Tonart</rs>” die Rede ist, einige solcher Grundsätze zum Vergleiche
 				<lb facs="#facs_30_line_1614523445270_1017" n="N004"/>der Oberflächlichkeit in dem <title ana="#text" ref="#W0039">neuesten Harmoniesystem</title>:</p>
-				<p><lb facs="#facs_30_r1l48" n="N001"/>„Im Allgemeinen entsteht das Gefühl einer <rs ana="#m_tonality">Tonart</rs> durch das Auftreten von <rs ana="#concept_mus">Harmonieen</rs>,
+				<p>
+				<lb facs="#facs_30_r1l48" n="N001"/>„Im Allgemeinen entsteht das Gefühl einer <rs ana="#m_tonality">Tonart</rs> durch das Auftreten von <rs ana="#concept_mus">Harmonieen</rs>,
 				<lb facs="#facs_30_line_1614523531288_1103" n="N002"/>welche derselben eigen sind. Insbesondere ist also natürlich, daß beim Anhören einer <rs ana="#concept_mus">Musik</rs>, wenn
 				<lb facs="#facs_30_line_1614523542818_1122" n="N003"/>das Gehör noch von keiner <rs ana="#m_tonality">Tonart</rs> eingenommen ist, dieses jede sich ihm zuerst darbietende <rs ana="#concept_mus">harte</rs>
 				<lb facs="#facs_30_line_1614523438859_1011" n="N004"/>oder <rs ana="#concept_mus">weiche</rs> <rs ana="#concept_mus">Dreiklangsharmonie</rs> als <rs ana="#concept_mus">tonische</rs> anzunehmen geneigt ist.”
 				<lb facs="#facs_30_r1l55" n="N001"/>„Das einmal in eine <rs ana="#m_tonality">Tonart</rs> <rs ana="#concept_mus">gestimmte</rs> Gehör stimmt sich nicht ohne hinreichenden Grund
-				<lb facs="#facs_30_line_1614523551770_1137" n="N002"/>in eine andere um.”</p>
-				<p><lb facs="#facs_30_r1l58" n="N001"/>„Das Gehör nimmt jede vorkommende <rs ana="#concept_mus">Tonverbindung</rs>, welche an sich selbst in der bis<pc>¬</pc>
+				<lb facs="#facs_30_line_1614523551770_1137" n="N002"/>in eine andere um.”
+				</p>
+				<p>
+				<lb facs="#facs_30_r1l58" n="N001"/>„Das Gehör nimmt jede vorkommende <rs ana="#concept_mus">Tonverbindung</rs>, welche an sich selbst in der bis<pc>¬</pc>
 				<lb facs="#facs_30_line_1614523569709_1165" n="N002"/>herigen <rs ana="#m_tonality">Tonart</rs> vorfindlich ist, in der Regel auch wirklich für <rs ana="#concept_mus">leitereigen</rs>, nicht für eine <rs ana="#concept_mus">Aus<pc>¬</pc>
-				<lb facs="#facs_30_r1l61" n="N003"/>weichung</rs>.”</p>
-				<p><lb facs="#facs_30_r1l62" n="N001"/>„Kommt hingegen dem, in eine <rs ana="#m_tonality">Tonart</rs> gestimmten, Gehör eine <rs ana="#concept_mus">Tonverbindung</rs> vor, welche
+				<lb facs="#facs_30_r1l61" n="N003"/>weichung</rs>.”
+				</p>
+				<p>
+				<lb facs="#facs_30_r1l62" n="N001"/>„Kommt hingegen dem, in eine <rs ana="#m_tonality">Tonart</rs> gestimmten, Gehör eine <rs ana="#concept_mus">Tonverbindung</rs> vor, welche
 				<lb facs="#facs_30_r1l63" n="N002"/>in der bisherigen <rs ana="#m_tonality">Tonart</rs> nicht vorfindlich ist, welche es sich daher unmöglich als derselben ange<pc>¬</pc>
 				<lb facs="#facs_30_r1l64" n="N003"/>hörend erklären kann, und deßhalb für eine <rs ana="#concept_mus">Ausweichung</rs> erklären muß, so sieht es dieselbe wenig<pc>¬</pc>
 				<lb facs="#facs_30_r1l65" n="N004"/>stens als derjenigen <rs ana="#m_tonality">Tonart</rs> angehörig an, welche mit der, in welche es bisher <rs ana="#concept_mus">gestimmt</rs> gewesen,
@@ -2083,7 +2128,8 @@
 				<lb facs="#facs_30_r1l23" n="N012"/>bindet <persName role="author" ref="#P0041">Weitzmann</persName> in <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">drei und zwanzig</hi> Beispielen den <rs ana="#m_chord">großen C-Dreiklang</rs> zuerst mit allen übrigen
 				<lb facs="#facs_30_r1l24" n="N013"/><rs ana="#m_chord">großen</rs>, dann mit sämmtlichen <rs ana="#m_chord">kleinen Dreiklängen</rs> in <rs ana="#concept_mus">chromatischer</rs> <rs ana="#concept_mus">Folge</rs> von <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_chord">des</rs></hi> bis <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_chord">h</rs></hi>, worauf er endlich
 				<lb facs="#facs_30_r1l25" n="N014"/>das Resultat seiner Untersuchung fast wie eine bisher noch unbekannt gewesene Erfindung verkündet: „Die
-				<lb facs="#facs_30_r1l26" n="N015"/><rs ana="#concept_mus">neuere Harmonielehre</rs> kann demnach mit Recht den Satz aufstellen: <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Einem <rs ana="#concept_mus"><rs ana="#concept_phy">consonirenden</rs></rs> <rs ana="#m_chord">Accorde</rs><lb facs="#facs_30_r1l27" n="N016"/>kann jeder andere <rs ana="#concept_mus"><rs ana="#concept_phy">consonirende</rs></rs> <rs ana="#m_chord">Accord</rs> folgen</hi>.” — Und was stellt die <rs ana="#concept_mus">alte Harmonielehre</rs> auf?
+				<lb facs="#facs_30_r1l26" n="N015"/><rs ana="#concept_mus">neuere Harmonielehre</rs> kann demnach mit Recht den Satz aufstellen: <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Einem <rs ana="#concept_mus"><rs ana="#concept_phy">consonirenden</rs></rs> <rs ana="#m_chord">Accorde</rs>
+				<lb facs="#facs_30_r1l27" n="N016"/>kann jeder andere <rs ana="#concept_mus"><rs ana="#concept_phy">consonirende</rs></rs> <rs ana="#m_chord">Accord</rs> folgen</hi>.” — Und was stellt die <rs ana="#concept_mus">alte Harmonielehre</rs> auf?
 				<lb facs="#facs_30_r1l28" n="N017"/>Man schlage in guten <rs ana="#concept_mus">älteren Musiktheorien</rs> nach, und man wird dann die Lehre von den <rs ana="#concept_mus">Harmoniever<pc>¬</pc>
 				<lb facs="#facs_30_r1l29" n="N018"/>bindungen</rs>, den <rs ana="#concept_mus">Harmonieenschritten</rs>, der <rs ana="#concept_mus">Modulation</rs> und was sonst hierher gehört, ausführlicher, geordneter
 				<lb facs="#facs_30_r1l30" n="N019"/>und gründlicher abgehandelt finden, als dieselbe von <persName role="author" ref="#P0041">Weitzmann</persName>, nach dem bis jetzt Dargebotenen zu ur<pc>¬</pc>
@@ -2202,7 +2248,7 @@
          <notatedMusic rend="MEI" facs="#facs_32_Music_1614528512157_1579" source="facs_32_Music_1614528512157_1579.mei"><desc>MUSIK</desc></notatedMusic>
             <p facs="#facs_32_TextRegion_1614528389118_1536">
 				<lb facs="#facs_32_line_1614528598804_1654" n="N001"/>Die mit 0 bezeichneten <rs ana="#m_note">Noten</rs> sind <rs ana="#m_note">Wechselnoten</rs> und jene mit † <rs ana="#concept_mus">Durchgänge</rs>, und insbesondere deutet
-				<lb facs="#facs_32_line_1614528606828_1661" n="N002"/>das prosodische Zeichen der Länge (—) auf <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">schwere</rs></hi> und jenes der Kürze ($$GRAPHIC) auf <rs ana="#concept_mus"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">leichte</hi> Zeit</rs>.
+				<lb facs="#facs_32_line_1614528606828_1661" n="N002"/>das prosodische Zeichen der Länge (—) auf <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">schwere</rs></hi> und jenes der Kürze (<figure facs="#facs_32_line_1614528606828_1661" rend="inline"><graphic url="graphic/facs_32_line_1614528606828_1661.png"/></figure>) auf <rs ana="#concept_mus"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">leichte</hi> Zeit</rs>.
 			</p>
             <p facs="#facs_32_TextRegion_1614528384058_1532">
 				<lb facs="#facs_32_line_1614528617546_1672" n="N001"/>Wir schenken Abänderungen allgemein eingeführter Ausdrucksweisen nicht leicht und gerne unsern
@@ -2391,7 +2437,8 @@
 				<lb facs="#facs_36_r1l10" n="N008"/>spiel vorgeführt, in welchem man einmal die <rs ana="#m_interval">Septime</rs> eines <rs ana="#m_chord">Vierklangs</rs> <rs ana="#concept_mus">vorbereitet</rs>, ein andermal dieses <rs ana="#m_interval">In<pc>¬</pc>
 				<lb facs="#facs_36_r1l11" n="N009"/>tervall</rs> der <rs ana="#m_interval">Octave</rs> nachgeschlagen findet. Die Bemerkung, daß man bisher nur dem <rs ana="#m_interval">Dominantseptimenaccorde</rs>
 				<lb facs="#facs_36_r1l12" n="N010"/>und den <rs ana="#m_chord">Vierklängen</rs> mit <rs ana="#m_interval">kleiner Quinte</rs> und <rs ana="#m_interval">kleiner</rs> oder <rs ana="#m_interval">verminderter Septime</rs> das Vorrecht freien Eintritts
-				<lb facs="#facs_36_r1l13" n="N011"/>einräumte, versetzt den <persName role="author" ref="#P0041">Verfasser</persName> in eine quasi exaltirte Expectoration: „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Die <rs ana="#concept_mus">neuere Tonkunst</rs> aber läßt<lb facs="#facs_36_r1l14" n="N012"/>auch die schärfste <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs> frei auftreten, wenn es durch den Charakter des <rs ana="#concept_mus">Tonstücks</rs><lb facs="#facs_36_r1l15" n="N013"/>bedingt wird, und wenn dieselbe eine regelmäßige <rs ana="#concept_mus">Auflösung</rs> oder <rs ana="#concept_mus">Trugfortschreitung</rs></hi>
+				<lb facs="#facs_36_r1l13" n="N011"/>einräumte, versetzt den <persName role="author" ref="#P0041">Verfasser</persName> in eine quasi exaltirte Expectoration: „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Die <rs ana="#concept_mus">neuere Tonkunst</rs> aber läßt<lb facs="#facs_36_r1l14" n="N012"/>auch die schärfste <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs> frei auftreten, wenn es durch den Charakter des <rs ana="#concept_mus">Tonstücks</rs>
+				<lb facs="#facs_36_r1l15" n="N013"/>bedingt wird, und wenn dieselbe eine regelmäßige <rs ana="#concept_mus">Auflösung</rs> oder <rs ana="#concept_mus">Trugfortschreitung</rs></hi>
 				<lb facs="#facs_36_r1l16" n="N014"/>nimmt. Denn eine Rede darf mit einer Frage beginnen, wenn nur die Antwort darauf erfolgt, und die
 				<lb facs="#facs_36_r1l17" n="N015"/><rs ana="#concept_phy">Mathematik</rs> darf den combinirtesten Lehrsatz aufstellen, wenn sie nur den Beweis dafür zu liefern im Stande
 				<lb facs="#facs_36_r1l18" n="N016"/>ist. Sollte also ein <rs ana="#concept_mus">Tonstück</rs> nicht, wie folgt, mit einem <rs ana="#m_chord">Septimenaccorde</rs>, in welchem die herbsten <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonan<pc>¬</pc>
@@ -2473,7 +2520,8 @@
 				<lb facs="#facs_37_r1l43" n="N004"/>klangs</rs> aus <rs ana="#m_chord">vermindertem Dreiklang</rs> und <rs ana="#m_interval">kleiner Septime</rs></hi> bestehend, welcher <rs ana="#m_chord">Accord</rs> in <rs ana="#m_tonality">Dur</rs>
 				<lb facs="#facs_37_r1l44" n="N005"/>auf der VII. und in <rs ana="#m_tonality">Moll</rs> auf der II. <rs ana="#concept_mus">Stufe</rs> seinen Sitz hat, ist in dieser Abhandlung von den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_chord">Septimen<pc>¬</pc>
 				<lb facs="#facs_37_r1l45" n="N006"/>accorden</rs></hi> nicht die Rede, und die <rs ana="#concept_mus">Harmonieen</rs> mit  ( und ) werden nur vorübergehend erwähnt. Am allermeisten wird man
-				<lb facs="#facs_37_r1l47" n="N008"/>sich jedoch darüber verwundern, daß <persName role="author" ref="#P0041">Weitzmann</persName>, der wohl den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_chord">großen Vierklang</rs> mit <rs ana="#m_interval">übermäßiger</rs><lb facs="#facs_37_r1l48" n="N009"/><rs ana="#m_interval">Quinte</rs></hi> oben in Fig. 45 abgefertigt, des  bestehend, dem  in seinem <title ana="#text" ref="#W0178">Lehrbuche</title> eine wirkungsvolle Zukunft in Aussicht stellt (siehe oben,
+				<lb facs="#facs_37_r1l47" n="N008"/>sich jedoch darüber verwundern, daß <persName role="author" ref="#P0041">Weitzmann</persName>, der wohl den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_chord">großen Vierklang</rs> mit <rs ana="#m_interval">übermäßiger</rs>
+				<lb facs="#facs_37_r1l48" n="N009"/><rs ana="#m_interval">Quinte</rs></hi> oben in Fig. 45 abgefertigt, des  bestehend, dem  in seinem <title ana="#text" ref="#W0178">Lehrbuche</title> eine wirkungsvolle Zukunft in Aussicht stellt (siehe oben,
 				<lb facs="#facs_37_r1l50" n="N011"/>Seite 15, die Figuren 9, 10 und 11), mit keiner Sylbe gedacht hat. Diesen köstlichen Bissen hätte man
 				<lb facs="#facs_37_r1l51" n="N012"/>doch nicht so ganz und gar unberührt lassen sollen! Und wie konnte dieser Manco von den Preisrichtern
 				<lb facs="#facs_37_r1l52" n="N013"/>unbeachtet gelassen werden!? —
@@ -2561,7 +2609,8 @@
 				<lb facs="#facs_39_line_1614536612369_3249" n="N001"/>Die <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs> sei die „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Verzögerung</rs></hi>” der <rs ana="#concept_mus"><rs ana="#concept_phy">Consonanz</rs></rs>, hat uns der <persName role="author" ref="#P0041">Verfasser</persName> bereits gesagt, wie
 				<lb facs="#facs_39_r1l16" n="N002"/>wir in Abtheilung VI mitgetheilt. Nun erklärt er aber weiter: „Es kann auf diese Weise eine Folge von
 				<lb facs="#facs_39_line_1614536622574_3258" n="N003"/><rs ana="#concept_mus"><rs ana="#concept_phy">dissonirenden</rs></rs> <rs ana="#m_chord">Accorden</rs> gehört werden, deren einer stets die <rs ana="#concept_mus">regelmäßige Verzögerung</rs> des folgenden bildet....”
-				<lb facs="#facs_39_r1l19" n="N004"/>— Hiernach kann man, und gewiß „mit Recht” auch sagen: <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Die <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs> ist die <rs ana="#concept_mus">Verzögerung</rs><lb facs="#facs_39_r1l20" n="N005"/>der <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs></hi>! Wohin sollen aber solche vertracte Explicationen führen?! —
+				<lb facs="#facs_39_r1l19" n="N004"/>— Hiernach kann man, und gewiß „mit Recht” auch sagen: <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Die <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs> ist die <rs ana="#concept_mus">Verzögerung</rs>
+				<lb facs="#facs_39_r1l20" n="N005"/>der <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs></hi>! Wohin sollen aber solche vertracte Explicationen führen?! —
 			</p>
             <p facs="#facs_39_TextRegion_1614536502363_3172">
 				<lb facs="#facs_39_r1l21" n="N001"/>Nach den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">bitteren</hi> <rs ana="#concept_mus">Dreiklangsfolgen</rs> werden im <title ana="#text" ref="#W0039">Harmoniesystem</title> einige Beispiele von Retardationen mit
@@ -2600,7 +2649,8 @@
 				<lb facs="#facs_39_line_1614536678070_3362" n="N007"/>noch in ästhetischer Beziehung. —
 			</p>
             <p facs="#facs_39_TextRegion_1614536486732_3160">
-				<lb facs="#facs_39_r1l75" n="N001"/>Was hierauf von der Führung einzelner Bestandtheile des noch einmal vorgebrachten <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_chord">verminderten</rs><lb facs="#facs_39_r1l76" n="N002"/><rs ana="#m_chord">Septimenaccordes</rs></hi> zum Zwecke der Bildung anderer <rs ana="#m_chord">Accorde</rs> und resp. der <rs ana="#concept_mus">Modulation</rs> gesagt und in
+				<lb facs="#facs_39_r1l75" n="N001"/>Was hierauf von der Führung einzelner Bestandtheile des noch einmal vorgebrachten <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_chord">verminderten</rs>
+				<lb facs="#facs_39_r1l76" n="N002"/><rs ana="#m_chord">Septimenaccordes</rs></hi> zum Zwecke der Bildung anderer <rs ana="#m_chord">Accorde</rs> und resp. der <rs ana="#concept_mus">Modulation</rs> gesagt und in
 				<lb facs="#facs_39_r1l77" n="N003"/><rs ana="#concept_mus">Notenbeispielen</rs> mitgetheilt wird, ist Allbekanntes, wie auch das über den „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Orgelpunkt</rs></hi>” Vorgebrachte. —
 			</p>
          </div>
@@ -2821,7 +2871,7 @@
 				<lb facs="#facs_44_r1l42" n="N007"/>10, <rs ana="#concept_mus">chromatische</rs> <rs ana="#m_note">Noten</rs> finden lassen; nur sind dieselben nach damaliger <rs ana="#concept_mus">Schreibweise</rs> in kleinen, <rs ana="#concept_mus">melodischen</rs>
 				<lb facs="#facs_44_r1l43" n="N008"/><rs ana="#m_note">Verzierungsnoten</rs> (<rs ana="#concept_mus">Vorschläge</rs>, <rs ana="#concept_mus">Doppelvorschläge</rs>, <rs ana="#concept_mus">Schleifer</rs> und <rs ana="#concept_mus">Doppelschläge</rs>) gedruckt. Noch präciser spricht
 				<lb facs="#facs_44_r1l44" n="N009"/>sich <persName role="author" ref="#P0143">Portmann</persName> in seinen, im Jahre <date when="1798">1798</date> erschienenen „<title ana="#text" ref="#W0176">Entdeckungen 2c.</title>”, Seite 35 aus: „Diejenigen <rs ana="#m_chord">Accorde</rs>
-				<lb facs="#facs_44_line_1614538164053_4532" n="N010"/>aber, welche nicht in dieser <rs ana="#concept_mus">Grundharmonie</rs> anzutreffen sind, wie etwa in <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi>-dur</rs> $$GRAPHIC und andere mehr,
+				<lb facs="#facs_44_line_1614538164053_4532" n="N010"/>aber, welche nicht in dieser <rs ana="#concept_mus">Grundharmonie</rs> anzutreffen sind, wie etwa in <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi>-dur</rs> <figure facs="#facs_44_line_1614538164053_4532" rend="inline"><graphic url="graphic/facs_44_line_1614538164053_4532.png"/></figure> und andere mehr,
 				<lb facs="#facs_44_line_1614538171971_4541" n="N011"/>gehören der <rs ana="#concept_mus">Harmonie</rs> auch nicht ganz an, sondern es hat der <rs ana="#concept_mus">melodische</rs> Schmuck daran Theil, welcher von
 				<lb facs="#facs_44_line_1614538178561_4549" n="N012"/>dem, was <rs ana="#concept_mus">harmonisch</rs> ist, weggedacht werden muß. Daher ist folgendes Beispiel in <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi>-dur</rs>:
 				 <figure facs="#facs_44_Graphic_1614538069220_4436">
@@ -2861,8 +2911,8 @@
 				<lb facs="#facs_45_r1l6" n="N005"/>werke</rs>, namentlich <rs ana="#concept_mus">Instrumentalstücke</rs> von bewährten Meistern, das Gegentheil, da in denselben zu Gunsten
 				<lb facs="#facs_45_r1l7" n="N006"/>der Führung oder des bequemeren <rs ana="#concept_mus">Notenlesens</rs> einzelner <rs ana="#concept_mus">Stimmen</rs>, am häufigsten bei <rs ana="#concept_mus">Ausweichungen</rs>, die
 				<lb facs="#facs_45_r1l8" n="N007"/><rs ana="#m_interval">Octave</rs> oder der <rs ana="#m_interval">Einklang</rs>, gegen andere <rs ana="#concept_mus">Stimmen</rs>, in <rs ana="#concept_mus">enharmonischen</rs> Gestaltungen (— nämlich die <rs ana="#m_interval">Octave</rs>
-				<lb facs="#facs_45_line_1614538410795_4753" n="N008"/>als eine <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">übermäßige Septime</rs></hi> $$GRAPHIC oder als eine <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">verminderte None</rs></hi> $$GRAPHIC der <rs ana="#concept_mus">Einklang</rs> als
-				<lb facs="#facs_45_line_1614538429046_4777" n="N009"/>eine <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">verminderte Secunde</rs></hi> $$GRAPHIC — <note facs="#facs_45_TextRegion_1614538259809_4636" type="foot" n="*)"><lb facs="#facs_45_r1l139" n="N001"/>Wir wollen hier nicht unerwähnt lassen, daß manche <rs ana="#concept_mus">ältere Tonlehrer</rs>, welche die <rs ana="#m_interval">Intervalle</rs>
+				<lb facs="#facs_45_line_1614538410795_4753" n="N008"/>als eine <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">übermäßige Septime</rs></hi> <figure facs="#facs_45_line_1614538410795_4753" rend="inline"><graphic url="graphic/facs_45_line_1614538410795_4753_1.png"/></figure> oder als eine <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">verminderte None</rs></hi> <figure facs="#facs_45_line_1614538410795_4753" rend="inline"><graphic url="graphic/facs_45_line_1614538410795_4753_2.png"/></figure> der <rs ana="#concept_mus">Einklang</rs> als
+				<lb facs="#facs_45_line_1614538429046_4777" n="N009"/>eine <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">verminderte Secunde</rs></hi> <figure facs="#facs_45_line_1614538429046_4777" rend="inline"><graphic url="graphic/facs_45_line_1614538429046_4777.png"/></figure> — <note facs="#facs_45_TextRegion_1614538259809_4636" type="foot" n="*)"><lb facs="#facs_45_r1l139" n="N001"/>Wir wollen hier nicht unerwähnt lassen, daß manche <rs ana="#concept_mus">ältere Tonlehrer</rs>, welche die <rs ana="#m_interval">Intervalle</rs>
 				<lb facs="#facs_45_r1l140" n="N002"/>analytisch, d. h. durch Zerlegung der <rs ana="#concept_mus">Grundharmonieen</rs>, ihrer <rs ana="#concept_mus">Umkehrungen</rs> und <rs ana="#concept_mus">Umgestaltungen</rs>
 				<lb facs="#facs_45_r1l141" n="N003"/>aufsuchen, bestimmen und benennen, <rs ana="#concept_mus">Tonverhältnisse</rs> der oben bezeichneten Art (<rs ana="#m_interval">verminderte Secunde</rs>)
 				<lb facs="#facs_45_r1l142" n="N004"/>nicht als <rs ana="#m_interval">Intervalle</rs> anerkennen. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0143">Portmann</persName></hi> in seinen oben berührten „<title ana="#text" ref="#W0176">Entdeckungen</title>” 2c., Seite 6,
@@ -3467,8 +3517,8 @@
 			</p>
          <notatedMusic rend="MEI" facs="#facs_57_Music_1614708502394_869" source="facs_57_Music_1614708502394_869.mei"><desc>MUSIK</desc></notatedMusic>
             <p facs="#facs_57_TextRegion_1614708457697_847">
-				<lb facs="#facs_57_r1l40" n="N001"/>„<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="#P0015">Mozart</persName></hi> beginnt mit dem <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">As</hi>-dur-Dreiklang</rs> (in der <rs ana="#concept_mus">Terzsextlage</rs>), diesem folgt der <rs ana="quintsextakkord"><span type="figured-bass" rend="stacked">6 5</span>-Accord</rs><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_chord">c es g</rs><lb facs="#facs_57_line_1614708586399_921" n="N002"/><rs ana="#m_chord">a</rs></hi>, der eine <rs ana="#concept_mus">regelmäßige Trugfortschreitung</rs> in den <rs ana="#m_chord">Secundenaccord</rs> nimmt und dieser löst sich so<pc>¬</pc>
-				<lb facs="#facs_57_line_1614708594662_928" n="N003"/>dann in den durch zwei <rs ana="#concept_mus">Vorhalte</rs> <rs ana="#concept_mus">verzögerten</rs> <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">G</hi>-dur-Dreiklang</rs> (in der <rs ana="#concept_mus"><rs ana="terzsextlage"><span type="figured-bass" rend="stacked">6 3</span>-Lage</rs></rs>) auf. Das <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">h</rs></hi> des <rs ana="#concept_mus">Basses</rs> bleibt
+				<lb facs="#facs_57_r1l40" n="N001"/>„<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="#P0015">Mozart</persName></hi> beginnt mit dem <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">As</hi>-dur-Dreiklang</rs> (in der <rs ana="#concept_mus">Terzsextlage</rs>), diesem folgt der <rs ana="quintsextakkord"><span type="figured-bass" rend="stacked"><span>6</span><span>5</span></span>-Accord</rs><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_chord">c es g</rs><lb facs="#facs_57_line_1614708586399_921" n="N002"/><rs ana="#m_chord">a</rs></hi>, der eine <rs ana="#concept_mus">regelmäßige Trugfortschreitung</rs> in den <rs ana="#m_chord">Secundenaccord</rs> nimmt und dieser löst sich so<pc>¬</pc>
+				<lb facs="#facs_57_line_1614708594662_928" n="N003"/>dann in den durch zwei <rs ana="#concept_mus">Vorhalte</rs> <rs ana="#concept_mus">verzögerten</rs> <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">G</hi>-dur-Dreiklang</rs> (in der <rs ana="#concept_mus"><rs ana="terzsextlage"><span type="figured-bass" rend="stacked"><span>6</span><span>3</span></span>-Lage</rs></rs>) auf. Das <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">h</rs></hi> des <rs ana="#concept_mus">Basses</rs> bleibt
 				<lb facs="#facs_57_line_1614708599642_934" n="N004"/>nun als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_note">Halteton</rs></hi> liegen, über welchem der <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>-moll-Dreiklang</rs> und sodann der <rs ana="#m_chord">verminderte Dreiklang</rs><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_chord">fis a</rs><lb facs="#facs_57_r1l47" n="N005"/><rs ana="#m_chord">c</rs></hi> erscheint, der endlich regelmäßig in den <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">G</hi>-dur-Dreiklang</rs> übergeht:
 			</p>
          <notatedMusic rend="MEI" facs="#facs_57_Music_1614708517935_882" source="facs_57_Music_1614708517935_882.mei"><desc>MUSIK</desc></notatedMusic>
@@ -3603,7 +3653,8 @@
 				<lb facs="#facs_60_r1l54" n="N005"/>ändern wollen, und selbst tüchtige Meister der <date>damaligen Zeit</date> haben den Kopf gar gewaltig darüber
 				<lb facs="#facs_60_r1l55" n="N006"/>geschüttelt.” — Eine „<rs ana="#concept_mus"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">theoretische</hi> Erklärung</rs>” ist nun freilich Vorstehendes nicht; dagegen ist die
 				<lb facs="#facs_60_r1l56" n="N007"/>Bemerkung, daß selbst „tüchtige Meister” den Kopf „geschüttelt” von großer Bedeutung. Und
-				<lb facs="#facs_60_r1l57" n="N008"/>nicht nur zur „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><date>damaligen Zeit</date></hi>” gab es „tüchtige Meister”, sondern auch in der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><date>gegen<pc>¬</pc></date><lb facs="#facs_60_r1l58" n="N009"/><date>wärtigen</date></hi> leben noch Kunstkenner von anerkanntem Rufe, welche zu den begeistertsten Verehrern
+				<lb facs="#facs_60_r1l57" n="N008"/>nicht nur zur „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><date>damaligen Zeit</date></hi>” gab es „tüchtige Meister”, sondern auch in der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><date>gegen<pc>¬</pc>
+				<lb facs="#facs_60_r1l58" n="N009"/>wärtigen</date></hi> leben noch Kunstkenner von anerkanntem Rufe, welche zu den begeistertsten Verehrern
 				<lb facs="#facs_60_r1l59" n="N010"/>dieses <persName role="composer" ref="#P0016">Tonmeisters</persName> gehören, aber dennoch diese <persName role="composer" ref="#P0016">Beethoven'sche</persName><rs ana="#concept_mus">Stelle</rs>, gleichsam als einen Pendant zu
 				<lb facs="#facs_60_r1l60" n="N011"/><persName role="author" ref="#P0153"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oulibicheff</hi>'s</persName> „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Chimäre</hi>”, mit „<hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Marotte</hi>” bezeichnen. —</note>. Was würde man z. B. dazu
 				<lb facs="#facs_60_r1l8" n="N007"/>sagen (um noch einmal die Plastik mit der <rs ana="#concept_mus">Musik</rs> in Vergleichung zu bringen), wenn an einem sonst meister<pc>¬</pc>

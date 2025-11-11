@@ -1024,7 +1024,7 @@
 				<lb facs="#facs_12_r1l14" n="N014"/><rs ana="#m_interval">Quinte</rs>, desgleichen die Versetzungen dieser Bestandtheile zu
 				<lb facs="#facs_12_r1l15" n="N015"/><rs ana="#m_interval">Prime</rs>, <rs ana="#m_interval">Terz</rs> und <rs ana="#m_interval">Sexte</rs>, wie auch zu <rs ana="#m_interval">Prime</rs>, <rs ana="#m_interval">Quarte</rs> und <rs ana="#m_interval">Sexte</rs>,
 				<lb facs="#facs_12_r1l16" n="N016"/>zu sogenannten <rs ana="#concept_mus"><rs ana="#concept_phy">consonirenden</rs></rs> <rs ana="#m_chord">Dreiklängen</rs>, wie aus dem Beispiel 1
-				<lb facs="#facs_12_r1l18" n="N017"/>zu ersehen ist; $$MUSIC
+				<lb facs="#facs_12_r1l18" n="N017"/>zu ersehen ist; <figure facs="#facs_12_r1l18" rend="inline" class="musicplaceholder"><graphic url="music/facs_12_r1l18.png"/></figure>
 				<lb facs="#facs_12_r1l27" n="N018"/>dann die <rs ana="#m_interval">Prime</rs>, <rs ana="#m_interval">Terz</rs> und <rs ana="#m_interval">Quinte</rs> und sogenannte <rs ana="#m_interval">kleine Sep<pc>¬</pc>
 				<lb facs="#facs_12_r1l28" n="N019"/>time</rs> (das ist die <rs ana="#concept_mus">harmonische</rs>, welche in der <rs ana="#concept_mus">aufsteigenden</rs> <rs ana="#m_tonality">Dur<pc>¬</pc>
 				<lb facs="#facs_12_r1l29" n="N020"/>tonleiter</rs> einen <rs ana="#m_interval">halben Ton</rs> tiefer, als die wirkliche oder <rs ana="#concept_mus">melo<pc>¬</pc>
@@ -1137,7 +1137,7 @@
 				<lb facs="#facs_15_r3l20" n="N016"/>klang</rs>), ein anderer <rs ana="#m_chord">Accord</rs> <rs ana="#m_chord">e g b</rs>, bestehend aus <rs ana="#m_interval">kleiner Terz</rs> und
 				<lb facs="#facs_15_r3l21" n="N017"/>falscher <rs ana="#m_interval">Quinte</rs> (<rs ana="#m_chord">verminderter Dreiklang</rs>), nicht als gleichartiger
 				<lb facs="#facs_15_r3l22" n="N018"/>(<rs ana="#concept_mus">dreistimmiger</rs> <rs ana="#concept_mus"><rs ana="#concept_phy">consonirender</rs></rs>) <rs ana="#concept_mus">Zusammenklang</rs> entgegen gestellt
-				<lb facs="#facs_15_r3l23" n="N019"/>werden. So im Beispiel 3. $$MUSIC
+				<lb facs="#facs_15_r3l23" n="N019"/>werden. So im Beispiel 3. <figure facs="#facs_15_r3l23" rend="inline" class="musicplaceholder"><graphic url="music/facs_15_r3l23.png"/></figure>
 			</p>
             <p facs="#facs_15_TextRegion_1632817092744_608 #facs_16_TextRegion_1632818538405_696">
 				<lb facs="#facs_15_r3l27" n="N001"/>Der <rs ana="#m_chord">Accord</rs> <rs ana="#m_chord">e g b</rs> enthält die Bestandtheile des <rs ana="#m_chord">Accordes</rs>
@@ -1266,11 +1266,11 @@
 				<lb facs="#facs_19_r1l9" n="N008"/>lich weit auseinander sind. Die in dem <rs ana="#concept_mus">Tongebilde</rs> befindlichen
 				<lb facs="#facs_19_r1l10" n="N009"/><rs ana="#m_chord">Accorde</rs>, deren Bestandtheile alle in verschiedenen <rs ana="#m_interval">Octaven</rs> liegen,
 				<lb facs="#facs_19_r1l11" n="N010"/>wie z. B.
-				<lb facs="#facs_19_r1l13" n="N011"/>$$MUSIC sind schwerer als diejenigen zu
+				<lb facs="#facs_19_r1l13" n="N011"/><figure facs="#facs_19_r1l13" class="musicplaceholder"><graphic url="music/facs_19_r1l13.png"/></figure> sind schwerer als diejenigen zu
 				<lb facs="#facs_19_r1l14" n="N012"/>erfassen, deren Bestandtheile so
 				<lb facs="#facs_19_r1l15" n="N013"/>combinirt sind, daß sie nicht ein<pc>¬</pc>
 				<lb facs="#facs_19_r1l16" n="N014"/>mal den Raum einer <rs ana="#m_interval">Octave</rs> ein<pc>¬</pc>
-				<lb facs="#facs_19_r1l17" n="N015"/>nehmen, wie z. B. $$MUSIC
+				<lb facs="#facs_19_r1l17" n="N015"/>nehmen, wie z. B. <figure facs="#facs_19_r1l17" class="musicplaceholder"><graphic url="music/facs_19_r1l17.png"/></figure>
 			</p>
             <p facs="#facs_19_TextRegion_1632819613713_988">
 				<lb facs="#facs_19_r1l19" n="N001"/>Gestützt auf das Voranstehende gelangen wir hier zu der Ein<pc>¬</pc>

@@ -1602,8 +1602,7 @@
 	</facsimile>
    <text xml:space="preserve">
    	<front>
-   		<pb facs="#facs_1" n=""/>
-   			<titlePage type="main">
+   		<titlePage type="main">
 				<docTitle>
            	 	<titlePart type="main" ana="#text" corresp="#W0021"><lb facs="#facs_1_r1l3" n="N001"/><hi rend="fontSize:0.0; kerning:0; bold:true;">DIE LEHRE</hi>
 						<lb facs="#facs_1_r1l4" n="N002"/>VON DEN
@@ -1625,6 +1624,72 @@
 					<lb facs="#facs_1_r1l16" n="N013"/><docDate when="1879">1879</docDate>.
 				</docImprint>
 			</titlePage>
+   		<div type="contents"><list n="1"><item>
+				ERSTER ABSCHNTTT.
+				AKUSTISCHE VORFRAGEN.
+			<list n="2"><item>
+				§ 1. Tonstärke und Tonhöhe.
+			</item><item>
+				§ 2. Klangfarbe.
+			</item><item>
+				§ 3. Schwebungen und Combinationstöne.
+			</item><item>
+				§ 4. Das Hören.
+			</item><item>
+				§ 5. Erregbarkeit der Nachbarnerven.
+			</item><item>
+				§ 6. Subjective Untertöne.
+			</item><item>
+				§. 7. Die Tonreihe.
+			</item></list></item><item>
+				ZWEITER ABSCHNITT.
+				CONSONANZ UND DISSONANZ
+			<list n="2"><item>
+				§ 8. Harmonische Intervalle.
+			</item><item>
+				§. 9. Helmholtz und v. Oettingen.
+			</item><item>
+				§ 10. Kritische Erwägungen.
+			</item><item>
+				§ 11. Resultate. Verwandtschaft und Consonanz.
+			</item><item>
+				§ 12. Die Melodieschritte.
+			</item><item>
+				§ 13. Die Dissonanz. Allgemeines.
+			</item><item>
+				§ 14. Die Auflösung der Dissonanz.
+			</item><item>
+				§ 15. Zweiseitige oder freie Auflösung.
+				(Echte Dissonanz.)
+			</item><item>
+				§ 16. Einseitige oder gebundene Auflösung.
+				(Vorhaltsdissonanz.)
+			</item></list></item><item>
+				DRITTER ABSCHNITT.
+				ACCORDLEHRE.
+			<list n="2"><item>
+				§ 17. Die consonanten Dreiklänge.
+			</item><item>
+				§ 18. Der musikalische Klang als Vorbild des Accordes.
+			</item><item>
+				§ 19. Verwandtschaft der Dreiklänge.
+			</item><item>
+				§ 20. Folgen consonanter Accorde.
+			</item><item>
+				§ 21. Stimmführung.
+			</item><item>
+				§ 22. Mehrstimmige Dissonanzen.
+			</item><item>
+				§ 23. Dissonanzen isolirter, indirect verwandter Klänge.
+			</item><item>
+				§ 24. Dissonanzen verbundener, direct verwandter Klänge.
+			</item><item>
+				§ 25. Zusätze.
+			</item></list></item><item>
+				RÜCKBLICK.
+			</item></list></div>
+   		<pb facs="#facs_1" n=""/>
+   			
          	<pb facs="#facs_2" n=""/>
          	<pb facs="#facs_3" n=""/>
    		<div type="preface">
@@ -1686,7 +1751,7 @@
 					<lb facs="#facs_4_r1l27" n="N001"/>Dagegen zeigt sich zwischen uns eine doppelte principielle
 					<lb facs="#facs_4_r1l28" n="N002"/>Differenz: <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0017">Riemann</persName></hi> giebt erstens die natürlichen <rs ana="#concept_mus">Tonverhältnisse</rs>
 					<lb facs="#facs_4_r1l29" n="N003"/>auf und legt seiner Theorie die <rs ana="#concept_mus">gleichschwebende Temperatur</rs> zum
-					<lb facs="#facs_4_r1l30" n="N004"/>Grunde, zweitens hält er streng an dem <rs ana="#concept_mus">Dualismus</rs><persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi>'s</persName>
+					<lb facs="#facs_4_r1l30" n="N004"/>Grunde, zweitens hält er streng an dem <rs ana="#concept_mus">Dualismus</rs> <persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi>'s</persName>
 					<lb facs="#facs_4_r1l31" n="N005"/>fest und hegt optimistische Ansichten über die Zukunft desselben.
 					<lb facs="#facs_4_r1l32" n="N006"/>Für die <rs ana="#concept_mus">natürliche Stimmung</rs> als Grundlage der <rs ana="#concept_mus">Harmonielehre</rs>,
 					<lb facs="#facs_4_r1l33" n="N007"/>findet der Leser im Folgenden schwerwiegende Gründe an ver<pc>¬</pc>
@@ -1950,7 +2015,8 @@
 				<lb facs="#facs_13_r1l5" n="N004"/>schritt</rs> bestimmte</hi>, und zwar im <rs ana="#concept_phy">Verhältnisse</rs>
 				<lb facs="#facs_13_line_1626024190900_838" n="N005"/> <formula notation="tex">$334,125:330 = \frac{81}{64}:\frac{80}{64}=81:80$</formula>, welches ein
 				<lb facs="#facs_13_r1l10" n="N006"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus"><rs ana="#concept_phy">syntonisches</rs></rs> oder <rs ana="#concept_mus"><rs ana="#concept_phy">didymisches</rs></rs> <rs ana="#concept_mus"><rs ana="#concept_phy">Komma</rs></rs></hi> (auch <rs ana="#concept_mus"><rs ana="#concept_phy">Komma</rs></rs>
-				<lb facs="#facs_13_r1l11" n="N007"/>schlechthin) genannt wird. Jene heisst die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">pythagoräische</rs><lb facs="#facs_13_r1l13" n="N008"/><rs ana="#m_interval">Terz</rs></hi> (weil  die <rs ana="#concept_mus">musikalischen Tonverhältnisse</rs> aus<pc>¬</pc>
+				<lb facs="#facs_13_r1l11" n="N007"/>schlechthin) genannt wird. Jene heisst die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">pythagoräische</rs>
+				<lb facs="#facs_13_r1l13" n="N008"/><rs ana="#m_interval">Terz</rs></hi> (weil  die <rs ana="#concept_mus">musikalischen Tonverhältnisse</rs> aus<pc>¬</pc>
 				<lb facs="#facs_13_r1l14" n="N009"/>schliesslich durch <rs ana="#m_interval">Quinten-</rs> und <rs ana="#m_interval">Octavenschritte</rs> bestimmt wissen
 				<lb facs="#facs_13_r1l15" n="N010"/>wollte), diese die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">natürliche</rs></hi> (weil sie durch Zerlegung der <rs ana="#concept_mus">Saite</rs>
 				<lb facs="#facs_13_r1l16" n="N011"/>in <rs ana="#concept_phy">aliquote Theile</rs> entsteht und in der <rs ana="#concept_phy">Reihe</rs> der <rs ana="#concept_phy">natürlichen</rs> <rs ana="#concept_phy">Ober<pc>¬</pc>
@@ -1972,7 +2038,8 @@
 				<lb facs="#facs_13_r1l43" n="N006"/>verschiedenen Buchstaben: <rs ana="#m_interval"><hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi>—<hi rend="italic:true; fontSize:0.0; kerning:0;">E</hi></rs> oder <rs ana="#m_interval"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>—<hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi></rs> wäre also eine <rs ana="#concept_mus">pytha<pc>¬</pc>
 				<lb facs="#facs_13_r1l44" n="N007"/>goräische</rs> grosse, <rs ana="#m_interval"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>—<hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi></rs> oder <rs ana="#m_interval"><hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi>—<hi rend="italic:true; fontSize:0.0; kerning:0;">Es</hi></rs> eine ebensolche <rs ana="#m_interval">kleine Terz</rs>,
 				<lb facs="#facs_13_r1l45" n="N008"/><rs ana="#m_interval"><hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi>—<hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi></rs>, <rs ana="#m_interval"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>—<hi rend="italic:true; fontSize:0.0; kerning:0;">E</hi></rs>, <rs ana="#m_interval"><hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi>—<hi rend="italic:true; fontSize:0.0; kerning:0;">es</hi></rs>, <rs ana="#m_interval"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>—<hi rend="italic:true; fontSize:0.0; kerning:0;">Es</hi></rs> wären <rs ana="#concept_mus">natürliche</rs> <rs ana="#m_interval">Intervalle</rs>. <persName role="author" ref="#P0018">A. v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oet<pc>¬</pc></hi></persName>
-				<lb facs="#facs_13_r1l46" n="N009"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0018">tingen</persName></hi> <note facs="#facs_13_TextRegion_1626024010200_737" type="foot" n="**)"><lb facs="#facs_13_line_1626024289218_936" n="N001"/><title ana="#text" ref="#W0017">Harmoniesystem in dualer Entwickelung</title>. Von Dr. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0018">Arthur von</persName><lb facs="#facs_13_r1l56" n="N002"/><persName role="author" ref="#P0018">Oettingen</persName></hi>. <placeName ref="#L0009">Dorpat</placeName> und <placeName ref="#L0022">Leipzig</placeName>, <date when="1866">1866</date>.</note> schlug die bequemere Bezeichnung der <rs ana="#concept_phy"><rs ana="#concept_mus">Kommaunter<pc>¬</pc>
+				<lb facs="#facs_13_r1l46" n="N009"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0018">tingen</persName></hi> <note facs="#facs_13_TextRegion_1626024010200_737" type="foot" n="**)"><lb facs="#facs_13_line_1626024289218_936" n="N001"/><title ana="#text" ref="#W0017">Harmoniesystem in dualer Entwickelung</title>. Von Dr. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0018">Arthur von</persName>
+				<lb facs="#facs_13_r1l56" n="N002"/><persName role="author" ref="#P0018">Oettingen</persName></hi>. <placeName ref="#L0009">Dorpat</placeName> und <placeName ref="#L0022">Leipzig</placeName>, <date when="1866">1866</date>.</note> schlug die bequemere Bezeichnung der <rs ana="#concept_phy"><rs ana="#concept_mus">Kommaunter<pc>¬</pc>
 				<lb facs="#facs_13_r1l47" n="N010"/>schiede</rs></rs> durch horizontale, über oder unter dem Buchstaben anzu<pc>¬</pc>
 				<lb facs="#facs_13_r1l48" n="N011"/>bringende (von <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0007">Hauptmann</persName></hi> nur für ein <rs ana="#concept_phy"><rs ana="#concept_mus">Doppelkomma</rs></rs> ange<pc>¬</pc>
 				<lb facs="#facs_13_r1l49" n="N012"/>wandte) Striche vor und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0001">Helmholtz</persName></hi> stellte diese Schrift in der
@@ -2046,7 +2113,7 @@
 				<lb facs="#facs_15_r1l12" n="N011"/>im <rs ana="#concept_mus">Chorgesange</rs>, so dass es bereits auch an Vorschlägen für die
 				<lb facs="#facs_15_r1l13" n="N012"/>Einführung des <rs ana="#concept_mus"><rs ana="#concept_phy">Komma</rs></rs> in die übliche <rs ana="#concept_mus">Notenschrift</rs> nicht mangelt. <note facs="#facs_15_TextRegion_1626024573650_1183" type="foot" n="*)"><lb facs="#facs_15_r1l59" n="N001"/>S. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0001">Helmholtz</persName></hi>. <title ana="#text" ref="#W0001">S. 631 ff</title>.</note>
 				<lb facs="#facs_15_r1l14" n="N013"/><persName role="author" ref="#P0111">A. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Ellis</hi></persName> zeigt z. B. die <rs ana="#concept_mus">Erhöhung</rs> eines <rs ana="#m_note">Tones</rs> um ein <rs ana="#concept_mus"><rs ana="#concept_phy">Komma</rs></rs>
-				<lb facs="#facs_15_r1l15" n="N014"/>durch das Zeichen $$GRAPHIC, die <rs ana="#concept_mus">Erniedrigung</rs> durch $$GRAPHIC an; die <rs ana="#concept_mus">chro<pc>¬</pc>
+				<lb facs="#facs_15_r1l15" n="N014"/>durch das Zeichen <figure facs="#facs_15_r1l15_1" rend="inline"><graphic url="graphic/facs_15_r1l15_1.png"/></figure>, die <rs ana="#concept_mus">Erniedrigung</rs> durch <figure facs="#facs_15_r1l15_2" rend="inline"><graphic url="graphic/#facs_15_r1l15_2.png"/></figure> an; die <rs ana="#concept_mus">chro<pc>¬</pc>
 				<lb facs="#facs_15_r1l16" n="N015"/>matischen</rs> <rs ana="#concept_mus">Versetzungszeichen</rs> werden dadurch nicht berührt. Es
 				<lb facs="#facs_15_r1l17" n="N016"/>ist also:
             	<notatedMusic rend="MEI" facs="#facs_15_Music_1626024641346_1218" source="facs_15_Music_1626024641346_1218.mei"><desc>MUSIK</desc></notatedMusic>
@@ -2069,7 +2136,8 @@
 				<lb facs="#facs_15_r1l52" n="N013"/>bekannt vorausgesetzt werden. Der Verlauf unserer Untersuchungen
 				<lb facs="#facs_15_r1l53" n="N014"/>wird uns wiederholt genügende Nachweise liefern, dass <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">eine</hi>
             	<pb facs="#facs_16" n="8"/>
-            	<lb facs="#facs_16_r1l1" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">exacte Theorie der <rs ana="#concept_mus">musikalischen Tonverhältnisse</rs><lb facs="#facs_16_r1l2" n="N002"/>nur mit der <rs ana="#concept_mus">reinen</rs> und durchaus nicht mit der <rs ana="#concept_mus">tem<pc>¬</pc>
+            	<lb facs="#facs_16_r1l1" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">exacte Theorie der <rs ana="#concept_mus">musikalischen Tonverhältnisse</rs>
+				<lb facs="#facs_16_r1l2" n="N002"/>nur mit der <rs ana="#concept_mus">reinen</rs> und durchaus nicht mit der <rs ana="#concept_mus">tem<pc>¬</pc>
 				<lb facs="#facs_16_r1l3" n="N003"/>perirten Stimmung</rs> zu schaffen haben kann</hi>.
             </p>
          </div>
@@ -2091,9 +2159,10 @@
 				<lb facs="#facs_16_r1l17" n="N007"/>benen Bewegung</hi>.” Eine „einfache” <rs ana="#concept_phy">Schwingung</rs> nennt man
 				<lb facs="#facs_16_r1l18" n="N008"/>eine solche, deren Bewegung dem an einem <rs ana="#concept_phy">schwingenden</rs> Pendel
 				<lb facs="#facs_16_r1l19" n="N009"/>beobachteten Gesetze entspricht; sie heisst daher auch „<rs ana="#concept_phy">Pendel<pc>¬</pc>
-				<lb facs="#facs_16_r1l20" n="N010"/>schwingung</rs>” Der <rs ana="#concept_phy">Physiker</rs><persName role="author" ref="#P0114">G. S. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Ohm</hi></persName> hat nun auch die Regeln
+				<lb facs="#facs_16_r1l20" n="N010"/>schwingung</rs>” Der <rs ana="#concept_phy">Physiker</rs> <persName role="author" ref="#P0114">G. S. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Ohm</hi></persName> hat nun auch die Regeln
 				<lb facs="#facs_16_r1l21" n="N011"/>erforscht, nach denen unser <rs ana="#concept_phy">Ohr</rs> die <rs ana="#concept_phy"><rs ana="#concept_mus">zusammengesetzten Klänge</rs></rs> zer<pc>¬</pc>
-				<lb facs="#facs_16_r1l22" n="N012"/>legt: <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Nur eine einfache, <rs ana="#concept_phy">pendelartige</rs> <rs ana="#concept_phy">Luftschwingung</rs><lb facs="#facs_16_r1l23" n="N013"/>bringt im <rs ana="#concept_phy">Ohre</rs> die Empfindung eines einzigen und<lb facs="#facs_16_r1l24" n="N014"/><rs ana="#concept_phy">einfachen</rs> <rs ana="#m_note">Tones</rs> hervor</hi>. „.” <note facs="#facs_16_TextRegion_1626092359787_23" type="foot" n="*)"><lb facs="#facs_16_r1l43" n="N001"/>Vgl. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0001">Helmholtz</persName></hi><title ana="#text" ref="#W0001">a. a. O.</title> S. 54, 55 ff.</note>
+				<lb facs="#facs_16_r1l22" n="N012"/>legt: <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Nur eine einfache, <rs ana="#concept_phy">pendelartige</rs> <rs ana="#concept_phy">Luftschwingung</rs>
+				<lb facs="#facs_16_r1l23" n="N013"/>bringt im <rs ana="#concept_phy">Ohre</rs> die Empfindung eines einzigen und<lb facs="#facs_16_r1l24" n="N014"/><rs ana="#concept_phy">einfachen</rs> <rs ana="#m_note">Tones</rs> hervor</hi>. „.” <note facs="#facs_16_TextRegion_1626092359787_23" type="foot" n="*)"><lb facs="#facs_16_r1l43" n="N001"/>Vgl. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0001">Helmholtz</persName></hi><title ana="#text" ref="#W0001">a. a. O.</title> S. 54, 55 ff.</note>
 			</p>
             <p facs="#facs_16_TextRegion_1626092366450_27 #facs_17_TextRegion_1626092576806_110">
 				<lb facs="#facs_16_r1l33" n="N001"/>Die Bedeutung dieser Sätze für die <rs ana="#concept_phy">Akustik</rs> liegt zu Tage.
@@ -2203,7 +2272,8 @@
 				<lb facs="#facs_18_r1l43" n="N020"/>viel leichter, als das erstere, der Sinn für <rs ana="#concept_mus">Melodie</rs> entwickelt sich
 				<lb facs="#facs_18_r1l44" n="N021"/>daher früher, als jener für <rs ana="#concept_mus">Harmonie</rs>. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Beim Anhören eines<lb facs="#facs_18_r1l45" n="N022"/><rs ana="#concept_mus">vielstimmigen</rs> <rs ana="#concept_mus">Tonsatzes</rs> ist es zunächst nur unser<lb facs="#facs_18_r1l46" n="N023"/>Vermögen, den jeweiligen <rs ana="#concept_mus">Gesammtklang</rs> in seine</hi>            
             	<pb facs="#facs_19" n="11"/>
-            	<lb facs="#facs_19_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_phy">Componenten</rs> zu zerlegen, was den <rs ana="#concept_mus">musikalischen</rs><lb facs="#facs_19_r1l3" n="N002"/><rs ana="#concept_mus">Kunstgenuss</rs> ermöglicht</hi>. Dem <rs ana="#concept_phy">Ohr</rs> ist dabei eine ebensolche
+            	<lb facs="#facs_19_r1l2" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_phy">Componenten</rs> zu zerlegen, was den <rs ana="#concept_mus">musikalischen</rs>
+				<lb facs="#facs_19_r1l3" n="N002"/><rs ana="#concept_mus">Kunstgenuss</rs> ermöglicht</hi>. Dem <rs ana="#concept_phy">Ohr</rs> ist dabei eine ebensolche
 				<lb facs="#facs_19_r1l4" n="N003"/>Aufgabe gestellt, wie in dem früher erwähnten Beispiele, nur dass
 				<lb facs="#facs_19_r1l5" n="N004"/>sie hier, der grösseren Verwandtschaft der gleichzeitigen <rs ana="#concept_phy">Eindrücke</rs>
 				<lb facs="#facs_19_r1l6" n="N005"/>wegen, schwerer zu lösen ist als bei den <rs ana="#concept_phy">Geräuschen</rs>, die unter
@@ -2350,7 +2420,8 @@
 				<lb facs="#facs_22_r1l3" n="N001"/>Die objectiven Erscheinungen, welche beim gleichzeitigen Zu<pc>¬</pc>
 				<lb facs="#facs_22_r1l4" n="N002"/>sammentreffen mehrerer verschiedenen <rs ana="#m_note">Tönen</rs> entsprechender <rs ana="#concept_phy">Wellen<pc>¬</pc>
 				<lb facs="#facs_22_r1l5" n="N003"/>systeme</rs> in einer und derselben <rs ana="#concept_phy">Luftmasse</rs> entstehen, sind bekannt<pc>¬</pc>
-				<lb facs="#facs_22_r1l6" n="N004"/>lich: erstens die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_phy">Schwebungen</rs> oder <rs ana="#concept_phy">Stösse</rs> als <rs ana="#concept_phy">dynamische</rs><lb facs="#facs_22_r1l7" n="N005"/><rs ana="#concept_phy">Schwankungen</rs> der gegebenen <rs ana="#m_note">Töne</rs></hi> und zweitens die
+				<lb facs="#facs_22_r1l6" n="N004"/>lich: erstens die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_phy">Schwebungen</rs> oder <rs ana="#concept_phy">Stösse</rs> als <rs ana="#concept_phy">dynamische</rs>
+				<lb facs="#facs_22_r1l7" n="N005"/><rs ana="#concept_phy">Schwankungen</rs> der gegebenen <rs ana="#m_note">Töne</rs></hi> und zweitens die
 				<lb facs="#facs_22_r1l8" n="N006"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_phy">Combinationstöne</rs></hi> als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">durch das Zusammenwirken der<lb facs="#facs_22_r1l9" n="N007"/>gegebenen hervorgebrachte qualitativ neue <rs ana="#m_note">Töne</rs></hi>.
 				<lb facs="#facs_22_r1l10" n="N008"/>Für unsere Zwecke wäre es überflüssig, auf die Entstehung dieser
 				<lb facs="#facs_22_r1l11" n="N009"/>beiden Erscheinungen einzugehen; es wird genügen (nach <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0001">Helm<pc>¬</pc>
@@ -2422,7 +2493,8 @@
 			</p>
             <p facs="#facs_24_TextRegion_1626093337173_822">
 				<lb facs="#facs_24_r1l47" n="N001"/>Interessant ist hier die Wahrnehmung, dass sich <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">die <rs ana="#concept_phy">Dif<pc>¬</pc>
-				<lb facs="#facs_24_r1l48" n="N002"/>ferenztöne</rs> stets zur ganzen <rs ana="#concept_phy">Reihe</rs> von <rs ana="#concept_phy">harmonischen</rs><lb facs="#facs_24_r1l49" n="N003"/><rs ana="#concept_phy">Partialtönen</rs> ergänzen</hi>, die hinauf bis zum höheren der
+				<lb facs="#facs_24_r1l48" n="N002"/>ferenztöne</rs> stets zur ganzen <rs ana="#concept_phy">Reihe</rs> von <rs ana="#concept_phy">harmonischen</rs>
+				<lb facs="#facs_24_r1l49" n="N003"/><rs ana="#concept_phy">Partialtönen</rs> ergänzen</hi>, die hinauf bis zum höheren der
 				<lb facs="#facs_24_r1l50" n="N004"/>beiden primären <rs ana="#m_note">Töne</rs> reicht. Natürlich sind die <rs ana="#concept_phy">Differenztöne</rs>
 				<lb facs="#facs_24_r1l51" n="N005"/>erster Ordnung die stärksten; man meint in der Regel diese, wenn
 				<lb facs="#facs_24_r1l52" n="N006"/>man kurzweg von <rs ana="#concept_phy">Combinationstönen</rs> spricht.
@@ -2434,7 +2506,8 @@
 				<notatedMusic rend="MEI" facs="#facs_24_Music_1626093380327_851" source="facs_24_Music_1626093380327_851.mei"><desc>MUSIK</desc></notatedMusic>
        	 	 <pb facs="#facs_25" n="17"/>
          		<notatedMusic rend="MEI" facs="#facs_25_Music_1626093484231_918" source="facs_25_Music_1626093484231_918.mei"><desc>MUSIK</desc></notatedMusic>
-            	<lb facs="#facs_25_line_1626093535178_948" n="N001"/>Bei den ersten sechs <rs ana="#m_chord">Duraccorden</rs> finden wir <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">nur <rs ana="#concept_mus">harmonische</rs><lb facs="#facs_25_r1l75" n="N002"/><rs ana="#concept_phy">Combinationstöne</rs></hi>;  nennt sie die  des <rs ana="#concept_mus">dreistimmigen</rs> <rs ana="#m_chord">Duraccordes</rs>, die übrigen aber
+            	<lb facs="#facs_25_line_1626093535178_948" n="N001"/>Bei den ersten sechs <rs ana="#m_chord">Duraccorden</rs> finden wir <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">nur <rs ana="#concept_mus">harmonische</rs>
+				<lb facs="#facs_25_r1l75" n="N002"/><rs ana="#concept_phy">Combinationstöne</rs></hi>;  nennt sie die  des <rs ana="#concept_mus">dreistimmigen</rs> <rs ana="#m_chord">Duraccordes</rs>, die übrigen aber
 				<lb facs="#facs_25_r1l77" n="N004"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">unvollkommeneren</hi>. Unter den <rs ana="#concept_phy">Combinationstönen</rs> der
 				<lb facs="#facs_25_r1l78" n="N005"/><rs ana="#m_chord">Mollaccorde</rs> kommen immer auch solche vor, die in der <rs ana="#concept_mus">Harmonie</rs>
 				<lb facs="#facs_25_r1l79" n="N006"/>des betreffenden <rs ana="#m_chord">Dreiklangs</rs> nicht unmittelbar gegeben sind; diese
@@ -2502,10 +2575,12 @@
 				<lb facs="#facs_26_r1l34" n="N033"/>treffenden <rs ana="#concept_phy">Nervenfaser</rs> entsprechende <rs ana="#concept_phy">Tonempfindung</rs> vermitteln, da
 				<lb facs="#facs_26_r1l35" n="N034"/>es ja stets mit einer und derselben <rs ana="#concept_phy">Faser</rs> in Verbindung steht und
 				<lb facs="#facs_26_r1l36" n="N035"/>die specifische <rs ana="#concept_phy">Erregbarkeit</rs> der einzelnen <rs ana="#concept_phy">Fasern</rs> füglich nicht be<pc>¬</pc>
-				<lb facs="#facs_26_r1l37" n="N036"/>zweifelt werden kann. Mit anderen Worten: <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">alle Eindrücke,<lb facs="#facs_26_r1l38" n="N037"/>die durch ein wie immer geartetes <rs ana="#concept_phy">Mitschwingen</rs><lb facs="#facs_26_r1l39" n="N038"/>Eines und desselben <rs ana="#concept_phy">Theilchens</rs></hi> (also z. B. Einer und
+				<lb facs="#facs_26_r1l37" n="N036"/>zweifelt werden kann. Mit anderen Worten: <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">alle Eindrücke,<lb facs="#facs_26_r1l38" n="N037"/>die durch ein wie immer geartetes <rs ana="#concept_phy">Mitschwingen</rs>
+				<lb facs="#facs_26_r1l39" n="N038"/>Eines und desselben <rs ana="#concept_phy">Theilchens</rs></hi> (also z. B. Einer und
 				<lb facs="#facs_26_r1l40" n="N039"/>derselben <rs ana="#concept_phy">Faser</rs> der <rs ana="#concept_phy">Membrana basilaris</rs>) <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">hervorgerufen wer<pc>¬</pc>
 				<lb facs="#facs_26_r1l41" n="N040"/>den, können sich nur durch ihre <rs ana="#concept_phy">Stärke</rs> oder <rs ana="#concept_phy">Quan<pc>¬</pc>
-				<lb facs="#facs_26_r1l42" n="N041"/>tität</rs>, nicht aber durch ihren Inhalt oder ihre <rs ana="#concept_phy">Qualität</rs><lb facs="#facs_26_r1l43" n="N042"/>unterscheiden</hi>. <note facs="#facs_26_TextRegion_1626093576504_993 #facs_27_TextRegion_1626093659438_1072" type="foot" n="*)"><lb facs="#facs_26_r1l44" n="N001"/>*) Bekanntlich hat bereits <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0102">Herbart</persName></hi> (wie vor ihm auch <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0116">Bonnet</persName></hi>
+				<lb facs="#facs_26_r1l42" n="N041"/>tität</rs>, nicht aber durch ihren Inhalt oder ihre <rs ana="#concept_phy">Qualität</rs>
+				<lb facs="#facs_26_r1l43" n="N042"/>unterscheiden</hi>. <note facs="#facs_26_TextRegion_1626093576504_993 #facs_27_TextRegion_1626093659438_1072" type="foot" n="*)"><lb facs="#facs_26_r1l44" n="N001"/>*) Bekanntlich hat bereits <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0102">Herbart</persName></hi> (wie vor ihm auch <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0116">Bonnet</persName></hi>
 				<lb facs="#facs_26_r1l45" n="N002"/>und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0117">Condillac</persName></hi>) die specifische <rs ana="#concept_phy">Erregbarkeit</rs> der <rs ana="#concept_phy">Hörnervenfasern</rs> ver<pc>¬</pc>
 				<lb facs="#facs_27_r1l44" n="N001"/>muthet: „Wahrscheinlich hat jeder <rs ana="#concept_mus">musikalische</rs> <rs ana="#m_note">Ton</rs> seinen eigenen Antheil
 				<lb facs="#facs_27_r1l45" n="N002"/>am <rs ana="#concept_mus">Organ</rs>. Ausserdem ist nicht wohl einzusehen, wie gleichzeitige <rs ana="#m_note">Töne</rs>
@@ -2753,7 +2828,8 @@
 				<lb facs="#facs_31_r1l36" n="N023"/><rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">F</hi><hi rend="fontSize:0.0; kerning:0; subscript:true;">1</hi></rs> . . . u. s. w. <rs ana="#concept_mus">gestimmten</rs> <rs ana="#concept_mus">Saiten</rs> wieder nur mit einem <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>′</rs>; unser
 				<lb facs="#facs_31_line_1626094468143_1767" n="N024"/><rs ana="#concept_phy">Gehörorgan</rs> vermittelt uns aber — nach der Hypothese vom <rs ana="#concept_phy">Mit<pc>¬</pc>
 				<lb facs="#facs_31_line_1626094472624_1773" n="N025"/>schwingen</rs> der <rs ana="#concept_phy">Aliquottheile</rs> — wirklich die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_phy">Empfindungen</rs></hi> <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>′</rs>,
-				<lb facs="#facs_31_r1l42" n="N026"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">c</rs></hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">F</rs></hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">C</rs></hi>, <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">As</hi>}<hi rend="fontSize:0.0; kerning:0; subscript:true;">1</hi></rs>, <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">F</hi><hi rend="fontSize:0.0; kerning:0; subscript:true;">1</hi></rs> . . . . also einen förmlichen, aus <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_phy">harmonischen</rs><lb facs="#facs_31_r1l43" n="N027"/><rs ana="#concept_phy">Untertönen</rs></hi> zusammengesetzten <rs ana="#concept_mus">Klang</rs>. Die <rs ana="#concept_phy">Reihe</rs> dieser <rs ana="#concept_phy">Unter<pc>¬</pc>
+				<lb facs="#facs_31_r1l42" n="N026"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">c</rs></hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">F</rs></hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">C</rs></hi>, <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">As</hi>}<hi rend="fontSize:0.0; kerning:0; subscript:true;">1</hi></rs>, <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">F</hi><hi rend="fontSize:0.0; kerning:0; subscript:true;">1</hi></rs> . . . . also einen förmlichen, aus <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_phy">harmonischen</rs>
+				<lb facs="#facs_31_r1l43" n="N027"/><rs ana="#concept_phy">Untertönen</rs></hi> zusammengesetzten <rs ana="#concept_mus">Klang</rs>. Die <rs ana="#concept_phy">Reihe</rs> dieser <rs ana="#concept_phy">Unter<pc>¬</pc>
 				<lb facs="#facs_31_r1l44" n="N028"/>töne</rs> ist dieselbe, wie bei den <rs ana="#concept_phy">Obertönen</rs>, nur umgekehrt, wie die
 				<lb facs="#facs_31_r1l45" n="N029"/>unter die Buchstaben gesetzten <rs ana="#concept_phy">relativen Schwingungszahlen</rs> zeigen:
 			</p>
@@ -2777,7 +2853,7 @@
 				<lb facs="#facs_32_r1l49" n="N005"/>es: „Unter diesen Umständen werden also alsdann von jedem einfachen
 				<lb facs="#facs_32_r1l50" n="N006"/><rs ana="#m_note">Tone</rs> nur gewisse in Richtung der x-schmale Streifen der <rs ana="#concept_phy">Membran</rs> in
 				<lb facs="#facs_32_r1l51" n="N007"/><rs ana="#concept_phy">Schwingung</rs> versetzt, von denen <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">der erste eine, der zweite zwei,<lb facs="#facs_32_r1l52" n="N008"/>der dritte drei etc. <rs ana="#concept_phy">schwingende Abtheilungen</rs></hi> hat, und in
-				<lb facs="#facs_32_r1l53" n="N009"/>denen die Grösse $$GRAPHIC, d. h. die <rs ana="#concept_phy">Länge</rs> der <rs ana="#concept_phy">schwingenden Abtheilungen</rs>,
+				<lb facs="#facs_32_r1l53" n="N009"/>denen die Grösse <formula notation="tex">$\frac{\beta}{m}$</formula>, d. h. die <rs ana="#concept_phy">Länge</rs> der <rs ana="#concept_phy">schwingenden Abtheilungen</rs>,
 				<lb facs="#facs_32_r1l54" n="N010"/>überall denselben Werth hat.”</note>:
             	 <figure facs="#facs_32_Graphic_1626094530519_1819">
                <graphic url="graphic/facs_32_Graphic_1626094530519_1819.png"/>
@@ -3190,7 +3266,7 @@
 				<lb facs="#facs_41_line_1626095931799_2883" n="N018"/>geschieht, und mit dem Gedächtniss behalten das, was geschehen
 				<lb facs="#facs_41_line_1626095938323_2889" n="N019"/>ist. Auf andere Weise kann man unmöglich die in der <rs ana="#concept_mus">Musik</rs>
 				<lb facs="#facs_41_line_1626095944928_2896" n="N020"/>vorhandenen Dinge begreifen.” <note facs="#facs_41_TextRegion_1626095859918_2829" type="foot" n="*)"><lb facs="#facs_41_r1l28" n="N001"/><title ana="#text" ref="#W0152">Harmonische Fragmente</title> her. und übers. von Dr. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0123">Paul Mar<pc>¬</pc>
-				<lb facs="#facs_41_line_1626095954064_2910" n="N002"/>quard</persName></hi>. <placeName ref="#L0003">Berlin</placeName><date when="1868">1868</date>. S. 56 (Meibom. 38, 34): $$GRAPHIC.
+				<lb facs="#facs_41_line_1626095954064_2910" n="N002"/>quard</persName></hi>. <placeName ref="#L0003">Berlin</placeName><date when="1868">1868</date>. S. 56 (Meibom. 38, 34): <figure facs="#facs_41_line_1626095954064_2910"><graphic url="graphic/facs_41_line_1626095954064_2910.png"/></figure>.
 				<lb facs="#facs_41_r1l31" n="N003"/>
 				<lb facs="#facs_41_r1l32" n="N004"/>
 				<lb facs="#facs_41_r1l33" n="N005"/></note> Auch der Maler benützt oft eine
@@ -3647,10 +3723,12 @@
 				<lb facs="#facs_52_line_1626172577410_101" n="N008"/>Gegensatz hinzudeuten, — im combinirten Princip der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Tonicität</rs></hi>
 				<lb facs="#facs_52_r1l13" n="N009"/>und <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Phonicität</rs></hi> werden wir das gesuchte positive Element
 				<lb facs="#facs_52_r1l14" n="N010"/>erkennen. Unter <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Tonicität</rs></hi> eines <rs ana="#m_interval">Intervalles</rs> oder <rs ana="#m_chord">Accordes</rs> ver<pc>¬</pc>
-				<lb facs="#facs_52_r1l15" n="N011"/>stehe ich die Eigenschaft desselben, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">als <rs ana="#concept_mus">Klangbestandtheil</rs><lb facs="#facs_52_r1l16" n="N012"/>eines <rs ana="#m_note">Grundtones</rs> aufgefasst werden zu können</hi>. Diesen
+				<lb facs="#facs_52_r1l15" n="N011"/>stehe ich die Eigenschaft desselben, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">als <rs ana="#concept_mus">Klangbestandtheil</rs>
+				<lb facs="#facs_52_r1l16" n="N012"/>eines <rs ana="#m_note">Grundtones</rs> aufgefasst werden zu können</hi>. Diesen
 				<lb facs="#facs_52_line_1626172584207_114" n="N013"/><rs ana="#m_note">Grundton</rs> nenne ich den <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">tonischen</rs> <rs ana="#m_note">Grundton</rs></hi> . . . . . Unter
 				<lb facs="#facs_52_r1l20" n="N014"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Phonicität</rs></hi> eines <rs ana="#m_interval">Intervalles</rs> oder <rs ana="#m_chord">Accordes</rs> verstehe ich die
-				<lb facs="#facs_52_r1l21" n="N015"/>Eigenschaft desselben, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">stets irgend welche allen <rs ana="#m_note">Tönen</rs><lb facs="#facs_52_r1l22" n="N016"/>gemeinsame <rs ana="#concept_phy">Partialtöne</rs> zu besitzen</hi>. Den tiefsten der
+				<lb facs="#facs_52_r1l21" n="N015"/>Eigenschaft desselben, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">stets irgend welche allen <rs ana="#m_note">Tönen</rs>
+				<lb facs="#facs_52_r1l22" n="N016"/>gemeinsame <rs ana="#concept_phy">Partialtöne</rs> zu besitzen</hi>. Den tiefsten der
 				<lb facs="#facs_52_r1l23" n="N017"/>allen gemeinsam zukommenden <rs ana="#concept_phy">Partialtöne</rs> nenne ich den <rs ana="#concept_phy">coinci<pc>¬</pc>
 				<lb facs="#facs_52_r1l24" n="N018"/>direnden</rs> oder <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">phonischen</rs> <rs ana="#concept_phy">Oberton</rs></hi>.” So kann z. B. die
 				<lb facs="#facs_52_r1l25" n="N019"/><rs ana="#m_interval">Quinte</rs> <rs ana="#m_interval"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>′—<hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi>′</rs> aufgefasst werden als Theil (2. und 3. <rs ana="#concept_phy">Partialton</rs>)
@@ -3685,7 +3763,8 @@
 				<lb facs="#facs_53_r1l4" n="N003"/><rs ana="#concept_mus">phonischen</rs> <rs ana="#concept_phy">Obertones</rs>, hier <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">2</hi></rs>, vertreten, da dieser als <rs ana="#concept_mus">Klang<pc>¬</pc>
 				<lb facs="#facs_53_r1l5" n="N004"/>bestandtheil</rs> beiden <rs ana="#concept_mus">Intervallgliedern</rs> gemeinsam ist. Auf dieser
 				<lb facs="#facs_53_r1l6" n="N005"/>Grundlage beruht auch <persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi>'s</persName> Erklärung des <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Ver<pc>¬</pc>
-				<lb facs="#facs_53_r1l7" n="N006"/>hältnisses zwischen dem <rs ana="#concept_mus">harten</rs> und dem <rs ana="#concept_mus">weichen</rs><lb facs="#facs_53_r1l8" n="N007"/><rs ana="#m_chord">Dreiklang</rs></hi>. Obgleich diese Frage dem Gange unserer Unter<pc>¬</pc>
+				<lb facs="#facs_53_r1l7" n="N006"/>hältnisses zwischen dem <rs ana="#concept_mus">harten</rs> und dem <rs ana="#concept_mus">weichen</rs>
+				<lb facs="#facs_53_r1l8" n="N007"/><rs ana="#m_chord">Dreiklang</rs></hi>. Obgleich diese Frage dem Gange unserer Unter<pc>¬</pc>
 				<lb facs="#facs_53_r1l9" n="N008"/>suchungen einigermassen vorgreift, müssen wir sie doch schon hier
 				<lb facs="#facs_53_r1l10" n="N009"/>einer kurzen Betrachtung unterziehen, da sie für uns eine grosse
 				<lb facs="#facs_53_r1l11" n="N010"/>principielle Bedeutung hat. <persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi></persName> sagt <note facs="#facs_53_TextRegion_1626172649437_198" type="foot" n="*)"><lb facs="#facs_53_r1l48" n="N001"/><title ana="#text" ref="#W0017">A. a. O.</title> S. 44.</note>: „Das <rs ana="#m_interval">Intervall</rs>
@@ -3910,7 +3989,8 @@
 				<lb facs="#facs_58_r1l8" n="N002"/>des Musikalisch-Schönen thatsächlich anwenden, da uns doch die
 				<lb facs="#facs_58_r1l9" n="N003"/><rs ana="#concept_mus">Musik</rs>, die wir allenthalben hören, nur als seltene Ausnahme irgend
 				<lb facs="#facs_58_r1l10" n="N004"/>ein <rs ana="#concept_mus">reines</rs> <rs ana="#concept_mus">natürliches</rs> <rs ana="#m_interval">Intervall</rs> zu bieten vermag, so frägt es sich,
-				<lb facs="#facs_58_r1l11" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">woher wir denn die <rs ana="#concept_mus">natürlichen</rs> <rs ana="#m_interval">Intervalle</rs> kennen,<lb facs="#facs_58_r1l12" n="N006"/>wenn nicht aus den <rs ana="#concept_mus">Zusammenklängen</rs> und <rs ana="#concept_mus">Tonfolgen</rs><lb facs="#facs_58_r1l13" n="N007"/>unserer <rs ana="#concept_mus">Musik</rs></hi>? Die Antwort ist im höchsten Grade einfach:
+				<lb facs="#facs_58_r1l11" n="N005"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">woher wir denn die <rs ana="#concept_mus">natürlichen</rs> <rs ana="#m_interval">Intervalle</rs> kennen,<lb facs="#facs_58_r1l12" n="N006"/>wenn nicht aus den <rs ana="#concept_mus">Zusammenklängen</rs> und <rs ana="#concept_mus">Tonfolgen</rs>
+				<lb facs="#facs_58_r1l13" n="N007"/>unserer <rs ana="#concept_mus">Musik</rs></hi>? Die Antwort ist im höchsten Grade einfach:
 				<lb facs="#facs_58_r1l14" n="N008"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">wir kennen diese <rs ana="#m_interval">Intervalle</rs> aus dem einzelnen <rs ana="#concept_mus">musi<pc>¬</pc></rs></hi>
 				<lb facs="#facs_58_r1l15" n="N009"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">kalischen Klange</rs>, der sie als <rs ana="#m_interval">Intervalle</rs> seiner <rs ana="#concept_phy">Par<pc>¬</pc></rs></hi>
 				<lb facs="#facs_58_r1l16" n="N010"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_phy">tialtöne</rs> immer in derselben Weise, immer <rs ana="#concept_mus">rein</rs>, nie</hi>
@@ -3939,7 +4019,7 @@
 				<lb facs="#facs_58_r1l40" n="N008"/>zu wollen. Vor der Hand mag nur noch Einiges über das Ver<pc>¬</pc>
 				<lb facs="#facs_58_r1l41" n="N009"/>hältniss der von uns eben dargestellten Gewöhnung unseres <rs ana="#concept_phy">Gehörs</rs>
 				<lb facs="#facs_58_r1l42" n="N010"/>an die <rs ana="#concept_phy">natürlichen</rs> <rs ana="#concept_mus">Harmonien</rs> der <rs ana="#concept_phy">Partialtöne</rs> zum Princip der
-				<lb facs="#facs_58_r1l43" n="N011"/><rs ana="#concept_mus">Tonicität</rs><persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi>'s</persName> bemerkt werden. Jene Angewöhnung
+				<lb facs="#facs_58_r1l43" n="N011"/><rs ana="#concept_mus">Tonicität</rs> <persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi>'s</persName> bemerkt werden. Jene Angewöhnung
 				<lb facs="#facs_58_r1l44" n="N012"/>ziehen wir nicht blos dort zu Rathe, wo uns die <rs ana="#concept_phy">Obertöne</rs> mit
 				<lb facs="#facs_58_r1l45" n="N013"/>ihrer <rs ana="#concept_phy">Coincidenz</rs> und ihren <rs ana="#concept_phy">Schwebungen</rs> im Stiche lassen, sondern
 				<lb facs="#facs_58_r1l46" n="N014"/>identificiren sie geradezu mit dem <rs ana="#concept_mus">harmonischen Princip</rs>, indem wir
@@ -4112,7 +4192,8 @@
 				<lb facs="#facs_62_r1l31" n="N027"/>je öfter sie zusammen auftreten, werden einander „Hülfen”, die
 				<lb facs="#facs_62_r1l32" n="N028"/>sich gegenseitig heben und fördern, wenn sie gleichzeitig sind, die
 				<lb facs="#facs_62_r1l33" n="N029"/>sich reproduciren und fordern, wenn eine von ihnen isolirt vor<pc>¬</pc>
-				<lb facs="#facs_62_r1l34" n="N030"/>kommt. Der Musiker muss sagen: <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">die <rs ana="#concept_mus">Tonvorstellungen</rs><lb facs="#facs_62_r1l35" n="N031"/>werden <rs ana="#concept_mus">verwandt</rs></hi>. Es ist ja unter Menschen nicht anders;
+				<lb facs="#facs_62_r1l34" n="N030"/>kommt. Der Musiker muss sagen: <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">die <rs ana="#concept_mus">Tonvorstellungen</rs>
+				<lb facs="#facs_62_r1l35" n="N031"/>werden <rs ana="#concept_mus">verwandt</rs></hi>. Es ist ja unter Menschen nicht anders;
 				<lb facs="#facs_62_r1l36" n="N032"/>die Gewohnheit verknüpft Leute der verschiedensten Temperamente
 				<lb facs="#facs_62_r1l37" n="N033"/>und Charaktere, der verschiedensten Bildungsgrade und Lebens<pc>¬</pc>
 				<lb facs="#facs_62_r1l38" n="N034"/>interessen, der verschiedensten Geistesrichtungen und socialen
@@ -4144,7 +4225,8 @@
 				<lb facs="#facs_63_r1l19" n="N003"/>trotz ihres ursprünglichen qualitativen Gegensatzgrades durch oft
 				<lb facs="#facs_63_r1l20" n="N004"/>genug wiederholte Verschmelzung verwandt werden konnten? Jeden<pc>¬</pc>
 				<lb facs="#facs_63_r1l21" n="N005"/>falls an den <rs ana="#concept_mus">Klängen</rs> des ältesten und des natürlichsten <rs ana="#concept_mus">Ton<pc>¬</pc>
-				<lb facs="#facs_63_r1l22" n="N006"/>werkzeuges</rs>: <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">an den <rs ana="#concept_phy">Vocallauten</rs> der <rs ana="#concept_phy">menschlichen</rs><lb facs="#facs_63_r1l23" n="N007"/><rs ana="#concept_phy">Sprache</rs></hi>. Diese sind bekanntlich ächte <rs ana="#concept_mus">musikalische</rs>, d. h. von
+				<lb facs="#facs_63_r1l22" n="N006"/>werkzeuges</rs>: <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">an den <rs ana="#concept_phy">Vocallauten</rs> der <rs ana="#concept_phy">menschlichen</rs>
+				<lb facs="#facs_63_r1l23" n="N007"/><rs ana="#concept_phy">Sprache</rs></hi>. Diese sind bekanntlich ächte <rs ana="#concept_mus">musikalische</rs>, d. h. von
 				<lb facs="#facs_63_r1l24" n="N008"/><rs ana="#concept_phy">harmonischen Obertönen</rs> begleitete <rs ana="#concept_mus">Klänge</rs>: namentlich ist es die
 				<lb facs="#facs_63_r1l25" n="N009"/>angestrebte Deutlichkeit und Vernehmbarkeit, welche die Schönheit
 				<lb facs="#facs_63_r1l26" n="N010"/>des <rs ana="#concept_mus">Klanges</rs>, also seine <rs ana="#concept_mus">harmonische Zusammensetzung</rs> in's rechte
@@ -4187,7 +4269,8 @@
             <p facs="#facs_64_TextRegion_1626173698774_1279">
 				<lb facs="#facs_64_r1l17" n="N001"/>Doch haben wir schon angedeutet, dass die Beschaffenheit der
 				<lb facs="#facs_64_r1l18" n="N002"/><rs ana="#concept_phy">Stimmlaute</rs> für die Entwickelung des <rs ana="#concept_mus">musikalischen Gehörs</rs> auch
-				<lb facs="#facs_64_r1l19" n="N003"/>insoferne von Wichtigkeit zu sein scheint, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">als die <rs ana="#concept_mus">menschliche</rs><lb facs="#facs_64_r1l20" n="N004"/><rs ana="#concept_mus">Stimme</rs> das Vorbild aller künstlich erzeugten <rs ana="#concept_mus">Instru<pc>¬</pc>
+				<lb facs="#facs_64_r1l19" n="N003"/>insoferne von Wichtigkeit zu sein scheint, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">als die <rs ana="#concept_mus">menschliche</rs>
+				<lb facs="#facs_64_r1l20" n="N004"/><rs ana="#concept_mus">Stimme</rs> das Vorbild aller künstlich erzeugten <rs ana="#concept_mus">Instru<pc>¬</pc>
 				<lb facs="#facs_64_r1l21" n="N005"/>mentalklänge</rs></hi> wurde, die dann aus später anzuführenden Gründen
 				<lb facs="#facs_64_r1l22" n="N006"/>auf den Sinn für <rs ana="#concept_mus">Tonverwandtschaft</rs> in der ausgiebigsten Weise
 				<lb facs="#facs_64_r1l23" n="N007"/>wirkten. Sobald die Stufe der blossen Lust am <rs ana="#concept_phy">Schalle</rs> überwunden
@@ -4336,7 +4419,8 @@
                <graphic url="graphic/facs_67_Graphic_1626173966349_1565.png"/>
             </figure>
             	<lb facs="#facs_67_r1l31" n="N001"/>in dem die eingeklammerten <rs ana="#concept_phy">Partialtöne</rs> fehlen, der zweite und der
-				<lb facs="#facs_67_r1l32" n="N002"/>dritte aber dominiren. Doch ist zu bemerken, dass <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">die fehlenden<lb facs="#facs_67_r1l33" n="N003"/><rs ana="#concept_phy">Partialtöne</rs> zum Theil durch die <rs ana="#concept_phy">Combinationstöne</rs><lb facs="#facs_67_r1l34" n="N004"/>ersetzt werden</hi>, da bekanntlich die <rs ana="#concept_phy">Differenztöne</rs> das <rs ana="#m_interval">Intervall</rs>
+				<lb facs="#facs_67_r1l32" n="N002"/>dritte aber dominiren. Doch ist zu bemerken, dass <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">die fehlenden<lb facs="#facs_67_r1l33" n="N003"/><rs ana="#concept_phy">Partialtöne</rs> zum Theil durch die <rs ana="#concept_phy">Combinationstöne</rs>
+				<lb facs="#facs_67_r1l34" n="N004"/>ersetzt werden</hi>, da bekanntlich die <rs ana="#concept_phy">Differenztöne</rs> das <rs ana="#m_interval">Intervall</rs>
 				<lb facs="#facs_67_r1l35" n="N005"/>stets zur vollen <rs ana="#concept_phy">Reihe</rs> von <rs ana="#concept_phy">Partialtönen</rs> ergänzen, die bis zu dem
 				<lb facs="#facs_67_r1l36" n="N006"/>höheren der beiden primären <rs ana="#m_note">Töne</rs> reicht (s. § 3). Wenn wir
 				<lb facs="#facs_67_r1l37" n="N007"/>uns nun an <persName role="author" ref="#P0001"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Helmholtz</hi>'s</persName> Theorie der <rs ana="#concept_mus">Claviersaitenklänge</rs> <note facs="#facs_67_TextRegion_1626173889014_1535" type="foot" n="*)"><lb facs="#facs_67_r1l61" n="N001"/><title ana="#text" ref="#W0001">Die Lehre von den Tonempfindungen</title>. S. 128 ff. Die Tabelle der
@@ -4356,8 +4440,10 @@
 				<lb facs="#facs_67_r1l59" n="N001"/>Um nun das Gesagte kurz zusammenzufassen: Jedes <rs ana="#concept_mus">har<pc>¬</pc>
 				<lb facs="#facs_67_r1l60" n="N002"/>monische</rs> <rs ana="#m_interval">Intervall</rs> repräsentirt einen <rs ana="#concept_mus">Klang</rs>, der sich von allen
             	<pb facs="#facs_68" n="60"/>
-            	<lb facs="#facs_68_r1l2" n="N001"/>übrigen über demselben <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_note">Grundtone</rs> aufgebauten <rs ana="#concept_mus">Klängen</rs><lb facs="#facs_68_r1l3" n="N002"/>nur durch die verschiedene quantitative Vertretung<lb facs="#facs_68_r1l4" n="N003"/>der Bestandtheile unterscheidet, also nur eine andere<lb facs="#facs_68_r1l5" n="N004"/><rs ana="#concept_phy">Klangfarbe</rs>, nicht eine andere <rs ana="#concept_mus">Klangbedeutung</rs> hat.<lb facs="#facs_68_r1l6" n="N005"/>Die beiden Glieder des <rs ana="#m_interval">Intervalles</rs> sind also zu<pc>¬</pc>
-				<lb facs="#facs_68_r1l7" n="N006"/>sammengehörig, verwandt. Wenn wir dagegen ein<lb facs="#facs_68_r1l8" n="N007"/><rs ana="#m_interval">Intervall</rs> hören, das sich in keinem <rs ana="#concept_mus">musikalischen</rs><lb facs="#facs_68_r1l9" n="N008"/><rs ana="#concept_mus">Klange</rs> wiederfindet, erweisen sich seine Glieder<lb facs="#facs_68_r1l10" n="N009"/>als nicht zusammengehörig, als nicht verwandt,<lb facs="#facs_68_r1l11" n="N010"/>indem sie nicht Einen <rs ana="#concept_mus">Klang</rs> vertreten können,<lb facs="#facs_68_r1l12" n="N011"/>sondern selbst zwei verschiedene <rs ana="#concept_mus">Klänge</rs> sind</hi>. Wir
+            	<lb facs="#facs_68_r1l2" n="N001"/>übrigen über demselben <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_note">Grundtone</rs> aufgebauten <rs ana="#concept_mus">Klängen</rs>
+				<lb facs="#facs_68_r1l3" n="N002"/>nur durch die verschiedene quantitative Vertretung<lb facs="#facs_68_r1l4" n="N003"/>der Bestandtheile unterscheidet, also nur eine andere<lb facs="#facs_68_r1l5" n="N004"/><rs ana="#concept_phy">Klangfarbe</rs>, nicht eine andere <rs ana="#concept_mus">Klangbedeutung</rs> hat.<lb facs="#facs_68_r1l6" n="N005"/>Die beiden Glieder des <rs ana="#m_interval">Intervalles</rs> sind also zu<pc>¬</pc>
+				<lb facs="#facs_68_r1l7" n="N006"/>sammengehörig, verwandt. Wenn wir dagegen ein<lb facs="#facs_68_r1l8" n="N007"/><rs ana="#m_interval">Intervall</rs> hören, das sich in keinem <rs ana="#concept_mus">musikalischen</rs>
+				<lb facs="#facs_68_r1l9" n="N008"/><rs ana="#concept_mus">Klange</rs> wiederfindet, erweisen sich seine Glieder<lb facs="#facs_68_r1l10" n="N009"/>als nicht zusammengehörig, als nicht verwandt,<lb facs="#facs_68_r1l11" n="N010"/>indem sie nicht Einen <rs ana="#concept_mus">Klang</rs> vertreten können,<lb facs="#facs_68_r1l12" n="N011"/>sondern selbst zwei verschiedene <rs ana="#concept_mus">Klänge</rs> sind</hi>. Wir
 				<lb facs="#facs_68_r1l13" n="N012"/>führen somit den Begriff der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Tonverwandtschaft</rs></hi> auf jenen der
 				<lb facs="#facs_68_r1l14" n="N013"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_phy">Klangfarbe</rs></hi> zurück, indem wir annehmen, dass das <rs ana="#concept_phy">Ohr</rs> die
 				<lb facs="#facs_68_r1l15" n="N014"/>gewohnte qualitative Zusammensetzung des einzelnen <rs ana="#concept_mus">musikalischen</rs>
@@ -4566,7 +4652,8 @@
 				<lb facs="#facs_72_line_1626174581393_2135" n="N002"/>time</rs> in der <rs ana="#concept_mus">praktischen Musik</rs> thatsächlich vorkommt oder nicht — denn
 				<lb facs="#facs_72_r1l27" n="N003"/>wir wissen, dass überhaupt mit Ausnahme der <rs ana="#m_interval">Octave</rs> keines der <rs ana="#m_interval">natür<pc>¬</pc>
 				<lb facs="#facs_72_r1l28" n="N004"/>lichen Intervalle</rs> in der nun allgemein angewandten <rs ana="#concept_mus">temperirten Stimmung</rs>
-				<lb facs="#facs_72_line_1626174588634_2151" n="N005"/>rein auftritt — sondern nur darum, dass es <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">in unserem <rs ana="#concept_mus">rationellen</rs><lb facs="#facs_72_r1l32" n="N006"/><rs ana="#concept_mus">Tonsysteme</rs></hi> fehlt, welches bekanntlich aus um <rs ana="#m_interval">Terzenschritte</rs> von ein<pc>¬</pc>
+				<lb facs="#facs_72_line_1626174588634_2151" n="N005"/>rein auftritt — sondern nur darum, dass es <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">in unserem <rs ana="#concept_mus">rationellen</rs>
+				<lb facs="#facs_72_r1l32" n="N006"/><rs ana="#concept_mus">Tonsysteme</rs></hi> fehlt, welches bekanntlich aus um <rs ana="#m_interval">Terzenschritte</rs> von ein<pc>¬</pc>
 				<lb facs="#facs_72_r1l33" n="N007"/>ander abstehenden <rs ana="#concept_mus">Quintenzirkeln</rs> besteht, also nur <rs ana="#m_interval">reine Quinten</rs>, <rs ana="#m_interval">grosse</rs>
 				<lb facs="#facs_72_r1l34" n="N008"/>und <rs ana="#m_interval">kleine Terzen</rs> und ihre <rs ana="#concept_mus">Umkehrungen</rs>, <rs ana="#m_interval">reine Quarten</rs> und <rs ana="#m_interval">grosse</rs> und
 				<lb facs="#facs_72_r1l35" n="N009"/><rs ana="#m_interval">kleine Sexten</rs>, als unmittelbar <rs ana="#concept_mus">verwandte</rs> <rs ana="#concept_mus">Tonstufen</rs> aufweist, neben ihnen
@@ -4613,7 +4700,8 @@
 			</p>
             <p facs="#facs_73_TextRegion_1626174630556_2240">
 				<lb facs="#facs_73_r1l19" n="N001"/>Nach allem bisher Gesagten werden wir zu der Ueberzeugung
-				<lb facs="#facs_73_r1l20" n="N002"/>kommen müssen, dass für uns <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">mit dem fünften <rs ana="#concept_phy">Partialtone</rs><lb facs="#facs_73_r1l21" n="N003"/>die Reihe der wesentlichen Bestandtheile eines <rs ana="#concept_mus">musi<pc>¬</pc>
+				<lb facs="#facs_73_r1l20" n="N002"/>kommen müssen, dass für uns <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">mit dem fünften <rs ana="#concept_phy">Partialtone</rs>
+				<lb facs="#facs_73_r1l21" n="N003"/>die Reihe der wesentlichen Bestandtheile eines <rs ana="#concept_mus">musi<pc>¬</pc>
 				<lb facs="#facs_73_r1l22" n="N004"/>kalischen Klanges</rs> erschöpft ist</hi>, indem wir in diesen fünf
 				<lb facs="#facs_73_r1l23" n="N005"/><rs ana="#concept_phy">Partialtönen</rs> und ihren <rs ana="#concept_mus">Octavverdoppelungen</rs> alle <rs ana="#concept_mus"><rs ana="#concept_phy">consonanten</rs></rs> <rs ana="#m_interval">Inter<pc>¬</pc>
 				<lb facs="#facs_73_r1l24" n="N006"/>valle</rs> oder, was dasselbe sagt, alle <rs ana="#concept_mus">verwandtschaftlichen</rs> <rs ana="#concept_mus">Ton<pc>¬</pc>
@@ -4666,14 +4754,16 @@
 				<lb facs="#facs_74_r1l7" n="N001"/>Die Resultate unserer ganzen Untersuchung werden sich nun
 				<lb facs="#facs_74_r1l8" n="N002"/>in folgende Sätze kurz zusammenfassen lassen: <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Zwei <rs ana="#m_note">Töne</rs>, <note facs="#facs_74_TextRegion_1626174701985_2312" type="foot" n="**)"><lb facs="#facs_74_line_1626174878949_2545" n="N001"/>Man bemerke wohl, dass sich unsere Ansicht von der <rs ana="#concept_mus">harmo<pc>¬</pc>
 				<lb facs="#facs_74_r1l64" n="N002"/>nischen Verwandtschaft</rs> nicht auf <rs ana="#concept_mus">zusammengesetzte Klänge</rs> beschränkt,
-				<lb facs="#facs_74_r1l65" n="N003"/>sondern in gleicher Weise auch für <rs ana="#m_note">einfache Töne</rs> gilt.</note><lb facs="#facs_74_r1l9" n="N003"/>welche wesentliche Bestandtheile desselben <rs ana="#concept_mus">musi<pc>¬</pc>
+				<lb facs="#facs_74_r1l65" n="N003"/>sondern in gleicher Weise auch für <rs ana="#m_note">einfache Töne</rs> gilt.</note>
+				<lb facs="#facs_74_r1l9" n="N003"/>welche wesentliche Bestandtheile desselben <rs ana="#concept_mus">musi<pc>¬</pc>
 				<lb facs="#facs_74_r1l10" n="N004"/>kalischen Klanges</rs> sind, nennen wir </hi>; im
 				<lb facs="#facs_74_r1l19" n="N013"/>ersteren Falle liegt eine mittelbare <rs ana="#concept_mus">Verwandtschaft</rs><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">ersten<lb facs="#facs_74_r1l20" n="N014"/>Grades</hi> vor, im letzteren kann sie  sein. So sind z. B.  und  unmittelbar,  und  (durch
 				<lb facs="#facs_74_r1l22" n="N016"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">g</rs></hi>) mittelbar im ersten, <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">c</rs></hi> und <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">a</rs></hi> (durch <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">g</rs></hi> und <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">d</rs></hi>) mittelbar im
 				<lb facs="#facs_74_r1l23" n="N017"/>zweiten Grade (<hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">c</rs></hi> und <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">a</rs></hi> dagegen wieder unmittelbar) <rs ana="#concept_mus">verwandt</rs>. Da
 				<lb facs="#facs_74_r1l24" n="N018"/>es nun in der Natur der Sache liegt, dass ein künstlerisches <rs ana="#concept_mus">Ton<pc>¬</pc>
 				<lb facs="#facs_74_r1l25" n="N019"/>system</rs> auf Grundlage der unmittelbaren <rs ana="#concept_mus">harmonischen Verwandt<pc>¬</pc>
-				<lb facs="#facs_74_r1l26" n="N020"/>schaft</rs> sich entwickelt, so ist leicht einzusehen, dass <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">alle in<lb facs="#facs_74_r1l27" n="N021"/>einem geordneten <rs ana="#concept_mus">Tonsysteme</rs> gebräuchlichen <rs ana="#m_note">Töne</rs><lb facs="#facs_74_r1l28" n="N022"/>entweder direct oder indirect mit einander <rs ana="#concept_mus">ver<pc>¬</pc>
+				<lb facs="#facs_74_r1l26" n="N020"/>schaft</rs> sich entwickelt, so ist leicht einzusehen, dass <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">alle in<lb facs="#facs_74_r1l27" n="N021"/>einem geordneten <rs ana="#concept_mus">Tonsysteme</rs> gebräuchlichen <rs ana="#m_note">Töne</rs>
+				<lb facs="#facs_74_r1l28" n="N022"/>entweder direct oder indirect mit einander <rs ana="#concept_mus">ver<pc>¬</pc>
 				<lb facs="#facs_74_r1l29" n="N023"/>wandt</rs> sein müssen</hi>. Da nun die <rs ana="#m_interval">Octave</rs> in Folge ihres
             	<pb facs="#facs_75" n="67"/>
             	<lb facs="#facs_75_r1l2" n="N001"/>engsten <rs ana="#concept_mus">verwandtschaftlichen Verhältnisses</rs> gewissermassen nur als
@@ -4748,7 +4838,8 @@
 				<lb facs="#facs_76_r1l19" n="N005"/>hältniss</rs> erst mit dem Eintritt des zweiten <rs ana="#m_note">Tones</rs> perfect. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Selbst<pc>¬</pc>
 				<lb facs="#facs_76_r1l20" n="N006"/>verständlich wird mit Rücksicht auf die <rs ana="#concept_mus">harmo<pc>¬</pc>
 				<lb facs="#facs_76_r1l21" n="N007"/>nische Verwandtschaft</rs> zweier <rs ana="#m_note">Töne</rs> an ihrem <rs ana="#concept_mus">Ver<pc>¬</pc>
-				<lb facs="#facs_76_r1l22" n="N008"/>hältnisse</rs> nichts geändert, mögen sie gleichzeitig in<lb facs="#facs_76_r1l23" n="N009"/>zwei <rs ana="#concept_mus">Stimmen</rs> oder nacheinander in derselben <rs ana="#concept_mus">Stimme</rs><lb facs="#facs_76_r1l24" n="N010"/>auftreten</hi>. Der Gebrauch der sogenannten „gebrochenen” <rs ana="#m_chord">Ac<pc>¬</pc>
+				<lb facs="#facs_76_r1l22" n="N008"/>hältnisse</rs> nichts geändert, mögen sie gleichzeitig in<lb facs="#facs_76_r1l23" n="N009"/>zwei <rs ana="#concept_mus">Stimmen</rs> oder nacheinander in derselben <rs ana="#concept_mus">Stimme</rs>
+				<lb facs="#facs_76_r1l24" n="N010"/>auftreten</hi>. Der Gebrauch der sogenannten „gebrochenen” <rs ana="#m_chord">Ac<pc>¬</pc>
 				<lb facs="#facs_76_r1l25" n="N011"/>corde</rs> illustrirt diesen Grundsatz am besten. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Für die <rs ana="#concept_mus">harmo<pc>¬</pc>
 				<lb facs="#facs_76_r1l26" n="N012"/>nische</rs> <rs ana="#concept_mus">Tonfolge</rs> werden somit dieselben Regeln gel<pc>¬</pc>
 				<lb facs="#facs_76_r1l27" n="N013"/>ten, die wir für den <rs ana="#concept_mus">Zusammenklang</rs> gefunden haben</hi>,
@@ -5028,7 +5119,8 @@
 				<lb facs="#facs_82_r1l26" n="N003"/>gelassenen und <rs ana="#concept_mus">aufgelösten</rs> <rs ana="#concept_mus">Missklang</rs> zweier gleichzeitiger <rs ana="#m_note">Töne</rs>
 				<lb facs="#facs_82_r1l27" n="N004"/>oder um einen ebensolchen Widerstreit zweier poetischer Gedanken;
 				<lb facs="#facs_82_r1l28" n="N005"/>das sind nur ihre einfachsten, nächstliegenden Erscheinungsformen.
-				<lb facs="#facs_82_r1l29" n="N006"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Unter gewissen Bedingungen kann ebenso, wie die<lb facs="#facs_82_r1l30" n="N007"/>Grundform der <rs ana="#concept_mus">Harmonie</rs> an gleichzeitigen <rs ana="#m_note">Tönen</rs><lb facs="#facs_82_r1l31" n="N008"/>oder an Gedanken, auch jede andere ästhetische<lb facs="#facs_82_r1l32" n="N009"/>Vorschrift verletzt werden</hi>. Aus einer solchen Verletzung
+				<lb facs="#facs_82_r1l29" n="N006"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Unter gewissen Bedingungen kann ebenso, wie die<lb facs="#facs_82_r1l30" n="N007"/>Grundform der <rs ana="#concept_mus">Harmonie</rs> an gleichzeitigen <rs ana="#m_note">Tönen</rs>
+				<lb facs="#facs_82_r1l31" n="N008"/>oder an Gedanken, auch jede andere ästhetische<lb facs="#facs_82_r1l32" n="N009"/>Vorschrift verletzt werden</hi>. Aus einer solchen Verletzung
 				<lb facs="#facs_82_r1l33" n="N010"/>entspringt dann allerdings ein <rs ana="#concept_mus">disharmonisches</rs>, unschönes <rs ana="#concept_mus">Ver<pc>¬</pc>
 				<lb facs="#facs_82_r1l34" n="N011"/>hältniss</rs>; <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">jene Bedingungen aber, durch welche eine<lb facs="#facs_82_r1l35" n="N012"/>solche <rs ana="#concept_mus">Disharmonie</rs> in der schönen Kunst erst mög<pc>¬</pc>
 				<lb facs="#facs_82_r1l36" n="N013"/>lich und erlaubt wird, kennt der <rs ana="#concept_mus">Musiker</rs> als Regeln<lb facs="#facs_82_r1l37" n="N014"/>der <rs ana="#concept_mus">Dissonanzauflösung</rs></hi>. Wird, so dürfte man einwenden,
@@ -5194,7 +5286,7 @@
 				<lb facs="#facs_85_r1l43" n="N007"/>aber einen <rs ana="#concept_mus"><hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi>-Klang</rs>; das <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">c</rs></hi> der <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs> hat also seine <rs ana="#concept_mus">Klang<pc>¬</pc>
 				<lb facs="#facs_85_r1l44" n="N008"/>bedeutung</rs> nicht behalten, sondern ist im <rs ana="#concept_mus"><hi rend="italic:true; fontSize:0.0; kerning:0;">F</hi>-Klange</rs> als dessen
 				<lb facs="#facs_85_r1l45" n="N009"/><rs ana="#concept_mus">Quintbestandtheil</rs> aufgegangen. Wir haben in diesem Falle das
-				<lb facs="#facs_85_r1l46" n="N010"/><rs ana="#concept_mus">Klangschema</rs>: $$GRAPHIC
+				<lb facs="#facs_85_r1l46" n="N010"/><rs ana="#concept_mus">Klangschema</rs>: <figure facs="#facs_85_r1l46" rend="inline"><graphic url="graphic/facs_85_r1l46.png"/></figure>
             	<pb facs="#facs_86" n="78"/>
             	<lb facs="#facs_86_r1l2" n="N001"/>Die <rs ana="#concept_mus">Auflösung</rs><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_interval">c—b</rs></hi> . . . . <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_interval">c—a</rs></hi> hat offenbar, was die <rs ana="#concept_mus">Klangfolge</rs>
 				<lb facs="#facs_86_line_1626176127278_3754" n="N002"/>betrifft, dieselbe Geltung, wie die <rs ana="#concept_mus">Auflösung</rs><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_interval">c—b</rs></hi> . . . . <rs ana="#m_interval"><hi rend="italic:true; fontSize:0.0; kerning:0;">f—a</hi>{</rs>,
@@ -5314,7 +5406,7 @@
                <graphic url="graphic/facs_88_Graphic_1626176507598_4075.png"/>
             </figure>
 				<lb facs="#facs_88_line_1626176579430_4195" n="N001"/>Ebenso liesse sich die <rs ana="#concept_mus">Auflösung</rs> <rs ana="#m_interval"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>′—<hi rend="italic:true; fontSize:0.0; kerning:0;">fis</hi>{′</rs> . . . . <rs ana="#m_interval"><hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>{—<hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi>′</rs> auch als eine
-				<lb facs="#facs_88_r1l52" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">gemischte</hi> betrachten: $$GRAPHIC
+				<lb facs="#facs_88_r1l52" n="N002"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">gemischte</hi> betrachten: <figure facs="#facs_88_r1l52"><graphic url="graphic/facs_88_r1l52.png"/></figure>
 				<lb facs="#facs_88_r1l55" n="N003"/>Es ist klar, dass jede <rs ana="#concept_mus">melodische</rs> <rs ana="#concept_mus">Klangfolge</rs> durch irgend welche, wenn
 				<lb facs="#facs_88_r1l56" n="N004"/>auch vielleicht etwas entferntere <rs ana="#concept_mus">Verwandtschaftsbeziehungen</rs> an Innigkeit
 				<lb facs="#facs_88_r1l57" n="N005"/>nur gewinnt.</note>
@@ -5447,7 +5539,7 @@
 				<lb facs="#facs_91_r1l10" n="N006"/>zu bewegen. Die <rs ana="#m_interval">Septime</rs> <rs ana="#m_interval"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>′—<hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>{′</rs> muss sich z. B. durch den <rs ana="#m_interval">Leit<pc>¬</pc>
 				<lb facs="#facs_91_r1l11" n="N007"/>tonschritt</rs> <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">1</hi></rs> . . . <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">2</hi></rs> in den <rs ana="#concept_mus"><hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi>-Klang</rs> <rs ana="#concept_mus">auflösen</rs>; wenn nun gleich<pc>¬</pc>
 				<lb facs="#facs_91_r1l12" n="N008"/>zeitig das <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi>′</rs> nach <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>{′</rs> fortschreitet, so wird an dem Wesen der
-				<lb facs="#facs_91_r1l13" n="N009"/><rs ana="#concept_mus">Vorhaltsauflösung</rs> gar nichts geändert: <rs ana="#m_interval">c′—h{′</rs> . . . $$GRAPHIC
+				<lb facs="#facs_91_r1l13" n="N009"/><rs ana="#concept_mus">Vorhaltsauflösung</rs> gar nichts geändert: <rs ana="#m_interval">c′—h{′</rs> . . . <figure facs="#facs_91_r1l13" rend="inline"><graphic url="graphic/facs_91_r1l13.png"/></figure>
 				<lb facs="#facs_91_r1l15" n="N010"/>Man überzeuge sich davon an folgenden <rs ana="#concept_mus">dreistimmigen</rs> Beispielen:
 			</p>
          <notatedMusic rend="MEI" facs="#facs_91_Music_1626176933979_4571" source="facs_91_Music_1626176933979_4571.mei"><desc>MUSIK</desc></notatedMusic>
@@ -5607,7 +5699,8 @@
             	<lb facs="#facs_95_r1l20" n="N001"/>Da nun diese <rs ana="#m_note">Ergänzungstöne</rs> stets eine <rs ana="#m_interval">kleine</rs> oder <rs ana="#m_interval">grosse Secunde</rs>
 				<lb facs="#facs_95_r1l21" n="N002"/>bilden, so können sie nie beide zugleich auftreten, wenn das <rs ana="#concept_mus">vier<pc>¬</pc>
 				<lb facs="#facs_95_r1l22" n="N003"/>stimmige</rs> Gebilde <rs ana="#concept_mus"><rs ana="#concept_phy">consonant</rs></rs> sein soll. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus"><rs ana="#concept_phy">Consonante</rs></rs> <rs ana="#m_chord">Vierklänge</rs></hi>
-				<lb facs="#facs_95_r1l23" n="N004"/>(<rs ana="#m_chord">Fünfklänge</rs> u. s. w.) <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">können nur durch <rs ana="#concept_mus">Verdoppelung</rs><lb facs="#facs_95_r1l24" n="N005"/>von <rs ana="#concept_mus">Dreiklangsbestandtheilen</rs> entstehen</hi>.
+				<lb facs="#facs_95_r1l23" n="N004"/>(<rs ana="#m_chord">Fünfklänge</rs> u. s. w.) <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">können nur durch <rs ana="#concept_mus">Verdoppelung</rs>
+				<lb facs="#facs_95_r1l24" n="N005"/>von <rs ana="#concept_mus">Dreiklangsbestandtheilen</rs> entstehen</hi>.
             </p>
             <p facs="#facs_95_TextRegion_1626258151197_149 #facs_95_TextRegion_1626258141227_141">
 				<lb facs="#facs_95_r1l25" n="N001"/>Die eigenthümliche Symmetrie der <rs ana="#m_interval">Intervalle</rs> und der <rs ana="#concept_phy">Schwin<pc>¬</pc>
@@ -5755,7 +5848,8 @@
             </p>
             <p facs="#facs_98_TextRegion_1626258672829_610">
 				<lb facs="#facs_98_r1l14" n="N001"/>Uns gilt nur die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">tonische Auffassung</rs></hi> als die ursprüng<pc>¬</pc>
-				<lb facs="#facs_98_r1l15" n="N002"/>liche und natürliche; folglich wird sie <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">auch beim <rs ana="#m_chord">Mollaccorde</rs><lb facs="#facs_98_r1l16" n="N003"/>die Regel</hi> sein. Nur auf diese Weise kann es der <rs ana="#concept_mus">Theorie</rs>
+				<lb facs="#facs_98_r1l15" n="N002"/>liche und natürliche; folglich wird sie <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">auch beim <rs ana="#m_chord">Mollaccorde</rs>
+				<lb facs="#facs_98_r1l16" n="N003"/>die Regel</hi> sein. Nur auf diese Weise kann es der <rs ana="#concept_mus">Theorie</rs>
 				<lb facs="#facs_98_r1l17" n="N004"/>gelingen, einen innigen, organischen Zusammenhang zwischen <rs ana="#m_tonality">Dur</rs>
 				<lb facs="#facs_98_r1l18" n="N005"/>und <rs ana="#m_tonality">Moll</rs> zu finden, wie ihn die künstlerische <rs ana="#concept_mus">Praxis</rs> längst kennt.
 				<lb facs="#facs_98_r1l19" n="N006"/>Die <rs ana="#concept_mus">phonische Auffassung</rs> dagegen ist eine künstliche, eine fictive,
@@ -6132,7 +6226,8 @@
 				<lb facs="#facs_105_r1l23" n="N016"/>klingen, als die entsprechenden <rs ana="#concept_mus">Folgen</rs> in <rs ana="#m_tonality">Dur</rs>.
 			</p>
             <p facs="#facs_105_TextRegion_1626260108648_1668">
-				<lb facs="#facs_105_line_1626260169341_1742" n="N001"/>C. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Die unmittelbare <rs ana="#concept_mus">Verwandtschaft</rs> <rs ana="#concept_mus">antinomer</rs><lb facs="#facs_105_r1l26" n="N002"/><rs ana="#m_chord">Dreiklänge</rs></hi>, d. h. <rs ana="#concept_mus">tonischer</rs> mit <rs ana="#concept_mus">phonischen</rs> und umgekehrt,
+				<lb facs="#facs_105_line_1626260169341_1742" n="N001"/>C. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Die unmittelbare <rs ana="#concept_mus">Verwandtschaft</rs> <rs ana="#concept_mus">antinomer</rs>
+				<lb facs="#facs_105_r1l26" n="N002"/><rs ana="#m_chord">Dreiklänge</rs></hi>, d. h. <rs ana="#concept_mus">tonischer</rs> mit <rs ana="#concept_mus">phonischen</rs> und umgekehrt,
 				<lb facs="#facs_105_r1l27" n="N003"/>erfordert eine besondere Erwägung. Auf der nothwendigen Zer<pc>¬</pc>
 				<lb facs="#facs_105_r1l28" n="N004"/>legung der <rs ana="#concept_mus">phonischen</rs> <rs ana="#m_chord">Dreiklänge</rs> in <rs ana="#concept_mus">tonische</rs> <rs ana="#m_interval">Zweiklänge</rs> müssten
 				<lb facs="#facs_105_r1l29" n="N005"/>wir auch dann noch bestehen, wenn wir <persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi>'s</persName> Gleich<pc>¬</pc>
@@ -6198,7 +6293,8 @@
 			</p>
             <p facs="#facs_106_TextRegion_1626260254574_1839">
 				<lb facs="#facs_106_r1l18" n="N001"/>Diese vier <rs ana="#m_chord">Molldreiklänge</rs>: <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi>-Moll</rs> (<rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs>), <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">A</hi>}-Moll</rs> (<rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs>), <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">E</hi>}-Moll</rs>
-				<lb facs="#facs_106_r1l19" n="N002"/>(<rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs>) und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">F</hi>-Moll</rs> (<rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs>) können wir <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">unmittelbare <rs ana="#concept_mus">antinome</rs><lb facs="#facs_106_r1l20" n="N003"/><rs ana="#concept_mus">Verwandte</rs></hi> des <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi>-Durdreiklanges</rs> nennen, indem wir hier, den
+				<lb facs="#facs_106_r1l19" n="N002"/>(<rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">h</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs>) und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">F</hi>-Moll</rs> (<rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs>) können wir <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">unmittelbare <rs ana="#concept_mus">antinome</rs>
+				<lb facs="#facs_106_r1l20" n="N003"/><rs ana="#concept_mus">Verwandte</rs></hi> des <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi>-Durdreiklanges</rs> nennen, indem wir hier, den
 				<lb facs="#facs_106_r1l21" n="N004"/>geänderten Verhältnissen entsprechend, den Ausdruck „unmittelbar”
 				<lb facs="#facs_106_r1l22" n="N005"/>ein wenig anders anwenden, als es bei der <rs ana="#concept_mus">Verwandtschaft</rs> <rs ana="#concept_mus">homo<pc>¬</pc>
 				<lb facs="#facs_106_r1l23" n="N006"/>nomer Klänge</rs> der Fall war.
@@ -6377,7 +6473,8 @@
 				<lb facs="#facs_109_r1l73" n="N002"/><rs ana="#m_chord">Dur-</rs> und <rs ana="#m_chord">Molldreiklangs</rs>, dürften allein eine besondere Anmerkung ver<pc>¬</pc>
 				<lb facs="#facs_109_r1l74" n="N003"/>dienen. Sie klingen etwas befremdender, als die übrigen <rs ana="#concept_mus">antinomen</rs> <rs ana="#concept_mus">Schritte</rs>,
 				<lb facs="#facs_109_r1l75" n="N004"/>obgleich wir gefunden haben, dass gerade hier die innigste <rs ana="#concept_mus">Verwandtschaft</rs>
-				<lb facs="#facs_109_r1l76" n="N005"/>besteht. Der Grund ist in der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">ausgesprochenen <rs ana="#concept_mus">modulatorischen</rs><lb facs="#facs_109_r1l77" n="N006"/>Tendenz</hi> dieser <rs ana="#concept_mus">Folgen</rs> zu suchen, da wir durch sie nicht blos in ein
+				<lb facs="#facs_109_r1l76" n="N005"/>besteht. Der Grund ist in der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">ausgesprochenen <rs ana="#concept_mus">modulatorischen</rs>
+				<lb facs="#facs_109_r1l77" n="N006"/>Tendenz</hi> dieser <rs ana="#concept_mus">Folgen</rs> zu suchen, da wir durch sie nicht blos in ein
 				<lb facs="#facs_109_r1l78" n="N007"/>anderes <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_tonality">Tongeschlecht</rs></hi>, sondern auch in eine ganz andere <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_tonality">Tonleiter</rs></hi>
 				<lb facs="#facs_109_r1l79" n="N008"/>gelangen, während bei allen übrigen oben angeführten <rs ana="#concept_mus">antinomen</rs> <rs ana="#concept_mus">Folgen</rs>
 				<lb facs="#facs_109_r1l80" n="N009"/>nur jenes gewechselt, die <rs ana="#m_tonality">Tonleiter</rs> aber bewahrt wird, bei den <rs ana="#concept_mus">homonomen</rs>
@@ -6532,7 +6629,8 @@
 				<lb facs="#facs_112_r1l61" n="N004"/>Dagegen läugnet <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0017">Riemann</persName></hi> die Unmittelbarkeit des <rs ana="#m_interval">kleinen Terzschrittes</rs>.</note>.
 			</p>
             <p facs="#facs_112_TextRegion_1626265945378_2869">
-				<lb facs="#facs_112_r1l26" n="N001"/>Betrachten wir nun eine <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Folge</rs> mittelbar <rs ana="#concept_mus">verwandter</rs><lb facs="#facs_112_r1l27" n="N002"/><rs ana="#m_chord">Accordklänge</rs></hi>. Das Unvermittelte, Zusammenhangslose einer
+				<lb facs="#facs_112_r1l26" n="N001"/>Betrachten wir nun eine <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Folge</rs> mittelbar <rs ana="#concept_mus">verwandter</rs>
+				<lb facs="#facs_112_r1l27" n="N002"/><rs ana="#m_chord">Accordklänge</rs></hi>. Das Unvermittelte, Zusammenhangslose einer
 				<lb facs="#facs_112_r1l28" n="N003"/>solchen <rs ana="#concept_mus">Folge</rs> wird jedenfalls dadurch einigermassen gemildert,
 				<lb facs="#facs_112_r1l29" n="N004"/>wenn der <rs ana="#concept_mus">vermittelnde</rs> <rs ana="#concept_mus">Klang</rs> als einzelner <rs ana="#m_note">Ton</rs> in einem der
 				<lb facs="#facs_112_r1l30" n="N005"/>beiden <rs ana="#m_chord">Accorde</rs> vorhanden ist. So findet sich z. B. bei der Folge
@@ -6943,7 +7041,8 @@
          <figure facs="#facs_122_Graphic_1626267593730_4386">
                <graphic url="graphic/facs_122_Graphic_1626267593730_4386.png"/>
             </figure>
-            	<lb facs="#facs_122_r1l6" n="N001"/>finden wir zwei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">isolirte</rs> <rs ana="#m_chord">Accordklänge</rs></hi>. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Verbundene</rs><lb facs="#facs_122_r1l7" n="N002"/><rs ana="#concept_mus">Klänge</rs></hi> weist wieder der <rs ana="#m_chord">Septimenaccord</rs> der ersten <rs ana="#concept_mus">Stufe</rs> in
+            	<lb facs="#facs_122_r1l6" n="N001"/>finden wir zwei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">isolirte</rs> <rs ana="#m_chord">Accordklänge</rs></hi>. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Verbundene</rs>
+				<lb facs="#facs_122_r1l7" n="N002"/><rs ana="#concept_mus">Klänge</rs></hi> weist wieder der <rs ana="#m_chord">Septimenaccord</rs> der ersten <rs ana="#concept_mus">Stufe</rs> in
 				<lb facs="#facs_122_r1l8" n="N003"/><rs ana="#m_tonality">Dur</rs> auf, der überdies (wie viele andere nicht nur <rs ana="#concept_mus"><rs ana="#concept_phy">dissonante</rs></rs>,
 				<lb facs="#facs_122_r1l9" n="N004"/>sondern mitunter auch sogar <rs ana="#concept_mus"><rs ana="#concept_phy">consonante</rs></rs> <rs ana="#m_chord">Accorde</rs>) in verschiedener
 				<lb facs="#facs_122_r1l10" n="N005"/>Weise gedeutet werden kann:
@@ -6965,7 +7064,9 @@
             </p>
             <p facs="#facs_122_TextRegion_1626267567283_4357 #facs_123_TextRegion_1626267745055_4512">
 				<lb facs="#facs_122_r1l34" n="N001"/>Jetzt erst können wir auf <persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi>'s</persName> Auffassung der
-				<lb facs="#facs_122_r1l35" n="N002"/><rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs> eingehen. Wir haben gefunden, dass die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus"><rs ana="#concept_phy">Consonanz</rs></rs><lb facs="#facs_122_r1l36" n="N003"/>der <rs ana="#concept_mus">Zusammenklang</rs> direct <rs ana="#concept_mus">verwandter</rs>, die <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs><lb facs="#facs_122_r1l37" n="N004"/>der <rs ana="#concept_mus">Zusammenklang</rs> indirect <rs ana="#concept_mus">verwandter</rs> <rs ana="#m_note">Töne</rs> ist</hi>.
+				<lb facs="#facs_122_r1l35" n="N002"/><rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs> eingehen. Wir haben gefunden, dass die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus"><rs ana="#concept_phy">Consonanz</rs></rs>
+				<lb facs="#facs_122_r1l36" n="N003"/>der <rs ana="#concept_mus">Zusammenklang</rs> direct <rs ana="#concept_mus">verwandter</rs>, die <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs>
+				<lb facs="#facs_122_r1l37" n="N004"/>der <rs ana="#concept_mus">Zusammenklang</rs> indirect <rs ana="#concept_mus">verwandter</rs> <rs ana="#m_note">Töne</rs> ist</hi>.
 				<lb facs="#facs_122_r1l38" n="N005"/>Dies behält seine volle Richtigkeit auch für <rs ana="#concept_mus">mehrstimmige</rs> <rs ana="#m_chord">Accorde</rs>.
 				<lb facs="#facs_122_r1l39" n="N006"/>Erst dann, wenn wir den <rs ana="#concept_mus"><rs ana="#concept_phy">dissonirenden</rs></rs> <rs ana="#m_chord">Accord</rs> in selbständige
 				<lb facs="#facs_122_r1l40" n="N007"/><rs ana="#concept_phy"><rs ana="#concept_mus">consonante</rs></rs> <rs ana="#concept_mus">Tongruppen</rs>, in <rs ana="#concept_mus">isolirte</rs> oder <rs ana="#concept_mus">verbundene</rs> <rs ana="#m_chord">Accordklänge</rs>
@@ -7059,7 +7160,7 @@
             	<lb facs="#facs_124_r1l35" n="N001"/>Die <rs ana="#m_interval">kleine Terz</rs> <rs ana="#m_interval"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>{′—<hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi>′</rs> kann um so eher als unvollständiger <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">D</hi>-Moll<pc>¬</pc>
 				<lb facs="#facs_124_r1l36" n="N002"/>accordklang</rs>, <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs>, aufgefasst werden, als in ihr alle drei <rs ana="#concept_mus">Theil<pc>¬</pc>
 				<lb facs="#facs_124_r1l37" n="N003"/>klänge</rs> desselben enthalten sind: <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> als <rs ana="#m_interval">Intervall</rs>, <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> als
-				<lb facs="#facs_124_line_1626268078830_4778" n="N004"/><rs ana="#m_note">Einzeltöne</rs>. <note facs="#facs_124_TextRegion_1626267928431_4601" type="foot" n="*)"><lb facs="#facs_124_line_1626268100882_4831" n="N001"/>Die Deutung: $$GRAPHIC
+				<lb facs="#facs_124_line_1626268078830_4778" n="N004"/><rs ana="#m_note">Einzeltöne</rs>. <note facs="#facs_124_TextRegion_1626267928431_4601" type="foot" n="*)"><lb facs="#facs_124_line_1626268100882_4831" n="N001"/>Die Deutung: <figure facs="#facs_124_line_1626268078830_4778" rend="inline"><graphic url="graphic/facs_124_line_1626268078830_4778.png"/></figure>
 				<lb facs="#facs_124_line_1626268105805_4842" n="N002"/>ist ebenfalls correct; die <rs ana="#concept_mus">Auflösung</rs> wäre dann keine <rs ana="#concept_mus">harmonische</rs>, sondern
 				<lb facs="#facs_124_r1l50" n="N003"/>eine gemischte.</note>
 			</p>
@@ -7350,7 +7451,7 @@
 				<lb facs="#facs_131_r1l22" n="N003"/>neuen Fall. Der eine <rs ana="#concept_mus">Klang</rs> (<rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs>) besteht, der andere macht einen
 				<lb facs="#facs_131_r1l23" n="N004"/><rs ana="#concept_mus">Quintenschritt</rs> (<rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> . . . <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs>); das Resultat ist jedoch keine neue
 				<lb facs="#facs_131_r1l24" n="N005"/><rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanz</rs></rs>, sondern ein <rs ana="#concept_mus">phonischer</rs> <rs ana="#concept_mus">Klang</rs> (<rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs>):
-				<lb facs="#facs_131_line_1626275153753_241" n="N006"/>$$GRAPHIC In dieser Schreibweise hätten wir somit eine echte <rs ana="#concept_mus"><rs ana="#concept_phy">Dis<pc>¬</pc>
+				<lb facs="#facs_131_line_1626275153753_241" n="N006"/><figure facs="#facs_131_line_1626275153753_241"><graphic url="graphic/facs_131_line_1626275153753_241.png"/></figure> In dieser Schreibweise hätten wir somit eine echte <rs ana="#concept_mus"><rs ana="#concept_phy">Dis<pc>¬</pc>
 				<lb facs="#facs_131_r1l27" n="N007"/>sonanz</rs></rs> vor uns, da keiner der beiden Bestandtheile seine
 				<lb facs="#facs_131_r1l29" n="N008"/><rs ana="#concept_mus">Klangbedeutung</rs> bewahrt, sondern beide zu einem dritten
 				<lb facs="#facs_131_r1l30" n="N009"/><rs ana="#concept_mus">Klange</rs> fortschreiten.
@@ -7369,7 +7470,7 @@
 				<lb facs="#facs_131_r1l41" n="N011"/>Abschlusse gelangt. So wie bei der <rs ana="#concept_mus">vorgreifenden Klangfolge</rs> über<pc>¬</pc>
 				<lb facs="#facs_131_r1l42" n="N012"/>haupt, spielen namentlich auch hier die <rs ana="#m_interval">Quintenschritte</rs> als die
 				<lb facs="#facs_131_line_1626275171521_279" n="N013"/>leichtfasslichsten die erste Rolle. Der <rs ana="#m_chord">Septimenaccord</rs> <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> + <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> =
-				<lb facs="#facs_131_r1l45" n="N014"/><rs ana="#m_chord">$$GRAPHIC</rs> kann z. B. durch einen <rs ana="#m_interval">Quintenschritt</rs> des <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> und
+				<lb facs="#facs_131_r1l45" n="N014"/><rs ana="#m_chord"><figure facs="#facs_131_r1l45" rend="inline"><graphic url="graphic/facs_131_r1l45.png"/></figure></rs> kann z. B. durch einen <rs ana="#m_interval">Quintenschritt</rs> des <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">d</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> und
 				<lb facs="#facs_131_r1l46" n="N015"/>eine <rs ana="#concept_mus">vorgreifende Folge</rs> des <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> nach <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> <rs ana="#concept_mus">aufgelöst</rs> werden, worauf
 				<lb facs="#facs_131_r1l47" n="N016"/>natürlich noch <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> als <rs ana="#concept_mus">Vermittler</rs> zwischen <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> folgen muss.
 				<lb facs="#facs_131_r1l48" n="N017"/>Den Sinn dieser <rs ana="#concept_mus">Auflösung</rs> erkennt man deutlich aus dem folgenden
@@ -7415,7 +7516,8 @@
             </figure>
             <p facs="#facs_133_TextRegion_1626275446195_467">
 				<lb facs="#facs_133_r1l5" n="N001"/>Diese <rs ana="#concept_mus">Auflösung</rs> des <rs ana="#m_chord">übermässigen Dreiklanges</rs> ist vielleicht
-				<lb facs="#facs_133_line_1626275534126_510" n="N002"/>die älteste; sie findet sich schon im <date>Jahre 1593</date> bei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="#P0132">Luca</persName><lb facs="#facs_133_line_1626275538158_522" n="N003"/><persName role="composer" ref="#P0132">Marenzio</persName></hi>. <note facs="#facs_133_TextRegion_1626275423624_443" type="foot" n="*)"><lb facs="#facs_133_r1l37" n="N001"/>S. <persName role="author" ref="#P0041">C. F. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Weitzmann</hi></persName>: <title ana="#text" ref="#W0163">Geschichte des Septimenaccordes</title>, <placeName ref="#L0003">Berlin</placeName>
+				<lb facs="#facs_133_line_1626275534126_510" n="N002"/>die älteste; sie findet sich schon im <date>Jahre 1593</date> bei <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="composer" ref="#P0132">Luca</persName>
+				<lb facs="#facs_133_line_1626275538158_522" n="N003"/><persName role="composer" ref="#P0132">Marenzio</persName></hi>. <note facs="#facs_133_TextRegion_1626275423624_443" type="foot" n="*)"><lb facs="#facs_133_r1l37" n="N001"/>S. <persName role="author" ref="#P0041">C. F. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Weitzmann</hi></persName>: <title ana="#text" ref="#W0163">Geschichte des Septimenaccordes</title>, <placeName ref="#L0003">Berlin</placeName>
 				<lb facs="#facs_133_r1l38" n="N002"/><date when="1854">1854</date>, S. 12 (allerdings in anderer Orthographie):
 					<notatedMusic rend="MEI" facs="#facs_133_Music_1626275520687_496" source="facs_133_Music_1626275520687_496.mei"><desc>MUSIK</desc></notatedMusic></note>
 			</p>
@@ -7494,7 +7596,8 @@
             	<lb facs="#facs_135_r1l2" n="N001"/>nach <persName role="author" ref="#P0018">v. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Oettingen</hi></persName> auch hier als <rs ana="#concept_mus">Dissonanz</rs> auftreten, und doch
 				<lb facs="#facs_135_r1l3" n="N002"/>hören wir einen vollkommen <rs ana="#concept_mus"><rs ana="#concept_phy">consonanten</rs></rs> <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi>-Klang</rs> als Sextaccord,
 				<lb facs="#facs_135_r1l4" n="N003"/>und durchaus nicht eine <rs ana="#concept_mus"><rs ana="#concept_phy">dissonante</rs></rs> Zweiheit von <rs ana="#concept_mus">Klängen</rs>: <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">e</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs> + <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">a</hi>{<hi rend="fontSize:0.0; kerning:0; superscript:true;">0</hi></rs>.
-				<lb facs="#facs_135_r1l5" n="N004"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Es werden eben von unserem Gehöre die <rs ana="#concept_mus">tonischen</rs><lb facs="#facs_135_r1l6" n="N005"/><rs ana="#m_chord">Dreiklänge</rs> nicht in <rs ana="#concept_mus">phonische</rs> <rs ana="#concept_mus">Theilklänge</rs> zerlegt,<lb facs="#facs_135_r1l7" n="N006"/>wohl aber umgekehrt die <rs ana="#concept_mus">phonischen</rs> <rs ana="#m_chord">Dreiklänge</rs> in<lb facs="#facs_135_r1l8" n="N007"/>ihre <rs ana="#concept_mus">tonischen</rs> <rs ana="#m_chord">Intervalle</rs></hi>.
+				<lb facs="#facs_135_r1l5" n="N004"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Es werden eben von unserem Gehöre die <rs ana="#concept_mus">tonischen</rs>
+				<lb facs="#facs_135_r1l6" n="N005"/><rs ana="#m_chord">Dreiklänge</rs> nicht in <rs ana="#concept_mus">phonische</rs> <rs ana="#concept_mus">Theilklänge</rs> zerlegt,<lb facs="#facs_135_r1l7" n="N006"/>wohl aber umgekehrt die <rs ana="#concept_mus">phonischen</rs> <rs ana="#m_chord">Dreiklänge</rs> in<lb facs="#facs_135_r1l8" n="N007"/>ihre <rs ana="#concept_mus">tonischen</rs> <rs ana="#m_chord">Intervalle</rs></hi>.
 			
 			</p>
             <p facs="#facs_135_TextRegion_1626275821363_734">
@@ -7530,7 +7633,8 @@
 				<lb facs="#facs_135_line_1626275938035_828" n="N002"/><rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">ges</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs>, aber <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">f</hi><hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> und <rs ana="#m_chord"><hi rend="italic:true; fontSize:0.0; kerning:0;">as</hi>}<hi rend="fontSize:0.0; kerning:0; superscript:true;">+</hi></rs> sind <rs ana="#concept_mus">terzverwandt</rs>.
 			</p>
             <p facs="#facs_135_TextRegion_1626275801925_718 #facs_135_TextRegion_1626275793640_710">
-				<lb facs="#facs_135_line_1626275942801_837" n="N001"/>Dasselbe gilt von <rs ana="#concept_mus">chromatischen</rs> <rs ana="#concept_mus">Folgen</rs><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_chord">übermässiger</rs><lb facs="#facs_135_r1l44" n="N002"/><rs ana="#m_chord">Dreiklänge</rs></hi>:
+				<lb facs="#facs_135_line_1626275942801_837" n="N001"/>Dasselbe gilt von <rs ana="#concept_mus">chromatischen</rs> <rs ana="#concept_mus">Folgen</rs><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_chord">übermässiger</rs>
+				<lb facs="#facs_135_r1l44" n="N002"/><rs ana="#m_chord">Dreiklänge</rs></hi>:
 				 <figure facs="#facs_135_Graphic_1626275889270_761">
                <graphic url="graphic/facs_135_Graphic_1626275889270_761.png"/>
             </figure>
@@ -7568,7 +7672,8 @@
 				<lb facs="#facs_136_r1l35" n="N002"/>schiedenartiger <rs ana="#concept_mus"><rs ana="#concept_phy">dissonanter</rs></rs> <rs ana="#m_chord">Accorde</rs></hi>. Wir müssen uns
 				<lb facs="#facs_136_r1l36" n="N003"/>hier nur auf einige wenige Beispiele beschränken. Zunächst betrachten
 				<lb facs="#facs_136_r1l37" n="N004"/>wir die häufige <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Verbindung des <rs ana="#m_chord">übermässigen Drei<pc>¬</pc>
-				<lb facs="#facs_136_r1l38" n="N005"/>klanges</rs> mit dem <rs ana="#m_chord">Septimenaccorde</rs> mit <rs ana="#m_interval">verminderter</rs><lb facs="#facs_136_r1l39" n="N006"/><rs ana="#m_interval">Quinte</rs></hi>:
+				<lb facs="#facs_136_r1l38" n="N005"/>klanges</rs> mit dem <rs ana="#m_chord">Septimenaccorde</rs> mit <rs ana="#m_interval">verminderter</rs>
+				<lb facs="#facs_136_r1l39" n="N006"/><rs ana="#m_interval">Quinte</rs></hi>:
 				<figure facs="#facs_136_Graphic_1626276098664_936">
                <graphic url="graphic/facs_136_Graphic_1626276098664_936.png"/>
             </figure>
