@@ -2970,8 +2970,8 @@
          <div type="chapter" n="1">
             <head facs="#facs_50_TextRegion_1614862120717_6979">
 				<lb facs="#facs_50_r1l1" n="N001"/>II.
-				<lb facs="#facs_50_r1l2" n="N002"/><title ana="#text" ref="#W0071">Die Unmöglichkeit und Überflüssigkeit der</title>
-				<lb facs="#facs_50_r1l3" n="N003"/><title ana="#text" ref="#W0071"><rs ana="#concept_mus">dualistischen</rs> <rs ana="#concept_mus">Molltheorie</rs> <persName role="author" ref="#P0017">Riemanns</persName></title>.
+				<lb facs="#facs_50_r1l2" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><title ana="#text" ref="#W0071">Die Unmöglichkeit und Überflüssigkeit der</title>
+				<lb facs="#facs_50_r1l3" n="N003"/><title ana="#text" ref="#W0071"><rs ana="#concept_mus">dualistischen</rs> <rs ana="#concept_mus">Molltheorie</rs> <persName role="author" ref="#P0017">Riemanns</persName></title>.</hi>
 			</head>
          <div type="chapter" n="2">
             <head facs="#facs_50_TextRegion_1614862130847_6984">
@@ -4160,7 +4160,7 @@
          <div type="chapter" n="1">
             <head facs="#facs_76_TextRegion_1614968829646_2007">
 				<lb facs="#facs_76_r1l1" n="N001"/>III.
-				<lb facs="#facs_76_r1l2" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><title ana="#text" ref="#W0098">Die symmetrische Umkehrung</title>.<lb facs="#facs_76_r1l3" n="N003"/>Kritik</hi>
+				<lb facs="#facs_76_r1l2" n="N002"/><hi rend="fontSize:0.0; kerning:0; bold:true;"><title ana="#text" ref="#W0098">Die symmetrische Umkehrung</title>. </hi><hi rend="fontSize:0.0; kerning:0; bold:true;"><lb facs="#facs_76_r1l3" n="N003"/>Kritik</hi>
             	<lb facs="#facs_76_r1l4" n="N004"/>der gleichnamigen Broschüre von Prof. <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0071">Hermann Schröder</persName></hi>
 				<lb facs="#facs_76_r1l5" n="N005"/>von <persName role="author" ref="#P0006">Georg Capellen</persName>.<note facs="#facs_76_TextRegion_1614968796438_1981" type="foot" n="*)"><lb facs="#facs_76_r1l26" n="N001"/>Vgl. hierzu meine Broschüre „<title ana="#text" ref="#W0072">Die Abhängigkeitsverhältnisse in</title>
 				<lb facs="#facs_76_r1l27" n="N002"/><title ana="#text" ref="#W0072">der Musik</title>” (eine vollständige, logisch einheitliche Erklärung der Probleme
