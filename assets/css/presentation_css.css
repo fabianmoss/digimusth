@@ -368,17 +368,17 @@ tei-figure {
   margin-right: auto;
 }
 
+img {
+display: inherit;
+margin:auto;}
+
 /*inline figure images*/ 
 tei-figure[rend="inline"]{
 display: inline-block;
 }
 figure[rend="inline"] img {
  max-height: 4em;
-
 }
-img {
-display: inherit;
-margin:auto;}
 
 
 tei-facsimile {

@@ -13,14 +13,27 @@
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
     <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="#" data-proofer-ignore>Return to Top</a>
-    {% for node in page.toc %}
+    <div class="sidebar-item">
+       <!-- display the table of content above the other pages-->
+      {% for node in page.toc %}
     <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %} sidebar-nav-item-toc" href="#{{ node | slugify }}">{{ node }}</a>
     {% endfor %}
+    </div>
+    
+  {% assign pages_list = site.pages | sort:"url" %}
+    {% for node in pages_list %}
+      {% if node.title != null and node.url != "/404.html" %}
+        {% if node.layout == "page" and node.toc_exclude != true %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
   </nav>
 
   <div class="sidebar-item">
     <p>
-     Edited by {{ page.editor }}, {{ site.time | date: '%Y' }}.
+     Edited by {{ page.editor }}, {{ site.time | date: '%D%M%Y' }}.
     </p>
     <p>
       Built with <a href="https://minicomp.github.io/ed/">Ed.</a> 

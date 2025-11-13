@@ -1625,7 +1625,7 @@
 				</docImprint>
 			</titlePage>
    		<div type="contents"><list n="1"><item>
-				ERSTER ABSCHNTTT.
+				ERSTER ABSCHNITT.
 				AKUSTISCHE VORFRAGEN.
 			<list n="2"><item>
 				§ 1. Tonstärke und Tonhöhe.
@@ -1844,8 +1844,8 @@
          <pb facs="#facs_9" n=""/>
          <div rend="TEI" facs="#facs_9_TextRegion_1626023514393_331" type="chapter" n="1">
 			<head facs="#facs_9_TextRegion_1626023514393_331">
-				<lb facs="#facs_9_r1l1" n="N001"/>ERSTER ABSCHNTTT.
-				<lb facs="#facs_9_r1l2" n="N002"/><rs ana="#concept_phy">AKUSTISCHE</rs> VORFRAGEN.
+				<hi><lb facs="#facs_9_r1l1" n="N001"/>ERSTER ABSCHNITT.
+				<lb facs="#facs_9_r1l2" n="N002"/><rs ana="#concept_phy">AKUSTISCHE</rs> VORFRAGEN.</hi>
 			</head>
          <div rend="TEI" facs="#facs_9_TextRegion_1626023514393_330" type="chapter" n="2">
 			<head facs="#facs_9_TextRegion_1626023514393_330">
@@ -3238,8 +3238,8 @@
          <pb facs="#facs_41" n=""/>
          <div rend="TEI" facs="#facs_41_TextRegion_1626095865305_2838" type="chapter" n="1">
 			<head facs="#facs_41_TextRegion_1626095865305_2838">
-				<lb facs="#facs_41_r1l1" n="N001"/>ZWEITER ABSCHNITT.
-				<lb facs="#facs_41_r1l2" n="N002"/><rs ana="#concept_mus"><rs ana="#concept_phy">CONSONANZ</rs></rs> UND <rs ana="#concept_mus"><rs ana="#concept_phy">DISSONANZ</rs></rs>
+				<hi><lb facs="#facs_41_r1l1" n="N001"/>ZWEITER ABSCHNITT.
+				<lb facs="#facs_41_r1l2" n="N002"/><rs ana="#concept_mus"><rs ana="#concept_phy">CONSONANZ</rs></rs> UND <rs ana="#concept_mus"><rs ana="#concept_phy">DISSONANZ</rs></rs></hi>
 			</head>
          <div rend="TEI" facs="#facs_41_TextRegion_1626095865305_2837" type="chapter" n="2">
 			<head facs="#facs_41_TextRegion_1626095865305_2837">
@@ -5638,8 +5638,8 @@
          <pb facs="#facs_94" n=""/>
          <div rend="TEI" facs="#facs_94_TextRegion_1626257952452_31" type="chapter" n="1">
 			<head facs="#facs_94_TextRegion_1626257952452_31">
-				<lb facs="#facs_94_r1l1" n="N001"/>DRITTER ABSCHNITT.
-				<lb facs="#facs_94_r1l2" n="N002"/><rs ana="#concept_mus">ACCORDLEHRE</rs>.
+				<hi><lb facs="#facs_94_r1l1" n="N001"/>DRITTER ABSCHNITT.
+				<lb facs="#facs_94_r1l2" n="N002"/><rs ana="#concept_mus">ACCORDLEHRE</rs>.</hi>
 			</head>
          <div rend="TEI" facs="#facs_94_TextRegion_1626257952452_30" type="chapter" n="2">
 			<head facs="#facs_94_TextRegion_1626257952452_30">
@@ -7751,7 +7751,7 @@
          <pb facs="#facs_139" n=""/>
          <div rend="TEI" facs="#facs_139_TextRegion_1626276420825_1195" type="chapter" n="1">
 			<head facs="#facs_139_TextRegion_1626276420825_1195">
-				<lb facs="#facs_139_r1l1" n="N001"/>RÜCKBLICK.
+				<hi><lb facs="#facs_139_r1l1" n="N001"/>RÜCKBLICK.</hi>
 			</head>
             <p facs="#facs_139_TextRegion_1626276420825_1194">
 				<lb facs="#facs_139_r1l2" n="N001"/>Mit der Betrachtung der <rs ana="#concept_mus">mehrstimmigen</rs> <rs ana="#concept_mus"><rs ana="#concept_phy">Dissonanzen</rs></rs> ist die
