@@ -76,6 +76,32 @@ layout: music_base
 				// Return empty text node so nothing is inserted in place
 				return document.createTextNode('');
 				},
+
+				 //adding toc functionality
+				"head": function(elt) {
+				// Clone the element so CETEIcean can safely insert it into the DOM
+				let clone = document.createElement("div");
+
+				// Copy over the inner HTML so the TEI content displays
+				clone.innerHTML = elt.innerHTML;
+
+				// Find the first <hi> in the clone
+				let hi = clone.querySelector("tei-hi");
+				if (hi) {
+					// Extract and clean up its text
+					let text = hi.textContent.trim();
+					let cleaned = text
+					.replace(/[.,\/#!$%\^&\*;:{}=\_`~()?"'””“„’]/g, "")
+					.replace(/\s+/g, "-")
+					.toLowerCase();
+
+					// Add the id attribute
+					clone.setAttribute("id", cleaned);
+				}
+
+				// Return the new HTML structure so CETEIcean renders it
+				return clone;
+				},
 			
 
 				/* deal with facsimili css elements*/
