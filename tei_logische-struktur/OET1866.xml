@@ -4643,7 +4643,7 @@
 				<lb facs="#facs_42_r1l38" n="N004"/>schaulicher zu machen: <formula notation="tex">$1:\frac{a}{b}:\frac{c}{d}:\frac{e}{f} = bdf:adf:bcf:bde$</formula>.
 				<lb facs="#facs_42_r1l40" n="N005"/>Hier haben wir rechts <rs ana="#concept_phy">ganze Zahlen</rs>, und 1 ist nach dem frü<pc>¬</pc>
 				<lb facs="#facs_42_r1l41" n="N006"/>heren der <rs ana="#concept_mus">tonische</rs> <rs ana="#m_note">Grundton</rs>, d. h. <formula notation="tex">$\frac{1}{bdf} \times C$</formula>. Ebenso ist
-				<lb facs="#facs_42_line_1616438071449_4601" n="N007"/><formula notation="tex">$1:\frac{a}{b}:\frac{c}{d}:\frac{e}{f} = \frac{1}7ace}:\frac{1}{bce}:\frac{1}{ade}:\frac{acf}$</formula>, und 1 ist der <rs ana="#concept_mus">pho<pc>¬</pc>
+				<lb facs="#facs_42_line_1616438071449_4601" n="N007"/><formula notation="tex">$1:\frac{a}{b}:\frac{c}{d}:\frac{e}{f} = \frac{1}{ace}:\frac{1}{bce}:\frac{1}{ade}:\frac{acf}$</formula>, und 1 ist der <rs ana="#concept_mus">pho<pc>¬</pc>
 				<lb facs="#facs_42_r1l48" n="N008"/>nische</rs> <rs ana="#concept_phy">Oberton</rs>, = <hi rend="italic:true; fontSize:0.0; kerning:0;">ace</hi> . <hi rend="italic:true; fontSize:0.0; kerning:0;">C</hi>.
 			</p>
          <pb facs="#facs_43" n="35"/>
@@ -5925,7 +5925,7 @@
 				<lb facs="#facs_82_r1l28" n="N006"/>len eine <rs ana="#concept_mus">Generaldiscantschrift</rs></hi> für die andere <rs ana="#concept_mus">Cadenz</rs>
 				<lb facs="#facs_82_r1l29" n="N007"/>aufstellen:
             	<notatedMusic rend="MEI" facs="#facs_82_Music_1621068246847_1256" source="facs_82_Music_1621068246847_1256.mei"><desc>MUSIK</desc></notatedMusic>
-            	<lb facs="#facs_82_r1l50" n="N001"/><rs ana="terzquintcadenz"><span type="figured-bass" rend="stacked">5 3</span></rs> bedeutet dort <rs ana="#m_interval">Terz</rs> und <rs ana="#m_interval">Quint</rs> überm <rs ana="#m_note">Grundton</rs>, hier <rs ana="quintterzcadenz"><span type="figured-bass" rend="stacked">3 5</span></rs>
+            	<lb facs="#facs_82_r1l50" n="N001"/><rs ana="terzquintcadenz"><span type="figured-bass" rend="stacked"><span>5</span><span>3</span></span></rs> bedeutet dort <rs ana="#m_interval">Terz</rs> und <rs ana="#m_interval">Quint</rs> überm <rs ana="#m_note">Grundton</rs>, hier <rs ana="quintterzcadenz"><span type="figured-bass" rend="stacked"><span>3</span><span>5</span></span></rs>
 				<lb facs="#facs_82_r1l51" n="N002"/><rs ana="#m_interval">Terz</rs> und <rs ana="#m_interval">Quint</rs> unter dem <rs ana="#m_note">Melodieton</rs>. — Ich habe absicht<pc>¬</pc>
 				<lb facs="#facs_82_r1l52" n="N003"/>lich den <rs ana="#concept_mus"><hi rend="italic:true; fontSize:0.0; kerning:0;">F</hi>-Schlüssel</rs> gewählt; weil dieser das in unserer
 				<lb facs="#facs_82_r1l53" n="N004"/>Schreibweise allein symmetrisch gelegene <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">d</rs></hi> auf der Mittel<pc>¬</pc>
