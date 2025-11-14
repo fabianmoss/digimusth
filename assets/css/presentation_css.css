@@ -262,21 +262,20 @@ mark {
 /*search bar*/
 /* Container around the search bar */
 #search-container {
-    width: 80%;              /* Use percentage of parent/container */
-    max-width: 90%;          /* Optional: prevent too wide on large screens */
-    margin: 2% auto;         /* Top/bottom margin relative to screen */
+    width: 80%;              
+    max-width: 90%;          
+    margin: 2% auto;         
 }
 
 /* Search input */
 #search {
-    width: 100%;             /* Full width of container */
-    padding: 1% 3%;          /* Vertical/horizontal padding as percentage */
-    /*font-size: 1.2em;         Relative to user font size */
-    border: 0.2em solid #75b5aa;  /* Border thickness in em */
-    border-radius: 2em;      /* Rounded edges relative to font size */
-    outline: none;           /* Removes default focus outline */
-    transition: all 0.3s ease; /* Smooth focus effect */
-    box-shadow: 0 0.3em 0.6em rgba(0,0,0,0.1); /* Shadow in em */
+    width: 100%;             
+    padding: 1% 3%;          
+    border: 0.2em solid #75b5aa;  
+    border-radius: 2em;      
+    outline: none;          
+    transition: all 0.3s ease; 
+    box-shadow: 0 0.3em 0.6em rgba(0,0,0,0.1); 
 }
 
 /* Focus effect */
@@ -376,8 +375,8 @@ margin:auto;}
 tei-figure[rend="inline"]{
 display: inline-block;
 }
-figure[rend="inline"] img {
- max-height: 4em;
+tei-figure[rend="inline"] img {
+ max-height: 3em;
 }
 
 

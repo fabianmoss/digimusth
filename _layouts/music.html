@@ -288,8 +288,16 @@ layout: music_base
 							img.src = pngPath;
 							img.alt = fileName;
 							img.style.maxWidth = "100%";
+
+							// Create a link wrapper so the image is clickable
+							const link = document.createElement("a");
+							link.href = pngPath;
+							link.target = "_blank"; // open in a new tab
+							link.appendChild(img);
+
+							// Replace the node contents with the clickable fallback image
 							node.innerHTML = "";
-							node.appendChild(img);
+							node.appendChild(link);
 						});
 				}
 			});
@@ -304,8 +312,50 @@ layout: music_base
 
 
 
+		// Wait for DOM and CETEIcean content to be ready
+		document.addEventListener("DOMContentLoaded", () => {
 
+		// Helper function that makes all images clickable
+		function makeImagesClickable(root = document) {
+			root.querySelectorAll("img").forEach(img => {
+			// skip already-linked images
+			if (!img.closest("a")) {
+				const src = img.getAttribute("src");
+				if (src) {
+				const a = document.createElement("a");
+				a.href = src;
+				a.target = "_blank";
+				img.parentNode.insertBefore(a, img);
+				a.appendChild(img);
+				}
+			}
+			});
+		}
 
+		// Run it once right away
+		makeImagesClickable();
+
+		// Observe for dynamically added images (footnotes, etc.)
+		const observer = new MutationObserver(mutations => {
+			for (const m of mutations) {
+			m.addedNodes.forEach(node => {
+				if (node.nodeType === 1) { // element node
+				if (node.matches("img")) {
+					makeImagesClickable(node.parentNode);
+				} else if (node.querySelectorAll) {
+					makeImagesClickable(node);
+				}
+				}
+			});
+			}
+		});
+
+		observer.observe(document.getElementById("TEI") || document.body, {
+			childList: true,
+			subtree: true
+		});
+
+		});
 
 
 		/*function for scrolling and highlighting, needs tidying up */
@@ -557,7 +607,8 @@ layout: music_base
 
 	// Observe mainText for dynamically loaded notes
 	const observer = new MutationObserver((mutations, obs) => {
-		const notes = mainText.querySelectorAll("tei-note");
+		//const notes = mainText.querySelectorAll("tei-note");
+		const notes = mainText.querySelectorAll("tei-note:not(tei-note tei-note)"); //solution to skip nested footnotes
 		if (notes.length > 0) {
 		obs.disconnect();
 		processNotes(Array.from(notes));
@@ -572,7 +623,7 @@ layout: music_base
 		resizeTimer = setTimeout(alignAllNotes, 250);
 	});
 
-	// Optional: Add a manual realign button for debugging
+	// Add a manual realign button for debugging
 	window.realignFootnotes = alignAllNotes;
 	});
 
