@@ -9,6 +9,16 @@
 				</author>
 				<respStmt>
 					<persName>
+						<surname>Moss</surname>
+						<forename>Fabian C.</forename>
+					</persName>
+					<orgName ref="https://www.uni-wuerzburg.de">Julius-Maximilians-Universität Würzburg</orgName>
+					<resp>
+						<note type="remarkResponsibility">Herausgeber</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName>
 						<surname>Köster</surname>
 						<forename>Maik</forename>
 					</persName>
@@ -79,17 +89,7 @@
 					</persName>
 					<orgName ref="https://www.uni-wuerzburg.de">Julius-Maximilians-Universität Würzburg</orgName>
 					<resp>
-						<note type="remarkResponsibility">Umsetzung der Web-Präsentation</note>
-					</resp>
-				</respStmt>
-				<respStmt>
-					<persName>
-						<surname>Moss</surname>
-						<forename>Fabian C.</forename>
-					</persName>
-					<orgName ref="https://www.uni-wuerzburg.de">Julius-Maximilians-Universität Würzburg</orgName>
-					<resp>
-						<note type="remarkResponsibility">Herausgeber</note>
+						<note type="remarkResponsibility">Umsetzung der Web-Präsentation https://fabianmoss.github.io/digimusth/</note>
 					</resp>
 				</respStmt>
 			</titleStmt>
