@@ -18,6 +18,13 @@
 					</resp>
 				</respStmt>
 				<respStmt>
+					<orgName ref="https://www.byu.edu/">Brigham Young University</orgName>
+					<orgName ref="https://archive.org/">Internet Archive</orgName>
+					<resp>
+						<note type="remarkResponsibility">Digitalisierung des gedruckten Textes</note>
+					</resp>
+				</respStmt>
+				<respStmt>
 					<persName>
 						<surname>Köster</surname>
 						<forename>Maik</forename>
