@@ -64,7 +64,7 @@ tei-pc {
 
 
 
-/* Footer*/
+/* Footer old
 .stickyfoot {
   position: fixed;
   left: 0;
@@ -75,8 +75,66 @@ tei-pc {
   color: white;
   text-align: center;
 
+}*/
+#page-indicator {
+ display: inline-block;
+  padding: 10px 20px;
+  background: lightgrey;
+  color: black;
+  border-radius: 999px;
+  text-decoration: none;
+  font-size: 14px;
+  transition: 0.2s;
+  text-align: left;
+  display: inline-block;
+  margin: 0; 
+  left: 1%; 
+  position: fixed;
+  }
+
+#page-indicator:hover  {
+  color: #75b5aa;;
+  transform: translateY(-1px);
+  }
+
+tei-pb {
+  display: block;
+  height: 0;
+  margin: 0;
+  padding: 0;
+  visibility: hidden;
+}
+.visualchanges_footer {
+text-align: center;
 }
 
+
+.stickyfoot {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background: #75b5aa;
+  color: white;
+  padding: 0.6rem 1rem;
+  max-height: 10%; 
+  background-color: #75b5aa;
+  color: white;
+  box-shadow: 0 -0.3rem 0.7rem rgba(0,0,0,0.25);
+}
+
+.stickyfoot > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+#topbutton:hover  {
+    color: #75b5aa;;
+    transform: translateY(-1px);
+  }
 
 
 /* styles that are dynamically added when pressing button */
@@ -209,7 +267,7 @@ input:checked + .slider.timestyle {
   border-radius: 3em;
   border-width: 0;
   cursor: pointer;
-  right: 0; 
+  right: 1%; 
   font-size: 14px;
   font-weight: 500;
   line-height: 20px;

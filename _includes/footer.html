@@ -2,41 +2,44 @@
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/presentation_css.css" />
 
 <div class="stickyfoot">
-  <p>
-    Change the presentation of annotated items: 
+  <div>
+    <a id="page-indicator" href="#">Page ?</a>
+    <div class="visualchanges_footer">
+      Change the presentation of annotated items: 
 
-    Authors and works
-    <label class="switch">
-      <input type="checkbox" class="toggle" data-func="stylepeople,styleworks">
-      <span class="slider round peoplestyle"></span>
-    </label>
+      Authors and works
+      <label class="switch">
+        <input type="checkbox" class="toggle" data-func="stylepeople,styleworks">
+        <span class="slider round peoplestyle"></span>
+      </label>
 
-    Concepts
-    <label class="switch">
-      <input type="checkbox" class="toggle" data-func="styleconcepts">
-      <span class="slider round conceptstyle"></span>
-    </label>
+      Concepts
+      <label class="switch">
+        <input type="checkbox" class="toggle" data-func="styleconcepts">
+        <span class="slider round conceptstyle"></span>
+      </label>
 
-    Music
-    <label class="switch">
-      <input type="checkbox" class="toggle" data-func="stylemusic">
-      <span class="slider round musicstyle"></span>
-    </label>
+      Music
+      <label class="switch">
+        <input type="checkbox" class="toggle" data-func="stylemusic">
+        <span class="slider round musicstyle"></span>
+      </label>
 
-    Locations and time 
-    <label class="switch">
-      <input type="checkbox" class="toggle" data-func="stylelocations,styletime">
-      <span class="slider round timestyle"></span>
-    </label>
+      Locations and time 
+      <label class="switch">
+        <input type="checkbox" class="toggle" data-func="stylelocations,styletime">
+        <span class="slider round timestyle"></span>
+      </label>
 
-    Check all
-    <label class="switch"> 
-      <input type="checkbox" id="checkAll">
-      <span class="slider round"></span>
-    </label>
+      Check all
+      <label class="switch"> 
+        <input type="checkbox" id="checkAll">
+        <span class="slider round"></span>
+      </label>
+    </div>
 
     <button onclick="topFunction()" id="topbutton" title="Go to top">Top</button> 
-  </p>
+  </div>
 </div>
 
 <script>
@@ -112,4 +115,103 @@
       funcs.forEach(fn => window[fn.trim()](checkAll));
     });
   });
+
+  // script for facsimilie linking and page number 
+  window.PageIndicator = (function() {
+  let pages = [];
+  let facsMap = {};
+  let indicator = null;
+  let initialized = false;
+
+  function init() {
+    if (initialized) return; // prevent double init
+    indicator = document.getElementById('page-indicator');
+    if (!indicator) return;
+
+    // Grab PBs after Ceteicean has loaded them
+    pages = Array.from(document.querySelectorAll('[data-origname="pb"]'));
+    console.log("Found PBs:", pages);
+
+    if (pages.length === 0) return; // still nothing yet
+
+    // Build facsimile lookup
+    facsMap = {};
+    document.querySelectorAll('[data-origname="facsimile"]').forEach(facs => {
+      const graphic = facs.querySelector('[data-origname="graphic"]');
+      if (graphic) facsMap[facs.id] = graphic.getAttribute('url');
+    });
+    console.log("Facs map:", facsMap);
+
+    // Initial update
+    updatePageIndicator(getCurrentPageIndex());
+
+    // Update on scroll + resize
+    window.addEventListener('scroll', () => {
+      updatePageIndicator(getCurrentPageIndex());
+    });
+    window.addEventListener('resize', () => {
+      updatePageIndicator(getCurrentPageIndex());
+    });
+
+    initialized = true;
+  }
+
+  function updatePageIndicator(index) {
+    const pb = pages[index];
+    if (!pb) return;
+
+    const facsId = pb.getAttribute('facs').replace('#', '');
+    const url = facsMap[facsId];
+    // e.g. "/texts/NAU1858/Naumann1858-0008.jpg"
+    const filename = facsMap[facsId]; 
+
+    // Get current page URL
+    const currentUrl = window.location.href;
+
+    // Extract the ID from the current URL
+    const parts = currentUrl.split('/').filter(Boolean);
+
+    const urlParts = window.location.pathname.split('/').filter(Boolean);
+    const project = urlParts[0];  
+    const id = urlParts[2];       
+
+
+    // Build the new URL
+    const newUrl = `${window.location.origin}/${project}/data/${id}/scans/${filename}`;
+
+    const pageNum = pb.getAttribute('n') || (index + 1);
+
+    indicator.textContent = `🕮 See facsimile of page ${pageNum}`;
+    indicator.href = newUrl || "#";
+    indicator.target = "_blank";
+  }
+
+  function getCurrentPageIndex() {
+    const viewportMid = window.innerHeight / 2;
+    let current = 0;
+    for (let i = 0; i < pages.length; i++) {
+      const rect = pages[i].getBoundingClientRect();
+      if (rect.top < viewportMid) current = i;
+    }
+    return current;
+  }
+
+  // Watch for Ceteicean adding elements
+  function watch() {
+    const observer = new MutationObserver(() => {
+      if (document.querySelector('[data-origname="pb"]')) {
+        init();
+        observer.disconnect();
+      }
+    });
+    observer.observe(document.body, { childList: true, subtree: true });
+  }
+
+  return { watch };
+})();
+
+// Start watching when DOM is ready
+document.addEventListener('DOMContentLoaded', () => {
+  PageIndicator.watch();
+});
 </script>
