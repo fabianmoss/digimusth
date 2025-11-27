@@ -25,12 +25,12 @@
 				</respStmt>
 				<respStmt>
 					<persName>
-						<surname>Köster</surname>
-						<forename>Maik</forename>
+						<surname>Moss</surname>
+						<forename>Fabian C.</forename>
 					</persName>
-					<orgName ref="https://www.uni-koeln.de/">Universität zu Köln</orgName>
+					<orgName ref="https://www.uni-wuerzburg.de">Julius-Maximilians-Universität Würzburg</orgName>
 					<resp>
-						<note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+						<note type="remarkResponsibility">Herausgeber</note>
 					</resp>
 				</respStmt>
 				<respStmt>
@@ -49,6 +49,26 @@
 					<orgName ref="https://www.uni-wuerzburg.de">Julius-Maximilians-Universität Würzburg</orgName>
 					<resp>
 						<note type="remarkResponsibility">Korrektur der Transkription</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName>
+						<surname>Köster</surname>
+						<forename>Maik</forename>
+					</persName>
+					<orgName ref="https://www.uni-koeln.de/">Universität zu Köln</orgName>
+					<resp>
+						<note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName>
+						<surname>Roeder</surname>
+						<forename>Torsten</forename>
+					</persName>
+					<orgName ref="https://www.uni-wuerzburg.de">Julius-Maximilians-Universität Würzburg</orgName>
+					<resp>
+						<note type="remarkResponsibility">TEI-Supervision</note>
 					</resp>
 				</respStmt>
 			</titleStmt>
