@@ -1227,7 +1227,7 @@
 				<lb facs="#facs_24_r2l45" n="N007"/><rs ana="#m_tonality">Molltonart</rs> mit ihrem <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_chord">Unterdominantdreiklange</rs></hi>; wenn
 				<lb facs="#facs_24_r2l46" n="N008"/>die <rs ana="#m_tonality">melodische Durtonleiter</rs> mit dem <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_note">Grundtone</rs></hi> des <rs ana="#m_chord">Haupt<pc>¬</pc>
 				<lb facs="#facs_24_r2l47" n="N009"/>dreiklanges</rs> beginnt und <rs ana="#concept_mus">stufenweise</rs> hinaufsteigend mit einem
-				<lb facs="#facs_24_r2l48" n="N010"/><rs ana="#m_interval">Halbtone</rs> in die <rs ana="#m_interval">Octave</rs> desselben leitet: <rs ana="#m_tonality"><figure facs="#facs_24_r2l48" rend="inline"><graphic url="graphic/facs_24_r2l48.png"/></figure></rs>, so
+				<lb facs="#facs_24_r2l48" n="N010"/><rs ana="#m_interval">Halbtone</rs> in die <rs ana="#m_interval">Octave</rs> desselben leitet: <rs ana="#m_tonality"><figure facs="#facs_24_r2l48" rend="inline"><graphic url="graphic/facs_24_Graphic_r2l48.png"/></figure></rs>, so
 				<lb facs="#facs_24_r2l49" n="N011"/>beginnt die <rs ana="#m_tonality">melodische Molltonleiter</rs> mit der <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">Quinte</rs></hi> des
 				<lb facs="#facs_24_r2l50" n="N012"/><rs ana="#m_chord">Hauptdreiklanges</rs> und steigt <rs ana="#concept_mus">stufenweise</rs> in denselben <rs ana="#m_interval">Intervallen</rs>
             	<pb facs="#facs_25" n="10"/>
@@ -1652,8 +1652,8 @@
 				<lb facs="#facs_39_r1l10" n="N008"/><rs ana="#concept_mus">Tacttheilen</rs> auf, oder sie stempeln den <rs ana="#concept_mus">Tacttheil</rs>, auf welchem
 				<lb facs="#facs_39_line_1614093586098_2734" n="N009"/>sie erscheinen, durch ihr Gewicht zu einem <rs ana="#concept_mus">schweren</rs> <note facs="#facs_39_TextRegion_1614093546892_2709" type="foot" n="*)"><lb facs="#facs_39_r1l31" n="N001"/>Hierbei ist zu bemerken, daß das <rs ana="#concept_mus">zweitheilige Metrum</rs> und
 				<lb facs="#facs_39_r1l32" n="N002"/><rs ana="#concept_mus">metrische Glied</rs> nur einen <rs ana="#concept_mus">Accent</rs>, das <rs ana="#concept_mus">dreitheilige</rs> aber deren zwei (einen
-				<lb facs="#facs_39_r1l33" n="N003"/><rs ana="#concept_mus">Haupt-</rs> und einen <rs ana="#concept_mus">Nebenaccent</rs>) hat; z. B. <figure facs="#facs_39_r1l33" rend="inline"><graphic url="graphic/facs_39_r1l33.png"/></figure>
-				<lb facs="#facs_39_r1l35" n="N004"/><figure facs="#facs_39_r1l35" rend="inline"><graphic url="graphic/facs_39_r1l35.png"/></figure></note>. Zur
+				<lb facs="#facs_39_r1l33" n="N003"/><rs ana="#concept_mus">Haupt-</rs> und einen <rs ana="#concept_mus">Nebenaccent</rs>) hat; z. B. <figure facs="#facs_39_r1l33" rend="inline"><graphic url="graphic/facs_39_Graphic_r1l33.png"/></figure>
+				<lb facs="#facs_39_r1l35" n="N004"/><figure facs="#facs_39_r1l35" rend="inline"><graphic url="graphic/facs_39_Graphic_r1l35.png"/></figure></note>. Zur
 				<lb facs="#facs_39_r1l13" n="N010"/><rs ana="#concept_mus">Bindung</rs> oder <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Vorbereitung</rs></hi> eines solchen <rs ana="#concept_mus">Vorhaltes</rs> kann
 				<lb facs="#facs_39_r1l14" n="N011"/>jeder <rs ana="#m_note">Ton</rs> eines ihm vorangehenden <rs ana="#concept_mus"><rs ana="#concept_phy">consonirenden</rs></rs> oder <rs ana="#concept_mus"><rs ana="#concept_phy">disso<pc>¬</pc>
 				<lb facs="#facs_39_r1l15" n="N012"/>nirenden</rs></rs> <rs ana="#m_chord">Accordes</rs> benutzt werden, sie kann auf <rs ana="#concept_mus">accentuirtem</rs>
@@ -1934,7 +1934,7 @@
             	<lb facs="#facs_50_r1l19" n="N001"/>Das Vorrecht, <rs ana="#concept_mus">frei</rs> und <rs ana="#concept_mus">ungebunden</rs> aufzutreten, räumte man
 				<lb facs="#facs_50_r1l20" n="N002"/>bisher nur denjenigen <rs ana="#m_chord">Septimenaccorden</rs> ein, in denen ein
 				<lb facs="#facs_50_r1l21" n="N003"/>oder zwei <rs ana="#m_interval">verminderte Dreiklänge</rs> enthalten waren, wie in
-				<lb facs="#facs_50_r1l22" n="N004"/><figure facs="#facs_50_r1l22" rend="inline"><graphic url="graphic/facs_50_r1l22_1.png"></graphic></figure> oder <figure facs="#facs_50_r1l22" rend="inline"><graphic url="graphic/facs_50_r1l22_2.png"/></figure>.
+				<lb facs="#facs_50_r1l22" n="N004"/><figure facs="#facs_50_r1l22" rend="inline"><graphic url="graphic/facs_50_Graphic_r1l22_1.png"></graphic></figure> oder <figure facs="#facs_50_r1l22" rend="inline"><graphic url="graphic/facs_50_Graphic_r1l22_2.png"/></figure>.
             </p>
             <p facs="#facs_50_TextRegion_1614164392496_585">
 				<lb facs="#facs_50_r1l23" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Die neuere <rs ana="#concept_mus">Tonkunst</rs> aber läßt auch die schärfste</hi>
@@ -2053,7 +2053,7 @@
 				<lb facs="#facs_54_r1l58" n="N006"/>klänge</rs>, mit Ausnahme von denjenigen übergehen, deren <rs ana="#m_interval">Quinten</rs>
 				<lb facs="#facs_54_r1l59" n="N007"/>denen der <rs ana="#m_chord">Dreiklänge</rs> gleich kommen, welchen er seine Erschei<pc>¬</pc>
 				<lb facs="#facs_54_r1l60" n="N008"/>nung verdankt. So kann der <rs ana="#m_chord">Dominantseptimenaccord</rs> der
-				<lb facs="#facs_54_r1l61" n="N009"/><rs ana="#m_tonality">C dur-Tonart</rs> <rs ana="#m_chord"><figure facs="#facs_54_r1l61" rend="inline"><graphic url="graphic/facs_54_r1l61.png"/></figure></rs> sich nicht in den <rs ana="#m_chord">G dur-</rs>, <rs ana="#m_chord">G moll-</rs>, <rs ana="#m_chord">B dur-</rs>
+				<lb facs="#facs_54_r1l61" n="N009"/><rs ana="#m_tonality">C dur-Tonart</rs> <rs ana="#m_chord"><figure facs="#facs_54_r1l61" rend="inline"><graphic url="graphic/facs_54_Graphic_r1l61.png"/></figure></rs> sich nicht in den <rs ana="#m_chord">G dur-</rs>, <rs ana="#m_chord">G moll-</rs>, <rs ana="#m_chord">B dur-</rs>
 				<lb facs="#facs_54_r1l62" n="N010"/>und <rs ana="#m_chord">B moll-Dreiklang</rs>, wohl aber in alle übrigen <rs ana="#m_chord">Dreiklänge</rs>
 				<lb facs="#facs_54_r1l63" n="N011"/>auflösen, wenn wir seinen <rs ana="#concept_mus">Stimmen</rs> dabei zuweilen einen <rs ana="#concept_mus">chro<pc>¬</pc>
 				<lb facs="#facs_54_r1l64" n="N012"/>matischen</rs> oder, wie unten bei 4 und 15, einen <rs ana="#concept_mus">enharmonischen</rs>
