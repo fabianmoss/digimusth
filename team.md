@@ -73,4 +73,5 @@ We thank Felicitas Stickler for her preliminary work studies that have majorly h
 
 <br/>
 <h2>Credits</h2>
-<div>The page is built on the Jekyll based theme <a href="https://github.com/minicomp/ed">Ed</a>.</div>
+<div>The page is built on the Jekyll based theme <a href="https://github.com/minicomp/ed">Ed</a>.
+This collection uses the Javascript library <a href="https://github.com/TEIC/CETEIcean">CETEIcean</a> to display TEI-xml documents, <a href="https://www.verovio.org/index.xhtml">Verovio</a> to transform MEI encoded music scores into svg images and <a href="https://www.mathjax.org/">MathJax</a> to display encoded mathematical expressions.</div>

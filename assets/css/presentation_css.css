@@ -468,6 +468,9 @@ tei-facsimile {
   min-width: 40%;        /* prevent it from shrinking too far */
 }
 
+.note-entry tei-note {
+  font-size: smaller;
+}
 
 
 #notesSidebar {
