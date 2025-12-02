@@ -128,19 +128,19 @@
     indicator = document.getElementById('page-indicator');
     if (!indicator) return;
 
-    // Grab PBs after Ceteicean has loaded them
+    // Grab Pagebreakss after Ceteicean has loaded them
     pages = Array.from(document.querySelectorAll('[data-origname="pb"]'));
     console.log("Found PBs:", pages);
 
-    if (pages.length === 0) return; // still nothing yet
+    if (pages.length === 0) return;
 
-    // Build facsimile lookup
+    // Build facsimile lookup 
     facsMap = {};
     document.querySelectorAll('[data-origname="facsimile"]').forEach(facs => {
       const graphic = facs.querySelector('[data-origname="graphic"]');
       if (graphic) facsMap[facs.id] = graphic.getAttribute('url');
     });
-    console.log("Facs map:", facsMap);
+    //console.log("Facs map:", facsMap);
 
     // Initial update
     updatePageIndicator(getCurrentPageIndex());
