@@ -1651,7 +1651,7 @@
             	<lb facs="#facs_30_r3l2" n="N001"/>so ist der aus ½ dieser <rs ana="#concept_phy">Länge</rs> gewonnene <rs ana="#m_note">Ton</rs> das <rs ana="#m_note">g</rs> der <rs ana="#concept_mus">zweigestri<pc>¬</pc>
 				<lb facs="#facs_30_r3l3" n="N002"/>chenen</rs> <rs ana="#m_interval">Octave</rs>. Es entspricht demnach das vorhergehende <rs ana="#concept_phy">Zahlen<pc>¬</pc>
 				<lb facs="#facs_30_r3l4" n="N003"/>verhältniß</rs> dem folgenden <rs ana="#concept_mus">Tonverhältniß</rs>:
-				<lb facs="#facs_30_r3l5" n="N004"/><rs ana="#m_interval">c} : g}}</rs>.
+				<lb facs="#facs_30_r3l5" n="N004"/><rs ana="#m_interval">c̅ : g̿</rs>.
 				<lb facs="#facs_30_r3l7" n="N005"/>Der aus <formula notation="tex">$\frac{1}{3}$</formula> <rs ana="#concept_phy">Länge</rs> gewonnene <rs ana="#m_note">Ton</rs> kann durch die Verdoppelung
 				<lb facs="#facs_30_r3l9" n="N006"/>derselben, also durch <formula notation="tex">$\frac{1}{3}+\frac{1}{3}=\frac{2}{3}$</formula> in die tiefere <rs ana="#m_interval">Octave</rs> ver<pc>¬</pc>
 				<lb facs="#facs_30_r3l10" n="N007"/>pflanzt, und eben dadurch dem <rs ana="#m_note">Grundton</rs> möglichst genähert wer<pc>¬</pc>
@@ -1660,13 +1660,13 @@
 				<lb facs="#facs_30_r3l13" n="N010"/>1 : ⅔
 				<lb facs="#facs_30_r3l14" n="N011"/>für das <rs ana="#concept_phy">Verhältniß</rs> der schon bekannten gleichnamigen, aber rück<pc>¬</pc>
 				<lb facs="#facs_30_r3l15" n="N012"/>sichtlich des <rs ana="#concept_mus">Tonraums</rs> einander näher liegenden Elemente:
-				<lb facs="#facs_30_r3l16" n="N013"/><rs ana="#m_interval">c} : g}</rs>.
+				<lb facs="#facs_30_r3l16" n="N013"/><rs ana="#m_interval">c̅ : g̅</rs>.
 			</p>
             <p facs="#facs_30_TextRegion_1633697418540_2063">
-				<lb facs="#facs_30_r3l17" n="N001"/>In eine noch tiefere <rs ana="#m_interval">Octave</rs> dürfte der höhere <rs ana="#m_note">Ton</rs> <rs ana="#m_note">g}</rs> nicht
+				<lb facs="#facs_30_r3l17" n="N001"/>In eine noch tiefere <rs ana="#m_interval">Octave</rs> dürfte der höhere <rs ana="#m_note">Ton</rs> <rs ana="#m_note">g̅</rs> nicht
 				<lb facs="#facs_30_r3l18" n="N002"/>verpflanzt werden, weil aus der Verdoppelung von ⅔, daher aus
 				<lb facs="#facs_30_r3l19" n="N003"/>der Länge von <formula notation="tex">$\frac{2}{3}+\frac{2}{3}=\frac{4}{3}$</formula>, welche größer als 1, d. i. die Länge
-				<lb facs="#facs_30_r3l20" n="N004"/>des <rs ana="#m_note">Grundtons</rs> <rs ana="#m_note">c}</rs> wäre, ein <rs ana="#m_note">Ton</rs> hervorginge, der tiefer, als der
+				<lb facs="#facs_30_r3l20" n="N004"/>des <rs ana="#m_note">Grundtons</rs> <rs ana="#m_note">c̅</rs> wäre, ein <rs ana="#m_note">Ton</rs> hervorginge, der tiefer, als der
 				<lb facs="#facs_30_r3l21" n="N005"/><rs ana="#m_note">Grundton</rs> sein und folglich der absteigenden Reihe angehören
 				<lb facs="#facs_30_r3l22" n="N006"/>würde, von welcher hier nicht die Rede ist.
 			</p>
@@ -1681,13 +1681,13 @@
 				<lb facs="#facs_30_r3l28" n="N001"/>Entspricht demnach das <rs ana="#concept_phy">Zahlenverhältniß</rs>
 				<lb facs="#facs_30_r3l29" n="N002"/><formula notation="tex">$1:\frac{1}{5}$</formula>
 				<lb facs="#facs_30_r3l30" n="N003"/>dem <rs ana="#concept_mus">Tonverhältniß</rs>
-				<lb facs="#facs_30_r3l32" n="N004"/><rs ana="#m_interval">c} : e}}}</rs>,
+				<lb facs="#facs_30_r3l32" n="N004"/><rs ana="#m_interval">c̅ : e}}}</rs>,
 				<lb facs="#facs_30_r3l33" n="N005"/>so entsteht nach dem Gesetze der <rs ana="#m_note">Octavtöne</rs> durch zweifache Verdop<pc>¬</pc>
 				<lb facs="#facs_30_r3l34" n="N006"/>pelung der Länge <formula notation="tex">$\frac{1}{5}$</formula>, nämlich durch <formula notation="tex">$(\frac{1}{5}+\frac{1}{5})+(\frac{1}{5}+\frac{1}{5})=\frac{2}{5}+\frac{2}{5}=\frac{4}{5}$</formula>
 				<lb facs="#facs_30_r3l35" n="N007"/>das <rs ana="#concept_phy">Zahlenverhältniß</rs>
 				<lb facs="#facs_30_r3l36" n="N008"/><formula notation="tex">1:\frac{4}{5}</formula>
 				<lb facs="#facs_30_r3l37" n="N009"/>für das Verhältniß der schon bekannten gleichnamigen, aber ein<pc>¬</pc>
-				<lb facs="#facs_30_r3l39" n="N010"/>ander genäherten <rs ana="#m_note">Töne</rs> <rs ana="#m_interval">c} : e</rs>.
+				<lb facs="#facs_30_r3l39" n="N010"/>ander genäherten <rs ana="#m_note">Töne</rs> <rs ana="#m_interval">c̅ : e</rs>.
 			</p>
          <pb facs="#facs_31" n="26"/>
             <p facs="#facs_31_TextRegion_1632838295035_2264">
@@ -1721,7 +1721,7 @@
 				<lb facs="#facs_31_r1l23" n="N001"/>Aus dem in Beziehung auf die Länge der <rs ana="#concept_phy">schwingenden</rs> <rs ana="#concept_mus">Sai<pc>¬</pc>
 				<lb facs="#facs_31_r1l24" n="N002"/>ten</rs> aufgestellten <rs ana="#concept_phy">Zahlenverhältniß</rs>
             	<lb facs="#facs_31_r1l26" n="N001"/>entsteht durch Umkehrung des <rs ana="#concept_phy">Bruches</rs>:
-            	<lb facs="#facs_31_r1l28" n="N001"/>Setzen wir auch hier 1 = <rs ana="#m_note">c}</rs>, d. i. gleich dem angenommenen <rs ana="#m_note">Grund<pc>¬</pc>
+            	<lb facs="#facs_31_r1l28" n="N001"/>Setzen wir auch hier 1 = <rs ana="#m_note">c̅</rs>, d. i. gleich dem angenommenen <rs ana="#m_note">Grund<pc>¬</pc>
 				<lb facs="#facs_31_r1l29" n="N002"/>ton</rs>, so entspricht diesem <rs ana="#concept_phy">Zahlenverhältniß</rs> das nach der Einthei<pc>¬</pc>
 				<lb facs="#facs_31_r1l30" n="N003"/>lung der <rs ana="#m_interval">Octaven</rs> folgendergestalt zu bezeichnende <rs ana="#concept_phy">Tonverhältniß</rs>:
             	 <figure facs="#facs_31_Graphic_1632838502631_2401">
@@ -1745,7 +1745,7 @@
 				<lb facs="#facs_32_r2l9" n="N002"/>höhere <rs ana="#m_interval">Octave</rs>, nämlich durch die Halbirung der Länge von <formula notation="tex">$\frac{3}{2}$</formula>,
 				<lb facs="#facs_32_line_1632839488039_2684" n="N003"/>demnach durch <formula notation="tex">$\frac{3}{2} \times \frac{1}{2} = \frac{3 \times 1}{2 \times 2} = \frac{3}{4}$</formula>, welche kleiner als 1
 				<lb facs="#facs_32_r2l14" n="N004"/>(die Länge des <rs ana="#m_note">Grundtons</rs>) wäre, würde ein <rs ana="#m_note">Ton</rs> entstehen, der
-				<lb facs="#facs_32_r2l15" n="N005"/>höher als der <rs ana="#m_note">Grundton</rs> <rs ana="#m_note">c}</rs> sein und also der aufsteigenden Reihe
+				<lb facs="#facs_32_r2l15" n="N005"/>höher als der <rs ana="#m_note">Grundton</rs> <rs ana="#m_note">c̅</rs> sein und also der aufsteigenden Reihe
 				<lb facs="#facs_32_r2l16" n="N006"/>angehören würde, deren Glieder wir hier nicht in Betracht ziehen.
 			</p>
             <p facs="#facs_32_TextRegion_1632838739396_2507 #facs_32_TextRegion_1632838730776_2499 #facs_32_TextRegion_1632838724047_2491 #facs_32_TextRegion_1632838702386_2477">
@@ -1793,13 +1793,13 @@
             </figure>
             	<lb facs="#facs_33_r2l14" n="N001"/>Es entspricht in dem vorstehenden Schema der entgegengesetzten
 				<lb facs="#facs_33_r2l15" n="N002"/><rs ana="#m_chord">Accorde</rs> in <rs ana="#concept_mus">Terzengestalt</rs> das <rs ana="#m_interval">Intervall</rs> der aufsteigenden <rs ana="#m_interval">Quinte</rs>
-				<lb facs="#facs_33_r2l16" n="N003"/><rs ana="#m_interval">c} g}</rs> (d. i. die sogenannte <rs ana="#m_interval">reine Quinte</rs>, außer welcher es im
+				<lb facs="#facs_33_r2l16" n="N003"/><rs ana="#m_interval">c̅ g̅</rs> (d. i. die sogenannte <rs ana="#m_interval">reine Quinte</rs>, außer welcher es im
 				<lb facs="#facs_33_r2l17" n="N004"/>Grunde keine <rs ana="#m_interval">Quinte</rs> giebt) seiner Größe nach vollkommen dem
-				<lb facs="#facs_33_r2l18" n="N005"/>der absteigenden <rs ana="#m_interval">c} f</rs>, und eben so das der aufsteigenden <rs ana="#m_interval">Terz</rs> <rs ana="#m_interval">c} e}</rs>
+				<lb facs="#facs_33_r2l18" n="N005"/>der absteigenden <rs ana="#m_interval">c̅ f</rs>, und eben so das der aufsteigenden <rs ana="#m_interval">Terz</rs> <rs ana="#m_interval">c̅ e̅</rs>
 				<lb facs="#facs_33_r2l19" n="N006"/>(d. i. die sogenannte <rs ana="#m_interval">große Terz</rs>, außer welcher es im Grunde
-				<lb facs="#facs_33_r2l20" n="N007"/>keine <rs ana="#m_interval">Terz</rs> giebt) vollkommen dem der absteigenden <rs ana="#m_interval">c} as</rs>. Dem<pc>¬</pc>
-				<lb facs="#facs_33_r2l21" n="N008"/>nach liegt der <rs ana="#m_note">Grundton</rs> <rs ana="#m_note">c}</rs> des <rs ana="#m_chord">Dur-Accordes</rs> <rs ana="#m_chord">c} e} g}</rs> in der Tiefe,
-				<lb facs="#facs_33_r2l22" n="N009"/>hingegen der des <rs ana="#m_chord">Moll-Accordes</rs> <rs ana="#m_chord">f as c}</rs> in der Höhe. Bei dem
+				<lb facs="#facs_33_r2l20" n="N007"/>keine <rs ana="#m_interval">Terz</rs> giebt) vollkommen dem der absteigenden <rs ana="#m_interval">c̅ as</rs>. Dem<pc>¬</pc>
+				<lb facs="#facs_33_r2l21" n="N008"/>nach liegt der <rs ana="#m_note">Grundton</rs> <rs ana="#m_note">c̅</rs> des <rs ana="#m_chord">Dur-Accordes</rs> <rs ana="#m_chord">c̅ e̅ g̅</rs> in der Tiefe,
+				<lb facs="#facs_33_r2l22" n="N009"/>hingegen der des <rs ana="#m_chord">Moll-Accordes</rs> <rs ana="#m_chord">f as c̅</rs> in der Höhe. Bei dem
 				<lb facs="#facs_33_r2l23" n="N010"/><rs ana="#m_chord">Dur-Accord</rs> in seiner faßlichsten Form (d. i. die <rs ana="#concept_mus">Terzengestalt</rs>)
 				<lb facs="#facs_33_r2l24" n="N011"/>fallen mithin <rs ana="#m_note">Baßton</rs> und <rs ana="#m_note">Grundton</rs> zusammen, aber bei dem
 				<lb facs="#facs_33_r2l25" n="N012"/><rs ana="#m_chord">Moll-Accord</rs> in gleicher Form ist der <rs ana="#m_note">Baßton</rs> die <rs ana="#m_interval">Quinte</rs>. Das ist
@@ -1962,14 +1962,14 @@
 				<lb facs="#facs_37_r2l31" n="N011"/>standtheilen des <rs ana="#concept_mus"><rs ana="#concept_phy">consonirenden</rs></rs> <rs ana="#concept_mus">positiven</rs> <rs ana="#m_chord">Accordes</rs> <rs ana="#m_chord">c e g</rs> als vier<pc>¬</pc>
 				<lb facs="#facs_37_r2l32" n="N012"/>tes, <rs ana="#concept_mus"><rs ana="#concept_phy">dissonirendes</rs></rs> Element in <rs ana="#concept_mus">Terzengestalt</rs> tritt. In der nach der
 				<lb facs="#facs_37_r2l33" n="N013"/>Richtung aufwärts vergrößerten <rs ana="#concept_mus">Terzengestalt</rs>
-				<lb facs="#facs_37_r2l34" n="N014"/><rs ana="#m_chord">c} e} g} b}</rs>
+				<lb facs="#facs_37_r2l34" n="N014"/><rs ana="#m_chord">c̅ e̅ g̅ b̅</rs>
 				<lb facs="#facs_37_r2l35" n="N015"/>begrenzt der <rs ana="#m_note">Intervallton</rs> <rs ana="#m_note">b</rs> mit dem <rs ana="#m_note">Grundton</rs> <rs ana="#m_note">c</rs> des <rs ana="#concept_mus"><rs ana="#concept_phy">dissonirenden</rs></rs>
 				<lb facs="#facs_37_r2l36" n="N016"/><rs ana="#m_chord">Accordes</rs> das <rs ana="#m_interval">Intervall</rs> der aufsteigenden, aber außer der <rs ana="#m_tonality">Scala</rs>
 				<lb facs="#facs_37_r2l37" n="N017"/>von <rs ana="#m_note">C</rs> liegenden, sogenannten kleinen, d. i. <rs ana="#concept_mus">harmonischen</rs> <rs ana="#m_interval">Sep<pc>¬</pc>
 				<lb facs="#facs_37_r2l38" n="N018"/>time</rs>, und formirt mit den übrigen an sich <rs ana="#concept_mus"><rs ana="#concept_phy">consonirenden</rs></rs> Bestand<pc>¬</pc>
 				<lb facs="#facs_37_r2l39" n="N019"/>theilen den <rs ana="#concept_mus">positiven</rs> <rs ana="#m_chord">Septimenaccord</rs> <rs ana="#m_chord">+c<hi rend="fontSize:0.0; kerning:0; superscript:true;">7</hi> </rs>, als dessen Gegensatz
 				<lb facs="#facs_37_r2l40" n="N020"/><rs ana="#m_chord">-c<hi rend="fontSize:0.0; kerning:0; superscript:true;">7</hi> </rs>, d. i. den Bestandtheilen nach der <rs ana="#m_chord">Accord</rs>
-				<lb facs="#facs_37_r2l41" n="N021"/><rs ana="#m_chord">d f as c}</rs>
+				<lb facs="#facs_37_r2l41" n="N021"/><rs ana="#m_chord">d f as c̅</rs>
             	<pb facs="#facs_38" n="33"/>
             	<lb facs="#facs_38_r2l2" n="N001"/>erscheint, die bekanntlich der vom <rs ana="#m_note">Grundton</rs> <rs ana="#m_note">c</rs> aus abwärts gebil<pc>¬</pc>
 				<lb facs="#facs_38_r2l3" n="N002"/>deten Reihe angehören. Ebenso, wie bei den <rs ana="#concept_mus"><rs ana="#concept_phy">consonirenden</rs></rs> <rs ana="#m_chord">Ac<pc>¬</pc>
@@ -1979,14 +1979,14 @@
             	 <figure facs="#facs_38_Graphic_1632842477759_3255">
                <graphic url="graphic/facs_38_Graphic_1632842477759_3255.png"/>
             </figure>
-            	<lb facs="#facs_38_r2l13" n="N001"/>Hier entspricht das <rs ana="#m_interval">Intervall</rs> der <rs ana="#concept_mus">positiven</rs> <rs ana="#m_interval">Terz</rs> <rs ana="#m_interval">c} e}</rs> dem der <rs ana="#concept_mus">nega<pc>¬</pc>
-				<lb facs="#facs_38_r2l14" n="N002"/>tiven</rs> <rs ana="#m_interval">c} as</rs>, das der <rs ana="#concept_mus">positiven</rs> <rs ana="#m_interval">Quinte</rs> <rs ana="#m_interval">c} g}</rs> dem der <rs ana="#concept_mus">negativen</rs> <rs ana="#m_interval">c} f</rs> und
-				<lb facs="#facs_38_r2l15" n="N003"/>das der <rs ana="#concept_mus">positiven</rs> <rs ana="#m_interval">Septime</rs> <rs ana="#m_interval">c} b}</rs> dem der <rs ana="#concept_mus">negativen</rs> <rs ana="#m_interval">c} d</rs>. Die Reihe
+            	<lb facs="#facs_38_r2l13" n="N001"/>Hier entspricht das <rs ana="#m_interval">Intervall</rs> der <rs ana="#concept_mus">positiven</rs> <rs ana="#m_interval">Terz</rs> <rs ana="#m_interval">c̅ e̅</rs> dem der <rs ana="#concept_mus">nega<pc>¬</pc>
+				<lb facs="#facs_38_r2l14" n="N002"/>tiven</rs> <rs ana="#m_interval">c̅ as</rs>, das der <rs ana="#concept_mus">positiven</rs> <rs ana="#m_interval">Quinte</rs> <rs ana="#m_interval">c̅ g̅</rs> dem der <rs ana="#concept_mus">negativen</rs> <rs ana="#m_interval">c̅ f</rs> und
+				<lb facs="#facs_38_r2l15" n="N003"/>das der <rs ana="#concept_mus">positiven</rs> <rs ana="#m_interval">Septime</rs> <rs ana="#m_interval">c̅ b̅</rs> dem der <rs ana="#concept_mus">negativen</rs> <rs ana="#m_interval">c̅ d</rs>. Die Reihe
 				<lb facs="#facs_38_r2l16" n="N004"/>der <rs ana="#m_note">Töne</rs>
-				<lb facs="#facs_38_r2l17" n="N005"/><rs ana="#m_chord">c} e} g} b}</rs>
+				<lb facs="#facs_38_r2l17" n="N005"/><rs ana="#m_chord">c̅ e̅ g̅ b̅</rs>
 				<lb facs="#facs_38_r2l18" n="N006"/>oder, im Hinblick auf ihre Entstehung in der Folge der <rs ana="#concept_phy">Aliquot<pc>¬</pc>
 				<lb facs="#facs_38_r2l19" n="N007"/>töne</rs> und abgesehen von ihrer <rs ana="#concept_mus">Höhenlage</rs>
-				<lb facs="#facs_38_r2l20" n="N008"/><rs ana="#m_chord">c} g} e} b}</rs>,
+				<lb facs="#facs_38_r2l20" n="N008"/><rs ana="#m_chord">c̅ g̅ e̅ b̅</rs>,
 				<lb facs="#facs_38_r2l21" n="N009"/>entspricht nach dem Vorhergehenden der <rs ana="#concept_phy">Zahlenreihe</rs>
 				<lb facs="#facs_38_r2l22" n="N010"/><formula notation="tex">$\frac{1}{1}$</formula><formula notation="tex">$\frac{2}{3}$</formula><formula notation="tex">$\frac{4}{5}$</formula><formula notation="tex">$\frac{4}{7}$</formula>,
 				<lb facs="#facs_38_r2l23" n="N011"/>welche, dem oben gefundenen Gesetze nach, schon mit dem dritten
@@ -1995,10 +1995,10 @@
 				<lb facs="#facs_38_r2l26" n="N014"/><formula notation="tex">$\frac{4}{7}$</formula>, welches dem obigen Gesetze zufolge <formula notation="tex">$\frac{8}{7}$</formula> sein müßte, kann dem<pc>¬</pc>
 				<lb facs="#facs_38_r2l27" n="N015"/>nach nur als das erste Glied einer neuen, und zwar gleichfalls
 				<lb facs="#facs_38_r2l28" n="N016"/>aufsteigenden <rs ana="#concept_phy">harmonischen Reihe</rs> betrachtet werden, und der dem<pc>¬</pc>
-				<lb facs="#facs_38_r2l29" n="N017"/>selben entsprechende <rs ana="#m_note">Ton</rs> <rs ana="#m_note">b}</rs> als <rs ana="#m_note">Grundton</rs> eines gleichartigen
+				<lb facs="#facs_38_r2l29" n="N017"/>selben entsprechende <rs ana="#m_note">Ton</rs> <rs ana="#m_note">b̅</rs> als <rs ana="#m_note">Grundton</rs> eines gleichartigen
 				<lb facs="#facs_38_r2l30" n="N018"/><rs ana="#m_chord">Accordes</rs>, nämlich des <rs ana="#m_chord">Quintenaccordes</rs> <rs ana="#m_chord">+b</rs>, dem die Bestand<pc>¬</pc>
 				<lb facs="#facs_38_r2l31" n="N019"/>theile <rs ana="#m_chord">b d f</rs>, zunächst in der, die <rs ana="#concept_mus">Terzengestalt</rs> fortsetzenden
-				<lb facs="#facs_38_r2l32" n="N020"/>Höhenlage über <rs ana="#m_note">b}</rs>, also in der Höhenlage <rs ana="#m_chord">b} d}} f}}</rs> zugehören.
+				<lb facs="#facs_38_r2l32" n="N020"/>Höhenlage über <rs ana="#m_note">b̅</rs>, also in der Höhenlage <rs ana="#m_chord">b̅ d̿ f̿</rs> zugehören.
             </p>
             <p facs="#facs_38_TextRegion_1632842401059_3233 #facs_39_TextRegion_1632842723626_3334">
 				<lb facs="#facs_38_r2l33" n="N001"/>Nur da, wo es mir zur Vermeidung von Mißverständnissen
