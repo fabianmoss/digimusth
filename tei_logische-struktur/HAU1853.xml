@@ -8712,12 +8712,12 @@
 				<lb facs="#facs_112_r1l4" n="N003"/>aber nicht der zunächst darunter liegende. Jener ist allezeit
 				<lb facs="#facs_112_r1l5" n="N004"/>ein Positives, Erstes, ein <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_note">Grundton</rs></hi>; dieser ein Relatives,
 				<lb facs="#facs_112_r1l6" n="N005"/>ein Zweites, eine <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#m_interval">Quint</rs></hi>. Daher unter allen Umständen
-				<lb facs="#facs_112_r1l7" n="N006"/>die Form <figure facs="#facs_112_r1l7" rend="inline" class="musicplaceholder"><graphic url="music/facs_112_Music_r1l7.png"/></figure> eine richtige, die entgegengesetzte
-				<lb facs="#facs_112_r1l8" n="N007"/><figure facs="#facs_112_r1l8" rend="inline" class="musicplaceholder"><graphic url="music/facs_112_Music_r1l8.png"/></figure> nur unter besonderen Bedingungen eine
+				<lb facs="#facs_112_r1l7" n="N006"/>die Form <figure facs="#facs_112_r1l7" rend="inline" type="musicplaceholder"><graphic url="music/facs_112_Music_r1l7.png"/></figure> eine richtige, die entgegengesetzte
+				<lb facs="#facs_112_r1l8" n="N007"/><figure facs="#facs_112_r1l8" rend="inline" type="musicplaceholder"><graphic url="music/facs_112_Music_r1l8.png"/></figure> nur unter besonderen Bedingungen eine
 				<lb facs="#facs_112_r1l9" n="N008"/>zulässige sein wird. Der <rs ana="#concept_mus">Zusammenklang</rs> zweier neben<pc>¬</pc>
 				<lb facs="#facs_112_r1l10" n="N009"/>einanderliegender <rs ana="#m_note">Töne</rs> wird, wenn der tiefere nach dem.
 				<lb facs="#facs_112_r1l11" n="N010"/>höheren folgt, besondere Vorkommenheiten ausgenommen,
-				<lb facs="#facs_112_r1l12" n="N011"/>nur in der Form <figure facs="#facs_112_r1l12" rend="inline" class="musicplaceholder"><graphic url="music/facs_112_Music_r1l12.png"/></figure> erscheinen können.
+				<lb facs="#facs_112_r1l12" n="N011"/>nur in der Form <figure facs="#facs_112_r1l12" rend="inline" type="musicplaceholder"><graphic url="music/facs_112_Music_r1l12.png"/></figure> erscheinen können.
 			</p>
             <p facs="#facs_112_TextRegion_1612547244040_138 #facs_113_TextRegion_1612547346211_224 #facs_113_TextRegion_1612547334150_216 #facs_113_TextRegion_1612547325610_208">
 				<lb facs="#facs_112_r1l13" n="N001"/>153. Hieraus wird sich erweisen, warum von den
@@ -15627,7 +15627,7 @@
 			</p>
             <p facs="#facs_297_TextRegion_1612734493078_5336 #facs_297_TextRegion_1612734471301_5328 #facs_298_TextRegion_1612736136406_5485">
 				<lb facs="#facs_297_r1l22" n="N001"/>Daher können metrische Formen wie diese:
-				<lb facs="#facs_297_r1l23" n="N002"/>(S. 282. <hi rend="italic:true; fontSize:0.0; kerning:0;">B</hi>. <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;">a-β</hi>) <figure facs="#facs_297_r1l23_1" rend="inline" class="musicplaceholder"><graphic url="music/facs_297_Music_r1l23_1.png"/></figure> (S. 281. <hi rend="italic:true; fontSize:0.0; kerning:0;">B</hi>. <hi rend="italic:true; fontSize:0.0; kerning:0;">α</hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;">β</hi>) <figure facs="#facs_297_r1l23_2" rend="inline" class="musicplaceholder"><graphic url="music/facs_297_Music_r1l23_2.png"/></figure>,
+				<lb facs="#facs_297_r1l23" n="N002"/>(S. 282. <hi rend="italic:true; fontSize:0.0; kerning:0;">B</hi>. <hi rend="italic:true; fontSize:0.0; kerning:0;">b</hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;">a-β</hi>) <figure facs="#facs_297_r1l23_1" rend="inline" type="musicplaceholder"><graphic url="music/facs_297_Music_r1l23_1.png"/></figure> (S. 281. <hi rend="italic:true; fontSize:0.0; kerning:0;">B</hi>. <hi rend="italic:true; fontSize:0.0; kerning:0;">α</hi>, <hi rend="italic:true; fontSize:0.0; kerning:0;">β</hi>) <figure facs="#facs_297_r1l23_2" rend="inline" type="musicplaceholder"><graphic url="music/facs_297_Music_r1l23_2.png"/></figure>,
 				<lb facs="#facs_297_r1l24" n="N003"/>nicht die Tactbestimmung
             	<figure facs="#facs_297_Graphic_1616259453994_5300">
                <graphic url="graphic/facs_297_Graphic_1616259453994_5300.png"/>
@@ -15992,7 +15992,7 @@
 				<lb facs="#facs_307_r1l21" n="N003"/>ses steht als solches hier nicht in der Bedeutung der zwei<pc>¬</pc>
 				<lb facs="#facs_307_r1l22" n="N004"/>ten Hälfte des Ganzen, sondern nur in der des ersten
 				<lb facs="#facs_307_r1l23" n="N005"/>Theiles in dieser zweiten Hälfte. Der Schluss ist daher nicht
-				<lb facs="#facs_307_r1l24" n="N006"/><figure facs="#facs_307_r1l24_1" rend="inline" class="musicplaceholder"><graphic url="music/facs_307_Music_r1l24_1.png"/></figure>, sondern <figure facs="#facs_307_r1l24_2" rend="inline" class="musicplaceholder"><graphic url="music/facs_307_Music_r1l24_2.png"/></figure>;
+				<lb facs="#facs_307_r1l24" n="N006"/><figure facs="#facs_307_r1l24_1" rend="inline" type="musicplaceholder"><graphic url="music/facs_307_Music_r1l24_1.png"/></figure>, sondern <figure facs="#facs_307_r1l24_2" rend="inline" type="musicplaceholder"><graphic url="music/facs_307_Music_r1l24_2.png"/></figure>;
 				<lb facs="#facs_307_r1l25" n="N007"/>wie er eben auch praktisch von selbst sich also ausfüh<pc>¬</pc>
 				<lb facs="#facs_307_r1l26" n="N008"/>ren wird.
 			</p>
@@ -17775,7 +17775,7 @@
 			</p>
             <p facs="#facs_355_TextRegion_1612985439900_520 #facs_355_TextRegion_1612985385139_493">
 				<lb facs="#facs_355_r1l5" n="N001"/>Wenn nun beide Formen des Daktylus, die erste
-				<lb facs="#facs_355_r1l6" n="N002"/><figure facs="#facs_355_r1l6_1" rend="inline" class="musicplacholder"><graphic url="music/facs_355_Music_r1l6_1.png"/></figure>, und diese <figure facs="#facs_355_r1l6_2" rend="inline" class="musicplaceholder"><graphic url="music/facs_355_Music_r1l6_2.png"/></figure>,
+				<lb facs="#facs_355_r1l6" n="N002"/><figure facs="#facs_355_r1l6_1" rend="inline" class="musicplacholder"><graphic url="music/facs_355_Music_r1l6_1.png"/></figure>, und diese <figure facs="#facs_355_r1l6_2" rend="inline" type="musicplaceholder"><graphic url="music/facs_355_Music_r1l6_2.png"/></figure>,
 				<lb facs="#facs_355_r1l7" n="N003"/>nebeneinander bestehen sollen, so haben wir zuerst zu
 				<lb facs="#facs_355_r1l8" n="N004"/>unterscheiden, dass die letztere nicht in dem Sinne <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Fuss</hi>
 				<lb facs="#facs_355_r1l9" n="N005"/>zu nennen ist, wie die erste, die eben nur eine Gliederung
