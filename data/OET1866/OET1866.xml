@@ -4509,7 +4509,7 @@
 				<lb facs="#facs_39_r1l10" n="N001"/>Unter <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Tonicität</rs></hi> eines <rs ana="#m_interval">Intervalles</rs> oder <rs ana="#m_chord">Accordes</rs> verstehe
 				<lb facs="#facs_39_r1l11" n="N002"/>ich die Eigenschaft desselben, als <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Klangbestandtheil</rs> ei<pc>¬</pc>
 				<lb facs="#facs_39_r1l12" n="N003"/>nes <rs ana="#m_note">Grundtones</rs> aufgefasst werden zu können</hi>. Die<pc>¬</pc>
-				<lb facs="#facs_39_r1l13" n="N004"/>sen <rs ana="#m_note">Grundton</rs> nenne ich den <rs ana="#concept_mus">tonischen</rs> <rs ana="#m_note">Grundton</rs> <note facs="#facs_39_TextRegion_1616437449216_3971" type="foot" n="1)"><lb facs="#facs_39_r1l31" n="N001"/>Von <figure facs="#facs_39_r1l13_1" rend="inline"><graphic url="graphic/facs_39_r1l13_1.png"/></figure>, ich spanne; <figure facs="#facs_39_r1l13_2" rend="inline"><graphic url="graphic/facs_39_r1l13_2.png"/></figure>, durch Spannung bewirkt, tönend. Denkt
+				<lb facs="#facs_39_r1l13" n="N004"/>sen <rs ana="#m_note">Grundton</rs> nenne ich den <rs ana="#concept_mus">tonischen</rs> <rs ana="#m_note">Grundton</rs> <note facs="#facs_39_TextRegion_1616437449216_3971" type="foot" n="1)"><lb facs="#facs_39_r1l31" n="N001"/>Von <figure facs="#facs_39_r1l13_1" rend="inline"><graphic url="graphic/facs_39_Graphic_r1l13_1.png"/></figure>, ich spanne; <figure facs="#facs_39_r1l13_2" rend="inline"><graphic url="graphic/facs_39_Graphic_r1l13_2.png"/></figure>, durch Spannung bewirkt, tönend. Denkt
 				<lb facs="#facs_39_r1l32" n="N002"/>man sich die ganze <rs ana="#concept_phy">Klangmasse</rs> der <rs ana="#concept_phy">Partialtöne</rs> eines gegebenen <rs ana="#m_note">Grundtones</rs>, so
 				<lb facs="#facs_39_line_1616437446044_3969" n="N003"/>erscheinen jene gegebenen <rs ana="#m_note">Töne</rs> als hineingefügt, hineingespannt.</note>.
 			</p>
@@ -4540,7 +4540,7 @@
 				<lb facs="#facs_40_r1l4" n="N001"/>Unter <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">Phonicität</rs></hi> eines <rs ana="#m_interval">Intervalles</rs> oder <rs ana="#m_chord">Accordes</rs> ver<pc>¬</pc>
 				<lb facs="#facs_40_r1l5" n="N002"/>stehe ich die Eigenschaft desselben, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">stets irgend welche<lb facs="#facs_40_r1l6" n="N003"/>allen <rs ana="#m_note">Tönen</rs> gemeinsame <rs ana="#concept_phy">Partialtöne</rs> zu besitzen</hi>.
 				<lb facs="#facs_40_r1l7" n="N004"/>Den tiefsten der allen gemeinsam zukommenden <rs ana="#concept_phy">Partialtöne</rs>
-				<lb facs="#facs_40_r1l8" n="N005"/>nenne ich den <rs ana="#concept_phy">coïncidirenden</rs> oder <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">phonischen</rs> <rs ana="#concept_phy">Oberton</rs></hi> <note facs="#facs_40_TextRegion_1616437566415_4055" type="foot" n="1)"><lb facs="#facs_40_r1l34" n="N001"/>Von <figure facs="#facs_40_r1l34" rend="inline"><graphic url="graphic/facs_40_r1l34.png"/></figure>, ich singe.</note>,
+				<lb facs="#facs_40_r1l8" n="N005"/>nenne ich den <rs ana="#concept_phy">coïncidirenden</rs> oder <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><rs ana="#concept_mus">phonischen</rs> <rs ana="#concept_phy">Oberton</rs></hi> <note facs="#facs_40_TextRegion_1616437566415_4055" type="foot" n="1)"><lb facs="#facs_40_r1l34" n="N001"/>Von <figure facs="#facs_40_r1l34" rend="inline"><graphic url="graphic/facs_40_Graphic_r1l34.png"/></figure>, ich singe.</note>,
 				<lb facs="#facs_40_r1l9" n="N006"/>weil alle den <rs ana="#m_note">Ton</rs> gleichsam <rs ana="#concept_mus">singen</rs>, d. h. wirklich angeben.
 			</p>
             <p facs="#facs_40_TextRegion_1616437596815_4076">
@@ -5779,7 +5779,7 @@
 				<lb facs="#facs_77_r1l17" n="N015"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">c</rs></hi> ein <note facs="#facs_77_TextRegion_1621067179694_532" type="foot" n="3)"><lb facs="#facs_77_line_1621067321344_590" n="N001"/><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0001">Helmholtz</persName></hi> <title ana="#text" ref="#W0001">l. c.</title> pag. 459 und früher, <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0007">Hauptmann</persName></hi> und mit ihm <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;"><persName role="author" ref="#P0090">Nau<pc>¬</pc>
 				<lb facs="#facs_77_r1l29" n="N002"/>mann</persName></hi> behandein die <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">c-moll</hi> Tonleiter</rs>, d. h. nach meiner Darstellung die <rs ana="#m_tonality">phon.-<hi rend="italic:true; fontSize:0.0; kerning:0;">g</hi></rs>
 				<lb facs="#facs_77_line_1621067328362_599" n="N003"/><rs ana="#m_tonality">Leiter</rs>. Daher findet man dort den <rs ana="#m_note">Ton</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">c</rs></hi> = 1 gesetzt:
-				<lb facs="#facs_77_line_1621067387934_693" n="N004"/><figure facs="#facs_77_line_1621067387934_693_1" rend="inline"><graphic url="graphic/facs_77_line_1621067387934_693_1.png"/></figure>, und <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">g</rs></hi> = 1 gesetzt, gäbe <figure facs="#facs_77_line_1621067387934_693_2" rend="inline"><graphic url="graphic/facs_77_line_1621067387934_693_2.png"/></figure>,
+				<lb facs="#facs_77_line_1621067387934_693" n="N004"/><figure facs="#facs_77_line_1621067387934_693_1" rend="inline"><graphic url="graphic/facs_77_Graphic_1621067387934_693_1.png"/></figure>, und <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">g</rs></hi> = 1 gesetzt, gäbe <figure facs="#facs_77_line_1621067387934_693_2" rend="inline"><graphic url="graphic/facs_77_Graphic_1621067387934_693_2.png"/></figure>,
 				<lb facs="#facs_77_line_1621067369047_662" n="N005"/>also <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">b</rs></hi> <formula notation="tex">$= \frac{32}{27}$</formula> statt <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">b̲</hi></rs> <formula notation="tex">$= \frac{6}{5}$</formula> <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">g</rs></hi>.
 				<lb facs="#facs_77_r1l53" n="N006"/>Hiermit in Widerspruch steht die Herleitung der mit <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_tonality">C-moll</rs></hi> <rs ana="#concept_mus">verwandten</rs> <rs ana="#m_tonality">Tonarten</rs>
 				<lb facs="#facs_77_r1l54" n="N007"/>auf Seite 195, s. das Schema, das vollkommen <rs ana="#concept_mus">phonisch</rs> gebildet ist.</note>. <persName role="author" ref="#P0007">Hauptmann</persName> hat gewiss Recht, wenn er sagt (§ 80):
@@ -5876,8 +5876,8 @@
 			</head>
             <p facs="#facs_80_TextRegion_1621067742396_923 #facs_81_TextRegion_1621068071757_1145">
 				<lb facs="#facs_80_r1l40" n="N001"/>Die drei <rs ana="#m_chord">Hauptaccorde</rs>
-				<lb facs="#facs_80_r1l41" n="N002"/>sind in <rs ana="#m_tonality">phon.-<hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>: <figure facs="#facs_80_r1l41" rend="inline"><graphic url="graphic/facs_80_r1l41.png"/></figure>.
-				<lb facs="#facs_80_r1l42" n="N003"/>in <rs ana="#m_tonality">phon.-<hi rend="italic:true; fontSize:0.0; kerning:0;">e̅</hi></rs>: <figure facs="#facs_80_r1l42" rend="inline"><graphic url="graphic/facs_80_r1l42.png"/></figure>.
+				<lb facs="#facs_80_r1l41" n="N002"/>sind in <rs ana="#m_tonality">phon.-<hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>: <figure facs="#facs_80_r1l41" rend="inline"><graphic url="graphic/facs_80_Graphic_r1l41.png"/></figure>.
+				<lb facs="#facs_80_r1l42" n="N003"/>in <rs ana="#m_tonality">phon.-<hi rend="italic:true; fontSize:0.0; kerning:0;">e̅</hi></rs>: <figure facs="#facs_80_r1l42" rend="inline"><graphic url="graphic/facs_80_Graphic_r1l42.png"/></figure>.
             	<pb facs="#facs_81" n="73"/>
             	<lb facs="#facs_81_r1l2" n="N001"/>Versuchen wir dieselben zu einer <rs ana="#concept_mus">Cadenz</rs> zusammenzustellen,
 				<lb facs="#facs_81_r1l3" n="N002"/>so bemerkt man einen Mangel im Gegensatz und zwar einen
@@ -5905,8 +5905,8 @@
 				<lb facs="#facs_81_r1l25" n="N004"/><rs ana="#m_chord">Septimenaccord</rs>, so erhalten wir als Gegensatz im <rs ana="#m_tonality">phonischen</rs>
 				<lb facs="#facs_81_r1l26" n="N005"/><rs ana="#m_tonality">Geschlecht</rs> einen <rs ana="#m_chord">Regnant-Septimenaccord</rs>, d. h. einen ganz
 				<lb facs="#facs_81_r1l27" n="N006"/>analog gebildeten <rs ana="#m_chord">Septimenaccord</rs> <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">unter</hi> der <rs ana="#concept_mus">Regnante</rs> <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">a̅</hi></rs>
-				<lb facs="#facs_81_r1l28" n="N007"/>also in <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>: <figure facs="#facs_81_r1l28" rend="inline"><graphic url="graphic/facs_81_r1l28.png"/></figure>
-				<lb facs="#facs_81_r1l29" n="N008"/>in <rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">e}</hi></rs>: <figure facs="#facs_81_r1l29" rend="inline"><graphic url="graphic/facs_81_r1l29.png"/></figure>.
+				<lb facs="#facs_81_r1l28" n="N007"/>also in <rs ana="#m_tonality">ton. <hi rend="italic:true; fontSize:0.0; kerning:0;">c</hi></rs>: <figure facs="#facs_81_r1l28" rend="inline"><graphic url="graphic/facs_81_Graphic_r1l28.png"/></figure>
+				<lb facs="#facs_81_r1l29" n="N008"/>in <rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">e̅</hi></rs>: <figure facs="#facs_81_r1l29" rend="inline"><graphic url="graphic/facs_81_Graphic_r1l29.png"/></figure>.
 			</p>
             <p facs="#facs_81_TextRegion_1621068059947_1137">
 				<lb facs="#facs_81_r1l31" n="N001"/>Behalten wir ferner den vollständigen Gegensatz bei,
@@ -8203,7 +8203,7 @@
 			</p>
          <pb facs="#facs_157" n="149"/>
             <p facs="#facs_157_TextRegion_1621253980687_1799">
-				<lb facs="#facs_157_r1l5" n="N001"/>1) Nr. 1 und 5. <figure facs="#facs_157_r1l5_1" rend="inline" type="musicplaceholder"><graphic url="music/facs_157_r1l5_1.png"/></figure> und <figure facs="#facs_157_r1l5_2" rend="inline" type="musicplaceholder"><graphic url="music/facs_157_r1l5_2.png"/></figure>. 
+				<lb facs="#facs_157_r1l5" n="N001"/>1) Nr. 1 und 5. <figure facs="#facs_157_r1l5_1" rend="inline" type="musicplaceholder"><graphic url="music/facs_157_Music_r1l5_1.png"/></figure> und <figure facs="#facs_157_r1l5_2" rend="inline" type="musicplaceholder"><graphic url="music/facs_157_Music_r1l5_2.png"/></figure>. 
 				<lb facs="#facs_157_r1l8" n="N002"/>von welchen die letztere auf den ersten Anblick härter zu
 				<lb facs="#facs_157_r1l9" n="N003"/>sein scheint, als die erstere; in beiden aber gewinnt nach
 				<lb facs="#facs_157_r1l10" n="N004"/><persName role="author" ref="#P0007"><hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Hauptmann</hi>'s</persName> Auffassung <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">c</rs></hi> <rs ana="#concept_mus">Terzbedeutung</rs> im neuen <rs ana="#m_chord">Ac<pc>¬</pc>
@@ -8211,14 +8211,14 @@
 				<lb facs="#facs_157_r1l12" n="N006"/><rs ana="#m_interval">Unterterz</rs> von <rs ana="#m_chord">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">e̅</hi></rs>. Die <rs ana="#concept_mus">Folgen</rs>
             </p>
             <p facs="#facs_157_TextRegion_1621253980687_1798">
-				<lb facs="#facs_157_r1l14" n="N001"/>2) Nr. 2 und 6. <figure facs="#facs_157_r1l14_1" rend="inline" type="musicplaceholder"><graphic url="music/facs_157_r1l14_1.png"/></figure> und <figure facs="#facs_157_r1l14_2" rend="inline" type="musicplaceholder"><graphic url="music/facs_157_r1l14_2.png"/></figure>
+				<lb facs="#facs_157_r1l14" n="N001"/>2) Nr. 2 und 6. <figure facs="#facs_157_r1l14_1" rend="inline" type="musicplaceholder"><graphic url="music/facs_157_Music_r1l14_1.png"/></figure> und <figure facs="#facs_157_r1l14_2" rend="inline" type="musicplaceholder"><graphic url="music/facs_157_Music_r1l14_2.png"/></figure>
 				<lb facs="#facs_157_r1l15" n="N002"/>erscheinen statthaft, namentlich wiederum als <rs ana="#concept_mus">vorgrei<pc>¬</pc>
 				<lb facs="#facs_157_r1l16" n="N003"/>fende</rs> <rs ana="#concept_mus">Klänge</rs>. — <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">c</rs></hi> tritt aus der <rs ana="#concept_mus">tonischen</rs> oder <rs ana="#concept_mus">phonischen</rs>
 				<lb facs="#facs_157_r1l17" n="N004"/>Bedeutung in die eines <rs ana="#concept_mus">Leitklanges</rs> der neuen <rs ana="#m_tonality">Tonart</rs> <rs ana="#m_tonality"><hi rend="italic:true; fontSize:0.0; kerning:0;">d̲e̲s̲</hi>-</rs>
 				<lb facs="#facs_157_line_1621253976835_1796" n="N005"/><rs ana="#m_tonality">dur</rs> oder <rs ana="#m_tonality">phon. <hi rend="italic:true; fontSize:0.0; kerning:0;">h̅</hi></rs>.
 			</p>
             <p facs="#facs_157_TextRegion_1621253976825_1792">
-				<lb facs="#facs_157_r1l20" n="N001"/>3) Nr. 3 und 7.<figure facs="#facs_157_r1l20_1" rend="inline" type="musicplaceholder"><graphic url="music/facs_157_r1l20_1.png"/></figure> und <figure facs="#facs_157_r1l20_2" rend="inline" type="musicplaceholder"><graphic url="music/facs_157_r1l20_2.png"/></figure>
+				<lb facs="#facs_157_r1l20" n="N001"/>3) Nr. 3 und 7.<figure facs="#facs_157_r1l20_1" rend="inline" type="musicplaceholder"><graphic url="music/facs_157_Music_r1l20_1.png"/></figure> und <figure facs="#facs_157_r1l20_2" rend="inline" type="musicplaceholder"><graphic url="music/facs_157_Music_r1l20_2.png"/></figure>
 			</p>
             <p facs="#facs_157_TextRegion_1621253909800_1765 #facs_158_TextRegion_1621254176445_2050 #facs_158_TextRegion_1621254169793_2040 #facs_158_TextRegion_1621254161506_2032">
 				<lb facs="#facs_157_r1l26" n="N001"/>Hier haben wir <rs ana="#concept_mus">Folgen</rs> eines <rs ana="#m_chord">Dur-</rs> und des gleichna<pc>¬</pc>
@@ -8816,11 +8816,11 @@
 				<lb facs="#facs_178_r1l19" n="N004"/>wurden, so z. B. Tab A sub 4
 			</p>
       	<p facs="#facs_178_TextRegion_1621257360490_3565">
-      		<lb facs="#facs_178_r1l20" n="N001"/><figure facs="#facs_178_r1l20"><graphic url="graphic/facs_178_r1l20.png"/></figure>
+      		<lb facs="#facs_178_r1l20" n="N001"/><figure facs="#facs_178_r1l20"><graphic url="graphic/facs_178_Graphic_r1l20.png"/></figure>
       		<lb facs="#facs_178_line_1621257618612_3663" n="N005"/>dagegen auf Tab. C sub 4:
-      		<lb facs="#facs_178_line_1621257625681_3674" n="N006"/><figure facs="#facs_178_line_1621257625681_3674"><graphic url="graphic/facs_178_line_1621257625681_3674.png"/></figure>
+      		<lb facs="#facs_178_line_1621257625681_3674" n="N006"/><figure facs="#facs_178_line_1621257625681_3674"><graphic url="graphic/facs_178_Graphic_1621257625681_3674.png"/></figure>
       		<lb facs="#facs_178_r1l35" n="N008"/>und sub 2;
-      		<lb facs="#facs_178_line_1621257640135_3690" n="N009"/><figure facs="#facs_178_line_1621257640135_3690"><graphic url="graphic/facs_178_line_1621257640135_3690.png"/></figure>
+      		<lb facs="#facs_178_line_1621257640135_3690" n="N009"/><figure facs="#facs_178_line_1621257640135_3690"><graphic url="graphic/facs_178_Graphic_1621257640135_3690.png"/></figure>
       	</p>
          <pb facs="#facs_179" n="169"/>
             <p facs="#facs_179_TextRegion_1621257684933_3755">
@@ -9631,7 +9631,7 @@
 				<lb facs="#facs_208_r1l16" n="N014"/>geschobenem <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">e̲s̲</hi></rs> hat keinen klaren Sinn, und wenn solch ein
 				<lb facs="#facs_208_r1l17" n="N015"/><rs ana="#concept_mus">Gang</rs> in einem Kunstwerk vorkommt, so wird nicht <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">e̲s̲</hi></rs>, son<pc>¬</pc>
 				<lb facs="#facs_208_r1l18" n="N016"/>dern <rs ana="#m_note"><hi rend="italic:true; fontSize:0.0; kerning:0;">d̿i̿s̿</hi></rs> verstanden und geschrieben werden müssen. Die
-				<lb facs="#facs_208_line_1621263911339_4903" n="N017"/><rs ana="#concept_mus">Accordfolge</rs> <figure facs="#facs_208_line_1621263911339_4903" rend="inline"><graphic url="graphic/facs_208_line_1621263911339_4903.png"/></figure> involvirt eine <rs ana="#concept_mus">Modulation</rs>.
+				<lb facs="#facs_208_line_1621263911339_4903" n="N017"/><rs ana="#concept_mus">Accordfolge</rs> <figure facs="#facs_208_line_1621263911339_4903" rend="inline"><graphic url="graphic/facs_208_Graphic_1621263911339_4903.png"/></figure> involvirt eine <rs ana="#concept_mus">Modulation</rs>.
             </p>
             <p facs="#facs_208_TextRegion_1621263862659_4857">
 				<lb facs="#facs_208_r1l27" n="N001"/>Aus demselben Grunde hat die sog. <rs ana="#m_tonality">chromatische Lei<pc>¬</pc>
@@ -9735,10 +9735,10 @@
             </p>
       	<list facs="#facs_212_TextRegion_1621264366577_5221">
       		<item>
-      			<lb facs="#facs_212_r1l11" n="N001"/>zum <rs ana="#concept_mus">transp.</rs> II, 4. <figure facs="#facs_212_r1l11" rend="inline" type="musicplaceholder"><graphic url="music/facs_212_r1l11.png"/></figure>
+      			<lb facs="#facs_212_r1l11" n="N001"/>zum <rs ana="#concept_mus">transp.</rs> II, 4. <figure facs="#facs_212_r1l11" rend="inline" type="musicplaceholder"><graphic url="music/facs_212_Music_r1l11.png"/></figure>
       		</item>
       		<item>
-      			<lb facs="#facs_212_r1l26" n="N002"/>zum <rs ana="#concept_mus">transp.</rs> IV, 1. <figure facs="#facs_212_r1l26" rend="inline" type="musicplaceholder"><graphic url="music/facs_212_r1l26.png"/></figure>
+      			<lb facs="#facs_212_r1l26" n="N002"/>zum <rs ana="#concept_mus">transp.</rs> IV, 1. <figure facs="#facs_212_r1l26" rend="inline" type="musicplaceholder"><graphic url="music/facs_212_Music_r1l26.png"/></figure>
       		</item>
       	</list>
             <p facs="#facs_212_TextRegion_1621264361183_5217">
