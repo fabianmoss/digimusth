@@ -3,163 +3,164 @@ layout: music_base
 ---
 
 <head>
-    <title>DigiMusTh</title>
-    <meta charset="utf-8">
+	<title>DigiMusTh</title>
+	<meta charset="utf-8">
 	<script src="{{site.baseurl}}/assets/js/CETEI.js"></script>
 	<script src="{{site.baseurl}}/assets/js/verovio.js"></script>
-		<!-- displaying math formulas-->
-	<script> 
+	<!-- displaying math formulas-->
+	<script>
 		MathJax = {
-		tex: {
-			inlineMath: {'[+]': [['$', '$']]} // adding the $ as a marker for formulas \( \) does also still work 
-		},
-		options: {
-      enableMenu: false  // disables the context menu
-      } 
+			tex: {
+				inlineMath: { '[+]': [['$', '$']] } // adding the $ as a marker for formulas \( \) does also still work 
+			},
+			options: {
+				enableMenu: false  // disables the context menu
+			}
 		};
 	</script>
 	<script src="{{ site.baseurl }}/assets/js/mathjax/tex-mml-chtml.js"></script> <!--local-->
 	<!--<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script> async version-->
-  </head>
+</head>
 
-  <body>
+<body>
 	<div id="path" class="hidden">{{ page.name }}</div> <!-- needed for the following logic to identify the path -->
-  	<!-- container for TEI document -->
-    <div id="container" style="display: flex; align-items: flex-start;">
-		<div id="TEI" style="flex: 2; padding-right: 1em; position: relative;">
+	<!-- container for TEI document -->
+	<div id="container" style="display: flex; align-items: flex-start;">
+		<div id="TEI">
 			<!-- CETEIcean renders TEI content here -->
 		</div>
-		<div id="notesSidebar" style="flex: 1; border-left:1px solid #ccc; padding-left:1em;">
+		<div id="notesSidebar">
 			<!-- Notes will be moved here -->
 		</div>
 	</div>
-  	<!-- rendition -->
-	
-  	<script>
-				
+	<!-- rendition -->
+
+	<script>
+
 		var path = document.getElementById("path")
-  		/* CETEIcean */
+		/* CETEIcean */
 		var CETEIcean = new CETEI()
 
 		/* Custom Behaviors*/
 		CETEIcean.addBehaviors({
-				
+
 			"tei": {
 				// handle math expressions
-				"formula": function(el) {
-				let wrapper = document.createElement("span");
+				"formula": function (el) {
+					let wrapper = document.createElement("span");
 
-				let rawContent = "";
-				let serializer = new XMLSerializer();
-				el.childNodes.forEach(child => {
-				rawContent += serializer.serializeToString(child).replaceAll("ns1-", "");
-				/*rawContent = rawContent.replace("ns1-", "");*/
+					let rawContent = "";
+					let serializer = new XMLSerializer();
+					el.childNodes.forEach(child => {
+						rawContent += serializer.serializeToString(child).replaceAll("ns1-", "");
+						/*rawContent = rawContent.replace("ns1-", "");*/
 					});
 					wrapper.innerHTML = rawContent.replace("ns1-", "");
-				return wrapper;
+					return wrapper;
 				},
 
 				// deal with whitespace issue
-				"pc": function(el) {
-				// Remove <cetei-original> inside pc
-				const original = el.querySelector('cetei-original');
-				if (original) original.remove();
+				"pc": function (el) {
+					// Remove <cetei-original> inside pc
+					const original = el.querySelector('cetei-original');
+					if (original) original.remove();
 
-				// Remove any whitespace immediately after this pc
-				let next = el.nextSibling;
-				while (next && next.nodeType === Node.TEXT_NODE && /^\s*$/.test(next.nodeValue)) {
-					let toRemove = next;
-					next = next.nextSibling;
-					toRemove.parentNode.removeChild(toRemove);
-				}
-
-				// Return empty text node so nothing is inserted in place
-				return document.createTextNode('');
-				},
-
-				 //adding toc functionality
-				"head": function(elt) {
-				// Clone the element so CETEIcean can safely insert it into the DOM
-				let clone = document.createElement("div");
-
-				// Copy over the inner HTML so the TEI content displays
-				clone.innerHTML = elt.innerHTML;
-
-				// Find the first <hi> in the clone
-				let hi = clone.querySelector("tei-hi");
-				if (hi) {
-					// Extract and clean up its text
-					let text = hi.textContent.trim();
-					let cleaned = text
-					.replace(/[.,\/#!$%\^&\*;:{}=\_`~()?"'””“„’]/g, "")
-					.replace(/\s+/g, "-")
-					.toLowerCase();
-
-					// Add the id attribute
-					clone.setAttribute("id", cleaned);
-				}
-
-				// Return the new HTML structure so CETEIcean renders it
-				return clone;
-				},
-			
-
-				/* deal with facsimili css elements*/
-				"hi": function(el) {
-				let span = document.createElement("span");
-	
-				// Process rend attribute into CSS classes
-				if (el.hasAttribute("rend")) {
-					let rendValue = el.getAttribute("rend");
-
-					// Parse rend into object
-					let styles = rendValue.split(";").reduce((acc, pair) => {
-					let [key, value] = pair.trim().split(":");
-					if (key && value) acc[key.trim()] = value.trim();
-					return acc;
-					}, {});
-
-					// Build class list from rend styles
-					let classList = [];
-					if (styles.letterSpaced === "true") classList.push("letterSpaced");
-					if (styles.bold === "true") classList.push("bold");
-					if (styles.superscript === "true") classList.push("superscript");
-
-					if (styles.subscript === "true") classList.push("subscript");
-					if (styles.italic === "true") classList.push("italic");
-
-					if (classList.length) {
-					span.className = classList.join(" ");
+					// Remove any whitespace immediately after this pc
+					let next = el.nextSibling;
+					while (next && next.nodeType === Node.TEXT_NODE && /^\s*$/.test(next.nodeValue)) {
+						let toRemove = next;
+						next = next.nextSibling;
+						toRemove.parentNode.removeChild(toRemove);
 					}
-				}
 
-				// Append children
-				while (el.firstChild) {
-					span.appendChild(el.firstChild);
-				}
+					// Return empty text node so nothing is inserted in place
+					return document.createTextNode('');
+				},
 
-				return span;
+				//adding toc functionality
+				"head": function (elt) {
+					// Clone the element and move it into a div
+					let clone = document.createElement("div");
+
+					// Copy over the inner HTML so the TEI content displays
+					clone.innerHTML = elt.innerHTML;
+
+					// Find the first <hi> in the clone
+					let hi = clone.querySelector("tei-hi");
+					if (hi) {
+						// Extract and clean up its text, following the ed logic 
+						let text = hi.textContent.trim();
+						let cleaned = text
+							.replace(/[.,\/#!$%\^&\*;:{}=\_`~()?"'””“„’]/g, "")
+							.replace(/\s+/g, "-")
+							.toLowerCase();
+
+						// Add the id attribute
+						clone.setAttribute("id", cleaned);
+					}
+
+					// Return the new HTML structure so CETEIcean renders it
+					return clone;
+				},
+
+
+				/* deal with text formating accorind to the facsmilie css elements*/
+				"hi": function (el) {
+					let span = document.createElement("span");
+
+					// Process rend attribute into CSS classes
+					if (el.hasAttribute("rend")) {
+						let rendValue = el.getAttribute("rend");
+
+						// Parse rend into object
+						let styles = rendValue.split(";").reduce((acc, pair) => {
+							let [key, value] = pair.trim().split(":");
+							if (key && value) acc[key.trim()] = value.trim();
+							return acc;
+						}, {});
+
+						// Build class list from rend styles
+						let classList = [];
+						if (styles.letterSpaced === "true") classList.push("letterSpaced");
+						if (styles.bold === "true") classList.push("bold");
+						if (styles.superscript === "true") classList.push("superscript");
+
+						if (styles.subscript === "true") classList.push("subscript");
+						if (styles.italic === "true") classList.push("italic");
+
+						if (classList.length) {
+							span.className = classList.join(" ");
+						}
+					}
+
+					// Append children
+					while (el.firstChild) {
+						span.appendChild(el.firstChild);
+					}
+
+					return span;
 				}
 			}
-			});
+		});
 
-			CETEIcean.getHTML5("../../data/" + path.innerHTML + "/" + path.innerHTML + ".xml", function(data) {
-				/*CETEIcean.getHTML5("../../musicdata/tei/" + path.innerHTML, function(data) { */
+		// load in the xml files
+		CETEIcean.getHTML5("../../data/" + path.innerHTML + "/" + path.innerHTML + ".xml", function (data) {
+			/*CETEIcean.getHTML5("../../musicdata/tei/" + path.innerHTML, function(data) { */
 			/* funktioniert: CETEIcean.getHTML5("../../musicdata/tei/" + "CAP1905_tei.xml", function(data) { */
 			document.getElementById("TEI").appendChild(data)
 			if (window.MathJax) {
-						MathJax.typesetPromise(); // Tell MathJax to process newly inserted content
-					}
+				MathJax.typesetPromise(); // Tell MathJax to process newly inserted content
+			}
 			/*search parameter*/
 			const query = new URLSearchParams(window.location.search).get("q");
 		})
 
-		/* initiate Verovio*/
+		/* initiate Verovio, needed for mei files*/
 		var vrvToolkit = new verovio.toolkit()
-		
+
 		/* DOM-Prüfer */
 		function checkDOMAndProcess() {
-			const musicElements = document.querySelectorAll('tei-notatedmusic[rend="MEI"]'); 
+			const musicElements = document.querySelectorAll('tei-notatedmusic[rend="MEI"]');
 			// const musicElements = document.querySelectorAll('tei-div[rend="MEI"]'); // old works for other structure
 
 			musicElements.forEach(node => {
@@ -167,9 +168,10 @@ layout: music_base
 					node.dataset.processed = 'true'; // prevent duplicate processing
 					const fileName = node.getAttribute("source"); // Dynamischer Dateiname basierend auf der ID  --- source war node.id
 
+					// Fallback function
 					// Paths for MEI and PNG
 					const meiPath = "../../data/" + path.innerHTML + "/data/" + fileName;
-					const pngPath = "../../data/" + path.innerHTML + "/music/" + fileName.replace(/\.[^/.]+$/, ".png"); 
+					const pngPath = "../../data/" + path.innerHTML + "/music/" + fileName.replace(/\.[^/.]+$/, ".png");
 					// replace extension with .png
 
 					// Try MEI first
@@ -181,12 +183,13 @@ layout: music_base
 							return response.text();
 						})
 						.then(data => {
+							// dynamic mei loading as svgs
 							// Load MEI and set base options
 							vrvToolkit.loadData(data);
 							const pageCount = vrvToolkit.getPageCount();
 							let scale = 80;
 							let pageHeight = 12000;
-							
+
 							// Adjust scale/pageHeight for readability
 							if (pageCount === 1) {
 								scale = 80;
@@ -198,7 +201,7 @@ layout: music_base
 								scale = 120;
 								pageHeight = 20000;
 							}
-							
+
 							vrvToolkit.setOptions({
 								adjustPageHeight: true,
 								breaks: "auto",
@@ -206,83 +209,83 @@ layout: music_base
 								pageHeight,
 								scale
 							});
-							
+
 							// Render ALL pages
 							node.innerHTML = ''; // Clear container first
-							
+
 							for (let pageNum = 1; pageNum <= pageCount; pageNum++) {
 								const svg = vrvToolkit.renderToSVG(pageNum, {});
-								
+
 								// Create wrapper for this page
 								const pageWrapper = document.createElement('div');
 								pageWrapper.className = 'verovio-page';
 								pageWrapper.style.marginBottom = '20px'; // Space between pages
 								pageWrapper.style.cursor = 'pointer'; // Show it's clickable
 								pageWrapper.innerHTML = svg;
-								
+
 								// Add click handler to open SVG in new tab
 								pageWrapper.addEventListener('click', () => {
-								const svgElement = pageWrapper.querySelector('svg');
-								const svgClone = svgElement.cloneNode(true);
-								// if not cloned then original image gets small after clicked 
-								svgClone.style.height = "100%"; 
-								console.log(svgElement)
-								if (svgClone) {
-									// Serialize the SVG to a string
-									const svgString = new XMLSerializer().serializeToString(svgClone);
-									// Create a blob and open in new tab
-									const blob = new Blob([svgString], { type: 'image/svg+xml' });
-									const url = URL.createObjectURL(blob);
-									window.open(url, '_blank');
-								}
+									const svgElement = pageWrapper.querySelector('svg');
+									const svgClone = svgElement.cloneNode(true);
+									// if not cloned then original image gets small after clicked 
+									svgClone.style.height = "100%";
+									console.log(svgElement)
+									if (svgClone) {
+										// Serialize the SVG to a string
+										const svgString = new XMLSerializer().serializeToString(svgClone);
+										// Create a blob and open in new tab -> blob needed because svg gets generated and isnt saved as such
+										const blob = new Blob([svgString], { type: 'image/svg+xml' });
+										const url = URL.createObjectURL(blob);
+										window.open(url, '_blank');
+									}
 								});
 
-								
+
 								//  Select outer and inner SVGs for this page 
 								const outerSvg = pageWrapper.querySelector("svg");
 								const innerSvg = pageWrapper.querySelector("svg.definition-scale");
-								
+
 								if (outerSvg && innerSvg) {
-								// Compute height from inner viewBox 
-								const viewBox = innerSvg.getAttribute("viewBox");
-								if (viewBox) {
-									const [, , vbWidth, vbHeight] = viewBox.split(" ").map(Number);
-									const ratio = vbHeight / vbWidth;
-									
-									// Use a setTimeout to ensure container is rendered
-									setTimeout(() => {
-									const containerWidth = outerSvg.clientWidth || outerSvg.parentElement.clientWidth;
-									if (containerWidth > 0) {
-										outerSvg.style.height = `${containerWidth * ratio}px`;
+									// Compute height from inner viewBox 
+									const viewBox = innerSvg.getAttribute("viewBox");
+									if (viewBox) {
+										const [, , vbWidth, vbHeight] = viewBox.split(" ").map(Number);
+										const ratio = vbHeight / vbWidth;
+
+										// Use a setTimeout to ensure container is rendered
+										setTimeout(() => {
+											const containerWidth = outerSvg.clientWidth || outerSvg.parentElement.clientWidth;
+											if (containerWidth > 0) {
+												outerSvg.style.height = `${containerWidth * ratio}px`;
+											}
+										}, 0);
 									}
-									}, 0);
+
+									//  Make inner SVG fill outer 
+									innerSvg.removeAttribute("width");
+									innerSvg.removeAttribute("height");
+									innerSvg.style.width = "100%";
+									innerSvg.style.height = "100%";
+									innerSvg.style.display = "block";
 								}
-								
-								//  Make inner SVG fill outer 
-								innerSvg.removeAttribute("width");
-								innerSvg.removeAttribute("height");
-								innerSvg.style.width = "100%";
-								innerSvg.style.height = "100%";
-								innerSvg.style.display = "block";
-								}
-								
+
 								//  Make outer SVG responsive 
 								if (outerSvg) {
-								outerSvg.removeAttribute("width");
-								outerSvg.removeAttribute("height");
-								outerSvg.style.width = "100%";
-								outerSvg.style.display = "block";
+									outerSvg.removeAttribute("width");
+									outerSvg.removeAttribute("height");
+									outerSvg.style.width = "100%";
+									outerSvg.style.display = "block";
 								}
-								
+
 								node.appendChild(pageWrapper);
 							}
-							
+
 							//  Allow vertical scroll for tall scores 
 							node.style.overflowX = "hidden";
 							node.style.overflowY = "auto";
-							})
+						})
 						.catch(error => {
-							console.warn("Falling back to PNG for:", fileName, error);
+							// console.warn("Falling back to PNG for:", fileName, error);
 							// Use PNG fallback
 							const img = document.createElement("img");
 							img.src = pngPath;
@@ -315,89 +318,89 @@ layout: music_base
 		// Wait for DOM and CETEIcean content to be ready
 		document.addEventListener("DOMContentLoaded", () => {
 
-		// Helper function that makes all images clickable
-		function makeImagesClickable(root = document) {
-			root.querySelectorAll("img").forEach(img => {
-			// skip already-linked images
-			if (!img.closest("a")) {
-				const src = img.getAttribute("src");
-				if (src) {
-				const a = document.createElement("a");
-				a.href = src;
-				a.target = "_blank";
-				img.parentNode.insertBefore(a, img);
-				a.appendChild(img);
-				}
+			// Helper function that makes all images clickable
+			function makeImagesClickable(root = document) {
+				root.querySelectorAll("img").forEach(img => {
+					// skip already-linked images
+					if (!img.closest("a")) {
+						const src = img.getAttribute("src");
+						if (src) {
+							const a = document.createElement("a");
+							a.href = src;
+							a.target = "_blank";
+							img.parentNode.insertBefore(a, img);
+							a.appendChild(img);
+						}
+					}
+				});
 			}
-			});
-		}
 
-		// Run it once right away
-		makeImagesClickable();
+			// Run it once right away
+			makeImagesClickable();
 
-		// Observe for dynamically added images (footnotes, etc.)
-		const observer = new MutationObserver(mutations => {
-			for (const m of mutations) {
-			m.addedNodes.forEach(node => {
-				if (node.nodeType === 1) { // element node
-				if (node.matches("img")) {
-					makeImagesClickable(node.parentNode);
-				} else if (node.querySelectorAll) {
-					makeImagesClickable(node);
+			// Observe for dynamically added images (footnotes, etc.)
+			const observer = new MutationObserver(mutations => {
+				for (const m of mutations) {
+					m.addedNodes.forEach(node => {
+						if (node.nodeType === 1) { // element node
+							if (node.matches("img")) {
+								makeImagesClickable(node.parentNode);
+							} else if (node.querySelectorAll) {
+								makeImagesClickable(node);
+							}
+						}
+					});
 				}
-				}
 			});
-			}
-		});
 
-		observer.observe(document.getElementById("TEI") || document.body, {
-			childList: true,
-			subtree: true
-		});
+			observer.observe(document.getElementById("TEI") || document.body, {
+				childList: true,
+				subtree: true
+			});
 
 		});
 
 
 		/*function for scrolling and highlighting, needs tidying up */
-		
-	window.addEventListener('DOMContentLoaded', () => {
+
+		window.addEventListener('DOMContentLoaded', () => {
 			const hashParams = new URLSearchParams(window.location.hash.slice(1)); // remove the '#'
 
-			// 1. Handle scrolling to facs target
+			// scrolling to facs target
 			const facsValue = hashParams.get('facs');
 			if (facsValue) {
 				const decodedFacs = decodeURIComponent(facsValue);
 
 				const scrollToTarget = (tries = 20) => {
-				const el = document.querySelector(`[facs="${decodedFacs}"]`);
-				if (!el) {
-					// Element not yet in DOM → retry later
-					if (tries > 0) setTimeout(() => scrollToTarget(tries - 1), 500);
-					return;
-				}
-
-				// Scroll to it
-				el.scrollIntoView({ behavior: 'smooth', block: 'center' });
-
-				// Verify after a short delay whether it's really visible
-				setTimeout(() => {
-					const rect = el.getBoundingClientRect();
-					const inView = rect.top >= 0 && rect.bottom <= window.innerHeight;
-
-					if (!inView && tries > 0) {
-					// Not fully visible → retry
-					scrollToTarget(tries - 1);
+					const el = document.querySelector(`[facs="${decodedFacs}"]`);
+					if (!el) {
+						// Element not yet in DOM → retry later
+						if (tries > 0) setTimeout(() => scrollToTarget(tries - 1), 500);
+						return;
 					}
-				}, 600);
+
+					// Scroll to it
+					el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+
+					// Verify after a short delay whether it's really visible
+					setTimeout(() => {
+						const rect = el.getBoundingClientRect();
+						const inView = rect.top >= 0 && rect.bottom <= window.innerHeight;
+
+						if (!inView && tries > 0) {
+							// Not fully visible → retry
+							scrollToTarget(tries - 1);
+						}
+					}, 600);
 				};
 
 				scrollToTarget();
 			}
 
-			// 2. Highlight elements matching any other attributes
+			//Highlight elements matching any other attributes
 			for (const [key, value] of hashParams.entries()) {
 				if (key !== 'facs' && key !== "q") {
-				waitAndHighlight(key, decodeURIComponent(value));
+					waitAndHighlight(key, decodeURIComponent(value));
 				}
 			}
 
@@ -408,226 +411,234 @@ layout: music_base
 			}
 
 
-			});
+		});
 
 		// Reusable highlighter
 		function highlightElements(attributeName, attributeValue, className = 'highlight') {
-		const selector = `[${attributeName}="${attributeValue}"]`;
-		console.log(`Trying to highlight: ${selector}`);
+			const selector = `[${attributeName}="${attributeValue}"]`;
+			//console.log(`Trying to highlight: ${selector}`);
 
-		const elements = document.querySelectorAll(selector);
-		console.log(`Found ${elements.length} elements`);
+			const elements = document.querySelectorAll(selector);
+			//console.log(`Found ${elements.length} elements`);
 
-		elements.forEach(el => {
-			el.classList.add(className);
-		});
-	}
+			elements.forEach(el => {
+				el.classList.add(className);
+			});
+		}
 
-			function waitAndHighlight(attr, value, className = 'highlight', tries = 10) {
-		const selector = `[${attr}="${value}"]`;
-		const elements = document.querySelectorAll(selector);
+		function waitAndHighlight(attr, value, className = 'highlight', tries = 10) {
+			const selector = `[${attr}="${value}"]`;
+			const elements = document.querySelectorAll(selector);
 
-		if (elements.length > 0) {
-			elements.forEach(el => el.classList.add(className));
-			console.log(`✅ Highlighted ${elements.length} element(s) for ${selector}`);
-		} else if (tries > 0) {
-			setTimeout(() => waitAndHighlight(attr, value, className, tries - 1), 300);
-		} else {
-			console.warn(`⚠️ Could not find elements for ${selector}`);
-		}}
-		
-				
-		function waitAndTagTerm(rootSelector, term, className = "highlight", tries = 10) {
-		const container = document.querySelector(rootSelector);
-		if (!container) {
-			if (tries > 0) {
-			setTimeout(() => waitAndTagTerm(rootSelector, term, className, tries - 1), 300);
+			if (elements.length > 0) {
+				elements.forEach(el => el.classList.add(className));
+				//console.log(`Highlighted ${elements.length} element(s) for ${selector}`);
+			} else if (tries > 0) {
+				setTimeout(() => waitAndHighlight(attr, value, className, tries - 1), 300);
 			} else {
-			console.warn(`⚠️ Container ${rootSelector} not found.`);
-			}
-			return;
-		}
-
-		let found = false;
-		const safeTerm = term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); // escape regex
-		const regex = new RegExp(safeTerm, "gi");
-		const walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT, null);
-
-		let node;
-		const nodesToReplace = [];
-
-		// Collect nodes first (so we don't mutate while walking)
-		while ((node = walker.nextNode())) {
-			if (regex.test(node.nodeValue)) {
-			nodesToReplace.push(node);
+				console.warn(`Could not find elements for ${selector}`);
 			}
 		}
 
-		// Replace in each node
-		nodesToReplace.forEach((textNode) => {
-			found = true;
-			const wrapper = document.createElement("span");
-			wrapper.innerHTML = textNode.nodeValue.replace(
-			regex,
-			`<span class="${className}">$&</span>`
-			);
-			textNode.parentNode.replaceChild(wrapper, textNode);
+
+		function waitAndTagTerm(rootSelector, term, className = "highlight", tries = 10) {
+			const container = document.querySelector(rootSelector);
+			if (!container) {
+				if (tries > 0) {
+					setTimeout(() => waitAndTagTerm(rootSelector, term, className, tries - 1), 300);
+				} else {
+					console.warn(`Container ${rootSelector} not found.`);
+				}
+				return;
+			}
+
+			let found = false;
+			const safeTerm = term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); // escape regex
+			const regex = new RegExp(safeTerm, "gi");
+			const walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT, null);
+
+			let node;
+			const nodesToReplace = [];
+
+			// Collect nodes first (so we don't mutate while walking)
+			while ((node = walker.nextNode())) {
+				if (regex.test(node.nodeValue)) {
+					nodesToReplace.push(node);
+				}
+			}
+
+			// Replace in each node
+			nodesToReplace.forEach((textNode) => {
+				found = true;
+				const wrapper = document.createElement("span");
+				wrapper.innerHTML = textNode.nodeValue.replace(
+					regex,
+					`<span class="${className}">$&</span>`
+				);
+				textNode.parentNode.replaceChild(wrapper, textNode);
+			});
+
+			if (found) {
+				console.log(`Highlighted "${term}" in ${nodesToReplace.length} text node(s)`);
+			} else if (tries > 0) {
+				setTimeout(() => waitAndTagTerm(rootSelector, term, className, tries - 1), 300);
+			} else {
+				console.warn(`Could not find term "${term}" after retries.`);
+			}
+		}
+
+		//footnotes 
+		document.addEventListener("DOMContentLoaded", () => {
+			const mainText = document.getElementById("TEI");
+			const sidebar = document.getElementById("notesSidebar");
+			if (!mainText || !sidebar) return;
+
+			let allMarkers = [];
+			let allNoteEntries = [];
+			let noteCounter = 0;
+
+			function processNotes(notes) {
+				notes.forEach(note => {
+					const n = note.getAttribute("n") || "?";
+					//const safeId = "note-" + n.replace(/[^a-zA-Z0-9_-]/g, "_");
+					noteCounter++;
+					const safeId = "note-" + noteCounter;
+
+					// Insert marker in main text
+					const marker = document.createElement("span");
+					marker.classList.add("note-marker");
+					marker.dataset.note = n;
+					marker.textContent = `${n}`;
+					note.after(marker);
+
+					// Move note to sidebar
+					const noteEntry = document.createElement("div");
+					noteEntry.classList.add("note-entry");
+					noteEntry.id = safeId;
+					noteEntry.dataset.note = n;
+					// add the "n" label at the top of the note entry
+
+					const nSpan = document.createElement("span");
+					nSpan.classList.add("note-label");
+					nSpan.textContent = `${n} `;
+					noteEntry.appendChild(nSpan);
+					while (note.firstChild) noteEntry.appendChild(note.firstChild);
+					sidebar.appendChild(noteEntry);
+					note.remove();
+
+					allMarkers.push(marker);
+					allNoteEntries.push(noteEntry);
+
+					// Click marker highlights note
+					marker.addEventListener("click", () => {
+						document.querySelectorAll(".note-entry").forEach(e => e.classList.remove("active"));
+						noteEntry.classList.add("active");
+						noteEntry.scrollIntoView({ behavior: "smooth", block: "nearest" });
+					});
+				});
+
+				// Wait for content to load, then align
+				setTimeout(() => {
+					waitForImages().then(() => {
+						setTimeout(alignAllNotes, 300);
+					});
+				}, 100);
+			}
+
+			function waitForImages() {
+				const images = mainText.querySelectorAll("img");
+				const svgs = mainText.querySelectorAll("svg");
+
+				const promises = [];
+
+				// Wait for images
+				images.forEach(img => {
+					if (!img.complete) {
+						promises.push(new Promise(resolve => {
+							img.addEventListener("load", resolve);
+							img.addEventListener("error", resolve);
+						}));
+					}
+				});
+
+				// Give SVGs time to render
+				if (svgs.length > 0) {
+					promises.push(new Promise(resolve => setTimeout(resolve, 500)));
+				}
+
+				return Promise.all(promises);
+			}
+
+			function alignAllNotes() {
+				if (allMarkers.length === 0) return;
+
+				const sidebarTop = sidebar.getBoundingClientRect().top;
+
+				// Reset all margins first
+				allNoteEntries.forEach(entry => {
+					entry.style.marginTop = "0";
+					entry.style.marginBottom = "0.5em";
+				});
+
+				// Force reflow
+				sidebar.offsetHeight;
+
+				// Process each note sequentially
+				for (let i = 0; i < allMarkers.length; i++) {
+					const marker = allMarkers[i];
+					const noteEntry = allNoteEntries[i];
+
+					// Get current positions after previous adjustments
+					const markerTop = marker.getBoundingClientRect().top;
+					const noteTop = noteEntry.getBoundingClientRect().top;
+
+					// Calculate where marker is relative to sidebar top
+					const markerOffset = markerTop - sidebarTop;
+					// Calculate where note currently is relative to sidebar top
+					const noteOffset = noteTop - sidebarTop;
+
+					// How much do we need to push this note down?
+					const adjustmentNeeded = markerOffset - noteOffset;
+
+					// Only push down, never up (which would cause overlap)
+					if (adjustmentNeeded > 0) {
+						noteEntry.style.marginTop = adjustmentNeeded + "px";
+					}
+
+					console.log(`Note ${i + 1} (${noteEntry.dataset.note}): marker @${markerOffset.toFixed(1)}px, note @${noteOffset.toFixed(1)}px, adjustment: ${adjustmentNeeded.toFixed(1)}px`);
+				}
+			}
+
+			// Observe mainText for dynamically loaded notes
+			const observer = new MutationObserver((mutations, obs) => {
+				//const notes = mainText.querySelectorAll("tei-note");
+				//const notes = mainText.querySelectorAll("tei-note:not(tei-note tei-note)"); //solution to skip nested footnotes
+				//const notes = mainText.querySelectorAll("tei-note:not(tei-note tei-note || tei-teiheader tei-note)"); //solution to skip nested footnotes
+				const allNotes = mainText.querySelectorAll("tei-note");
+
+				const notes = [...allNotes].filter(note =>
+				!note.closest("tei-teiheader") &&       // exclude inside header
+				!note.parentElement.closest("tei-note") // exclude nested notes
+				);
+				if (notes.length > 0) {
+					obs.disconnect();
+					processNotes(Array.from(notes));
+				}
+			});
+			observer.observe(mainText, { childList: true, subtree: true });
+
+			// Re-align on window resize
+			let resizeTimer;
+			window.addEventListener("resize", () => {
+				clearTimeout(resizeTimer);
+				resizeTimer = setTimeout(alignAllNotes, 250);
+			});
+
+			// Add a manual realign button for debugging
+			window.realignFootnotes = alignAllNotes;
 		});
 
-		if (found) {
-			console.log(`✅ Highlighted "${term}" in ${nodesToReplace.length} text node(s)`);
-		} else if (tries > 0) {
-			setTimeout(() => waitAndTagTerm(rootSelector, term, className, tries - 1), 300);
-		} else {
-			console.warn(`⚠️ Could not find term "${term}" after retries.`);
-		}
-		}
 
-	//footnotes 
-	document.addEventListener("DOMContentLoaded", () => {
-	const mainText = document.getElementById("TEI");
-	const sidebar = document.getElementById("notesSidebar");
-	if (!mainText || !sidebar) return;
-
-	let allMarkers = [];
-	let allNoteEntries = [];
-	let noteCounter = 0;
-
-	function processNotes(notes) {
-		notes.forEach(note => {
-		const n = note.getAttribute("n") || "?";
-		//const safeId = "note-" + n.replace(/[^a-zA-Z0-9_-]/g, "_");
-		noteCounter++;
-		const safeId = "note-" + noteCounter;
-
-		// Insert marker in main text
-		const marker = document.createElement("span");
-		marker.classList.add("note-marker");
-		marker.dataset.note = n;
-		marker.textContent = `${n}`;
-		note.after(marker);
-
-		// Move note to sidebar
-		const noteEntry = document.createElement("div");
-		noteEntry.classList.add("note-entry");
-		noteEntry.id = safeId;
-		noteEntry.dataset.note = n;
-		// add the "n" label at the top of the note entry
-
-			const nSpan = document.createElement("span");
-			nSpan.classList.add("note-label");
-			nSpan.textContent = `${n} `;
-			noteEntry.appendChild(nSpan);
-		while (note.firstChild) noteEntry.appendChild(note.firstChild);
-		sidebar.appendChild(noteEntry);
-		note.remove();
-
-		allMarkers.push(marker);
-		allNoteEntries.push(noteEntry);
-
-		// Click marker highlights note
-		marker.addEventListener("click", () => {
-			document.querySelectorAll(".note-entry").forEach(e => e.classList.remove("active"));
-			noteEntry.classList.add("active");
-			noteEntry.scrollIntoView({ behavior: "smooth", block: "nearest" });
-		});
-		});
-
-		// Wait for content to load, then align
-		setTimeout(() => {
-		waitForImages().then(() => {
-			setTimeout(alignAllNotes, 300);
-		});
-		}, 100);
-	}
-
-	function waitForImages() {
-		const images = mainText.querySelectorAll("img");
-		const svgs = mainText.querySelectorAll("svg");
-		
-		const promises = [];
-		
-		// Wait for images
-		images.forEach(img => {
-		if (!img.complete) {
-			promises.push(new Promise(resolve => {
-			img.addEventListener("load", resolve);
-			img.addEventListener("error", resolve);
-			}));
-		}
-		});
-
-		// Give SVGs time to render
-		if (svgs.length > 0) {
-		promises.push(new Promise(resolve => setTimeout(resolve, 500)));
-		}
-
-		return Promise.all(promises);
-	}
-
-	function alignAllNotes() {
-		if (allMarkers.length === 0) return;
-
-		const sidebarTop = sidebar.getBoundingClientRect().top;
-		
-		// Reset all margins first
-		allNoteEntries.forEach(entry => {
-		entry.style.marginTop = "0";
-		entry.style.marginBottom = "0.5em";
-		});
-
-		// Force reflow
-		sidebar.offsetHeight;
-
-		// Process each note sequentially
-		for (let i = 0; i < allMarkers.length; i++) {
-		const marker = allMarkers[i];
-		const noteEntry = allNoteEntries[i];
-		
-		// Get current positions after previous adjustments
-		const markerTop = marker.getBoundingClientRect().top;
-		const noteTop = noteEntry.getBoundingClientRect().top;
-		
-		// Calculate where marker is relative to sidebar top
-		const markerOffset = markerTop - sidebarTop;
-		// Calculate where note currently is relative to sidebar top
-		const noteOffset = noteTop - sidebarTop;
-		
-		// How much do we need to push this note down?
-		const adjustmentNeeded = markerOffset - noteOffset;
-		
-		// Only push down, never up (which would cause overlap)
-		if (adjustmentNeeded > 0) {
-			noteEntry.style.marginTop = adjustmentNeeded + "px";
-		}
-		
-		console.log(`Note ${i+1} (${noteEntry.dataset.note}): marker @${markerOffset.toFixed(1)}px, note @${noteOffset.toFixed(1)}px, adjustment: ${adjustmentNeeded.toFixed(1)}px`);
-		}
-	}
-
-	// Observe mainText for dynamically loaded notes
-	const observer = new MutationObserver((mutations, obs) => {
-		//const notes = mainText.querySelectorAll("tei-note");
-		const notes = mainText.querySelectorAll("tei-note:not(tei-note tei-note)"); //solution to skip nested footnotes
-		if (notes.length > 0) {
-		obs.disconnect();
-		processNotes(Array.from(notes));
-		}
-	});
-	observer.observe(mainText, { childList: true, subtree: true });
-
-	// Re-align on window resize
-	let resizeTimer;
-	window.addEventListener("resize", () => {
-		clearTimeout(resizeTimer);
-		resizeTimer = setTimeout(alignAllNotes, 250);
-	});
-
-	// Add a manual realign button for debugging
-	window.realignFootnotes = alignAllNotes;
-	});
-
-	
-</script>
+	</script>
 
 </body>
