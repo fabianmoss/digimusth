@@ -1,20 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="main">Hauptmann_1853</title>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>tranScriptorium</publisher>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl>
-               <publisher>TRP document creator: maikkoester@hotmail.de</publisher>
-            </bibl>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Die Natur der Harmonik und der Metrik. Zur Theorie der Musik</title>
+				<author>
+					<persName ref="https://d-nb.info/gnd/118709143"><surname>Hauptmann</surname><forename>Moritz</forename></persName>
+				</author>
+				<respStmt>
+					<persName>
+						<surname>Moss</surname>
+						<forename>Fabian C.</forename>
+					</persName>
+					<orgName ref="https://www.uni-wuerzburg.de">Julius-Maximilians-Universität Würzburg</orgName>
+					<resp>
+						<note type="remarkResponsibility">Herausgeber</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<orgName ref="https://www.byu.edu/">Brigham Young University</orgName>
+					<orgName ref="https://archive.org/">Internet Archive</orgName>
+					<resp>
+						<note type="remarkResponsibility">Digitalisierung des gedruckten Textes</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName>
+						<surname>Köster</surname>
+						<forename>Maik</forename>
+					</persName>
+					<orgName ref="https://www.uni-koeln.de/">Universität zu Köln</orgName>
+					<resp>
+						<note type="remarkResponsibility">Bereitstellung der Texttranskription</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName>
+						<surname>Keupp</surname>
+						<forename>Corinna</forename>
+					</persName>
+					<persName>
+						<surname>Klinger</surname>
+						<forename>Jana</forename>
+					</persName>
+					<persName>
+						<surname>Roth</surname>
+						<forename>Janina Marie</forename>
+					</persName>
+					<orgName ref="https://www.uni-wuerzburg.de">Julius-Maximilians-Universität Würzburg</orgName>
+					<resp>
+						<note type="remarkResponsibility">Korrektur der Transkription</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName>
+						<surname>Roth</surname>
+						<forename>Janina Marie</forename>
+					</persName>
+					<orgName ref="https://www.uni-wuerzburg.de">Julius-Maximilians-Universität Würzburg</orgName>
+					<resp>
+						<note type="remarkResponsibility">Transkription der mathematischen Ausdrücke</note>
+						<note type="remarkResponsibility">Integration der Inline-Diagramme</note>
+						<note type="remarkResponsibility">Integration nicht transkribierter Musiknotation und Diagramme als PNG-Dateien</note>
+						<note type="remarkResponsibility">Anreicherung der Personen, Werke und Orte mit Normdaten</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName>
+						<surname>Klinger</surname>
+						<forename>Jana</forename>
+					</persName>
+					<persName>
+						<surname>Roeder</surname>
+						<forename>Torsten</forename>
+					</persName>
+					<orgName ref="https://www.uni-wuerzburg.de">Julius-Maximilians-Universität Würzburg</orgName>
+					<resp>
+						<note type="remarkResponsibility">Datenmodellierung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName>
+						<surname>Klinger</surname>
+						<forename>Jana</forename>
+					</persName>
+					<orgName ref="https://www.uni-wuerzburg.de">Julius-Maximilians-Universität Würzburg</orgName>
+					<resp>
+						<note type="remarkResponsibility">Transformation der Daten in TEI-XML</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName>
+						<surname>Roeder</surname>
+						<forename>Torsten</forename>
+					</persName>
+					<orgName ref="https://www.uni-wuerzburg.de">Julius-Maximilians-Universität Würzburg</orgName>
+					<resp>
+						<note type="remarkResponsibility">TEI-Supervision</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName>
+						<surname>Keupp</surname>
+						<forename>Corinna</forename>
+					</persName>
+					<orgName ref="https://www.uni-wuerzburg.de">Julius-Maximilians-Universität Würzburg</orgName>
+					<resp>
+						<note type="remarkResponsibility">Umsetzung der Web-Präsentation https://fabianmoss.github.io/digimusth/</note>
+					</resp>
+				</respStmt>
+				<funder>Verbund Text+, sprach- und textbasierte Forschungsdateninfrastruktur</funder>
+			</titleStmt>
+			<editionStmt>
+				<edition/>
+			</editionStmt>
+			<extent/>
+			<publicationStmt>
+				<publisher>
+					<orgName ref="https://www.uni-wuerzburg.de">Julius-Maximilians-Universität Würzburg</orgName>
+					<email>fabian.moss@uni-wuerzburg.de</email>
+					<address>
+						<addrLine>Sanderring 2, 97070 Würzburg</addrLine>
+					</address>
+				</publisher>
+				<pubPlace>Würzburg</pubPlace>
+				<date type="publication" when="2025">2025</date>
+				<availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/"><p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p></licence></availability>
+				<idno>
+					<idno type="internal-id">HAU1853</idno>
+				</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="M">Hauptmann, Moritz: Die Natur der Harmonik und der Metrik. Zur Theorie der Musik. Leipzig, 1853.</bibl>
+				<biblFull>
+					<titleStmt>
+						<title level="m" type="main">Die Natur der Harmonik und der Metrik. Zur Theorie der Musik</title>
+						<title type="volume"/>
+						<author><persName ref="https://d-nb.info/gnd/118709143"><surname>Hauptmann</surname><forename>Moritz</forename></persName></author>
+					</titleStmt>
+					<editionStmt>
+						<edition/>
+					</editionStmt>
+					<publicationStmt>
+						<publisher><name>Breitkopf und Härtel</name></publisher>
+						<date>1853</date>
+						<pubPlace>Leipzig</pubPlace>
+					</publicationStmt>
+				</biblFull>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Die Kodierung des Textes folgt den Vorgaben der TEI P5 Guidelines in der Version P5 Version 4.10.2.</p>
+			<editorialDecl>
+				<p>Bogensignaturen: nicht übernommen; Druckfehler: nicht dokumentiert; fremdsprachliches Material: nicht gekennzeichnet; Hervorhebungen (Sperrschrift, Kursive etc.): gekennzeichnet; Kolumnentitel: nicht übernommen; Kustoden: keine Angabe; Normalisierungen: nicht dokumentiert; Seitenumbrüche markiert: ja; Silbentrennung: wie Vorlage; Vollständigkeit: vollständig erfasst; Zeilenumbrüche markiert: ja;</p>
+			</editorialDecl>
+		</encodingDesc>
+		<profileDesc><particDesc><person sex="m"><persName ref="https://d-nb.info/gnd/118709143"><surname>Hauptmann</surname><forename>Moritz</forename></persName></person></particDesc>
+			<langUsage>
+				<language ident="deu"/>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
 	<facsimile xml:id="facs_1">
 		<surface ulx="0" uly="0" lrx="1444" lry="2597">
 			<graphic url="Hauptmann1853-0010.jpg" width="1444px" height="2597px"/>
