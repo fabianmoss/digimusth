@@ -5,12 +5,14 @@ toc_exclude: true
 ---
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>Location Index</title>
   <style>
   </style>
 </head>
+
 <body>
   <div id="letterNav"></div>
   <ul id="locationList"></ul>
@@ -23,13 +25,13 @@ toc_exclude: true
     }
 
     function parseTEI(xmlDoc) {
-        const places = [...xmlDoc.querySelectorAll("place")];
-        return places.map(p => {
-            const id = p.getAttribute("xml:id") || "";
-            const name = p.querySelector("placeName")?.textContent.trim() || "";
-            const gnd = p.querySelector('idno[type="GND"]')?.textContent.trim() || "";
-            return { id, name, gnd };
-            });
+      const places = [...xmlDoc.querySelectorAll("place")];
+      return places.map(p => {
+        const id = p.getAttribute("xml:id") || "";
+        const name = p.querySelector("placeName")?.textContent.trim() || "";
+        const gnd = p.querySelector('idno[type="GND"]')?.textContent.trim() || "";
+        return { id, name, gnd };
+      });
     }
 
     function createSortedList(data) {
@@ -42,14 +44,14 @@ toc_exclude: true
       // sort alphabetically
       data.sort((a, b) => a.name.localeCompare(b.name));
 
-       const letters = [...new Set(  data.map(p => p.name.trim().charAt(0).toUpperCase() || "#"))].sort((a, b) => a.localeCompare(b));
-       for (const letter of letters) {
-          const a = document.createElement("a");
-          a.href = `#letter-${letter}`;
-          a.textContent = letter;
-          a.style.margin = "0 0.3em";
-          letterNav.appendChild(a);
-        }
+      const letters = [...new Set(data.map(p => p.name.trim().charAt(0).toUpperCase() || "#"))].sort((a, b) => a.localeCompare(b));
+      for (const letter of letters) {
+        const a = document.createElement("a");
+        a.href = `#letter-${letter}`;
+        a.textContent = letter;
+        a.style.margin = "0 0.3em";
+        letterNav.appendChild(a);
+      }
 
 
       let currentLetter = "";
@@ -82,4 +84,5 @@ toc_exclude: true
     })();
   </script>
 </body>
+
 </html>

@@ -98,7 +98,7 @@ tei-pc {
   }
 
 tei-pb {
-  display: block;
+  /*display: block;*/
   height: 0;
   margin: 0;
   padding: 0;
