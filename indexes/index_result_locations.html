@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Index Result Locations"
 toc_exclude: true
 ---
 
@@ -166,8 +165,8 @@ toc_exclude: true
         if (meta) {
           resultContainer.innerHTML += `
             <h3>
-              <em>${meta.author ? meta.author + ": " : ""}</em>
-              ${meta.title} ${meta.year ? `(${meta.year})` : ""}
+              ${meta.author ? meta.author + ": " : ""}
+              <em>${meta.title} ${meta.year ? `(${meta.year})` : ""}</em>
               <a href="${link}" target="_blank">🡵</a>
             </h3>
             <!--<p><em>${source}</em></p>-->
