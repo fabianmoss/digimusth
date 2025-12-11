@@ -13,11 +13,6 @@ toc_exclude: true
   <div id="results">Loading...</div>
 
   <script>
-    const xmlNames = [
-      "CAP1905", "HAU1853", "HOS1879", "KRA1852", "KUN1863",
-      "NAU1858", "OET1866", "RIE1905", "THU1877", "WEI1860", "WEI1861"
-    ];
-
      
  // 🔹 Jekyll injects metadata for all texts here
    const textMetadata = {
@@ -30,6 +25,7 @@ toc_exclude: true
     {% endfor %}
   };
 
+  const xmlNames = Object.keys(textMetadata);
 
     const currentUrl = new URL(window.location.href);
     const personId = currentUrl.searchParams.get("person");
