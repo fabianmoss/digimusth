@@ -5838,7 +5838,7 @@
             	<lb facs="#facs_95_r1l6" n="N001"/>zurückführen lassen <note facs="#facs_95_TextRegion_1626258126790_129" type="foot" n="*)"><lb facs="#facs_95_r1l53" n="N001"/>Die <rs ana="#concept_phy">Formeln</rs> der <rs ana="#concept_phy">Schwingungszahlen</rs> sind für den <rs ana="#m_chord">Durdreiklang</rs>:
 				<lb facs="#facs_95_line_1626258314992_259" n="N002"/><formula notation="tex">$4:5:6 = \frac{4}{1}:\frac{5}{1}:\frac{6}{1}$</formula>, für den <rs ana="#m_chord">Molldreiklang</rs>: <formula notation="tex">$\frac{1}{4:5:6}=\frac{1}{4}:\frac{1}{5}:\frac{1}{6}$</formula>, all<pc>¬</pc>
 				<lb facs="#facs_95_r1l60" n="N003"/>gemein (für alle <rs ana="#concept_mus">Umkehrungen</rs> und <rs ana="#concept_mus">Lagen</rs>): <formula notation="tex">$1 \times 2^m:3\times 2^n:5 \times 2^t$</formula>
-				<lb facs="#facs_95_r1l61" n="N004"/>und <formula notation="tex">1 \times 2^m:\frac{1}{3} \times 2^n: \frac{1}{5} \times 2^t</formula>.</note>. Dass aber mit diesen zwei Formen nicht
+				<lb facs="#facs_95_r1l61" n="N004"/>und <formula notation="tex">$1 \times 2^m:\frac{1}{3} \times 2^n: \frac{1}{5} \times 2^t$</formula>.</note>. Dass aber mit diesen zwei Formen nicht
 				<lb facs="#facs_95_r1l7" n="N002"/>nur die Zahl der möglichen <rs ana="#concept_mus"><rs ana="#concept_phy">consonanten</rs></rs> <rs ana="#m_chord">Dreiklänge</rs>, sondern auch
 				<lb facs="#facs_95_r1l8" n="N003"/>die <hi rend="fontSize:0.0; kerning:0; letterSpaced:true;">Zahl der möglichen <rs ana="#concept_mus"><rs ana="#concept_phy">consonanten</rs></rs> <rs ana="#m_chord">Accorde</rs> über<pc>¬</pc>
 				<lb facs="#facs_95_r1l9" n="N004"/>haupt erschöpft</hi> ist, liegt auf der Hand; denn jedes <rs ana="#concept_mus"><rs ana="#concept_phy">consonante</rs></rs>
