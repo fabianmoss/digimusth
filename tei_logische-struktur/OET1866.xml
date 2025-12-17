@@ -5413,7 +5413,7 @@
       			<lb facs="#facs_59_line_1620847552744_230" n="N003"/>die <rs ana="#m_interval">kleine Sexte</rs> 5:8 = <formula notation="tex">$\frac{1}{8}:\frac{1}{5}$</formula>,
       		</item>
       		<item>
-      			<lb facs="#facs_59_line_1620847557069_236" n="N004"/>der <rs ana="#m_interval">grosse Halbton</rs> 15:16 = <formula notation="tex">\rfac{1}{16}:\frac{1}{15}</formula>. u. s. w.
+      			<lb facs="#facs_59_line_1620847557069_236" n="N004"/>der <rs ana="#m_interval">grosse Halbton</rs> 15:16 = <formula notation="tex">\frac{1}{16}:\frac{1}{15}</formula>. u. s. w.
       		</item>
       	</list>
             <p facs="#facs_59_TextRegion_1616619240025_2434">
