@@ -168,14 +168,14 @@ toc_exclude: true
             <h3>
               ${meta.author ? meta.author + ": " : ""}
               <em>${meta.title} ${meta.year ? `(${meta.year})` : ""}</em>
-              <a href="${link}" target="_blank">🡵</a>
+              <a href="${link}" target="_blank">↗</a>
             </h3>
             <!--<p><em>${source}</em></p>-->
           `;
         } else {
           resultContainer.innerHTML += `
             <h2>
-              ${source} <a href="${link}" target="_blank">🡵</a>
+              ${source} <a href="${link}" target="_blank">↗</a>
             </h2>
           `;
         }
