@@ -2507,7 +2507,7 @@
 				<lb facs="#facs_58_r1l38" n="N007"/><rs ana="#m_tonality">Durgeschlechte</rs>, so kann erstere so wenig vom <rs ana="#m_note">Finaltone</rs> getrennt
             	<pb facs="#facs_59" n="48"/>
             	<lb facs="#facs_59_r1l2" n="N001"/>werden, wie letztere. Das einheitliche Gemäß der <rs ana="#m_tonality">natürlichen</rs>
-				<lb facs="#facs_59_line_1625590816972_4221" n="N002"/><rs ana="#m_tonality">Mollskala</rs>, ihr Ruhe- und Finalpunkt, ist <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">h</rs></hi> = <formula notation="tex">$\rfac{1}{32}$</formula> und diesem
+				<lb facs="#facs_59_line_1625590816972_4221" n="N002"/><rs ana="#m_tonality">Mollskala</rs>, ihr Ruhe- und Finalpunkt, ist <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">h</rs></hi> = <formula notation="tex">$\frac{1}{32}$</formula> und diesem
 				<lb facs="#facs_59_r1l5" n="N003"/><rs ana="#concept_mus">phonikalen</rs> <rs ana="#concept_mus">Hauptklange</rs> muss die <rs ana="#m_interval">Unterquart</rs> und <rs ana="#m_interval">Untersext</rs> ebenso
 				<lb facs="#facs_59_r1l6" n="N004"/>notwendig fehlen, wie der verjüngten <rs ana="#concept_mus">Tonika</rs> <hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">f</rs></hi> = 32 ihre <rs ana="#m_interval">Ober<pc>¬</pc>
 				<lb facs="#facs_59_r1l7" n="N005"/>quart</rs> und <rs ana="#m_interval">Obersext</rs>. Nun endigen aber die <rs ana="#concept_mus">phrygischen</rs> <rs ana="#concept_mus">Melodieen</rs>
