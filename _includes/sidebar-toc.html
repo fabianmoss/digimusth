@@ -12,28 +12,37 @@
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="#" data-proofer-ignore>Return to Top</a>
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="#" data-proofer-ignore>Return to
+      Top</a>
     <div class="sidebar-item">
-       <!-- display the table of content above the other pages-->
+      <!-- display the table of content above the other pages-->
       {% for node in page.toc %}
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %} sidebar-nav-item-toc" href="#{{ node | slugify }}">{{ node }}</a>
-    {% endfor %}
+      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %} sidebar-nav-item-toc"
+        href="#{{ node | slugify }}">{{ node }}</a>
+      {% endfor %}
     </div>
-    
-  {% assign pages_list = site.pages | sort:"url" %}
+
+    {% assign pages_list = site.pages | sort:"url" %}
     {% for node in pages_list %}
-      {% if node.title != null and node.url != "/404.html" %}
-        {% if node.layout == "page" and node.toc_exclude != true %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
-        {% endif %}
-      {% endif %}
+    {% if node.title != null and node.url != "/404.html" %}
+    {% if node.layout == "page" and node.toc_exclude != true %}
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
+      href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+    {% endif %}
+    {% endif %}
     {% endfor %}
 
+
+    <a class="sidebar-nav-item" href="https://zenodo.org/records/17974934" target="_blank">Documentation ↗</a>
+    <a class="sidebar-nav-item" href="https://github.com/fabianmoss/digimusth" target="_blank">GitHub project ↗</a>
   </nav>
 
   <div class="sidebar-item">
     <p class="licenses">
-      Built with <a href="https://minicomp.github.io/ed/">Ed.</a> distributed under an MIT license. This website uses <a href="https://teic.github.io/CETEIcean/">CETEIcean</a> (distributed under a BSD 2-Clause "Simplified" License), <a href="https://www.verovio.org/index.xhtml">Verovio</a> (distributed under a LGPLv3 license) and <a href="https://www.mathjax.org/">MathJax.</a><br/>
+      Built with <a href="https://minicomp.github.io/ed/">Ed.</a> distributed under an MIT license. This website uses <a
+        href="https://teic.github.io/CETEIcean/">CETEIcean</a> (distributed under a BSD 2-Clause "Simplified" License),
+      <a href="https://www.verovio.org/index.xhtml">Verovio</a> (distributed under a LGPLv3 license) and <a
+        href="https://www.mathjax.org/">MathJax.</a><br />
       Textual data of this site is released under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
     </p>
   </div>
