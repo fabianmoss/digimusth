@@ -1266,7 +1266,17 @@
 	</facsimile>
    <text xml:space="preserve">
    	<front>
-   	 <titlePage type="main">
+   		<pb facs="#f0001"/>
+   		<pb facs="#f0002"/>
+   		<pb facs="#f0003"/>
+   		<pb facs="#f0004"/>
+   		<pb facs="#f0005"/>
+   		<pb facs="#f0006"/>
+   		<pb facs="#f0007"/>
+   		<pb facs="#f0008"/>
+   		<pb facs="#f0009"/>
+   		<pb facs="#f0010"/>
+   	 	<titlePage type="main">
 				<docTitle>
            	     <titlePart type="main" ana="#text" corresp="#W0110"><lb facs="#facs_10_r3l1" n="N001"/>ÜBER DIE VERSCHIEDENEN
 					<lb facs="#facs_10_line_1611257421484_55" n="N002"/>BESTIMMUNGEN DER TONVERHÄLTNISSE
@@ -1289,7 +1299,7 @@
 					<lb facs="#facs_10_r3l16" n="N014"/><publisher>DRUCK UND VERLAG VON BREITKOPF UND HÄRTEL</publisher>.
 					<lb facs="#facs_10_r3l17" n="N015"/><docDate when="1858">1858</docDate>.
 				</docImprint>
-			</titlePage>
+				</titlePage>
    		<div type="contents"><list n="1"><item>
 				Erster Abschnitt.
 				Ueber die Bestimmungen der musikalischen Tonverhältnisse im
@@ -1304,10 +1314,6 @@
 				Ueber das Verhältniss des pythagoreischen Systemes zu den Grundsätzen
 				der musikalischen Theorie.
 			</item></list></div>
-   	  <pb facs="#facs_8" n=""/>
-         <pb facs="#facs_9" n=""/>
-         <pb facs="#facs_10" n=""/>
-   		
          <pb facs="#facs_11" n=""/>
          <pb facs="#facs_12" n=""/>
    		<div type="dedication">
@@ -2281,6 +2287,8 @@
 				<lb facs="#facs_45_r1l34" n="N012"/><rs ana="#concept_mus">Orthographie</rs> dienen, und man könne sich an ihr die Natur der feineren <rs ana="#concept_mus">enharmonischen</rs> <rs ana="#concept_mus">Ueber<pc>¬</pc>
 				<lb facs="#facs_45_r1l35" n="N013"/>gänge</rs> deutlicher versinnlichen, als an der <rs ana="#concept_mus">enharmonischen</rs> <rs ana="#m_tonality">Tonleiter</rs>. Die <rs ana="#m_interval">Intervalle</rs> und die
 				<lb facs="#facs_45_r1l36" n="N014"/>ihnen entsprechenden <rs ana="#m_note">Töne</rs> sind nämlich in dieser <rs ana="#concept_mus">Temperatur</rs> folgende:
+            	<pb facs="#facs_46" n="31"/>
+            	<!-- Seite fehlt -->
             	<pb facs="#facs_47" n="32"/>
             	<lb facs="#facs_47_r2l2" n="N001"/>einfachen, von einander unabhängigen Fundamentalbestimmungen der gesammten <rs ana="#concept_mus">Harmonik</rs>
 				<lb facs="#facs_47_r2l3" n="N002"/>anerkennt, einzig würdige Verfahren, den aus solcher Annahme sich ergebenden mehrfachen
@@ -2539,6 +2547,8 @@
 				<lb facs="#facs_54_r1l53" n="N015"/>seitig und zwar kreuzweise aufhebe. Analoges würde auch für die <rs ana="#m_interval">untere 3<hi rend="fontSize:0.0; kerning:0; superscript:true;">te</hi> Quinte</rs>, die <rs ana="#m_interval">kl. III</rs>,
 				<lb facs="#facs_54_r1l54" n="N016"/><hi rend="italic:true; fontSize:0.0; kerning:0;"><rs ana="#m_note">Es</rs></hi> stattfinden.
 			</p>
+         <pb facs="#facs_55" n="40"/>
+         	<!-- Seite fehlt -->
          <pb facs="#facs_56" n="41"/>
             <p facs="#facs_56_TextRegion_1611521142531_865">
 				<lb facs="#facs_56_r1l2" n="N001"/>aber weiterhin (von der <rs ana="#m_interval">VI♯</rs> und <rs ana="#m_interval">III♭</rs> an) keine solche mit beiden <rs ana="#concept_mus"><rs ana="#concept_phy">consonirende</rs></rs> <rs ana="#m_interval">Zwischenquinten</rs>
@@ -2864,7 +2874,9 @@
 				<lb facs="#facs_64_r2l30" n="N029"/>nischen Fortganges</rs> von Seiten der Ausführenden oft in hohem Grade erfordert wird, ist gewiss,
 				<lb facs="#facs_64_r2l31" n="N030"/>daher wir auch Stellen, wie folgende, nicht immer in vollkommen befriedigender <rs ana="#concept_mus">Reinheit</rs> vor<pc>¬</pc>
             	<notatedMusic rend="MEI" facs="#facs_64_Music_1611526999917_2126" source="facs_64_Music_1611526999917_2126.mei"><desc>MUSIK</desc></notatedMusic>
-         	   <pb facs="#facs_66" n="51"/>
+         	   <pb facs="#facs_65" n="50"/>
+            	<!-- Seite fehlt -->
+            	<pb facs="#facs_66" n="51"/>
             	<lb facs="#facs_66_r1l2" n="N001"/>tauscht, und es fragt sich nun, welcher Art in beiden Fällen die Aenderung der <rs ana="#concept_phy">Tonhöhe</rs> ist.
 				<lb facs="#facs_66_r1l3" n="N002"/>Nach den bisher geltenden <rs ana="#concept_phy">akustischen Bestimmungen</rs> würde ein <rs ana="#concept_mus">erhöhter</rs>, für den ihm nächst<pc>¬</pc>
 				<lb facs="#facs_66_r1l4" n="N003"/>liegenden <rs ana="#concept_mus">erniedrigten</rs> durch <rs ana="#concept_mus">enharmonische Verwechselung</rs> eintretender <rs ana="#m_note">Ton</rs> tiefer, als dieser

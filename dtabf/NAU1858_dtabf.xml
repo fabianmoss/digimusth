@@ -130,6 +130,16 @@
 	</teiHeader>
    <text>
    	<front>
+   		<pb facs="#f0001"/>
+   		<pb facs="#f0002"/>
+   		<pb facs="#f0003"/>
+   		<pb facs="#f0004"/>
+   		<pb facs="#f0005"/>
+   		<pb facs="#f0006"/>
+   		<pb facs="#f0007"/>
+   		<pb facs="#f0008"/>
+   		<pb facs="#f0009"/>
+   		<pb facs="#f0010"/>
    	 <titlePage type="main">
 				<docTitle>
            	     <titlePart type="main"><lb n="N001"/>ÜBER DIE VERSCHIEDENEN
@@ -168,9 +178,7 @@
 				Ueber das Verhältniss des pythagoreischen Systemes zu den Grundsätzen
 				der musikalischen Theorie.
 			</item></list></div>
-   	  <pb facs="#f0008"/>
-         <pb facs="#f0009"/>
-         <pb facs="#f0010"/>
+   	 
    		
          <pb facs="#f0011"/>
          <pb facs="#f0012"/>
@@ -1080,6 +1088,7 @@
 				<lb n="N012"/>Orthographie dienen, und man könne sich an ihr die Natur der feineren enharmonischen Ueber¬
 				<lb n="N013"/>gänge deutlicher versinnlichen, als an der enharmonischen Tonleiter. Die Intervalle und die
 				<lb n="N014"/>ihnen entsprechenden Töne sind nämlich in dieser Temperatur folgende:
+            	<pb facs="#f0046" n="31"/>
             	<pb facs="#f0047" n="32"/>
             	<lb n="N001"/>einfachen, von einander unabhängigen Fundamentalbestimmungen der gesammten Harmonik
 				<lb n="N002"/>anerkennt, einzig würdige Verfahren, den aus solcher Annahme sich ergebenden mehrfachen
@@ -1319,6 +1328,7 @@
 				<lb n="N015"/>seitig und zwar kreuzweise aufhebe. Analoges würde auch für die untere 3<hi rendition="#sup">te</hi> Quinte, die kl. III,
 				<lb n="N016"/><hi rendition="#i">Es</hi> stattfinden.
 			</p>
+         <pb facs="#f0055" n="40"/>
          <pb facs="#f0056" n="41"/>
             <p>
 				<lb n="N001"/>aber weiterhin (von der VI♯ und III♭ an) keine solche mit beiden consonirende Zwischenquinten
@@ -1641,6 +1651,7 @@
 				<lb n="N029"/>nischen Fortganges von Seiten der Ausführenden oft in hohem Grade erfordert wird, ist gewiss,
 				<lb n="N030"/>daher wir auch Stellen, wie folgende, nicht immer in vollkommen befriedigender Reinheit vor¬
             	<figure type="notatedMusic"/>
+            	<pb facs="#f0065" n="50"/>
          	   <pb facs="#f0066" n="51"/>
             	<lb n="N001"/>tauscht, und es fragt sich nun, welcher Art in beiden Fällen die Aenderung der Tonhöhe ist.
 				<lb n="N002"/>Nach den bisher geltenden akustischen Bestimmungen würde ein erhöhter, für den ihm nächst¬
