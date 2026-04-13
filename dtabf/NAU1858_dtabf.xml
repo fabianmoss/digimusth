@@ -93,6 +93,9 @@
 					<idno type="DTADirName">naumann_tonverhältnisse_1858</idno>
 				</idno>
 			</publicationStmt>
+			<notesStmt>
+				<p>Die Transkriptionen zu den Seiten #f0046, #f0055 und #f0065 fehlen.</p>
+			</notesStmt>
 			<sourceDesc>
 				<bibl type="M">Naumann, Carl Ernst: Über die verschiedenen Bestimmungen der Tonverhältnisse und die Bedeutung des pythagoreischen oder reinen Quinten-Systems für unsere heutige Musik. Leipzig, 1858.</bibl>
 				<biblFull>
